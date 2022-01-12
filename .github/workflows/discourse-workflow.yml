@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DISCOURSE-LLVM"
-          feed_list: "https://llvm.discourse.group/latest/posts.rss"
+          feed_list: "https://llvm.discourse.group/posts.rss"
