@@ -1,0 +1,17 @@
+name: Latest discourse post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest discourse posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DISCOURSE-LLVM"
+          feed_list: "https://llvm.discourse.group/latest/rss"
