@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Loop Opt WG Meeting on Jan 12, 2021](https://llvm.discourse.group/t/loop-opt-wg-meeting-on-jan-12-2021/5382/1)
-- [LLVM Blog: https://blog.llvm.org/posts/2022-01-07-moving-to-discourse/](https://llvm.discourse.group/t/llvm-blog-https-blog-llvm-org-posts-2022-01-07-moving-to-discourse/5163/4)
+- [Where should I stick these passes?](https://llvm.discourse.group/t/where-should-i-stick-these-passes/5403/2)
+- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/4)
+- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/3)
+- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/2)
+- [LLVM llvm::Target::createTargetMachine&lpar;&rpar; errors with &quot;Invalid architecture value&quot;](https://llvm.discourse.group/t/llvm-llvm-createtargetmachine-errors-with-invalid-architecture-value/5286/16)
 <!-- DISCOURSE-LLVM:END -->
