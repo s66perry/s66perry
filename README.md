@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 13.0.1-rc2 has been tagged plus changes to the upload process](https://llvm.discourse.group/t/llvm-13-0-1-rc2-has-been-tagged-plus-changes-to-the-upload-process/5551/1)
-- [Issue using MLIR for tensorrt!](https://llvm.discourse.group/t/issue-using-mlir-for-tensorrt/5331/2)
+- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/8)
+- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/7)
+- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/6)
+- [LLVM 13.0.1-rc2 has been tagged plus changes to the upload process](https://llvm.discourse.group/t/llvm-13-0-1-rc2-has-been-tagged-plus-changes-to-the-upload-process/5551/3)
+- [Make Clang-Format give detailed error when there is a format problem](https://llvm.discourse.group/t/make-clang-format-give-detailed-error-when-there-is-a-format-problem/5124/2)
 <!-- DISCOURSE-LLVM:END -->
