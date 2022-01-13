@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Suggestion: Pinned topic in Beginners section with links to docs, the langref, etc?](https://llvm.discourse.group/t/suggestion-pinned-topic-in-beginners-section-with-links-to-docs-the-langref-etc/5358/5)
 - [Can we get &#39;tagging&#39; enabled?](https://llvm.discourse.group/t/can-we-get-tagging-enabled/5296/3)
 - [Suggestion: Pinned topic in Beginners section with links to docs, the langref, etc?](https://llvm.discourse.group/t/suggestion-pinned-topic-in-beginners-section-with-links-to-docs-the-langref-etc/5358/4)
 - [Suggestion: Pinned topic in Beginners section with links to docs, the langref, etc?](https://llvm.discourse.group/t/suggestion-pinned-topic-in-beginners-section-with-links-to-docs-the-langref-etc/5358/3)
 - [About the BOLT category](https://llvm.discourse.group/t/about-the-bolt-category/5635/1)
-- [[RFC] Extend Linalg for arbitrary element types](https://llvm.discourse.group/t/rfc-extend-linalg-for-arbitrary-element-types/5631/2)
 <!-- DISCOURSE-LLVM:END -->
