@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issue Template Display on GitHub](https://llvm.discourse.group/t/issue-template-display-on-github/5579/2)
-- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/12)
-- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/11)
-- [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/10)
-- [Linalg.generic for full BLAS matmul expression](https://llvm.discourse.group/t/linalg-generic-for-full-blas-matmul-expression/5603/9)
+- [What to do with flag_unparsed_files?](https://llvm.discourse.group/t/what-to-do-with-flag-unparsed-files/4431/2)
+- [Joining the CIRCT Discord channel?](https://llvm.discourse.group/t/joining-the-circt-discord-channel/5628/3)
+- [LLVM 13.0.1-rc2 has been tagged plus changes to the upload process](https://llvm.discourse.group/t/llvm-13-0-1-rc2-has-been-tagged-plus-changes-to-the-upload-process/5551/6)
+- [Joining the CIRCT Discord channel?](https://llvm.discourse.group/t/joining-the-circt-discord-channel/5628/2)
+- [Joining the CIRCT Discord channel?](https://llvm.discourse.group/t/joining-the-circt-discord-channel/5628/1)
 <!-- DISCOURSE-LLVM:END -->
