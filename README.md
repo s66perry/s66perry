@@ -11,8 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Linalg.generic for full BLAS matmul expression](https://llvm.discourse.group/t/linalg-generic-for-full-blas-matmul-expression/5603/2)
+- [Linalg.generic for full BLAS matmul expression](https://llvm.discourse.group/t/linalg-generic-for-full-blas-matmul-expression/5603/1)
 - [Make Clang-Format give detailed error when there is a format problem](https://llvm.discourse.group/t/make-clang-format-give-detailed-error-when-there-is-a-format-problem/5124/4)
 - [Make Clang-Format give detailed error when there is a format problem](https://llvm.discourse.group/t/make-clang-format-give-detailed-error-when-there-is-a-format-problem/5124/3)
 - [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/9)
-- [Issue Template Display on GitHub](https://llvm.discourse.group/t/issue-template-display-on-github/5579/1)
 <!-- DISCOURSE-LLVM:END -->
