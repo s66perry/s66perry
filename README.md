@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://llvm.discourse.group/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/2)
+- [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://llvm.discourse.group/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/1)
+- [Identify if an instruction is in a nested loop](https://llvm.discourse.group/t/identify-if-an-instruction-is-in-a-nested-loop/5642/1)
 - [Suggestion: Pinned topic in Beginners section with links to docs, the langref, etc?](https://llvm.discourse.group/t/suggestion-pinned-topic-in-beginners-section-with-links-to-docs-the-langref-etc/5358/5)
 - [Can we get &#39;tagging&#39; enabled?](https://llvm.discourse.group/t/can-we-get-tagging-enabled/5296/3)
-- [Suggestion: Pinned topic in Beginners section with links to docs, the langref, etc?](https://llvm.discourse.group/t/suggestion-pinned-topic-in-beginners-section-with-links-to-docs-the-langref-etc/5358/4)
-- [Suggestion: Pinned topic in Beginners section with links to docs, the langref, etc?](https://llvm.discourse.group/t/suggestion-pinned-topic-in-beginners-section-with-links-to-docs-the-langref-etc/5358/3)
-- [About the BOLT category](https://llvm.discourse.group/t/about-the-bolt-category/5635/1)
 <!-- DISCOURSE-LLVM:END -->
