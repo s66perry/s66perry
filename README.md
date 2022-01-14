@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Interest in Fast Presburger Library &lpar;FPL&rpar;](https://llvm.discourse.group/t/interest-in-fast-presburger-library-fpl/5606/3)
+- [A question about linalg.generic&#39;s input/output buffers&#39; aliasing](https://llvm.discourse.group/t/a-question-about-linalg-generics-input-output-buffers-aliasing/5655/1)
 - [Backend development for unusual target](https://llvm.discourse.group/t/backend-development-for-unusual-target/5646/1)
 - [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://llvm.discourse.group/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/3)
 - [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://llvm.discourse.group/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/2)
-- [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://llvm.discourse.group/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/1)
-- [Identify if an instruction is in a nested loop](https://llvm.discourse.group/t/identify-if-an-instruction-is-in-a-nested-loop/5642/1)
 <!-- DISCOURSE-LLVM:END -->
