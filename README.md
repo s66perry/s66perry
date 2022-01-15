@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dealing with linker errors: ld: symbol&lpar;s&rpar; not found for architecture arm64](https://llvm.discourse.group/t/dealing-with-linker-errors-ld-symbol-s-not-found-for-architecture-arm64/5688/2)
 - [Clang-tidy ignore system headers in macOS](https://llvm.discourse.group/t/clang-tidy-ignore-system-headers-in-macos/5709/4)
 - [GitHub Labels: Platforms](https://llvm.discourse.group/t/github-labels-platforms/5700/2)
 - [Clang-tidy ignore system headers in macOS](https://llvm.discourse.group/t/clang-tidy-ignore-system-headers-in-macos/5709/3)
 - [Clang-tidy ignore system headers in macOS](https://llvm.discourse.group/t/clang-tidy-ignore-system-headers-in-macos/5709/2)
-- [LLVM 13.0.1-rc2 has been tagged plus changes to the upload process](https://llvm.discourse.group/t/llvm-13-0-1-rc2-has-been-tagged-plus-changes-to-the-upload-process/5551/13)
 <!-- DISCOURSE-LLVM:END -->
