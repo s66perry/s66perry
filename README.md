@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Proposal: A new category for GPU/Offloading](https://llvm.discourse.group/t/proposal-a-new-category-for-gpu-offloading/5762/1)
+- [[RFC] LLVM IR should allow bitcast between address spaces with the same size](https://llvm.discourse.group/t/rfc-llvm-ir-should-allow-bitcast-between-address-spaces-with-the-same-size/5759/1)
+- [LLVM Weekly - #420, January 17th 2022](https://llvm.discourse.group/t/llvm-weekly-420-january-17th-2022/5757/1)
+- [How should I package debug info for clang/clang tool efficiently?](https://llvm.discourse.group/t/how-should-i-package-debug-info-for-clang-clang-tool-efficiently/5741/3)
 - [How should I package debug info for clang/clang tool efficiently?](https://llvm.discourse.group/t/how-should-i-package-debug-info-for-clang-clang-tool-efficiently/5741/2)
-- [A question about linalg.generic&#39;s input/output buffers&#39; aliasing](https://llvm.discourse.group/t/a-question-about-linalg-generics-input-output-buffers-aliasing/5655/6)
-- [Error when using a permutation_map in vector.transfer_write](https://llvm.discourse.group/t/error-when-using-a-permutation-map-in-vector-transfer-write/5665/4)
-- [Error when using a permutation_map in vector.transfer_write](https://llvm.discourse.group/t/error-when-using-a-permutation-map-in-vector-transfer-write/5665/3)
-- [Why does march=native not work on Apple M1?](https://llvm.discourse.group/t/why-does-march-native-not-work-on-apple-m1/2733/2)
 <!-- DISCOURSE-LLVM:END -->
