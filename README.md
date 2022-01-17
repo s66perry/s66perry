@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-format config file](https://llvm.discourse.group/t/clang-format-config-file/5728/3)
-- [How to extend LLVM Intrinsic](https://llvm.discourse.group/t/how-to-extend-llvm-intrinsic/5738/1)
-- [[RFC] Elide Type/Attribute prefixes when using Declarative Assembly](https://llvm.discourse.group/t/rfc-elide-type-attribute-prefixes-when-using-declarative-assembly/4759/25)
-- [How to link llvm components, e.g. to use SmallVector?](https://llvm.discourse.group/t/how-to-link-llvm-components-e-g-to-use-smallvector/5733/5)
-- [How to link llvm components, e.g. to use SmallVector?](https://llvm.discourse.group/t/how-to-link-llvm-components-e-g-to-use-smallvector/5733/4)
+- [Clang-format config file](https://llvm.discourse.group/t/clang-format-config-file/5728/8)
+- [How should I package debug info for clang/clang tool efficiently?](https://llvm.discourse.group/t/how-should-i-package-debug-info-for-clang-clang-tool-efficiently/5741/1)
+- [Clang-format config file](https://llvm.discourse.group/t/clang-format-config-file/5728/7)
+- [How to enable InMemoryModule cache?](https://llvm.discourse.group/t/how-to-enable-inmemorymodule-cache/5740/1)
+- [Open MLIR Meeting 1/13/2021: One-Shot Function Bufferization of Tensor Programs](https://llvm.discourse.group/t/open-mlir-meeting-1-13-2021-one-shot-function-bufferization-of-tensor-programs/5197/4)
 <!-- DISCOURSE-LLVM:END -->
