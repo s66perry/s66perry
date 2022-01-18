@@ -15,5 +15,4 @@ You can click the Preview link to take a look at your changes.
 - [[RFC] Move linalg::PadTensorOp to tensor::PadOp](https://llvm.discourse.group/t/rfc-move-linalg-padtensorop-to-tensor-padop/5785/1)
 - [How should I package debug info for clang/clang tool efficiently?](https://llvm.discourse.group/t/how-should-i-package-debug-info-for-clang-clang-tool-efficiently/5741/4)
 - [Low res logo on discourse](https://llvm.discourse.group/t/low-res-logo-on-discourse/5371/13)
-- [About applyPatternsAndFoldGreedily](https://llvm.discourse.group/t/about-applypatternsandfoldgreedily/5777/1)
 <!-- DISCOURSE-LLVM:END -->
