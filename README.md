@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can we get &#39;tagging&#39; enabled?](https://llvm.discourse.group/t/can-we-get-tagging-enabled/5296/5)
+- [Can we get &#39;tagging&#39; enabled?](https://llvm.discourse.group/t/can-we-get-tagging-enabled/5296/4)
 - [Proposal: A new category for GPU/Offloading](https://llvm.discourse.group/t/proposal-a-new-category-for-gpu-offloading/5762/2)
 - [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/60)
 - [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/59)
-- [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/58)
-- [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/57)
 <!-- DISCOURSE-LLVM:END -->
