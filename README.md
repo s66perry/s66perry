@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [About applyPatternsAndFoldGreedily](https://llvm.discourse.group/t/about-applypatternsandfoldgreedily/5777/1)
+- [Identify if an instruction is in a nested loop](https://llvm.discourse.group/t/identify-if-an-instruction-is-in-a-nested-loop/5642/2)
 - [Use a plugin &lpar;obfuscator llvm&rpar;](https://llvm.discourse.group/t/use-a-plugin-obfuscator-llvm/5775/1)
 - [Clang-format: RemoveBracesLLVM](https://llvm.discourse.group/t/clang-format-removebracesllvm/5771/1)
 - [Clang-tidy compiler fail on objective-C++ project](https://llvm.discourse.group/t/clang-tidy-compiler-fail-on-objective-c-project/5727/2)
-- [Proposal: A new category for GPU/Offloading](https://llvm.discourse.group/t/proposal-a-new-category-for-gpu-offloading/5762/1)
-- [[RFC] LLVM IR should allow bitcast between address spaces with the same size](https://llvm.discourse.group/t/rfc-llvm-ir-should-allow-bitcast-between-address-spaces-with-the-same-size/5759/1)
 <!-- DISCOURSE-LLVM:END -->
