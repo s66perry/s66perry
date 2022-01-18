@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Proposal: A new category for GPU/Offloading](https://llvm.discourse.group/t/proposal-a-new-category-for-gpu-offloading/5762/2)
 - [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/60)
 - [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/59)
 - [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/58)
 - [Sparse Tensors in MLIR](https://llvm.discourse.group/t/sparse-tensors-in-mlir/3389/57)
-- [Extending the modulemap format with conditional declarations](https://llvm.discourse.group/t/extending-the-modulemap-format-with-conditional-declarations/5518/4)
 <!-- DISCOURSE-LLVM:END -->
