@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [.arm doesn&#39;t align code sections by 4 bytes](https://llvm.discourse.group/t/arm-doesnt-align-code-sections-by-4-bytes/5830/1)
+- [About applyPatternsAndFoldGreedily](https://llvm.discourse.group/t/about-applypatternsandfoldgreedily/5777/5)
 - [Clang-tidy checking concrete files by the chosen filter - idea](https://llvm.discourse.group/t/clang-tidy-checking-concrete-files-by-the-chosen-filter-idea/5823/1)
 - [C++ year_month_day : prevent spaces after &#39;/&#39; date separator](https://llvm.discourse.group/t/c-year-month-day-prevent-spaces-after-date-separator/5211/2)
 - [Segfault in libunwind during CPU profiling](https://llvm.discourse.group/t/segfault-in-libunwind-during-cpu-profiling/5806/2)
-- [Using UnitAttr in op builder](https://llvm.discourse.group/t/using-unitattr-in-op-builder/5820/1)
-- [Passing arguments to new passes](https://llvm.discourse.group/t/passing-arguments-to-new-passes/5799/3)
 <!-- DISCOURSE-LLVM:END -->
