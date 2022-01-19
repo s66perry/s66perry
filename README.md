@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can we get &#39;tagging&#39; enabled?](https://llvm.discourse.group/t/can-we-get-tagging-enabled/5296/11)
+- [Fusing affine loop vectorization with unrolled function calls?](https://llvm.discourse.group/t/fusing-affine-loop-vectorization-with-unrolled-function-calls/5810/1)
+- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/1)
+- [FunctionPass deprecated in favor of OperationPass&lt;FuncOp&gt;](https://llvm.discourse.group/t/functionpass-deprecated-in-favor-of-operationpass-funcop/5808/1)
 - [How to run individual phases of a 2 or 3-stage build?](https://llvm.discourse.group/t/how-to-run-individual-phases-of-a-2-or-3-stage-build/2596/3)
-- [About applyPatternsAndFoldGreedily](https://llvm.discourse.group/t/about-applypatternsandfoldgreedily/5777/4)
-- [Passing arguments to new passes](https://llvm.discourse.group/t/passing-arguments-to-new-passes/5799/2)
-- [About applyPatternsAndFoldGreedily](https://llvm.discourse.group/t/about-applypatternsandfoldgreedily/5777/3)
-- [About applyPatternsAndFoldGreedily](https://llvm.discourse.group/t/about-applypatternsandfoldgreedily/5777/2)
 <!-- DISCOURSE-LLVM:END -->
