@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-format: RemoveBracesLLVM](https://llvm.discourse.group/t/clang-format-removebracesllvm/5771/3)
+- [Upstreaming process and synced files](https://llvm.discourse.group/t/upstreaming-process-and-synced-files/5854/1)
+- [Custom RISC-V processor can be selected via `-mcpu` in `llc` but not in `clang`](https://llvm.discourse.group/t/custom-risc-v-processor-can-be-selected-via-mcpu-in-llc-but-not-in-clang/5849/2)
 - [Request for CLang-Format Customizing](https://llvm.discourse.group/t/request-for-clang-format-customizing/4119/2)
 - [Clang-format: RemoveBracesLLVM](https://llvm.discourse.group/t/clang-format-removebracesllvm/5771/2)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/4)
-- [&quot;good first issue&quot; vs &quot;beginner&quot;](https://llvm.discourse.group/t/good-first-issue-vs-beginner/5850/1)
-- [Custom RISC-V processor can be selected via `-mcpu` in `llc` but not in `clang`](https://llvm.discourse.group/t/custom-risc-v-processor-can-be-selected-via-mcpu-in-llc-but-not-in-clang/5849/1)
 <!-- DISCOURSE-LLVM:END -->
