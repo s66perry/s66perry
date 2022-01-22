@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] IR Versioning](https://llvm.discourse.group/t/rfc-ir-versioning/5893/9)
+- [[RFC] IR Versioning](https://llvm.discourse.group/t/rfc-ir-versioning/5893/8)
 - [[RFC] IR Versioning](https://llvm.discourse.group/t/rfc-ir-versioning/5893/7)
 - [TableGen “front-end dialect” &lpar;mentor: Jacques Pienaar&rpar;](https://llvm.discourse.group/t/tablegen-front-end-dialect-mentor-jacques-pienaar/5916/3)
 - [[RFC] IR Versioning](https://llvm.discourse.group/t/rfc-ir-versioning/5893/6)
-- [TableGen “front-end dialect” &lpar;mentor: Jacques Pienaar&rpar;](https://llvm.discourse.group/t/tablegen-front-end-dialect-mentor-jacques-pienaar/5916/2)
-- [Blessing llvm-vs-code-extensions with a blue checkmark](https://llvm.discourse.group/t/blessing-llvm-vs-code-extensions-with-a-blue-checkmark/5919/1)
 <!-- DISCOURSE-LLVM:END -->
