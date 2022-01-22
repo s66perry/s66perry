@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reverse-Mode AD of Object-Oriented CFD Code w Enzyme](https://llvm.discourse.group/t/reverse-mode-ad-of-object-oriented-cfd-code-w-enzyme/5097/5)
 - [Problems while following the Kaleidoscope JIT Tutorial](https://llvm.discourse.group/t/problems-while-following-the-kaleidoscope-jit-tutorial/5909/1)
 - [Debian/Ubuntu packages doesn&#39;t have 10/11](https://llvm.discourse.group/t/debian-ubuntu-packages-doesnt-have-10-11/584/2)
 - [Adding comments to declarative assembly format](https://llvm.discourse.group/t/adding-comments-to-declarative-assembly-format/5906/6)
 - [New PassManager: PassPluginLibraryInfo How can I capture my variable or modify which and wether passes shall be added based on variables?](https://llvm.discourse.group/t/new-passmanager-passpluginlibraryinfo-how-can-i-capture-my-variable-or-modify-which-and-wether-passes-shall-be-added-based-on-variables/5897/5)
-- [Adding comments to declarative assembly format](https://llvm.discourse.group/t/adding-comments-to-declarative-assembly-format/5906/5)
 <!-- DISCOURSE-LLVM:END -->
