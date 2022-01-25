@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/11)
+- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/10)
+- [[RFC] IR Versioning](https://llvm.discourse.group/t/rfc-ir-versioning/5893/11)
+- [Implementing address register classes](https://llvm.discourse.group/t/implementing-address-register-classes/5945/3)
 - [Quantum Computing Startup, Multiple Roles](https://llvm.discourse.group/t/quantum-computing-startup-multiple-roles/5978/2)
-- [[RFC] IR Versioning](https://llvm.discourse.group/t/rfc-ir-versioning/5893/10)
-- [Optimization of undef](https://llvm.discourse.group/t/optimization-of-undef/5979/1)
-- [Quantum Computing Startup, Multiple Roles](https://llvm.discourse.group/t/quantum-computing-startup-multiple-roles/5978/1)
-- [NVPTX: Calling convention for aggregate arguments passed by value](https://llvm.discourse.group/t/nvptx-calling-convention-for-aggregate-arguments-passed-by-value/5881/14)
 <!-- DISCOURSE-LLVM:END -->
