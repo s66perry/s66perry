@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Blessing llvm-vs-code-extensions with a blue checkmark](https://llvm.discourse.group/t/blessing-llvm-vs-code-extensions-with-a-blue-checkmark/5919/7)
+- [TableGen “front-end dialect” &lpar;mentor: Jacques Pienaar&rpar;](https://llvm.discourse.group/t/tablegen-front-end-dialect-mentor-jacques-pienaar/5916/4)
+- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/12)
+- [DWARF forward template parameters + type units](https://llvm.discourse.group/t/dwarf-forward-template-parameters-type-units/5941/2)
 - [Llvm-dwp utility on windows](https://llvm.discourse.group/t/llvm-dwp-utility-on-windows/5866/7)
-- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/16)
-- [PB.registerPipeline ParsingCallback only works for ModulePassManager &lpar;if FunctionPassManager is registered as well&rpar;](https://llvm.discourse.group/t/pb-registerpipeline-parsingcallback-only-works-for-modulepassmanager-if-functionpassmanager-is-registered-as-well/5969/2)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/11)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/10)
 <!-- DISCOURSE-LLVM:END -->
