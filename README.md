@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Cross-compilation of MLIR runner libraries to ARM on X86 host](https://llvm.discourse.group/t/cross-compilation-of-mlir-runner-libraries-to-arm-on-x86-host/5939/9)
-- [[RFC] LLVM IR should allow bitcast between address spaces with the same size](https://llvm.discourse.group/t/rfc-llvm-ir-should-allow-bitcast-between-address-spaces-with-the-same-size/5759/17)
-- [LLD vs LD section type: PROGBITS vs NOBITS](https://llvm.discourse.group/t/lld-vs-ld-section-type-progbits-vs-nobits/5999/3)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/15)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/14)
+- [Cross-compilation of MLIR runner libraries to ARM on X86 host](https://llvm.discourse.group/t/cross-compilation-of-mlir-runner-libraries-to-arm-on-x86-host/5939/10)
+- [[RFC] LLVM IR should allow bitcast between address spaces with the same size](https://llvm.discourse.group/t/rfc-llvm-ir-should-allow-bitcast-between-address-spaces-with-the-same-size/5759/19)
+- [Swift Dynamic Type ID Generation](https://llvm.discourse.group/t/swift-dynamic-type-id-generation/6006/1)
+- [[RFC] LLVM IR should allow bitcast between address spaces with the same size](https://llvm.discourse.group/t/rfc-llvm-ir-should-allow-bitcast-between-address-spaces-with-the-same-size/5759/18)
+- [TableGen “front-end dialect” &lpar;mentor: Jacques Pienaar&rpar;](https://llvm.discourse.group/t/tablegen-front-end-dialect-mentor-jacques-pienaar/5916/5)
 <!-- DISCOURSE-LLVM:END -->
