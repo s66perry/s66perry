@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Blessing llvm-vs-code-extensions with a blue checkmark](https://llvm.discourse.group/t/blessing-llvm-vs-code-extensions-with-a-blue-checkmark/5919/7)
-- [TableGen “front-end dialect” &lpar;mentor: Jacques Pienaar&rpar;](https://llvm.discourse.group/t/tablegen-front-end-dialect-mentor-jacques-pienaar/5916/4)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/12)
-- [DWARF forward template parameters + type units](https://llvm.discourse.group/t/dwarf-forward-template-parameters-type-units/5941/2)
-- [Llvm-dwp utility on windows](https://llvm.discourse.group/t/llvm-dwp-utility-on-windows/5866/7)
+- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/14)
+- [Blessing llvm-vs-code-extensions with a blue checkmark](https://llvm.discourse.group/t/blessing-llvm-vs-code-extensions-with-a-blue-checkmark/5919/8)
+- [LLD vs LD section type: PROGBITS vs NOBITS](https://llvm.discourse.group/t/lld-vs-ld-section-type-progbits-vs-nobits/5999/2)
+- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/19)
+- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/18)
 <!-- DISCOURSE-LLVM:END -->
