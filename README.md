@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/9)
-- [Evolution of undef and poison over time](https://llvm.discourse.group/t/evolution-of-undef-and-poison-over-time/5917/10)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/9)
-- [Change ptx version for PTX target](https://llvm.discourse.group/t/change-ptx-version-for-ptx-target/5935/2)
-- [PB.registerPipeline ParsingCallback only works for ModulePassManager &lpar;if FunctionPassManager is registered as well&rpar;](https://llvm.discourse.group/t/pb-registerpipeline-parsingcallback-only-works-for-modulepassmanager-if-functionpassmanager-is-registered-as-well/5969/1)
+- [Quantum Computing Startup, Multiple Roles](https://llvm.discourse.group/t/quantum-computing-startup-multiple-roles/5978/2)
+- [[RFC] IR Versioning](https://llvm.discourse.group/t/rfc-ir-versioning/5893/10)
+- [Optimization of undef](https://llvm.discourse.group/t/optimization-of-undef/5979/1)
+- [Quantum Computing Startup, Multiple Roles](https://llvm.discourse.group/t/quantum-computing-startup-multiple-roles/5978/1)
+- [NVPTX: Calling convention for aggregate arguments passed by value](https://llvm.discourse.group/t/nvptx-calling-convention-for-aggregate-arguments-passed-by-value/5881/14)
 <!-- DISCOURSE-LLVM:END -->
