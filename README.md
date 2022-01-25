@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PB.registerPipeline ParsingCallback only works for ModulePassManager &lpar;if FunctionPassManager is registered as well&rpar;](https://llvm.discourse.group/t/pb-registerpipeline-parsingcallback-only-works-for-modulepassmanager-if-functionpassmanager-is-registered-as-well/5969/2)
+- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/11)
+- [GitHub Milestone/Project for C++20 implementation in clang](https://llvm.discourse.group/t/github-milestone-project-for-c-20-implementation-in-clang/5809/10)
+- [[RFC] Add `memref.generate` and `memref.from_elements`](https://llvm.discourse.group/t/rfc-add-memref-generate-and-memref-from-elements/5947/6)
 - [LLD vs LD section type: PROGBITS vs NOBITS](https://llvm.discourse.group/t/lld-vs-ld-section-type-progbits-vs-nobits/5999/1)
-- [Physical subregister liveness](https://llvm.discourse.group/t/physical-subregister-liveness/5994/1)
-- [Blessing llvm-vs-code-extensions with a blue checkmark](https://llvm.discourse.group/t/blessing-llvm-vs-code-extensions-with-a-blue-checkmark/5919/6)
-- [Blessing llvm-vs-code-extensions with a blue checkmark](https://llvm.discourse.group/t/blessing-llvm-vs-code-extensions-with-a-blue-checkmark/5919/5)
-- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/15)
 <!-- DISCOURSE-LLVM:END -->
