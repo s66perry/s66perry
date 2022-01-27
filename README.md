@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Discourse as mailing list replacement, some questions](https://llvm.discourse.group/t/discourse-as-mailing-list-replacement-some-questions/3713/9)
-- [Gdb &lt; 10.1 can&#39;t read clang&#39;s DWARF v5](https://llvm.discourse.group/t/gdb-10-1-cant-read-clangs-dwarf-v5/6035/11)
-- [Discourse as mailing list replacement, some questions](https://llvm.discourse.group/t/discourse-as-mailing-list-replacement-some-questions/3713/8)
-- [[TEST] Testing if I can start a thread via email](https://llvm.discourse.group/t/test-testing-if-i-can-start-a-thread-via-email/6065/2)
-- [[TEST] Testing if I can start a thread via email](https://llvm.discourse.group/t/test-testing-if-i-can-start-a-thread-via-email/6065/1)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/13)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/12)
+- [What is the clang cmdline equivalent to opts &#39;-passes&#39;?](https://llvm.discourse.group/t/what-is-the-clang-cmdline-equivalent-to-opts-passes/6055/2)
+- [Proper way of using memcpy to the instrumented malloc space &lpar;.ll IR code provided&rpar;](https://llvm.discourse.group/t/proper-way-of-using-memcpy-to-the-instrumented-malloc-space-ll-ir-code-provided/6058/2)
+- [Implementing code coverage for custom programming language](https://llvm.discourse.group/t/implementing-code-coverage-for-custom-programming-language/6054/3)
 <!-- DISCOURSE-LLVM:END -->
