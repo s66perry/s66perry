@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Segfault in libunwind during CPU profiling](https://llvm.discourse.group/t/segfault-in-libunwind-during-cpu-profiling/5806/4)
+- [Extending the modulemap format with conditional declarations](https://llvm.discourse.group/t/extending-the-modulemap-format-with-conditional-declarations/5518/5)
+- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/15)
 - [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/15)
 - [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/14)
-- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/13)
-- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/12)
-- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/11)
 <!-- DISCOURSE-LLVM:END -->
