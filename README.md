@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/2)
-- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/1)
-- [Exception handling in MLIR](https://llvm.discourse.group/t/exception-handling-in-mlir/6011/8)
-- [Segfault in libunwind during CPU profiling](https://llvm.discourse.group/t/segfault-in-libunwind-during-cpu-profiling/5806/5)
-- [Segfault in libunwind during CPU profiling](https://llvm.discourse.group/t/segfault-in-libunwind-during-cpu-profiling/5806/4)
+- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/16)
+- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/9)
+- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/8)
+- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/7)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/16)
 <!-- DISCOURSE-LLVM:END -->
