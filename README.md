@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] cmov-vs-branch optimization](https://llvm.discourse.group/t/rfc-cmov-vs-branch-optimization/6040/3)
-- [Keeping LLVM Clang-Format Clean](https://llvm.discourse.group/t/keeping-llvm-clang-format-clean/6078/4)
-- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/25)
-- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/24)
-- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/23)
+- [[RFC] Privatisation in OpenMP dialect](https://llvm.discourse.group/t/rfc-privatisation-in-openmp-dialect/3526/19)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/26)
+- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/11)
+- [Blessing llvm-vs-code-extensions with a blue checkmark](https://llvm.discourse.group/t/blessing-llvm-vs-code-extensions-with-a-blue-checkmark/5919/13)
+- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/10)
 <!-- DISCOURSE-LLVM:END -->
