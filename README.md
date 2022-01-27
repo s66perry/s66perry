@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR benchmarks](https://llvm.discourse.group/t/mlir-benchmarks/4945/27)
-- [Implementing code coverage for custom programming language](https://llvm.discourse.group/t/implementing-code-coverage-for-custom-programming-language/6054/7)
-- [Implementing code coverage for custom programming language](https://llvm.discourse.group/t/implementing-code-coverage-for-custom-programming-language/6054/6)
-- [Does TSA support recursive/re-entrant mutexes](https://llvm.discourse.group/t/does-tsa-support-recursive-re-entrant-mutexes/4831/2)
-- [Keeping LLVM Clang-Format Clean](https://llvm.discourse.group/t/keeping-llvm-clang-format-clean/6078/5)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/34)
+- [Why does Clang generate duplicated bitcode for the constructor of a virtual inheritance class?](https://llvm.discourse.group/t/why-does-clang-generate-duplicated-bitcode-for-the-constructor-of-a-virtual-inheritance-class/2282/4)
+- [MLIR benchmarks](https://llvm.discourse.group/t/mlir-benchmarks/4945/29)
+- [MLIR benchmarks](https://llvm.discourse.group/t/mlir-benchmarks/4945/28)
+- [[RFC] cmov-vs-branch optimization](https://llvm.discourse.group/t/rfc-cmov-vs-branch-optimization/6040/5)
 <!-- DISCOURSE-LLVM:END -->
