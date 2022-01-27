@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://llvm.discourse.group/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631/13)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/19)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/18)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/17)
 - [About if conversion pass &lpar;simplifycfg&rpar;](https://llvm.discourse.group/t/about-if-conversion-pass-simplifycfg/6084/1)
-- [Std::make_unique&lt;&gt; and TargetOpcode](https://llvm.discourse.group/t/std-make-unique-and-targetopcode/5883/4)
-- [Error while compiling c++ program for riscv target on llvm](https://llvm.discourse.group/t/error-while-compiling-c-program-for-riscv-target-on-llvm/6083/1)
-- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/21)
-- [Implementing code coverage for custom programming language](https://llvm.discourse.group/t/implementing-code-coverage-for-custom-programming-language/6054/4)
 <!-- DISCOURSE-LLVM:END -->
