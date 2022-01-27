@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/16)
-- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/9)
-- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/8)
-- [Check-mlir times: `Examples/standalone` testing time](https://llvm.discourse.group/t/check-mlir-times-examples-standalone-testing-time/6073/7)
-- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/16)
+- [Include what you use / include cleanup](https://llvm.discourse.group/t/include-what-you-use-include-cleanup/5831/20)
+- [Printed register names in .mlir](https://llvm.discourse.group/t/printed-register-names-in-mlir/6076/2)
+- [Open MLIR Meeting 8/26/2021: High performance code generation for GPU tensor cores](https://llvm.discourse.group/t/open-mlir-meeting-8-26-2021-high-performance-code-generation-for-gpu-tensor-cores/4173/8)
+- [Printed register names in .mlir](https://llvm.discourse.group/t/printed-register-names-in-mlir/6076/1)
+- [[RFC] Privatisation in OpenMP dialect](https://llvm.discourse.group/t/rfc-privatisation-in-openmp-dialect/3526/18)
 <!-- DISCOURSE-LLVM:END -->
