@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Gdb &lt; 10.1 can&#39;t read clang&#39;s DWARF v5](https://llvm.discourse.group/t/gdb-10-1-cant-read-clangs-dwarf-v5/6035/9)
-- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/5)
-- [Discourse as mailing list replacement, some questions](https://llvm.discourse.group/t/discourse-as-mailing-list-replacement-some-questions/3713/5)
-- [Standard Dialect: The Final Chapter](https://llvm.discourse.group/t/standard-dialect-the-final-chapter/6061/4)
-- [Gdb &lt; 10.1 can&#39;t read clang&#39;s DWARF v5](https://llvm.discourse.group/t/gdb-10-1-cant-read-clangs-dwarf-v5/6035/8)
+- [Discourse as mailing list replacement, some questions](https://llvm.discourse.group/t/discourse-as-mailing-list-replacement-some-questions/3713/9)
+- [Gdb &lt; 10.1 can&#39;t read clang&#39;s DWARF v5](https://llvm.discourse.group/t/gdb-10-1-cant-read-clangs-dwarf-v5/6035/11)
+- [Discourse as mailing list replacement, some questions](https://llvm.discourse.group/t/discourse-as-mailing-list-replacement-some-questions/3713/8)
+- [[TEST] Testing if I can start a thread via email](https://llvm.discourse.group/t/test-testing-if-i-can-start-a-thread-via-email/6065/2)
+- [[TEST] Testing if I can start a thread via email](https://llvm.discourse.group/t/test-testing-if-i-can-start-a-thread-via-email/6065/1)
 <!-- DISCOURSE-LLVM:END -->
