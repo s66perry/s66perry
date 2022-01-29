@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error: llvm-objcopy --redefine-syms for Objective-C native static library](https://llvm.discourse.group/t/error-llvm-objcopy-redefine-syms-for-objective-c-native-static-library/5127/2)
+- [Does LLVM-objcopy support macho arm64 files?](https://llvm.discourse.group/t/does-llvm-objcopy-support-macho-arm64-files/4833/16)
+- [Does LLVM-objcopy support macho arm64 files?](https://llvm.discourse.group/t/does-llvm-objcopy-support-macho-arm64-files/4833/15)
+- [Why does march=native not work on Apple M1?](https://llvm.discourse.group/t/why-does-march-native-not-work-on-apple-m1/2733/3)
 - [How to extend and debug pretty printers?](https://llvm.discourse.group/t/how-to-extend-and-debug-pretty-printers/1905/3)
-- [Implementing code coverage for custom programming language](https://llvm.discourse.group/t/implementing-code-coverage-for-custom-programming-language/6054/9)
-- [LLVM 13.0.1-rc3 has been tagged](https://llvm.discourse.group/t/llvm-13-0-1-rc3-has-been-tagged/5898/7)
-- [DWARF forward template parameters + type units](https://llvm.discourse.group/t/dwarf-forward-template-parameters-type-units/5941/10)
-- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://llvm.discourse.group/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/38)
 <!-- DISCOURSE-LLVM:END -->
