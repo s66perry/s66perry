@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PB.registerPipeline ParsingCallback only works for ModulePassManager &lpar;if FunctionPassManager is registered as well&rpar;](https://llvm.discourse.group/t/pb-registerpipeline-parsingcallback-only-works-for-modulepassmanager-if-functionpassmanager-is-registered-as-well/5969/4)
 - [Rust NewPM blocker: Catastrophic inlining](https://llvm.discourse.group/t/rust-newpm-blocker-catastrophic-inlining/6171/4)
 - [Rust NewPM blocker: Catastrophic inlining](https://llvm.discourse.group/t/rust-newpm-blocker-catastrophic-inlining/6171/3)
 - [Rust NewPM blocker: Catastrophic inlining](https://llvm.discourse.group/t/rust-newpm-blocker-catastrophic-inlining/6171/2)
 - [Multi TU refactoring](https://llvm.discourse.group/t/multi-tu-refactoring/6154/2)
-- [PB.registerPipeline ParsingCallback only works for ModulePassManager &lpar;if FunctionPassManager is registered as well&rpar;](https://llvm.discourse.group/t/pb-registerpipeline-parsingcallback-only-works-for-modulepassmanager-if-functionpassmanager-is-registered-as-well/5969/3)
 <!-- DISCOURSE-LLVM:END -->
