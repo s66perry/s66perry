@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Just a test](https://llvm.discourse.group/t/just-a-test/6266/1)
+- [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/13)
 - [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/12)
 - [Evolution of undef and poison over time](https://llvm.discourse.group/t/evolution-of-undef-and-poison-over-time/5917/12)
 - [Outreachy &amp; Google Summer of Code Brainstorming](https://llvm.discourse.group/t/outreachy-google-summer-of-code-brainstorming/6125/2)
-- [Evolution of undef and poison over time](https://llvm.discourse.group/t/evolution-of-undef-and-poison-over-time/5917/11)
-- [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/11)
 <!-- DISCOURSE-LLVM:END -->
