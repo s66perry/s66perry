@@ -11,5 +11,6 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Enabling ROCm conversions in pre-merge builds?](https://llvm.discourse.group/t/enabling-rocm-conversions-in-pre-merge-builds/6207/2)
 - [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/10)
 <!-- DISCOURSE-LLVM:END -->
