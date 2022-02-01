@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support for Gfortran-style arbitrary-typed parameters](https://llvm.discourse.group/t/support-for-gfortran-style-arbitrary-typed-parameters/6251/1)
+- [Compiling with built-in stdatomic vs stdatomic.h](https://llvm.discourse.group/t/compiling-with-built-in-stdatomic-vs-stdatomic-h/6225/3)
 - [Enabling ROCm conversions in pre-merge builds?](https://llvm.discourse.group/t/enabling-rocm-conversions-in-pre-merge-builds/6207/2)
 - [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/10)
 <!-- DISCOURSE-LLVM:END -->
