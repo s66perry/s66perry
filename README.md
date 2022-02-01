@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compiling with built-in stdatomic vs stdatomic.h](https://llvm.discourse.group/t/compiling-with-built-in-stdatomic-vs-stdatomic-h/6225/2)
 - [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/9)
 - [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/8)
 - [Compiling with built-in stdatomic vs stdatomic.h](https://llvm.discourse.group/t/compiling-with-built-in-stdatomic-vs-stdatomic-h/6225/1)
 - [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/7)
-- [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://llvm.discourse.group/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/6)
 <!-- DISCOURSE-LLVM:END -->
