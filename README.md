@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can we get &#39;tagging&#39; enabled?](https://discourse.llvm.org/t/can-we-get-tagging-enabled/5296/13)
+- [Hierarchical/nested offloading to target devices possible?](https://discourse.llvm.org/t/hierarchical-nested-offloading-to-target-devices-possible/59685/1)
 - [Request for Debug Info and Testing categories](https://discourse.llvm.org/t/request-for-debug-info-and-testing-categories/59682/2)
 - [Request for Debug Info and Testing categories](https://discourse.llvm.org/t/request-for-debug-info-and-testing-categories/59682/1)
 - [Abstraction raising](https://discourse.llvm.org/t/abstraction-raising/59679/1)
-- [Do we want to have IWG office hours?](https://discourse.llvm.org/t/do-we-want-to-have-iwg-office-hours/59677/1)
-- [Changing time slot for the IWG meeting?](https://discourse.llvm.org/t/changing-time-slot-for-the-iwg-meeting/59676/1)
 <!-- DISCOURSE-LLVM:END -->
