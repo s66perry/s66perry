@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Request for Debug Info and Testing categories](https://discourse.llvm.org/t/request-for-debug-info-and-testing-categories/59682/2)
+- [Request for Debug Info and Testing categories](https://discourse.llvm.org/t/request-for-debug-info-and-testing-categories/59682/1)
+- [Abstraction raising](https://discourse.llvm.org/t/abstraction-raising/59679/1)
 - [Do we want to have IWG office hours?](https://discourse.llvm.org/t/do-we-want-to-have-iwg-office-hours/59677/1)
 - [Changing time slot for the IWG meeting?](https://discourse.llvm.org/t/changing-time-slot-for-the-iwg-meeting/59676/1)
-- [LLVM 13.0.1-rc3 has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-rc3-has-been-tagged/5898/12)
-- [Support for Gfortran-style arbitrary-typed parameters](https://discourse.llvm.org/t/support-for-gfortran-style-arbitrary-typed-parameters/6251/4)
-- [LLVM 13.0.1-rc3 has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-rc3-has-been-tagged/5898/11)
 <!-- DISCOURSE-LLVM:END -->
