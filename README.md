@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Request for Debug Info and Testing categories](https://discourse.llvm.org/t/request-for-debug-info-and-testing-categories/59682/4)
-- [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/13)
-- [Enabling ROCm conversions in pre-merge builds?](https://discourse.llvm.org/t/enabling-rocm-conversions-in-pre-merge-builds/6207/6)
-- [Enabling ROCm conversions in pre-merge builds?](https://discourse.llvm.org/t/enabling-rocm-conversions-in-pre-merge-builds/6207/5)
-- [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/2)
+- [HIR vs Calyx](https://discourse.llvm.org/t/hir-vs-calyx/59701/1)
+- [Request for Debug Info and Testing categories](https://discourse.llvm.org/t/request-for-debug-info-and-testing-categories/59682/5)
+- [[RFC] &lpar;Semi-&rpar;software bf16](https://discourse.llvm.org/t/rfc-semi-software-bf16/59699/1)
+- [Enabling ROCm conversions in pre-merge builds?](https://discourse.llvm.org/t/enabling-rocm-conversions-in-pre-merge-builds/6207/9)
+- [Enabling ROCm conversions in pre-merge builds?](https://discourse.llvm.org/t/enabling-rocm-conversions-in-pre-merge-builds/6207/8)
 <!-- DISCOURSE-LLVM:END -->
