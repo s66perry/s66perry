@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/42)
+- [linalg::FillOp index value!](https://discourse.llvm.org/t/linalg-fillop-index-value/6159/2)
+- [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/3)
+- [[RFC?] Store to load forwarding](https://discourse.llvm.org/t/rfc-store-to-load-forwarding/59672/6)
 - [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/28)
-- [NewGVN load coercion &lpar;for GPUs?&rpar;](https://discourse.llvm.org/t/newgvn-load-coercion-for-gpus/59741/1)
-- [Searching for issues authored by `mannequin` users does not work](https://discourse.llvm.org/t/searching-for-issues-authored-by-mannequin-users-does-not-work/59736/2)
-- [Problem lowering nested async](https://discourse.llvm.org/t/problem-lowering-nested-async/59739/2)
-- [Problem lowering nested async](https://discourse.llvm.org/t/problem-lowering-nested-async/59739/1)
 <!-- DISCOURSE-LLVM:END -->
