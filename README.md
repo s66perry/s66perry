@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Volume of affine polytope calculation](https://discourse.llvm.org/t/volume-of-affine-polytope-calculation/59758/1)
+- [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/15)
+- [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/3)
+- [Outreachy &amp; Google Summer of Code Brainstorming](https://discourse.llvm.org/t/outreachy-google-summer-of-code-brainstorming/6125/4)
 - [HIR vs Calyx](https://discourse.llvm.org/t/hir-vs-calyx/59701/3)
-- [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/4)
-- [Canonicalization passes don&#39;t keep attributes](https://discourse.llvm.org/t/canonicalization-passes-dont-keep-attributes/59750/2)
-- [Enabling ROCm conversions in pre-merge builds?](https://discourse.llvm.org/t/enabling-rocm-conversions-in-pre-merge-builds/6207/11)
-- [HIR vs Calyx](https://discourse.llvm.org/t/hir-vs-calyx/59701/2)
 <!-- DISCOURSE-LLVM:END -->
