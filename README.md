@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC?] Store to load forwarding](https://discourse.llvm.org/t/rfc-store-to-load-forwarding/59672/5)
-- [[RFC?] Store to load forwarding](https://discourse.llvm.org/t/rfc-store-to-load-forwarding/59672/4)
-- [[RFC] Arith dialect versions of affine.apply/min/max](https://discourse.llvm.org/t/rfc-arith-dialect-versions-of-affine-apply-min-max/4656/17)
-- [[RFC] Spill2Reg: Selectively replace spills to stack with spills to vector registers](https://discourse.llvm.org/t/rfc-spill2reg-selectively-replace-spills-to-stack-with-spills-to-vector-registers/59630/14)
-- [Post Discourse Migration Information](https://discourse.llvm.org/t/post-discourse-migration-information/59719/1)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/40)
+- [[RFC] Arith dialect versions of affine.apply/min/max](https://discourse.llvm.org/t/rfc-arith-dialect-versions-of-affine-apply-min-max/4656/18)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/27)
+- [Open MLIR Meeting 2/3/2022: Reviews of current Discourse topics](https://discourse.llvm.org/t/open-mlir-meeting-2-3-2022-reviews-of-current-discourse-topics/59729/1)
+- [Help to identify the type of instruction](https://discourse.llvm.org/t/help-to-identify-the-type-of-instruction/59728/1)
 <!-- DISCOURSE-LLVM:END -->
