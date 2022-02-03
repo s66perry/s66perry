@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Exception handling in MLIR](https://discourse.llvm.org/t/exception-handling-in-mlir/6011/9)
+- [Pre-merge testing, running checks on main branch](https://discourse.llvm.org/t/pre-merge-testing-running-checks-on-main-branch/59746/1)
+- [[RFC?] Store to load forwarding](https://discourse.llvm.org/t/rfc-store-to-load-forwarding/59672/7)
 - [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/43)
 - [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/42)
-- [linalg::FillOp index value!](https://discourse.llvm.org/t/linalg-fillop-index-value/6159/2)
-- [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/3)
-- [[RFC?] Store to load forwarding](https://discourse.llvm.org/t/rfc-store-to-load-forwarding/59672/6)
 <!-- DISCOURSE-LLVM:END -->
