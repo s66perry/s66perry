@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Help to identify the type of instruction](https://discourse.llvm.org/t/help-to-identify-the-type-of-instruction/59728/2)
-- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/4)
-- [RISC-V LLVM sync-up call 3rd February 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-3rd-february-2022/59734/1)
-- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/3)
-- [LLVM 13.0.1-final has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-final-has-been-tagged/59710/2)
+- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/6)
+- [Support for Gfortran-style arbitrary-typed parameters](https://discourse.llvm.org/t/support-for-gfortran-style-arbitrary-typed-parameters/6251/6)
+- [Searching for issues authored by `mannequin` users does not work](https://discourse.llvm.org/t/searching-for-issues-authored-by-mannequin-users-does-not-work/59736/1)
+- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/5)
+- [[RFC] Arith dialect versions of affine.apply/min/max](https://discourse.llvm.org/t/rfc-arith-dialect-versions-of-affine-apply-min-max/4656/21)
 <!-- DISCOURSE-LLVM:END -->
