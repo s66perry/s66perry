@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/40)
-- [[RFC] Arith dialect versions of affine.apply/min/max](https://discourse.llvm.org/t/rfc-arith-dialect-versions-of-affine-apply-min-max/4656/18)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/27)
-- [Open MLIR Meeting 2/3/2022: Reviews of current Discourse topics](https://discourse.llvm.org/t/open-mlir-meeting-2-3-2022-reviews-of-current-discourse-topics/59729/1)
-- [Help to identify the type of instruction](https://discourse.llvm.org/t/help-to-identify-the-type-of-instruction/59728/1)
+- [LLVM 13.0.1-final has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-final-has-been-tagged/59710/2)
+- [Abstraction raising](https://discourse.llvm.org/t/abstraction-raising/59679/7)
+- [Abstraction raising](https://discourse.llvm.org/t/abstraction-raising/59679/6)
+- [Abstraction raising](https://discourse.llvm.org/t/abstraction-raising/59679/5)
+- [Guardsquare is looking for LLVM Compiler Engineers &lpar;Belgium/Germany&rpar;!](https://discourse.llvm.org/t/guardsquare-is-looking-for-llvm-compiler-engineers-belgium-germany/59733/1)
 <!-- DISCOURSE-LLVM:END -->
