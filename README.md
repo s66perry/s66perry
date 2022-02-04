@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/6)
+- [BPF: adding new clang extension bpf_dominating_decl attribute](https://discourse.llvm.org/t/bpf-adding-new-clang-extension-bpf-dominating-decl-attribute/59484/14)
+- [BPF: adding new clang extension bpf_dominating_decl attribute](https://discourse.llvm.org/t/bpf-adding-new-clang-extension-bpf-dominating-decl-attribute/59484/13)
+- [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/5)
 - [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/4)
-- [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/6)
-- [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/3)
-- [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/2)
-- [LLVM 13.0.1-final has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-final-has-been-tagged/59710/8)
 <!-- DISCOURSE-LLVM:END -->
