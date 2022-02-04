@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Conflict over overflowing the integer](https://discourse.llvm.org/t/conflict-over-overflowing-the-integer/59669/4)
+- [HIR vs Calyx](https://discourse.llvm.org/t/hir-vs-calyx/59701/4)
+- [LLVM 13.0.1-final has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-final-has-been-tagged/59710/6)
 - [Does MLIR have DCE pass?](https://discourse.llvm.org/t/does-mlir-have-dce-pass/59777/4)
 - [Does MLIR have DCE pass?](https://discourse.llvm.org/t/does-mlir-have-dce-pass/59777/3)
-- [Does MLIR have DCE pass?](https://discourse.llvm.org/t/does-mlir-have-dce-pass/59777/2)
-- [FOSDEM&#39;22 LLVM devroom tomorrow &lpar;5th Feb, 1.00 pm Central European Time, UTC+1&rpar;](https://discourse.llvm.org/t/fosdem22-llvm-devroom-tomorrow-5th-feb-1-00-pm-central-european-time-utc-1/59778/1)
-- [Does MLIR have DCE pass?](https://discourse.llvm.org/t/does-mlir-have-dce-pass/59777/1)
 <!-- DISCOURSE-LLVM:END -->
