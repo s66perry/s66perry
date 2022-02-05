@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Virtual functions in the target region](https://discourse.llvm.org/t/virtual-functions-in-the-target-region/59765/5)
+- [ComposeSubView pattern does not check that strides are all 1 but assumes it](https://discourse.llvm.org/t/composesubview-pattern-does-not-check-that-strides-are-all-1-but-assumes-it/59798/1)
 - [Arm generation of 32bit load following 8bit store to stack at -O0](https://discourse.llvm.org/t/arm-generation-of-32bit-load-following-8bit-store-to-stack-at-o0/59796/1)
 - [[RFC] cmov-vs-branch optimization](https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040/11)
 - [Options.EnableFastISel is true for targets without FastISel implementation](https://discourse.llvm.org/t/options-enablefastisel-is-true-for-targets-without-fastisel-implementation/59793/1)
-- [[RFC] cmov-vs-branch optimization](https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040/10)
-- [Poll for date/time for GSOC &amp; Outreachy Brainstorming](https://discourse.llvm.org/t/poll-for-date-time-for-gsoc-outreachy-brainstorming/59792/1)
 <!-- DISCOURSE-LLVM:END -->
