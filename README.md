@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [clang-format aligning `+=`.](https://discourse.llvm.org/t/clang-format-aligning/59821/1)
 - [Senior HPC compiler engineer &lpar;world-wide, remote&rpar;](https://discourse.llvm.org/t/senior-hpc-compiler-engineer-world-wide-remote/59816/1)
 - [Parallel stl support](https://discourse.llvm.org/t/parallel-stl-support/59804/3)
 - [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/14)
 - [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/13)
-- [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/12)
 <!-- DISCOURSE-LLVM:END -->
