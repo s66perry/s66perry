@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Pre-merge testing, running checks on main branch](https://discourse.llvm.org/t/pre-merge-testing-running-checks-on-main-branch/59746/5)
+- [Pre-merge testing, running checks on main branch](https://discourse.llvm.org/t/pre-merge-testing-running-checks-on-main-branch/59746/4)
+- [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/8)
+- [ComposeSubView pattern does not check that strides are all 1 but assumes it](https://discourse.llvm.org/t/composesubview-pattern-does-not-check-that-strides-are-all-1-but-assumes-it/59798/2)
 - [LLVM Weekly - #423, February 7th 2022](https://discourse.llvm.org/t/llvm-weekly-423-february-7th-2022/59830/1)
-- [[RFC] cmov-vs-branch optimization](https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040/15)
-- [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/18)
-- [[RFC] cmov-vs-branch optimization](https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040/14)
-- [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/17)
 <!-- DISCOURSE-LLVM:END -->
