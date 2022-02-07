@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] cmov-vs-branch optimization](https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040/14)
 - [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/17)
 - [clang-format aligning `+=`.](https://discourse.llvm.org/t/clang-format-aligning/59821/2)
 - [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/16)
 - [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073/15)
-- [clang-format aligning `+=`.](https://discourse.llvm.org/t/clang-format-aligning/59821/1)
 <!-- DISCOURSE-LLVM:END -->
