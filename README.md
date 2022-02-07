@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049/17)
+- [Fail to generate cubin file when compiling OpenMP Applications with Nvidia GPUs](https://discourse.llvm.org/t/fail-to-generate-cubin-file-when-compiling-openmp-applications-with-nvidia-gpus/5839/16)
+- [Better modelling of pipeline loops](https://discourse.llvm.org/t/better-modelling-of-pipeline-loops/3917/18)
 - [[remote] Build engineer at Plex.tv](https://discourse.llvm.org/t/remote-build-engineer-at-plex-tv/59853/1)
 - [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/24)
-- [LLVM 13.0.1-final has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-final-has-been-tagged/59710/12)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/34)
-- [Arm generation of 32bit load following 8bit store to stack at -O0](https://discourse.llvm.org/t/arm-generation-of-32bit-load-following-8bit-store-to-stack-at-o0/59796/4)
 <!-- DISCOURSE-LLVM:END -->
