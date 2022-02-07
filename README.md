@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A C++ pseudo parser for tooling](https://discourse.llvm.org/t/rfc-a-c-pseudo-parser-for-tooling/59217/31)
-- [Better modelling of pipeline loops](https://discourse.llvm.org/t/better-modelling-of-pipeline-loops/3917/17)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840/1)
-- [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/23)
-- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/8)
+- [ComposeSubView pattern does not check that strides are all 1 but assumes it](https://discourse.llvm.org/t/composesubview-pattern-does-not-check-that-strides-are-all-1-but-assumes-it/59798/3)
+- [LLVM 13.0.1-final has been tagged](https://discourse.llvm.org/t/llvm-13-0-1-final-has-been-tagged/59710/11)
+- [LLVM 14.0.0 Release Schedule](https://discourse.llvm.org/t/llvm-14-0-0-release-schedule/5846/7)
+- [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/7)
+- [[Job Ad] Intel SYCL compiler team is hiring an LLVM engineer in Russia](https://discourse.llvm.org/t/job-ad-intel-sycl-compiler-team-is-hiring-an-llvm-engineer-in-russia/59847/1)
 <!-- DISCOURSE-LLVM:END -->
