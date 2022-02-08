@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Please add libunwind, compiler-rt &lpar;builtins&rpar; as sub-categories of Runtimes](https://discourse.llvm.org/t/please-add-libunwind-compiler-rt-builtins-as-sub-categories-of-runtimes/59902/2)
-- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/49)
-- [GSOC &amp; Outreachy Brainstorming - Meeting Set! Wednesday 9am PST](https://discourse.llvm.org/t/gsoc-outreachy-brainstorming-meeting-set-wednesday-9am-pst/59865/2)
-- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/5)
-- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/4)
+- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/12)
+- [Can&#39;t commit to repo](https://discourse.llvm.org/t/cant-commit-to-repo/59904/3)
+- [Can&#39;t commit to repo](https://discourse.llvm.org/t/cant-commit-to-repo/59904/2)
+- [Can&#39;t commit to repo](https://discourse.llvm.org/t/cant-commit-to-repo/59904/1)
+- [Please add libunwind, compiler-rt &lpar;builtins&rpar; as sub-categories of Runtimes](https://discourse.llvm.org/t/please-add-libunwind-compiler-rt-builtins-as-sub-categories-of-runtimes/59902/3)
 <!-- DISCOURSE-LLVM:END -->
