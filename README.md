@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GSOC &amp; Outreachy Brainstorming - Meeting Set! Wednesday 9am PST](https://discourse.llvm.org/t/gsoc-outreachy-brainstorming-meeting-set-wednesday-9am-pst/59865/1)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/1)
 - [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/10)
 - [Pre-merge testing, running checks on main branch](https://discourse.llvm.org/t/pre-merge-testing-running-checks-on-main-branch/59746/6)
 - [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/9)
-- [Options.EnableFastISel is true for targets without FastISel implementation](https://discourse.llvm.org/t/options-enablefastisel-is-true-for-targets-without-fastisel-implementation/59793/3)
-- [Volume of affine polytope calculation](https://discourse.llvm.org/t/volume-of-affine-polytope-calculation/59758/2)
 <!-- DISCOURSE-LLVM:END -->
