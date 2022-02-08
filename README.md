@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/8)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/35)
+- [LLVM 13.0.1 Release](https://discourse.llvm.org/t/llvm-13-0-1-release/59870/2)
+- [LLVM 13.0.1 Release](https://discourse.llvm.org/t/llvm-13-0-1-release/59870/1)
 - [Retrospective - The Move to Discourse &lpar;Feedback by March 7th&rpar;](https://discourse.llvm.org/t/retrospective-the-move-to-discourse-feedback-by-march-7th/59861/2)
-- [GSOC &amp; Outreachy Brainstorming - Meeting Set! Wednesday 9am PST](https://discourse.llvm.org/t/gsoc-outreachy-brainstorming-meeting-set-wednesday-9am-pst/59865/1)
-- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/1)
-- [Linking Github issues and Phabricator reviews](https://discourse.llvm.org/t/linking-github-issues-and-phabricator-reviews/59786/10)
-- [Pre-merge testing, running checks on main branch](https://discourse.llvm.org/t/pre-merge-testing-running-checks-on-main-branch/59746/6)
 <!-- DISCOURSE-LLVM:END -->
