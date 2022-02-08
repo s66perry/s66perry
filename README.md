@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding Attribute to an Op after creation](https://discourse.llvm.org/t/adding-attribute-to-an-op-after-creation/59876/2)
+- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/11)
+- [Adding Attribute to an Op after creation](https://discourse.llvm.org/t/adding-attribute-to-an-op-after-creation/59876/1)
 - [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/10)
 - [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/36)
-- [Vector.create_mask for scalable vectors](https://discourse.llvm.org/t/vector-create-mask-for-scalable-vectors/6038/9)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://discourse.llvm.org/t/github-milestone-project-for-c-20-implementation-in-clang/5809/17)
-- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/10)
 <!-- DISCOURSE-LLVM:END -->
