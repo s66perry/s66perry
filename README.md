@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support for Gfortran-style arbitrary-typed parameters](https://discourse.llvm.org/t/support-for-gfortran-style-arbitrary-typed-parameters/6251/7)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/3)
+- [Retrospective - The Move to Discourse &lpar;Feedback by March 7th&rpar;](https://discourse.llvm.org/t/retrospective-the-move-to-discourse-feedback-by-march-7th/59861/8)
 - [Multiple platforms with the same name](https://discourse.llvm.org/t/multiple-platforms-with-the-same-name/59594/7)
 - [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/2)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/44)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/43)
-- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/1)
 <!-- DISCOURSE-LLVM:END -->
