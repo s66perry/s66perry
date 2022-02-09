@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022/50)
+- [[RFC] Spill2Reg: Selectively replace spills to stack with spills to vector registers](https://discourse.llvm.org/t/rfc-spill2reg-selectively-replace-spills-to-stack-with-spills-to-vector-registers/59630/15)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/14)
 - [Options.EnableFastISel is true for targets without FastISel implementation](https://discourse.llvm.org/t/options-enablefastisel-is-true-for-targets-without-fastisel-implementation/59793/8)
 - [Options.EnableFastISel is true for targets without FastISel implementation](https://discourse.llvm.org/t/options-enablefastisel-is-true-for-targets-without-fastisel-implementation/59793/7)
-- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/7)
-- [Multiple platforms with the same name](https://discourse.llvm.org/t/multiple-platforms-with-the-same-name/59594/8)
-- [Support for `blockaddress`](https://discourse.llvm.org/t/support-for-blockaddress/59940/4)
 <!-- DISCOURSE-LLVM:END -->
