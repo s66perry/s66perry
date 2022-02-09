@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compiling LLVM C++ library for x86 architecture](https://discourse.llvm.org/t/compiling-llvm-c-library-for-x86-architecture/59879/10)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/6)
+- [Support for `blockaddress`](https://discourse.llvm.org/t/support-for-blockaddress/59940/3)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/5)
 - [[RFC] System-wide lldbinit](https://discourse.llvm.org/t/rfc-system-wide-lldbinit/59933/7)
-- [Support for `blockaddress`](https://discourse.llvm.org/t/support-for-blockaddress/59940/2)
-- [[RFC] System-wide lldbinit](https://discourse.llvm.org/t/rfc-system-wide-lldbinit/59933/6)
-- [Support for `blockaddress`](https://discourse.llvm.org/t/support-for-blockaddress/59940/1)
-- [Is there any status regarding 128-bit integer support in clang?](https://discourse.llvm.org/t/is-there-any-status-regarding-128-bit-integer-support-in-clang/59889/5)
 <!-- DISCOURSE-LLVM:END -->
