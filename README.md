@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there any status regarding 128-bit integer support in clang?](https://discourse.llvm.org/t/is-there-any-status-regarding-128-bit-integer-support-in-clang/59889/6)
-- [Loop double-buffering/multi-buffering](https://discourse.llvm.org/t/loop-double-buffering-multi-buffering/59979/1)
-- [Standalone build for clang &amp; lld, fix or remove?](https://discourse.llvm.org/t/standalone-build-for-clang-lld-fix-or-remove/59977/2)
-- [Standalone build for clang &amp; lld, fix or remove?](https://discourse.llvm.org/t/standalone-build-for-clang-lld-fix-or-remove/59977/1)
-- [Using LLVM&#39;s MCAsmParser/MCx86AsmParser](https://discourse.llvm.org/t/using-llvms-mcasmparser-mcx86asmparser/59973/1)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/11)
+- [How do I add categories to old cfe-dev mails?](https://discourse.llvm.org/t/how-do-i-add-categories-to-old-cfe-dev-mails/59982/2)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/10)
+- [How do I add categories to old cfe-dev mails?](https://discourse.llvm.org/t/how-do-i-add-categories-to-old-cfe-dev-mails/59982/1)
+- [RFC: New Automated Release Workflow Part 2](https://discourse.llvm.org/t/rfc-new-automated-release-workflow-part-2/59981/1)
 <!-- DISCOURSE-LLVM:END -->
