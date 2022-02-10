@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/11)
-- [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/26)
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/10)
-- [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/25)
-- [Standalone build for clang &amp; lld, fix or remove?](https://discourse.llvm.org/t/standalone-build-for-clang-lld-fix-or-remove/59977/6)
+- [Standalone build for clang &amp; lld, fix or remove?](https://discourse.llvm.org/t/standalone-build-for-clang-lld-fix-or-remove/59977/7)
+- [LLVM relicensing status](https://discourse.llvm.org/t/llvm-relicensing-status/60000/3)
+- [Terminology: Instance](https://discourse.llvm.org/t/terminology-instance/4313/3)
+- [Multiple platforms with the same name](https://discourse.llvm.org/t/multiple-platforms-with-the-same-name/59594/13)
+- [Multiple platforms with the same name](https://discourse.llvm.org/t/multiple-platforms-with-the-same-name/59594/12)
 <!-- DISCOURSE-LLVM:END -->
