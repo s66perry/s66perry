@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Standalone build for clang &amp; lld, fix or remove?](https://discourse.llvm.org/t/standalone-build-for-clang-lld-fix-or-remove/59977/4)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/8)
 - [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/7)
 - [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/6)
 - [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/5)
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/4)
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/3)
 <!-- DISCOURSE-LLVM:END -->
