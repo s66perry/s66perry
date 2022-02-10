@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] System-wide lldbinit](https://discourse.llvm.org/t/rfc-system-wide-lldbinit/59933/9)
-- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/12)
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/1)
-- [How do I add categories to old cfe-dev mails?](https://discourse.llvm.org/t/how-do-i-add-categories-to-old-cfe-dev-mails/59982/3)
-- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/11)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/3)
+- [RFC: New Automated Release Workflow Part 2](https://discourse.llvm.org/t/rfc-new-automated-release-workflow-part-2/59981/2)
+- [Can we make it possible to attach more file types in Discourse?](https://discourse.llvm.org/t/can-we-make-it-possible-to-attach-more-file-types-in-discourse/59987/1)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/13)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/2)
 <!-- DISCOURSE-LLVM:END -->
