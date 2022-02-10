@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PSA] ODS Op `parser`/`printer` fields are being removed!](https://discourse.llvm.org/t/psa-ods-op-parser-printer-fields-are-being-removed/60011/1)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840/4)
-- [Standalone build for clang &amp; lld, fix or remove?](https://discourse.llvm.org/t/standalone-build-for-clang-lld-fix-or-remove/59977/7)
-- [LLVM relicensing status](https://discourse.llvm.org/t/llvm-relicensing-status/60000/3)
-- [Terminology: Instance](https://discourse.llvm.org/t/terminology-instance/4313/3)
+- [Mach-O LTO handling of `linkonce_odr unnamed_addr`](https://discourse.llvm.org/t/mach-o-lto-handling-of-linkonce-odr-unnamed-addr/60015/2)
+- [Mach-O LTO handling of `linkonce_odr unnamed_addr`](https://discourse.llvm.org/t/mach-o-lto-handling-of-linkonce-odr-unnamed-addr/60015/1)
+- [RFC: New Automated Release Workflow Part 2](https://discourse.llvm.org/t/rfc-new-automated-release-workflow-part-2/59981/5)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/20)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840/5)
 <!-- DISCOURSE-LLVM:END -->
