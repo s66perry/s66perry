@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM relicensing status](https://discourse.llvm.org/t/llvm-relicensing-status/60000/2)
-- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/16)
-- [RFC: New Automated Release Workflow Part 2](https://discourse.llvm.org/t/rfc-new-automated-release-workflow-part-2/59981/4)
-- [LLVM relicensing status](https://discourse.llvm.org/t/llvm-relicensing-status/60000/1)
-- [How do I add categories to old cfe-dev mails?](https://discourse.llvm.org/t/how-do-i-add-categories-to-old-cfe-dev-mails/59982/4)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/11)
+- [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/26)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/10)
+- [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/25)
+- [Standalone build for clang &amp; lld, fix or remove?](https://discourse.llvm.org/t/standalone-build-for-clang-lld-fix-or-remove/59977/6)
 <!-- DISCOURSE-LLVM:END -->
