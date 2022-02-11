@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can we make it possible to attach more file types in Discourse?](https://discourse.llvm.org/t/can-we-make-it-possible-to-attach-more-file-types-in-discourse/59987/4)
+- [Can we make it possible to attach more file types in Discourse?](https://discourse.llvm.org/t/can-we-make-it-possible-to-attach-more-file-types-in-discourse/59987/3)
+- [Open MLIR Meeting 2/10/2022: MLIR-PyTACO](https://discourse.llvm.org/t/open-mlir-meeting-2-10-2022-mlir-pytaco/59910/2)
+- [Can we make it possible to attach more file types in Discourse?](https://discourse.llvm.org/t/can-we-make-it-possible-to-attach-more-file-types-in-discourse/59987/2)
 - [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/27)
-- [Loop double-buffering/multi-buffering](https://discourse.llvm.org/t/loop-double-buffering-multi-buffering/59979/2)
-- [LLVM relicensing status](https://discourse.llvm.org/t/llvm-relicensing-status/60000/7)
-- [Is there any status regarding 128-bit integer support in clang?](https://discourse.llvm.org/t/is-there-any-status-regarding-128-bit-integer-support-in-clang/59889/10)
-- [Build failing on macOS 11.6 while linking clang-pseudo](https://discourse.llvm.org/t/build-failing-on-macos-11-6-while-linking-clang-pseudo/60029/1)
 <!-- DISCOURSE-LLVM:END -->
