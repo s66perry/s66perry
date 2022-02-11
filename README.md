@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can&#39;t build BPF clone target b/c of int_bpf_pseudo](https://discourse.llvm.org/t/cant-build-bpf-clone-target-b-c-of-int-bpf-pseudo/60080/1)
-- [Bug in discourse email migration: discarded some parts of messages](https://discourse.llvm.org/t/bug-in-discourse-email-migration-discarded-some-parts-of-messages/60074/2)
-- [Can we make it possible to attach more file types in Discourse?](https://discourse.llvm.org/t/can-we-make-it-possible-to-attach-more-file-types-in-discourse/59987/8)
-- [The perfect-forwarding constructor in `BumpPtrAllocatorImpl`](https://discourse.llvm.org/t/the-perfect-forwarding-constructor-in-bumpptrallocatorimpl/60023/2)
-- [&quot;To&quot; headers on Discourse emails](https://discourse.llvm.org/t/to-headers-on-discourse-emails/60052/5)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/48)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/47)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/25)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/46)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/45)
 <!-- DISCOURSE-LLVM:END -->
