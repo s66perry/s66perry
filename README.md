@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there any status regarding 128-bit integer support in clang?](https://discourse.llvm.org/t/is-there-any-status-regarding-128-bit-integer-support-in-clang/59889/8)
-- [Mach-O LTO handling of `linkonce_odr unnamed_addr`](https://discourse.llvm.org/t/mach-o-lto-handling-of-linkonce-odr-unnamed-addr/60015/2)
-- [Mach-O LTO handling of `linkonce_odr unnamed_addr`](https://discourse.llvm.org/t/mach-o-lto-handling-of-linkonce-odr-unnamed-addr/60015/1)
-- [RFC: New Automated Release Workflow Part 2](https://discourse.llvm.org/t/rfc-new-automated-release-workflow-part-2/59981/5)
-- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/20)
+- [LLVM relicensing status](https://discourse.llvm.org/t/llvm-relicensing-status/60000/6)
+- [Directory where x86 runtimes are installed](https://discourse.llvm.org/t/directory-where-x86-runtimes-are-installed/60026/1)
+- [Get the SSA name of Value](https://discourse.llvm.org/t/get-the-ssa-name-of-value/60025/2)
+- [LLVM relicensing status](https://discourse.llvm.org/t/llvm-relicensing-status/60000/5)
+- [Get the SSA name of Value](https://discourse.llvm.org/t/get-the-ssa-name-of-value/60025/1)
 <!-- DISCOURSE-LLVM:END -->
