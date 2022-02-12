@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can we get &#39;tagging&#39; enabled?](https://discourse.llvm.org/t/can-we-get-tagging-enabled/5296/15)
-- [LLVM Perf benchmark for RISCV64 Backend](https://discourse.llvm.org/t/llvm-perf-benchmark-for-riscv64-backend/60075/2)
-- [[RFC] LLD Deprecation policy](https://discourse.llvm.org/t/rfc-lld-deprecation-policy/60067/2)
-- [&quot;To&quot; headers on Discourse emails](https://discourse.llvm.org/t/to-headers-on-discourse-emails/60052/6)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/48)
+- [Can we make it possible to attach more file types in Discourse?](https://discourse.llvm.org/t/can-we-make-it-possible-to-attach-more-file-types-in-discourse/59987/10)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/14)
+- [Can we make it possible to attach more file types in Discourse?](https://discourse.llvm.org/t/can-we-make-it-possible-to-attach-more-file-types-in-discourse/59987/9)
+- [Bug in discourse email migration: discarded some parts of messages](https://discourse.llvm.org/t/bug-in-discourse-email-migration-discarded-some-parts-of-messages/60074/3)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/22)
 <!-- DISCOURSE-LLVM:END -->
