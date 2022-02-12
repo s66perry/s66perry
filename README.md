@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can we get &#39;tagging&#39; enabled?](https://discourse.llvm.org/t/can-we-get-tagging-enabled/5296/15)
+- [LLVM Perf benchmark for RISCV64 Backend](https://discourse.llvm.org/t/llvm-perf-benchmark-for-riscv64-backend/60075/2)
+- [[RFC] LLD Deprecation policy](https://discourse.llvm.org/t/rfc-lld-deprecation-policy/60067/2)
+- [&quot;To&quot; headers on Discourse emails](https://discourse.llvm.org/t/to-headers-on-discourse-emails/60052/6)
 - [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/48)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/47)
-- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/25)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/46)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/45)
 <!-- DISCOURSE-LLVM:END -->
