@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/20)
+- [Compiling LLVM C++ library for x86 architecture](https://discourse.llvm.org/t/compiling-llvm-c-library-for-x86-architecture/59879/12)
 - [Dynamically sized arrays by allocating new memory if the size became bigger](https://discourse.llvm.org/t/dynamically-sized-arrays-by-allocating-new-memory-if-the-size-became-bigger/60108/1)
 - [Question about Built-in DDG&lpar;data dependency graph&rpar; implementation](https://discourse.llvm.org/t/question-about-built-in-ddg-data-dependency-graph-implementation/60104/4)
 - [Question about Built-in DDG&lpar;data dependency graph&rpar; implementation](https://discourse.llvm.org/t/question-about-built-in-ddg-data-dependency-graph-implementation/60104/3)
-- [Question about Built-in DDG&lpar;data dependency graph&rpar; implementation](https://discourse.llvm.org/t/question-about-built-in-ddg-data-dependency-graph-implementation/60104/2)
-- [Question about Built-in DDG&lpar;data dependency graph&rpar; implementation](https://discourse.llvm.org/t/question-about-built-in-ddg-data-dependency-graph-implementation/60104/1)
 <!-- DISCOURSE-LLVM:END -->
