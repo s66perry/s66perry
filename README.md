@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where can I find the paper of optimization algorithm?](https://discourse.llvm.org/t/where-can-i-find-the-paper-of-optimization-algorithm/60125/2)
-- [Conflict over overflowing the integer](https://discourse.llvm.org/t/conflict-over-overflowing-the-integer/59669/8)
-- [Failed to legalize operation &#39;tensor.reshape&#39;](https://discourse.llvm.org/t/failed-to-legalize-operation-tensor-reshape/60129/2)
-- [[RFC] Restructuring of the MLIR repo](https://discourse.llvm.org/t/rfc-restructuring-of-the-mlir-repo/4927/49)
-- [[clang-tidy] how to suppress warnings from within multiline macro?](https://discourse.llvm.org/t/clang-tidy-how-to-suppress-warnings-from-within-multiline-macro/60131/4)
+- [Bug: Held-for-moderation messages never get sent out via email?](https://discourse.llvm.org/t/bug-held-for-moderation-messages-never-get-sent-out-via-email/60138/1)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/24)
+- [[RFC] System-wide lldbinit](https://discourse.llvm.org/t/rfc-system-wide-lldbinit/59933/12)
+- [Multiple platforms with the same name](https://discourse.llvm.org/t/multiple-platforms-with-the-same-name/59594/14)
+- [[clang-tidy] how to suppress warnings from within multiline macro?](https://discourse.llvm.org/t/clang-tidy-how-to-suppress-warnings-from-within-multiline-macro/60131/5)
 <!-- DISCOURSE-LLVM:END -->
