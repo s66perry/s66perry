@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang-tidy] how to suppress warnings from within multiline macro?](https://discourse.llvm.org/t/clang-tidy-how-to-suppress-warnings-from-within-multiline-macro/60131/3)
-- [Bug in rank reducing tensor.extract_slice and subsequent linalg bufferization?](https://discourse.llvm.org/t/bug-in-rank-reducing-tensor-extract-slice-and-subsequent-linalg-bufferization/60127/4)
-- [Could not tile NamedStructuredOp in linalg whith parallel Loop type](https://discourse.llvm.org/t/could-not-tile-namedstructuredop-in-linalg-whith-parallel-loop-type/60134/1)
-- [Running custom pass as non loadable module](https://discourse.llvm.org/t/running-custom-pass-as-non-loadable-module/60114/2)
-- [[clang-tidy] how to suppress warnings from within multiline macro?](https://discourse.llvm.org/t/clang-tidy-how-to-suppress-warnings-from-within-multiline-macro/60131/2)
+- [Where can I find the paper of optimization algorithm?](https://discourse.llvm.org/t/where-can-i-find-the-paper-of-optimization-algorithm/60125/2)
+- [Conflict over overflowing the integer](https://discourse.llvm.org/t/conflict-over-overflowing-the-integer/59669/8)
+- [Failed to legalize operation &#39;tensor.reshape&#39;](https://discourse.llvm.org/t/failed-to-legalize-operation-tensor-reshape/60129/2)
+- [[RFC] Restructuring of the MLIR repo](https://discourse.llvm.org/t/rfc-restructuring-of-the-mlir-repo/4927/49)
+- [[clang-tidy] how to suppress warnings from within multiline macro?](https://discourse.llvm.org/t/clang-tidy-how-to-suppress-warnings-from-within-multiline-macro/60131/4)
 <!-- DISCOURSE-LLVM:END -->
