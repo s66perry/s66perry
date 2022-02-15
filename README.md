@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840/6)
-- [Why does march=native not work on Apple M1?](https://discourse.llvm.org/t/why-does-march-native-not-work-on-apple-m1/2733/4)
-- [Mach-O LTO handling of `linkonce_odr unnamed_addr`](https://discourse.llvm.org/t/mach-o-lto-handling-of-linkonce-odr-unnamed-addr/60015/4)
-- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/3)
-- [CIRCT/MLIR dialect&lpar;s&rpar; for on-the-fly compiler generation for programmable heterogeneous &lpar;AI&rpar; accelerators?](https://discourse.llvm.org/t/circt-mlir-dialect-s-for-on-the-fly-compiler-generation-for-programmable-heterogeneous-ai-accelerators/60151/3)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/28)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/27)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/26)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/25)
+- [Could ARMv4T support be added?](https://discourse.llvm.org/t/could-armv4t-support-be-added/4156/2)
 <!-- DISCOURSE-LLVM:END -->
