@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840/8)
+- [Bug in DAG creation with inline asm?](https://discourse.llvm.org/t/bug-in-dag-creation-with-inline-asm/60245/1)
+- [TOSA nested while loop](https://discourse.llvm.org/t/tosa-nested-while-loop/60243/1)
+- [Compiler support in libc++](https://discourse.llvm.org/t/compiler-support-in-libc/57751/37)
 - [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/33)
-- [Compiler support in libc++](https://discourse.llvm.org/t/compiler-support-in-libc/57751/36)
-- [Why Clang doesn&#39;t emit `builtin` attribute on :: operator delete&lpar;&rpar; call sites?](https://discourse.llvm.org/t/why-clang-doesnt-emit-builtin-attribute-on-operator-delete-call-sites/60242/2)
-- [Compiler support in libc++](https://discourse.llvm.org/t/compiler-support-in-libc/57751/35)
-- [Why Clang doesn&#39;t emit `builtin` attribute on :: operator delete&lpar;&rpar; call sites?](https://discourse.llvm.org/t/why-clang-doesnt-emit-builtin-attribute-on-operator-delete-call-sites/60242/1)
 <!-- DISCOURSE-LLVM:END -->
