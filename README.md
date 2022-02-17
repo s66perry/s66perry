@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631/16)
-- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631/15)
-- [TOSA nested while loop](https://discourse.llvm.org/t/tosa-nested-while-loop/60243/5)
-- [Next Steps: Outreachy &amp; GSOC - Help needed!](https://discourse.llvm.org/t/next-steps-outreachy-gsoc-help-needed/60285/2)
-- [RFC: Extending Declarative Assembly Format to support order-independent variadic segments](https://discourse.llvm.org/t/rfc-extending-declarative-assembly-format-to-support-order-independent-variadic-segments/4388/10)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/31)
+- [RFC - Setting up LLVM “office hours” and mentoring](https://discourse.llvm.org/t/rfc-setting-up-llvm-office-hours-and-mentoring/59774/6)
+- [14.0.0-rc1 has been tagged](https://discourse.llvm.org/t/14-0-0-rc1-has-been-tagged/59930/30)
+- [How to call c++ code in LLVM IR](https://discourse.llvm.org/t/how-to-call-c-code-in-llvm-ir/60289/1)
+- [Interest in Fast Presburger Library &lpar;FPL&rpar;](https://discourse.llvm.org/t/interest-in-fast-presburger-library-fpl/5606/5)
 <!-- DISCOURSE-LLVM:END -->
