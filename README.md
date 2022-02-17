@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631/16)
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631/15)
 - [TOSA nested while loop](https://discourse.llvm.org/t/tosa-nested-while-loop/60243/5)
 - [Next Steps: Outreachy &amp; GSOC - Help needed!](https://discourse.llvm.org/t/next-steps-outreachy-gsoc-help-needed/60285/2)
 - [RFC: Extending Declarative Assembly Format to support order-independent variadic segments](https://discourse.llvm.org/t/rfc-extending-declarative-assembly-format-to-support-order-independent-variadic-segments/4388/10)
-- [Link time optimization of jump to target instruction](https://discourse.llvm.org/t/link-time-optimization-of-jump-to-target-instruction/60262/5)
-- [Link time optimization of jump to target instruction](https://discourse.llvm.org/t/link-time-optimization-of-jump-to-target-instruction/60262/4)
 <!-- DISCOURSE-LLVM:END -->
