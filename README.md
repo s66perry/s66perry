@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Extending Declarative Assembly Format to support order-independent variadic segments](https://discourse.llvm.org/t/rfc-extending-declarative-assembly-format-to-support-order-independent-variadic-segments/4388/9)
+- [[RFC] Fix loose behaviors of Clang --target=](https://discourse.llvm.org/t/rfc-fix-loose-behaviors-of-clang-target/60272/2)
 - [Next Steps: Outreachy &amp; GSOC - Help needed!](https://discourse.llvm.org/t/next-steps-outreachy-gsoc-help-needed/60285/1)
 - [[clang][safestack] Supporting SafeStack when using stack size diagnostics](https://discourse.llvm.org/t/clang-safestack-supporting-safestack-when-using-stack-size-diagnostics/60282/1)
 - [Open MLIR Meeting 2/17/2022: IREE’s input dialect](https://discourse.llvm.org/t/open-mlir-meeting-2-17-2022-iree-s-input-dialect/60281/1)
-- [Bug in discourse email migration: discarded some parts of messages](https://discourse.llvm.org/t/bug-in-discourse-email-migration-discarded-some-parts-of-messages/60074/4)
-- [[RFC] `Just My Code Stepping` for non-MSVC debuggers](https://discourse.llvm.org/t/rfc-just-my-code-stepping-for-non-msvc-debuggers/60279/1)
 <!-- DISCOURSE-LLVM:END -->
