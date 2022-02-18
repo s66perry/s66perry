@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631/23)
-- [The terminology of instruction sink](https://discourse.llvm.org/t/the-terminology-of-instruction-sink/60326/1)
-- [[clang] Extend clang AST to provide information for the type as written in template instantiations](https://discourse.llvm.org/t/clang-extend-clang-ast-to-provide-information-for-the-type-as-written-in-template-instantiations/60323/1)
-- [Write JITLink support for a new format/architecture](https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322/1)
-- [Modernize the LLVM &quot;Building A JIT&quot; tutorial series](https://discourse.llvm.org/t/modernize-the-llvm-building-a-jit-tutorial-series/60321/1)
+- [Is nested offloading from host to accelerator A to accelerator B possible?](https://discourse.llvm.org/t/is-nested-offloading-from-host-to-accelerator-a-to-accelerator-b-possible/60328/1)
+- [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296/7)
+- [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296/6)
+- [Generating a call to c++ STL function in IR?](https://discourse.llvm.org/t/generating-a-call-to-c-stl-function-in-ir/3977/3)
+- [Does full lto have runtime performance advantage over thin lto?](https://discourse.llvm.org/t/does-full-lto-have-runtime-performance-advantage-over-thin-lto/60317/3)
 <!-- DISCOURSE-LLVM:END -->
