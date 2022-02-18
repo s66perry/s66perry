@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Understanding GEP Instruction when accessing members of type](https://discourse.llvm.org/t/understanding-gep-instruction-when-accessing-members-of-type/60341/3)
+- [Understanding GEP Instruction when accessing members of type](https://discourse.llvm.org/t/understanding-gep-instruction-when-accessing-members-of-type/60341/2)
+- [Questions about the work of StripDeadDebugInfo pass](https://discourse.llvm.org/t/questions-about-the-work-of-stripdeaddebuginfo-pass/60278/6)
+- [Understanding GEP Instruction when accessing members of type](https://discourse.llvm.org/t/understanding-gep-instruction-when-accessing-members-of-type/60341/1)
 - [Passing options to passes assembled in a PassManager](https://discourse.llvm.org/t/passing-options-to-passes-assembled-in-a-passmanager/60339/1)
-- [Questions about the work of StripDeadDebugInfo pass](https://discourse.llvm.org/t/questions-about-the-work-of-stripdeaddebuginfo-pass/60278/5)
-- [Richer symbol dependency information for LTO](https://discourse.llvm.org/t/richer-symbol-dependency-information-for-lto/60335/2)
-- [Region with single empty block](https://discourse.llvm.org/t/region-with-single-empty-block/60333/5)
-- [The terminology of instruction sink](https://discourse.llvm.org/t/the-terminology-of-instruction-sink/60326/4)
 <!-- DISCOURSE-LLVM:END -->
