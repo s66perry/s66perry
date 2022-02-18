@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to call c++ code in LLVM IR](https://discourse.llvm.org/t/how-to-call-c-code-in-llvm-ir/60289/3)
-- [Does full lto has runtime performance advantage over thin lto?](https://discourse.llvm.org/t/does-full-lto-has-runtime-performance-advantage-over-thin-lto/60317/2)
-- [Does full lto has runtime performance advantage over thin lto?](https://discourse.llvm.org/t/does-full-lto-has-runtime-performance-advantage-over-thin-lto/60317/1)
-- [Multi TU refactoring](https://discourse.llvm.org/t/multi-tu-refactoring/6154/4)
-- [Guidance regarding RISCV Vector Intrinsic](https://discourse.llvm.org/t/guidance-regarding-riscv-vector-intrinsic/60315/1)
+- [[clang] Extend clang AST to provide information for the type as written in template instantiations](https://discourse.llvm.org/t/clang-extend-clang-ast-to-provide-information-for-the-type-as-written-in-template-instantiations/60323/1)
+- [Write JITLink support for a new format/architecture](https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322/1)
+- [Modernize the LLVM &quot;Building A JIT&quot; tutorial series](https://discourse.llvm.org/t/modernize-the-llvm-building-a-jit-tutorial-series/60321/1)
+- [Implement a shared-memory based JITLinkMemoryManager for out-of-process JITting](https://discourse.llvm.org/t/implement-a-shared-memory-based-jitlinkmemorymanager-for-out-of-process-jitting/60320/1)
+- [Failed to create Execution Engine](https://discourse.llvm.org/t/failed-to-create-execution-engine/60249/8)
 <!-- DISCOURSE-LLVM:END -->
