@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to call c++ code in LLVM IR](https://discourse.llvm.org/t/how-to-call-c-code-in-llvm-ir/60289/3)
+- [Does full lto has runtime performance advantage over thin lto?](https://discourse.llvm.org/t/does-full-lto-has-runtime-performance-advantage-over-thin-lto/60317/2)
+- [Does full lto has runtime performance advantage over thin lto?](https://discourse.llvm.org/t/does-full-lto-has-runtime-performance-advantage-over-thin-lto/60317/1)
+- [Multi TU refactoring](https://discourse.llvm.org/t/multi-tu-refactoring/6154/4)
 - [Guidance regarding RISCV Vector Intrinsic](https://discourse.llvm.org/t/guidance-regarding-riscv-vector-intrinsic/60315/1)
-- [Open MLIR Meeting 2/17/2022: IREE’s input dialect](https://discourse.llvm.org/t/open-mlir-meeting-2-17-2022-iree-s-input-dialect/60281/9)
-- [[event] About MLIR Community Meetup China](https://discourse.llvm.org/t/event-about-mlir-community-meetup-china/60314/1)
-- [Frame layout with objects at bottom of frame](https://discourse.llvm.org/t/frame-layout-with-objects-at-bottom-of-frame/60313/1)
-- [Open MLIR Meeting 12/2/2021: end-to-end flow for ML Compiler](https://discourse.llvm.org/t/open-mlir-meeting-12-2-2021-end-to-end-flow-for-ml-compiler/4903/4)
 <!-- DISCOURSE-LLVM:END -->
