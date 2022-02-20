@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Switching to Zoom for MLIR Open Meetings?](https://discourse.llvm.org/t/switching-to-zoom-for-mlir-open-meetings/60305/9)
-- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/8)
-- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/7)
-- [[WIP] Richer symbol dependency information for LTO](https://discourse.llvm.org/t/wip-richer-symbol-dependency-information-for-lto/60335/8)
-- [Regarding Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/regarding-instrumentation-of-clang-llvm-for-compile-time/60377/3)
+- [Regarding Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/regarding-instrumentation-of-clang-llvm-for-compile-time/60377/4)
+- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/9)
+- [Welcome to the LLVM Discourse!](https://discourse.llvm.org/t/welcome-to-the-llvm-discourse/40/4)
+- [GSoC 2022: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2022-projects-proposals-and-other-information/60386/1)
+- [Shortened template names in lldb](https://discourse.llvm.org/t/shortened-template-names-in-lldb/60384/1)
 <!-- DISCOURSE-LLVM:END -->
