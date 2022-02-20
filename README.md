@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[WIP] Richer symbol dependency information for LTO](https://discourse.llvm.org/t/wip-richer-symbol-dependency-information-for-lto/60335/8)
 - [Regarding Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/regarding-instrumentation-of-clang-llvm-for-compile-time/60377/3)
 - [[RFC] Fix loose behaviors of Clang --target=](https://discourse.llvm.org/t/rfc-fix-loose-behaviors-of-clang-target/60272/5)
 - [[clang] Extend clang AST to provide information for the type as written in template instantiations](https://discourse.llvm.org/t/clang-extend-clang-ast-to-provide-information-for-the-type-as-written-in-template-instantiations/60323/7)
 - [[clang] Extend clang AST to provide information for the type as written in template instantiations](https://discourse.llvm.org/t/clang-extend-clang-ast-to-provide-information-for-the-type-as-written-in-template-instantiations/60323/6)
-- [[clang] Extend clang AST to provide information for the type as written in template instantiations](https://discourse.llvm.org/t/clang-extend-clang-ast-to-provide-information-for-the-type-as-written-in-template-instantiations/60323/5)
 <!-- DISCOURSE-LLVM:END -->
