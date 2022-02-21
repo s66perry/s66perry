@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[WIP] Richer symbol dependency information for LTO](https://discourse.llvm.org/t/wip-richer-symbol-dependency-information-for-lto/60335/12)
+- [RFC - Setting up LLVM “office hours” and mentoring](https://discourse.llvm.org/t/rfc-setting-up-llvm-office-hours-and-mentoring/59774/8)
+- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/18)
 - [Switching to Zoom for MLIR Open Meetings?](https://discourse.llvm.org/t/switching-to-zoom-for-mlir-open-meetings/60305/11)
 - [Switching to Zoom for MLIR Open Meetings?](https://discourse.llvm.org/t/switching-to-zoom-for-mlir-open-meetings/60305/10)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415/1)
-- [Learning Loop Transformation Policies](https://discourse.llvm.org/t/learning-loop-transformation-policies/60413/1)
-- [runJit a model with multiple results](https://discourse.llvm.org/t/runjit-a-model-with-multiple-results/60402/3)
 <!-- DISCOURSE-LLVM:END -->
