@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Removing the `quant` dialect](https://discourse.llvm.org/t/rfc-removing-the-quant-dialect/3643/11)
+- [Adding Reoptimization Support to ORC](https://discourse.llvm.org/t/adding-reoptimization-support-to-orc/60389/1)
+- [Printer and parser for EnumAttr](https://discourse.llvm.org/t/printer-and-parser-for-enumattr/60128/2)
 - [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/12)
 - [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/11)
-- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/10)
-- [Regarding Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/regarding-instrumentation-of-clang-llvm-for-compile-time/60377/4)
-- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/9)
 <!-- DISCOURSE-LLVM:END -->
