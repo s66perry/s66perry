@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to call c++ code in LLVM IR](https://discourse.llvm.org/t/how-to-call-c-code-in-llvm-ir/60289/8)
 - [ORC Assertion failure](https://discourse.llvm.org/t/orc-assertion-failure/55100/7)
 - [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/2)
 - [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/8)
 - [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/7)
-- [How do I extract tokens from a string_literal?](https://discourse.llvm.org/t/how-do-i-extract-tokens-from-a-string-literal/60425/1)
 <!-- DISCOURSE-LLVM:END -->
