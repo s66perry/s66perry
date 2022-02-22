@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Feedback on new flag for AMDGPU](https://discourse.llvm.org/t/feedback-on-new-flag-for-amdgpu/60407/5)
-- [Suggestions to debug a forever running clang compile command](https://discourse.llvm.org/t/suggestions-to-debug-a-forever-running-clang-compile-command/60420/3)
-- [Regarding PBQP register allocator not working for X86](https://discourse.llvm.org/t/regarding-pbqp-register-allocator-not-working-for-x86/59507/6)
-- [Switching to Zoom for MLIR Open Meetings?](https://discourse.llvm.org/t/switching-to-zoom-for-mlir-open-meetings/60305/12)
-- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/23)
+- [ORC Assertion failure](https://discourse.llvm.org/t/orc-assertion-failure/55100/7)
+- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/2)
+- [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/8)
+- [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/7)
+- [How do I extract tokens from a string_literal?](https://discourse.llvm.org/t/how-do-i-extract-tokens-from-a-string-literal/60425/1)
 <!-- DISCOURSE-LLVM:END -->
