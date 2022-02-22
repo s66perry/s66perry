@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[WIP] Richer symbol dependency information for LTO](https://discourse.llvm.org/t/wip-richer-symbol-dependency-information-for-lto/60335/13)
 - [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/22)
 - [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/1)
 - [Feedback on new flag for AMDGPU](https://discourse.llvm.org/t/feedback-on-new-flag-for-amdgpu/60407/4)
 - [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/21)
-- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/20)
 <!-- DISCOURSE-LLVM:END -->
