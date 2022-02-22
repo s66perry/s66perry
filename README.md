@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/56)
-- [CLI library and reading the parameters from a config file](https://discourse.llvm.org/t/cli-library-and-reading-the-parameters-from-a-config-file/60440/3)
-- [CLI library and reading the parameters from a config file](https://discourse.llvm.org/t/cli-library-and-reading-the-parameters-from-a-config-file/60440/2)
-- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/24)
-- [Open MLIR Meeting 2/17/2022: Continuing discussion re ml_program](https://discourse.llvm.org/t/open-mlir-meeting-2-17-2022-continuing-discussion-re-ml-program/60441/1)
+- [Alternative path to .clang-format file?](https://discourse.llvm.org/t/alternative-path-to-clang-format-file/3811/2)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/59)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/58)
+- [Slides from yesterday&#39;s flang developers call](https://discourse.llvm.org/t/slides-from-yesterdays-flang-developers-call/60447/1)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/57)
 <!-- DISCOURSE-LLVM:END -->
