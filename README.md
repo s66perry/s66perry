@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/51)
-- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/7)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/50)
-- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/6)
-- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/5)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/55)
+- [Suggestions to debug a forever running clang compile command](https://discourse.llvm.org/t/suggestions-to-debug-a-forever-running-clang-compile-command/60420/5)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/54)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/53)
+- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/52)
 <!-- DISCOURSE-LLVM:END -->
