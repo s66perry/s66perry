@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Slicing for MLIR](https://discourse.llvm.org/t/slicing-for-mlir/60455/1)
+- [Not easy to find version-specific documentation; none available for rc&#39;s?](https://discourse.llvm.org/t/not-easy-to-find-version-specific-documentation-none-available-for-rcs/60454/1)
+- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/10)
 - [[clang-doc] Support for new formats](https://discourse.llvm.org/t/clang-doc-support-for-new-formats/60439/3)
 - [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/9)
-- [Is nested offloading from host to accelerator A to accelerator B possible?](https://discourse.llvm.org/t/is-nested-offloading-from-host-to-accelerator-a-to-accelerator-b-possible/60328/7)
-- [Guidance regarding RISCV Vector Intrinsic](https://discourse.llvm.org/t/guidance-regarding-riscv-vector-intrinsic/60315/4)
-- [Guidance regarding RISCV Vector Intrinsic](https://discourse.llvm.org/t/guidance-regarding-riscv-vector-intrinsic/60315/3)
 <!-- DISCOURSE-LLVM:END -->
