@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://discourse.llvm.org/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/5)
+- [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/5)
 - [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/4)
 - [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/3)
 - [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/2)
-- [Parallel input file parsing](https://discourse.llvm.org/t/parallel-input-file-parsing/60164/9)
-- [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/1)
 <!-- DISCOURSE-LLVM:END -->
