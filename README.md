@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/17)
+- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383/5)
 - [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/64)
 - [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/8)
 - [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/63)
-- [Switching to Zoom for MLIR Open Meetings?](https://discourse.llvm.org/t/switching-to-zoom-for-mlir-open-meetings/60305/13)
-- [Parallel input file parsing](https://discourse.llvm.org/t/parallel-input-file-parsing/60164/6)
 <!-- DISCOURSE-LLVM:END -->
