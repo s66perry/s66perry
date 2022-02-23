@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/62)
-- [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/9)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/61)
-- [Standard Dialect: The Final Chapter](https://discourse.llvm.org/t/standard-dialect-the-final-chapter/6061/60)
-- [Alternative path to .clang-format file?](https://discourse.llvm.org/t/alternative-path-to-clang-format-file/3811/2)
+- [[RFC] Dialect Extensions and &quot;Promised&quot; Interfaces](https://discourse.llvm.org/t/rfc-dialect-extensions-and-promised-interfaces/60451/1)
+- [Parallel input file parsing](https://discourse.llvm.org/t/parallel-input-file-parsing/60164/5)
+- [[clang-doc] Support for new formats](https://discourse.llvm.org/t/clang-doc-support-for-new-formats/60439/2)
+- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/27)
+- [RFC: Introduce ml_program dialect](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect/60376/26)
 <!-- DISCOURSE-LLVM:END -->
