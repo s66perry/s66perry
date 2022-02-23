@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The angry `clang-ve-ninja` build bot](https://discourse.llvm.org/t/the-angry-clang-ve-ninja-build-bot/60330/6)
+- [[RFC] Dexter Feature Removals](https://discourse.llvm.org/t/rfc-dexter-feature-removals/60462/1)
+- [FIRRTL to HW assertion error](https://discourse.llvm.org/t/firrtl-to-hw-assertion-error/60461/1)
 - [Vectorization of convolution op](https://discourse.llvm.org/t/vectorization-of-convolution-op/60458/2)
 - [Vectorization of convolution op](https://discourse.llvm.org/t/vectorization-of-convolution-op/60458/1)
-- [How to install LLVM stripped?](https://discourse.llvm.org/t/how-to-install-llvm-stripped/60457/1)
-- [Slicing for MLIR](https://discourse.llvm.org/t/slicing-for-mlir/60455/1)
-- [Not easy to find version-specific documentation; none available for rc&#39;s?](https://discourse.llvm.org/t/not-easy-to-find-version-specific-documentation-none-available-for-rcs/60454/1)
 <!-- DISCOURSE-LLVM:END -->
