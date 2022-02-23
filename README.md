@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-doc] Support for new formats](https://discourse.llvm.org/t/clang-doc-support-for-new-formats/60439/3)
+- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/9)
+- [Is nested offloading from host to accelerator A to accelerator B possible?](https://discourse.llvm.org/t/is-nested-offloading-from-host-to-accelerator-a-to-accelerator-b-possible/60328/7)
+- [Guidance regarding RISCV Vector Intrinsic](https://discourse.llvm.org/t/guidance-regarding-riscv-vector-intrinsic/60315/4)
 - [Guidance regarding RISCV Vector Intrinsic](https://discourse.llvm.org/t/guidance-regarding-riscv-vector-intrinsic/60315/3)
-- [Guidance regarding RISCV Vector Intrinsic](https://discourse.llvm.org/t/guidance-regarding-riscv-vector-intrinsic/60315/2)
-- [Apple is hiring debugger engineers](https://discourse.llvm.org/t/apple-is-hiring-debugger-engineers/60452/1)
-- [[discussion] Where to register external models?](https://discourse.llvm.org/t/discussion-where-to-register-external-models/6189/17)
-- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383/5)
 <!-- DISCOURSE-LLVM:END -->
