@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Vectorization of convolution op](https://discourse.llvm.org/t/vectorization-of-convolution-op/60458/2)
+- [Vectorization of convolution op](https://discourse.llvm.org/t/vectorization-of-convolution-op/60458/1)
+- [How to install LLVM stripped?](https://discourse.llvm.org/t/how-to-install-llvm-stripped/60457/1)
 - [Slicing for MLIR](https://discourse.llvm.org/t/slicing-for-mlir/60455/1)
 - [Not easy to find version-specific documentation; none available for rc&#39;s?](https://discourse.llvm.org/t/not-easy-to-find-version-specific-documentation-none-available-for-rcs/60454/1)
-- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/10)
-- [[clang-doc] Support for new formats](https://discourse.llvm.org/t/clang-doc-support-for-new-formats/60439/3)
-- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/9)
 <!-- DISCOURSE-LLVM:END -->
