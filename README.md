@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Running custom pass as non loadable module](https://discourse.llvm.org/t/running-custom-pass-as-non-loadable-module/60114/4)
+- [[RFC] Dialect Extensions and &quot;Promised&quot; Interfaces](https://discourse.llvm.org/t/rfc-dialect-extensions-and-promised-interfaces/60451/2)
+- [Failed to legalize operation &#39;tensor.reshape&#39;](https://discourse.llvm.org/t/failed-to-legalize-operation-tensor-reshape/60129/3)
+- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418/13)
 - [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/10)
-- [[MLIR] op attribute &#39;dot_dimension_numbers&#39; failed to satisfy constraint](https://discourse.llvm.org/t/mlir-op-attribute-dot-dimension-numbers-failed-to-satisfy-constraint/60484/3)
-- [[lldb] Will the rest of threads pause if `ni` execute after `thread select`? Does `lldb` support controlling one thread at a time by default?](https://discourse.llvm.org/t/lldb-will-the-rest-of-threads-pause-if-ni-execute-after-thread-select-does-lldb-support-controlling-one-thread-at-a-time-by-default/60485/1)
-- [[MLIR] op attribute &#39;dot_dimension_numbers&#39; failed to satisfy constraint](https://discourse.llvm.org/t/mlir-op-attribute-dot-dimension-numbers-failed-to-satisfy-constraint/60484/2)
-- [[MLIR] op attribute &#39;dot_dimension_numbers&#39; failed to satisfy constraint](https://discourse.llvm.org/t/mlir-op-attribute-dot-dimension-numbers-failed-to-satisfy-constraint/60484/1)
 <!-- DISCOURSE-LLVM:END -->
