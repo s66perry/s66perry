@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/10)
-- [[RFC] Dialect Extensions and &quot;Promised&quot; Interfaces](https://discourse.llvm.org/t/rfc-dialect-extensions-and-promised-interfaces/60451/3)
-- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/2)
-- [[CUDA] CUDA device code does not support variadic functions in clang](https://discourse.llvm.org/t/cuda-cuda-device-code-does-not-support-variadic-functions-in-clang/60481/2)
-- [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/9)
+- [LATTE &#39;22 Announcement](https://discourse.llvm.org/t/latte-22-announcement/60497/1)
+- [[RFC] Dialect Extensions and &quot;Promised&quot; Interfaces](https://discourse.llvm.org/t/rfc-dialect-extensions-and-promised-interfaces/60451/5)
+- [[RFC] Dialect Extensions and &quot;Promised&quot; Interfaces](https://discourse.llvm.org/t/rfc-dialect-extensions-and-promised-interfaces/60451/4)
+- [[lldb] Will the rest of threads pause if `ni` execute after `thread select`? Does `lldb` support controlling one thread at a time by default?](https://discourse.llvm.org/t/lldb-will-the-rest-of-threads-pause-if-ni-execute-after-thread-select-does-lldb-support-controlling-one-thread-at-a-time-by-default/60485/3)
+- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/3)
 <!-- DISCOURSE-LLVM:END -->
