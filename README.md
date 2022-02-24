@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/10)
+- [[RFC] Dialect Extensions and &quot;Promised&quot; Interfaces](https://discourse.llvm.org/t/rfc-dialect-extensions-and-promised-interfaces/60451/3)
+- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/2)
 - [[CUDA] CUDA device code does not support variadic functions in clang](https://discourse.llvm.org/t/cuda-cuda-device-code-does-not-support-variadic-functions-in-clang/60481/2)
 - [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/9)
-- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/1)
-- [[PDL] Some thoughts on the evolution of PDL](https://discourse.llvm.org/t/pdl-some-thoughts-on-the-evolution-of-pdl/60392/8)
-- [[PDL] Some thoughts on the evolution of PDL](https://discourse.llvm.org/t/pdl-some-thoughts-on-the-evolution-of-pdl/60392/7)
 <!-- DISCOURSE-LLVM:END -->
