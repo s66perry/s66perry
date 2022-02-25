@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC - Setting up LLVM “office hours” and mentoring](https://discourse.llvm.org/t/rfc-setting-up-llvm-office-hours-and-mentoring/59774/9)
+- [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://discourse.llvm.org/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/10)
+- [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://discourse.llvm.org/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/9)
+- [Is SafeStack coloring safe to enable?](https://discourse.llvm.org/t/is-safestack-coloring-safe-to-enable/60477/5)
 - [GitHub Milestone/Project for C++20 implementation in clang](https://discourse.llvm.org/t/github-milestone-project-for-c-20-implementation-in-clang/5809/27)
-- [Determine if a variable of given type could be used as a function argument](https://discourse.llvm.org/t/determine-if-a-variable-of-given-type-could-be-used-as-a-function-argument/60514/3)
-- [Https certificate for LLVM Flang pages](https://discourse.llvm.org/t/https-certificate-for-llvm-flang-pages/60519/1)
-- [Retrospective - The Move to Discourse &lpar;Feedback by March 7th&rpar;](https://discourse.llvm.org/t/retrospective-the-move-to-discourse-feedback-by-march-7th/59861/14)
-- [Determine if a variable of given type could be used as a function argument](https://discourse.llvm.org/t/determine-if-a-variable-of-given-type-could-be-used-as-a-function-argument/60514/2)
 <!-- DISCOURSE-LLVM:END -->
