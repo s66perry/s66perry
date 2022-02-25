@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce a PyTACO-MLIR Bridge for integration testing](https://discourse.llvm.org/t/rfc-introduce-a-pytaco-mlir-bridge-for-integration-testing/5643/8)
+- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/6)
+- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/5)
 - [Lowering llvm.gcwrite](https://discourse.llvm.org/t/lowering-llvm-gcwrite/60506/3)
 - [Lowering llvm.gcwrite](https://discourse.llvm.org/t/lowering-llvm-gcwrite/60506/2)
-- [JIT session error : Symbols not found](https://discourse.llvm.org/t/jit-session-error-symbols-not-found/60508/1)
-- [Lowering llvm.gcwrite](https://discourse.llvm.org/t/lowering-llvm-gcwrite/60506/1)
-- [LATTE &#39;22 Announcement](https://discourse.llvm.org/t/latte-22-announcement/60497/3)
 <!-- DISCOURSE-LLVM:END -->
