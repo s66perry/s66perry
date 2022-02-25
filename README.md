@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LATTE &#39;22 Announcement](https://discourse.llvm.org/t/latte-22-announcement/60497/3)
 - [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/4)
 - [How to compile C++ files under compiler-rt with -stdlib=libc++?](https://discourse.llvm.org/t/how-to-compile-c-files-under-compiler-rt-with-stdlib-libc/60482/5)
 - [Poll on Attending EuroLLVM 2022](https://discourse.llvm.org/t/poll-on-attending-eurollvm-2022/60498/1)
 - [How to compile C++ files under compiler-rt with -stdlib=libc++?](https://discourse.llvm.org/t/how-to-compile-c-files-under-compiler-rt-with-stdlib-libc/60482/4)
-- [How to compile C++ files under compiler-rt with -stdlib=libc++?](https://discourse.llvm.org/t/how-to-compile-c-files-under-compiler-rt-with-stdlib-libc/60482/3)
 <!-- DISCOURSE-LLVM:END -->
