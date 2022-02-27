@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383/6)
+- [Fail to convert memref to llvm](https://discourse.llvm.org/t/fail-to-convert-memref-to-llvm/60553/1)
 - [Wrong result with la ra,symbol pseudo la](https://discourse.llvm.org/t/wrong-result-with-la-ra-symbol-pseudo-la/60545/3)
 - [[RFC] A C++ pseudo parser for tooling](https://discourse.llvm.org/t/rfc-a-c-pseudo-parser-for-tooling/59217/43)
 - [Wrong result with la ra,symbol pseudo la](https://discourse.llvm.org/t/wrong-result-with-la-ra-symbol-pseudo-la/60545/2)
-- [Non-void zero pointers and -Wnull-pointer-subtraction](https://discourse.llvm.org/t/non-void-zero-pointers-and-wnull-pointer-subtraction/60540/2)
-- [Recent change completely polluting in-editor clang-tidy diagnostics](https://discourse.llvm.org/t/recent-change-completely-polluting-in-editor-clang-tidy-diagnostics/60546/1)
 <!-- DISCOURSE-LLVM:END -->
