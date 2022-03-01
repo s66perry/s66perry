@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/13)
-- [OpenMP on x86?](https://discourse.llvm.org/t/openmp-on-x86/60582/3)
-- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/6)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/12)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/11)
+- [Poll on Attending EuroLLVM 2022](https://discourse.llvm.org/t/poll-on-attending-eurollvm-2022/60498/2)
+- [How to add attribute on a block?](https://discourse.llvm.org/t/how-to-add-attribute-on-a-block/60598/3)
+- [How to add attribute on a block?](https://discourse.llvm.org/t/how-to-add-attribute-on-a-block/60598/2)
+- [restoreIP function in IRBuilder not recovering CurrentDebugLocation correctly](https://discourse.llvm.org/t/restoreip-function-in-irbuilder-not-recovering-currentdebuglocation-correctly/60613/1)
+- [[RFC] Enabling -Wstrict-prototypes by default in C](https://discourse.llvm.org/t/rfc-enabling-wstrict-prototypes-by-default-in-c/60521/20)
 <!-- DISCOURSE-LLVM:END -->
