@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[AArch64] question about the value of register p0](https://discourse.llvm.org/t/aarch64-question-about-the-value-of-register-p0/60596/3)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/7)
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983/31)
-- [Non-void zero pointers and -Wnull-pointer-subtraction](https://discourse.llvm.org/t/non-void-zero-pointers-and-wnull-pointer-subtraction/60540/5)
-- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/5)
+- [LLI: How to add a static archive &lpar;.lib or .a&rpar; to the xecution path](https://discourse.llvm.org/t/lli-how-to-add-a-static-archive-lib-or-a-to-the-xecution-path/3089/3)
+- [Parallel compilation with LLJIT](https://discourse.llvm.org/t/parallel-compilation-with-lljit/60601/1)
+- [Closing the gap between the preprocessor and the AST](https://discourse.llvm.org/t/closing-the-gap-between-the-preprocessor-and-the-ast/6254/13)
+- [LLVM C API string passing](https://discourse.llvm.org/t/llvm-c-api-string-passing/60399/6)
+- [[RFC] Enabling -Wstrict-prototypes by default in C](https://discourse.llvm.org/t/rfc-enabling-wstrict-prototypes-by-default-in-c/60521/18)
 <!-- DISCOURSE-LLVM:END -->
