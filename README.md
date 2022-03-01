@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/4)
+- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/6)
+- [How to add attribute on a block?](https://discourse.llvm.org/t/how-to-add-attribute-on-a-block/60598/1)
 - [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/5)
 - [LLVM C API string passing](https://discourse.llvm.org/t/llvm-c-api-string-passing/60399/5)
-- [[AArch64] question about the value of register p0](https://discourse.llvm.org/t/aarch64-question-about-the-value-of-register-p0/60596/2)
-- [LLI: How to add a static archive &lpar;.lib or .a&rpar; to the xecution path](https://discourse.llvm.org/t/lli-how-to-add-a-static-archive-lib-or-a-to-the-xecution-path/3089/2)
-- [[AArch64] question about the value of register p0](https://discourse.llvm.org/t/aarch64-question-about-the-value-of-register-p0/60596/1)
 <!-- DISCOURSE-LLVM:END -->
