@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A C++ pseudo parser for tooling](https://discourse.llvm.org/t/rfc-a-c-pseudo-parser-for-tooling/59217/46)
-- [MLGO Meeting Friday, March 4th: Nadav Rotem, &quot;Profile Guided Optimization without Profiles: A Machine Learning Approach&quot;](https://discourse.llvm.org/t/mlgo-meeting-friday-march-4th-nadav-rotem-profile-guided-optimization-without-profiles-a-machine-learning-approach/60140/2)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/8)
-- [PSA: Convert linalg.fill to an OpDSL Operation](https://discourse.llvm.org/t/psa-convert-linalg-fill-to-an-opdsl-operation/60602/1)
-- [[RFC] Enabling -Wstrict-prototypes by default in C](https://discourse.llvm.org/t/rfc-enabling-wstrict-prototypes-by-default-in-c/60521/19)
+- [[RFC] A C++ pseudo parser for tooling](https://discourse.llvm.org/t/rfc-a-c-pseudo-parser-for-tooling/59217/47)
+- [Question about compatibility of SafeStack](https://discourse.llvm.org/t/question-about-compatibility-of-safestack/44028/2)
+- [Clang-tidy to silence certain clang-diagnostic-error errors](https://discourse.llvm.org/t/clang-tidy-to-silence-certain-clang-diagnostic-error-errors/60607/1)
+- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/10)
+- [Template representation in AST &lpar;and RAV&rpar; with explicit instantiations](https://discourse.llvm.org/t/template-representation-in-ast-and-rav-with-explicit-instantiations/60606/2)
 <!-- DISCOURSE-LLVM:END -->
