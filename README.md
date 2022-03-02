@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Potential bug in DebugTranslation::translate](https://discourse.llvm.org/t/potential-bug-in-debugtranslation-translate/60492/2)
 - [Spam accounts on Phabricator](https://discourse.llvm.org/t/spam-accounts-on-phabricator/60631/1)
 - [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296/15)
 - [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296/14)
 - [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296/13)
-- [JIT session error : Symbols not found](https://discourse.llvm.org/t/jit-session-error-symbols-not-found/60508/3)
 <!-- DISCOURSE-LLVM:END -->
