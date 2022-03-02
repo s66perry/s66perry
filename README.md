@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [SNAP Performance analysis, more detailed than the presentation](https://discourse.llvm.org/t/snap-performance-analysis-more-detailed-than-the-presentation/60636/1)
-- [Structured algebra operations](https://discourse.llvm.org/t/structured-algebra-operations/60634/1)
-- [How to add attribute on a block?](https://discourse.llvm.org/t/how-to-add-attribute-on-a-block/60598/12)
-- [How to add attribute on a block?](https://discourse.llvm.org/t/how-to-add-attribute-on-a-block/60598/11)
-- [Modernize the LLVM &quot;Building A JIT&quot; tutorial series](https://discourse.llvm.org/t/modernize-the-llvm-building-a-jit-tutorial-series/60321/5)
+- [What&#39;s the canonical way of using `TypeAttr` in a *.td file?](https://discourse.llvm.org/t/whats-the-canonical-way-of-using-typeattr-in-a-td-file/60638/3)
+- [Performance of Clang vs llc](https://discourse.llvm.org/t/performance-of-clang-vs-llc/60515/8)
+- [[RFC] Enabling -Wstrict-prototypes by default in C](https://discourse.llvm.org/t/rfc-enabling-wstrict-prototypes-by-default-in-c/60521/31)
+- [Program stopped without a specific reason. How to interpret this?](https://discourse.llvm.org/t/program-stopped-without-a-specific-reason-how-to-interpret-this/60622/3)
+- [What&#39;s the canonical way of using `TypeAttr` in a *.td file?](https://discourse.llvm.org/t/whats-the-canonical-way-of-using-typeattr-in-a-td-file/60638/2)
 <!-- DISCOURSE-LLVM:END -->
