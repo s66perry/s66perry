@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Structured algebra operations](https://discourse.llvm.org/t/structured-algebra-operations/60634/3)
-- [Structured algebra operations](https://discourse.llvm.org/t/structured-algebra-operations/60634/2)
-- [Std::shared_ptr in target region](https://discourse.llvm.org/t/std-shared-ptr-in-target-region/60652/2)
-- [Std::shared_ptr in target region](https://discourse.llvm.org/t/std-shared-ptr-in-target-region/60652/1)
-- [LLVM 14.0.0 Release Update](https://discourse.llvm.org/t/llvm-14-0-0-release-update/60650/1)
+- [What&#39;s Flang&#39;s preference for `using namespace &lt;name&gt;;`?](https://discourse.llvm.org/t/whats-flangs-preference-for-using-namespace-name/60659/3)
+- [What&#39;s Flang&#39;s preference for `using namespace &lt;name&gt;;`?](https://discourse.llvm.org/t/whats-flangs-preference-for-using-namespace-name/60659/2)
+- [Optimizing sret on caller side](https://discourse.llvm.org/t/optimizing-sret-on-caller-side/60660/2)
+- [Optimizing sret on caller side](https://discourse.llvm.org/t/optimizing-sret-on-caller-side/60660/1)
+- [What&#39;s Flang&#39;s preference for `using namespace &lt;name&gt;;`?](https://discourse.llvm.org/t/whats-flangs-preference-for-using-namespace-name/60659/1)
 <!-- DISCOURSE-LLVM:END -->
