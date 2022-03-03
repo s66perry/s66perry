@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Optimizing sret on caller side](https://discourse.llvm.org/t/optimizing-sret-on-caller-side/60660/5)
+- [Clang-format does not recognize _Pragma, a c11 standard](https://discourse.llvm.org/t/clang-format-does-not-recognize-pragma-a-c11-standard/60658/3)
 - [Clang-format does not recognize _Pragma, a c11 standard](https://discourse.llvm.org/t/clang-format-does-not-recognize-pragma-a-c11-standard/60658/2)
 - [Optimizing sret on caller side](https://discourse.llvm.org/t/optimizing-sret-on-caller-side/60660/4)
 - [Optimizing sret on caller side](https://discourse.llvm.org/t/optimizing-sret-on-caller-side/60660/3)
-- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/9)
-- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/8)
 <!-- DISCOURSE-LLVM:END -->
