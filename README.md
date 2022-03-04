@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB stops after encountering errors when using &quot;-o&quot; and &quot;--source&quot;](https://discourse.llvm.org/t/lldb-stops-after-encountering-errors-when-using-o-and-source/60678/2)
+- [Better support for M68k](https://discourse.llvm.org/t/better-support-for-m68k/60679/2)
+- [Is it possible to add parameter for indexing_maps of linalg.generic?](https://discourse.llvm.org/t/is-it-possible-to-add-parameter-for-indexing-maps-of-linalg-generic/60624/6)
+- [Meaning of hasSideEffects bit](https://discourse.llvm.org/t/meaning-of-hassideeffects-bit/60694/1)
 - [14.0.0-rc2 has been tagged](https://discourse.llvm.org/t/14-0-0-rc2-has-been-tagged/60621/7)
-- [find the scope of local variable](https://discourse.llvm.org/t/find-the-scope-of-local-variable/60692/1)
-- [How to add new attributes to existing Ops?](https://discourse.llvm.org/t/how-to-add-new-attributes-to-existing-ops/60686/3)
-- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864/43)
-- [How to compile C++ files under compiler-rt with -stdlib=libc++?](https://discourse.llvm.org/t/how-to-compile-c-files-under-compiler-rt-with-stdlib-libc/60482/7)
 <!-- DISCOURSE-LLVM:END -->
