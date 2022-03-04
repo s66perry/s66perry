@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Better support for M68k](https://discourse.llvm.org/t/better-support-for-m68k/60679/1)
+- [LLDB stops after encountering errors when using &quot;-o&quot; and &quot;--source&quot;](https://discourse.llvm.org/t/lldb-stops-after-encountering-errors-when-using-o-and-source/60678/1)
 - [Any way to generate the dialect documenation with all the definitions of the MLIR operations?](https://discourse.llvm.org/t/any-way-to-generate-the-dialect-documenation-with-all-the-definitions-of-the-mlir-operations/60675/3)
 - [Any way to generate the dialect documenation with all the definitions of the MLIR operations?](https://discourse.llvm.org/t/any-way-to-generate-the-dialect-documenation-with-all-the-definitions-of-the-mlir-operations/60675/2)
 - [Any way to generate the dialect documenation with all the definitions of the MLIR operations?](https://discourse.llvm.org/t/any-way-to-generate-the-dialect-documenation-with-all-the-definitions-of-the-mlir-operations/60675/1)
-- [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/10)
-- [Https certificate for LLVM Flang pages](https://discourse.llvm.org/t/https-certificate-for-llvm-flang-pages/60519/3)
 <!-- DISCOURSE-LLVM:END -->
