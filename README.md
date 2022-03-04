@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to add new attributes to existing Ops?](https://discourse.llvm.org/t/how-to-add-new-attributes-to-existing-ops/60686/1)
-- [Is it possible to add parameter for indexing_maps of linalg.generic?](https://discourse.llvm.org/t/is-it-possible-to-add-parameter-for-indexing-maps-of-linalg-generic/60624/5)
-- [14.0.0-rc2 has been tagged](https://discourse.llvm.org/t/14-0-0-rc2-has-been-tagged/60621/6)
-- [Https certificate for LLVM Flang pages](https://discourse.llvm.org/t/https-certificate-for-llvm-flang-pages/60519/4)
-- [Using &lpar;DRR&rpar; on variadic operand](https://discourse.llvm.org/t/using-drr-on-variadic-operand/60681/4)
+- [How to identify the type of binaryoperator?](https://discourse.llvm.org/t/how-to-identify-the-type-of-binaryoperator/60688/3)
+- [How to identify the type of binaryoperator?](https://discourse.llvm.org/t/how-to-identify-the-type-of-binaryoperator/60688/2)
+- [How to identify the type of binaryoperator?](https://discourse.llvm.org/t/how-to-identify-the-type-of-binaryoperator/60688/1)
+- [How to add new attributes to existing Ops?](https://discourse.llvm.org/t/how-to-add-new-attributes-to-existing-ops/60686/2)
+- [Fuse linalg.tiled_loop](https://discourse.llvm.org/t/fuse-linalg-tiled-loop/60687/2)
 <!-- DISCOURSE-LLVM:END -->
