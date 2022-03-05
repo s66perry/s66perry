@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Get a specific Instruction Type in a Basic Block](https://discourse.llvm.org/t/get-a-specific-instruction-type-in-a-basic-block/60709/2)
+- [Parallel/thread-safe algorithms, allocators, and containers](https://discourse.llvm.org/t/parallel-thread-safe-algorithms-allocators-and-containers/60472/11)
 - [Get a specific Instruction Type in a Basic Block](https://discourse.llvm.org/t/get-a-specific-instruction-type-in-a-basic-block/60709/1)
 - [RFC: Split Elementwise trait, or create AbstractElementwise?](https://discourse.llvm.org/t/rfc-split-elementwise-trait-or-create-abstractelementwise/60705/3)
 - [Using &lpar;DRR&rpar; on variadic operand](https://discourse.llvm.org/t/using-drr-on-variadic-operand/60681/5)
-- [Meaning of hasSideEffects bit](https://discourse.llvm.org/t/meaning-of-hassideeffects-bit/60694/6)
-- [Memcpy&lpar;&rpar; not completely optimized away on Mac OS](https://discourse.llvm.org/t/memcpy-not-completely-optimized-away-on-mac-os/60707/1)
 <!-- DISCOURSE-LLVM:END -->
