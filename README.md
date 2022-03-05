@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Split Elementwise trait, or create AbstractElementwise?](https://discourse.llvm.org/t/rfc-split-elementwise-trait-or-create-abstractelementwise/60705/2)
+- [RFC: Split Elementwise trait, or create AbstractElementwise?](https://discourse.llvm.org/t/rfc-split-elementwise-trait-or-create-abstractelementwise/60705/1)
 - [Ask help to review or merge my commit](https://discourse.llvm.org/t/ask-help-to-review-or-merge-my-commit/60702/6)
 - [Ask help to review or merge my commit](https://discourse.llvm.org/t/ask-help-to-review-or-merge-my-commit/60702/5)
 - [Ask help to review or merge my commit](https://discourse.llvm.org/t/ask-help-to-review-or-merge-my-commit/60702/4)
-- [Ask help to review or merge my commit](https://discourse.llvm.org/t/ask-help-to-review-or-merge-my-commit/60702/3)
-- [Ask help to review or merge my commit](https://discourse.llvm.org/t/ask-help-to-review-or-merge-my-commit/60702/2)
 <!-- DISCOURSE-LLVM:END -->
