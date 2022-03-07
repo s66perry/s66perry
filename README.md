@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using &lpar;DRR&rpar; on variadic operand](https://discourse.llvm.org/t/using-drr-on-variadic-operand/60681/6)
-- [[AArch64] which vesion is should be expected in pass simple-register-coalescing?](https://discourse.llvm.org/t/aarch64-which-vesion-is-should-be-expected-in-pass-simple-register-coalescing/60720/2)
-- [Breakpoints are not getting hit](https://discourse.llvm.org/t/breakpoints-are-not-getting-hit/60728/1)
-- [How to maintain the atomicity of the instrumentation code in LLVM](https://discourse.llvm.org/t/how-to-maintain-the-atomicity-of-the-instrumentation-code-in-llvm/60722/4)
-- [RFC: Split Elementwise trait, or create AbstractElementwise?](https://discourse.llvm.org/t/rfc-split-elementwise-trait-or-create-abstractelementwise/60705/5)
+- [How to maintain the atomicity of the instrumentation code in LLVM](https://discourse.llvm.org/t/how-to-maintain-the-atomicity-of-the-instrumentation-code-in-llvm/60722/8)
+- [How to maintain the atomicity of the instrumentation code in LLVM](https://discourse.llvm.org/t/how-to-maintain-the-atomicity-of-the-instrumentation-code-in-llvm/60722/7)
+- [How to maintain the atomicity of the instrumentation code in LLVM](https://discourse.llvm.org/t/how-to-maintain-the-atomicity-of-the-instrumentation-code-in-llvm/60722/6)
+- [How to maintain the atomicity of the instrumentation code in LLVM](https://discourse.llvm.org/t/how-to-maintain-the-atomicity-of-the-instrumentation-code-in-llvm/60722/5)
+- [Ask help to review or merge my commit](https://discourse.llvm.org/t/ask-help-to-review-or-merge-my-commit/60702/8)
 <!-- DISCOURSE-LLVM:END -->
