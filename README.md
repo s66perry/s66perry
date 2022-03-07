@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Breakpoints are not getting hit](https://discourse.llvm.org/t/breakpoints-are-not-getting-hit/60728/2)
 - [find the scope of local variable](https://discourse.llvm.org/t/find-the-scope-of-local-variable/60692/4)
 - [MIPS Backend Code Owner](https://discourse.llvm.org/t/mips-backend-code-owner/60737/1)
 - [Using data model LLP64 with riscv64](https://discourse.llvm.org/t/using-data-model-llp64-with-riscv64/60736/1)
 - [How to register a pass at -O3 optimization level?](https://discourse.llvm.org/t/how-to-register-a-pass-at-o3-optimization-level/60721/3)
-- [How to maintain the atomicity of the instrumentation code in LLVM](https://discourse.llvm.org/t/how-to-maintain-the-atomicity-of-the-instrumentation-code-in-llvm/60722/8)
 <!-- DISCOURSE-LLVM:END -->
