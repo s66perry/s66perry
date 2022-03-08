@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Target triple adjustment on Mac OS X when using clang cc1 to execute the analyzer with CTU enabled](https://discourse.llvm.org/t/target-triple-adjustment-on-mac-os-x-when-using-clang-cc1-to-execute-the-analyzer-with-ctu-enabled/60762/1)
+- [Failed to compile hello world with clang built from source code](https://discourse.llvm.org/t/failed-to-compile-hello-world-with-clang-built-from-source-code/2375/14)
+- [Introductions?](https://discourse.llvm.org/t/introductions/60760/1)
 - [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/3)
 - [[mlir] LoopLikeOpInterface vs. RegionBranchOpInterface](https://discourse.llvm.org/t/mlir-looplikeopinterface-vs-regionbranchopinterface/60494/11)
-- [Potential bug in DebugTranslation::translate](https://discourse.llvm.org/t/potential-bug-in-debugtranslation-translate/60492/4)
-- [Potential bug in DebugTranslation::translate](https://discourse.llvm.org/t/potential-bug-in-debugtranslation-translate/60492/3)
-- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/2)
 <!-- DISCOURSE-LLVM:END -->
