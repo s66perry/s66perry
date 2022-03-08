@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Introductions?](https://discourse.llvm.org/t/introductions/60760/2)
-- [CIRCT/MLIR dialect&lpar;s&rpar; for on-the-fly compiler generation for programmable heterogeneous &lpar;AI&rpar; accelerators?](https://discourse.llvm.org/t/circt-mlir-dialect-s-for-on-the-fly-compiler-generation-for-programmable-heterogeneous-ai-accelerators/60151/4)
-- [Would the Asyncify pass from Binaryen work in LLVM/Clang?](https://discourse.llvm.org/t/would-the-asyncify-pass-from-binaryen-work-in-llvm-clang/60742/3)
-- [LLVM Weekly - #427, March 7th 2022](https://discourse.llvm.org/t/llvm-weekly-427-march-7th-2022/60746/2)
-- [[RFC] A C++ pseudo parser for tooling](https://discourse.llvm.org/t/rfc-a-c-pseudo-parser-for-tooling/59217/50)
+- [LLVM-openmp install problem](https://discourse.llvm.org/t/llvm-openmp-install-problem/60768/5)
+- [Formating MLIR tablegen code?](https://discourse.llvm.org/t/formating-mlir-tablegen-code/60767/3)
+- [[Phabricator] how to set Abandoned for a patch?](https://discourse.llvm.org/t/phabricator-how-to-set-abandoned-for-a-patch/60770/2)
+- [LLVM-openmp install problem](https://discourse.llvm.org/t/llvm-openmp-install-problem/60768/4)
+- [[Phabricator] how to set Abandoned for a patch?](https://discourse.llvm.org/t/phabricator-how-to-set-abandoned-for-a-patch/60770/1)
 <!-- DISCOURSE-LLVM:END -->
