@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Would the Asyncify pass from Binaryen work in LLVM/Clang?](https://discourse.llvm.org/t/would-the-asyncify-pass-from-binaryen-work-in-llvm-clang/60742/7)
+- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/8)
+- [LLDB stops after encountering errors when using &quot;-o&quot; and &quot;--source&quot;](https://discourse.llvm.org/t/lldb-stops-after-encountering-errors-when-using-o-and-source/60678/4)
 - [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/7)
 - [How to register a pass at -O3 optimization level?](https://discourse.llvm.org/t/how-to-register-a-pass-at-o3-optimization-level/60721/4)
-- [GitHub Milestone/Project for C++20 implementation in clang](https://discourse.llvm.org/t/github-milestone-project-for-c-20-implementation-in-clang/5809/28)
-- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588/2)
-- [MIPS Backend Code Owner](https://discourse.llvm.org/t/mips-backend-code-owner/60737/4)
 <!-- DISCOURSE-LLVM:END -->
