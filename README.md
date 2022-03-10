@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [EuroLLVM 2022 - Call for Talk Proposals](https://discourse.llvm.org/t/eurollvm-2022-call-for-talk-proposals/60833/2)
+- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/10)
+- [Adding region to an op](https://discourse.llvm.org/t/adding-region-to-an-op/60828/2)
+- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/10)
 - [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/9)
-- [Memcpy&lpar;&rpar; not completely optimized away on Mac OS](https://discourse.llvm.org/t/memcpy-not-completely-optimized-away-on-mac-os/60707/3)
-- [Function to disable the inline attribute](https://discourse.llvm.org/t/function-to-disable-the-inline-attribute/60850/1)
-- [New &#39;Vector Predication &#39; tag](https://discourse.llvm.org/t/new-vector-predication-tag/60849/1)
-- [Request for &#39;ve&#39; tag: Vector Engine target](https://discourse.llvm.org/t/request-for-ve-tag-vector-engine-target/60848/1)
 <!-- DISCOURSE-LLVM:END -->
