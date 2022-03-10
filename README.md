@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Getting started on linux with meson](https://discourse.llvm.org/t/getting-started-on-linux-with-meson/60839/1)
 - [Open MLIR Meeting 2/24/2022: Continuing discussion re ml_program](https://discourse.llvm.org/t/open-mlir-meeting-2-24-2022-continuing-discussion-re-ml-program/60441/7)
 - [Codegen Dialect Overview](https://discourse.llvm.org/t/codegen-dialect-overview/2723/10)
 - [Open MLIR Meeting 2/24/2022: Continuing discussion re ml_program](https://discourse.llvm.org/t/open-mlir-meeting-2-24-2022-continuing-discussion-re-ml-program/60441/6)
 - [LLVM version of latest swift version and keeping variable names for IR generation in swiftc](https://discourse.llvm.org/t/llvm-version-of-latest-swift-version-and-keeping-variable-names-for-ir-generation-in-swiftc/60832/2)
-- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/8)
 <!-- DISCOURSE-LLVM:END -->
