@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/9)
+- [Memcpy&lpar;&rpar; not completely optimized away on Mac OS](https://discourse.llvm.org/t/memcpy-not-completely-optimized-away-on-mac-os/60707/3)
+- [Function to disable the inline attribute](https://discourse.llvm.org/t/function-to-disable-the-inline-attribute/60850/1)
 - [New &#39;Vector Predication &#39; tag](https://discourse.llvm.org/t/new-vector-predication-tag/60849/1)
 - [Request for &#39;ve&#39; tag: Vector Engine target](https://discourse.llvm.org/t/request-for-ve-tag-vector-engine-target/60848/1)
-- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/9)
-- [Can I transfer the alloca in loop to static alloca in functionInfo?](https://discourse.llvm.org/t/can-i-transfer-the-alloca-in-loop-to-static-alloca-in-functioninfo/60843/1)
-- [Strange clang unused-but-set-variable error with volatile variables](https://discourse.llvm.org/t/strange-clang-unused-but-set-variable-error-with-volatile-variables/60841/1)
 <!-- DISCOURSE-LLVM:END -->
