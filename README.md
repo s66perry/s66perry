@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/30)
-- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/11)
-- [EuroLLVM 2022 - Call for Talk Proposals](https://discourse.llvm.org/t/eurollvm-2022-call-for-talk-proposals/60833/2)
-- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/10)
-- [Adding region to an op](https://discourse.llvm.org/t/adding-region-to-an-op/60828/2)
+- [Forward pass execution with custom forward derivative](https://discourse.llvm.org/t/forward-pass-execution-with-custom-forward-derivative/60857/3)
+- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/21)
+- [Forward pass execution with custom forward derivative](https://discourse.llvm.org/t/forward-pass-execution-with-custom-forward-derivative/60857/2)
+- [Forward pass execution with custom forward derivative](https://discourse.llvm.org/t/forward-pass-execution-with-custom-forward-derivative/60857/1)
+- [VSCode LLVM IR language support](https://discourse.llvm.org/t/vscode-llvm-ir-language-support/60856/1)
 <!-- DISCOURSE-LLVM:END -->
