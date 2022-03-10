@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/13)
+- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/12)
+- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/2)
 - [VSCode LLVM IR language support](https://discourse.llvm.org/t/vscode-llvm-ir-language-support/60856/2)
 - [[RFC] Enabling -Wstrict-prototypes by default in C](https://discourse.llvm.org/t/rfc-enabling-wstrict-prototypes-by-default-in-c/60521/32)
-- [Forward pass execution with custom forward derivative](https://discourse.llvm.org/t/forward-pass-execution-with-custom-forward-derivative/60857/3)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/21)
-- [Forward pass execution with custom forward derivative](https://discourse.llvm.org/t/forward-pass-execution-with-custom-forward-derivative/60857/2)
 <!-- DISCOURSE-LLVM:END -->
