@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM version of latest swift version and keeping variable names for IR generation in swiftc](https://discourse.llvm.org/t/llvm-version-of-latest-swift-version-and-keeping-variable-names-for-ir-generation-in-swiftc/60832/2)
+- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/8)
+- [EuroLLVM 2022 - Call for Talk Proposals](https://discourse.llvm.org/t/eurollvm-2022-call-for-talk-proposals/60833/1)
+- [LLVM version of latest swift version and keeping variable names for IR generation in swiftc](https://discourse.llvm.org/t/llvm-version-of-latest-swift-version-and-keeping-variable-names-for-ir-generation-in-swiftc/60832/1)
 - [LLDB stops after encountering errors when using &quot;-o&quot; and &quot;--source&quot;](https://discourse.llvm.org/t/lldb-stops-after-encountering-errors-when-using-o-and-source/60678/6)
-- [DAGCombiner: chain improvement going past non-aliasing monotonic atomic ops](https://discourse.llvm.org/t/dagcombiner-chain-improvement-going-past-non-aliasing-monotonic-atomic-ops/60826/2)
-- [Would the Asyncify pass from Binaryen work in LLVM/Clang?](https://discourse.llvm.org/t/would-the-asyncify-pass-from-binaryen-work-in-llvm-clang/60742/8)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/20)
-- [Are you using -mllvm -consider-local-interval-cost?](https://discourse.llvm.org/t/are-you-using-mllvm-consider-local-interval-cost/60744/2)
 <!-- DISCOURSE-LLVM:END -->
