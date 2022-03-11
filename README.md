@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/6)
+- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/5)
+- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/15)
+- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/14)
 - [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/13)
-- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/12)
-- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/4)
-- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/3)
-- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/11)
 <!-- DISCOURSE-LLVM:END -->
