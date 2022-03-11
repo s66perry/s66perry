@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Relation between SSA and MLIR](https://discourse.llvm.org/t/relation-between-ssa-and-mlir/60883/8)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/5)
-- [Relation between SSA and MLIR](https://discourse.llvm.org/t/relation-between-ssa-and-mlir/60883/7)
-- [Relation between SSA and MLIR](https://discourse.llvm.org/t/relation-between-ssa-and-mlir/60883/6)
-- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/18)
+- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/6)
+- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/5)
+- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/4)
+- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/3)
+- [Stuck reviews](https://discourse.llvm.org/t/stuck-reviews/60885/3)
 <!-- DISCOURSE-LLVM:END -->
