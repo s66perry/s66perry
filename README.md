@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/17)
 - [Relation between SSA and MLIR](https://discourse.llvm.org/t/relation-between-ssa-and-mlir/60883/2)
 - [Stuck reviews](https://discourse.llvm.org/t/stuck-reviews/60885/1)
 - [Should data races become poison instead of undef?](https://discourse.llvm.org/t/should-data-races-become-poison-instead-of-undef/60873/2)
 - [Relation between SSA and MLIR](https://discourse.llvm.org/t/relation-between-ssa-and-mlir/60883/1)
-- [Why is the AST different when using ClangTool](https://discourse.llvm.org/t/why-is-the-ast-different-when-using-clangtool/60882/1)
 <!-- DISCOURSE-LLVM:END -->
