@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Relation between SSA and MLIR](https://discourse.llvm.org/t/relation-between-ssa-and-mlir/60883/1)
+- [Why is the AST different when using ClangTool](https://discourse.llvm.org/t/why-is-the-ast-different-when-using-clangtool/60882/1)
+- [[RFC] lldb integration with &lpar;user mode&rpar; qemu](https://discourse.llvm.org/t/rfc-lldb-integration-with-user-mode-qemu/59170/16)
 - [Vector Engine - New Codeowner](https://discourse.llvm.org/t/vector-engine-new-codeowner/60862/2)
 - [[analyzer] Refactoring AnalyzerOptions](https://discourse.llvm.org/t/analyzer-refactoring-analyzeroptions/50160/6)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/4)
-- [Building with cmake in vs2022](https://discourse.llvm.org/t/building-with-cmake-in-vs2022/60863/5)
-- [Should data races become poison instead of undef?](https://discourse.llvm.org/t/should-data-races-become-poison-instead-of-undef/60873/1)
 <!-- DISCOURSE-LLVM:END -->
