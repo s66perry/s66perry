@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/6)
-- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/5)
-- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/8)
-- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869/16)
-- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/7)
+- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/10)
+- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/7)
+- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/19)
+- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/6)
+- [Unrecognized C++ attributes](https://discourse.llvm.org/t/unrecognized-c-attributes/60891/9)
 <!-- DISCOURSE-LLVM:END -->
