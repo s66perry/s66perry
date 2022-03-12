@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clarify the behavior of ElementWise Fusion](https://discourse.llvm.org/t/clarify-the-behavior-of-elementwise-fusion/60902/1)
+- [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/3)
 - [MIPS Backend Code Owner](https://discourse.llvm.org/t/mips-backend-code-owner/60737/6)
 - [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/2)
 - [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/1)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/8)
-- [RFC: Using a GitHub Project for managing releases](https://discourse.llvm.org/t/rfc-using-a-github-project-for-managing-releases/60895/3)
 <!-- DISCOURSE-LLVM:END -->
