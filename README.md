@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/2)
+- [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/1)
+- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/8)
+- [RFC: Using a GitHub Project for managing releases](https://discourse.llvm.org/t/rfc-using-a-github-project-for-managing-releases/60895/3)
 - [MIPS Backend Code Owner](https://discourse.llvm.org/t/mips-backend-code-owner/60737/5)
-- [Broken frame chain prolog on x86_64](https://discourse.llvm.org/t/broken-frame-chain-prolog-on-x86-64/60900/1)
-- [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897/1)
-- [RFC: Using a GitHub Project for managing releases](https://discourse.llvm.org/t/rfc-using-a-github-project-for-managing-releases/60895/2)
-- [RFC: Using a GitHub Project for managing releases](https://discourse.llvm.org/t/rfc-using-a-github-project-for-managing-releases/60895/1)
 <!-- DISCOURSE-LLVM:END -->
