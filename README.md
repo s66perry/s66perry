@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/4)
-- [AVR Backend Code Review](https://discourse.llvm.org/t/avr-backend-code-review/60920/2)
-- [AVR Backend Code Review](https://discourse.llvm.org/t/avr-backend-code-review/60920/1)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798/9)
-- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588/3)
+- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/9)
+- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/19)
+- [Fuse linalg.tiled_loop](https://discourse.llvm.org/t/fuse-linalg-tiled-loop/60687/3)
+- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/18)
+- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/17)
 <!-- DISCOURSE-LLVM:END -->
