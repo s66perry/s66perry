@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/5)
 - [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/9)
 - [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/19)
 - [Fuse linalg.tiled_loop](https://discourse.llvm.org/t/fuse-linalg-tiled-loop/60687/3)
 - [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/18)
-- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/17)
 <!-- DISCOURSE-LLVM:END -->
