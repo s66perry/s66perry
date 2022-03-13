@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/16)
 - [Broken frame chain prolog on x86_64](https://discourse.llvm.org/t/broken-frame-chain-prolog-on-x86-64/60900/3)
 - [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/15)
 - [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/14)
 - [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/13)
-- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/12)
 <!-- DISCOURSE-LLVM:END -->
