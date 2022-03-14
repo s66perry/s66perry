@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is that possible to extend FloatType &lpar;e.g., Float8Type&rpar;?](https://discourse.llvm.org/t/is-that-possible-to-extend-floattype-e-g-float8type/60928/1)
+- [Fuse linalg.tiled_loop](https://discourse.llvm.org/t/fuse-linalg-tiled-loop/60687/4)
 - [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/11)
 - [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927/1)
 - [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897/3)
-- [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897/2)
-- [Memref to bare pointer conversion when lowering to GPU code](https://discourse.llvm.org/t/memref-to-bare-pointer-conversion-when-lowering-to-gpu-code/60916/3)
 <!-- DISCOURSE-LLVM:END -->
