@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927/1)
+- [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897/3)
+- [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897/2)
+- [Memref to bare pointer conversion when lowering to GPU code](https://discourse.llvm.org/t/memref-to-bare-pointer-conversion-when-lowering-to-gpu-code/60916/3)
 - [Why is the AST different when using ClangTool](https://discourse.llvm.org/t/why-is-the-ast-different-when-using-clangtool/60882/3)
-- [[RFC] Adding HLSL and DirectX support to Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-hlsl-and-directx-support-to-clang-llvm/60783/20)
-- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/10)
-- [Regarding Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/regarding-instrumentation-of-clang-llvm-for-compile-time/60377/6)
-- [[clang-format] spaceRequiredBefore vs spaceRequiredBetween](https://discourse.llvm.org/t/clang-format-spacerequiredbefore-vs-spacerequiredbetween/60901/5)
 <!-- DISCOURSE-LLVM:END -->
