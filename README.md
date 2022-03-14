@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/12)
-- [Std::shared_ptr in target region](https://discourse.llvm.org/t/std-shared-ptr-in-target-region/60652/7)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/22)
-- [Include what you use / include cleanup](https://discourse.llvm.org/t/include-what-you-use-include-cleanup/5831/31)
-- [RFC: Using a GitHub Project for managing releases](https://discourse.llvm.org/t/rfc-using-a-github-project-for-managing-releases/60895/4)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/4)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/3)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927/2)
+- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890/13)
+- [Next Steps: Outreachy &amp; GSOC - Help needed!](https://discourse.llvm.org/t/next-steps-outreachy-gsoc-help-needed/60285/5)
 <!-- DISCOURSE-LLVM:END -->
