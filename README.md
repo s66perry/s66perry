@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/7)
+- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588/4)
+- [Should data races become poison instead of undef?](https://discourse.llvm.org/t/should-data-races-become-poison-instead-of-undef/60873/5)
 - [LTO and Symbol duplication](https://discourse.llvm.org/t/lto-and-symbol-duplication/60938/2)
 - [Should data races become poison instead of undef?](https://discourse.llvm.org/t/should-data-races-become-poison-instead-of-undef/60873/4)
-- [Next Steps: Outreachy &amp; GSOC - Help needed!](https://discourse.llvm.org/t/next-steps-outreachy-gsoc-help-needed/60285/8)
-- [LLVM Weekly - #428, March 14th 2022](https://discourse.llvm.org/t/llvm-weekly-428-march-14th-2022/60934/5)
-- [LTO and Symbol duplication](https://discourse.llvm.org/t/lto-and-symbol-duplication/60938/1)
 <!-- DISCOURSE-LLVM:END -->
