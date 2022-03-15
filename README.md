@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927/5)
+- [Git autocrlf for Windows - why does the Getting Started guide say to use false?](https://discourse.llvm.org/t/git-autocrlf-for-windows-why-does-the-getting-started-guide-say-to-use-false/54226/8)
+- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588/8)
 - [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588/7)
 - [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/25)
-- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588/6)
-- [How to benchmark a new compiler?](https://discourse.llvm.org/t/how-to-benchmark-a-new-compiler/60929/4)
-- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588/5)
 <!-- DISCOURSE-LLVM:END -->
