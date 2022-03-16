@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/21)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/20)
 - [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/19)
 - [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/18)
 - [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897/13)
-- [Open MLIR Meeting 2/24/2022: Continuing discussion re ml_program](https://discourse.llvm.org/t/open-mlir-meeting-2-24-2022-continuing-discussion-re-ml-program/60441/9)
-- [Nonnull assumption on literal pointers not propagated to icmp when in different address spaces](https://discourse.llvm.org/t/nonnull-assumption-on-literal-pointers-not-propagated-to-icmp-when-in-different-address-spaces/60975/3)
 <!-- DISCOURSE-LLVM:END -->
