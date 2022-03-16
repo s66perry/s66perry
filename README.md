@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Incorrect AST column numbers?](https://discourse.llvm.org/t/incorrect-ast-column-numbers/60974/3)
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/15)
-- [Libc++ Office Hours](https://discourse.llvm.org/t/libc-office-hours/60997/1)
-- [How to set DevirtModule&#39;s attribute RemarksEnabled true?](https://discourse.llvm.org/t/how-to-set-devirtmodules-attribute-remarksenabled-true/60986/2)
-- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027/14)
+- [LLDB fails to access field info of dynamic values](https://discourse.llvm.org/t/lldb-fails-to-access-field-info-of-dynamic-values/60995/2)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/16)
+- [Spam accounts on Phabricator](https://discourse.llvm.org/t/spam-accounts-on-phabricator/60631/7)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927/10)
+- [[doc] mlir-translate / mlir-opt](https://discourse.llvm.org/t/doc-mlir-translate-mlir-opt/60751/29)
 <!-- DISCOURSE-LLVM:END -->
