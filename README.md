@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A C++ pseudo parser for tooling](https://discourse.llvm.org/t/rfc-a-c-pseudo-parser-for-tooling/59217/51)
-- [What to do with noreturn &lpar;&amp; other&rpar; function types](https://discourse.llvm.org/t/what-to-do-with-noreturn-other-function-types/60976/1)
-- [How to benchmark a new compiler?](https://discourse.llvm.org/t/how-to-benchmark-a-new-compiler/60929/5)
-- [Llvm_unreachable is widely misused](https://discourse.llvm.org/t/llvm-unreachable-is-widely-misused/60587/23)
-- [MLIR.Examples/standalone::test.toy frequently times out in Phabriactor pre-commit testing](https://discourse.llvm.org/t/mlir-examples-standalone-test-toy-frequently-times-out-in-phabriactor-pre-commit-testing/60971/4)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/14)
+- [Is there any status regarding 128-bit integer support in clang?](https://discourse.llvm.org/t/is-there-any-status-regarding-128-bit-integer-support-in-clang/59889/13)
+- [Eliding dialect prefix for types](https://discourse.llvm.org/t/eliding-dialect-prefix-for-types/4694/11)
+- [[Torch-MLIR Community Meeting] 2022-04-04](https://discourse.llvm.org/t/torch-mlir-community-meeting-2022-04-04/60978/1)
+- [Canceling March 16 C/C+ language working group](https://discourse.llvm.org/t/canceling-march-16-c-c-language-working-group/60977/1)
 <!-- DISCOURSE-LLVM:END -->
