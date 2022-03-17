@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Minimal build for just clang-format](https://discourse.llvm.org/t/minimal-build-for-just-clang-format/61009/5)
 - [List of clang-tidy checks supported in clangd](https://discourse.llvm.org/t/list-of-clang-tidy-checks-supported-in-clangd/61013/2)
 - [Canceling March 16 C/C+ language working group](https://discourse.llvm.org/t/canceling-march-16-c-c-language-working-group/60977/2)
 - [GSoC 2022: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2022-projects-proposals-and-other-information/60386/9)
 - [Minimal build for just clang-format](https://discourse.llvm.org/t/minimal-build-for-just-clang-format/61009/4)
-- [GSoC 2022: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2022-projects-proposals-and-other-information/60386/8)
 <!-- DISCOURSE-LLVM:END -->
