@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Sema] Shipping a better NRVO to Clang](https://discourse.llvm.org/t/sema-shipping-a-better-nrvo-to-clang/61021/2)
-- [[RFC]: Add AddressSanitizer support for VxWorks OS](https://discourse.llvm.org/t/rfc-add-addresssanitizer-support-for-vxworks-os/61023/1)
-- [[Sema] Shipping a better NRVO to Clang](https://discourse.llvm.org/t/sema-shipping-a-better-nrvo-to-clang/61021/1)
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;propsoal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-propsoal-v2/60907/24)
-- [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897/14)
+- [Minimal build for just clang-format](https://discourse.llvm.org/t/minimal-build-for-just-clang-format/61009#post_9)
+- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_2)
+- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_1)
+- [What could be the reason for a missing mnemonic in a type in some situations?](https://discourse.llvm.org/t/what-could-be-the-reason-for-a-missing-mnemonic-in-a-type-in-some-situations/61006#post_4)
+- [[Sema] Shipping a better NRVO to Clang](https://discourse.llvm.org/t/sema-shipping-a-better-nrvo-to-clang/61021#post_2)
 <!-- DISCOURSE-LLVM:END -->
