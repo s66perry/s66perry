@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Retrospective - The Move to Discourse &lpar;Feedback by March 7th&rpar;](https://discourse.llvm.org/t/retrospective-the-move-to-discourse-feedback-by-march-7th/59861#post_20)
+- [New &#39;Vector Predication &#39; tag](https://discourse.llvm.org/t/new-vector-predication-tag/60849#post_2)
+- [Request for &#39;ve&#39; tag: Vector Engine target](https://discourse.llvm.org/t/request-for-ve-tag-vector-engine-target/60848#post_2)
+- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_3)
 - [Minimal build for just clang-format](https://discourse.llvm.org/t/minimal-build-for-just-clang-format/61009#post_9)
-- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_2)
-- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_1)
-- [What could be the reason for a missing mnemonic in a type in some situations?](https://discourse.llvm.org/t/what-could-be-the-reason-for-a-missing-mnemonic-in-a-type-in-some-situations/61006#post_4)
-- [[Sema] Shipping a better NRVO to Clang](https://discourse.llvm.org/t/sema-shipping-a-better-nrvo-to-clang/61021#post_2)
 <!-- DISCOURSE-LLVM:END -->
