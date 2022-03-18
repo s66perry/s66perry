@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Opt -load fails to load built-in pass library due to namespace issue](https://discourse.llvm.org/t/opt-load-fails-to-load-built-in-pass-library-due-to-namespace-issue/61065#post_1)
+- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588#post_10)
 - [&quot;Read&quot; topics staying &quot;unread&quot;](https://discourse.llvm.org/t/read-topics-staying-unread/61063#post_1)
 - [How do I extract tokens from a string_literal?](https://discourse.llvm.org/t/how-do-i-extract-tokens-from-a-string-literal/60425#post_2)
 - [Enable single-line case statements in LLVM clang-format style?](https://discourse.llvm.org/t/enable-single-line-case-statements-in-llvm-clang-format-style/61062#post_2)
-- [Enable single-line case statements in LLVM clang-format style?](https://discourse.llvm.org/t/enable-single-line-case-statements-in-llvm-clang-format-style/61062#post_1)
-- [[RFC] More complete multiprocess support in LLDB](https://discourse.llvm.org/t/rfc-more-complete-multiprocess-support-in-lldb/61061#post_1)
 <!-- DISCOURSE-LLVM:END -->
