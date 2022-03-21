@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_7)
+- [How to go from LLVM Src to minimal development setup for compiler development](https://discourse.llvm.org/t/how-to-go-from-llvm-src-to-minimal-development-setup-for-compiler-development/61084#post_4)
+- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027#post_17)
+- [Nonnull assumption on literal pointers not propagated to icmp when in different address spaces](https://discourse.llvm.org/t/nonnull-assumption-on-literal-pointers-not-propagated-to-icmp-when-in-different-address-spaces/60975#post_8)
 - [EuroLLVM 2022 - Call for Talk Proposals](https://discourse.llvm.org/t/eurollvm-2022-call-for-talk-proposals/60833#post_3)
-- [LLVM Weekly - #429, March 21st 2022](https://discourse.llvm.org/t/llvm-weekly-429-march-21st-2022/61113#post_1)
-- [Cannot unsubscribe from cfe-commits](https://discourse.llvm.org/t/cannot-unsubscribe-from-cfe-commits/61109#post_2)
-- [LLVM 14.0.0 Release Update](https://discourse.llvm.org/t/llvm-14-0-0-release-update/60650#post_2)
-- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927#post_17)
 <!-- DISCOURSE-LLVM:END -->
