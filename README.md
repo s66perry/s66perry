@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Bazel support to libc and libcxx + libcxxabi](https://discourse.llvm.org/t/bazel-support-to-libc-and-libcxx-libcxxabi/60988#post_3)
+- [How to use bugpoint?](https://discourse.llvm.org/t/how-to-use-bugpoint/61054#post_4)
+- [How to go from LLVM Src to minimal development setup for compiler development](https://discourse.llvm.org/t/how-to-go-from-llvm-src-to-minimal-development-setup-for-compiler-development/61084#post_2)
 - [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_4)
 - [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_3)
-- [Enable single-line case statements in LLVM clang-format style?](https://discourse.llvm.org/t/enable-single-line-case-statements-in-llvm-clang-format-style/61062#post_8)
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983?page=2#post_37)
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_2)
 <!-- DISCOURSE-LLVM:END -->
