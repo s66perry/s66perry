@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=2#post_31)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983?page=2#post_38)
+- [Bazel support to libc and libcxx + libcxxabi](https://discourse.llvm.org/t/bazel-support-to-libc-and-libcxx-libcxxabi/60988#post_5)
 - [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_7)
 - [How to go from LLVM Src to minimal development setup for compiler development](https://discourse.llvm.org/t/how-to-go-from-llvm-src-to-minimal-development-setup-for-compiler-development/61084#post_4)
-- [EuroLLVM 2022 - Details, Timeline, Volunteers Needed](https://discourse.llvm.org/t/eurollvm-2022-details-timeline-volunteers-needed/60027#post_17)
-- [Nonnull assumption on literal pointers not propagated to icmp when in different address spaces](https://discourse.llvm.org/t/nonnull-assumption-on-literal-pointers-not-propagated-to-icmp-when-in-different-address-spaces/60975#post_8)
-- [EuroLLVM 2022 - Call for Talk Proposals](https://discourse.llvm.org/t/eurollvm-2022-call-for-talk-proposals/60833#post_3)
 <!-- DISCOURSE-LLVM:END -->
