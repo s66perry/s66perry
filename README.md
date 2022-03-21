@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=2#post_31)
-- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983?page=2#post_38)
-- [Bazel support to libc and libcxx + libcxxabi](https://discourse.llvm.org/t/bazel-support-to-libc-and-libcxx-libcxxabi/60988#post_5)
-- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_7)
-- [How to go from LLVM Src to minimal development setup for compiler development](https://discourse.llvm.org/t/how-to-go-from-llvm-src-to-minimal-development-setup-for-compiler-development/61084#post_4)
+- [Regarding Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/regarding-instrumentation-of-clang-llvm-for-compile-time/60377#post_10)
+- [Approach to fuse specific loop iterations in LinAlg](https://discourse.llvm.org/t/approach-to-fuse-specific-loop-iterations-in-linalg/61116#post_1)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=2#post_33)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=2#post_32)
+- [RFC: Split Elementwise trait, or create AbstractElementwise?](https://discourse.llvm.org/t/rfc-split-elementwise-trait-or-create-abstractelementwise/60705#post_9)
 <!-- DISCOURSE-LLVM:END -->
