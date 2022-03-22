@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_6)
-- [Longer .sv files from LLVM CIRCT than .v files from Chisel](https://discourse.llvm.org/t/longer-sv-files-from-llvm-circt-than-v-files-from-chisel/61130#post_4)
-- [Remove undef: move uninitialized memory to poison](https://discourse.llvm.org/t/remove-undef-move-uninitialized-memory-to-poison/61123#post_2)
-- [How to inline functions with different calling convention from caller?](https://discourse.llvm.org/t/how-to-inline-functions-with-different-calling-convention-from-caller/61138#post_2)
-- [Create a symbol table using LLVM&#39;s pass](https://discourse.llvm.org/t/create-a-symbol-table-using-llvms-pass/61144#post_3)
+- [Bazel support to libc and libcxx + libcxxabi](https://discourse.llvm.org/t/bazel-support-to-libc-and-libcxx-libcxxabi/60988#post_8)
+- [Spam accounts on Phabricator](https://discourse.llvm.org/t/spam-accounts-on-phabricator/60631#post_12)
+- [Bazel support to libc and libcxx + libcxxabi](https://discourse.llvm.org/t/bazel-support-to-libc-and-libcxx-libcxxabi/60988#post_7)
+- [Creating working group tags](https://discourse.llvm.org/t/creating-working-group-tags/61147#post_1)
+- [Distribution lists in Discourse](https://discourse.llvm.org/t/distribution-lists-in-discourse/61146#post_1)
 <!-- DISCOURSE-LLVM:END -->
