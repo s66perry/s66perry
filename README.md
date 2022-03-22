@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-cl suddenly not understanding some flags when cross-compiling](https://discourse.llvm.org/t/clang-cl-suddenly-not-understanding-some-flags-when-cross-compiling/61129#post_2)
+- [Lowering memref&lt;?xi8&gt; to LLVM when a bare pointer conversion flag is set](https://discourse.llvm.org/t/lowering-memref-xi8-to-llvm-when-a-bare-pointer-conversion-flag-is-set/61134#post_1)
+- [Problem about inlineRegionBefore func](https://discourse.llvm.org/t/problem-about-inlineregionbefore-func/61131#post_2)
+- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_5)
 - [Clang Options Warning](https://discourse.llvm.org/t/clang-options-warning/61132#post_2)
-- [Problem about inline pass](https://discourse.llvm.org/t/problem-about-inline-pass/61102#post_2)
-- [Clang Options Warning](https://discourse.llvm.org/t/clang-options-warning/61132#post_1)
-- [Problem about inlineRegionBefore func](https://discourse.llvm.org/t/problem-about-inlineregionbefore-func/61131#post_1)
-- [Approach to fuse specific loop iterations in LinAlg](https://discourse.llvm.org/t/approach-to-fuse-specific-loop-iterations-in-linalg/61116#post_3)
 <!-- DISCOURSE-LLVM:END -->
