@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Approach to fuse specific loop iterations in LinAlg](https://discourse.llvm.org/t/approach-to-fuse-specific-loop-iterations-in-linalg/61116#post_5)
+- [Should &quot;automatic logic&quot; appear when firtool --verilog is specified?](https://discourse.llvm.org/t/should-automatic-logic-appear-when-firtool-verilog-is-specified/61160#post_1)
+- [14.0.0-final has been tagged](https://discourse.llvm.org/t/14-0-0-final-has-been-tagged/61153#post_3)
+- [Distribution lists in Discourse](https://discourse.llvm.org/t/distribution-lists-in-discourse/61146#post_3)
 - [Function recursive definition error](https://discourse.llvm.org/t/function-recursive-definition-error/61056#post_7)
-- [Function recursive definition error](https://discourse.llvm.org/t/function-recursive-definition-error/61056#post_6)
-- [14.0.0-final has been tagged](https://discourse.llvm.org/t/14-0-0-final-has-been-tagged/61153#post_2)
-- [Why &#39;--start-group&#39; &amp; &#39;--end-group&#39; suppress the duplicate symbol error?](https://discourse.llvm.org/t/why-start-group-end-group-suppress-the-duplicate-symbol-error/61157#post_2)
-- [Function recursive definition error](https://discourse.llvm.org/t/function-recursive-definition-error/61056#post_5)
 <!-- DISCOURSE-LLVM:END -->
