@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_8)
+- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_7)
 - [New &#39;Vector Predication &#39; tag](https://discourse.llvm.org/t/new-vector-predication-tag/60849#post_3)
 - [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415#post_15)
 - [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415#post_14)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415#post_13)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415#post_12)
 <!-- DISCOURSE-LLVM:END -->
