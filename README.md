@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Debugging the Any trait object in Rust](https://discourse.llvm.org/t/debugging-the-any-trait-object-in-rust/61086#post_2)
-- [[RFC] More complete multiprocess support in LLDB](https://discourse.llvm.org/t/rfc-more-complete-multiprocess-support-in-lldb/61061#post_5)
-- [Creating working group tags](https://discourse.llvm.org/t/creating-working-group-tags/61147#post_2)
-- [Approach to fuse specific loop iterations in LinAlg](https://discourse.llvm.org/t/approach-to-fuse-specific-loop-iterations-in-linalg/61116#post_4)
-- [Longer .sv files from LLVM CIRCT than .v files from Chisel](https://discourse.llvm.org/t/longer-sv-files-from-llvm-circt-than-v-files-from-chisel/61130#post_8)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415#post_11)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415#post_10)
+- [RISCV and execute-only memory](https://discourse.llvm.org/t/riscv-and-execute-only-memory/61152#post_1)
+- [How to find out the instruction that is causing this error?](https://discourse.llvm.org/t/how-to-find-out-the-instruction-that-is-causing-this-error/61104#post_7)
+- [[Phabricator] how to add Description when update a patch?](https://discourse.llvm.org/t/phabricator-how-to-add-description-when-update-a-patch/61027#post_9)
 <!-- DISCOURSE-LLVM:END -->
