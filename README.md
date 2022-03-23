@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415#post_16)
 - [[Phabricator] Getting a code review](https://discourse.llvm.org/t/phabricator-getting-a-code-review/61164#post_2)
+- [Error when lower affine to gpu &lpar;affine.load is not recognized&rpar;](https://discourse.llvm.org/t/error-when-lower-affine-to-gpu-affine-load-is-not-recognized/61167#post_1)
 - [Function recursive definition error](https://discourse.llvm.org/t/function-recursive-definition-error/61056#post_9)
 - [Function recursive definition error](https://discourse.llvm.org/t/function-recursive-definition-error/61056#post_8)
-- [[Phabricator] Getting a code review](https://discourse.llvm.org/t/phabricator-getting-a-code-review/61164#post_1)
-- [Why &#39;--start-group&#39; &amp; &#39;--end-group&#39; suppress the duplicate symbol error?](https://discourse.llvm.org/t/why-start-group-end-group-suppress-the-duplicate-symbol-error/61157#post_5)
 <!-- DISCOURSE-LLVM:END -->
