@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_2)
-- [14.0.0-final has been tagged](https://discourse.llvm.org/t/14-0-0-final-has-been-tagged/61153#post_9)
-- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_1)
-- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588#post_16)
-- [[RFC] More complete multiprocess support in LLDB](https://discourse.llvm.org/t/rfc-more-complete-multiprocess-support-in-lldb/61061#post_7)
+- [How to determine which LLVM components are necessary for linking?](https://discourse.llvm.org/t/how-to-determine-which-llvm-components-are-necessary-for-linking/61206#post_1)
+- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_3)
+- [Serialized LLVM remarks in clang driver](https://discourse.llvm.org/t/serialized-llvm-remarks-in-clang-driver/61200#post_2)
+- [Implement a shared-memory based JITLinkMemoryManager for out-of-process JITting](https://discourse.llvm.org/t/implement-a-shared-memory-based-jitlinkmemorymanager-for-out-of-process-jitting/60320#post_4)
+- [DWARF forward template parameters + type units](https://discourse.llvm.org/t/dwarf-forward-template-parameters-type-units/5941#post_11)
 <!-- DISCOURSE-LLVM:END -->
