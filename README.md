@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_2)
+- [14.0.0-final has been tagged](https://discourse.llvm.org/t/14-0-0-final-has-been-tagged/61153#post_9)
+- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_1)
 - [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588#post_16)
 - [[RFC] More complete multiprocess support in LLDB](https://discourse.llvm.org/t/rfc-more-complete-multiprocess-support-in-lldb/61061#post_7)
-- [RFC: Split Elementwise trait, or create AbstractElementwise?](https://discourse.llvm.org/t/rfc-split-elementwise-trait-or-create-abstractelementwise/60705#post_11)
-- [Which one is suggested ? Linux or Windows](https://discourse.llvm.org/t/which-one-is-suggested-linux-or-windows/61201#post_3)
-- [[RFC] More complete multiprocess support in LLDB](https://discourse.llvm.org/t/rfc-more-complete-multiprocess-support-in-lldb/61061#post_6)
 <!-- DISCOURSE-LLVM:END -->
