@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How are the Integration tests executed flow](https://discourse.llvm.org/t/how-are-the-integration-tests-executed-flow/61219#post_2)
-- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_11)
-- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_10)
-- [[RFC] C++17 hardware constructive / destructive interference size](https://discourse.llvm.org/t/rfc-c-17-hardware-constructive-destructive-interference-size/48674?page=2#post_38)
-- [Why do we need MDString for metadata in LLVM](https://discourse.llvm.org/t/why-do-we-need-mdstring-for-metadata-in-llvm/61216#post_2)
+- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_13)
+- [[RFC] C++17 hardware constructive / destructive interference size](https://discourse.llvm.org/t/rfc-c-17-hardware-constructive-destructive-interference-size/48674?page=2#post_39)
+- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_12)
+- [[One-Shot-Bufferizer] Error when bufferizing tensor.collapse_shape](https://discourse.llvm.org/t/one-shot-bufferizer-error-when-bufferizing-tensor-collapse-shape/61203#post_6)
+- [Need help reducing this testcase with bugpoint](https://discourse.llvm.org/t/need-help-reducing-this-testcase-with-bugpoint/61213#post_5)
 <!-- DISCOURSE-LLVM:END -->
