@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to create a global pointer variable for a custom structure](https://discourse.llvm.org/t/how-to-create-a-global-pointer-variable-for-a-custom-structure/61199#post_4)
+- [How to create a global pointer variable for a custom structure](https://discourse.llvm.org/t/how-to-create-a-global-pointer-variable-for-a-custom-structure/61199#post_3)
 - [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_9)
 - [Glibc support policy?](https://discourse.llvm.org/t/glibc-support-policy/61209#post_2)
 - [Approach to fuse specific loop iterations in LinAlg](https://discourse.llvm.org/t/approach-to-fuse-specific-loop-iterations-in-linalg/61116#post_8)
-- [LLDB fails to unwind stack from minidump](https://discourse.llvm.org/t/lldb-fails-to-unwind-stack-from-minidump/61210#post_2)
-- [How to create a global pointer variable for a custom structure](https://discourse.llvm.org/t/how-to-create-a-global-pointer-variable-for-a-custom-structure/61199#post_2)
 <!-- DISCOURSE-LLVM:END -->
