@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Changing Clangs Crash Reproduction Feature](https://discourse.llvm.org/t/changing-clangs-crash-reproduction-feature/61171#post_2)
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_10)
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_9)
-- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_13)
-- [[RFC] More complete multiprocess support in LLDB](https://discourse.llvm.org/t/rfc-more-complete-multiprocess-support-in-lldb/61061#post_9)
+- [How are the Integration tests executed flow](https://discourse.llvm.org/t/how-are-the-integration-tests-executed-flow/61219#post_2)
+- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_11)
+- [Replacing the *-commits mailing lists](https://discourse.llvm.org/t/replacing-the-commits-mailing-lists/61204#post_10)
+- [[RFC] C++17 hardware constructive / destructive interference size](https://discourse.llvm.org/t/rfc-c-17-hardware-constructive-destructive-interference-size/48674?page=2#post_38)
+- [Why do we need MDString for metadata in LLVM](https://discourse.llvm.org/t/why-do-we-need-mdstring-for-metadata-in-llvm/61216#post_2)
 <!-- DISCOURSE-LLVM:END -->
