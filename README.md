@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Distribution lists in Discourse](https://discourse.llvm.org/t/distribution-lists-in-discourse/61146#post_5)
+- [Questions about the devirt optimization, `-fstrict-vtable-pointers` seems to change the program behavior](https://discourse.llvm.org/t/questions-about-the-devirt-optimization-fstrict-vtable-pointers-seems-to-change-the-program-behavior/61246#post_7)
 - [[MLIR] Strided memrefs](https://discourse.llvm.org/t/mlir-strided-memrefs/61255#post_1)
 - [[LibTooling] High level C++ binding generator for rust](https://discourse.llvm.org/t/libtooling-high-level-c-binding-generator-for-rust/61254#post_1)
 - [Fat-pointer Transformation pass](https://discourse.llvm.org/t/fat-pointer-transformation-pass/61248#post_6)
-- [Fat-pointer Transformation pass](https://discourse.llvm.org/t/fat-pointer-transformation-pass/61248#post_5)
-- [Fat-pointer Transformation pass](https://discourse.llvm.org/t/fat-pointer-transformation-pass/61248#post_4)
 <!-- DISCOURSE-LLVM:END -->
