@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifting &quot;include cleaner&quot; &lpar;missing/unused include detection&rpar; out of clangd](https://discourse.llvm.org/t/rfc-lifting-include-cleaner-missing-unused-include-detection-out-of-clangd/61228#post_3)
 - [How to use createinboundsgep in a right way?](https://discourse.llvm.org/t/how-to-use-createinboundsgep-in-a-right-way/61257#post_2)
 - [Huge Slowdown/Regression in Affine Simplification after upgrading LLVM/MLIR - Lots of time spent in `ParametricStorageUniquier::getOrCreate`](https://discourse.llvm.org/t/huge-slowdown-regression-in-affine-simplification-after-upgrading-llvm-mlir-lots-of-time-spent-in-parametricstorageuniquier-getorcreate/61253#post_4)
 - [Huge Slowdown/Regression in Affine Simplification after upgrading LLVM/MLIR - Lots of time spent in `ParametricStorageUniquier::getOrCreate`](https://discourse.llvm.org/t/huge-slowdown-regression-in-affine-simplification-after-upgrading-llvm-mlir-lots-of-time-spent-in-parametricstorageuniquier-getorcreate/61253#post_3)
 - [[MLIR] Strided memrefs](https://discourse.llvm.org/t/mlir-strided-memrefs/61255#post_2)
-- [How to use createinboundsgep in a right way?](https://discourse.llvm.org/t/how-to-use-createinboundsgep-in-a-right-way/61257#post_1)
 <!-- DISCOURSE-LLVM:END -->
