@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Missed email notifications](https://discourse.llvm.org/t/missed-email-notifications/61283#post_2)
-- [Missed email notifications](https://discourse.llvm.org/t/missed-email-notifications/61283#post_1)
-- [RFC: Log Symbolizer](https://discourse.llvm.org/t/rfc-log-symbolizer/61282#post_1)
-- [Design Document for the Linalg Dialect](https://discourse.llvm.org/t/design-document-for-the-linalg-dialect/422#post_8)
-- [HLSL Working Group](https://discourse.llvm.org/t/hlsl-working-group/61279#post_1)
+- [Design Document for the Linalg Dialect](https://discourse.llvm.org/t/design-document-for-the-linalg-dialect/422#post_9)
+- [Expressing external function call in SPIR-V dialect using LinkageAttributes](https://discourse.llvm.org/t/expressing-external-function-call-in-spir-v-dialect-using-linkageattributes/61285#post_1)
+- [Missed email notifications](https://discourse.llvm.org/t/missed-email-notifications/61283#post_3)
+- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588?page=2#post_22)
+- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
