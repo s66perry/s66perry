@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [NVIDIA OpenACC extension](https://discourse.llvm.org/t/nvidia-openacc-extension/61260#post_8)
-- [NVIDIA OpenACC extension](https://discourse.llvm.org/t/nvidia-openacc-extension/61260#post_7)
-- [Learning GlobalISel by implementing a backend for fun - a couple of problems to start off with](https://discourse.llvm.org/t/learning-globalisel-by-implementing-a-backend-for-fun-a-couple-of-problems-to-start-off-with/61259#post_2)
-- [NVIDIA OpenACC extension](https://discourse.llvm.org/t/nvidia-openacc-extension/61260#post_6)
-- [Choosing the dialect for generating MLIR](https://discourse.llvm.org/t/choosing-the-dialect-for-generating-mlir/61262#post_1)
+- [LLVM Weekly - #430, March 28th 2022](https://discourse.llvm.org/t/llvm-weekly-430-march-28th-2022/61266#post_1)
+- [Structure type IR load/store semantics](https://discourse.llvm.org/t/structure-type-ir-load-store-semantics/61265#post_3)
+- [Structure type IR load/store semantics](https://discourse.llvm.org/t/structure-type-ir-load-store-semantics/61265#post_2)
+- [Structure type IR load/store semantics](https://discourse.llvm.org/t/structure-type-ir-load-store-semantics/61265#post_1)
+- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_2)
 <!-- DISCOURSE-LLVM:END -->
