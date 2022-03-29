@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Switching to GCC C runtime linkage for the baremetal driver](https://discourse.llvm.org/t/switching-to-gcc-c-runtime-linkage-for-the-baremetal-driver/61274#post_6)
 - [Compiling CUDA code fails](https://discourse.llvm.org/t/compiling-cuda-code-fails/61240#post_10)
 - [Switching to GCC C runtime linkage for the baremetal driver](https://discourse.llvm.org/t/switching-to-gcc-c-runtime-linkage-for-the-baremetal-driver/61274#post_5)
 - [Compiling CUDA code fails](https://discourse.llvm.org/t/compiling-cuda-code-fails/61240#post_9)
 - [Switching to GCC C runtime linkage for the baremetal driver](https://discourse.llvm.org/t/switching-to-gcc-c-runtime-linkage-for-the-baremetal-driver/61274#post_4)
-- [Structure type IR load/store semantics](https://discourse.llvm.org/t/structure-type-ir-load-store-semantics/61265#post_4)
 <!-- DISCOURSE-LLVM:END -->
