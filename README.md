@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291#post_2)
 - [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291#post_1)
 - [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_10)
 - [How should we preserve metadata during a DAG transformation?](https://discourse.llvm.org/t/how-should-we-preserve-metadata-during-a-dag-transformation/61288#post_1)
 - [Why do we need MDString for metadata in LLVM](https://discourse.llvm.org/t/why-do-we-need-mdstring-for-metadata-in-llvm/61216#post_5)
-- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_9)
 <!-- DISCOURSE-LLVM:END -->
