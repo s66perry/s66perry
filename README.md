@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Compiling CUDA code fails](https://discourse.llvm.org/t/compiling-cuda-code-fails/61240#post_7)
-- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_5)
-- [Compiling CUDA code fails](https://discourse.llvm.org/t/compiling-cuda-code-fails/61240#post_6)
-- [Design Document for the Linalg Dialect](https://discourse.llvm.org/t/design-document-for-the-linalg-dialect/422#post_9)
-- [Expressing external function call in SPIR-V dialect using LinkageAttributes](https://discourse.llvm.org/t/expressing-external-function-call-in-spir-v-dialect-using-linkageattributes/61285#post_1)
+- [Why are &#39;extern &quot;C&quot;&#39; static functions emitted with C++ Mangling?](https://discourse.llvm.org/t/why-are-extern-c-static-functions-emitted-with-c-mangling/61268#post_6)
+- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_8)
+- [RFC: Increasing the GCC and Clang requirements to support C++17 in LLVM](https://discourse.llvm.org/t/rfc-increasing-the-gcc-and-clang-requirements-to-support-c-17-in-llvm/59983?page=2#post_40)
+- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_7)
+- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_6)
 <!-- DISCOURSE-LLVM:END -->
