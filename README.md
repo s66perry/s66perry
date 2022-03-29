@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_2)
-- [RFC: Release process changes](https://discourse.llvm.org/t/rfc-release-process-changes/55431#post_3)
-- [RFC: Release process changes](https://discourse.llvm.org/t/rfc-release-process-changes/55431#post_2)
-- [Recursion in LibCallSimplifier](https://discourse.llvm.org/t/recursion-in-libcallsimplifier/61309#post_1)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_12)
+- [Choosing the dialect for generating MLIR](https://discourse.llvm.org/t/choosing-the-dialect-for-generating-mlir/61262#post_4)
+- [[RFC] Deprecate email code reviews in favor of Phabricator](https://discourse.llvm.org/t/rfc-deprecate-email-code-reviews-in-favor-of-phabricator/58192?page=2#post_35)
+- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_14)
+- [Compiling CUDA code fails](https://discourse.llvm.org/t/compiling-cuda-code-fails/61240#post_11)
+- [Strlen segfault with TrailingObjects?](https://discourse.llvm.org/t/strlen-segfault-with-trailingobjects/61264#post_13)
 <!-- DISCOURSE-LLVM:END -->
