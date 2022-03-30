@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_3)
 - [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291#post_14)
 - [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291#post_13)
 - [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291#post_12)
 - [What is the purpose of llvm::InstrInfoQuery?](https://discourse.llvm.org/t/what-is-the-purpose-of-llvm-instrinfoquery/61316#post_1)
-- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_14)
 <!-- DISCOURSE-LLVM:END -->
