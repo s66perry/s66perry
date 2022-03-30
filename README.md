@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Always extend the integer parameters of callee](https://discourse.llvm.org/t/always-extend-the-integer-parameters-of-callee/61319#post_5)
-- [[One-Shot-Bufferizer] Error when bufferizing tensor.collapse_shape](https://discourse.llvm.org/t/one-shot-bufferizer-error-when-bufferizing-tensor-collapse-shape/61203#post_8)
-- [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291#post_16)
-- [Restricting a pass execution for a particular function](https://discourse.llvm.org/t/restricting-a-pass-execution-for-a-particular-function/61323#post_2)
-- [Always extend the integer parameters of callee](https://discourse.llvm.org/t/always-extend-the-integer-parameters-of-callee/61319#post_4)
+- [Fat-pointer Transformation pass](https://discourse.llvm.org/t/fat-pointer-transformation-pass/61248#post_13)
+- [Switching to GCC C runtime linkage for the baremetal driver](https://discourse.llvm.org/t/switching-to-gcc-c-runtime-linkage-for-the-baremetal-driver/61274#post_7)
+- [Fat-pointer Transformation pass](https://discourse.llvm.org/t/fat-pointer-transformation-pass/61248#post_12)
+- [Fat-pointer Transformation pass](https://discourse.llvm.org/t/fat-pointer-transformation-pass/61248#post_11)
+- [Fat-pointer Transformation pass](https://discourse.llvm.org/t/fat-pointer-transformation-pass/61248#post_10)
 <!-- DISCOURSE-LLVM:END -->
