@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Restricting a pass execution for a particular function](https://discourse.llvm.org/t/restricting-a-pass-execution-for-a-particular-function/61323#post_1)
 - [Choosing the dialect for generating MLIR](https://discourse.llvm.org/t/choosing-the-dialect-for-generating-mlir/61262#post_5)
 - [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322#post_1)
 - [Any flag on clang like gcc -fpreprocessed](https://discourse.llvm.org/t/any-flag-on-clang-like-gcc-fpreprocessed/5077#post_4)
 - [Is libomp open to add arch-specific barrier implementation?](https://discourse.llvm.org/t/is-libomp-open-to-add-arch-specific-barrier-implementation/59190#post_7)
-- [Is libomp open to add arch-specific barrier implementation?](https://discourse.llvm.org/t/is-libomp-open-to-add-arch-specific-barrier-implementation/59190#post_6)
 <!-- DISCOURSE-LLVM:END -->
