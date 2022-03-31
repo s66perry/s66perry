@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322#post_5)
-- [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296?page=2#post_21)
-- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_7)
-- [Creating a new repository for release branch pull requests](https://discourse.llvm.org/t/creating-a-new-repository-for-release-branch-pull-requests/61339#post_3)
-- [Creating a new repository for release branch pull requests](https://discourse.llvm.org/t/creating-a-new-repository-for-release-branch-pull-requests/61339#post_2)
+- [getFunctionType&lpar;&rpar; return a Type instead of FunctionType](https://discourse.llvm.org/t/getfunctiontype-return-a-type-instead-of-functiontype/61348#post_1)
+- [RISC-V LLVM sync-up call 31st March 2022 &lpar;NOTE daylight savings impact&rpar;](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-31st-march-2022-note-daylight-savings-impact/61347#post_2)
+- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890?page=2#post_23)
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_8)
+- [RISC-V LLVM sync-up call 31st March 2022 &lpar;NOTE daylight savings impact&rpar;](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-31st-march-2022-note-daylight-savings-impact/61347#post_1)
 <!-- DISCOURSE-LLVM:END -->
