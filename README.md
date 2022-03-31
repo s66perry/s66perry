@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Recursion in LibCallSimplifier](https://discourse.llvm.org/t/recursion-in-libcallsimplifier/61309#post_2)
+- [Distance between two operations](https://discourse.llvm.org/t/distance-between-two-operations/61338#post_1)
+- [What&#39;s the meaning of gpu.all_reduce](https://discourse.llvm.org/t/whats-the-meaning-of-gpu-all-reduce/4158#post_6)
+- [CGO 2022 - Call for Participation](https://discourse.llvm.org/t/cgo-2022-call-for-participation/61336#post_1)
 - [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588?page=2#post_26)
-- [Compiling CUDA code fails](https://discourse.llvm.org/t/compiling-cuda-code-fails/61240#post_14)
-- [Always extend the integer parameters of callee](https://discourse.llvm.org/t/always-extend-the-integer-parameters-of-callee/61319#post_6)
-- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_3)
-- [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
