@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322#post_6)
+- [Recursion in LibCallSimplifier](https://discourse.llvm.org/t/recursion-in-libcallsimplifier/61309#post_3)
+- [ASAN_OPTIONS strict_string_checks=1: Deliberate difference between strncpy and strndup checking?](https://discourse.llvm.org/t/asan-options-strict-string-checks-1-deliberate-difference-between-strncpy-and-strndup-checking/61350#post_1)
+- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_4)
 - [[RFC] Adding a new Machine Operand type to implement variadic DBG_INSTR_REF instructions](https://discourse.llvm.org/t/rfc-adding-a-new-machine-operand-type-to-implement-variadic-dbg-instr-ref-instructions/61349#post_1)
-- [getFunctionType&lpar;&rpar; return a Type instead of FunctionType](https://discourse.llvm.org/t/getfunctiontype-return-a-type-instead-of-functiontype/61348#post_1)
-- [RISC-V LLVM sync-up call 31st March 2022 &lpar;NOTE daylight savings impact&rpar;](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-31st-march-2022-note-daylight-savings-impact/61347#post_2)
-- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890?page=2#post_23)
-- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_8)
 <!-- DISCOURSE-LLVM:END -->
