@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Help understanding why SLP vectorization does not apply](https://discourse.llvm.org/t/help-understanding-why-slp-vectorization-does-not-apply/61354#post_6)
-- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_8)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_13)
-- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_7)
-- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_6)
+- [No --convert-tensor-to-* in mlir-opt?](https://discourse.llvm.org/t/no-convert-tensor-to-in-mlir-opt/61358#post_2)
+- [No --convert-tensor-to-* in mlir-opt?](https://discourse.llvm.org/t/no-convert-tensor-to-in-mlir-opt/61358#post_1)
+- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588?page=2#post_27)
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_10)
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_9)
 <!-- DISCOURSE-LLVM:END -->
