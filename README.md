@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_13)
 - [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890?page=2#post_26)
 - [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890?page=2#post_25)
 - [Undefined reference to `vtable for mlir::raw_indented_ostream&#39;](https://discourse.llvm.org/t/undefined-reference-to-vtable-for-mlir-raw-indented-ostream/61367#post_5)
 - [[Python bindings] Inferring Operation result type based on block builder function](https://discourse.llvm.org/t/python-bindings-inferring-operation-result-type-based-on-block-builder-function/61363#post_2)
-- [Undefined reference to `vtable for mlir::raw_indented_ostream&#39;](https://discourse.llvm.org/t/undefined-reference-to-vtable-for-mlir-raw-indented-ostream/61367#post_4)
 <!-- DISCOURSE-LLVM:END -->
