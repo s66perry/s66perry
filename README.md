@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TypeID Alignment](https://discourse.llvm.org/t/typeid-alignment/61387#post_1)
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_14)
+- [NVPTX codegen surprisingly slow on some functions](https://discourse.llvm.org/t/nvptx-codegen-surprisingly-slow-on-some-functions/61307#post_9)
+- [RFC: Log Symbolizer](https://discourse.llvm.org/t/rfc-log-symbolizer/61282#post_4)
 - [RISCVInstr.td is not exist](https://discourse.llvm.org/t/riscvinstr-td-is-not-exist/61382#post_2)
-- [Create and emit AST for `struct`? - `clang::RecordDecl`](https://discourse.llvm.org/t/create-and-emit-ast-for-struct-clang-recorddecl/61383#post_1)
-- [RISCVInstr.td is not exist](https://discourse.llvm.org/t/riscvinstr-td-is-not-exist/61382#post_1)
-- [Adding diagnostic for wrong usage of std::make_[shared/unique]](https://discourse.llvm.org/t/adding-diagnostic-for-wrong-usage-of-std-make-shared-unique/61360#post_3)
-- [[RFC] New attribute `annotate_type` &lpar;iteration 2&rpar;](https://discourse.llvm.org/t/rfc-new-attribute-annotate-type-iteration-2/61378#post_1)
 <!-- DISCOURSE-LLVM:END -->
