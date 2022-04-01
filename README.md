@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [EuroLLVM 2022 - Call for Talk Proposals Deadline Extended, Round Tables, &amp; Travel Grants](https://discourse.llvm.org/t/eurollvm-2022-call-for-talk-proposals-deadline-extended-round-tables-travel-grants/61389#post_1)
-- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_11)
-- [Verilog 93 output](https://discourse.llvm.org/t/verilog-93-output/61369#post_2)
-- [TypeID Alignment](https://discourse.llvm.org/t/typeid-alignment/61387#post_2)
-- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_10)
+- [[Python bindings] Inferring Operation result type based on block builder function](https://discourse.llvm.org/t/python-bindings-inferring-operation-result-type-based-on-block-builder-function/61363#post_3)
+- [NVPTX codegen surprisingly slow on some functions](https://discourse.llvm.org/t/nvptx-codegen-surprisingly-slow-on-some-functions/61307#post_10)
+- [Expanding Branch to Indirect Branch](https://discourse.llvm.org/t/expanding-branch-to-indirect-branch/61391#post_2)
+- [Spam accounts on Phabricator](https://discourse.llvm.org/t/spam-accounts-on-phabricator/60631#post_15)
+- [Expanding Branch to Indirect Branch](https://discourse.llvm.org/t/expanding-branch-to-indirect-branch/61391#post_1)
 <!-- DISCOURSE-LLVM:END -->
