@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_4)
+- [[RFC] A C++ pseudo parser for tooling](https://discourse.llvm.org/t/rfc-a-c-pseudo-parser-for-tooling/59217?page=3#post_52)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_3)
 - [Re-land -stdlib=libc++ support in clang-cl](https://discourse.llvm.org/t/re-land-stdlib-libc-support-in-clang-cl/61406#post_5)
 - [Errors while running firtool, but Verilog still generated](https://discourse.llvm.org/t/errors-while-running-firtool-but-verilog-still-generated/61416#post_2)
-- [Re-land -stdlib=libc++ support in clang-cl](https://discourse.llvm.org/t/re-land-stdlib-libc-support-in-clang-cl/61406#post_4)
-- [Re-land -stdlib=libc++ support in clang-cl](https://discourse.llvm.org/t/re-land-stdlib-libc-support-in-clang-cl/61406#post_3)
-- [Adding diagnostic for wrong usage of std::make_[shared/unique]](https://discourse.llvm.org/t/adding-diagnostic-for-wrong-usage-of-std-make-shared-unique/61360#post_5)
 <!-- DISCOURSE-LLVM:END -->
