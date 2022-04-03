@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_16)
 - [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_15)
 - [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_8)
 - [Inconsistent results when custom legalizing types?](https://discourse.llvm.org/t/inconsistent-results-when-custom-legalizing-types/61428#post_1)
 - [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_7)
-- [RFC: Polygeist LLVM Incubator Proposal](https://discourse.llvm.org/t/rfc-polygeist-llvm-incubator-proposal/60890?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
