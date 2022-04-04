@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Attributes for Allocator Functions in LLVM IR](https://discourse.llvm.org/t/rfc-attributes-for-allocator-functions-in-llvm-ir/61464#post_2)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_14)
-- [Speeding up compilation of MLIR-based projects](https://discourse.llvm.org/t/speeding-up-compilation-of-mlir-based-projects/60869?page=2#post_21)
-- [SNAP Performance analysis, more detailed than the presentation](https://discourse.llvm.org/t/snap-performance-analysis-more-detailed-than-the-presentation/60636#post_14)
-- [[RFC] Attributes for Allocator Functions in LLVM IR](https://discourse.llvm.org/t/rfc-attributes-for-allocator-functions-in-llvm-ir/61464#post_1)
+- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_15)
+- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_19)
+- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_18)
+- [[RFC] Add NV-GPU dialect &lpar;HW specific extension of GPU dialect for Nvidia GPUs&rpar;](https://discourse.llvm.org/t/rfc-add-nv-gpu-dialect-hw-specific-extension-of-gpu-dialect-for-nvidia-gpus/61466#post_1)
+- [MC ELF doesn&#39;t allow a section with the same name as a label](https://discourse.llvm.org/t/mc-elf-doesnt-allow-a-section-with-the-same-name-as-a-label/61332#post_17)
 <!-- DISCOURSE-LLVM:END -->
