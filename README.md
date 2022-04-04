@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_6)
+- [Create and emit AST for `struct`? - `clang::RecordDecl`](https://discourse.llvm.org/t/create-and-emit-ast-for-struct-clang-recorddecl/61383#post_2)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_3)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_2)
 - [Create new jump intrinsic](https://discourse.llvm.org/t/create-new-jump-intrinsic/61451#post_1)
-- [Plan 9 a.out executables with lld](https://discourse.llvm.org/t/plan-9-a-out-executables-with-lld/61438#post_5)
-- [Plan 9 a.out executables with lld](https://discourse.llvm.org/t/plan-9-a-out-executables-with-lld/61438#post_4)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_13)
-- [How to distinguish global memory objects from none-global ones in LLVM-IR?](https://discourse.llvm.org/t/how-to-distinguish-global-memory-objects-from-none-global-ones-in-llvm-ir/4617#post_6)
 <!-- DISCOURSE-LLVM:END -->
