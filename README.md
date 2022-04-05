@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add NV-GPU dialect &lpar;HW specific extension of GPU dialect for Nvidia GPUs&rpar;](https://discourse.llvm.org/t/rfc-add-nv-gpu-dialect-hw-specific-extension-of-gpu-dialect-for-nvidia-gpus/61466#post_3)
-- [[RFC] Add NV-GPU dialect &lpar;HW specific extension of GPU dialect for Nvidia GPUs&rpar;](https://discourse.llvm.org/t/rfc-add-nv-gpu-dialect-hw-specific-extension-of-gpu-dialect-for-nvidia-gpus/61466#post_2)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_16)
-- [Create new jump intrinsic](https://discourse.llvm.org/t/create-new-jump-intrinsic/61451#post_5)
-- [Create new jump intrinsic](https://discourse.llvm.org/t/create-new-jump-intrinsic/61451#post_4)
+- [[RFC] New attribute `annotate_type` &lpar;iteration 2&rpar;](https://discourse.llvm.org/t/rfc-new-attribute-annotate-type-iteration-2/61378#post_2)
+- [[RFC] Tablegen Clang Static Analyzer engine options for better documentation](https://discourse.llvm.org/t/rfc-tablegen-clang-static-analyzer-engine-options-for-better-documentation/61488#post_3)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_17)
+- [[RFC] Tablegen Clang Static Analyzer engine options for better documentation](https://discourse.llvm.org/t/rfc-tablegen-clang-static-analyzer-engine-options-for-better-documentation/61488#post_2)
+- [Issues# 54651](https://discourse.llvm.org/t/issues-54651/61484#post_3)
 <!-- DISCOURSE-LLVM:END -->
