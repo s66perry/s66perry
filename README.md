@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Any flag on clang like gcc -fpreprocessed](https://discourse.llvm.org/t/any-flag-on-clang-like-gcc-fpreprocessed/5077#post_6)
+- [Compiling Fortran](https://discourse.llvm.org/t/compiling-fortran/61477#post_2)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377#post_16)
 - [Learning Loop Transformation Policies](https://discourse.llvm.org/t/learning-loop-transformation-policies/60413#post_5)
 - [Learning Loop Transformation Policies](https://discourse.llvm.org/t/learning-loop-transformation-policies/60413#post_4)
-- [Implement a shared-memory based JITLinkMemoryManager for out-of-process JITting](https://discourse.llvm.org/t/implement-a-shared-memory-based-jitlinkmemorymanager-for-out-of-process-jitting/60320#post_7)
-- [Learning Loop Transformation Policies](https://discourse.llvm.org/t/learning-loop-transformation-policies/60413#post_3)
-- [Reason about TailDuplicator correctness heuristics](https://discourse.llvm.org/t/reason-about-tailduplicator-correctness-heuristics/61478#post_1)
 <!-- DISCOURSE-LLVM:END -->
