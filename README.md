@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add NV-GPU dialect &lpar;HW specific extension of GPU dialect for Nvidia GPUs&rpar;](https://discourse.llvm.org/t/rfc-add-nv-gpu-dialect-hw-specific-extension-of-gpu-dialect-for-nvidia-gpus/61466#post_3)
+- [[RFC] Add NV-GPU dialect &lpar;HW specific extension of GPU dialect for Nvidia GPUs&rpar;](https://discourse.llvm.org/t/rfc-add-nv-gpu-dialect-hw-specific-extension-of-gpu-dialect-for-nvidia-gpus/61466#post_2)
 - [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_16)
 - [Create new jump intrinsic](https://discourse.llvm.org/t/create-new-jump-intrinsic/61451#post_5)
 - [Create new jump intrinsic](https://discourse.llvm.org/t/create-new-jump-intrinsic/61451#post_4)
-- [Issue#54649](https://discourse.llvm.org/t/issue-54649/61484#post_2)
-- [[RFC] Attributes for Allocator Functions in LLVM IR](https://discourse.llvm.org/t/rfc-attributes-for-allocator-functions-in-llvm-ir/61464#post_4)
 <!-- DISCOURSE-LLVM:END -->
