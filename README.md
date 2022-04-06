@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=2#post_35)
 - [Integer heap references and on-stack value replacement](https://discourse.llvm.org/t/integer-heap-references-and-on-stack-value-replacement/61526#post_2)
 - [[Python bindings] Inferring Operation result type based on block builder function](https://discourse.llvm.org/t/python-bindings-inferring-operation-result-type-based-on-block-builder-function/61363#post_19)
 - [Add API/ABI export annotations to the LLVM build](https://discourse.llvm.org/t/add-api-abi-export-annotations-to-the-llvm-build/61300#post_3)
 - [Add API/ABI export annotations to the LLVM build](https://discourse.llvm.org/t/add-api-abi-export-annotations-to-the-llvm-build/61300#post_2)
-- [Integer heap references and on-stack value replacement](https://discourse.llvm.org/t/integer-heap-references-and-on-stack-value-replacement/61526#post_1)
 <!-- DISCOURSE-LLVM:END -->
