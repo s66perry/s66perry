@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Tablegen Clang Static Analyzer engine options for better documentation](https://discourse.llvm.org/t/rfc-tablegen-clang-static-analyzer-engine-options-for-better-documentation/61488#post_8)
+- [How to optimize conditional recusive functions?](https://discourse.llvm.org/t/how-to-optimize-conditional-recusive-functions/61504#post_1)
+- [Cancelled - Mar. 30 Flang Biweekly Call](https://discourse.llvm.org/t/cancelled-mar-30-flang-biweekly-call/61226#post_3)
+- [Cancelled - Mar. 30 Flang Biweekly Call](https://discourse.llvm.org/t/cancelled-mar-30-flang-biweekly-call/61226#post_2)
 - [Always extend the integer parameters of callee](https://discourse.llvm.org/t/always-extend-the-integer-parameters-of-callee/61319#post_10)
-- [[Python bindings] Inferring Operation result type based on block builder function](https://discourse.llvm.org/t/python-bindings-inferring-operation-result-type-based-on-block-builder-function/61363#post_18)
-- [[Python bindings] Inferring Operation result type based on block builder function](https://discourse.llvm.org/t/python-bindings-inferring-operation-result-type-based-on-block-builder-function/61363#post_17)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_18)
-- [Registration open for 2022 EuroLLVM Developers&#39; Meeting](https://discourse.llvm.org/t/registration-open-for-2022-eurollvm-developers-meeting/61500#post_2)
 <!-- DISCOURSE-LLVM:END -->
