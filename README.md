@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_12)
+- [Please check the LLVM Release Status project for assigned issues](https://discourse.llvm.org/t/please-check-the-llvm-release-status-project-for-assigned-issues/61538#post_1)
+- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_11)
 - [[AArch64] Does we need support value bigger than 2 for alloc_align](https://discourse.llvm.org/t/aarch64-does-we-need-support-value-bigger-than-2-for-alloc-align/61531#post_2)
 - [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_2)
-- [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_1)
-- [How to optimize conditional recusive functions?](https://discourse.llvm.org/t/how-to-optimize-conditional-recusive-functions/61504#post_6)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_19)
 <!-- DISCOURSE-LLVM:END -->
