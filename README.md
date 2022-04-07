@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=2#post_37)
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_9)
+- [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_3)
 - [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_8)
 - [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_7)
-- [[RFC] New attribute `annotate_type` &lpar;iteration 2&rpar;](https://discourse.llvm.org/t/rfc-new-attribute-annotate-type-iteration-2/61378#post_8)
-- [Why does an extra instruction appear during code generation of a condition and a loop and how to get rid of it?](https://discourse.llvm.org/t/why-does-an-extra-instruction-appear-during-code-generation-of-a-condition-and-a-loop-and-how-to-get-rid-of-it/61548#post_2)
-- [Why does an extra instruction appear during code generation of a condition and a loop and how to get rid of it?](https://discourse.llvm.org/t/why-does-an-extra-instruction-appear-during-code-generation-of-a-condition-and-a-loop-and-how-to-get-rid-of-it/61548#post_1)
 <!-- DISCOURSE-LLVM:END -->
