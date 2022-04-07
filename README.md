@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_8)
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_7)
+- [[RFC] New attribute `annotate_type` &lpar;iteration 2&rpar;](https://discourse.llvm.org/t/rfc-new-attribute-annotate-type-iteration-2/61378#post_8)
+- [Why does an extra instruction appear during code generation of a condition and a loop and how to get rid of it?](https://discourse.llvm.org/t/why-does-an-extra-instruction-appear-during-code-generation-of-a-condition-and-a-loop-and-how-to-get-rid-of-it/61548#post_2)
 - [Why does an extra instruction appear during code generation of a condition and a loop and how to get rid of it?](https://discourse.llvm.org/t/why-does-an-extra-instruction-appear-during-code-generation-of-a-condition-and-a-loop-and-how-to-get-rid-of-it/61548#post_1)
-- [[RFC] Add NV-GPU dialect &lpar;HW specific extension of GPU dialect for Nvidia GPUs&rpar;](https://discourse.llvm.org/t/rfc-add-nv-gpu-dialect-hw-specific-extension-of-gpu-dialect-for-nvidia-gpus/61466#post_12)
-- [Intel Advisor/ MLIR](https://discourse.llvm.org/t/intel-advisor-mlir/61545#post_1)
-- [Detecting / warning about missing key function?](https://discourse.llvm.org/t/detecting-warning-about-missing-key-function/61543#post_1)
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_13)
 <!-- DISCOURSE-LLVM:END -->
