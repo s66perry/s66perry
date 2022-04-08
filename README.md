@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_11)
 - [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_10)
 - [Program repository project](https://discourse.llvm.org/t/program-repository-project/61573#post_1)
 - [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_9)
 - [[One-Shot-Bufferizer] Error when bufferizing tensor.collapse_shape](https://discourse.llvm.org/t/one-shot-bufferizer-error-when-bufferizing-tensor-collapse-shape/61203#post_11)
-- [Remove undef: move uninitialized memory to poison](https://discourse.llvm.org/t/remove-undef-move-uninitialized-memory-to-poison/61123#post_4)
 <!-- DISCOURSE-LLVM:END -->
