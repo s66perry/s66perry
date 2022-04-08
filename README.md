@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_11)
-- [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_10)
-- [Program repository project](https://discourse.llvm.org/t/program-repository-project/61573#post_1)
-- [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_9)
-- [[One-Shot-Bufferizer] Error when bufferizing tensor.collapse_shape](https://discourse.llvm.org/t/one-shot-bufferizer-error-when-bufferizing-tensor-collapse-shape/61203#post_11)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_25)
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_14)
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_13)
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_12)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=2#post_40)
 <!-- DISCOURSE-LLVM:END -->
