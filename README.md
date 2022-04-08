@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [analysis vs fixit](https://discourse.llvm.org/t/analysis-vs-fixit/14882#post_3)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=2#post_40)
+- [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_7)
 - [Is changing the type and argument of FuncOp with PatternRewriter possible?](https://discourse.llvm.org/t/is-changing-the-type-and-argument-of-funcop-with-patternrewriter-possible/61537#post_6)
 - [Help Testing Fix-It Hints In Existing Checker](https://discourse.llvm.org/t/help-testing-fix-it-hints-in-existing-checker/61565#post_1)
-- [Is there an option to print machine assembly after each target-specific pass?](https://discourse.llvm.org/t/is-there-an-option-to-print-machine-assembly-after-each-target-specific-pass/61563#post_2)
-- [Is there an option to print machine assembly after each target-specific pass?](https://discourse.llvm.org/t/is-there-an-option-to-print-machine-assembly-after-each-target-specific-pass/61563#post_1)
-- [Clang++ and opt produce different results](https://discourse.llvm.org/t/clang-and-opt-produce-different-results/61562#post_1)
 <!-- DISCOURSE-LLVM:END -->
