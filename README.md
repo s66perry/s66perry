@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coding standard for lambda trailing return types](https://discourse.llvm.org/t/coding-standard-for-lambda-trailing-return-types/61569#post_3)
+- [Code owner for compiler-rt builtins library?](https://discourse.llvm.org/t/code-owner-for-compiler-rt-builtins-library/61556#post_3)
+- [Coding standard for lambda trailing return types](https://discourse.llvm.org/t/coding-standard-for-lambda-trailing-return-types/61569#post_2)
 - [Type casting between scalable and fixed vectors](https://discourse.llvm.org/t/type-casting-between-scalable-and-fixed-vectors/61568#post_3)
 - [Coding standard for lambda trailing return types](https://discourse.llvm.org/t/coding-standard-for-lambda-trailing-return-types/61569#post_1)
-- [Type casting between scalable and fixed vectors](https://discourse.llvm.org/t/type-casting-between-scalable-and-fixed-vectors/61568#post_2)
-- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_7)
-- [Type casting between scalable and fixed vectors](https://discourse.llvm.org/t/type-casting-between-scalable-and-fixed-vectors/61568#post_1)
 <!-- DISCOURSE-LLVM:END -->
