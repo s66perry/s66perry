@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_41)
-- [Need for late cleanup pass after PrologEpilogInserter?](https://discourse.llvm.org/t/need-for-late-cleanup-pass-after-prologepiloginserter/61580#post_1)
-- [Can someone help me with this lldb crasher?](https://discourse.llvm.org/t/can-someone-help-me-with-this-lldb-crasher/61578#post_1)
-- [[One-Shot-Bufferizer] Error when bufferizing tensor.collapse_shape](https://discourse.llvm.org/t/one-shot-bufferizer-error-when-bufferizing-tensor-collapse-shape/61203#post_12)
-- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508#post_15)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_4)
+- [Can someone help me with this lldb crasher?](https://discourse.llvm.org/t/can-someone-help-me-with-this-lldb-crasher/61578#post_2)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_3)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_2)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_1)
 <!-- DISCOURSE-LLVM:END -->
