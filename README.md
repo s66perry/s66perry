@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Flang &amp; Web Assembly](https://discourse.llvm.org/t/flang-web-assembly/61607#post_2)
+- [Cancelled - Mar. 30 Flang Biweekly Call](https://discourse.llvm.org/t/cancelled-mar-30-flang-biweekly-call/61226#post_10)
 - [Program repository project](https://discourse.llvm.org/t/program-repository-project/61573#post_2)
 - [Improve Clang Diagnostics](https://discourse.llvm.org/t/improve-clang-diagnostics/61521#post_6)
 - [Improve Clang Diagnostics](https://discourse.llvm.org/t/improve-clang-diagnostics/61521#post_5)
-- [Can the new function be set to the constructor in the LLVM pass before calling main&lpar;&rpar;?](https://discourse.llvm.org/t/can-the-new-function-be-set-to-the-constructor-in-the-llvm-pass-before-calling-main/61609#post_3)
-- [Can the new function be set to the constructor in the LLVM pass before calling main&lpar;&rpar;?](https://discourse.llvm.org/t/can-the-new-function-be-set-to-the-constructor-in-the-llvm-pass-before-calling-main/61609#post_2)
 <!-- DISCOURSE-LLVM:END -->
