@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Program repository project](https://discourse.llvm.org/t/program-repository-project/61573#post_2)
+- [Improve Clang Diagnostics](https://discourse.llvm.org/t/improve-clang-diagnostics/61521#post_6)
 - [Improve Clang Diagnostics](https://discourse.llvm.org/t/improve-clang-diagnostics/61521#post_5)
 - [Can the new function be set to the constructor in the LLVM pass before calling main&lpar;&rpar;?](https://discourse.llvm.org/t/can-the-new-function-be-set-to-the-constructor-in-the-llvm-pass-before-calling-main/61609#post_3)
 - [Can the new function be set to the constructor in the LLVM pass before calling main&lpar;&rpar;?](https://discourse.llvm.org/t/can-the-new-function-be-set-to-the-constructor-in-the-llvm-pass-before-calling-main/61609#post_2)
-- [Why the optimization, division-by-constant is not implement in LLVM IR?](https://discourse.llvm.org/t/why-the-optimization-division-by-constant-is-not-implement-in-llvm-ir/61612#post_1)
-- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_3)
 <!-- DISCOURSE-LLVM:END -->
