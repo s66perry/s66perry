@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_15)
 - [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_14)
 - [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_13)
 - [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_12)
 - [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_11)
-- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_10)
 <!-- DISCOURSE-LLVM:END -->
