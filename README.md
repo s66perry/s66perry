@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Cancelled - Mar. 30 Flang Biweekly Call](https://discourse.llvm.org/t/cancelled-mar-30-flang-biweekly-call/61226#post_15)
-- [SNAP Performance analysis, more detailed than the presentation](https://discourse.llvm.org/t/snap-performance-analysis-more-detailed-than-the-presentation/60636#post_20)
-- [Adding FoldedType as a new type](https://discourse.llvm.org/t/adding-foldedtype-as-a-new-type/61532#post_2)
-- [How to specify /winsysroot argument without using clang-cl?](https://discourse.llvm.org/t/how-to-specify-winsysroot-argument-without-using-clang-cl/61643#post_2)
-- [SNAP Performance analysis, more detailed than the presentation](https://discourse.llvm.org/t/snap-performance-analysis-more-detailed-than-the-presentation/60636#post_19)
+- [[BUG] GVN / Memdep bug in the presence of intrinsics](https://discourse.llvm.org/t/bug-gvn-memdep-bug-in-the-presence-of-intrinsics/59402#post_2)
+- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_8)
+- [Enable single-line case statements in LLVM clang-format style?](https://discourse.llvm.org/t/enable-single-line-case-statements-in-llvm-clang-format-style/61062#post_18)
+- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_7)
+- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_6)
 <!-- DISCOURSE-LLVM:END -->
