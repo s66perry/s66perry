@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM HLSL Working Group Meeting - Thursday, April 14 5pm UTC &lpar;1pm EDT, 10am PDT&rpar;](https://discourse.llvm.org/t/llvm-hlsl-working-group-meeting-thursday-april-14-5pm-utc-1pm-edt-10am-pdt/61656#post_1)
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_19)
+- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_9)
+- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_8)
 - [Aggressive conversion of sext to zext blocks IndVarSimplify](https://discourse.llvm.org/t/aggressive-conversion-of-sext-to-zext-blocks-indvarsimplify/61561#post_3)
-- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_18)
-- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_17)
-- [[BUG] GVN / Memdep bug in the presence of intrinsics](https://discourse.llvm.org/t/bug-gvn-memdep-bug-in-the-presence-of-intrinsics/59402#post_2)
-- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_8)
 <!-- DISCOURSE-LLVM:END -->
