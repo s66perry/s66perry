@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MCCodeEmitter Pass?](https://discourse.llvm.org/t/mccodeemitter-pass/61623#post_4)
+- [Aggressive conversion of sext to zext blocks IndVarSimplify](https://discourse.llvm.org/t/aggressive-conversion-of-sext-to-zext-blocks-indvarsimplify/61561#post_5)
+- [Aggressive conversion of sext to zext blocks IndVarSimplify](https://discourse.llvm.org/t/aggressive-conversion-of-sext-to-zext-blocks-indvarsimplify/61561#post_4)
+- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_4)
 - [Plan 9 a.out executables with lld](https://discourse.llvm.org/t/plan-9-a-out-executables-with-lld/61438#post_6)
-- [New Coroutine Definition](https://discourse.llvm.org/t/new-coroutine-definition/3652#post_16)
-- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_15)
-- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_14)
-- [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599#post_13)
 <!-- DISCOURSE-LLVM:END -->
