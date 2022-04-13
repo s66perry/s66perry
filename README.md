@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to add double to my backend](https://discourse.llvm.org/t/how-to-add-double-to-my-backend/61716#post_1)
-- [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://discourse.llvm.org/t/pointers-are-complicated-iii-or-pointer-integer-casts-exposed/61683#post_3)
-- [Try to generate assembly code with my custom backend](https://discourse.llvm.org/t/try-to-generate-assembly-code-with-my-custom-backend/61708#post_1)
-- [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://discourse.llvm.org/t/pointers-are-complicated-iii-or-pointer-integer-casts-exposed/61683#post_2)
-- [[Tablegen] How to specify type of register mask argument](https://discourse.llvm.org/t/tablegen-how-to-specify-type-of-register-mask-argument/61705#post_1)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_2)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_1)
+- [LLDB debug ClickHouse startup is too slow](https://discourse.llvm.org/t/lldb-debug-clickhouse-startup-is-too-slow/61726#post_1)
+- [Run optimization pipeline with O3 for host but O0 for target](https://discourse.llvm.org/t/run-optimization-pipeline-with-o3-for-host-but-o0-for-target/61723#post_1)
+- [[Polly] Complete switch to new pass manager](https://discourse.llvm.org/t/polly-complete-switch-to-new-pass-manager/61174#post_2)
 <!-- DISCOURSE-LLVM:END -->
