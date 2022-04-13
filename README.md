@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_17)
+- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_16)
+- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_15)
+- [LLVM 14.0.1 Schedule and Release Updates](https://discourse.llvm.org/t/llvm-14-0-1-schedule-and-release-updates/61227#post_20)
 - [Modernize the LLVM &quot;Building A JIT&quot; tutorial series](https://discourse.llvm.org/t/modernize-the-llvm-building-a-jit-tutorial-series/60321#post_15)
-- [[clang-tidy] How to get replacements properly de-duplicated by clang-apply-replacements?](https://discourse.llvm.org/t/clang-tidy-how-to-get-replacements-properly-de-duplicated-by-clang-apply-replacements/61697#post_1)
-- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_12)
-- [[Enzyme] Enable The New Pass Manager](https://discourse.llvm.org/t/enzyme-enable-the-new-pass-manager/61178#post_2)
-- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_11)
 <!-- DISCOURSE-LLVM:END -->
