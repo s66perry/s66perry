@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Yet another static analysis tool](https://discourse.llvm.org/t/yet-another-static-analysis-tool/61765#post_4)
-- [Senior Compiler Engineer / Cambridge Quantum / UK](https://discourse.llvm.org/t/senior-compiler-engineer-cambridge-quantum-uk/61752#post_3)
-- [Yet another static analysis tool](https://discourse.llvm.org/t/yet-another-static-analysis-tool/61765#post_3)
-- [Using clang for getting AST](https://discourse.llvm.org/t/using-clang-for-getting-ast/61768#post_3)
-- [Using clang for getting AST](https://discourse.llvm.org/t/using-clang-for-getting-ast/61768#post_2)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_47)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_7)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_6)
+- [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073?page=2#post_24)
+- [Resolving names in function returns types](https://discourse.llvm.org/t/resolving-names-in-function-returns-types/61769#post_3)
 <!-- DISCOURSE-LLVM:END -->
