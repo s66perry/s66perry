@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Backend syntax error has not shown before compilation](https://discourse.llvm.org/t/llvm-backend-syntax-error-has-not-shown-before-compilation/61755#post_7)
-- [LLVM Backend syntax error has not shown before compilation](https://discourse.llvm.org/t/llvm-backend-syntax-error-has-not-shown-before-compilation/61755#post_6)
-- [Yet another static analysis tool](https://discourse.llvm.org/t/yet-another-static-analysis-tool/61765#post_2)
-- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_5)
-- [LLVM Backend syntax error has not shown before compilation](https://discourse.llvm.org/t/llvm-backend-syntax-error-has-not-shown-before-compilation/61755#post_5)
+- [Yet another static analysis tool](https://discourse.llvm.org/t/yet-another-static-analysis-tool/61765#post_4)
+- [Senior Compiler Engineer / Cambridge Quantum / UK](https://discourse.llvm.org/t/senior-compiler-engineer-cambridge-quantum-uk/61752#post_3)
+- [Yet another static analysis tool](https://discourse.llvm.org/t/yet-another-static-analysis-tool/61765#post_3)
+- [Using clang for getting AST](https://discourse.llvm.org/t/using-clang-for-getting-ast/61768#post_3)
+- [Using clang for getting AST](https://discourse.llvm.org/t/using-clang-for-getting-ast/61768#post_2)
 <!-- DISCOURSE-LLVM:END -->
