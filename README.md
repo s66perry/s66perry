@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Check-mlir times: `Examples/standalone` testing time](https://discourse.llvm.org/t/check-mlir-times-examples-standalone-testing-time/6073#post_19)
+- [Want to know about bolt and llvm post planning](https://discourse.llvm.org/t/want-to-know-about-bolt-and-llvm-post-planning/61674#post_5)
+- [Want to know about bolt and llvm post planning](https://discourse.llvm.org/t/want-to-know-about-bolt-and-llvm-post-planning/61674#post_3)
+- [[RFC] Attributes for Allocator Functions in LLVM IR](https://discourse.llvm.org/t/rfc-attributes-for-allocator-functions-in-llvm-ir/61464?page=2#post_24)
 - [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://discourse.llvm.org/t/pointers-are-complicated-iii-or-pointer-integer-casts-exposed/61683#post_12)
-- [Why does MLIR need a lot of RAM to compile? Can I somehow get MLIR binaries on my laptop?](https://discourse.llvm.org/t/why-does-mlir-need-a-lot-of-ram-to-compile-can-i-somehow-get-mlir-binaries-on-my-laptop/61742#post_3)
-- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_14)
-- [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://discourse.llvm.org/t/pointers-are-complicated-iii-or-pointer-integer-casts-exposed/61683#post_11)
-- [LLVM-14.0.0 with OpenMP offloading Installation Issue, sm_75 architechture](https://discourse.llvm.org/t/llvm-14-0-0-with-openmp-offloading-installation-issue-sm-75-architechture/61744#post_1)
 <!-- DISCOURSE-LLVM:END -->
