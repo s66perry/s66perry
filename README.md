@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Modularity of LLVM and gcc](https://discourse.llvm.org/t/modularity-of-llvm-and-gcc/61786#post_2)
-- [[Vector] Vector distribution &lpar;large vector to small vector&rpar;](https://discourse.llvm.org/t/vector-vector-distribution-large-vector-to-small-vector/1983?page=2#post_25)
-- [Cancelled - Mar. 30 Flang Biweekly Call](https://discourse.llvm.org/t/cancelled-mar-30-flang-biweekly-call/61226#post_19)
-- [Modernize the LLVM &quot;Building A JIT&quot; tutorial series](https://discourse.llvm.org/t/modernize-the-llvm-building-a-jit-tutorial-series/60321#post_17)
-- [Error: Varible not defined for immediate instructions](https://discourse.llvm.org/t/error-varible-not-defined-for-immediate-instructions/61790#post_6)
+- [LLVM 14.0.1 Release](https://discourse.llvm.org/t/llvm-14-0-1-release/61700#post_6)
+- [Phab claiming a commit on main no longer exists](https://discourse.llvm.org/t/phab-claiming-a-commit-on-main-no-longer-exists/61805#post_1)
+- [LLVM 14.0.1 Release](https://discourse.llvm.org/t/llvm-14-0-1-release/61700#post_5)
+- [Name mangling on windows vs linux](https://discourse.llvm.org/t/name-mangling-on-windows-vs-linux/61804#post_1)
+- [Yet another static analysis tool](https://discourse.llvm.org/t/yet-another-static-analysis-tool/61765#post_8)
 <!-- DISCOURSE-LLVM:END -->
