@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Vector] Vector distribution &lpar;large vector to small vector&rpar;](https://discourse.llvm.org/t/vector-vector-distribution-large-vector-to-small-vector/1983?page=2#post_26)
-- [[GSoC 2022] Draf proposal](https://discourse.llvm.org/t/gsoc-2022-draf-proposal/61773#post_4)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774#post_7)
-- [Support for out-of-tree targets?](https://discourse.llvm.org/t/support-for-out-of-tree-targets/61441#post_5)
-- [Name mangling on windows vs linux](https://discourse.llvm.org/t/name-mangling-on-windows-vs-linux/61804#post_2)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_6)
+- [Bay Area LLVM Meetup - Restarting it](https://discourse.llvm.org/t/bay-area-llvm-meetup-restarting-it/60749#post_6)
+- [Is Phabricator broken &lpar;April 15, 2022&rpar;](https://discourse.llvm.org/t/is-phabricator-broken-april-15-2022/61807#post_2)
+- [Write JITLink support for a new format/architecture](https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322#post_2)
+- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_1)
 <!-- DISCOURSE-LLVM:END -->
