@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_6)
-- [Bay Area LLVM Meetup - Restarting it](https://discourse.llvm.org/t/bay-area-llvm-meetup-restarting-it/60749#post_6)
-- [Is Phabricator broken &lpar;April 15, 2022&rpar;](https://discourse.llvm.org/t/is-phabricator-broken-april-15-2022/61807#post_2)
-- [Write JITLink support for a new format/architecture](https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322#post_2)
-- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_1)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_9)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_8)
+- [Clang uses -fno-short-enum as default while gcc uses -fshort-enums for embedded targets](https://discourse.llvm.org/t/clang-uses-fno-short-enum-as-default-while-gcc-uses-fshort-enums-for-embedded-targets/61784#post_2)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774#post_8)
+- [Quant dialect: issue with the storage type](https://discourse.llvm.org/t/quant-dialect-issue-with-the-storage-type/61586#post_7)
 <!-- DISCOURSE-LLVM:END -->
