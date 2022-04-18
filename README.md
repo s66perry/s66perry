@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774#post_14)
+- [How do you access the body of a template function in the AST?](https://discourse.llvm.org/t/how-do-you-access-the-body-of-a-template-function-in-the-ast/61829#post_6)
 - [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=2#post_23)
 - [Writing an instruction selectionDAG for REV8_RV64](https://discourse.llvm.org/t/writing-an-instruction-selectiondag-for-rev8-rv64/61847#post_2)
 - [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_2)
-- [Writing an instruction selectionDAG for REV8_RV64](https://discourse.llvm.org/t/writing-an-instruction-selectiondag-for-rev8-rv64/61847#post_1)
-- [How do you access the body of a template function in the AST?](https://discourse.llvm.org/t/how-do-you-access-the-body-of-a-template-function-in-the-ast/61829#post_5)
 <!-- DISCOURSE-LLVM:END -->
