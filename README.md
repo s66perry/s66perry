@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How do you access the body of a template function in the AST?](https://discourse.llvm.org/t/how-do-you-access-the-body-of-a-template-function-in-the-ast/61829#post_5)
 - [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599?page=2#post_23)
 - [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_1)
 - [[GSoC 2022] Draf proposal](https://discourse.llvm.org/t/gsoc-2022-draf-proposal/61773#post_9)
 - [[Gsoc 22] Draft Proposal, Review needed](https://discourse.llvm.org/t/gsoc-22-draft-proposal-review-needed/61599?page=2#post_22)
-- [TableGen how to define 64bit immediate pat?](https://discourse.llvm.org/t/tablegen-how-to-define-64bit-immediate-pat/61815#post_3)
 <!-- DISCOURSE-LLVM:END -->
