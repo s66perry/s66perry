@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Writing an instruction selectionDAG for REV8_RV64](https://discourse.llvm.org/t/writing-an-instruction-selectiondag-for-rev8-rv64/61847#post_3)
 - [Code owner for compiler-rt builtins library?](https://discourse.llvm.org/t/code-owner-for-compiler-rt-builtins-library/61556#post_11)
 - [Code owner for compiler-rt builtins library?](https://discourse.llvm.org/t/code-owner-for-compiler-rt-builtins-library/61556#post_10)
 - [Code owner for compiler-rt builtins library?](https://discourse.llvm.org/t/code-owner-for-compiler-rt-builtins-library/61556#post_9)
 - [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_22)
-- [[RFC] Adding exported visibility-style to the IR to model XCOFF exported visibility](https://discourse.llvm.org/t/rfc-adding-exported-visibility-style-to-the-ir-to-model-xcoff-exported-visibility/61853#post_4)
 <!-- DISCOURSE-LLVM:END -->
