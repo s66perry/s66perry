@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Loop Opt WG Meeting on April 20, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-april-20-2022/61885#post_1)
-- [[RFC] Update developer policy on release notes](https://discourse.llvm.org/t/rfc-update-developer-policy-on-release-notes/61856#post_16)
-- [[RFC] Range analysis when evaluting/lowering affine maps](https://discourse.llvm.org/t/rfc-range-analysis-when-evaluting-lowering-affine-maps/4740#post_12)
-- [GSoC Proposal review needed](https://discourse.llvm.org/t/gsoc-proposal-review-needed/61883#post_1)
-- [Code owner for compiler-rt builtins library?](https://discourse.llvm.org/t/code-owner-for-compiler-rt-builtins-library/61556#post_12)
+- [Announcing HPVM 2.0 Release](https://discourse.llvm.org/t/announcing-hpvm-2-0-release/61888#post_1)
+- [Missing some libraries](https://discourse.llvm.org/t/missing-some-libraries/61823#post_5)
+- [ThinLTO failed to merge C strings](https://discourse.llvm.org/t/thinlto-failed-to-merge-c-strings/61686#post_3)
+- [LLVM GPU Working Group Meeting – Friday, April 22, 2022, 11am ET / 3pm UTC](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-april-22-2022-11am-et-3pm-utc/61886#post_1)
+- [Writing an instruction selectionDAG for REV8_RV64](https://discourse.llvm.org/t/writing-an-instruction-selectiondag-for-rev8-rv64/61847#post_7)
 <!-- DISCOURSE-LLVM:END -->
