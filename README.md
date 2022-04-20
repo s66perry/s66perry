@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Making `ffast-math` option unrelated to `ffp-contract` option](https://discourse.llvm.org/t/rfc-making-ffast-math-option-unrelated-to-ffp-contract-option/61912#post_1)
-- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_9)
-- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_1)
-- [[RFC] Update developer policy on release notes](https://discourse.llvm.org/t/rfc-update-developer-policy-on-release-notes/61856?page=2#post_21)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_7)
+- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_4)
+- [Memref.tensor_store vs bufferization.to_memref + memref.copy](https://discourse.llvm.org/t/memref-tensor-store-vs-bufferization-to-memref-memref-copy/60887#post_2)
+- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_11)
+- [Source code variable value track in IR](https://discourse.llvm.org/t/source-code-variable-value-track-in-ir/61870#post_4)
+- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_10)
 <!-- DISCOURSE-LLVM:END -->
