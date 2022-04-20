@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_6)
+- [Runtime builds for multiple targets](https://discourse.llvm.org/t/runtime-builds-for-multiple-targets/61908#post_2)
+- [Runtime builds for multiple targets](https://discourse.llvm.org/t/runtime-builds-for-multiple-targets/61908#post_1)
 - [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877#post_5)
 - [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_8)
-- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_7)
-- [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877#post_4)
-- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_6)
 <!-- DISCOURSE-LLVM:END -->
