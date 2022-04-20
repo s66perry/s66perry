@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Call to users: add your project using MLIR on https://mlir.llvm.org/users/!](https://discourse.llvm.org/t/call-to-users-add-your-project-using-mlir-on-https-mlir-llvm-org-users/61896#post_1)
+- [Intel vs AT&amp;T syntax in code comment. What&#39;s the convention in terms of code style?](https://discourse.llvm.org/t/intel-vs-at-t-syntax-in-code-comment-whats-the-convention-in-terms-of-code-style/61895#post_1)
+- [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_4)
 - [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_3)
 - [AffineDataCopyGeneration Issue with generating wrong buffer/size](https://discourse.llvm.org/t/affinedatacopygeneration-issue-with-generating-wrong-buffer-size/61893#post_3)
-- [Missing some libraries](https://discourse.llvm.org/t/missing-some-libraries/61823#post_6)
-- [AffineDataCopyGeneration Issue with generating wrong buffer/size](https://discourse.llvm.org/t/affinedatacopygeneration-issue-with-generating-wrong-buffer-size/61893#post_2)
-- [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
