@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_2)
+- [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_5)
+- [Test-release msan library builds](https://discourse.llvm.org/t/test-release-msan-library-builds/61909#post_1)
 - [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_6)
 - [Runtime builds for multiple targets](https://discourse.llvm.org/t/runtime-builds-for-multiple-targets/61908#post_2)
-- [Runtime builds for multiple targets](https://discourse.llvm.org/t/runtime-builds-for-multiple-targets/61908#post_1)
-- [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877#post_5)
-- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_8)
 <!-- DISCOURSE-LLVM:END -->
