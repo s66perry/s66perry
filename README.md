@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_4)
-- [Memref.tensor_store vs bufferization.to_memref + memref.copy](https://discourse.llvm.org/t/memref-tensor-store-vs-bufferization-to-memref-memref-copy/60887#post_2)
-- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_11)
-- [Source code variable value track in IR](https://discourse.llvm.org/t/source-code-variable-value-track-in-ir/61870#post_4)
-- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_10)
+- [[IR] string vs tablegen&#39;d attributes &lpar;and boilerplate&rpar;](https://discourse.llvm.org/t/ir-string-vs-tablegend-attributes-and-boilerplate/61914#post_1)
+- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_7)
+- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_5)
+- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_6)
+- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_5)
 <!-- DISCOURSE-LLVM:END -->
