@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_1)
-- [[RFC] Adding exported visibility-style to the IR to model XCOFF exported visibility](https://discourse.llvm.org/t/rfc-adding-exported-visibility-style-to-the-ir-to-model-xcoff-exported-visibility/61853#post_6)
-- [[RFC] Translate complex LLVM IR constants to LLVM dialect](https://discourse.llvm.org/t/rfc-translate-complex-llvm-ir-constants-to-llvm-dialect/61859#post_3)
-- [[RFC] Adding exported visibility-style to the IR to model XCOFF exported visibility](https://discourse.llvm.org/t/rfc-adding-exported-visibility-style-to-the-ir-to-model-xcoff-exported-visibility/61853#post_5)
-- [SUBREG_TO_REG pseudo instruction. Could the immediate operand be of type MO_CImmediate?](https://discourse.llvm.org/t/subreg-to-reg-pseudo-instruction-could-the-immediate-operand-be-of-type-mo-cimmediate/61889#post_1)
+- [Pointers Are Complicated III, or: Pointer-integer casts exposed](https://discourse.llvm.org/t/pointers-are-complicated-iii-or-pointer-integer-casts-exposed/61683#post_14)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_5)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_4)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_3)
+- [[RFC] Update developer policy on release notes](https://discourse.llvm.org/t/rfc-update-developer-policy-on-release-notes/61856#post_17)
 <!-- DISCOURSE-LLVM:END -->
