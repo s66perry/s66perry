@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[IR] string vs tablegen&#39;d attributes &lpar;and boilerplate&rpar;](https://discourse.llvm.org/t/ir-string-vs-tablegend-attributes-and-boilerplate/61914#post_1)
-- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_7)
-- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_5)
-- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_6)
-- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_5)
+- [Intel vs AT&amp;T syntax in code comment. What&#39;s the convention in terms of code style?](https://discourse.llvm.org/t/intel-vs-at-t-syntax-in-code-comment-whats-the-convention-in-terms-of-code-style/61895#post_2)
+- [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877#post_6)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_14)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_13)
+- [RFC: Select a &quot;better&quot; linker by default or warn about using bfd](https://discourse.llvm.org/t/rfc-select-a-better-linker-by-default-or-warn-about-using-bfd/61899#post_12)
 <!-- DISCOURSE-LLVM:END -->
