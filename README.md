@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLDB protocol question; custom gdb-server; launch; threads visible, but `invalid thread` on `reg read`](https://discourse.llvm.org/t/lldb-protocol-question-custom-gdb-server-launch-threads-visible-but-invalid-thread-on-reg-read/61808#post_2)
-- [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_5)
-- [Test-release msan library builds](https://discourse.llvm.org/t/test-release-msan-library-builds/61909#post_1)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_6)
-- [Runtime builds for multiple targets](https://discourse.llvm.org/t/runtime-builds-for-multiple-targets/61908#post_2)
+- [[RFC] Making `ffast-math` option unrelated to `ffp-contract` option](https://discourse.llvm.org/t/rfc-making-ffast-math-option-unrelated-to-ffp-contract-option/61912#post_1)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_9)
+- [Clang-tidy on Windows with Visual Studio defining __clang__?](https://discourse.llvm.org/t/clang-tidy-on-windows-with-visual-studio-defining-clang/61911#post_1)
+- [[RFC] Update developer policy on release notes](https://discourse.llvm.org/t/rfc-update-developer-policy-on-release-notes/61856?page=2#post_21)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890#post_7)
 <!-- DISCOURSE-LLVM:END -->
