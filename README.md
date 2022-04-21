@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [A memory model for LLVM IR supporting limited type punning](https://discourse.llvm.org/t/a-memory-model-for-llvm-ir-supporting-limited-type-punning/61948#post_2)
-- [Constructing backedges](https://discourse.llvm.org/t/constructing-backedges/61941#post_6)
-- [[PSA] Special case parsing of `func` operations is being removed](https://discourse.llvm.org/t/psa-special-case-parsing-of-func-operations-is-being-removed/61953#post_1)
-- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_1)
-- [Linalg-strategy-tile-and-fuse-pass need tile-sizes](https://discourse.llvm.org/t/linalg-strategy-tile-and-fuse-pass-need-tile-sizes/61937#post_4)
+- [Practical way to call delphi &quot;register&quot; &lpar;i386&rpar; calling convention method with llvm](https://discourse.llvm.org/t/practical-way-to-call-delphi-register-i386-calling-convention-method-with-llvm/61949#post_2)
+- [[PSA] Special case parsing of `func` operations is being removed](https://discourse.llvm.org/t/psa-special-case-parsing-of-func-operations-is-being-removed/61953#post_3)
+- [A memory model for LLVM IR supporting limited type punning](https://discourse.llvm.org/t/a-memory-model-for-llvm-ir-supporting-limited-type-punning/61948#post_3)
+- [[PSA] Special case parsing of `func` operations is being removed](https://discourse.llvm.org/t/psa-special-case-parsing-of-func-operations-is-being-removed/61953#post_2)
+- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_2)
 <!-- DISCOURSE-LLVM:END -->
