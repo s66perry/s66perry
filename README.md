@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Bazel and &quot;check-mlir&quot; target: does Bazel support running lit tests?](https://discourse.llvm.org/t/bazel-and-check-mlir-target-does-bazel-support-running-lit-tests/61898#post_2)
+- [LLVM GPU Working Group Meeting – Friday, April 22, 2022, 11am ET / 3pm UTC](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-april-22-2022-11am-et-3pm-utc/61886#post_2)
+- [Unnecessary Load Store Operations](https://discourse.llvm.org/t/unnecessary-load-store-operations/61933#post_3)
 - [Unnecessary Load Store Operations](https://discourse.llvm.org/t/unnecessary-load-store-operations/61933#post_2)
 - [Unnecessary Load Store Operations](https://discourse.llvm.org/t/unnecessary-load-store-operations/61933#post_1)
-- [Changing the default CMAKE_BUILD_TYPE from Debug to Release](https://discourse.llvm.org/t/changing-the-default-cmake-build-type-from-debug-to-release/61927#post_3)
-- [Matching Against Two Patterns with the Same Operand Types](https://discourse.llvm.org/t/matching-against-two-patterns-with-the-same-operand-types/61897#post_2)
-- [“ multiple definition ”](https://discourse.llvm.org/t/multiple-definition/61926#post_5)
 <!-- DISCOURSE-LLVM:END -->
