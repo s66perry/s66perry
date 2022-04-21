@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=2#post_21)
-- [“ multiple definition ”](https://discourse.llvm.org/t/multiple-definition/61926#post_4)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_48)
-- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_10)
-- [Changing the default CMAKE_BUILD_TYPE from Debug to Release](https://discourse.llvm.org/t/changing-the-default-cmake-build-type-from-debug-to-release/61927#post_2)
+- [Unnecessary Load Store Operations](https://discourse.llvm.org/t/unnecessary-load-store-operations/61933#post_2)
+- [Unnecessary Load Store Operations](https://discourse.llvm.org/t/unnecessary-load-store-operations/61933#post_1)
+- [Changing the default CMAKE_BUILD_TYPE from Debug to Release](https://discourse.llvm.org/t/changing-the-default-cmake-build-type-from-debug-to-release/61927#post_3)
+- [Matching Against Two Patterns with the Same Operand Types](https://discourse.llvm.org/t/matching-against-two-patterns-with-the-same-operand-types/61897#post_2)
+- [“ multiple definition ”](https://discourse.llvm.org/t/multiple-definition/61926#post_5)
 <!-- DISCOURSE-LLVM:END -->
