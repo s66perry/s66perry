@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_5)
-- [Linalg-strategy-tile-and-fuse-pass need tile-sizes](https://discourse.llvm.org/t/linalg-strategy-tile-and-fuse-pass-need-tile-sizes/61937#post_1)
-- [Handshake: Circuit with optional result](https://discourse.llvm.org/t/handshake-circuit-with-optional-result/61936#post_1)
-- [Passing an element of an array to a function](https://discourse.llvm.org/t/passing-an-element-of-an-array-to-a-function/61935#post_1)
-- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_17)
+- [Handshake: Circuit with optional result](https://discourse.llvm.org/t/handshake-circuit-with-optional-result/61936#post_2)
+- [Passing an element of an array to a function](https://discourse.llvm.org/t/passing-an-element-of-an-array-to-a-function/61935#post_3)
+- [[Question] How to properly lower MLIR to LLVM-IR?](https://discourse.llvm.org/t/question-how-to-properly-lower-mlir-to-llvm-ir/61918#post_2)
+- [Linalg-strategy-tile-and-fuse-pass need tile-sizes](https://discourse.llvm.org/t/linalg-strategy-tile-and-fuse-pass-need-tile-sizes/61937#post_2)
+- [Passing an element of an array to a function](https://discourse.llvm.org/t/passing-an-element-of-an-array-to-a-function/61935#post_2)
 <!-- DISCOURSE-LLVM:END -->
