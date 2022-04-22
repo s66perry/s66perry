@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_48)
-- [[RFC] Making `ffast-math` option unrelated to `ffp-contract` option](https://discourse.llvm.org/t/rfc-making-ffast-math-option-unrelated-to-ffp-contract-option/61912#post_5)
-- [[RFC] Making `ffast-math` option unrelated to `ffp-contract` option](https://discourse.llvm.org/t/rfc-making-ffast-math-option-unrelated-to-ffp-contract-option/61912#post_4)
-- [[RFC] Making `ffast-math` option unrelated to `ffp-contract` option](https://discourse.llvm.org/t/rfc-making-ffast-math-option-unrelated-to-ffp-contract-option/61912#post_3)
-- [LLVM GPU Working Group Meeting – Friday, April 22, 2022, 11am ET / 3pm UTC](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-april-22-2022-11am-et-3pm-utc/61886#post_3)
+- [Get metadata DILocation](https://discourse.llvm.org/t/get-metadata-dilocation/61964#post_2)
+- [Handshake: Circuit with optional result](https://discourse.llvm.org/t/handshake-circuit-with-optional-result/61936#post_4)
+- [Structured algebra operations](https://discourse.llvm.org/t/structured-algebra-operations/60634#post_5)
+- [Structured algebra operations](https://discourse.llvm.org/t/structured-algebra-operations/60634#post_4)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_11)
 <!-- DISCOURSE-LLVM:END -->
