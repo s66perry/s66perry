@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM GPU Working Group Meeting – Friday, April 22, 2022, 11am ET / 3pm UTC](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-april-22-2022-11am-et-3pm-utc/61886#post_3)
+- [How to write a RISCV Backend for branch?](https://discourse.llvm.org/t/how-to-write-a-riscv-backend-for-branch/61967#post_5)
+- [How to write a RISCV Backend for branch?](https://discourse.llvm.org/t/how-to-write-a-riscv-backend-for-branch/61967#post_4)
+- [How to get DISubprogram of a Function](https://discourse.llvm.org/t/how-to-get-disubprogram-of-a-function/61970#post_1)
 - [How to write a RISCV Backend for branch?](https://discourse.llvm.org/t/how-to-write-a-riscv-backend-for-branch/61967#post_3)
-- [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_5)
-- [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_4)
-- [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_3)
-- [How to write a RISCV Backend for branch?](https://discourse.llvm.org/t/how-to-write-a-riscv-backend-for-branch/61967#post_2)
 <!-- DISCOURSE-LLVM:END -->
