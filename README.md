@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to write slicing op in linalg::genericOp](https://discourse.llvm.org/t/how-to-write-slicing-op-in-linalg-genericop/61960#post_1)
+- [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877#post_7)
+- [Why clang&#39;s float use 8bytes, It should be 4 bytes. How can I fix it?](https://discourse.llvm.org/t/why-clangs-float-use-8bytes-it-should-be-4-bytes-how-can-i-fix-it/61959#post_3)
 - [Handshake: Circuit with optional result](https://discourse.llvm.org/t/handshake-circuit-with-optional-result/61936#post_3)
 - [Why clang&#39;s float use 8bytes, It should be 4 bytes. How can I fix it?](https://discourse.llvm.org/t/why-clangs-float-use-8bytes-it-should-be-4-bytes-how-can-i-fix-it/61959#post_2)
-- [[RFC] Update developer policy on release notes](https://discourse.llvm.org/t/rfc-update-developer-policy-on-release-notes/61856?page=2#post_22)
-- [Matching Against Two Patterns with the Same Operand Types](https://discourse.llvm.org/t/matching-against-two-patterns-with-the-same-operand-types/61897#post_3)
-- [Why clang&#39;s float use 8bytes, It should be 4 bytes. How can I fix it?](https://discourse.llvm.org/t/why-clangs-float-use-8bytes-it-should-be-4-bytes-how-can-i-fix-it/61959#post_1)
 <!-- DISCOURSE-LLVM:END -->
