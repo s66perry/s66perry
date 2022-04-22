@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to write slicing op in linalg::genericOp](https://discourse.llvm.org/t/how-to-write-slicing-op-in-linalg-genericop/61960#post_3)
 - [Get metadata DILocation](https://discourse.llvm.org/t/get-metadata-dilocation/61964#post_1)
 - [How to write slicing op in linalg::genericOp](https://discourse.llvm.org/t/how-to-write-slicing-op-in-linalg-genericop/61960#post_2)
 - [Does a variable in source code match an IR `alloca` instruction?](https://discourse.llvm.org/t/does-a-variable-in-source-code-match-an-ir-alloca-instruction/61963#post_2)
 - [Does a variable in source code match an IR `alloca` instruction?](https://discourse.llvm.org/t/does-a-variable-in-source-code-match-an-ir-alloca-instruction/61963#post_1)
-- [How to write slicing op in linalg::genericOp](https://discourse.llvm.org/t/how-to-write-slicing-op-in-linalg-genericop/61960#post_1)
 <!-- DISCOURSE-LLVM:END -->
