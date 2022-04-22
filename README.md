@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to write a RISCV Backend for branch?](https://discourse.llvm.org/t/how-to-write-a-riscv-backend-for-branch/61967#post_3)
+- [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_5)
+- [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_4)
 - [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_3)
 - [How to write a RISCV Backend for branch?](https://discourse.llvm.org/t/how-to-write-a-riscv-backend-for-branch/61967#post_2)
-- [Modifying GlobalVariable in LLVM IR](https://discourse.llvm.org/t/modifying-globalvariable-in-llvm-ir/61969#post_1)
-- [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_2)
-- [Using Value to Represent Interger or String Type](https://discourse.llvm.org/t/using-value-to-represent-interger-or-string-type/61968#post_1)
 <!-- DISCOURSE-LLVM:END -->
