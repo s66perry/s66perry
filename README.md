@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Question] How to properly lower MLIR to LLVM-IR?](https://discourse.llvm.org/t/question-how-to-properly-lower-mlir-to-llvm-ir/61918#post_3)
-- [[RFC] Adding exported visibility-style to the IR to model XCOFF exported visibility](https://discourse.llvm.org/t/rfc-adding-exported-visibility-style-to-the-ir-to-model-xcoff-exported-visibility/61853#post_8)
-- [NVIDIA transition from fir-dev](https://discourse.llvm.org/t/nvidia-transition-from-fir-dev/61947#post_2)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_7)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_6)
+- [Why clang&#39;s float use 8bytes, It should be 4 bytes. How can I fix it?](https://discourse.llvm.org/t/why-clangs-float-use-8bytes-it-should-be-4-bytes-how-can-i-fix-it/61959#post_1)
+- [A memory model for LLVM IR supporting limited type punning](https://discourse.llvm.org/t/a-memory-model-for-llvm-ir-supporting-limited-type-punning/61948#post_4)
+- [Linalg-strategy-tile-and-fuse-pass need tile-sizes](https://discourse.llvm.org/t/linalg-strategy-tile-and-fuse-pass-need-tile-sizes/61937#post_5)
+- [Changing the default CMAKE_BUILD_TYPE from Debug to Release](https://discourse.llvm.org/t/changing-the-default-cmake-build-type-from-debug-to-release/61927#post_4)
+- [Bazel and &quot;check-mlir&quot; target: does Bazel support running lit tests?](https://discourse.llvm.org/t/bazel-and-check-mlir-target-does-bazel-support-running-lit-tests/61898#post_3)
 <!-- DISCOURSE-LLVM:END -->
