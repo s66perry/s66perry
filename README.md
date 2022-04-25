@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Got error complaining about dominance on IR seems valid](https://discourse.llvm.org/t/got-error-complaining-about-dominance-on-ir-seems-valid/61992#post_2)
+- [Try to generate assembly code with my custom backend](https://discourse.llvm.org/t/try-to-generate-assembly-code-with-my-custom-backend/61708#post_2)
+- [Test-release msan library builds](https://discourse.llvm.org/t/test-release-msan-library-builds/61909#post_7)
 - [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=2#post_33)
 - [How to find out the instruction that is causing this error?](https://discourse.llvm.org/t/how-to-find-out-the-instruction-that-is-causing-this-error/61104#post_8)
-- [LLVMTargetMachineEmitToFile takes non-const char*](https://discourse.llvm.org/t/llvmtargetmachineemittofile-takes-non-const-char/62010#post_1)
-- [How can I control FP_EXTEND&#39;s combine?](https://discourse.llvm.org/t/how-can-i-control-fp-extends-combine/62009#post_2)
-- [How can I control FP_EXTEND&#39;s combine?](https://discourse.llvm.org/t/how-can-i-control-fp-extends-combine/62009#post_1)
 <!-- DISCOURSE-LLVM:END -->
