@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_25)
-- [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291?page=2#post_36)
-- [BOLT Open Projects](https://discourse.llvm.org/t/bolt-open-projects/61857#post_3)
-- [LLVM Weekly - #434, April 25th 2022](https://discourse.llvm.org/t/llvm-weekly-434-april-25th-2022/62028#post_1)
-- [Tensors of complex numbers, bufferization and lowering](https://discourse.llvm.org/t/tensors-of-complex-numbers-bufferization-and-lowering/62019#post_3)
+- [Opaque pointers and LLVM alloca](https://discourse.llvm.org/t/opaque-pointers-and-llvm-alloca/62031#post_1)
+- [Best way to pass an implicit parameter](https://discourse.llvm.org/t/best-way-to-pass-an-implicit-parameter/62023#post_3)
+- [Best way to pass an implicit parameter](https://discourse.llvm.org/t/best-way-to-pass-an-implicit-parameter/62023#post_2)
+- [Bufferize tensor.pad](https://discourse.llvm.org/t/bufferize-tensor-pad/62025#post_2)
+- [C++ Modules Bi-Weekly Informal Implementers&#39; Meeting](https://discourse.llvm.org/t/c-modules-bi-weekly-informal-implementers-meeting/61874#post_2)
 <!-- DISCOURSE-LLVM:END -->
