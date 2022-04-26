@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_51)
+- [Bufferize tensor.pad](https://discourse.llvm.org/t/bufferize-tensor-pad/62025#post_3)
+- [Tensors of complex numbers, bufferization and lowering](https://discourse.llvm.org/t/tensors-of-complex-numbers-bufferization-and-lowering/62019#post_6)
 - [Lowering memref.alloc to cudaHostAlloc](https://discourse.llvm.org/t/lowering-memref-alloc-to-cudahostalloc/62035#post_2)
 - [RFC: Stand-alone build support](https://discourse.llvm.org/t/rfc-stand-alone-build-support/61291?page=2#post_39)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015#post_9)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015#post_8)
-- [Does MLIR supports CUDA stream?](https://discourse.llvm.org/t/does-mlir-supports-cuda-stream/61990#post_2)
 <!-- DISCOURSE-LLVM:END -->
