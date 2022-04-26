@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877#post_16)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_50)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=2#post_37)
-- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_14)
-- [Selection pattern for Intrinsic functions](https://discourse.llvm.org/t/selection-pattern-for-intrinsic-functions/62021#post_4)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=2#post_38)
+- [[RFC] WebAssembly tables in Clang](https://discourse.llvm.org/t/rfc-webassembly-tables-in-clang/62049#post_1)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_16)
+- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_15)
+- [Code coverarge with dynamically loaded libraries &lpar;moved&rpar;](https://discourse.llvm.org/t/code-coverarge-with-dynamically-loaded-libraries-moved/62048#post_1)
 <!-- DISCOURSE-LLVM:END -->
