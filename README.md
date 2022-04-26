@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_42)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_41)
-- [Bug in discourse email migration: discarded some parts of messages](https://discourse.llvm.org/t/bug-in-discourse-email-migration-discarded-some-parts-of-messages/60074#post_8)
-- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_5)
-- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_4)
+- [How to add addtional traits to existing Ops?](https://discourse.llvm.org/t/how-to-add-addtional-traits-to-existing-ops/62039#post_5)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_44)
+- [[CFP] Toolchains and kernel track at Linux Plumbers Conf 2022](https://discourse.llvm.org/t/cfp-toolchains-and-kernel-track-at-linux-plumbers-conf-2022/62054#post_1)
+- [Vectorizing with gather/scatter instrinsics](https://discourse.llvm.org/t/vectorizing-with-gather-scatter-instrinsics/61736#post_2)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
