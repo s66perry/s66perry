@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_3)
+- [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_2)
+- [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_1)
+- [Could I get one single bc file from a multiple files？（which may have a real big amount of files including .c/.h/.hpp）](https://discourse.llvm.org/t/could-i-get-one-single-bc-file-from-a-multiple-files-which-may-have-a-real-big-amount-of-files-including-c-h-hpp/62072#post_2)
 - [14.0.2-final has been tagged](https://discourse.llvm.org/t/14-0-2-final-has-been-tagged/62066#post_3)
-- [14.0.2-final has been tagged](https://discourse.llvm.org/t/14-0-2-final-has-been-tagged/62066#post_2)
-- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_6)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015#post_13)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015#post_12)
 <!-- DISCOURSE-LLVM:END -->
