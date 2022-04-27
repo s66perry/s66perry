@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_3)
-- [Clang compile a project](https://discourse.llvm.org/t/clang-compile-a-project/62064#post_3)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322#post_17)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_10)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_9)
+- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_5)
+- [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_4)
+- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_4)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_11)
+- [CANCELLED RISC-V LLVM sync-up call 28th April 2022](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-28th-april-2022/62087#post_1)
 <!-- DISCOURSE-LLVM:END -->
