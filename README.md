@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Job Ad] Senior and Lead Compiler Engineer positions at Arm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/job-ad-senior-and-lead-compiler-engineer-positions-at-arm-cambridge-uk/62086#post_2)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_8)
+- [Clang compile a project](https://discourse.llvm.org/t/clang-compile-a-project/62064#post_2)
+- [[Job Ad] Senior and Lead Compiler Engineer positions at Arm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/job-ad-senior-and-lead-compiler-engineer-positions-at-arm-cambridge-uk/62086#post_1)
 - [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_3)
-- [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_2)
-- [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_1)
-- [Could I get one single bc file from a multiple files？（which may have a real big amount of files including .c/.h/.hpp）](https://discourse.llvm.org/t/could-i-get-one-single-bc-file-from-a-multiple-files-which-may-have-a-real-big-amount-of-files-including-c-h-hpp/62072#post_2)
-- [14.0.2-final has been tagged](https://discourse.llvm.org/t/14-0-2-final-has-been-tagged/62066#post_3)
 <!-- DISCOURSE-LLVM:END -->
