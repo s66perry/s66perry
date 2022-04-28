@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [My clang code doesn&#39;t linked](https://discourse.llvm.org/t/my-clang-code-doesnt-linked/62088#post_8)
+- [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877?page=2#post_22)
+- [MLIR and FPGA targets](https://discourse.llvm.org/t/mlir-and-fpga-targets/62124#post_2)
+- [My clang code doesn&#39;t linked](https://discourse.llvm.org/t/my-clang-code-doesnt-linked/62088#post_7)
 - [My clang code doesn&#39;t linked](https://discourse.llvm.org/t/my-clang-code-doesnt-linked/62088#post_6)
-- [My clang code doesn&#39;t linked](https://discourse.llvm.org/t/my-clang-code-doesnt-linked/62088#post_5)
-- [Building LLVM-libc for ARM32](https://discourse.llvm.org/t/building-llvm-libc-for-arm32/62092#post_5)
-- [MLIR and FPGA targets](https://discourse.llvm.org/t/mlir-and-fpga-targets/62124#post_1)
-- [My clang code doesn&#39;t linked](https://discourse.llvm.org/t/my-clang-code-doesnt-linked/62088#post_4)
 <!-- DISCOURSE-LLVM:END -->
