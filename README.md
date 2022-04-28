@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Searching for issues authored by `mannequin` users does not work](https://discourse.llvm.org/t/searching-for-issues-authored-by-mannequin-users-does-not-work/59736#post_5)
-- [Searching for issues authored by `mannequin` users does not work](https://discourse.llvm.org/t/searching-for-issues-authored-by-mannequin-users-does-not-work/59736#post_4)
-- [[RFC] Much faster cross translation unit &lpar;CTU&rpar; analysis implementation](https://discourse.llvm.org/t/rfc-much-faster-cross-translation-unit-ctu-analysis-implementation/61728#post_18)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_17)
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_17)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_20)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_48)
+- [Women in Compilers and Tools May 2022 Meetup: AMA with Professor Michelle Strout](https://discourse.llvm.org/t/women-in-compilers-and-tools-may-2022-meetup-ama-with-professor-michelle-strout/62120#post_1)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_19)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_18)
 <!-- DISCOURSE-LLVM:END -->
