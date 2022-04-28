@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_16)
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_15)
-- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_14)
-- [What pass can powerfully reduce code size in lto phase?](https://discourse.llvm.org/t/what-pass-can-powerfully-reduce-code-size-in-lto-phase/62104#post_2)
-- [What pass can powerfully reduce code size in lto phase?](https://discourse.llvm.org/t/what-pass-can-powerfully-reduce-code-size-in-lto-phase/62104#post_1)
+- [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_5)
+- [[RFC] WebAssembly tables in Clang](https://discourse.llvm.org/t/rfc-webassembly-tables-in-clang/62049#post_2)
+- [Clang compile a project](https://discourse.llvm.org/t/clang-compile-a-project/62064#post_7)
+- [LLVM 14.0.2 Release](https://discourse.llvm.org/t/llvm-14-0-2-release/62065#post_10)
+- [Clang compile a project](https://discourse.llvm.org/t/clang-compile-a-project/62064#post_6)
 <!-- DISCOURSE-LLVM:END -->
