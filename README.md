@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR GPU execution without runtime load/unload](https://discourse.llvm.org/t/mlir-gpu-execution-without-runtime-load-unload/61712#post_2)
 - [Clang compile a project](https://discourse.llvm.org/t/clang-compile-a-project/62064#post_8)
 - [How to add addtional traits to existing Ops?](https://discourse.llvm.org/t/how-to-add-addtional-traits-to-existing-ops/62039#post_8)
 - [Getting custom C++ attribute specifiers from AST](https://discourse.llvm.org/t/getting-custom-c-attribute-specifiers-from-ast/62083#post_5)
 - [[RFC] WebAssembly tables in Clang](https://discourse.llvm.org/t/rfc-webassembly-tables-in-clang/62049#post_2)
-- [Clang compile a project](https://discourse.llvm.org/t/clang-compile-a-project/62064#post_7)
 <!-- DISCOURSE-LLVM:END -->
