@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_20)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_48)
-- [Women in Compilers and Tools May 2022 Meetup: AMA with Professor Michelle Strout](https://discourse.llvm.org/t/women-in-compilers-and-tools-may-2022-meetup-ama-with-professor-michelle-strout/62120#post_1)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_19)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761#post_18)
+- [MLIR affine inverse](https://discourse.llvm.org/t/mlir-affine-inverse/62122#post_2)
+- [MLIR affine inverse](https://discourse.llvm.org/t/mlir-affine-inverse/62122#post_1)
+- [Building LLVM-libc for ARM32](https://discourse.llvm.org/t/building-llvm-libc-for-arm32/62092#post_4)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_22)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
