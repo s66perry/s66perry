@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_54)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_53)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_52)
 - [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_51)
 - [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=3#post_50)
-- [MLIR python bindings: making optional attributes into optional python arguments](https://discourse.llvm.org/t/mlir-python-bindings-making-optional-attributes-into-optional-python-arguments/62050#post_6)
-- [MLIR python bindings: making optional attributes into optional python arguments](https://discourse.llvm.org/t/mlir-python-bindings-making-optional-attributes-into-optional-python-arguments/62050#post_5)
-- [MLIR python bindings: making optional attributes into optional python arguments](https://discourse.llvm.org/t/mlir-python-bindings-making-optional-attributes-into-optional-python-arguments/62050#post_4)
 <!-- DISCOURSE-LLVM:END -->
