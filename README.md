@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_7)
 - [[RFC] Deprecate and remove LLVM_BUILD_EXTERNAL COMPILER_RT](https://discourse.llvm.org/t/rfc-deprecate-and-remove-llvm-build-external-compiler-rt/62058#post_10)
 - [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_6)
 - [Compile to native](https://discourse.llvm.org/t/compile-to-native/62196#post_3)
 - [Compile to native](https://discourse.llvm.org/t/compile-to-native/62196#post_2)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=4#post_75)
 <!-- DISCOURSE-LLVM:END -->
