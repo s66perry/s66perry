@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Importing LLVM .bc into MLIR and raising it](https://discourse.llvm.org/t/importing-llvm-bc-into-mlir-and-raising-it/62170#post_4)
+- [Moderators needed at 2022 EuroLLVM](https://discourse.llvm.org/t/moderators-needed-at-2022-eurollvm/62177#post_1)
+- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_2)
 - [14.0.3-final has been tagged](https://discourse.llvm.org/t/14-0-3-final-has-been-tagged/62134#post_8)
 - [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=4#post_71)
-- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_20)
-- [Importing LLVM .bc into MLIR and raising it](https://discourse.llvm.org/t/importing-llvm-bc-into-mlir-and-raising-it/62170#post_3)
-- [MLIR JIT/ExecutionEngine performance issue](https://discourse.llvm.org/t/mlir-jit-executionengine-performance-issue/62174#post_2)
 <!-- DISCOURSE-LLVM:END -->
