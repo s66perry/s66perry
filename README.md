@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [C++ Modules Bi-Weekly Informal Implementers&#39; Meeting](https://discourse.llvm.org/t/c-modules-bi-weekly-informal-implementers-meeting/61874#post_12)
-- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_3)
-- [Should we continue embed the full llvm version in lib/clang/#.#.#/?](https://discourse.llvm.org/t/should-we-continue-embed-the-full-llvm-version-in-lib-clang/62094#post_3)
-- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_2)
-- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_2)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=4#post_74)
+- [Patterns generation with optional operands struggle](https://discourse.llvm.org/t/patterns-generation-with-optional-operands-struggle/62180#post_2)
+- [Legacy coroutines removed, no C API anymore for JIT?](https://discourse.llvm.org/t/legacy-coroutines-removed-no-c-api-anymore-for-jit/62195#post_2)
+- [Compile to native](https://discourse.llvm.org/t/compile-to-native/62196#post_1)
+- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_5)
 <!-- DISCOURSE-LLVM:END -->
