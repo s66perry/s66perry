@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_9)
-- [How to test a single LLVM IR optimization pass by test-suite?](https://discourse.llvm.org/t/how-to-test-a-single-llvm-ir-optimization-pass-by-test-suite/62182#post_5)
-- [How to test a single LLVM IR optimization pass by test-suite?](https://discourse.llvm.org/t/how-to-test-a-single-llvm-ir-optimization-pass-by-test-suite/62182#post_4)
-- [[RFC] Matrix / Vector type interOps](https://discourse.llvm.org/t/rfc-matrix-vector-type-interops/62164#post_3)
-- [How to test a single LLVM IR optimization pass by test-suite?](https://discourse.llvm.org/t/how-to-test-a-single-llvm-ir-optimization-pass-by-test-suite/62182#post_3)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=4#post_73)
+- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_12)
+- [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_7)
+- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_11)
+- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_10)
 <!-- DISCOURSE-LLVM:END -->
