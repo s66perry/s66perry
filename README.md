@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=4#post_73)
-- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_12)
-- [Tosa.tile op only support 1d-4d tensor](https://discourse.llvm.org/t/tosa-tile-op-only-support-1d-4d-tensor/61842#post_7)
-- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_11)
-- [Building the LLVM with msbuild](https://discourse.llvm.org/t/building-the-llvm-with-msbuild/62053#post_10)
+- [Should we continue embed the full llvm version in lib/clang/#.#.#/?](https://discourse.llvm.org/t/should-we-continue-embed-the-full-llvm-version-in-lib-clang/62094#post_3)
+- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_2)
+- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_2)
+- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_1)
+- [Should we continue embed the full llvm version in lib/clang/#.#.#/?](https://discourse.llvm.org/t/should-we-continue-embed-the-full-llvm-version-in-lib-clang/62094#post_2)
 <!-- DISCOURSE-LLVM:END -->
