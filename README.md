@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][PDL] Extending PDL/PDLInterp/ByteCode to Enable Commutative Matching](https://discourse.llvm.org/t/mlir-pdl-extending-pdl-pdlinterp-bytecode-to-enable-commutative-matching/60798#post_20)
+- [Importing LLVM .bc into MLIR and raising it](https://discourse.llvm.org/t/importing-llvm-bc-into-mlir-and-raising-it/62170#post_3)
 - [MLIR JIT/ExecutionEngine performance issue](https://discourse.llvm.org/t/mlir-jit-executionengine-performance-issue/62174#post_2)
 - [LLVM GPU News #33, April 29, 2022](https://discourse.llvm.org/t/llvm-gpu-news-33-april-29-2022/62175#post_1)
 - [MLIR JIT/ExecutionEngine performance issue](https://discourse.llvm.org/t/mlir-jit-executionengine-performance-issue/62174#post_1)
-- [[RFC] Introduce cross-lane function attribute to prevent merging call of cross-lane functions](https://discourse.llvm.org/t/rfc-introduce-cross-lane-function-attribute-to-prevent-merging-call-of-cross-lane-functions/62148#post_3)
-- [Importing LLVM .bc into MLIR and raising it](https://discourse.llvm.org/t/importing-llvm-bc-into-mlir-and-raising-it/62170#post_2)
 <!-- DISCOURSE-LLVM:END -->
