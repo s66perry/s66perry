@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM custom backend iplementation](https://discourse.llvm.org/t/llvm-custom-backend-iplementation/62218#post_5)
-- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_14)
-- [Loop Opt WG Meeting on May 4th, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-may-4th-2022/62220#post_1)
-- [LLVM custom backend iplementation](https://discourse.llvm.org/t/llvm-custom-backend-iplementation/62218#post_4)
-- [Writing Custom FIRRTL Passes](https://discourse.llvm.org/t/writing-custom-firrtl-passes/62216#post_2)
+- [LLVM custom backend iplementation](https://discourse.llvm.org/t/llvm-custom-backend-iplementation/62218#post_7)
+- [Compile to native](https://discourse.llvm.org/t/compile-to-native/62196#post_4)
+- [LLVM custom backend iplementation](https://discourse.llvm.org/t/llvm-custom-backend-iplementation/62218#post_6)
+- [LLVM toolchain engineer at Octasic](https://discourse.llvm.org/t/llvm-toolchain-engineer-at-octasic/62221#post_1)
+- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_15)
 <!-- DISCOURSE-LLVM:END -->
