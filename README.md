@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Byte width specification in Data Layout string](https://discourse.llvm.org/t/byte-width-specification-in-data-layout-string/62202#post_1)
+- [MLIR JIT/ExecutionEngine performance issue](https://discourse.llvm.org/t/mlir-jit-executionengine-performance-issue/62174#post_3)
+- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_1)
 - [Code of Conduct Transparency Report Posted](https://discourse.llvm.org/t/code-of-conduct-transparency-report-posted/62199#post_2)
 - [Code of Conduct Transparency Report Posted](https://discourse.llvm.org/t/code-of-conduct-transparency-report-posted/62199#post_1)
-- [[RFC] Representing pipelined loops](https://discourse.llvm.org/t/rfc-representing-pipelined-loops/4171?page=2#post_31)
-- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_7)
-- [[RFC] Deprecate and remove LLVM_BUILD_EXTERNAL COMPILER_RT](https://discourse.llvm.org/t/rfc-deprecate-and-remove-llvm-build-external-compiler-rt/62058#post_10)
 <!-- DISCOURSE-LLVM:END -->
