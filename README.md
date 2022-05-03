@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_11)
-- [Byte width specification in Data Layout string](https://discourse.llvm.org/t/byte-width-specification-in-data-layout-string/62202#post_8)
-- [Byte width specification in Data Layout string](https://discourse.llvm.org/t/byte-width-specification-in-data-layout-string/62202#post_7)
-- [Is it possible that optimization by O3 is getting worse because of the decreasing of parallelization?](https://discourse.llvm.org/t/is-it-possible-that-optimization-by-o3-is-getting-worse-because-of-the-decreasing-of-parallelization/62214#post_3)
-- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_10)
+- [LLVM custom backend iplementation](https://discourse.llvm.org/t/llvm-custom-backend-iplementation/62218#post_5)
+- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_14)
+- [Loop Opt WG Meeting on May 4th, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-may-4th-2022/62220#post_1)
+- [LLVM custom backend iplementation](https://discourse.llvm.org/t/llvm-custom-backend-iplementation/62218#post_4)
+- [Writing Custom FIRRTL Passes](https://discourse.llvm.org/t/writing-custom-firrtl-passes/62216#post_2)
 <!-- DISCOURSE-LLVM:END -->
