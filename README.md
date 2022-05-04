@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_16)
-- [Is XCode or lldb able to download source files when debugging core dumps?](https://discourse.llvm.org/t/is-xcode-or-lldb-able-to-download-source-files-when-debugging-core-dumps/62226#post_6)
-- [Conversion of text symbols from global to local](https://discourse.llvm.org/t/conversion-of-text-symbols-from-global-to-local/62209#post_5)
-- [Linalg.generic with projection maps!](https://discourse.llvm.org/t/linalg-generic-with-projection-maps/62225#post_4)
-- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_15)
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_20)
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_19)
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_18)
+- [Conversion of text symbols from global to local](https://discourse.llvm.org/t/conversion-of-text-symbols-from-global-to-local/62209#post_6)
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_17)
 <!-- DISCOURSE-LLVM:END -->
