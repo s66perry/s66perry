@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Div/rem over select-of-constants](https://discourse.llvm.org/t/div-rem-over-select-of-constants/61474#post_5)
-- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_12)
-- [Div/rem over select-of-constants](https://discourse.llvm.org/t/div-rem-over-select-of-constants/61474#post_4)
-- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_11)
-- [[RFC] Update to MLIR developer policy on recursion](https://discourse.llvm.org/t/rfc-update-to-mlir-developer-policy-on-recursion/62235#post_8)
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_14)
+- [[RFC] Update to MLIR developer policy on recursion](https://discourse.llvm.org/t/rfc-update-to-mlir-developer-policy-on-recursion/62235#post_9)
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236#post_13)
+- [Is XCode or lldb able to download source files when debugging core dumps?](https://discourse.llvm.org/t/is-xcode-or-lldb-able-to-download-source-files-when-debugging-core-dumps/62226#post_5)
+- [Vectorizing with gather/scatter instrinsics](https://discourse.llvm.org/t/vectorizing-with-gather-scatter-instrinsics/61736#post_5)
 <!-- DISCOURSE-LLVM:END -->
