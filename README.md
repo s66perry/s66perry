@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Conversion of text symbols from global to local](https://discourse.llvm.org/t/conversion-of-text-symbols-from-global-to-local/62209#post_4)
-- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_6)
-- [Skipping constexpr initializer expression evaluations](https://discourse.llvm.org/t/skipping-constexpr-initializer-expression-evaluations/62213#post_8)
-- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165#post_6)
-- [Bug in discourse email migration: discarded some parts of messages](https://discourse.llvm.org/t/bug-in-discourse-email-migration-discarded-some-parts-of-messages/60074#post_10)
+- [Writing Custom FIRRTL Passes](https://discourse.llvm.org/t/writing-custom-firrtl-passes/62216#post_3)
+- [Skipping constexpr initializer expression evaluations](https://discourse.llvm.org/t/skipping-constexpr-initializer-expression-evaluations/62213#post_10)
+- [[RFC] Update to MLIR developer policy on recursion](https://discourse.llvm.org/t/rfc-update-to-mlir-developer-policy-on-recursion/62235#post_1)
+- [Skipping constexpr initializer expression evaluations](https://discourse.llvm.org/t/skipping-constexpr-initializer-expression-evaluations/62213#post_9)
+- [Is LLVM going to use GitHub PRs as the main review tool?](https://discourse.llvm.org/t/is-llvm-going-to-use-github-prs-as-the-main-review-tool/62192#post_16)
 <!-- DISCOURSE-LLVM:END -->
