@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coverage report of the `check-clang-analysis` target](https://discourse.llvm.org/t/coverage-report-of-the-check-clang-analysis-target/62316#post_2)
+- [Coverage report of the `check-clang-analysis` target](https://discourse.llvm.org/t/coverage-report-of-the-check-clang-analysis-target/62316#post_1)
+- [Vectorizing with gather/scatter instrinsics](https://discourse.llvm.org/t/vectorizing-with-gather-scatter-instrinsics/61736#post_7)
 - [Compilation errors at TableGen descriptions](https://discourse.llvm.org/t/compilation-errors-at-tablegen-descriptions/62308#post_3)
 - [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_5)
-- [Using inttoptr/ptrtoint instead of getelementptr](https://discourse.llvm.org/t/using-inttoptr-ptrtoint-instead-of-getelementptr/62309#post_3)
-- [Using inttoptr/ptrtoint instead of getelementptr](https://discourse.llvm.org/t/using-inttoptr-ptrtoint-instead-of-getelementptr/62309#post_2)
-- [Moderators needed at 2022 EuroLLVM](https://discourse.llvm.org/t/moderators-needed-at-2022-eurollvm/62177#post_2)
 <!-- DISCOURSE-LLVM:END -->
