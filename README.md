@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_4)
+- [14.0.3-final has been tagged](https://discourse.llvm.org/t/14-0-3-final-has-been-tagged/62134#post_10)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=2#post_27)
 - [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=2#post_31)
 - [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165#post_7)
-- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_1)
-- [Compilation errors at TableGen descriptions](https://discourse.llvm.org/t/compilation-errors-at-tablegen-descriptions/62308#post_2)
-- [[RFC] Coding style in the driver](https://discourse.llvm.org/t/rfc-coding-style-in-the-driver/62310#post_1)
 <!-- DISCOURSE-LLVM:END -->
