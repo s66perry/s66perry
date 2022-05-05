@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_3)
-- [Need help getting started with Interprocedural PathSensitive Analysis](https://discourse.llvm.org/t/need-help-getting-started-with-interprocedural-pathsensitive-analysis/62305#post_2)
-- [Need help getting started with Interprocedural PathSensitive Analysis](https://discourse.llvm.org/t/need-help-getting-started-with-interprocedural-pathsensitive-analysis/62305#post_1)
-- [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_2)
-- [Vectorizing with gather/scatter instrinsics](https://discourse.llvm.org/t/vectorizing-with-gather-scatter-instrinsics/61736#post_6)
+- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_1)
+- [Compilation errors at TableGen descriptions](https://discourse.llvm.org/t/compilation-errors-at-tablegen-descriptions/62308#post_2)
+- [[RFC] Coding style in the driver](https://discourse.llvm.org/t/rfc-coding-style-in-the-driver/62310#post_1)
+- [Using inttoptr/ptrtoint instead of getelementptr](https://discourse.llvm.org/t/using-inttoptr-ptrtoint-instead-of-getelementptr/62309#post_1)
+- [[RFC] New attribute `annotate_type` &lpar;iteration 2&rpar;](https://discourse.llvm.org/t/rfc-new-attribute-annotate-type-iteration-2/61378#post_9)
 <!-- DISCOURSE-LLVM:END -->
