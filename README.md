@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_3)
 - [Need help getting started with Interprocedural PathSensitive Analysis](https://discourse.llvm.org/t/need-help-getting-started-with-interprocedural-pathsensitive-analysis/62305#post_2)
 - [Need help getting started with Interprocedural PathSensitive Analysis](https://discourse.llvm.org/t/need-help-getting-started-with-interprocedural-pathsensitive-analysis/62305#post_1)
 - [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_2)
 - [Vectorizing with gather/scatter instrinsics](https://discourse.llvm.org/t/vectorizing-with-gather-scatter-instrinsics/61736#post_6)
-- [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_1)
 <!-- DISCOURSE-LLVM:END -->
