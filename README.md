@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compilation errors at TableGen descriptions](https://discourse.llvm.org/t/compilation-errors-at-tablegen-descriptions/62308#post_3)
+- [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_5)
 - [Using inttoptr/ptrtoint instead of getelementptr](https://discourse.llvm.org/t/using-inttoptr-ptrtoint-instead-of-getelementptr/62309#post_3)
 - [Using inttoptr/ptrtoint instead of getelementptr](https://discourse.llvm.org/t/using-inttoptr-ptrtoint-instead-of-getelementptr/62309#post_2)
 - [Moderators needed at 2022 EuroLLVM](https://discourse.llvm.org/t/moderators-needed-at-2022-eurollvm/62177#post_2)
-- [Interface to extract registered Operations of a Dialect](https://discourse.llvm.org/t/interface-to-extract-registered-operations-of-a-dialect/62304#post_4)
-- [14.0.3-final has been tagged](https://discourse.llvm.org/t/14-0-3-final-has-been-tagged/62134#post_10)
 <!-- DISCOURSE-LLVM:END -->
