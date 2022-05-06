@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Should we continue embed the full llvm version in lib/clang/#.#.#/?](https://discourse.llvm.org/t/should-we-continue-embed-the-full-llvm-version-in-lib-clang/62094#post_5)
-- [Issues with the current implementation of privatization in OpenMP with Fortran](https://discourse.llvm.org/t/issues-with-the-current-implementation-of-privatization-in-openmp-with-fortran/62335#post_4)
-- [Calling functions with arbitrary number and argument types in JIT](https://discourse.llvm.org/t/calling-functions-with-arbitrary-number-and-argument-types-in-jit/62341#post_1)
-- [Coverage report of the `check-clang-analysis` target](https://discourse.llvm.org/t/coverage-report-of-the-check-clang-analysis-target/62316#post_4)
-- [Skipping constexpr initializer expression evaluations](https://discourse.llvm.org/t/skipping-constexpr-initializer-expression-evaluations/62213#post_12)
+- [[RFC] Update to MLIR developer policy on recursion](https://discourse.llvm.org/t/rfc-update-to-mlir-developer-policy-on-recursion/62235#post_15)
+- [Modifying GlobalVariable in LLVM IR](https://discourse.llvm.org/t/modifying-globalvariable-in-llvm-ir/61969#post_4)
+- [Modifying ConstantExpr](https://discourse.llvm.org/t/modifying-constantexpr/62343#post_1)
+- [Llvm.dbg.value left out by IndVarSimplify](https://discourse.llvm.org/t/llvm-dbg-value-left-out-by-indvarsimplify/62291#post_3)
+- [Is it possible to disable branch coverage generation?](https://discourse.llvm.org/t/is-it-possible-to-disable-branch-coverage-generation/62342#post_1)
 <!-- DISCOURSE-LLVM:END -->
