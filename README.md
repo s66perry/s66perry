@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issues with the current implementation of privatization in OpenMP with Fortran](https://discourse.llvm.org/t/issues-with-the-current-implementation-of-privatization-in-openmp-with-fortran/62335#post_2)
-- [Issues with the current implementation of privatization in OpenMP with Fortran](https://discourse.llvm.org/t/issues-with-the-current-implementation-of-privatization-in-openmp-with-fortran/62335#post_1)
-- [Llvm-objdump: print instruction histogram](https://discourse.llvm.org/t/llvm-objdump-print-instruction-histogram/62333#post_1)
-- [[MLIR/GPU] &#39;CUDA_ERROR_INVALID_HANDLE&#39; in MLIR GPU execution](https://discourse.llvm.org/t/mlir-gpu-cuda-error-invalid-handle-in-mlir-gpu-execution/62314#post_2)
-- [How do I redefine a macro?](https://discourse.llvm.org/t/how-do-i-redefine-a-macro/62331#post_1)
+- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_7)
+- [Llvm-objdump: print instruction histogram](https://discourse.llvm.org/t/llvm-objdump-print-instruction-histogram/62333#post_2)
+- [How do I redefine a macro?](https://discourse.llvm.org/t/how-do-i-redefine-a-macro/62331#post_2)
+- [Using inttoptr/ptrtoint instead of getelementptr](https://discourse.llvm.org/t/using-inttoptr-ptrtoint-instead-of-getelementptr/62309#post_4)
+- [Llvm.dbg.value left out by IndVarSimplify](https://discourse.llvm.org/t/llvm-dbg-value-left-out-by-indvarsimplify/62291#post_2)
 <!-- DISCOURSE-LLVM:END -->
