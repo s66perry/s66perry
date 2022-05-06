@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Special case parsing of `func` operations is being removed](https://discourse.llvm.org/t/psa-special-case-parsing-of-func-operations-is-being-removed/61953#post_4)
+- [Is Phabricator down?](https://discourse.llvm.org/t/is-phabricator-down/62345#post_3)
+- [Is Phabricator down?](https://discourse.llvm.org/t/is-phabricator-down/62345#post_2)
+- [Is Phabricator down?](https://discourse.llvm.org/t/is-phabricator-down/62345#post_1)
 - [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236?page=2#post_22)
-- [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_10)
-- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_10)
-- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236?page=2#post_21)
-- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_9)
 <!-- DISCOURSE-LLVM:END -->
