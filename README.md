@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_9)
-- [[RFC] Update to MLIR developer policy on recursion](https://discourse.llvm.org/t/rfc-update-to-mlir-developer-policy-on-recursion/62235#post_15)
-- [Modifying GlobalVariable in LLVM IR](https://discourse.llvm.org/t/modifying-globalvariable-in-llvm-ir/61969#post_4)
-- [Modifying ConstantExpr](https://discourse.llvm.org/t/modifying-constantexpr/62343#post_1)
-- [Llvm.dbg.value left out by IndVarSimplify](https://discourse.llvm.org/t/llvm-dbg-value-left-out-by-indvarsimplify/62291#post_3)
+- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_9)
+- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_8)
+- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=2#post_36)
+- [Getting profile guided section layout to work with full LTO](https://discourse.llvm.org/t/getting-profile-guided-section-layout-to-work-with-full-lto/59763#post_3)
+- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
