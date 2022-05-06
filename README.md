@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236?page=2#post_22)
+- [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_10)
+- [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_10)
+- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236?page=2#post_21)
 - [Using EnumAttr : missing or conflicting information](https://discourse.llvm.org/t/using-enumattr-missing-or-conflicting-information/62171#post_9)
-- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_8)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=2#post_36)
-- [Getting profile guided section layout to work with full LTO](https://discourse.llvm.org/t/getting-profile-guided-section-layout-to-work-with-full-lto/59763#post_3)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
