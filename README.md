@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_4)
 - [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_3)
 - [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_2)
 - [Getting profile guided section layout to work with full LTO](https://discourse.llvm.org/t/getting-profile-guided-section-layout-to-work-with-full-lto/59763#post_2)
 - [Should we continue embed the full llvm version in lib/clang/#.#.#/?](https://discourse.llvm.org/t/should-we-continue-embed-the-full-llvm-version-in-lib-clang/62094#post_4)
-- [memref.CopyOp for same size but different shape](https://discourse.llvm.org/t/memref-copyop-for-same-size-but-different-shape/62327#post_1)
 <!-- DISCOURSE-LLVM:END -->
