@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=5#post_81)
+- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_1)
 - [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_12)
 - [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_11)
 - [Modifying ConstantExpr](https://discourse.llvm.org/t/modifying-constantexpr/62343#post_3)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=4#post_80)
-- [Question About &#39;ComputationSliceState&#39; Struct in Affine Dialect](https://discourse.llvm.org/t/question-about-computationslicestate-struct-in-affine-dialect/62351#post_1)
 <!-- DISCOURSE-LLVM:END -->
