@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Verification of SameOperandsAndResultType is being tightened](https://discourse.llvm.org/t/psa-verification-of-sameoperandsandresulttype-is-being-tightened/62323#post_13)
+- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_2)
 - [Illegal instruction exception &lpar;perhaps due to a heap corruption&rpar;](https://discourse.llvm.org/t/illegal-instruction-exception-perhaps-due-to-a-heap-corruption/62365#post_5)
 - [Illegal instruction exception &lpar;perhaps due to a heap corruption&rpar;](https://discourse.llvm.org/t/illegal-instruction-exception-perhaps-due-to-a-heap-corruption/62365#post_4)
 - [How to cause a &quot;deliberate spill&quot;?](https://discourse.llvm.org/t/how-to-cause-a-deliberate-spill/62370#post_1)
-- [Illegal instruction exception &lpar;perhaps due to a heap corruption&rpar;](https://discourse.llvm.org/t/illegal-instruction-exception-perhaps-due-to-a-heap-corruption/62365#post_3)
-- [Member not found due to automatic change of namespace](https://discourse.llvm.org/t/member-not-found-due-to-automatic-change-of-namespace/62369#post_1)
 <!-- DISCOURSE-LLVM:END -->
