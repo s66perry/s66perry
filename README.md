@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=5#post_86)
-- [C++ Modules Bi-Weekly Informal Implementers&#39; Meeting](https://discourse.llvm.org/t/c-modules-bi-weekly-informal-implementers-meeting/61874#post_14)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=5#post_85)
-- [Is it possible to disable branch coverage generation?](https://discourse.llvm.org/t/is-it-possible-to-disable-branch-coverage-generation/62342#post_2)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_27)
+- [LLVM Weekly - #436, May 9th 2022](https://discourse.llvm.org/t/llvm-weekly-436-may-9th-2022/62393#post_1)
+- [Updates to Casting.h](https://discourse.llvm.org/t/updates-to-casting-h/62392#post_1)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=5#post_88)
+- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=5#post_87)
+- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
