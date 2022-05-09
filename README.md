@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_3)
+- [How does byval work?](https://discourse.llvm.org/t/how-does-byval-work/62397#post_1)
 - [Looking for Kubernetes help](https://discourse.llvm.org/t/looking-for-kubernetes-help/62396#post_1)
 - [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_2)
 - [C++ Modules Bi-Weekly Informal Implementers&#39; Meeting](https://discourse.llvm.org/t/c-modules-bi-weekly-informal-implementers-meeting/61874#post_15)
-- [Opinions on conditional dependencies on proprietary tools](https://discourse.llvm.org/t/opinions-on-conditional-dependencies-on-proprietary-tools/62236?page=2#post_24)
-- [RFC: Graduate CIRCT to monorepo?](https://discourse.llvm.org/t/rfc-graduate-circt-to-monorepo/61890?page=5#post_90)
 <!-- DISCOURSE-LLVM:END -->
