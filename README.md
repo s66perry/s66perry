@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Defining Synthetic Children Through the c++ API and returning custom data](https://discourse.llvm.org/t/defining-synthetic-children-through-the-c-api-and-returning-custom-data/62401#post_1)
+- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_9)
+- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_8)
+- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_7)
 - [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_6)
-- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_5)
-- [[MLIR/GPU] &#39;CUDA_ERROR_INVALID_HANDLE&#39; in MLIR GPU execution](https://discourse.llvm.org/t/mlir-gpu-cuda-error-invalid-handle-in-mlir-gpu-execution/62314#post_4)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_28)
-- [How to model an instruction which encodes, but does not modify destination operand?](https://discourse.llvm.org/t/how-to-model-an-instruction-which-encodes-but-does-not-modify-destination-operand/62356#post_4)
 <!-- DISCOURSE-LLVM:END -->
