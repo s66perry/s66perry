@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Illegal instruction exception &lpar;perhaps due to a heap corruption&rpar;](https://discourse.llvm.org/t/illegal-instruction-exception-perhaps-due-to-a-heap-corruption/62365#post_13)
-- [Tree of optimizations](https://discourse.llvm.org/t/tree-of-optimizations/62416#post_1)
-- [[RFC] Update to MLIR developer policy on recursion](https://discourse.llvm.org/t/rfc-update-to-mlir-developer-policy-on-recursion/62235#post_20)
-- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_2)
-- [[RFC] WebAssembly tables in Clang](https://discourse.llvm.org/t/rfc-webassembly-tables-in-clang/62049#post_3)
+- [Calling functions with arbitrary number and argument types in JIT](https://discourse.llvm.org/t/calling-functions-with-arbitrary-number-and-argument-types-in-jit/62341#post_9)
+- [Is it possible to disable branch coverage generation?](https://discourse.llvm.org/t/is-it-possible-to-disable-branch-coverage-generation/62342#post_5)
+- [Exception unwinding through a noexcept function](https://discourse.llvm.org/t/exception-unwinding-through-a-noexcept-function/62419#post_1)
+- [Updates to Casting.h](https://discourse.llvm.org/t/updates-to-casting-h/62392#post_2)
+- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_3)
 <!-- DISCOURSE-LLVM:END -->
