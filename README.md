@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_43)
-- [Exception unwinding through a noexcept function](https://discourse.llvm.org/t/exception-unwinding-through-a-noexcept-function/62419#post_3)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_42)
-- [SBProcess::GetSelectedThread&lpar;&rpar; inside the breakpoint callback context](https://discourse.llvm.org/t/sbprocess-getselectedthread-inside-the-breakpoint-callback-context/62421#post_1)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_41)
+- [Should we continue embed the full llvm version in lib/clang/#.#.#/?](https://discourse.llvm.org/t/should-we-continue-embed-the-full-llvm-version-in-lib-clang/62094#post_7)
+- [LLVM@14.0.0 doesn&#39;t support well on CUDA@11.5.0 about variadic function and other definitions](https://discourse.llvm.org/t/llvm-14-0-0-doesnt-support-well-on-cuda-11-5-0-about-variadic-function-and-other-definitions/62385#post_4)
+- [SBProcess::GetSelectedThread&lpar;&rpar; inside the breakpoint callback context](https://discourse.llvm.org/t/sbprocess-getselectedthread-inside-the-breakpoint-callback-context/62421#post_2)
+- [Updates to Casting.h](https://discourse.llvm.org/t/updates-to-casting-h/62392#post_4)
+- [Updates to Casting.h](https://discourse.llvm.org/t/updates-to-casting-h/62392#post_3)
 <!-- DISCOURSE-LLVM:END -->
