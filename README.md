@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang failed to invoke lld correctly](https://discourse.llvm.org/t/clang-failed-to-invoke-lld-correctly/62427#post_2)
-- [How does byval work?](https://discourse.llvm.org/t/how-does-byval-work/62397#post_3)
-- [Llvm-diff flags same IRs as different](https://discourse.llvm.org/t/llvm-diff-flags-same-irs-as-different/62429#post_1)
-- [Is it important to find a real-world application when I research about optimizations?](https://discourse.llvm.org/t/is-it-important-to-find-a-real-world-application-when-i-research-about-optimizations/62428#post_2)
-- [Is it important to find a real-world application when I research about optimizations?](https://discourse.llvm.org/t/is-it-important-to-find-a-real-world-application-when-i-research-about-optimizations/62428#post_1)
+- [Clang failed to invoke lld correctly](https://discourse.llvm.org/t/clang-failed-to-invoke-lld-correctly/62427#post_6)
+- [Replacing module metadata uses of function](https://discourse.llvm.org/t/replacing-module-metadata-uses-of-function/62431#post_2)
+- [Clang failed to invoke lld correctly](https://discourse.llvm.org/t/clang-failed-to-invoke-lld-correctly/62427#post_5)
+- [Llvm-diff flags same IRs as different](https://discourse.llvm.org/t/llvm-diff-flags-same-irs-as-different/62429#post_2)
+- [Replacing module metadata uses of function](https://discourse.llvm.org/t/replacing-module-metadata-uses-of-function/62431#post_1)
 <!-- DISCOURSE-LLVM:END -->
