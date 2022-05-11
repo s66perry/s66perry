@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is it important to find a real-world application when I research about optimizations?](https://discourse.llvm.org/t/is-it-important-to-find-a-real-world-application-when-i-research-about-optimizations/62428#post_1)
+- [Clang failed to invoke lld correctly](https://discourse.llvm.org/t/clang-failed-to-invoke-lld-correctly/62427#post_1)
+- [SBProcess::GetSelectedThread&lpar;&rpar; inside the breakpoint callback context](https://discourse.llvm.org/t/sbprocess-getselectedthread-inside-the-breakpoint-callback-context/62421#post_5)
 - [Exception unwinding through a noexcept function](https://discourse.llvm.org/t/exception-unwinding-through-a-noexcept-function/62419#post_4)
 - [How to ensure a value is in a specific register at call sites](https://discourse.llvm.org/t/how-to-ensure-a-value-is-in-a-specific-register-at-call-sites/62424#post_3)
-- [How to ensure a value is in a specific register at call sites](https://discourse.llvm.org/t/how-to-ensure-a-value-is-in-a-specific-register-at-call-sites/62424#post_2)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_44)
-- [LLVM@14.0.0 doesn&#39;t support well on CUDA@11.5.0 about variadic function and other definitions](https://discourse.llvm.org/t/llvm-14-0-0-doesnt-support-well-on-cuda-11-5-0-about-variadic-function-and-other-definitions/62385#post_5)
 <!-- DISCOURSE-LLVM:END -->
