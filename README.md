@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang failed to invoke lld correctly](https://discourse.llvm.org/t/clang-failed-to-invoke-lld-correctly/62427#post_2)
+- [How does byval work?](https://discourse.llvm.org/t/how-does-byval-work/62397#post_3)
+- [Llvm-diff flags same IRs as different](https://discourse.llvm.org/t/llvm-diff-flags-same-irs-as-different/62429#post_1)
 - [Is it important to find a real-world application when I research about optimizations?](https://discourse.llvm.org/t/is-it-important-to-find-a-real-world-application-when-i-research-about-optimizations/62428#post_2)
 - [Is it important to find a real-world application when I research about optimizations?](https://discourse.llvm.org/t/is-it-important-to-find-a-real-world-application-when-i-research-about-optimizations/62428#post_1)
-- [Clang failed to invoke lld correctly](https://discourse.llvm.org/t/clang-failed-to-invoke-lld-correctly/62427#post_1)
-- [SBProcess::GetSelectedThread&lpar;&rpar; inside the breakpoint callback context](https://discourse.llvm.org/t/sbprocess-getselectedthread-inside-the-breakpoint-callback-context/62421#post_5)
-- [Exception unwinding through a noexcept function](https://discourse.llvm.org/t/exception-unwinding-through-a-noexcept-function/62419#post_4)
 <!-- DISCOURSE-LLVM:END -->
