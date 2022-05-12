@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_31)
-- [MLIR python bindings: making optional attributes into optional python arguments](https://discourse.llvm.org/t/mlir-python-bindings-making-optional-attributes-into-optional-python-arguments/62050#post_10)
-- [MLIR python bindings: making optional attributes into optional python arguments](https://discourse.llvm.org/t/mlir-python-bindings-making-optional-attributes-into-optional-python-arguments/62050#post_9)
-- [While Setting up LLVM on windows 10 with Visual Studio, I am getting errors after check-all build](https://discourse.llvm.org/t/while-setting-up-llvm-on-windows-10-with-visual-studio-i-am-getting-errors-after-check-all-build/62407#post_7)
-- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_3)
+- [Optimisation pipelines](https://discourse.llvm.org/t/optimisation-pipelines/62467#post_5)
+- [Optimisation pipelines](https://discourse.llvm.org/t/optimisation-pipelines/62467#post_4)
+- [Optimisation pipelines](https://discourse.llvm.org/t/optimisation-pipelines/62467#post_3)
+- [Optimisation pipelines](https://discourse.llvm.org/t/optimisation-pipelines/62467#post_2)
+- [MLIR python bindings: making optional attributes into optional python arguments](https://discourse.llvm.org/t/mlir-python-bindings-making-optional-attributes-into-optional-python-arguments/62050#post_11)
 <!-- DISCOURSE-LLVM:END -->
