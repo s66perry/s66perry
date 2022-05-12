@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Std::shared_ptr in target region](https://discourse.llvm.org/t/std-shared-ptr-in-target-region/60652#post_14)
-- [RFC: Stop defining the __STDC__ &lpar;and related&rpar; macros in C++ mode](https://discourse.llvm.org/t/rfc-stop-defining-the-stdc-and-related-macros-in-c-mode/62468#post_2)
-- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_4)
-- [SBProcess::GetSelectedThread&lpar;&rpar; inside the breakpoint callback context](https://discourse.llvm.org/t/sbprocess-getselectedthread-inside-the-breakpoint-callback-context/62421#post_9)
-- [Optimisation pipelines](https://discourse.llvm.org/t/optimisation-pipelines/62467#post_5)
+- [Impact of stack size on inlining decisions](https://discourse.llvm.org/t/impact-of-stack-size-on-inlining-decisions/62472#post_1)
+- [Issues with the current implementation of privatization in OpenMP with Fortran](https://discourse.llvm.org/t/issues-with-the-current-implementation-of-privatization-in-openmp-with-fortran/62335#post_7)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_32)
+- [LLD support for RiscV Baremetal backend](https://discourse.llvm.org/t/lld-support-for-riscv-baremetal-backend/62441#post_3)
+- [How to enable -flto in presence of hand-written assembly files &lpar;RiscV backend&rpar;?](https://discourse.llvm.org/t/how-to-enable-flto-in-presence-of-hand-written-assembly-files-riscv-backend/62464#post_3)
 <!-- DISCOURSE-LLVM:END -->
