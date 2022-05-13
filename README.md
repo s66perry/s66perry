@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_4)
-- [RFC: Stop defining the __STDC__ &lpar;and related&rpar; macros in C++ mode](https://discourse.llvm.org/t/rfc-stop-defining-the-stdc-and-related-macros-in-c-mode/62468#post_3)
-- [clang-format leading whitespace](https://discourse.llvm.org/t/clang-format-leading-whitespace/46841#post_12)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322#post_20)
-- [LLD support for RiscV Baremetal backend](https://discourse.llvm.org/t/lld-support-for-riscv-baremetal-backend/62441#post_4)
+- [LLVM@14.0.0 doesn&#39;t support well on CUDA@11.5.0 about variadic function and other definitions](https://discourse.llvm.org/t/llvm-14-0-0-doesnt-support-well-on-cuda-11-5-0-about-variadic-function-and-other-definitions/62385#post_9)
+- [How to implement fneg pat?](https://discourse.llvm.org/t/how-to-implement-fneg-pat/62477#post_2)
+- [GCC vs Clang differences in protected visibility implementation](https://discourse.llvm.org/t/gcc-vs-clang-differences-in-protected-visibility-implementation/62378#post_3)
+- [How to implement fneg pat?](https://discourse.llvm.org/t/how-to-implement-fneg-pat/62477#post_1)
+- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_5)
 <!-- DISCOURSE-LLVM:END -->
