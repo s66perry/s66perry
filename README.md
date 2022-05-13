@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_5)
+- [Issues with the current implementation of privatization in OpenMP with Fortran](https://discourse.llvm.org/t/issues-with-the-current-implementation-of-privatization-in-openmp-with-fortran/62335#post_8)
 - [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_37)
 - [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_36)
 - [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_35)
-- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_7)
-- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_6)
 <!-- DISCOURSE-LLVM:END -->
