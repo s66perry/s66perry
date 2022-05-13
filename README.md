@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to implement fneg pat?](https://discourse.llvm.org/t/how-to-implement-fneg-pat/62477#post_4)
-- [Representing tiling on tensors + parallelism](https://discourse.llvm.org/t/representing-tiling-on-tensors-parallelism/4575?page=2#post_27)
-- [How to implement fneg pat?](https://discourse.llvm.org/t/how-to-implement-fneg-pat/62477#post_3)
-- [Representing tiling on tensors + parallelism](https://discourse.llvm.org/t/representing-tiling-on-tensors-parallelism/4575?page=2#post_26)
-- [GCC vs Clang differences in protected visibility implementation](https://discourse.llvm.org/t/gcc-vs-clang-differences-in-protected-visibility-implementation/62378#post_4)
+- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=2#post_35)
+- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_7)
+- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_6)
+- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_5)
+- [RFC: Optimisation flags in `flang-new`](https://discourse.llvm.org/t/rfc-optimisation-flags-in-flang-new/62482#post_1)
 <!-- DISCOURSE-LLVM:END -->
