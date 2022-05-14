@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Issues with the current implementation of privatization in OpenMP with Fortran](https://discourse.llvm.org/t/issues-with-the-current-implementation-of-privatization-in-openmp-with-fortran/62335#post_9)
 - [How to find the AST node for conversion operator for a NTTP](https://discourse.llvm.org/t/how-to-find-the-ast-node-for-conversion-operator-for-a-nttp/62507#post_1)
 - [Clang-14: warning: cannot compress debug sections &lpar;zlib not installed&rpar; [-Wdebug-compression-unavailable] while using address sanitizer](https://discourse.llvm.org/t/clang-14-warning-cannot-compress-debug-sections-zlib-not-installed-wdebug-compression-unavailable-while-using-address-sanitizer/62506#post_1)
 - [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_26)
 - [[Rejected] RFC: Stop defining the __STDC__ &lpar;and related&rpar; macros in C++ mode](https://discourse.llvm.org/t/rejected-rfc-stop-defining-the-stdc-and-related-macros-in-c-mode/62468#post_13)
-- [Can one build a self contained compiler toolchain on macOS with clang/llvm that does not require Xcode/CLT?](https://discourse.llvm.org/t/can-one-build-a-self-contained-compiler-toolchain-on-macos-with-clang-llvm-that-does-not-require-xcode-clt/62500#post_2)
 <!-- DISCOURSE-LLVM:END -->
