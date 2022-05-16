@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Build the llvm fail with gcc7.3 on current new upstream node](https://discourse.llvm.org/t/build-the-llvm-fail-with-gcc7-3-on-current-new-upstream-node/62527#post_1)
+- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_2)
+- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_1)
 - [[parser/printer] Explicitly specifying &quot;external&quot; linkage is disallowed?](https://discourse.llvm.org/t/parser-printer-explicitly-specifying-external-linkage-is-disallowed/62523#post_1)
 - [[clang-tidy] RFC: use module name as a directory for organizing files](https://discourse.llvm.org/t/clang-tidy-rfc-use-module-name-as-a-directory-for-organizing-files/62499#post_2)
-- [Need help getting started with Interprocedural PathSensitive Analysis](https://discourse.llvm.org/t/need-help-getting-started-with-interprocedural-pathsensitive-analysis/62305#post_3)
-- [Clang-14: warning: cannot compress debug sections &lpar;zlib not installed&rpar; [-Wdebug-compression-unavailable] while using address sanitizer](https://discourse.llvm.org/t/clang-14-warning-cannot-compress-debug-sections-zlib-not-installed-wdebug-compression-unavailable-while-using-address-sanitizer/62506#post_3)
-- [IR: alternatives to `freeze` to selectively prevent compiler from combining shufflevectors](https://discourse.llvm.org/t/ir-alternatives-to-freeze-to-selectively-prevent-compiler-from-combining-shufflevectors/62521#post_3)
 <!-- DISCOURSE-LLVM:END -->
