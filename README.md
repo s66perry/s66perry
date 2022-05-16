@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [IR: alternatives to `freeze` to selectively prevent compiler from combining shufflevectors](https://discourse.llvm.org/t/ir-alternatives-to-freeze-to-selectively-prevent-compiler-from-combining-shufflevectors/62521#post_4)
+- [How to implement fneg pat?](https://discourse.llvm.org/t/how-to-implement-fneg-pat/62477#post_5)
+- [Can one build a self contained compiler toolchain on macOS with clang/llvm that does not require Xcode/CLT?](https://discourse.llvm.org/t/can-one-build-a-self-contained-compiler-toolchain-on-macos-with-clang-llvm-that-does-not-require-xcode-clt/62500#post_3)
+- [Need help getting started with Interprocedural PathSensitive Analysis](https://discourse.llvm.org/t/need-help-getting-started-with-interprocedural-pathsensitive-analysis/62305#post_4)
 - [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_4)
-- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_3)
-- [How to use GPU functions?](https://discourse.llvm.org/t/how-to-use-gpu-functions/62529#post_1)
-- [LLVM GPU News #34, May 13, 2022](https://discourse.llvm.org/t/llvm-gpu-news-34-may-13-2022/62528#post_1)
-- [Build the llvm fail with gcc7.3 on current new upstream node](https://discourse.llvm.org/t/build-the-llvm-fail-with-gcc7-3-on-current-new-upstream-node/62527#post_1)
 <!-- DISCOURSE-LLVM:END -->
