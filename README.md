@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What is &#39;~&#39; mean in opc for SDNode](https://discourse.llvm.org/t/what-is-mean-in-opc-for-sdnode/62563#post_1)
+- [Dropping dialect prefix for ops with multiple dots in the name](https://discourse.llvm.org/t/dropping-dialect-prefix-for-ops-with-multiple-dots-in-the-name/62562#post_2)
+- [Dropping dialect prefix for ops with multiple dots in the name](https://discourse.llvm.org/t/dropping-dialect-prefix-for-ops-with-multiple-dots-in-the-name/62562#post_1)
+- [Use llvm-mc to obtain bytes of assembler?](https://discourse.llvm.org/t/use-llvm-mc-to-obtain-bytes-of-assembler/62390#post_5)
 - [Use llvm-mc to obtain bytes of assembler?](https://discourse.llvm.org/t/use-llvm-mc-to-obtain-bytes-of-assembler/62390#post_4)
-- [What happened to Thread Sanitizer?](https://discourse.llvm.org/t/what-happened-to-thread-sanitizer/62433#post_3)
-- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_10)
-- [Use llvm-mc to obtain bytes of assembler?](https://discourse.llvm.org/t/use-llvm-mc-to-obtain-bytes-of-assembler/62390#post_3)
-- [Clang-14: warning: cannot compress debug sections &lpar;zlib not installed&rpar; [-Wdebug-compression-unavailable] while using address sanitizer](https://discourse.llvm.org/t/clang-14-warning-cannot-compress-debug-sections-zlib-not-installed-wdebug-compression-unavailable-while-using-address-sanitizer/62506#post_7)
 <!-- DISCOURSE-LLVM:END -->
