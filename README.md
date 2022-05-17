@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_12)
-- [[llvm-dev] [RFC] llvm-dva - Debug Information Visual Analyzer](https://discourse.llvm.org/t/llvm-dev-rfc-llvm-dva-debug-information-visual-analyzer/62570#post_1)
-- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_11)
-- [What is &#39;~&#39; mean in opc for SDNode](https://discourse.llvm.org/t/what-is-mean-in-opc-for-sdnode/62563#post_3)
-- [What is &#39;~&#39; mean in opc for SDNode](https://discourse.llvm.org/t/what-is-mean-in-opc-for-sdnode/62563#post_2)
+- [Mlgo meeting May 6 moved to May 20](https://discourse.llvm.org/t/mlgo-meeting-may-6-moved-to-may-20/62188#post_2)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_22)
+- [Dropping dialect prefix for ops with multiple dots in the name](https://discourse.llvm.org/t/dropping-dialect-prefix-for-ops-with-multiple-dots-in-the-name/62562#post_3)
+- [Code generation change between llvm 11 and 13 on FreeBSD amd64](https://discourse.llvm.org/t/code-generation-change-between-llvm-11-and-13-on-freebsd-amd64/62573#post_1)
+- [Rename `flang-new` as `flang`](https://discourse.llvm.org/t/rename-flang-new-as-flang/62571#post_1)
 <!-- DISCOURSE-LLVM:END -->
