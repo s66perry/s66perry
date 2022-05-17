@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Women In Compilers and Tools May 2022 Meetup Questionnaire](https://discourse.llvm.org/t/women-in-compilers-and-tools-may-2022-meetup-questionnaire/62414#post_2)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_52)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_51)
+- [Setting version, environment, and extensions for SPIR-V target](https://discourse.llvm.org/t/setting-version-environment-and-extensions-for-spir-v-target/62018#post_3)
 - [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_9)
-- [Running Tests](https://discourse.llvm.org/t/running-tests/62556#post_1)
-- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_8)
-- [[mlir] Printing types in dialect attributes](https://discourse.llvm.org/t/mlir-printing-types-in-dialect-attributes/62549#post_3)
-- [[mlir] Printing types in dialect attributes](https://discourse.llvm.org/t/mlir-printing-types-in-dialect-attributes/62549#post_2)
 <!-- DISCOURSE-LLVM:END -->
