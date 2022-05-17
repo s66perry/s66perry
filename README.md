@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Use llvm-mc to obtain bytes of assembler?](https://discourse.llvm.org/t/use-llvm-mc-to-obtain-bytes-of-assembler/62390#post_4)
+- [What happened to Thread Sanitizer?](https://discourse.llvm.org/t/what-happened-to-thread-sanitizer/62433#post_3)
+- [&quot;weak&quot; attribute semantics on const variables](https://discourse.llvm.org/t/weak-attribute-semantics-on-const-variables/62311#post_10)
+- [Use llvm-mc to obtain bytes of assembler?](https://discourse.llvm.org/t/use-llvm-mc-to-obtain-bytes-of-assembler/62390#post_3)
 - [Clang-14: warning: cannot compress debug sections &lpar;zlib not installed&rpar; [-Wdebug-compression-unavailable] while using address sanitizer](https://discourse.llvm.org/t/clang-14-warning-cannot-compress-debug-sections-zlib-not-installed-wdebug-compression-unavailable-while-using-address-sanitizer/62506#post_7)
-- [Arm Backend&#39;s GlobalISel Status](https://discourse.llvm.org/t/arm-backends-globalisel-status/62514#post_5)
-- [Memory region invalidation tracking improvements](https://discourse.llvm.org/t/memory-region-invalidation-tracking-improvements/62432#post_2)
-- [Creating a new repository for release branch pull requests](https://discourse.llvm.org/t/creating-a-new-repository-for-release-branch-pull-requests/61339#post_4)
-- [How to eliminate the unnecessary subtraction in a loop](https://discourse.llvm.org/t/how-to-eliminate-the-unnecessary-subtraction-in-a-loop/62536#post_3)
 <!-- DISCOURSE-LLVM:END -->
