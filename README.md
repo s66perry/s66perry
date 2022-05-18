@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Optimisation flags in `flang-new`](https://discourse.llvm.org/t/rfc-optimisation-flags-in-flang-new/62482#post_3)
+- [RFC: Add check for warnings in test/Semantics/test_errors.py](https://discourse.llvm.org/t/rfc-add-check-for-warnings-in-test-semantics-test-errors-py/62577#post_3)
+- [Llvmbot account for phabricator](https://discourse.llvm.org/t/llvmbot-account-for-phabricator/62589#post_2)
 - [LSR ComplexityLimit default value](https://discourse.llvm.org/t/lsr-complexitylimit-default-value/61671#post_3)
 - [LSR ComplexityLimit default value](https://discourse.llvm.org/t/lsr-complexitylimit-default-value/61671#post_2)
-- [Memory region invalidation tracking improvements](https://discourse.llvm.org/t/memory-region-invalidation-tracking-improvements/62432#post_6)
-- [Code generation change between llvm 11 and 12, amd64](https://discourse.llvm.org/t/code-generation-change-between-llvm-11-and-12-amd64/62573#post_3)
-- [What happened to Thread Sanitizer?](https://discourse.llvm.org/t/what-happened-to-thread-sanitizer/62433#post_4)
 <!-- DISCOURSE-LLVM:END -->
