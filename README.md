@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_10)
+- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418#post_14)
+- [MLIR and the C++ ABI](https://discourse.llvm.org/t/mlir-and-the-c-abi/62578#post_7)
+- [MLIR and the C++ ABI](https://discourse.llvm.org/t/mlir-and-the-c-abi/62578#post_6)
 - [What happened to Thread Sanitizer?](https://discourse.llvm.org/t/what-happened-to-thread-sanitizer/62433#post_5)
-- [MLIR and the C++ ABI](https://discourse.llvm.org/t/mlir-and-the-c-abi/62578#post_5)
-- [MLIR and the C++ ABI](https://discourse.llvm.org/t/mlir-and-the-c-abi/62578#post_4)
-- [RFC: Add check for warnings in test/Semantics/test_errors.py](https://discourse.llvm.org/t/rfc-add-check-for-warnings-in-test-semantics-test-errors-py/62577#post_4)
-- [Iterating &#39;lit&#39; RUN lines](https://discourse.llvm.org/t/iterating-lit-run-lines/62596#post_1)
 <!-- DISCOURSE-LLVM:END -->
