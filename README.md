@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_9)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=2#post_22)
-- [Bypassing tablegen for asm/disassm](https://discourse.llvm.org/t/bypassing-tablegen-for-asm-disassm/62594#post_2)
-- [Llvmbot account for phabricator](https://discourse.llvm.org/t/llvmbot-account-for-phabricator/62589#post_3)
-- [Iterating &#39;lit&#39; RUN lines](https://discourse.llvm.org/t/iterating-lit-run-lines/62596#post_2)
+- [Coding style of SVals - dyn_cast&lt;T&gt;&lpar;SVal&rpar; or SVal.getAs&lt;T&gt;&lpar;&rpar;](https://discourse.llvm.org/t/coding-style-of-svals-dyn-cast-t-sval-or-sval-getas-t/62602#post_1)
+- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_11)
+- [RFC: Add check for warnings in test/Semantics/test_errors.py](https://discourse.llvm.org/t/rfc-add-check-for-warnings-in-test-semantics-test-errors-py/62577#post_5)
+- [[RFC] WebAssembly tables in Clang](https://discourse.llvm.org/t/rfc-webassembly-tables-in-clang/62049#post_5)
+- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_10)
 <!-- DISCOURSE-LLVM:END -->
