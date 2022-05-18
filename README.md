@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_8)
-- [MLIR and the C++ ABI](https://discourse.llvm.org/t/mlir-and-the-c-abi/62578#post_3)
-- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_7)
-- [Help Wanted: Release Process Management](https://discourse.llvm.org/t/help-wanted-release-process-management/62590#post_1)
-- [[RFC] Add RISC-V Vector Extension &lpar;RVV&rpar; Dialect](https://discourse.llvm.org/t/rfc-add-risc-v-vector-extension-rvv-dialect/4146?page=2#post_37)
+- [LSR ComplexityLimit default value](https://discourse.llvm.org/t/lsr-complexitylimit-default-value/61671#post_3)
+- [LSR ComplexityLimit default value](https://discourse.llvm.org/t/lsr-complexitylimit-default-value/61671#post_2)
+- [Memory region invalidation tracking improvements](https://discourse.llvm.org/t/memory-region-invalidation-tracking-improvements/62432#post_6)
+- [Code generation change between llvm 11 and 12, amd64](https://discourse.llvm.org/t/code-generation-change-between-llvm-11-and-12-amd64/62573#post_3)
+- [What happened to Thread Sanitizer?](https://discourse.llvm.org/t/what-happened-to-thread-sanitizer/62433#post_4)
 <!-- DISCOURSE-LLVM:END -->
