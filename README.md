@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Submitting simple NFC patches](https://discourse.llvm.org/t/submitting-simple-nfc-patches/62640#post_1)
-- [Iterating &#39;lit&#39; RUN lines](https://discourse.llvm.org/t/iterating-lit-run-lines/62596#post_4)
-- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639#post_1)
-- [First results from using LLVM CIRCT on our design](https://discourse.llvm.org/t/first-results-from-using-llvm-circt-on-our-design/61180#post_3)
-- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607#post_4)
+- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637#post_4)
+- [How can I get struct&#39;s unaligned member with pointer?](https://discourse.llvm.org/t/how-can-i-get-structs-unaligned-member-with-pointer/62612#post_5)
+- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637#post_3)
+- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637#post_2)
+- [Iterating &#39;lit&#39; RUN lines](https://discourse.llvm.org/t/iterating-lit-run-lines/62596#post_6)
 <!-- DISCOURSE-LLVM:END -->
