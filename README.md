@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR and the C++ ABI](https://discourse.llvm.org/t/mlir-and-the-c-abi/62578#post_8)
-- [Code generation change between llvm 11 and 12, amd64](https://discourse.llvm.org/t/code-generation-change-between-llvm-11-and-12-amd64/62573#post_4)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=2#post_28)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=2#post_27)
-- [RFC: Add check for warnings in test/Semantics/test_errors.py](https://discourse.llvm.org/t/rfc-add-check-for-warnings-in-test-semantics-test-errors-py/62577#post_6)
+- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_11)
+- [Bypassing tablegen for asm/disassm](https://discourse.llvm.org/t/bypassing-tablegen-for-asm-disassm/62594#post_4)
+- [TableGen Formatter](https://discourse.llvm.org/t/tablegen-formatter/60418#post_15)
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607#post_1)
+- [I am using lld to link mesa with static llvm 13.0.1, but that&#39;s very slow](https://discourse.llvm.org/t/i-am-using-lld-to-link-mesa-with-static-llvm-13-0-1-but-thats-very-slow/62606#post_2)
 <!-- DISCOURSE-LLVM:END -->
