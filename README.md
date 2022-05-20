@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Tfl.mul to tosa lowering in mlir](https://discourse.llvm.org/t/tfl-mul-to-tosa-lowering-in-mlir/62592#post_2)
-- [[DISCUSS] Making Global cl::opt Friendly for JITing Hetro Computation](https://discourse.llvm.org/t/discuss-making-global-cl-opt-friendly-for-jiting-hetro-computation/62631#post_5)
-- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584#post_13)
-- [[clang-tidy] RFC: use module name as a directory for organizing files](https://discourse.llvm.org/t/clang-tidy-rfc-use-module-name-as-a-directory-for-organizing-files/62499#post_8)
-- [Iterating &#39;lit&#39; RUN lines](https://discourse.llvm.org/t/iterating-lit-run-lines/62596#post_7)
+- [Doxygen maintenance and version requirements?](https://discourse.llvm.org/t/doxygen-maintenance-and-version-requirements/62363#post_2)
+- [LLVM GPU Working Group Meeting – Friday, May 20, 2022, 11am ET / 3pm UTC](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-may-20-2022-11am-et-3pm-utc/62654#post_1)
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607#post_6)
+- [[Request] [Admin] Clang-Tidy subforum&lpar;?&rpar; under &quot;Clang Frontend&quot;](https://discourse.llvm.org/t/request-admin-clang-tidy-subforum-under-clang-frontend/62459#post_4)
+- [About the clang-tidy category](https://discourse.llvm.org/t/about-the-clang-tidy-category/62653#post_1)
 <!-- DISCOURSE-LLVM:END -->
