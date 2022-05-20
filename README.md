@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637#post_19)
-- [Utilizing Functions Without the Stack](https://discourse.llvm.org/t/utilizing-functions-without-the-stack/62667#post_3)
-- [Utilizing Functions Without the Stack](https://discourse.llvm.org/t/utilizing-functions-without-the-stack/62667#post_2)
-- [Should we keep the StaticAnalyzer/Core/Analyses.def file?](https://discourse.llvm.org/t/should-we-keep-the-staticanalyzer-core-analyses-def-file/62669#post_1)
-- [Changing bitstream format for smaller zeros](https://discourse.llvm.org/t/changing-bitstream-format-for-smaller-zeros/62656#post_9)
+- [[LLVMIR] Calling variadic function indirectly](https://discourse.llvm.org/t/llvmir-calling-variadic-function-indirectly/62672#post_1)
+- [[RFC] Promoting `linalg.init_tensor` to the `bufferize` dialect](https://discourse.llvm.org/t/rfc-promoting-linalg-init-tensor-to-the-bufferize-dialect/5000?page=3#post_43)
+- [Code coverage metrics for LLVM Compiler Infrastructure](https://discourse.llvm.org/t/code-coverage-metrics-for-llvm-compiler-infrastructure/61877?page=2#post_27)
+- [Utilizing Functions Without the Stack](https://discourse.llvm.org/t/utilizing-functions-without-the-stack/62667#post_7)
+- [Utilizing Functions Without the Stack](https://discourse.llvm.org/t/utilizing-functions-without-the-stack/62667#post_6)
 <!-- DISCOURSE-LLVM:END -->
