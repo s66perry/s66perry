@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_5)
+- [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_4)
 - [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_3)
 - [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_2)
 - [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_1)
-- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=2#post_26)
-- [Announcing the 2022 EuroLLVM Program](https://discourse.llvm.org/t/announcing-the-2022-eurollvm-program/61741#post_4)
 <!-- DISCOURSE-LLVM:END -->
