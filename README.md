@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why does the mayWriteToMemory&lpar;&rpar; of function call always get true?](https://discourse.llvm.org/t/why-does-the-maywritetomemory-of-function-call-always-get-true/62681#post_2)
+- [Why does the mayWriteToMemory&lpar;&rpar; of function call always get true?](https://discourse.llvm.org/t/why-does-the-maywritetomemory-of-function-call-always-get-true/62681#post_1)
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=2#post_33)
 - [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_5)
 - [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_4)
-- [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_3)
-- [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_2)
-- [How do I print debug the written Toy to MLIR code?](https://discourse.llvm.org/t/how-do-i-print-debug-the-written-toy-to-mlir-code/62679#post_1)
 <!-- DISCOURSE-LLVM:END -->
