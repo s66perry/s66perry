@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Increasing diversity in mentorship programs](https://discourse.llvm.org/t/increasing-diversity-in-mentorship-programs/62693#post_1)
 - [RFC: Removing the `quant` dialect](https://discourse.llvm.org/t/rfc-removing-the-quant-dialect/3643#post_17)
 - [Bug in discourse email migration: discarded some parts of messages](https://discourse.llvm.org/t/bug-in-discourse-email-migration-discarded-some-parts-of-messages/60074#post_11)
 - [Announcing the 2022 EuroLLVM Program](https://discourse.llvm.org/t/announcing-the-2022-eurollvm-program/61741#post_6)
 - [[RFC] Promoting `linalg.init_tensor` to the `bufferize` dialect](https://discourse.llvm.org/t/rfc-promoting-linalg-init-tensor-to-the-bufferize-dialect/5000?page=3#post_44)
-- [How to make sure llvm libraries install to `lib/x86_64-unknown-linux-gnu`](https://discourse.llvm.org/t/how-to-make-sure-llvm-libraries-install-to-lib-x86-64-unknown-linux-gnu/62691#post_1)
 <!-- DISCOURSE-LLVM:END -->
