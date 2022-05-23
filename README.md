@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Naming lambdas in LLVM Coding Standards](https://discourse.llvm.org/t/naming-lambdas-in-llvm-coding-standards/62689#post_5)
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607#post_11)
+- [Why SymbolDCE::computeLiveness uses a len 16 SmallVector to store worklists?](https://discourse.llvm.org/t/why-symboldce-computeliveness-uses-a-len-16-smallvector-to-store-worklists/62702#post_3)
+- [Why SymbolDCE::computeLiveness uses a len 16 SmallVector to store worklists?](https://discourse.llvm.org/t/why-symboldce-computeliveness-uses-a-len-16-smallvector-to-store-worklists/62702#post_2)
 - [Why SymbolDCE::computeLiveness uses a len 16 SmallVector to store worklists?](https://discourse.llvm.org/t/why-symboldce-computeliveness-uses-a-len-16-smallvector-to-store-worklists/62702#post_1)
-- [Match callback invocation order](https://discourse.llvm.org/t/match-callback-invocation-order/55623#post_6)
-- [Expired SSL certificate for reviews.llvm.org](https://discourse.llvm.org/t/expired-ssl-certificate-for-reviews-llvm-org/62696#post_9)
-- [Expired SSL certificate for reviews.llvm.org](https://discourse.llvm.org/t/expired-ssl-certificate-for-reviews-llvm-org/62696#post_8)
-- [Naming lambdas in LLVM Coding Standards](https://discourse.llvm.org/t/naming-lambdas-in-llvm-coding-standards/62689#post_4)
 <!-- DISCOURSE-LLVM:END -->
