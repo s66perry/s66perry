@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Removing the `quant` dialect](https://discourse.llvm.org/t/rfc-removing-the-quant-dialect/3643?page=2#post_22)
-- [How does LLDB get a declaration of a variable from DWARF debug info?](https://discourse.llvm.org/t/how-does-lldb-get-a-declaration-of-a-variable-from-dwarf-debug-info/62703#post_2)
-- [Name of the libcxx/test/std/numerics/rand/rand.dis/ directory](https://discourse.llvm.org/t/name-of-the-libcxx-test-std-numerics-rand-rand-dis-directory/62660#post_4)
-- [Name of the libcxx/test/std/numerics/rand/rand.dis/ directory](https://discourse.llvm.org/t/name-of-the-libcxx-test-std-numerics-rand-rand-dis-directory/62660#post_3)
-- [LLVM Embedded Toolchains Working Group call this Thursday May 26th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-may-26th/62709#post_1)
+- [Weird stuff in a cfe-commits message from github](https://discourse.llvm.org/t/weird-stuff-in-a-cfe-commits-message-from-github/62715#post_1)
+- [`linalg.index` as affine symbols](https://discourse.llvm.org/t/linalg-index-as-affine-symbols/62714#post_1)
+- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637?page=2#post_22)
+- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_13)
+- [Naming lambdas in LLVM Coding Standards](https://discourse.llvm.org/t/naming-lambdas-in-llvm-coding-standards/62689#post_8)
 <!-- DISCOURSE-LLVM:END -->
