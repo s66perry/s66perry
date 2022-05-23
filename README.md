@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607#post_14)
-- [Global unaligned member can&#39;t be get with pointer](https://discourse.llvm.org/t/global-unaligned-member-cant-be-get-with-pointer/62706#post_3)
-- [RFC: Removing the `quant` dialect](https://discourse.llvm.org/t/rfc-removing-the-quant-dialect/3643?page=2#post_21)
-- [RFC: Removing the `quant` dialect](https://discourse.llvm.org/t/rfc-removing-the-quant-dialect/3643#post_20)
-- [Global unaligned member can&#39;t be get with pointer](https://discourse.llvm.org/t/global-unaligned-member-cant-be-get-with-pointer/62706#post_2)
+- [RFC: Removing the `quant` dialect](https://discourse.llvm.org/t/rfc-removing-the-quant-dialect/3643?page=2#post_22)
+- [How does LLDB get a declaration of a variable from DWARF debug info?](https://discourse.llvm.org/t/how-does-lldb-get-a-declaration-of-a-variable-from-dwarf-debug-info/62703#post_2)
+- [Name of the libcxx/test/std/numerics/rand/rand.dis/ directory](https://discourse.llvm.org/t/name-of-the-libcxx-test-std-numerics-rand-rand-dis-directory/62660#post_4)
+- [Name of the libcxx/test/std/numerics/rand/rand.dis/ directory](https://discourse.llvm.org/t/name-of-the-libcxx-test-std-numerics-rand-rand-dis-directory/62660#post_3)
+- [LLVM Embedded Toolchains Working Group call this Thursday May 26th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-may-26th/62709#post_1)
 <!-- DISCOURSE-LLVM:END -->
