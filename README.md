@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_53)
 - [[DISCUSS] Making Global cl::opt Friendly for JITing Hetro Computation](https://discourse.llvm.org/t/discuss-making-global-cl-opt-friendly-for-jiting-hetro-computation/62631#post_8)
 - [[DISCUSS] Making Global cl::opt Friendly for JITing Hetro Computation](https://discourse.llvm.org/t/discuss-making-global-cl-opt-friendly-for-jiting-hetro-computation/62631#post_7)
 - [[RFC] WebAssembly tables in Clang](https://discourse.llvm.org/t/rfc-webassembly-tables-in-clang/62049#post_6)
 - [[DISCUSS] Making Global cl::opt Friendly for JITing Hetro Computation](https://discourse.llvm.org/t/discuss-making-global-cl-opt-friendly-for-jiting-hetro-computation/62631#post_6)
-- [Board Meeting Minutes - April 2022](https://discourse.llvm.org/t/board-meeting-minutes-april-2022/62716#post_1)
 <!-- DISCOURSE-LLVM:END -->
