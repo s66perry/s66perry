@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Ubuntu20.04 gcc 9.4 on llvm 3.4.2](https://discourse.llvm.org/t/ubuntu20-04-gcc-9-4-on-llvm-3-4-2/62732#post_2)
+- [Ubuntu20.04 gcc 9.4 on llvm 3.4.2](https://discourse.llvm.org/t/ubuntu20-04-gcc-9-4-on-llvm-3-4-2/62732#post_1)
 - [[RFC] Safe Optimizations for Sanitizers](https://discourse.llvm.org/t/rfc-safe-optimizations-for-sanitizers/62729#post_1)
 - [Configuring compiler-rt to use default target only does not work](https://discourse.llvm.org/t/configuring-compiler-rt-to-use-default-target-only-does-not-work/62727#post_1)
 - [ASTNameGenerator mangles __uint16_identity in extern C statement](https://discourse.llvm.org/t/astnamegenerator-mangles-uint16-identity-in-extern-c-statement/62724#post_1)
-- [[LLVMIR] Calling variadic function indirectly](https://discourse.llvm.org/t/llvmir-calling-variadic-function-indirectly/62672#post_5)
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_55)
 <!-- DISCOURSE-LLVM:END -->
