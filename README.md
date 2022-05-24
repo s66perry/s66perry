@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Ubuntu20.04 gcc 9.4 on llvm 3.4.2](https://discourse.llvm.org/t/ubuntu20-04-gcc-9-4-on-llvm-3-4-2/62732#post_3)
-- [Ubuntu20.04 gcc 9.4 on llvm 3.4.2](https://discourse.llvm.org/t/ubuntu20-04-gcc-9-4-on-llvm-3-4-2/62732#post_2)
-- [Ubuntu20.04 gcc 9.4 on llvm 3.4.2](https://discourse.llvm.org/t/ubuntu20-04-gcc-9-4-on-llvm-3-4-2/62732#post_1)
-- [[RFC] Safe Optimizations for Sanitizers](https://discourse.llvm.org/t/rfc-safe-optimizations-for-sanitizers/62729#post_1)
-- [Configuring compiler-rt to use default target only does not work](https://discourse.llvm.org/t/configuring-compiler-rt-to-use-default-target-only-does-not-work/62727#post_1)
+- [Linalg.generic and reading elements two-by-two](https://discourse.llvm.org/t/linalg-generic-and-reading-elements-two-by-two/62443#post_5)
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_1)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_57)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_56)
+- [Announcing the 2022 EuroLLVM Program](https://discourse.llvm.org/t/announcing-the-2022-eurollvm-program/61741#post_7)
 <!-- DISCOURSE-LLVM:END -->
