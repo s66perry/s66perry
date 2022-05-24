@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_5)
+- [ASTNameGenerator mangles __uint16_identity in extern C statement](https://discourse.llvm.org/t/astnamegenerator-mangles-uint16-identity-in-extern-c-statement/62724#post_2)
+- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_5)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_26)
 - [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607#post_15)
-- [[cxx feature check] what satisfies GNU_POSIX_REGEX | POSIX_REGEX?](https://discourse.llvm.org/t/cxx-feature-check-what-satisfies-gnu-posix-regex-posix-regex/2267#post_7)
-- [[RFC] Safe Optimizations for Sanitizers](https://discourse.llvm.org/t/rfc-safe-optimizations-for-sanitizers/62729#post_2)
-- [Using options for passes in the new Pass Manager](https://discourse.llvm.org/t/using-options-for-passes-in-the-new-pass-manager/62742#post_1)
-- [[DISCUSS] Making Global cl::opt Friendly for JITing Hetro Computation](https://discourse.llvm.org/t/discuss-making-global-cl-opt-friendly-for-jiting-hetro-computation/62631#post_10)
 <!-- DISCOURSE-LLVM:END -->
