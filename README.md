@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_3)
-- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_2)
-- [Bazel and &quot;check-mlir&quot; target: does Bazel support running lit tests?](https://discourse.llvm.org/t/bazel-and-check-mlir-target-does-bazel-support-running-lit-tests/61898#post_7)
-- [RFC: Removing the ops from the `quant` dialect](https://discourse.llvm.org/t/rfc-removing-the-ops-from-the-quant-dialect/3643?page=2#post_28)
-- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_4)
+- [[RFC] Safe Optimizations for Sanitizers](https://discourse.llvm.org/t/rfc-safe-optimizations-for-sanitizers/62729#post_1)
+- [Configuring compiler-rt to use default target only does not work](https://discourse.llvm.org/t/configuring-compiler-rt-to-use-default-target-only-does-not-work/62727#post_1)
+- [ASTNameGenerator mangles __uint16_identity in extern C statement](https://discourse.llvm.org/t/astnamegenerator-mangles-uint16-identity-in-extern-c-statement/62724#post_1)
+- [[LLVMIR] Calling variadic function indirectly](https://discourse.llvm.org/t/llvmir-calling-variadic-function-indirectly/62672#post_5)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_55)
 <!-- DISCOURSE-LLVM:END -->
