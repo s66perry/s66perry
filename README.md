@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637?page=2#post_25)
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_59)
-- [DeclContext lookup strange behavior: cannot find local declarations](https://discourse.llvm.org/t/declcontext-lookup-strange-behavior-cannot-find-local-declarations/62737#post_1)
-- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_4)
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=3#post_58)
+- [[DISCUSS] Making Global cl::opt Friendly for JITing Hetro Computation](https://discourse.llvm.org/t/discuss-making-global-cl-opt-friendly-for-jiting-hetro-computation/62631#post_10)
+- [How do I link using clang-cl?](https://discourse.llvm.org/t/how-do-i-link-using-clang-cl/62699#post_4)
+- [While Setting up LLVM on windows 10 with Visual Studio, I am getting errors after check-all build](https://discourse.llvm.org/t/while-setting-up-llvm-on-windows-10-with-visual-studio-i-am-getting-errors-after-check-all-build/62407#post_14)
+- [While Setting up LLVM on windows 10 with Visual Studio, I am getting errors after check-all build](https://discourse.llvm.org/t/while-setting-up-llvm-on-windows-10-with-visual-studio-i-am-getting-errors-after-check-all-build/62407#post_13)
+- [MLIR affine inverse](https://discourse.llvm.org/t/mlir-affine-inverse/62122#post_5)
 <!-- DISCOURSE-LLVM:END -->
