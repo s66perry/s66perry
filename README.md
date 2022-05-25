@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_32)
+- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_7)
+- [Spurious `/usr` prefixed to `CMAKE_INSTALL_PREFIX` during LLVM 14 installation](https://discourse.llvm.org/t/spurious-usr-prefixed-to-cmake-install-prefix-during-llvm-14-installation/62761#post_4)
 - [Spurious `/usr` prefixed to `CMAKE_INSTALL_PREFIX` during LLVM 14 installation](https://discourse.llvm.org/t/spurious-usr-prefixed-to-cmake-install-prefix-during-llvm-14-installation/62761#post_3)
 - [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_10)
-- [[LLVMIR][RFC] A new way to print LLVMStructType](https://discourse.llvm.org/t/llvmir-rfc-a-new-way-to-print-llvmstructtype/62756#post_4)
-- [Spurious `/usr` prefixed to `CMAKE_INSTALL_PREFIX` during LLVM 14 installation](https://discourse.llvm.org/t/spurious-usr-prefixed-to-cmake-install-prefix-during-llvm-14-installation/62761#post_2)
-- [`linalg.index` as affine symbols](https://discourse.llvm.org/t/linalg-index-as-affine-symbols/62714#post_2)
 <!-- DISCOURSE-LLVM:END -->
