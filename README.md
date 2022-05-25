@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLVMIR][RFC] A new way to print LLVMStructType](https://discourse.llvm.org/t/llvmir-rfc-a-new-way-to-print-llvmstructtype/62756#post_1)
+- [Assertion failed: MI-&gt;allDefsAreDead&lpar;&rpar; &amp;&amp; &quot;Def isn&#39;t really dead&quot;](https://discourse.llvm.org/t/assertion-failed-mi-alldefsaredead-def-isnt-really-dead/62754#post_1)
 - [LLVM 14.0.4 Release](https://discourse.llvm.org/t/llvm-14-0-4-release/62751#post_1)
 - [14.0.4-final has been tagged](https://discourse.llvm.org/t/14-0-4-final-has-been-tagged/62750#post_1)
 - [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_47)
-- [Impact of stack size on inlining decisions](https://discourse.llvm.org/t/impact-of-stack-size-on-inlining-decisions/62472#post_4)
-- [[DISCUSS] Making Global cl::opt Friendly for JITing Hetro Computation](https://discourse.llvm.org/t/discuss-making-global-cl-opt-friendly-for-jiting-hetro-computation/62631#post_16)
 <!-- DISCOURSE-LLVM:END -->
