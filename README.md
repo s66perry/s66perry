@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CMake regeneration is broken](https://discourse.llvm.org/t/cmake-regeneration-is-broken/62788#post_3)
+- [CMake regeneration is broken](https://discourse.llvm.org/t/cmake-regeneration-is-broken/62788#post_2)
+- [CMake regeneration is broken](https://discourse.llvm.org/t/cmake-regeneration-is-broken/62788#post_1)
+- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_11)
 - [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_10)
-- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_11)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_51)
-- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_27)
-- [[RFC] Safe Optimizations for Sanitizers](https://discourse.llvm.org/t/rfc-safe-optimizations-for-sanitizers/62729#post_9)
 <!-- DISCOURSE-LLVM:END -->
