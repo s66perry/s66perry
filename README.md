@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_11)
+- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_51)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_27)
+- [[RFC] Safe Optimizations for Sanitizers](https://discourse.llvm.org/t/rfc-safe-optimizations-for-sanitizers/62729#post_9)
 - [[LLVMIR][RFC] A new way to print LLVMStructType](https://discourse.llvm.org/t/llvmir-rfc-a-new-way-to-print-llvmstructtype/62756#post_5)
-- [Impact of stack size on inlining decisions](https://discourse.llvm.org/t/impact-of-stack-size-on-inlining-decisions/62472#post_5)
-- [How to keep a instruction from being sunk by instcombine?](https://discourse.llvm.org/t/how-to-keep-a-instruction-from-being-sunk-by-instcombine/62784#post_1)
-- [[NPM] Customizing PassBuilder with TM-specific optimizations](https://discourse.llvm.org/t/npm-customizing-passbuilder-with-tm-specific-optimizations/62782#post_2)
-- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_9)
 <!-- DISCOURSE-LLVM:END -->
