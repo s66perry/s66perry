@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[AArch64] Will the instruction cnth&#39;s pipeline delay increase when there is a inside mul?](https://discourse.llvm.org/t/aarch64-will-the-instruction-cnths-pipeline-delay-increase-when-there-is-a-inside-mul/62807#post_1)
+- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_13)
 - [How to proceeed with bug investigation?](https://discourse.llvm.org/t/how-to-proceeed-with-bug-investigation/62805#post_2)
 - [Finding the start SDNode of a call sequence](https://discourse.llvm.org/t/finding-the-start-sdnode-of-a-call-sequence/62806#post_1)
 - [How to proceeed with bug investigation?](https://discourse.llvm.org/t/how-to-proceeed-with-bug-investigation/62805#post_1)
-- [CMake regeneration is broken](https://discourse.llvm.org/t/cmake-regeneration-is-broken/62788#post_6)
-- [Impact of stack size on inlining decisions](https://discourse.llvm.org/t/impact-of-stack-size-on-inlining-decisions/62472#post_6)
 <!-- DISCOURSE-LLVM:END -->
