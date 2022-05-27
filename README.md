@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there functionality to get the C++ declaration from debug info?](https://discourse.llvm.org/t/is-there-functionality-to-get-the-c-declaration-from-debug-info/62664#post_3)
-- [Relationship of LLVM tests with GCC tests](https://discourse.llvm.org/t/relationship-of-llvm-tests-with-gcc-tests/62813#post_2)
-- [Accessing function analyses inside a loop pass](https://discourse.llvm.org/t/accessing-function-analyses-inside-a-loop-pass/62767#post_3)
-- [Bypassing tablegen for asm/disassm](https://discourse.llvm.org/t/bypassing-tablegen-for-asm-disassm/62594#post_5)
-- [Relationship of LLVM tests with GCC tests](https://discourse.llvm.org/t/relationship-of-llvm-tests-with-gcc-tests/62813#post_1)
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_22)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_29)
+- [LSR ComplexityLimit default value](https://discourse.llvm.org/t/lsr-complexitylimit-default-value/61671#post_7)
+- [Relationship of LLVM tests with GCC tests](https://discourse.llvm.org/t/relationship-of-llvm-tests-with-gcc-tests/62813#post_5)
+- [Relationship of LLVM tests with GCC tests](https://discourse.llvm.org/t/relationship-of-llvm-tests-with-gcc-tests/62813#post_4)
 <!-- DISCOURSE-LLVM:END -->
