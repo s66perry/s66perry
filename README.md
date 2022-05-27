@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [14.0.4-final has been tagged](https://discourse.llvm.org/t/14-0-4-final-has-been-tagged/62750#post_5)
-- [14.0.4-final has been tagged](https://discourse.llvm.org/t/14-0-4-final-has-been-tagged/62750#post_4)
-- [[AArch64] Will the instruction cnth&#39;s pipeline delay increase when there is a inside mul?](https://discourse.llvm.org/t/aarch64-will-the-instruction-cnths-pipeline-delay-increase-when-there-is-a-inside-mul/62807#post_1)
-- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_13)
-- [How to proceeed with bug investigation?](https://discourse.llvm.org/t/how-to-proceeed-with-bug-investigation/62805#post_2)
+- [Is there functionality to get the C++ declaration from debug info?](https://discourse.llvm.org/t/is-there-functionality-to-get-the-c-declaration-from-debug-info/62664#post_3)
+- [Relationship of LLVM tests with GCC tests](https://discourse.llvm.org/t/relationship-of-llvm-tests-with-gcc-tests/62813#post_2)
+- [Accessing function analyses inside a loop pass](https://discourse.llvm.org/t/accessing-function-analyses-inside-a-loop-pass/62767#post_3)
+- [Bypassing tablegen for asm/disassm](https://discourse.llvm.org/t/bypassing-tablegen-for-asm-disassm/62594#post_5)
+- [Relationship of LLVM tests with GCC tests](https://discourse.llvm.org/t/relationship-of-llvm-tests-with-gcc-tests/62813#post_1)
 <!-- DISCOURSE-LLVM:END -->
