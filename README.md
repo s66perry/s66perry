@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang++ 15.0.0 with OpenMP offloading to nVidia GPU on Windows with VS2022CE - too many errors](https://discourse.llvm.org/t/clang-15-0-0-with-openmp-offloading-to-nvidia-gpu-on-windows-with-vs2022ce-too-many-errors/62827#post_3)
+- [Clang++ 15.0.0 with OpenMP offloading to nVidia GPU on Windows with VS2022CE - too many errors](https://discourse.llvm.org/t/clang-15-0-0-with-openmp-offloading-to-nvidia-gpu-on-windows-with-vs2022ce-too-many-errors/62827#post_2)
 - [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_26)
 - [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_25)
 - [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_24)
-- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_31)
-- [When building LLVM in Visual Studio 2022, I got errors in check-all build](https://discourse.llvm.org/t/when-building-llvm-in-visual-studio-2022-i-got-errors-in-check-all-build/62833#post_1)
 <!-- DISCOURSE-LLVM:END -->
