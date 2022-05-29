@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_24)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_31)
+- [When building LLVM in Visual Studio 2022, I got errors in check-all build](https://discourse.llvm.org/t/when-building-llvm-in-visual-studio-2022-i-got-errors-in-check-all-build/62833#post_1)
 - [Compiler directives between OpenACC constructs and DO loops](https://discourse.llvm.org/t/compiler-directives-between-openacc-constructs-and-do-loops/62817#post_2)
 - [LLVM build master will be restarted at 10:01 PM PDT today](https://discourse.llvm.org/t/llvm-build-master-will-be-restarted-at-10-01-pm-pdt-today/62831#post_1)
-- [RFC: Move TOSA Layerwise Constant Optimizations to Their Own Pass](https://discourse.llvm.org/t/rfc-move-tosa-layerwise-constant-optimizations-to-their-own-pass/62829#post_3)
-- [RFC: Move TOSA Layerwise Constant Optimizations to Their Own Pass](https://discourse.llvm.org/t/rfc-move-tosa-layerwise-constant-optimizations-to-their-own-pass/62829#post_2)
-- [RFC: Move TOSA Layerwise Constant Optimizations to Their Own Pass](https://discourse.llvm.org/t/rfc-move-tosa-layerwise-constant-optimizations-to-their-own-pass/62829#post_1)
 <!-- DISCOURSE-LLVM:END -->
