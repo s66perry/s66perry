@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Value Range Analysis of source code variables](https://discourse.llvm.org/t/value-range-analysis-of-source-code-variables/62853#post_2)
+- [Value Range Analysis of source code variables](https://discourse.llvm.org/t/value-range-analysis-of-source-code-variables/62853#post_1)
+- [Question about return type of build methods in TOSA operations](https://discourse.llvm.org/t/question-about-return-type-of-build-methods-in-tosa-operations/62828#post_4)
 - [Question about return type of build methods in TOSA operations](https://discourse.llvm.org/t/question-about-return-type-of-build-methods-in-tosa-operations/62828#post_3)
 - [Overlapping ::matchAndRewrite](https://discourse.llvm.org/t/overlapping-matchandrewrite/62848#post_3)
-- [Overlapping ::matchAndRewrite](https://discourse.llvm.org/t/overlapping-matchandrewrite/62848#post_2)
-- [Overlapping ::matchAndRewrite](https://discourse.llvm.org/t/overlapping-matchandrewrite/62848#post_1)
-- [[RFC] Always printing type aliases for certain types](https://discourse.llvm.org/t/rfc-always-printing-type-aliases-for-certain-types/62756#post_8)
 <!-- DISCOURSE-LLVM:END -->
