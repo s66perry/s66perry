@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Running clang on input from stdin](https://discourse.llvm.org/t/running-clang-on-input-from-stdin/62845#post_1)
 - [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_31)
+- [Capturing LLDB session output to a log file from a batch file in batch mode?](https://discourse.llvm.org/t/capturing-lldb-session-output-to-a-log-file-from-a-batch-file-in-batch-mode/62841#post_1)
 - [Question about return type of build methods in TOSA operations](https://discourse.llvm.org/t/question-about-return-type-of-build-methods-in-tosa-operations/62828#post_2)
 - [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_30)
-- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_29)
-- [RFC: Move TOSA Layerwise Constant Optimizations to Their Own Pass](https://discourse.llvm.org/t/rfc-move-tosa-layerwise-constant-optimizations-to-their-own-pass/62829#post_5)
 <!-- DISCOURSE-LLVM:END -->
