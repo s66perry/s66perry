@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about return type of build methods in TOSA operations](https://discourse.llvm.org/t/question-about-return-type-of-build-methods-in-tosa-operations/62828#post_6)
+- [Running clang on input from stdin](https://discourse.llvm.org/t/running-clang-on-input-from-stdin/62845#post_3)
+- [Compiler directives between OpenACC constructs and DO loops](https://discourse.llvm.org/t/compiler-directives-between-openacc-constructs-and-do-loops/62817#post_3)
+- [Question about return type of build methods in TOSA operations](https://discourse.llvm.org/t/question-about-return-type-of-build-methods-in-tosa-operations/62828#post_5)
 - [Value Range Analysis of source code variables](https://discourse.llvm.org/t/value-range-analysis-of-source-code-variables/62853#post_2)
-- [Value Range Analysis of source code variables](https://discourse.llvm.org/t/value-range-analysis-of-source-code-variables/62853#post_1)
-- [Question about return type of build methods in TOSA operations](https://discourse.llvm.org/t/question-about-return-type-of-build-methods-in-tosa-operations/62828#post_4)
-- [Question about return type of build methods in TOSA operations](https://discourse.llvm.org/t/question-about-return-type-of-build-methods-in-tosa-operations/62828#post_3)
-- [Overlapping ::matchAndRewrite](https://discourse.llvm.org/t/overlapping-matchandrewrite/62848#post_3)
 <!-- DISCOURSE-LLVM:END -->
