@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Bay Area LLVM Meetup - Restarting it](https://discourse.llvm.org/t/bay-area-llvm-meetup-restarting-it/60749#post_8)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_6)
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_1)
-- [How to proceeed with bug investigation?](https://discourse.llvm.org/t/how-to-proceeed-with-bug-investigation/62805#post_3)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_5)
+- [LLVM-HPC2022 at SC22 - Call for Papers!](https://discourse.llvm.org/t/llvm-hpc2022-at-sc22-call-for-papers/62882#post_1)
+- [Bay Area LLVM Meetup - Restarting it](https://discourse.llvm.org/t/bay-area-llvm-meetup-restarting-it/60749#post_10)
+- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_4)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_23)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=4#post_63)
 <!-- DISCOURSE-LLVM:END -->
