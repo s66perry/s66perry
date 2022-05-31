@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can&#39; get coupled ADDSUB instruction in assembler code](https://discourse.llvm.org/t/can-get-coupled-addsub-instruction-in-assembler-code/62877#post_3)
-- [Fuzzing + alive2 for finding optimization bugs](https://discourse.llvm.org/t/fuzzing-alive2-for-finding-optimization-bugs/62878#post_1)
-- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_3)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_3)
-- [Can&#39; get coupled ADDSUB instruction in assembler code](https://discourse.llvm.org/t/can-get-coupled-addsub-instruction-in-assembler-code/62877#post_2)
+- [Bay Area LLVM Meetup - Restarting it](https://discourse.llvm.org/t/bay-area-llvm-meetup-restarting-it/60749#post_8)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_6)
+- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_1)
+- [How to proceeed with bug investigation?](https://discourse.llvm.org/t/how-to-proceeed-with-bug-investigation/62805#post_3)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_5)
 <!-- DISCOURSE-LLVM:END -->
