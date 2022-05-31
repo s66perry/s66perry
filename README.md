@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Many `Clang` spelling attributes do not test the `[[]]` spelling](https://discourse.llvm.org/t/many-clang-spelling-attributes-do-not-test-the-spelling/62869#post_3)
-- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_3)
-- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_2)
-- [Question about getelementptr inbounds with offset 0](https://discourse.llvm.org/t/question-about-getelementptr-inbounds-with-offset-0/62533#post_11)
-- [Open MLIR Meeting 6/2/2022: IRDL, a dialect to represent IR definitions](https://discourse.llvm.org/t/open-mlir-meeting-6-2-2022-irdl-a-dialect-to-represent-ir-definitions/62885#post_1)
+- [How to proceeed with bug investigation?](https://discourse.llvm.org/t/how-to-proceeed-with-bug-investigation/62805#post_4)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_9)
+- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_6)
+- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_5)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_8)
 <!-- DISCOURSE-LLVM:END -->
