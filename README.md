@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can&#39; get coupled ADDSUB instruction in assembler code](https://discourse.llvm.org/t/can-get-coupled-addsub-instruction-in-assembler-code/62877#post_1)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_55)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_2)
-- [Lower an intrinsic with constant integer parameter to a particular physical register in assembly](https://discourse.llvm.org/t/lower-an-intrinsic-with-constant-integer-parameter-to-a-particular-physical-register-in-assembly/62858#post_3)
-- [Looking for ideas and requests regarding MLIR for Compiler Explorer &lpar;godbolt.org&rpar;](https://discourse.llvm.org/t/looking-for-ideas-and-requests-regarding-mlir-for-compiler-explorer-godbolt-org/62861#post_12)
+- [Can&#39; get coupled ADDSUB instruction in assembler code](https://discourse.llvm.org/t/can-get-coupled-addsub-instruction-in-assembler-code/62877#post_3)
+- [Fuzzing + alive2 for finding optimization bugs](https://discourse.llvm.org/t/fuzzing-alive2-for-finding-optimization-bugs/62878#post_1)
+- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_3)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_3)
+- [Can&#39; get coupled ADDSUB instruction in assembler code](https://discourse.llvm.org/t/can-get-coupled-addsub-instruction-in-assembler-code/62877#post_2)
 <!-- DISCOURSE-LLVM:END -->
