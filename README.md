@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Implement support for C++17 structured bindings in the Clang Static Analyzer](https://discourse.llvm.org/t/implement-support-for-c-17-structured-bindings-in-the-clang-static-analyzer/60588?page=2#post_36)
+- [Lower an intrinsic with constant integer parameter to a particular physical register in assembly](https://discourse.llvm.org/t/lower-an-intrinsic-with-constant-integer-parameter-to-a-particular-physical-register-in-assembly/62858#post_2)
 - [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637?page=2#post_27)
 - [SSA and CFG reconstruction from a register-based bytecode](https://discourse.llvm.org/t/ssa-and-cfg-reconstruction-from-a-register-based-bytecode/62862#post_3)
 - [SSA and CFG reconstruction from a register-based bytecode](https://discourse.llvm.org/t/ssa-and-cfg-reconstruction-from-a-register-based-bytecode/62862#post_2)
-- [SSA and CFG reconstruction from a register-based bytecode](https://discourse.llvm.org/t/ssa-and-cfg-reconstruction-from-a-register-based-bytecode/62862#post_1)
-- [Looking for ideas and requests regarding MLIR for Compiler Explorer &lpar;godbolt.org&rpar;](https://discourse.llvm.org/t/looking-for-ideas-and-requests-regarding-mlir-for-compiler-explorer-godbolt-org/62861#post_9)
 <!-- DISCOURSE-LLVM:END -->
