@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_8)
-- [How do I invoke opt --extract-blocks successfully?](https://discourse.llvm.org/t/how-do-i-invoke-opt-extract-blocks-successfully/62880#post_2)
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_5)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_13)
-- [Bay Area LLVM Meetup - Restarting it](https://discourse.llvm.org/t/bay-area-llvm-meetup-restarting-it/60749#post_12)
+- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_10)
+- [How do I invoke opt --extract-blocks successfully?](https://discourse.llvm.org/t/how-do-i-invoke-opt-extract-blocks-successfully/62880#post_3)
+- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_9)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_25)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
