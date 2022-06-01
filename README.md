@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_4)
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_37)
+- [Failed to find compiler-rt library](https://discourse.llvm.org/t/failed-to-find-compiler-rt-library/62872#post_3)
 - [Retrieve the triple/target from the elf file](https://discourse.llvm.org/t/retrieve-the-triple-target-from-the-elf-file/62894#post_2)
 - [Retrieve the triple/target from the elf file](https://discourse.llvm.org/t/retrieve-the-triple-target-from-the-elf-file/62894#post_1)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_14)
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_6)
-- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_14)
 <!-- DISCOURSE-LLVM:END -->
