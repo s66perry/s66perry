@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_14)
+- [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_11)
 - [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_10)
 - [How do I invoke opt --extract-blocks successfully?](https://discourse.llvm.org/t/how-do-i-invoke-opt-extract-blocks-successfully/62880#post_3)
 - [[RFC] Undef/uninitialized values and control flow](https://discourse.llvm.org/t/rfc-undef-uninitialized-values-and-control-flow/62884#post_9)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_25)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
