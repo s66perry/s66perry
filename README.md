@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=4#post_65)
-- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_6)
-- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=4#post_64)
-- [Failed to find compiler-rt library](https://discourse.llvm.org/t/failed-to-find-compiler-rt-library/62872#post_5)
-- [Failed to find compiler-rt library](https://discourse.llvm.org/t/failed-to-find-compiler-rt-library/62872#post_4)
+- [Converting label to PC relative address for passing strings to functions](https://discourse.llvm.org/t/converting-label-to-pc-relative-address-for-passing-strings-to-functions/62896#post_3)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_16)
+- [Converting label to PC relative address for passing strings to functions](https://discourse.llvm.org/t/converting-label-to-pc-relative-address-for-passing-strings-to-functions/62896#post_2)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867#post_15)
+- [Using metadata with codegen](https://discourse.llvm.org/t/using-metadata-with-codegen/62901#post_1)
 <!-- DISCOURSE-LLVM:END -->
