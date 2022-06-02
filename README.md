@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add std.switch and scf.switch](https://discourse.llvm.org/t/rfc-add-std-switch-and-scf-switch/3090?page=2#post_23)
-- [Fuzzing + alive2 for finding optimization bugs](https://discourse.llvm.org/t/fuzzing-alive2-for-finding-optimization-bugs/62878#post_4)
-- [Writing a basic Conversion Pass](https://discourse.llvm.org/t/writing-a-basic-conversion-pass/62928#post_2)
-- [Error when attempting basic OpenMP configure &amp; build](https://discourse.llvm.org/t/error-when-attempting-basic-openmp-configure-build/62924#post_2)
-- [[llvm-dev] [RFC] llvm-dva - Debug Information Visual Analyzer](https://discourse.llvm.org/t/llvm-dev-rfc-llvm-dva-debug-information-visual-analyzer/62570#post_6)
+- [Fuzzing + alive2 for finding optimization bugs](https://discourse.llvm.org/t/fuzzing-alive2-for-finding-optimization-bugs/62878#post_5)
+- [Code generation for llvm-mca instrumentation](https://discourse.llvm.org/t/code-generation-for-llvm-mca-instrumentation/62920#post_9)
+- [Code generation for llvm-mca instrumentation](https://discourse.llvm.org/t/code-generation-for-llvm-mca-instrumentation/62920#post_8)
+- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_10)
+- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_9)
 <!-- DISCOURSE-LLVM:END -->
