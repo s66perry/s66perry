@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error when attempting basic OpenMP configure &amp; build](https://discourse.llvm.org/t/error-when-attempting-basic-openmp-configure-build/62924#post_1)
 - [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_56)
 - [LSR ComplexityLimit default value](https://discourse.llvm.org/t/lsr-complexitylimit-default-value/61671#post_8)
 - [[llvm-dev] [RFC] llvm-dva - Debug Information Visual Analyzer](https://discourse.llvm.org/t/llvm-dev-rfc-llvm-dva-debug-information-visual-analyzer/62570#post_4)
 - [Code generation for llvm-mca instrumentation](https://discourse.llvm.org/t/code-generation-for-llvm-mca-instrumentation/62920#post_5)
-- [Code generation for llvm-mca instrumentation](https://discourse.llvm.org/t/code-generation-for-llvm-mca-instrumentation/62920#post_4)
 <!-- DISCOURSE-LLVM:END -->
