@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_24)
-- [Open MLIR Meeting 6/2/2022: IRDL, a dialect to represent IR definitions](https://discourse.llvm.org/t/open-mlir-meeting-6-2-2022-irdl-a-dialect-to-represent-ir-definitions/62885#post_9)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_23)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_22)
-- [Open MLIR Meeting 6/2/2022: IRDL, a dialect to represent IR definitions](https://discourse.llvm.org/t/open-mlir-meeting-6-2-2022-irdl-a-dialect-to-represent-ir-definitions/62885#post_8)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=4#post_68)
+- [Supported extensions for issue attachments](https://discourse.llvm.org/t/supported-extensions-for-issue-attachments/62938#post_3)
+- [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=4#post_67)
+- [Supported extensions for issue attachments](https://discourse.llvm.org/t/supported-extensions-for-issue-attachments/62938#post_2)
+- [Supported extensions for issue attachments](https://discourse.llvm.org/t/supported-extensions-for-issue-attachments/62938#post_1)
 <!-- DISCOURSE-LLVM:END -->
