@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [14.0.0-rc4 has been tagged](https://discourse.llvm.org/t/14-0-0-rc4-has-been-tagged/60897?page=2#post_25)
-- [Looking for ideas and requests regarding MLIR for Compiler Explorer &lpar;godbolt.org&rpar;](https://discourse.llvm.org/t/looking-for-ideas-and-requests-regarding-mlir-for-compiler-explorer-godbolt-org/62861#post_14)
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_7)
-- [[RFC] &lpar;Semi-&rpar;software bf16](https://discourse.llvm.org/t/rfc-semi-software-bf16/59699#post_2)
-- [Use cases related to #include refactoring](https://discourse.llvm.org/t/use-cases-related-to-include-refactoring/62908#post_2)
+- [[RFC] Always printing type aliases for certain types](https://discourse.llvm.org/t/rfc-always-printing-type-aliases-for-certain-types/62756#post_13)
+- [[RFC] Add RISC-V Vector Extension &lpar;RVV&rpar; Dialect](https://discourse.llvm.org/t/rfc-add-risc-v-vector-extension-rvv-dialect/4146?page=2#post_41)
+- [Use cases related to #include refactoring](https://discourse.llvm.org/t/use-cases-related-to-include-refactoring/62908#post_4)
+- [[RFC] Always printing type aliases for certain types](https://discourse.llvm.org/t/rfc-always-printing-type-aliases-for-certain-types/62756#post_12)
+- [Use cases related to #include refactoring](https://discourse.llvm.org/t/use-cases-related-to-include-refactoring/62908#post_3)
 <!-- DISCOURSE-LLVM:END -->
