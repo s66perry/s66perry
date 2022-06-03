@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Supported extensions for issue attachments](https://discourse.llvm.org/t/supported-extensions-for-issue-attachments/62938#post_4)
 - [Reminder: Final 14.0.x release on Wednesday](https://discourse.llvm.org/t/reminder-final-14-0-x-release-on-wednesday/62946#post_1)
 - [RFC: Introduce ml_program dialect and top-level ops &lpar;proposal v2&rpar;](https://discourse.llvm.org/t/rfc-introduce-ml-program-dialect-and-top-level-ops-proposal-v2/60907?page=4#post_69)
 - [[Greedy Regalloc] Right way to fix last chance recoloring](https://discourse.llvm.org/t/greedy-regalloc-right-way-to-fix-last-chance-recoloring/62944#post_2)
 - [[Greedy Regalloc] Right way to fix last chance recoloring](https://discourse.llvm.org/t/greedy-regalloc-right-way-to-fix-last-chance-recoloring/62944#post_1)
-- [build errors with MinGW-W64 GCC-8.1.0 on Windows](https://discourse.llvm.org/t/build-errors-with-mingw-w64-gcc-8-1-0-on-windows/50282#post_4)
 <!-- DISCOURSE-LLVM:END -->
