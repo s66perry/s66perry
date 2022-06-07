@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Alias scopes bug post-ISEL](https://discourse.llvm.org/t/alias-scopes-bug-post-isel/62985#post_4)
+- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_1)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_29)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_28)
 - [Spam accounts on Phabricator](https://discourse.llvm.org/t/spam-accounts-on-phabricator/60631?page=2#post_22)
-- [Modelling strict floating point behavior in math-like dialects](https://discourse.llvm.org/t/modelling-strict-floating-point-behavior-in-math-like-dialects/63000#post_3)
-- [Translating Clang optimization flags to opt passes for bugpoint](https://discourse.llvm.org/t/translating-clang-optimization-flags-to-opt-passes-for-bugpoint/62961#post_4)
-- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=2#post_29)
-- [Open MLIR Meeting 6/2/2022: IRDL, a dialect to represent IR definitions](https://discourse.llvm.org/t/open-mlir-meeting-6-2-2022-irdl-a-dialect-to-represent-ir-definitions/62885#post_16)
 <!-- DISCOURSE-LLVM:END -->
