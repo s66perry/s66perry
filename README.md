@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can&#39; get coupled ADDSUB instruction in assembler code](https://discourse.llvm.org/t/can-get-coupled-addsub-instruction-in-assembler-code/62877#post_5)
-- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_9)
-- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_8)
-- [[Torch-MLIR Community Meeting] 2022-06-06](https://discourse.llvm.org/t/torch-mlir-community-meeting-2022-06-06/63008#post_1)
-- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_7)
+- [Running builtins tests with runtimes build](https://discourse.llvm.org/t/running-builtins-tests-with-runtimes-build/63013#post_1)
+- [Is synchronization missed for RAW dependent ops during thread distribution inside iree?](https://discourse.llvm.org/t/is-synchronization-missed-for-raw-dependent-ops-during-thread-distribution-inside-iree/62971#post_8)
+- [Is synchronization missed for RAW dependent ops during thread distribution inside iree?](https://discourse.llvm.org/t/is-synchronization-missed-for-raw-dependent-ops-during-thread-distribution-inside-iree/62971#post_7)
+- [Question about -passes parameter in opt](https://discourse.llvm.org/t/question-about-passes-parameter-in-opt/63010#post_1)
+- [Cannot CMake self-hosted clang on Windows for lack of libxml2](https://discourse.llvm.org/t/cannot-cmake-self-hosted-clang-on-windows-for-lack-of-libxml2/58793#post_14)
 <!-- DISCOURSE-LLVM:END -->
