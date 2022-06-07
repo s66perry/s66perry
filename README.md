@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can&#39; get coupled ADDSUB instruction in assembler code](https://discourse.llvm.org/t/can-get-coupled-addsub-instruction-in-assembler-code/62877#post_5)
 - [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_9)
 - [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_8)
 - [[Torch-MLIR Community Meeting] 2022-06-06](https://discourse.llvm.org/t/torch-mlir-community-meeting-2022-06-06/63008#post_1)
 - [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_7)
-- [Storing the hash of each symbol name instead of the name itself &lpar;mach-o&rpar;](https://discourse.llvm.org/t/storing-the-hash-of-each-symbol-name-instead-of-the-name-itself-mach-o/63007#post_1)
 <!-- DISCOURSE-LLVM:END -->
