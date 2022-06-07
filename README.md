@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Alias scopes bug post-ISEL](https://discourse.llvm.org/t/alias-scopes-bug-post-isel/62985#post_4)
-- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_1)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_29)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_28)
-- [Spam accounts on Phabricator](https://discourse.llvm.org/t/spam-accounts-on-phabricator/60631?page=2#post_22)
+- [LLVM HLSL Working Group Meeting - Thursday, June 9 5pm UTC &lpar;1pm EDT, 10am PDT&rpar;](https://discourse.llvm.org/t/llvm-hlsl-working-group-meeting-thursday-june-9-5pm-utc-1pm-edt-10am-pdt/63034#post_1)
+- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_6)
+- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_5)
+- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_4)
+- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_3)
 <!-- DISCOURSE-LLVM:END -->
