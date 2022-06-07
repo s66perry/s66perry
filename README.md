@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Modifying Clang Parser to Create New Language Server](https://discourse.llvm.org/t/modifying-clang-parser-to-create-new-language-server/63025#post_3)
+- [Modifying Clang Parser to Create New Language Server](https://discourse.llvm.org/t/modifying-clang-parser-to-create-new-language-server/63025#post_2)
+- [[PSA] Tablegen language features via MLIR VSCode Extension](https://discourse.llvm.org/t/psa-tablegen-language-features-via-mlir-vscode-extension/62942#post_3)
+- [Modifying Clang Parser to Create New Language Server](https://discourse.llvm.org/t/modifying-clang-parser-to-create-new-language-server/63025#post_1)
 - [How to place function calls around certain inline assembly](https://discourse.llvm.org/t/how-to-place-function-calls-around-certain-inline-assembly/63023#post_2)
-- [How to place function calls around certain inline assembly](https://discourse.llvm.org/t/how-to-place-function-calls-around-certain-inline-assembly/63023#post_1)
-- [Deprecating APInt::truncOrSelf, zextOrSelf and sextOrSelf](https://discourse.llvm.org/t/deprecating-apint-truncorself-zextorself-and-sextorself/62622#post_2)
-- [Convolution Depthwise NCHW in Linalg dialect](https://discourse.llvm.org/t/convolution-depthwise-nchw-in-linalg-dialect/62874#post_11)
-- [Is synchronization missed for RAW dependent ops during thread distribution inside iree?](https://discourse.llvm.org/t/is-synchronization-missed-for-raw-dependent-ops-during-thread-distribution-inside-iree/62971#post_12)
 <!-- DISCOURSE-LLVM:END -->
