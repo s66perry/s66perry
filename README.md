@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_31)
+- [C++ Modules Bi-Weekly Informal Implementers&#39; Meeting](https://discourse.llvm.org/t/c-modules-bi-weekly-informal-implementers-meeting/61874#post_16)
+- [It is surprising that readnone implies writeonly](https://discourse.llvm.org/t/it-is-surprising-that-readnone-implies-writeonly/63054#post_3)
 - [It is surprising that readnone implies writeonly](https://discourse.llvm.org/t/it-is-surprising-that-readnone-implies-writeonly/63054#post_2)
 - [It is surprising that readnone implies writeonly](https://discourse.llvm.org/t/it-is-surprising-that-readnone-implies-writeonly/63054#post_1)
-- [Announcing the 2022 EuroLLVM Program](https://discourse.llvm.org/t/announcing-the-2022-eurollvm-program/61741#post_8)
-- [Alias analysis missing obvious control flow information?](https://discourse.llvm.org/t/alias-analysis-missing-obvious-control-flow-information/63037#post_5)
-- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028#post_5)
 <!-- DISCOURSE-LLVM:END -->
