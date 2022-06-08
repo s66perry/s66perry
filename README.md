@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [CMake support](https://discourse.llvm.org/t/cmake-support/63058#post_1)
-- [LLVM-C: SimpleLoopUnswitchPass](https://discourse.llvm.org/t/llvm-c-simpleloopunswitchpass/62802#post_3)
-- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_12)
-- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_11)
-- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_10)
+- [LLVM 14.0.5 Release Update](https://discourse.llvm.org/t/llvm-14-0-5-release-update/63064#post_1)
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_4)
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_3)
+- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=2#post_35)
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_2)
 <!-- DISCOURSE-LLVM:END -->
