@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_12)
-- [Meaning of NoAlias in alias analysis](https://discourse.llvm.org/t/meaning-of-noalias-in-alias-analysis/63056#post_12)
-- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_11)
-- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_1)
-- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_10)
+- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028#post_13)
+- [Could I get one single bc file from multiple files？（which may have a real big amount of files including .c/.h/.hpp）](https://discourse.llvm.org/t/could-i-get-one-single-bc-file-from-multiple-files-which-may-have-a-real-big-amount-of-files-including-c-h-hpp/62072#post_5)
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_16)
+- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028#post_12)
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_15)
 <!-- DISCOURSE-LLVM:END -->
