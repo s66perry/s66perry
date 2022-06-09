@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_2)
-- [What are UNRESOLVED test in llvm-lit?](https://discourse.llvm.org/t/what-are-unresolved-test-in-llvm-lit/63076#post_3)
-- [Linalg and masking](https://discourse.llvm.org/t/linalg-and-masking/62795#post_10)
-- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_17)
-- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028#post_13)
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_39)
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_19)
+- [It is surprising that readnone implies writeonly](https://discourse.llvm.org/t/it-is-surprising-that-readnone-implies-writeonly/63054#post_6)
+- [[RFC] Parallel Abstraction For Tensors and Buffers](https://discourse.llvm.org/t/rfc-parallel-abstraction-for-tensors-and-buffers/62607?page=2#post_38)
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063#post_18)
 <!-- DISCOURSE-LLVM:END -->
