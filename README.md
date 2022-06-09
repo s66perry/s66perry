@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Find order of passes](https://discourse.llvm.org/t/find-order-of-passes/63085#post_2)
-- [Find order of passes](https://discourse.llvm.org/t/find-order-of-passes/63085#post_1)
-- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028#post_16)
-- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_5)
-- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063?page=2#post_24)
+- [Best way to determine if a macro expansion spans a single expression? &lpar;ASTRecursiveVisitor&rpar;](https://discourse.llvm.org/t/best-way-to-determine-if-a-macro-expansion-spans-a-single-expression-astrecursivevisitor/63091#post_1)
+- [Help understanding a change to GOT relocations of undefined VTT entries in clang 12](https://discourse.llvm.org/t/help-understanding-a-change-to-got-relocations-of-undefined-vtt-entries-in-clang-12/63090#post_1)
+- [Identifying loop guards &lpar;created by loop-rotation pass&rpar;](https://discourse.llvm.org/t/identifying-loop-guards-created-by-loop-rotation-pass/63086#post_1)
+- [Find order of passes](https://discourse.llvm.org/t/find-order-of-passes/63085#post_3)
+- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_2)
 <!-- DISCOURSE-LLVM:END -->
