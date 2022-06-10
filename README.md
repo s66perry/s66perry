@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Semantics of COPY instructions &lpar;Specifically, in LICM&rpar;](https://discourse.llvm.org/t/semantics-of-copy-instructions-specifically-in-licm/63040#post_3)
+- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_3)
+- [[RFC][TargetTransformInfo] Add an option to supply cache line size if not provided by the target?](https://discourse.llvm.org/t/rfc-targettransforminfo-add-an-option-to-supply-cache-line-size-if-not-provided-by-the-target/63114#post_4)
+- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_2)
 - [Please don&#39;t use &quot;br undef&quot; in tests &lpar;aka please avoid test cases with UB&rpar;](https://discourse.llvm.org/t/please-dont-use-br-undef-in-tests-aka-please-avoid-test-cases-with-ub/63115#post_1)
-- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028#post_19)
-- [Help understanding a change to GOT relocations of undefined VTT entries in clang 12](https://discourse.llvm.org/t/help-understanding-a-change-to-got-relocations-of-undefined-vtt-entries-in-clang-12/63090#post_7)
-- [[RFC][TargetTransformInfo] Add an option to supply cache line size if not provided by the target?](https://discourse.llvm.org/t/rfc-targettransforminfo-add-an-option-to-supply-cache-line-size-if-not-provided-by-the-target/63114#post_3)
-- [Help understanding a change to GOT relocations of undefined VTT entries in clang 12](https://discourse.llvm.org/t/help-understanding-a-change-to-got-relocations-of-undefined-vtt-entries-in-clang-12/63090#post_6)
 <!-- DISCOURSE-LLVM:END -->
