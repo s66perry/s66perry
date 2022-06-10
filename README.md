@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Roadmap of modeling symbolic cast operations](https://discourse.llvm.org/t/roadmap-of-modeling-symbolic-cast-operations/63107#post_1)
-- [[Solved]Migrating legacyPM passes to NewPM](https://discourse.llvm.org/t/solved-migrating-legacypm-passes-to-newpm/63073#post_6)
-- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_5)
-- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_4)
-- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_3)
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_3)
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_2)
+- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_6)
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_1)
+- [[clang-tidy] Diagnostics for Template Code](https://discourse.llvm.org/t/clang-tidy-diagnostics-for-template-code/62909#post_3)
 <!-- DISCOURSE-LLVM:END -->
