@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_1)
+- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_8)
+- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_7)
+- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_6)
 - [Trip count computation during epilog vectorization](https://discourse.llvm.org/t/trip-count-computation-during-epilog-vectorization/6046#post_3)
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_15)
-- [No new builds going through buildbot CI for 11 hours](https://discourse.llvm.org/t/no-new-builds-going-through-buildbot-ci-for-11-hours/63094#post_2)
-- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_3)
-- [[AArch64] Is the cost of MSUB instruction is significantly higher than that of the MADD instruction?](https://discourse.llvm.org/t/aarch64-is-the-cost-of-msub-instruction-is-significantly-higher-than-that-of-the-madd-instruction/62963#post_4)
 <!-- DISCOURSE-LLVM:END -->
