@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_1)
-- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_8)
-- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_7)
-- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_6)
-- [Trip count computation during epilog vectorization](https://discourse.llvm.org/t/trip-count-computation-during-epilog-vectorization/6046#post_3)
+- [Roadmap of modeling symbolic cast operations](https://discourse.llvm.org/t/roadmap-of-modeling-symbolic-cast-operations/63107#post_1)
+- [[Solved]Migrating legacyPM passes to NewPM](https://discourse.llvm.org/t/solved-migrating-legacypm-passes-to-newpm/63073#post_6)
+- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_5)
+- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_4)
+- [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_3)
 <!-- DISCOURSE-LLVM:END -->
