@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Control -Wvla for conformant parameters](https://discourse.llvm.org/t/rfc-control-wvla-for-conformant-parameters/59041#post_7)
-- [14.0.4-final has been tagged](https://discourse.llvm.org/t/14-0-4-final-has-been-tagged/62750#post_9)
-- [RISC-V LLVM sync-up call 9th June 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-9th-june-2022/63077#post_3)
-- [RISC-V LLVM sync-up call 9th June 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-9th-june-2022/63077#post_2)
-- [Could I get one single bc file from multiple files？（which may have a real big amount of files including .c/.h/.hpp）](https://discourse.llvm.org/t/could-i-get-one-single-bc-file-from-multiple-files-which-may-have-a-real-big-amount-of-files-including-c-h-hpp/62072#post_6)
+- [[AArch64] Is the cost of MSUB instruction is significantly higher than that of the MADD instruction?](https://discourse.llvm.org/t/aarch64-is-the-cost-of-msub-instruction-is-significantly-higher-than-that-of-the-madd-instruction/62963#post_4)
+- [Trip count computation during epilog vectorization](https://discourse.llvm.org/t/trip-count-computation-during-epilog-vectorization/6046#post_2)
+- [Best way to determine if a macro expansion spans a single expression? &lpar;ASTRecursiveVisitor&rpar;](https://discourse.llvm.org/t/best-way-to-determine-if-a-macro-expansion-spans-a-single-expression-astrecursivevisitor/63091#post_3)
+- [How to enable newly added registers to transfer args between basic blocks?](https://discourse.llvm.org/t/how-to-enable-newly-added-registers-to-transfer-args-between-basic-blocks/63100#post_1)
+- [14.0.4-final has been tagged](https://discourse.llvm.org/t/14-0-4-final-has-been-tagged/62750#post_10)
 <!-- DISCOURSE-LLVM:END -->
