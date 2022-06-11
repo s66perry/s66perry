@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063?page=2#post_25)
 - [[PSA] StructAttr is deprecated and is being removed](https://discourse.llvm.org/t/psa-structattr-is-deprecated-and-is-being-removed/63068#post_8)
 - [Linalg and masking](https://discourse.llvm.org/t/linalg-and-masking/62795#post_13)
 - [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074#post_2)
 - [Help understanding a change to GOT relocations of undefined VTT entries in clang 12](https://discourse.llvm.org/t/help-understanding-a-change-to-got-relocations-of-undefined-vtt-entries-in-clang-12/63090#post_8)
-- [Semantics of COPY instructions &lpar;Specifically, in LICM&rpar;](https://discourse.llvm.org/t/semantics-of-copy-instructions-specifically-in-licm/63040#post_3)
 <!-- DISCOURSE-LLVM:END -->
