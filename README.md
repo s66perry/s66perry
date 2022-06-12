@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [14.0.5-final has been tagged](https://discourse.llvm.org/t/14-0-5-final-has-been-tagged/63119#post_3)
+- [Build failed for CIRCT project](https://discourse.llvm.org/t/build-failed-for-circt-project/63135#post_2)
+- [Build failed for CIRCT project](https://discourse.llvm.org/t/build-failed-for-circt-project/63135#post_1)
 - [Clang fails to install correctly on Gentoo Linux](https://discourse.llvm.org/t/clang-fails-to-install-correctly-on-gentoo-linux/63133#post_3)
 - [14.0.5-final has been tagged](https://discourse.llvm.org/t/14-0-5-final-has-been-tagged/63119#post_2)
-- [Clang fails to install correctly on Gentoo Linux](https://discourse.llvm.org/t/clang-fails-to-install-correctly-on-gentoo-linux/63133#post_2)
-- [Clang fails to install correctly on Gentoo Linux](https://discourse.llvm.org/t/clang-fails-to-install-correctly-on-gentoo-linux/63133#post_1)
-- [No new builds going through buildbot CI for 11 hours](https://discourse.llvm.org/t/no-new-builds-going-through-buildbot-ci-for-11-hours/63094#post_8)
 <!-- DISCOURSE-LLVM:END -->
