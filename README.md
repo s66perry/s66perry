@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Rejecting WG14 DR312/N2713 &lpar;what is a valid integer constant expression?&rpar;](https://discourse.llvm.org/t/rfc-rejecting-wg14-dr312-n2713-what-is-a-valid-integer-constant-expression/63063?page=2#post_26)
-- [Platform independent Union in LLVM-IR? Or at least constant sizeof?](https://discourse.llvm.org/t/platform-independent-union-in-llvm-ir-or-at-least-constant-sizeof/63139#post_3)
-- [Distance between two operations](https://discourse.llvm.org/t/distance-between-two-operations/61338#post_2)
-- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_14)
-- [14.0.4-final has been tagged](https://discourse.llvm.org/t/14-0-4-final-has-been-tagged/62750#post_12)
+- [LLVM Weekly - #441, June 13th 2022](https://discourse.llvm.org/t/llvm-weekly-441-june-13th-2022/63148#post_1)
+- [Build_llvm_release.bat script options](https://discourse.llvm.org/t/build-llvm-release-bat-script-options/63146#post_2)
+- [Clang office hours starting in ~1 hour](https://discourse.llvm.org/t/clang-office-hours-starting-in-1-hour/63147#post_1)
+- [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074#post_8)
+- [14.0.4-final has been tagged](https://discourse.llvm.org/t/14-0-4-final-has-been-tagged/62750#post_13)
 <!-- DISCOURSE-LLVM:END -->
