@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Transplant Clang 10.0 to replace gcc, assemble files will report error](https://discourse.llvm.org/t/transplant-clang-10-0-to-replace-gcc-assemble-files-will-report-error/63052#post_8)
-- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_9)
-- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_7)
-- [Gnu bintools - llvm bintools migration guide](https://discourse.llvm.org/t/gnu-bintools-llvm-bintools-migration-guide/63169#post_3)
-- [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074#post_15)
+- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_9)
+- [Modelling strict floating point behavior in math-like dialects](https://discourse.llvm.org/t/modelling-strict-floating-point-behavior-in-math-like-dialects/63000#post_9)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_3)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_2)
+- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
