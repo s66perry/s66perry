@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_6)
 - [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_8)
 - [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_5)
 - [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_4)
 - [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_3)
-- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_2)
 <!-- DISCOURSE-LLVM:END -->
