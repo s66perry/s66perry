@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Failed GPU integrated execution with CUDA error](https://discourse.llvm.org/t/failed-gpu-integrated-execution-with-cuda-error/63072#post_3)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_4)
-- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_9)
-- [Modelling strict floating point behavior in math-like dialects](https://discourse.llvm.org/t/modelling-strict-floating-point-behavior-in-math-like-dialects/63000#post_9)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_3)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_6)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_5)
+- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_8)
+- [Affine loop fission](https://discourse.llvm.org/t/affine-loop-fission/63187#post_1)
+- [[RFC] Add `source command` to allow new lldb command to be registered when source content is requested](https://discourse.llvm.org/t/rfc-add-source-command-to-allow-new-lldb-command-to-be-registered-when-source-content-is-requested/63160#post_3)
 <!-- DISCOURSE-LLVM:END -->
