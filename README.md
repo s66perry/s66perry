@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Gnu bintools - llvm bintools migration guide](https://discourse.llvm.org/t/gnu-bintools-llvm-bintools-migration-guide/63169#post_2)
-- [Gnu bintools - llvm bintools migration guide](https://discourse.llvm.org/t/gnu-bintools-llvm-bintools-migration-guide/63169#post_1)
-- [How to merge corpus in llvm-mc--fuzzer](https://discourse.llvm.org/t/how-to-merge-corpus-in-llvm-mc-fuzzer/63166#post_1)
-- [Unexplained memory regions on Windows](https://discourse.llvm.org/t/unexplained-memory-regions-on-windows/62662#post_2)
-- [Modelling strict floating point behavior in math-like dialects](https://discourse.llvm.org/t/modelling-strict-floating-point-behavior-in-math-like-dialects/63000#post_8)
+- [Opt -dot-cfg with exceptions](https://discourse.llvm.org/t/opt-dot-cfg-with-exceptions/63171#post_1)
+- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_6)
+- [AffineMap is not simplified in scf.if regions](https://discourse.llvm.org/t/affinemap-is-not-simplified-in-scf-if-regions/63152#post_5)
+- [Transplant Clang 10.0 to replace gcc, assemble files will report error](https://discourse.llvm.org/t/transplant-clang-10-0-to-replace-gcc-assemble-files-will-report-error/63052#post_7)
+- [Transplant Clang 10.0 to replace gcc, assemble files will report error](https://discourse.llvm.org/t/transplant-clang-10-0-to-replace-gcc-assemble-files-will-report-error/63052#post_6)
 <!-- DISCOURSE-LLVM:END -->
