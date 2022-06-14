@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_1)
+- [LLVM GPU Working Group Meeting – Friday, June 17, 2022](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-june-17-2022/63177#post_1)
+- [Response to the Move to Discourse Retrospective](https://discourse.llvm.org/t/response-to-the-move-to-discourse-retrospective/63159#post_3)
+- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028?page=2#post_21)
 - [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_7)
-- [Using options for passes in the new Pass Manager](https://discourse.llvm.org/t/using-options-for-passes-in-the-new-pass-manager/62742#post_2)
-- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_6)
-- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_8)
-- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_5)
 <!-- DISCOURSE-LLVM:END -->
