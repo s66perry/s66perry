@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Opt -dot-cfg with exceptions](https://discourse.llvm.org/t/opt-dot-cfg-with-exceptions/63171#post_1)
-- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_6)
-- [AffineMap is not simplified in scf.if regions](https://discourse.llvm.org/t/affinemap-is-not-simplified-in-scf-if-regions/63152#post_5)
-- [Transplant Clang 10.0 to replace gcc, assemble files will report error](https://discourse.llvm.org/t/transplant-clang-10-0-to-replace-gcc-assemble-files-will-report-error/63052#post_7)
-- [Transplant Clang 10.0 to replace gcc, assemble files will report error](https://discourse.llvm.org/t/transplant-clang-10-0-to-replace-gcc-assemble-files-will-report-error/63052#post_6)
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_8)
+- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_5)
+- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_4)
+- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_3)
+- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_2)
 <!-- DISCOURSE-LLVM:END -->
