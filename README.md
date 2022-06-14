@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Open MLIR Meeting 6/2/2022: IRDL, a dialect to represent IR definitions](https://discourse.llvm.org/t/open-mlir-meeting-6-2-2022-irdl-a-dialect-to-represent-ir-definitions/62885#post_20)
+- [Can a default/zero-initialized empty struct be filled with &quot;arbitrary&quot; bits?](https://discourse.llvm.org/t/can-a-default-zero-initialized-empty-struct-be-filled-with-arbitrary-bits/63191#post_1)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_7)
 - [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_6)
 - [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_5)
-- [Relating IR variables to generated machin ecode](https://discourse.llvm.org/t/relating-ir-variables-to-generated-machin-ecode/63105#post_8)
-- [Affine loop fission](https://discourse.llvm.org/t/affine-loop-fission/63187#post_1)
-- [[RFC] Add `source command` to allow new lldb command to be registered when source content is requested](https://discourse.llvm.org/t/rfc-add-source-command-to-allow-new-lldb-command-to-be-registered-when-source-content-is-requested/63160#post_3)
 <!-- DISCOURSE-LLVM:END -->
