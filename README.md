@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Missed opt: Clang can&#39;t see that captured variables in a lambda are unchanged through a loop](https://discourse.llvm.org/t/missed-opt-clang-cant-see-that-captured-variables-in-a-lambda-are-unchanged-through-a-loop/63213#post_2)
+- [Replacement for the Comprehensive Module Bufferize pass](https://discourse.llvm.org/t/replacement-for-the-comprehensive-module-bufferize-pass/63219#post_2)
+- [Replacement for the Comprehensive Module Bufferize pass](https://discourse.llvm.org/t/replacement-for-the-comprehensive-module-bufferize-pass/63219#post_1)
 - [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_17)
 - [Why LLVM ir change variable&#39;s name slightly?](https://discourse.llvm.org/t/why-llvm-ir-change-variables-name-slightly/63209#post_4)
-- [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074?page=2#post_21)
-- [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074#post_20)
-- [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074#post_19)
 <!-- DISCOURSE-LLVM:END -->
