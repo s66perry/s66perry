@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [More checker callbacks should have `CheckerContext`](https://discourse.llvm.org/t/more-checker-callbacks-should-have-checkercontext/63211#post_3)
-- [[RFC] Control-Depent Function Returns and Redefining Control Dependencies](https://discourse.llvm.org/t/rfc-control-depent-function-returns-and-redefining-control-dependencies/63203#post_3)
-- [More checker callbacks should have `CheckerContext`](https://discourse.llvm.org/t/more-checker-callbacks-should-have-checkercontext/63211#post_2)
-- [How to prevent instruction being deleted by DeadMachineInstructionElim](https://discourse.llvm.org/t/how-to-prevent-instruction-being-deleted-by-deadmachineinstructionelim/63206#post_6)
-- [Missed opt: Clang can&#39;t see that captured variables in a lambda are unchanged through a loop](https://discourse.llvm.org/t/missed-opt-clang-cant-see-that-captured-variables-in-a-lambda-are-unchanged-through-a-loop/63213#post_1)
+- [How to prevent instruction being deleted by DeadMachineInstructionElim](https://discourse.llvm.org/t/how-to-prevent-instruction-being-deleted-by-deadmachineinstructionelim/63206#post_7)
+- [Roadmap of modeling symbolic cast operations](https://discourse.llvm.org/t/roadmap-of-modeling-symbolic-cast-operations/63107#post_6)
+- [[RFC] Control-Depent Function Returns and Redefining Control Dependencies](https://discourse.llvm.org/t/rfc-control-depent-function-returns-and-redefining-control-dependencies/63203#post_4)
+- [More checker callbacks should have `CheckerContext`](https://discourse.llvm.org/t/more-checker-callbacks-should-have-checkercontext/63211#post_4)
+- [MemorySanitizer and llvm-cov](https://discourse.llvm.org/t/memorysanitizer-and-llvm-cov/63215#post_1)
 <!-- DISCOURSE-LLVM:END -->
