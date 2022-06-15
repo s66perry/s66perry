@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Gnu bintools - llvm bintools migration guide](https://discourse.llvm.org/t/gnu-bintools-llvm-bintools-migration-guide/63169#post_5)
-- [Build_llvm_release.bat script options](https://discourse.llvm.org/t/build-llvm-release-bat-script-options/63146#post_5)
-- [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074#post_17)
-- [[RFC] New attribute `annotate_type` &lpar;iteration 2&rpar;](https://discourse.llvm.org/t/rfc-new-attribute-annotate-type-iteration-2/61378#post_10)
-- [AffineMap is not simplified in scf.if regions](https://discourse.llvm.org/t/affinemap-is-not-simplified-in-scf-if-regions/63152#post_8)
+- [How to prevent instruction being deleted by DeadMachineInstructionElim](https://discourse.llvm.org/t/how-to-prevent-instruction-being-deleted-by-deadmachineinstructionelim/63206#post_1)
+- [[RFC] Control-Depent Function Returns and Redefining Control Dependencies](https://discourse.llvm.org/t/rfc-control-depent-function-returns-and-redefining-control-dependencies/63203#post_1)
+- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=2#post_34)
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_10)
+- [Build_llvm_release.bat script options](https://discourse.llvm.org/t/build-llvm-release-bat-script-options/63146#post_6)
 <!-- DISCOURSE-LLVM:END -->
