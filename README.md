@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Best way to determine if a macro expansion spans a single expression? &lpar;ASTRecursiveVisitor&rpar;](https://discourse.llvm.org/t/best-way-to-determine-if-a-macro-expansion-spans-a-single-expression-astrecursivevisitor/63091#post_7)
-- [MLIR-based IR for computation graph DSL](https://discourse.llvm.org/t/mlir-based-ir-for-computation-graph-dsl/63241#post_1)
-- [Hosting Fortran IR &lpar;FIR&rpar; documentation](https://discourse.llvm.org/t/hosting-fortran-ir-fir-documentation/63220#post_4)
-- [Help understanding a change to GOT relocations of undefined VTT entries in clang 12](https://discourse.llvm.org/t/help-understanding-a-change-to-got-relocations-of-undefined-vtt-entries-in-clang-12/63090#post_10)
-- [Clang-format IncludeCategories and quotes vs. brackets](https://discourse.llvm.org/t/clang-format-includecategories-and-quotes-vs-brackets/63240#post_1)
+- [14.0.5-final has been tagged](https://discourse.llvm.org/t/14-0-5-final-has-been-tagged/63119#post_6)
+- [Array bound checking in clang static analyzer](https://discourse.llvm.org/t/array-bound-checking-in-clang-static-analyzer/63242#post_1)
+- [Where can I get llvm-gcc frontend?](https://discourse.llvm.org/t/where-can-i-get-llvm-gcc-frontend/63238#post_5)
+- [Where can I get llvm-gcc frontend?](https://discourse.llvm.org/t/where-can-i-get-llvm-gcc-frontend/63238#post_4)
+- [Clang-format IncludeCategories and quotes vs. brackets](https://discourse.llvm.org/t/clang-format-includecategories-and-quotes-vs-brackets/63240#post_3)
 <!-- DISCOURSE-LLVM:END -->
