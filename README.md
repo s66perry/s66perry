@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Interfacing between fixed-length and scalable vectors for VLS vector code on scalable vector architectures](https://discourse.llvm.org/t/rfc-interfacing-between-fixed-length-and-scalable-vectors-for-vls-vector-code-on-scalable-vector-architectures/63074?page=2#post_23)
-- [LLVM community events calendar](https://discourse.llvm.org/t/llvm-community-events-calendar/63237#post_2)
-- [Where can I get llvm-gcc frontend?](https://discourse.llvm.org/t/where-can-i-get-llvm-gcc-frontend/63238#post_7)
-- [Clang-format IncludeCategories and quotes vs. brackets](https://discourse.llvm.org/t/clang-format-includecategories-and-quotes-vs-brackets/63240#post_4)
-- [Where can I get llvm-gcc frontend?](https://discourse.llvm.org/t/where-can-i-get-llvm-gcc-frontend/63238#post_6)
+- [[RFC][DebugInfo][DWARF] .debug_line entry for a callsite of an inlined function](https://discourse.llvm.org/t/rfc-debuginfo-dwarf-debug-line-entry-for-a-callsite-of-an-inlined-function/62984#post_6)
+- [LLVM community events calendar](https://discourse.llvm.org/t/llvm-community-events-calendar/63237#post_3)
+- [[RFC][DebugInfo][DWARF] .debug_line entry for a callsite of an inlined function](https://discourse.llvm.org/t/rfc-debuginfo-dwarf-debug-line-entry-for-a-callsite-of-an-inlined-function/62984#post_5)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_8)
+- [MLIR-based IR for computation graph DSL](https://discourse.llvm.org/t/mlir-based-ir-for-computation-graph-dsl/63241#post_2)
 <!-- DISCOURSE-LLVM:END -->
