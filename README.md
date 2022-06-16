@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Roadmap of modeling symbolic cast operations](https://discourse.llvm.org/t/roadmap-of-modeling-symbolic-cast-operations/63107#post_8)
-- [Opt -dot-cfg with exceptions](https://discourse.llvm.org/t/opt-dot-cfg-with-exceptions/63171#post_4)
-- [[RFC] Making Bit-field Codegen Poison Compatible](https://discourse.llvm.org/t/rfc-making-bit-field-codegen-poison-compatible/63250#post_6)
-- [[RFC] Making Bit-field Codegen Poison Compatible](https://discourse.llvm.org/t/rfc-making-bit-field-codegen-poison-compatible/63250#post_5)
-- [Parsing module from bitcode file fails](https://discourse.llvm.org/t/parsing-module-from-bitcode-file-fails/63247#post_3)
+- [Order of conversion of operations](https://discourse.llvm.org/t/order-of-conversion-of-operations/63259#post_1)
+- [LLVM community events calendar](https://discourse.llvm.org/t/llvm-community-events-calendar/63237#post_5)
+- [[RFC] Making Bit-field Codegen Poison Compatible](https://discourse.llvm.org/t/rfc-making-bit-field-codegen-poison-compatible/63250#post_8)
+- [Using the Alias Analysis Evaluator API](https://discourse.llvm.org/t/using-the-alias-analysis-evaluator-api/63258#post_1)
+- [[RFC] Making Bit-field Codegen Poison Compatible](https://discourse.llvm.org/t/rfc-making-bit-field-codegen-poison-compatible/63250#post_7)
 <!-- DISCOURSE-LLVM:END -->
