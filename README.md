@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Making Bit-field Codegen Poison Compatible](https://discourse.llvm.org/t/rfc-making-bit-field-codegen-poison-compatible/63250#post_2)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_10)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_9)
-- [Array bound checking in clang static analyzer](https://discourse.llvm.org/t/array-bound-checking-in-clang-static-analyzer/63242#post_3)
-- [Looking for ideas and requests regarding MLIR for Compiler Explorer &lpar;godbolt.org&rpar;](https://discourse.llvm.org/t/looking-for-ideas-and-requests-regarding-mlir-for-compiler-explorer-godbolt-org/62861#post_16)
+- [Roadmap of modeling symbolic cast operations](https://discourse.llvm.org/t/roadmap-of-modeling-symbolic-cast-operations/63107#post_8)
+- [Opt -dot-cfg with exceptions](https://discourse.llvm.org/t/opt-dot-cfg-with-exceptions/63171#post_4)
+- [[RFC] Making Bit-field Codegen Poison Compatible](https://discourse.llvm.org/t/rfc-making-bit-field-codegen-poison-compatible/63250#post_6)
+- [[RFC] Making Bit-field Codegen Poison Compatible](https://discourse.llvm.org/t/rfc-making-bit-field-codegen-poison-compatible/63250#post_5)
+- [Parsing module from bitcode file fails](https://discourse.llvm.org/t/parsing-module-from-bitcode-file-fails/63247#post_3)
 <!-- DISCOURSE-LLVM:END -->
