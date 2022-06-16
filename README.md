@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Missing header `llvm/IR/LegacyPassManager.h` after build](https://discourse.llvm.org/t/missing-header-llvm-ir-legacypassmanager-h-after-build/63197#post_3)
-- [Opt -dot-cfg with exceptions](https://discourse.llvm.org/t/opt-dot-cfg-with-exceptions/63171#post_2)
-- [Marketing and &quot;release&quot; of Mach-O lld](https://discourse.llvm.org/t/marketing-and-release-of-mach-o-lld/63143#post_10)
-- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_15)
-- [Looking for ideas and requests regarding MLIR for Compiler Explorer &lpar;godbolt.org&rpar;](https://discourse.llvm.org/t/looking-for-ideas-and-requests-regarding-mlir-for-compiler-explorer-godbolt-org/62861#post_15)
+- [Problems applying patches with arcanist](https://discourse.llvm.org/t/problems-applying-patches-with-arcanist/47359#post_6)
+- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_1)
+- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_16)
+- [How to use the output of `llvm-config -cxxflags` on Windows?](https://discourse.llvm.org/t/how-to-use-the-output-of-llvm-config-cxxflags-on-windows/63230#post_3)
+- [How to use the output of `llvm-config -cxxflags` on Windows?](https://discourse.llvm.org/t/how-to-use-the-output-of-llvm-config-cxxflags-on-windows/63230#post_2)
 <!-- DISCOURSE-LLVM:END -->
