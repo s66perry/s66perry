@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Roadmap of modeling symbolic cast operations](https://discourse.llvm.org/t/roadmap-of-modeling-symbolic-cast-operations/63107#post_7)
-- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_3)
-- [Hosting Fortran IR &lpar;FIR&rpar; documentation](https://discourse.llvm.org/t/hosting-fortran-ir-fir-documentation/63220#post_3)
-- [[RFC][DebugInfo][DWARF] .debug_line entry for a callsite of an inlined function](https://discourse.llvm.org/t/rfc-debuginfo-dwarf-debug-line-entry-for-a-callsite-of-an-inlined-function/62984#post_4)
-- [How to convert mix dialect into one dialect?](https://discourse.llvm.org/t/how-to-convert-mix-dialect-into-one-dialect/63233#post_2)
+- [Best way to determine if a macro expansion spans a single expression? &lpar;ASTRecursiveVisitor&rpar;](https://discourse.llvm.org/t/best-way-to-determine-if-a-macro-expansion-spans-a-single-expression-astrecursivevisitor/63091#post_7)
+- [MLIR-based IR for computation graph DSL](https://discourse.llvm.org/t/mlir-based-ir-for-computation-graph-dsl/63241#post_1)
+- [Hosting Fortran IR &lpar;FIR&rpar; documentation](https://discourse.llvm.org/t/hosting-fortran-ir-fir-documentation/63220#post_4)
+- [Help understanding a change to GOT relocations of undefined VTT entries in clang 12](https://discourse.llvm.org/t/help-understanding-a-change-to-got-relocations-of-undefined-vtt-entries-in-clang-12/63090#post_10)
+- [Clang-format IncludeCategories and quotes vs. brackets](https://discourse.llvm.org/t/clang-format-includecategories-and-quotes-vs-brackets/63240#post_1)
 <!-- DISCOURSE-LLVM:END -->
