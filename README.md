@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Response to the Move to Discourse Retrospective](https://discourse.llvm.org/t/response-to-the-move-to-discourse-retrospective/63159#post_5)
+- [Order of conversion of operations](https://discourse.llvm.org/t/order-of-conversion-of-operations/63259#post_3)
+- [AffineMap is not simplified in scf.if regions](https://discourse.llvm.org/t/affinemap-is-not-simplified-in-scf-if-regions/63152#post_10)
+- [Roadmap of modeling symbolic cast operations](https://discourse.llvm.org/t/roadmap-of-modeling-symbolic-cast-operations/63107#post_9)
 - [LLVM community events calendar](https://discourse.llvm.org/t/llvm-community-events-calendar/63237#post_8)
-- [Using the Alias Analysis Evaluator API](https://discourse.llvm.org/t/using-the-alias-analysis-evaluator-api/63258#post_2)
-- [Supporting coroutines without tail calls](https://discourse.llvm.org/t/supporting-coroutines-without-tail-calls/63249#post_2)
-- [Distance between two operations](https://discourse.llvm.org/t/distance-between-two-operations/61338#post_3)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_11)
 <!-- DISCOURSE-LLVM:END -->
