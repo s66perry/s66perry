@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_3)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_2)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_1)
+- [Order of conversion of operations](https://discourse.llvm.org/t/order-of-conversion-of-operations/63259#post_5)
 - [Order of conversion of operations](https://discourse.llvm.org/t/order-of-conversion-of-operations/63259#post_4)
-- [RFC: Optimisation flags in `flang-new`](https://discourse.llvm.org/t/rfc-optimisation-flags-in-flang-new/62482#post_4)
-- [Mismatch between DFA and Scoreboard](https://discourse.llvm.org/t/mismatch-between-dfa-and-scoreboard/63053#post_4)
-- [Using the Alias Analysis Evaluator API](https://discourse.llvm.org/t/using-the-alias-analysis-evaluator-api/63258#post_4)
-- [Using the Alias Analysis Evaluator API](https://discourse.llvm.org/t/using-the-alias-analysis-evaluator-api/63258#post_3)
 <!-- DISCOURSE-LLVM:END -->
