@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM community events calendar](https://discourse.llvm.org/t/llvm-community-events-calendar/63237#post_8)
+- [Using the Alias Analysis Evaluator API](https://discourse.llvm.org/t/using-the-alias-analysis-evaluator-api/63258#post_2)
+- [Supporting coroutines without tail calls](https://discourse.llvm.org/t/supporting-coroutines-without-tail-calls/63249#post_2)
 - [Distance between two operations](https://discourse.llvm.org/t/distance-between-two-operations/61338#post_3)
 - [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_11)
-- [Order of conversion of operations](https://discourse.llvm.org/t/order-of-conversion-of-operations/63259#post_2)
-- [Transplant Clang 10.0 to replace gcc, assemble files will report error](https://discourse.llvm.org/t/transplant-clang-10-0-to-replace-gcc-assemble-files-will-report-error/63052#post_11)
-- [How to convert mix dialect into one dialect?](https://discourse.llvm.org/t/how-to-convert-mix-dialect-into-one-dialect/63233#post_3)
 <!-- DISCOURSE-LLVM:END -->
