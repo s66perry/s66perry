@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_6)
+- [Emit MLIR from c++/c](https://discourse.llvm.org/t/emit-mlir-from-c-c/63278#post_1)
+- [Using C/C++ with MLIR](https://discourse.llvm.org/t/using-c-c-with-mlir/3374#post_15)
 - [How do we enable diagnostics?](https://discourse.llvm.org/t/how-do-we-enable-diagnostics/63126#post_3)
 - [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_5)
-- [Can a default/zero-initialized empty struct be filled with &quot;arbitrary&quot; bits?](https://discourse.llvm.org/t/can-a-default-zero-initialized-empty-struct-be-filled-with-arbitrary-bits/63191#post_2)
-- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_13)
-- [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_4)
 <!-- DISCOURSE-LLVM:END -->
