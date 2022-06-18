@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_2)
-- [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_1)
-- [[RFC] Re-implement non-trivial SimpleLoopUnswitch with FunctionPass](https://discourse.llvm.org/t/rfc-re-implement-non-trivial-simpleloopunswitch-with-functionpass/62937#post_5)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_12)
-- [Storing the hash of each symbol name instead of the name itself &lpar;mach-o&rpar;](https://discourse.llvm.org/t/storing-the-hash-of-each-symbol-name-instead-of-the-name-itself-mach-o/63007#post_3)
+- [Can a default/zero-initialized empty struct be filled with &quot;arbitrary&quot; bits?](https://discourse.llvm.org/t/can-a-default-zero-initialized-empty-struct-be-filled-with-arbitrary-bits/63191#post_2)
+- [cast&lt;X&gt; is broken, implications, and proposal to address](https://discourse.llvm.org/t/cast-x-is-broken-implications-and-proposal-to-address/63033#post_13)
+- [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_4)
+- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=2#post_35)
+- [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_3)
 <!-- DISCOURSE-LLVM:END -->
