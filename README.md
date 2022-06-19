@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Not sure if my code is running on Intel Xe GPU](https://discourse.llvm.org/t/not-sure-if-my-code-is-running-on-intel-xe-gpu/63282#post_3)
 - [Llvm dialect parse error when indirect call variable-argument function](https://discourse.llvm.org/t/llvm-dialect-parse-error-when-indirect-call-variable-argument-function/63288#post_1)
 - [Where is __builtin_dump_struct implemented?](https://discourse.llvm.org/t/where-is-builtin-dump-struct-implemented/63284#post_2)
 - [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_9)
 - [[RFC] Remove Types](https://discourse.llvm.org/t/rfc-remove-types/63274#post_8)
-- [Where is __builtin_dump_struct implemented?](https://discourse.llvm.org/t/where-is-builtin-dump-struct-implemented/63284#post_1)
 <!-- DISCOURSE-LLVM:END -->
