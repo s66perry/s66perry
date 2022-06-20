@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #442, June 20th 2022](https://discourse.llvm.org/t/llvm-weekly-442-june-20th-2022/63308#post_1)
+- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_18)
 - [Compilation-installation issue related to documentation installation](https://discourse.llvm.org/t/compilation-installation-issue-related-to-documentation-installation/63280#post_2)
 - [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_2)
 - [Emit MLIR from c++/c](https://discourse.llvm.org/t/emit-mlir-from-c-c/63278#post_9)
-- [Emit MLIR from c++/c](https://discourse.llvm.org/t/emit-mlir-from-c-c/63278#post_8)
-- [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_1)
 <!-- DISCOURSE-LLVM:END -->
