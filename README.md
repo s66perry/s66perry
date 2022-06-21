@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_11)
-- [Using linalg to tile opaque operations not representable using affine maps](https://discourse.llvm.org/t/using-linalg-to-tile-opaque-operations-not-representable-using-affine-maps/62998#post_8)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_10)
-- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_18)
-- [Obtaining return address during lowerCall&lpar;&rpar;](https://discourse.llvm.org/t/obtaining-return-address-during-lowercall/63331#post_1)
+- [LinalgOdsGen target causing build-time race conditions that fails build](https://discourse.llvm.org/t/linalgodsgen-target-causing-build-time-race-conditions-that-fails-build/63334#post_2)
+- [Not sure if my code is running on Intel Xe GPU](https://discourse.llvm.org/t/not-sure-if-my-code-is-running-on-intel-xe-gpu/63282#post_9)
+- [LinalgOdsGen target causing build-time race conditions that fails build](https://discourse.llvm.org/t/linalgodsgen-target-causing-build-time-race-conditions-that-fails-build/63334#post_1)
+- [[RFC] PDLL: a new declarative rewrite frontend for MLIR](https://discourse.llvm.org/t/rfc-pdll-a-new-declarative-rewrite-frontend-for-mlir/4798#post_5)
+- [RISCV big endian support](https://discourse.llvm.org/t/riscv-big-endian-support/63326#post_2)
 <!-- DISCOURSE-LLVM:END -->
