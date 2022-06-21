@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_3)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_14)
+- [Compile from source code string](https://discourse.llvm.org/t/compile-from-source-code-string/59596#post_6)
 - [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_4)
 - [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_7)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_6)
-- [Switch from &quot;Apple clang&quot; to &quot;Homebrew clang&quot; in VS code configuration](https://discourse.llvm.org/t/switch-from-apple-clang-to-homebrew-clang-in-vs-code-configuration/63314#post_3)
-- [Switch from &quot;Apple clang&quot; to &quot;Homebrew clang&quot; in VS code configuration](https://discourse.llvm.org/t/switch-from-apple-clang-to-homebrew-clang-in-vs-code-configuration/63314#post_2)
 <!-- DISCOURSE-LLVM:END -->
