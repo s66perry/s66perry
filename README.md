@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_3)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_14)
-- [Compile from source code string](https://discourse.llvm.org/t/compile-from-source-code-string/59596#post_6)
-- [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_4)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_7)
+- [Initial patches for ARM64EC &lpar;Windows 11&rpar; now posted](https://discourse.llvm.org/t/initial-patches-for-arm64ec-windows-11-now-posted/62449#post_3)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_18)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_17)
+- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_5)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_16)
 <!-- DISCOURSE-LLVM:END -->
