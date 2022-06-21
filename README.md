@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISCV big endian support](https://discourse.llvm.org/t/riscv-big-endian-support/63326#post_1)
-- [Initial patches for ARM64EC &lpar;Windows 11&rpar; now posted](https://discourse.llvm.org/t/initial-patches-for-arm64ec-windows-11-now-posted/62449#post_3)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_18)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_17)
-- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_5)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_11)
+- [Using linalg to tile opaque operations not representable using affine maps](https://discourse.llvm.org/t/using-linalg-to-tile-opaque-operations-not-representable-using-affine-maps/62998#post_8)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_10)
+- [Handling version numbers in per-target runtime directories](https://discourse.llvm.org/t/handling-version-numbers-in-per-target-runtime-directories/62717#post_18)
+- [Obtaining return address during lowerCall&lpar;&rpar;](https://discourse.llvm.org/t/obtaining-return-address-during-lowercall/63331#post_1)
 <!-- DISCOURSE-LLVM:END -->
