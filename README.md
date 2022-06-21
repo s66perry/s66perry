@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_3)
-- [Visiting all branches in an if-else statements](https://discourse.llvm.org/t/visiting-all-branches-in-an-if-else-statements/63286#post_2)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_2)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_1)
-- [LLVM Lab will be down for maintenance from 2:30 pm PDT on June 20, 2022](https://discourse.llvm.org/t/llvm-lab-will-be-down-for-maintenance-from-2-30-pm-pdt-on-june-20-2022/63316#post_1)
+- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=2#post_37)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_4)
+- [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_3)
+- [Print MLIR module](https://discourse.llvm.org/t/print-mlir-module/3220#post_8)
+- [Emit MLIR from c++/c](https://discourse.llvm.org/t/emit-mlir-from-c-c/63278#post_11)
 <!-- DISCOURSE-LLVM:END -->
