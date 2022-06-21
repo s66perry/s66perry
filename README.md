@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to pass linker flags to device linking step in OpenMP offloading compilation](https://discourse.llvm.org/t/how-to-pass-linker-flags-to-device-linking-step-in-openmp-offloading-compilation/63029#post_4)
+- [Handling std::vector in target regions](https://discourse.llvm.org/t/handling-std-vector-in-target-regions/63129#post_3)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319#post_12)
+- [LinalgOdsGen target causing build-time race conditions that fails build](https://discourse.llvm.org/t/linalgodsgen-target-causing-build-time-race-conditions-that-fails-build/63334#post_3)
 - [LinalgOdsGen target causing build-time race conditions that fails build](https://discourse.llvm.org/t/linalgodsgen-target-causing-build-time-race-conditions-that-fails-build/63334#post_2)
-- [Not sure if my code is running on Intel Xe GPU](https://discourse.llvm.org/t/not-sure-if-my-code-is-running-on-intel-xe-gpu/63282#post_9)
-- [LinalgOdsGen target causing build-time race conditions that fails build](https://discourse.llvm.org/t/linalgodsgen-target-causing-build-time-race-conditions-that-fails-build/63334#post_1)
-- [[RFC] PDLL: a new declarative rewrite frontend for MLIR](https://discourse.llvm.org/t/rfc-pdll-a-new-declarative-rewrite-frontend-for-mlir/4798#post_5)
-- [RISCV big endian support](https://discourse.llvm.org/t/riscv-big-endian-support/63326#post_2)
 <!-- DISCOURSE-LLVM:END -->
