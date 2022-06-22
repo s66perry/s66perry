@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340#post_9)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=2#post_22)
-- [ExportVerilog simplification for pretty-printing output verilog](https://discourse.llvm.org/t/exportverilog-simplification-for-pretty-printing-output-verilog/63363#post_2)
-- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_13)
-- [Creating clang-tidy linuxkernel-must-use-errs errors](https://discourse.llvm.org/t/creating-clang-tidy-linuxkernel-must-use-errs-errors/63370#post_1)
+- [Why doesn&#39;t -Wuninitialized find what scan-build finds?](https://discourse.llvm.org/t/why-doesnt-wuninitialized-find-what-scan-build-finds/63348#post_5)
+- [[RFC] Addition of S_POGODATA field to PDB for better PGO analysis](https://discourse.llvm.org/t/rfc-addition-of-s-pogodata-field-to-pdb-for-better-pgo-analysis/63066#post_2)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=2#post_29)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=2#post_28)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
