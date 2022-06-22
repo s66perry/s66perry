@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=2#post_33)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_33)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=2#post_32)
 - [Why doesn&#39;t -Wuninitialized find what scan-build finds?](https://discourse.llvm.org/t/why-doesnt-wuninitialized-find-what-scan-build-finds/63348#post_10)
 - [Why doesn&#39;t -Wuninitialized find what scan-build finds?](https://discourse.llvm.org/t/why-doesnt-wuninitialized-find-what-scan-build-finds/63348#post_9)
-- [[RFC] Addition of S_POGODATA field to PDB for better PGO analysis](https://discourse.llvm.org/t/rfc-addition-of-s-pogodata-field-to-pdb-for-better-pgo-analysis/63066#post_4)
-- [Why doesn&#39;t -Wuninitialized find what scan-build finds?](https://discourse.llvm.org/t/why-doesnt-wuninitialized-find-what-scan-build-finds/63348#post_8)
-- [Initial patches for ARM64EC &lpar;Windows 11&rpar; now posted](https://discourse.llvm.org/t/initial-patches-for-arm64ec-windows-11-now-posted/62449#post_4)
 <!-- DISCOURSE-LLVM:END -->
