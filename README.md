@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-extdef-mapping and AST files](https://discourse.llvm.org/t/clang-extdef-mapping-and-ast-files/63367#post_1)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_1)
-- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815#post_4)
-- [ExportVerilog simplification for pretty-printing output verilog](https://discourse.llvm.org/t/exportverilog-simplification-for-pretty-printing-output-verilog/63363#post_1)
-- [Why doesn&#39;t -Wuninitialized find what scan-build finds?](https://discourse.llvm.org/t/why-doesnt-wuninitialized-find-what-scan-build-finds/63348#post_4)
+- [14.0.5-final has been tagged](https://discourse.llvm.org/t/14-0-5-final-has-been-tagged/63119#post_8)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340#post_8)
+- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_6)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340#post_7)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340#post_6)
 <!-- DISCOURSE-LLVM:END -->
