@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_48)
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_6)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_47)
+- [[RFC] Re-implement non-trivial SimpleLoopUnswitch with FunctionPass](https://discourse.llvm.org/t/rfc-re-implement-non-trivial-simpleloopunswitch-with-functionpass/62937#post_6)
 - [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_1)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_46)
-- [[RFC] Stream Dialect](https://discourse.llvm.org/t/rfc-stream-dialect/63028?page=2#post_22)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=3#post_41)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
