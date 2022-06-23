@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Int/long variable results in &quot;poison&quot; when overflow during compile time on riscv32 architecture](https://discourse.llvm.org/t/int-long-variable-results-in-poison-when-overflow-during-compile-time-on-riscv32-architecture/63358#post_3)
+- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_2)
+- [ExportVerilog simplification for pretty-printing output verilog](https://discourse.llvm.org/t/exportverilog-simplification-for-pretty-printing-output-verilog/63363#post_6)
+- [Vector transfers hoisting and memrefs subviews](https://discourse.llvm.org/t/vector-transfers-hoisting-and-memrefs-subviews/63355#post_4)
 - [[RFC] C++17 hardware constructive / destructive interference size](https://discourse.llvm.org/t/rfc-c-17-hardware-constructive-destructive-interference-size/48674?page=2#post_40)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_41)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=2#post_40)
-- [How to tell if a pointer is &quot;this&quot;?](https://discourse.llvm.org/t/how-to-tell-if-a-pointer-is-this/63253#post_4)
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_19)
 <!-- DISCOURSE-LLVM:END -->
