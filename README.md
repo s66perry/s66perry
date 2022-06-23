@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_42)
-- [StringAttr&#39;s StorageUniquer not being initialized on MacOS](https://discourse.llvm.org/t/stringattrs-storageuniquer-not-being-initialized-on-macos/63386#post_4)
-- [Memory region invalidation tracking improvements](https://discourse.llvm.org/t/memory-region-invalidation-tracking-improvements/62432#post_9)
-- [[RFC][DebugInfo][DWARF] .debug_line entry for a callsite of an inlined function](https://discourse.llvm.org/t/rfc-debuginfo-dwarf-debug-line-entry-for-a-callsite-of-an-inlined-function/62984#post_7)
-- [Why doesn&#39;t -Wuninitialized find what scan-build finds?](https://discourse.llvm.org/t/why-doesnt-wuninitialized-find-what-scan-build-finds/63348#post_11)
+- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815#post_6)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_44)
+- [What is the time complexity of machine sink pass?](https://discourse.llvm.org/t/what-is-the-time-complexity-of-machine-sink-pass/63390#post_1)
+- [Initial patches for ARM64EC &lpar;Windows 11&rpar; now posted](https://discourse.llvm.org/t/initial-patches-for-arm64ec-windows-11-now-posted/62449#post_5)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
