@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Int/long variable results in &quot;poison&quot; when overflow during compile time on riscv32 architecture](https://discourse.llvm.org/t/int-long-variable-results-in-poison-when-overflow-during-compile-time-on-riscv32-architecture/63358#post_3)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_2)
-- [ExportVerilog simplification for pretty-printing output verilog](https://discourse.llvm.org/t/exportverilog-simplification-for-pretty-printing-output-verilog/63363#post_6)
-- [Vector transfers hoisting and memrefs subviews](https://discourse.llvm.org/t/vector-transfers-hoisting-and-memrefs-subviews/63355#post_4)
-- [[RFC] C++17 hardware constructive / destructive interference size](https://discourse.llvm.org/t/rfc-c-17-hardware-constructive-destructive-interference-size/48674?page=2#post_40)
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_5)
+- [[Comb][ExportVerilog] Add an operation to swap bits](https://discourse.llvm.org/t/comb-exportverilog-add-an-operation-to-swap-bits/63383#post_1)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_10)
+- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815#post_5)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_9)
 <!-- DISCOURSE-LLVM:END -->
