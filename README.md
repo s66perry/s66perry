@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [ExportVerilog simplification for pretty-printing output verilog](https://discourse.llvm.org/t/exportverilog-simplification-for-pretty-printing-output-verilog/63363#post_8)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_12)
 - [[RFC] Add more powerful pass to set Load/Store alignment](https://discourse.llvm.org/t/rfc-add-more-powerful-pass-to-set-load-store-alignment/63410#post_3)
 - [[RFC] Add more powerful pass to set Load/Store alignment](https://discourse.llvm.org/t/rfc-add-more-powerful-pass-to-set-load-store-alignment/63410#post_2)
 - [[RFC] Add more powerful pass to set Load/Store alignment](https://discourse.llvm.org/t/rfc-add-more-powerful-pass-to-set-load-store-alignment/63410#post_1)
-- [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_6)
-- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_2)
 <!-- DISCOURSE-LLVM:END -->
