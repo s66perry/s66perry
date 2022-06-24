@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Mixing DWARF5 and DWARF4](https://discourse.llvm.org/t/mixing-dwarf5-and-dwarf4/63409#post_4)
-- [RFC: How to inline Fortran inrinsics](https://discourse.llvm.org/t/rfc-how-to-inline-fortran-inrinsics/61761?page=3#post_44)
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340#post_12)
-- [Bazel build with LLVM_ENABLE_ASSERTIONS](https://discourse.llvm.org/t/bazel-build-with-llvm-enable-assertions/63422#post_4)
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340#post_11)
+- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_3)
+- [Polygeist and OpenCL](https://discourse.llvm.org/t/polygeist-and-opencl/63401#post_4)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340#post_13)
+- [Alias analysis API gives different results to opt](https://discourse.llvm.org/t/alias-analysis-api-gives-different-results-to-opt/63397#post_11)
+- [[RFC] Add more powerful pass to set Load/Store alignment](https://discourse.llvm.org/t/rfc-add-more-powerful-pass-to-set-load-store-alignment/63410#post_5)
 <!-- DISCOURSE-LLVM:END -->
