@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_5)
-- [[RFC] Add more powerful pass to set Load/Store alignment](https://discourse.llvm.org/t/rfc-add-more-powerful-pass-to-set-load-store-alignment/63410#post_4)
-- [Polygeist and OpenCL](https://discourse.llvm.org/t/polygeist-and-opencl/63401#post_2)
-- [ExportVerilog simplification for pretty-printing output verilog](https://discourse.llvm.org/t/exportverilog-simplification-for-pretty-printing-output-verilog/63363#post_8)
-- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_12)
+- [[RFC] Remove &quot;bare pointer calling convention&quot;](https://discourse.llvm.org/t/rfc-remove-bare-pointer-calling-convention/63419#post_2)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_5)
+- [Clang-extdef-mapping and AST files](https://discourse.llvm.org/t/clang-extdef-mapping-and-ast-files/63367#post_2)
+- [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_6)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
