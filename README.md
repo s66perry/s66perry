@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_7)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=3#post_56)
+- [WiCT June 30th Virtual Meetup Featuring Angélica Moreira](https://discourse.llvm.org/t/wict-june-30th-virtual-meetup-featuring-angelica-moreira/63437#post_1)
 - [MLIR and different views](https://discourse.llvm.org/t/mlir-and-different-views/63436#post_1)
 - [Cannot pass __device__ function as template parameter in CUDA?](https://discourse.llvm.org/t/cannot-pass-device-function-as-template-parameter-in-cuda/63435#post_1)
-- [14.0.6-final has been tagged](https://discourse.llvm.org/t/14-0-6-final-has-been-tagged/63432#post_1)
-- [LLVM 14.0.6 Release](https://discourse.llvm.org/t/llvm-14-0-6-release/63431#post_1)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_3)
 <!-- DISCOURSE-LLVM:END -->
