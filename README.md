@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Compare gnu with clang](https://discourse.llvm.org/t/compare-gnu-with-clang/63349#post_2)
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_37)
-- [Working out source ranges for expressions involving macros](https://discourse.llvm.org/t/working-out-source-ranges-for-expressions-involving-macros/63469#post_1)
-- [Mlgo meeting July 1st: cancelling](https://discourse.llvm.org/t/mlgo-meeting-july-1st-cancelling/63468#post_1)
-- [Cannot pass __device__ function as template parameter in CUDA?](https://discourse.llvm.org/t/cannot-pass-device-function-as-template-parameter-in-cuda/63435#post_2)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_38)
+- [LLVM Weekly - #443, June 27th 2022](https://discourse.llvm.org/t/llvm-weekly-443-june-27th-2022/63471#post_1)
+- [LLVM community events calendar](https://discourse.llvm.org/t/llvm-community-events-calendar/63237#post_10)
+- [How to tell if a pointer is &quot;this&quot;?](https://discourse.llvm.org/t/how-to-tell-if-a-pointer-is-this/63253#post_5)
+- [Error: type mismatch for bb argument #0 of successor #0](https://discourse.llvm.org/t/error-type-mismatch-for-bb-argument-0-of-successor-0/63470#post_1)
 <!-- DISCOURSE-LLVM:END -->
