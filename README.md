@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR and different views](https://discourse.llvm.org/t/mlir-and-different-views/63436#post_3)
+- [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_9)
+- [How to pass linker flags to device linking step in OpenMP offloading compilation](https://discourse.llvm.org/t/how-to-pass-linker-flags-to-device-linking-step-in-openmp-offloading-compilation/63029#post_5)
 - [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_5)
 - [RISCV big endian support](https://discourse.llvm.org/t/riscv-big-endian-support/63326#post_5)
-- [Linking function from another module: undefined reference to xxx](https://discourse.llvm.org/t/linking-function-from-another-module-undefined-reference-to-xxx/63444#post_3)
-- [How to build libc++, libunwind independent of libgcc_s.so &lpar;use compiler-rt builtins, atomics&rpar;?](https://discourse.llvm.org/t/how-to-build-libc-libunwind-independent-of-libgcc-s-so-use-compiler-rt-builtins-atomics/63141#post_3)
-- [Linking function from another module: undefined reference to xxx](https://discourse.llvm.org/t/linking-function-from-another-module-undefined-reference-to-xxx/63444#post_2)
 <!-- DISCOURSE-LLVM:END -->
