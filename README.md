@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_38)
-- [LLVM Weekly - #443, June 27th 2022](https://discourse.llvm.org/t/llvm-weekly-443-june-27th-2022/63471#post_1)
-- [LLVM community events calendar](https://discourse.llvm.org/t/llvm-community-events-calendar/63237#post_10)
-- [How to tell if a pointer is &quot;this&quot;?](https://discourse.llvm.org/t/how-to-tell-if-a-pointer-is-this/63253#post_5)
-- [Error: type mismatch for bb argument #0 of successor #0](https://discourse.llvm.org/t/error-type-mismatch-for-bb-argument-0-of-successor-0/63470#post_1)
+- [Multiple Flang frontend actions](https://discourse.llvm.org/t/multiple-flang-frontend-actions/63474#post_1)
+- [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_7)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_39)
+- [LLVM lab could be unavailable today starting at 1:00 pm PDT today](https://discourse.llvm.org/t/llvm-lab-could-be-unavailable-today-starting-at-1-00-pm-pdt-today/63472#post_1)
+- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_6)
 <!-- DISCOURSE-LLVM:END -->
