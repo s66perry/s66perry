@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Social Cambridge, UK: Call For Participation](https://discourse.llvm.org/t/llvm-social-cambridge-uk-call-for-participation/63452#post_1)
-- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_1)
-- [#pragma omp target teams architecture](https://discourse.llvm.org/t/pragma-omp-target-teams-architecture/63450#post_1)
-- [MLIR and different views](https://discourse.llvm.org/t/mlir-and-different-views/63436#post_3)
-- [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_9)
+- [Alias analysis API gives different results to opt](https://discourse.llvm.org/t/alias-analysis-api-gives-different-results-to-opt/63397#post_12)
+- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_2)
+- [The LLVM libc++ as a device C++ run time library](https://discourse.llvm.org/t/the-llvm-libc-as-a-device-c-run-time-library/63439#post_4)
+- [[RFC] Control-Depent Function Returns and Redefining Control Dependencies](https://discourse.llvm.org/t/rfc-control-depent-function-returns-and-redefining-control-dependencies/63203#post_5)
+- [14.0.6-final has been tagged](https://discourse.llvm.org/t/14-0-6-final-has-been-tagged/63432#post_3)
 <!-- DISCOURSE-LLVM:END -->
