@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_30)
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_29)
-- [Clang-extdef-mapping and AST files](https://discourse.llvm.org/t/clang-extdef-mapping-and-ast-files/63367#post_3)
-- [#pragma omp target teams architecture](https://discourse.llvm.org/t/pragma-omp-target-teams-architecture/63450#post_2)
-- [[RFC] Control-Depent Function Returns and Redefining Control Dependencies](https://discourse.llvm.org/t/rfc-control-depent-function-returns-and-redefining-control-dependencies/63203#post_7)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_35)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_34)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_33)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_32)
+- [Accessing the command line from an opt plugin?](https://discourse.llvm.org/t/accessing-the-command-line-from-an-opt-plugin/63427#post_4)
 <!-- DISCOURSE-LLVM:END -->
