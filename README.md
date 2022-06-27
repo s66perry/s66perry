@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Social Cambridge, UK: Call For Participation](https://discourse.llvm.org/t/llvm-social-cambridge-uk-call-for-participation/63452#post_1)
+- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_1)
+- [#pragma omp target teams architecture](https://discourse.llvm.org/t/pragma-omp-target-teams-architecture/63450#post_1)
 - [MLIR and different views](https://discourse.llvm.org/t/mlir-and-different-views/63436#post_3)
 - [Constant memref](https://discourse.llvm.org/t/constant-memref/63307#post_9)
-- [How to pass linker flags to device linking step in OpenMP offloading compilation](https://discourse.llvm.org/t/how-to-pass-linker-flags-to-device-linking-step-in-openmp-offloading-compilation/63029#post_5)
-- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_5)
-- [RISCV big endian support](https://discourse.llvm.org/t/riscv-big-endian-support/63326#post_5)
 <!-- DISCOURSE-LLVM:END -->
