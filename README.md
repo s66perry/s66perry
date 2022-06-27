@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to get IfStmt for branch condition being checked in Clang Static Analyzer](https://discourse.llvm.org/t/how-to-get-ifstmt-for-branch-condition-being-checked-in-clang-static-analyzer/63457#post_2)
-- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_4)
-- [Running passes in a loop](https://discourse.llvm.org/t/running-passes-in-a-loop/63459#post_2)
-- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_3)
-- [Alias analysis API gives different results to opt](https://discourse.llvm.org/t/alias-analysis-api-gives-different-results-to-opt/63397#post_12)
+- [Load Widening in IR](https://discourse.llvm.org/t/load-widening-in-ir/61952#post_16)
+- [Accessing the command line from an opt plugin?](https://discourse.llvm.org/t/accessing-the-command-line-from-an-opt-plugin/63427#post_2)
+- [Alias analysis API gives different results to opt](https://discourse.llvm.org/t/alias-analysis-api-gives-different-results-to-opt/63397#post_13)
+- [How to build libc++, libunwind independent of libgcc_s.so &lpar;use compiler-rt builtins, atomics&rpar;?](https://discourse.llvm.org/t/how-to-build-libc-libunwind-independent-of-libgcc-s-so-use-compiler-rt-builtins-atomics/63141#post_4)
+- [Semantics of COPY instructions &lpar;Specifically, in LICM&rpar;](https://discourse.llvm.org/t/semantics-of-copy-instructions-specifically-in-licm/63040#post_4)
 <!-- DISCOURSE-LLVM:END -->
