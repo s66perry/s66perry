@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Re-implement non-trivial SimpleLoopUnswitch with FunctionPass](https://discourse.llvm.org/t/rfc-re-implement-non-trivial-simpleloopunswitch-with-functionpass/62937#post_10)
-- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_10)
-- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_9)
-- [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_12)
-- [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_11)
+- [[RFC] Re-implement non-trivial SimpleLoopUnswitch with FunctionPass](https://discourse.llvm.org/t/rfc-re-implement-non-trivial-simpleloopunswitch-with-functionpass/62937#post_11)
+- [Accessing the command line from an opt plugin?](https://discourse.llvm.org/t/accessing-the-command-line-from-an-opt-plugin/63427#post_5)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_66)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639#post_12)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_65)
 <!-- DISCOURSE-LLVM:END -->
