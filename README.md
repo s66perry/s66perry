@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM dialect: replacing malloc and free with custom functions](https://discourse.llvm.org/t/llvm-dialect-replacing-malloc-and-free-with-custom-functions/63481#post_1)
-- [#pragma omp target teams architecture](https://discourse.llvm.org/t/pragma-omp-target-teams-architecture/63450#post_3)
-- [Windows and linux shared library](https://discourse.llvm.org/t/windows-and-linux-shared-library/63480#post_1)
-- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639#post_13)
-- [Clang-extdef-mapping and AST files](https://discourse.llvm.org/t/clang-extdef-mapping-and-ast-files/63367#post_4)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=3#post_41)
+- [LLVM Social Cambridge, UK: Call For Participation](https://discourse.llvm.org/t/llvm-social-cambridge-uk-call-for-participation/63452#post_2)
+- [Cannot pass __device__ function as template parameter in CUDA?](https://discourse.llvm.org/t/cannot-pass-device-function-as-template-parameter-in-cuda/63435#post_3)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_13)
+- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_5)
 <!-- DISCOURSE-LLVM:END -->
