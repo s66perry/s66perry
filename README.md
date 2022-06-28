@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_70)
-- [LLVM lab could be unavailable today starting at 1:00 pm PDT today](https://discourse.llvm.org/t/llvm-lab-could-be-unavailable-today-starting-at-1-00-pm-pdt-today/63472#post_3)
-- [Cannot pass __device__ function as template parameter in CUDA?](https://discourse.llvm.org/t/cannot-pass-device-function-as-template-parameter-in-cuda/63435#post_4)
-- [Template parameter lookup order error](https://discourse.llvm.org/t/template-parameter-lookup-order-error/63490#post_1)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_69)
+- [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_13)
+- [LLVM lab could be unavailable today starting at 1:00 pm PDT today](https://discourse.llvm.org/t/llvm-lab-could-be-unavailable-today-starting-at-1-00-pm-pdt-today/63472#post_4)
+- [[RFC] Re-implement non-trivial SimpleLoopUnswitch with FunctionPass](https://discourse.llvm.org/t/rfc-re-implement-non-trivial-simpleloopunswitch-with-functionpass/62937#post_12)
+- [14.0.6-final has been tagged](https://discourse.llvm.org/t/14-0-6-final-has-been-tagged/63432#post_5)
+- [Loop Opt WG Meeting on June 29, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-june-29-2022/63492#post_1)
 <!-- DISCOURSE-LLVM:END -->
