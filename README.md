@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introduce a new Dense Array attribute](https://discourse.llvm.org/t/rfc-introduce-a-new-dense-array-attribute/63279#post_8)
+- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_8)
+- [Multiple Flang frontend actions](https://discourse.llvm.org/t/multiple-flang-frontend-actions/63474#post_5)
+- [Alias analysis API gives different results to opt](https://discourse.llvm.org/t/alias-analysis-api-gives-different-results-to-opt/63397#post_15)
 - [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=3#post_41)
-- [LLVM Social Cambridge, UK: Call For Participation](https://discourse.llvm.org/t/llvm-social-cambridge-uk-call-for-participation/63452#post_2)
-- [Cannot pass __device__ function as template parameter in CUDA?](https://discourse.llvm.org/t/cannot-pass-device-function-as-template-parameter-in-cuda/63435#post_3)
-- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_13)
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_5)
 <!-- DISCOURSE-LLVM:END -->
