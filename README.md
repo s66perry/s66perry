@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM dialect: replacing malloc and free with custom functions](https://discourse.llvm.org/t/llvm-dialect-replacing-malloc-and-free-with-custom-functions/63481#post_1)
+- [#pragma omp target teams architecture](https://discourse.llvm.org/t/pragma-omp-target-teams-architecture/63450#post_3)
+- [Windows and linux shared library](https://discourse.llvm.org/t/windows-and-linux-shared-library/63480#post_1)
 - [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639#post_13)
 - [Clang-extdef-mapping and AST files](https://discourse.llvm.org/t/clang-extdef-mapping-and-ast-files/63367#post_4)
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=2#post_40)
-- [Error: type mismatch for bb argument #0 of successor #0](https://discourse.llvm.org/t/error-type-mismatch-for-bb-argument-0-of-successor-0/63470#post_3)
-- [RISC-V LLVM sync-up call 12th May 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-12th-may-2022/62453#post_2)
 <!-- DISCOURSE-LLVM:END -->
