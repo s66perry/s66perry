@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=3#post_42)
-- [ORC JIT - Issue with variadic functions &lpar;OS X - M1&rpar;](https://discourse.llvm.org/t/orc-jit-issue-with-variadic-functions-os-x-m1/63487#post_3)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_67)
-- [LLVM Social Cambridge, UK: Call For Participation](https://discourse.llvm.org/t/llvm-social-cambridge-uk-call-for-participation/63452#post_3)
-- [Global ISel for DBG_VALUE](https://discourse.llvm.org/t/global-isel-for-dbg-value/63488#post_1)
+- [LinalgOdsGen target causing build-time race conditions that fails build](https://discourse.llvm.org/t/linalgodsgen-target-causing-build-time-race-conditions-that-fails-build/63334#post_16)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_16)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339#post_15)
+- [Optimization remarks and LTO](https://discourse.llvm.org/t/optimization-remarks-and-lto/62929#post_3)
+- [Working out source ranges for expressions involving macros](https://discourse.llvm.org/t/working-out-source-ranges-for-expressions-involving-macros/63469#post_2)
 <!-- DISCOURSE-LLVM:END -->
