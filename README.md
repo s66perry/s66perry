@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [#pragma omp target teams architecture](https://discourse.llvm.org/t/pragma-omp-target-teams-architecture/63450#post_4)
-- [ORC JIT - Issue with variadic functions &lpar;OS X - M1&rpar;](https://discourse.llvm.org/t/orc-jit-issue-with-variadic-functions-os-x-m1/63487#post_2)
-- [MLIR and different views](https://discourse.llvm.org/t/mlir-and-different-views/63436#post_5)
-- [ORC JIT - Issue with variadic functions &lpar;OS X - M1&rpar;](https://discourse.llvm.org/t/orc-jit-issue-with-variadic-functions-os-x-m1/63487#post_1)
-- [LLVM dialect: replacing malloc and free with custom functions](https://discourse.llvm.org/t/llvm-dialect-replacing-malloc-and-free-with-custom-functions/63481#post_3)
+- [[RFC] A DataFlow Analysis Framework](https://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340?page=3#post_42)
+- [ORC JIT - Issue with variadic functions &lpar;OS X - M1&rpar;](https://discourse.llvm.org/t/orc-jit-issue-with-variadic-functions-os-x-m1/63487#post_3)
+- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_67)
+- [LLVM Social Cambridge, UK: Call For Participation](https://discourse.llvm.org/t/llvm-social-cambridge-uk-call-for-participation/63452#post_3)
+- [Global ISel for DBG_VALUE](https://discourse.llvm.org/t/global-isel-for-dbg-value/63488#post_1)
 <!-- DISCOURSE-LLVM:END -->
