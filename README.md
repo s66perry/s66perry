@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Disable clang-format in the clang/test tree](https://discourse.llvm.org/t/rfc-disable-clang-format-in-the-clang-test-tree/63498#post_1)
-- [LLVM 15.0.0 Release Schedule](https://discourse.llvm.org/t/llvm-15-0-0-release-schedule/63495#post_2)
-- [LLVM 14 Release Retrospective](https://discourse.llvm.org/t/llvm-14-release-retrospective/63496#post_2)
-- [MLIR module verification error in the affine for loop](https://discourse.llvm.org/t/mlir-module-verification-error-in-the-affine-for-loop/63451#post_9)
-- [LLVM 14 Release Retrospective](https://discourse.llvm.org/t/llvm-14-release-retrospective/63496#post_1)
+- [Global ISel for DBG_VALUE](https://discourse.llvm.org/t/global-isel-for-dbg-value/63488#post_3)
+- [The LLVM libc++ as a device C++ run time library](https://discourse.llvm.org/t/the-llvm-libc-as-a-device-c-run-time-library/63439#post_7)
+- [LLVM dialect: replacing malloc and free with custom functions](https://discourse.llvm.org/t/llvm-dialect-replacing-malloc-and-free-with-custom-functions/63481#post_4)
+- [14.0.6-final has been tagged](https://discourse.llvm.org/t/14-0-6-final-has-been-tagged/63432#post_6)
+- [LLVM 15.0.0 Release Schedule](https://discourse.llvm.org/t/llvm-15-0-0-release-schedule/63495#post_3)
 <!-- DISCOURSE-LLVM:END -->
