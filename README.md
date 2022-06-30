@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Serialization llvm IR](https://discourse.llvm.org/t/serialization-llvm-ir/63529#post_1)
-- [Accidentally deleting posts in Discourse](https://discourse.llvm.org/t/accidentally-deleting-posts-in-discourse/63528#post_2)
-- [Accidentally deleting posts in Discourse](https://discourse.llvm.org/t/accidentally-deleting-posts-in-discourse/63528#post_1)
-- [Libfuzzer with -fork mode and -ignore_crashes=1. Is ctrl-c not working expected behaviour?](https://discourse.llvm.org/t/libfuzzer-with-fork-mode-and-ignore-crashes-1-is-ctrl-c-not-working-expected-behaviour/63526#post_1)
-- [Llvm-libc and embedded systems &lpar;follow up from LLVM Embedded Toolchains Working Group&rpar;](https://discourse.llvm.org/t/llvm-libc-and-embedded-systems-follow-up-from-llvm-embedded-toolchains-working-group/63509#post_7)
+- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_7)
+- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_6)
+- [Some API test failures are really opaque/could be improved](https://discourse.llvm.org/t/some-api-test-failures-are-really-opaque-could-be-improved/59108?page=2#post_21)
+- [Multiple Flang frontend actions](https://discourse.llvm.org/t/multiple-flang-frontend-actions/63474#post_6)
+- [Some API test failures are really opaque/could be improved](https://discourse.llvm.org/t/some-api-test-failures-are-really-opaque-could-be-improved/59108#post_20)
 <!-- DISCOURSE-LLVM:END -->
