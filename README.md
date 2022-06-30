@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_14)
-- [BOLT Open Projects](https://discourse.llvm.org/t/bolt-open-projects/61857#post_5)
-- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_18)
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_7)
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_6)
+- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_9)
+- [Some API test failures are really opaque/could be improved](https://discourse.llvm.org/t/some-api-test-failures-are-really-opaque-could-be-improved/59108?page=2#post_22)
+- [Error: type mismatch for bb argument #0 of successor #0](https://discourse.llvm.org/t/error-type-mismatch-for-bb-argument-0-of-successor-0/63470#post_6)
+- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_8)
+- [Incorrect RecMII Calculations in MachinePipeliner](https://discourse.llvm.org/t/incorrect-recmii-calculations-in-machinepipeliner/63531#post_1)
 <!-- DISCOURSE-LLVM:END -->
