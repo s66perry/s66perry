@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_14)
+- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_13)
+- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_12)
+- [Problems with Mach-O address significance table generation](https://discourse.llvm.org/t/problems-with-mach-o-address-significance-table-generation/63392#post_17)
 - [[RFC] Don&#39;t use strings for the &quot;ugly&quot;/&quot;generic&quot; form of Attributes/Types](https://discourse.llvm.org/t/rfc-dont-use-strings-for-the-ugly-generic-form-of-attributes-types/63537#post_5)
-- [Multiple Flang frontend actions](https://discourse.llvm.org/t/multiple-flang-frontend-actions/63474#post_7)
-- [[RFC] Don&#39;t use strings for the &quot;ugly&quot;/&quot;generic&quot; form of Attributes/Types](https://discourse.llvm.org/t/rfc-dont-use-strings-for-the-ugly-generic-form-of-attributes-types/63537#post_4)
-- [[RFC] Don&#39;t use strings for the &quot;ugly&quot;/&quot;generic&quot; form of Attributes/Types](https://discourse.llvm.org/t/rfc-dont-use-strings-for-the-ugly-generic-form-of-attributes-types/63537#post_3)
-- [Lazification of Function Arguments](https://discourse.llvm.org/t/lazification-of-function-arguments/63557#post_1)
 <!-- DISCOURSE-LLVM:END -->
