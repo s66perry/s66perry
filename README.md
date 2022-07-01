@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Don&#39;t use strings for the &quot;ugly&quot;/&quot;generic&quot; form of Attributes/Types](https://discourse.llvm.org/t/rfc-dont-use-strings-for-the-ugly-generic-form-of-attributes-types/63537#post_5)
 - [Multiple Flang frontend actions](https://discourse.llvm.org/t/multiple-flang-frontend-actions/63474#post_7)
 - [[RFC] Don&#39;t use strings for the &quot;ugly&quot;/&quot;generic&quot; form of Attributes/Types](https://discourse.llvm.org/t/rfc-dont-use-strings-for-the-ugly-generic-form-of-attributes-types/63537#post_4)
 - [[RFC] Don&#39;t use strings for the &quot;ugly&quot;/&quot;generic&quot; form of Attributes/Types](https://discourse.llvm.org/t/rfc-dont-use-strings-for-the-ugly-generic-form-of-attributes-types/63537#post_3)
 - [Lazification of Function Arguments](https://discourse.llvm.org/t/lazification-of-function-arguments/63557#post_1)
-- [Simple toy Dialect error: ‘DenseElementsAttr’ has not been declared](https://discourse.llvm.org/t/simple-toy-dialect-error-denseelementsattr-has-not-been-declared/63550#post_3)
 <!-- DISCOURSE-LLVM:END -->
