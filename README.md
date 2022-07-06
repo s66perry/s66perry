@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_4)
-- [Installation of LLVM 2.2](https://discourse.llvm.org/t/installation-of-llvm-2-2/63616#post_3)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_23)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_22)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_21)
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_16)
+- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562#post_17)
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_15)
+- [[RFC] A compiler flag to enable experimental/unstable language and library features](https://discourse.llvm.org/t/rfc-a-compiler-flag-to-enable-experimental-unstable-language-and-library-features/63609#post_5)
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_14)
 <!-- DISCOURSE-LLVM:END -->
