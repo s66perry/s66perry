@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_17)
-- [Help working around an LLVM 14 regression: __muloti4 is getting optimized to call itself!](https://discourse.llvm.org/t/help-working-around-an-llvm-14-regression-muloti4-is-getting-optimized-to-call-itself/63615#post_2)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_2)
-- [[RFC] A compiler flag to enable experimental/unstable language and library features](https://discourse.llvm.org/t/rfc-a-compiler-flag-to-enable-experimental-unstable-language-and-library-features/63609#post_8)
-- [Board Meeting Minutes - May 2022](https://discourse.llvm.org/t/board-meeting-minutes-may-2022/63628#post_1)
+- [Dealing with invalid arguments in intrinsics](https://discourse.llvm.org/t/dealing-with-invalid-arguments-in-intrinsics/63630#post_1)
+- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_3)
+- [Multiple Flang frontend actions](https://discourse.llvm.org/t/multiple-flang-frontend-actions/63474#post_8)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_12)
+- [BOLT Open Projects](https://discourse.llvm.org/t/bolt-open-projects/61857#post_7)
 <!-- DISCOURSE-LLVM:END -->
