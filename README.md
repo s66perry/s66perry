@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_8)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_7)
-- [[RFC] A compiler flag to enable experimental/unstable language and library features](https://discourse.llvm.org/t/rfc-a-compiler-flag-to-enable-experimental-unstable-language-and-library-features/63609#post_6)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_6)
-- [Converting abstract results of functions inside `fir::GlobalOp`](https://discourse.llvm.org/t/converting-abstract-results-of-functions-inside-fir-globalop/63623#post_1)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_29)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_28)
+- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_16)
+- [Custom intrinsic with implicit register usage fails to find proper register class in tablegen](https://discourse.llvm.org/t/custom-intrinsic-with-implicit-register-usage-fails-to-find-proper-register-class-in-tablegen/63619#post_2)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_9)
 <!-- DISCOURSE-LLVM:END -->
