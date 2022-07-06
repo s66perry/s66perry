@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_4)
 - [Installation of LLVM 2.2](https://discourse.llvm.org/t/installation-of-llvm-2-2/63616#post_3)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_23)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_22)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_21)
-- [Lowering a non-branch instruction with a label](https://discourse.llvm.org/t/lowering-a-non-branch-instruction-with-a-label/63595#post_3)
 <!-- DISCOURSE-LLVM:END -->
