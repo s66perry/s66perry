@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A compiler flag to enable experimental/unstable language and library features](https://discourse.llvm.org/t/rfc-a-compiler-flag-to-enable-experimental-unstable-language-and-library-features/63609#post_4)
-- [Fast scalar fsqrt tuning in x86](https://discourse.llvm.org/t/fast-scalar-fsqrt-tuning-in-x86/63605#post_6)
-- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562#post_15)
-- [Fast scalar fsqrt tuning in x86](https://discourse.llvm.org/t/fast-scalar-fsqrt-tuning-in-x86/63605#post_5)
-- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562#post_14)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567#post_20)
+- [Help working around an LLVM 14 regression: __muloti4 is getting optimized to call itself!](https://discourse.llvm.org/t/help-working-around-an-llvm-14-regression-muloti4-is-getting-optimized-to-call-itself/63615#post_1)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567#post_19)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567#post_18)
+- [Making LLVM play nice&lpar;r&rpar; when used as a shared library in a plugin setting](https://discourse.llvm.org/t/making-llvm-play-nice-r-when-used-as-a-shared-library-in-a-plugin-setting/63306#post_11)
 <!-- DISCOURSE-LLVM:END -->
