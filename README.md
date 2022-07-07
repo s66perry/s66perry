@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RISC-V LLVM sync-up call 7th July 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-7th-july-2022/63644#post_1)
+- [NVIDIA transition from fir-dev](https://discourse.llvm.org/t/nvidia-transition-from-fir-dev/61947#post_7)
+- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170#post_12)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_33)
 - [NVIDIA transition from fir-dev](https://discourse.llvm.org/t/nvidia-transition-from-fir-dev/61947#post_6)
-- [How to get access modifiers in same line](https://discourse.llvm.org/t/how-to-get-access-modifiers-in-same-line/63641#post_1)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_32)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
