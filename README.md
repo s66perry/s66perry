@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_32)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_31)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon July 11 &#39;22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-july-11-22-6pm/63193#post_3)
 - [[Asia-Friendly Developer Hour] MHLO support!](https://discourse.llvm.org/t/asia-friendly-developer-hour-mhlo-support/63625#post_2)
 - [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_30)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
