@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unexplained memory regions on Windows](https://discourse.llvm.org/t/unexplained-memory-regions-on-windows/62662#post_4)
-- [NVIDIA transition from fir-dev](https://discourse.llvm.org/t/nvidia-transition-from-fir-dev/61947#post_9)
-- [NVIDIA transition from fir-dev](https://discourse.llvm.org/t/nvidia-transition-from-fir-dev/61947#post_8)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179#post_20)
-- [Build_llvm_release.bat script options](https://discourse.llvm.org/t/build-llvm-release-bat-script-options/63146#post_8)
+- [Combining multiple MemoryOperands referencing adjacent memory into one](https://discourse.llvm.org/t/combining-multiple-memoryoperands-referencing-adjacent-memory-into-one/63654#post_1)
+- [Could index type be converted to the right type of index of affine load op](https://discourse.llvm.org/t/could-index-type-be-converted-to-the-right-type-of-index-of-affine-load-op/63653#post_1)
+- [Changing global variables in MachineFunctionPass](https://discourse.llvm.org/t/changing-global-variables-in-machinefunctionpass/63584#post_3)
+- [Block folders and canonicalizers when operations have metadata](https://discourse.llvm.org/t/block-folders-and-canonicalizers-when-operations-have-metadata/63652#post_1)
+- [Obtaining return address during lowerCall&lpar;&rpar;](https://discourse.llvm.org/t/obtaining-return-address-during-lowercall/63331#post_3)
 <!-- DISCOURSE-LLVM:END -->
