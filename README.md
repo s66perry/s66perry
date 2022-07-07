@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Dogfood part1: The problem](https://discourse.llvm.org/t/dogfood-part1-the-problem/63663#post_1)
-- [Long compile-time cause by memory instructions with multiple machine memory operands](https://discourse.llvm.org/t/long-compile-time-cause-by-memory-instructions-with-multiple-machine-memory-operands/63659#post_2)
-- [FPGA development for a newbie?](https://discourse.llvm.org/t/fpga-development-for-a-newbie/63311#post_4)
-- [FPGA development for a newbie?](https://discourse.llvm.org/t/fpga-development-for-a-newbie/63311#post_3)
-- [Split large basic blocks](https://discourse.llvm.org/t/split-large-basic-blocks/63578#post_6)
+- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562#post_19)
+- [Dogfood part2: breaking the dependency](https://discourse.llvm.org/t/dogfood-part2-breaking-the-dependency/63664#post_1)
+- [Could index type be converted to the right type of index of affine load op](https://discourse.llvm.org/t/could-index-type-be-converted-to-the-right-type-of-index-of-affine-load-op/63653#post_2)
+- [Calling lowered MLIR function from C++](https://discourse.llvm.org/t/calling-lowered-mlir-function-from-c/63633#post_3)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_36)
 <!-- DISCOURSE-LLVM:END -->
