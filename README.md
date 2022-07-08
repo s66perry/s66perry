@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM_ENABLE_MODULES for MLIR](https://discourse.llvm.org/t/llvm-enable-modules-for-mlir/63669#post_3)
-- [LLVM_ENABLE_MODULES for MLIR](https://discourse.llvm.org/t/llvm-enable-modules-for-mlir/63669#post_2)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_5)
-- [Llvm-libc and embedded systems &lpar;follow up from LLVM Embedded Toolchains Working Group&rpar;](https://discourse.llvm.org/t/llvm-libc-and-embedded-systems-follow-up-from-llvm-embedded-toolchains-working-group/63509#post_11)
-- [GLOBAL hidden symbols handling in LLD](https://discourse.llvm.org/t/global-hidden-symbols-handling-in-lld/63666#post_2)
+- [[insn schedule] Is it reasonable to issue the load instruction preferentially](https://discourse.llvm.org/t/insn-schedule-is-it-reasonable-to-issue-the-load-instruction-preferentially/63674#post_1)
+- [Could index type be converted to the right type of index of affine load op](https://discourse.llvm.org/t/could-index-type-be-converted-to-the-right-type-of-index-of-affine-load-op/63653#post_4)
+- [Could index type be converted to the right type of index of affine load op](https://discourse.llvm.org/t/could-index-type-be-converted-to-the-right-type-of-index-of-affine-load-op/63653#post_3)
+- [-Wshadow option in clang-tidy?](https://discourse.llvm.org/t/wshadow-option-in-clang-tidy/63673#post_1)
+- [[Asia-Friendly Developer Hour] MHLO support!](https://discourse.llvm.org/t/asia-friendly-developer-hour-mhlo-support/63625#post_3)
 <!-- DISCOURSE-LLVM:END -->
