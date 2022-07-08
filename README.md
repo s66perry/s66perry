@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [NVIDIA transition from fir-dev](https://discourse.llvm.org/t/nvidia-transition-from-fir-dev/61947#post_10)
-- [Dogfood part1: The problem](https://discourse.llvm.org/t/dogfood-part1-the-problem/63663#post_5)
-- [Dogfood part3: native libc++](https://discourse.llvm.org/t/dogfood-part3-native-libc/63680#post_1)
-- [Dogfood part1: The problem](https://discourse.llvm.org/t/dogfood-part1-the-problem/63663#post_4)
-- [Potential bug in MachineVerifier::checkLiveness&lpar;&rpar;](https://discourse.llvm.org/t/potential-bug-in-machineverifier-checkliveness/63676#post_2)
+- [Dogfood part 4: native compiler-rt](https://discourse.llvm.org/t/dogfood-part-4-native-compiler-rt/63683#post_1)
+- [Llvm-libc and embedded systems &lpar;follow up from LLVM Embedded Toolchains Working Group&rpar;](https://discourse.llvm.org/t/llvm-libc-and-embedded-systems-follow-up-from-llvm-embedded-toolchains-working-group/63509#post_12)
+- [LLVM IR after mem2reg optimisation](https://discourse.llvm.org/t/llvm-ir-after-mem2reg-optimisation/63682#post_2)
+- [LLVM IR after mem2reg optimisation](https://discourse.llvm.org/t/llvm-ir-after-mem2reg-optimisation/63682#post_1)
+- [Could index type be converted to the right type of index of affine load op](https://discourse.llvm.org/t/could-index-type-be-converted-to-the-right-type-of-index-of-affine-load-op/63653#post_5)
 <!-- DISCOURSE-LLVM:END -->
