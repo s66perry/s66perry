@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Combining multiple MemoryOperands referencing adjacent memory into one](https://discourse.llvm.org/t/combining-multiple-memoryoperands-referencing-adjacent-memory-into-one/63654#post_2)
+- [Obtaining return address during lowerCall&lpar;&rpar;](https://discourse.llvm.org/t/obtaining-return-address-during-lowercall/63331#post_5)
+- [Building libomp + libomptarget for riscv32](https://discourse.llvm.org/t/building-libomp-libomptarget-for-riscv32/63687#post_1)
+- [Compare gnu with clang](https://discourse.llvm.org/t/compare-gnu-with-clang/63349#post_3)
 - [[RFC] Disable clang-format in the clang/test tree](https://discourse.llvm.org/t/rfc-disable-clang-format-in-the-clang-test-tree/63498#post_6)
-- [Status of libc++ Windows support](https://discourse.llvm.org/t/status-of-libc-windows-support/63686#post_1)
-- [NVIDIA transition from fir-dev](https://discourse.llvm.org/t/nvidia-transition-from-fir-dev/61947#post_11)
-- [LLVM function argument analysis](https://discourse.llvm.org/t/llvm-function-argument-analysis/63685#post_1)
-- [Affine.load op index must be a dimension or symbol identifier](https://discourse.llvm.org/t/affine-load-op-index-must-be-a-dimension-or-symbol-identifier/63647#post_4)
 <!-- DISCOURSE-LLVM:END -->
