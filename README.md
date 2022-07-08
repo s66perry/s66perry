@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dogfood summary](https://discourse.llvm.org/t/dogfood-summary/63688#post_1)
+- [LLVM function argument analysis](https://discourse.llvm.org/t/llvm-function-argument-analysis/63685#post_2)
+- [[RFC] Adding a new Machine Operand type to implement variadic DBG_INSTR_REF instructions](https://discourse.llvm.org/t/rfc-adding-a-new-machine-operand-type-to-implement-variadic-dbg-instr-ref-instructions/61349#post_2)
 - [Combining multiple MemoryOperands referencing adjacent memory into one](https://discourse.llvm.org/t/combining-multiple-memoryoperands-referencing-adjacent-memory-into-one/63654#post_3)
 - [Combining multiple MemoryOperands referencing adjacent memory into one](https://discourse.llvm.org/t/combining-multiple-memoryoperands-referencing-adjacent-memory-into-one/63654#post_2)
-- [Obtaining return address during lowerCall&lpar;&rpar;](https://discourse.llvm.org/t/obtaining-return-address-during-lowercall/63331#post_5)
-- [Building libomp + libomptarget for riscv32](https://discourse.llvm.org/t/building-libomp-libomptarget-for-riscv32/63687#post_1)
-- [Compare gnu with clang](https://discourse.llvm.org/t/compare-gnu-with-clang/63349#post_3)
 <!-- DISCOURSE-LLVM:END -->
