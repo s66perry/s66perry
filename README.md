@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dogfood part1: The problem](https://discourse.llvm.org/t/dogfood-part1-the-problem/63663#post_4)
+- [Potential bug in MachineVerifier::checkLiveness&lpar;&rpar;](https://discourse.llvm.org/t/potential-bug-in-machineverifier-checkliveness/63676#post_2)
+- [Dogfood part1: The problem](https://discourse.llvm.org/t/dogfood-part1-the-problem/63663#post_3)
+- [Invalid permission for mapped object with JIT](https://discourse.llvm.org/t/invalid-permission-for-mapped-object-with-jit/63678#post_1)
 - [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_22)
-- [Custom intrinsic with implicit register usage fails to find proper register class in tablegen](https://discourse.llvm.org/t/custom-intrinsic-with-implicit-register-usage-fails-to-find-proper-register-class-in-tablegen/63619#post_6)
-- [[insn schedule] Is it reasonable to issue the load instruction preferentially](https://discourse.llvm.org/t/insn-schedule-is-it-reasonable-to-issue-the-load-instruction-preferentially/63674#post_1)
-- [Could index type be converted to the right type of index of affine load op](https://discourse.llvm.org/t/could-index-type-be-converted-to-the-right-type-of-index-of-affine-load-op/63653#post_4)
-- [Could index type be converted to the right type of index of affine load op](https://discourse.llvm.org/t/could-index-type-be-converted-to-the-right-type-of-index-of-affine-load-op/63653#post_3)
 <!-- DISCOURSE-LLVM:END -->
