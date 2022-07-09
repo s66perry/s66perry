@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM IR after mem2reg optimisation](https://discourse.llvm.org/t/llvm-ir-after-mem2reg-optimisation/63682#post_4)
+- [Dogfood part3: native libc++](https://discourse.llvm.org/t/dogfood-part3-native-libc/63680#post_3)
+- [Dogfood part2: breaking the dependency](https://discourse.llvm.org/t/dogfood-part2-breaking-the-dependency/63664#post_3)
+- [Lack of constructs with a sensitivity list](https://discourse.llvm.org/t/lack-of-constructs-with-a-sensitivity-list/63692#post_5)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_42)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_41)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_8)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=2#post_40)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_7)
 <!-- DISCOURSE-LLVM:END -->
