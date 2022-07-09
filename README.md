@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Block folders and canonicalizers when operations have metadata](https://discourse.llvm.org/t/block-folders-and-canonicalizers-when-operations-have-metadata/63652#post_4)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_48)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_47)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_46)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_45)
-- [LLVM_ENABLE_MODULES for MLIR](https://discourse.llvm.org/t/llvm-enable-modules-for-mlir/63669#post_5)
 <!-- DISCOURSE-LLVM:END -->
