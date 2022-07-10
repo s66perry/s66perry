@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Deleting all unreferenced memref::GlobalOp](https://discourse.llvm.org/t/deleting-all-unreferenced-memref-globalop/63703#post_3)
+- [Deleting all unreferenced memref::GlobalOp](https://discourse.llvm.org/t/deleting-all-unreferenced-memref-globalop/63703#post_2)
+- [Non-deterministic runtime of addq instruction](https://discourse.llvm.org/t/non-deterministic-runtime-of-addq-instruction/63704#post_2)
 - [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_2)
 - [Non-deterministic runtime of addq instruction](https://discourse.llvm.org/t/non-deterministic-runtime-of-addq-instruction/63704#post_1)
-- [Deleting all unreferenced memref::GlobalOp](https://discourse.llvm.org/t/deleting-all-unreferenced-memref-globalop/63703#post_1)
-- [What does extern &quot;C&quot; :: means?](https://discourse.llvm.org/t/what-does-extern-c-means/63698#post_4)
-- [What does extern &quot;C&quot; :: means?](https://discourse.llvm.org/t/what-does-extern-c-means/63698#post_3)
 <!-- DISCOURSE-LLVM:END -->
