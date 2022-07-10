@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_55)
-- [[pstl] Grand Central Dispatch PSTL backend patch ready for review](https://discourse.llvm.org/t/pstl-grand-central-dispatch-pstl-backend-patch-ready-for-review/60361#post_3)
-- [[pstl] Grand Central Dispatch PSTL backend patch ready for review](https://discourse.llvm.org/t/pstl-grand-central-dispatch-pstl-backend-patch-ready-for-review/60361#post_2)
-- [Building libomp + libomptarget for riscv32](https://discourse.llvm.org/t/building-libomp-libomptarget-for-riscv32/63687#post_4)
-- [[RFC] A compiler flag to enable experimental/unstable language and library features](https://discourse.llvm.org/t/rfc-a-compiler-flag-to-enable-experimental-unstable-language-and-library-features/63609#post_20)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_59)
+- [Llvm.stackprotector&lpar;&rpar; and GlobalISel](https://discourse.llvm.org/t/llvm-stackprotector-and-globalisel/63709#post_1)
+- [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_1)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_58)
+- [Llvm-config --libdir wrong?](https://discourse.llvm.org/t/llvm-config-libdir-wrong/63707#post_1)
 <!-- DISCOURSE-LLVM:END -->
