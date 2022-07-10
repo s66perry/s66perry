@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_59)
-- [Llvm.stackprotector&lpar;&rpar; and GlobalISel](https://discourse.llvm.org/t/llvm-stackprotector-and-globalisel/63709#post_1)
-- [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_1)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_58)
-- [Llvm-config --libdir wrong?](https://discourse.llvm.org/t/llvm-config-libdir-wrong/63707#post_1)
+- [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_2)
+- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879?page=2#post_21)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=3#post_60)
+- [Writing a backend for a very limited CPU](https://discourse.llvm.org/t/writing-a-backend-for-a-very-limited-cpu/63714#post_1)
+- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879#post_20)
 <!-- DISCOURSE-LLVM:END -->
