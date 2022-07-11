@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339?page=2#post_22)
+- [[AArch64] What is the different between trunk and trunk with all architectures](https://discourse.llvm.org/t/aarch64-what-is-the-different-between-trunk-and-trunk-with-all-architectures/63694#post_3)
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_1)
 - [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_3)
 - [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_4)
-- [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_3)
-- [[RFC] A compiler flag to enable experimental/unstable language and library features](https://discourse.llvm.org/t/rfc-a-compiler-flag-to-enable-experimental-unstable-language-and-library-features/63609?page=2#post_21)
-- [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_2)
 <!-- DISCOURSE-LLVM:END -->
