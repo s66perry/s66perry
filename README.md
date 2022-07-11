@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] cmov-vs-branch optimization](https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040#post_17)
-- [Memref type conversion](https://discourse.llvm.org/t/memref-type-conversion/63690#post_5)
-- [Adding debug info to a raw binary](https://discourse.llvm.org/t/adding-debug-info-to-a-raw-binary/63701#post_2)
-- [Memref type conversion](https://discourse.llvm.org/t/memref-type-conversion/63690#post_4)
-- [Memref type conversion](https://discourse.llvm.org/t/memref-type-conversion/63690#post_3)
+- [Keeping vtable homing for debug-info type generation](https://discourse.llvm.org/t/keeping-vtable-homing-for-debug-info-type-generation/63732#post_2)
+- [Keeping vtable homing for debug-info type generation](https://discourse.llvm.org/t/keeping-vtable-homing-for-debug-info-type-generation/63732#post_1)
+- [LLVM Weekly - #445, July 11th 2022](https://discourse.llvm.org/t/llvm-weekly-445-july-11th-2022/63731#post_1)
+- [Pattern debug diagnostic](https://discourse.llvm.org/t/pattern-debug-diagnostic/63723#post_4)
+- [Pattern debug diagnostic](https://discourse.llvm.org/t/pattern-debug-diagnostic/63723#post_3)
 <!-- DISCOURSE-LLVM:END -->
