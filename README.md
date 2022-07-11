@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm.stackprotector&lpar;&rpar; and GlobalISel](https://discourse.llvm.org/t/llvm-stackprotector-and-globalisel/63709#post_2)
+- [Clang office hours starting in ~1 hour](https://discourse.llvm.org/t/clang-office-hours-starting-in-1-hour/63147#post_2)
+- [Writing a backend for a very limited CPU](https://discourse.llvm.org/t/writing-a-backend-for-a-very-limited-cpu/63714#post_3)
 - [Why does GreedyPatternRewriteDriver requires region isolated from above?](https://discourse.llvm.org/t/why-does-greedypatternrewritedriver-requires-region-isolated-from-above/63724#post_1)
 - [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_7)
-- [Pattern debug diagnostic](https://discourse.llvm.org/t/pattern-debug-diagnostic/63723#post_1)
-- [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_6)
-- [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_5)
 <!-- DISCOURSE-LLVM:END -->
