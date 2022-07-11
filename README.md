@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why does GreedyPatternRewriteDriver requires region isolated from above?](https://discourse.llvm.org/t/why-does-greedypatternrewritedriver-requires-region-isolated-from-above/63724#post_1)
+- [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_7)
+- [Pattern debug diagnostic](https://discourse.llvm.org/t/pattern-debug-diagnostic/63723#post_1)
+- [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_6)
 - [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_5)
-- [Writing a backend for a very limited CPU](https://discourse.llvm.org/t/writing-a-backend-for-a-very-limited-cpu/63714#post_2)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_2)
-- [Building libomp + libomptarget for riscv32](https://discourse.llvm.org/t/building-libomp-libomptarget-for-riscv32/63687#post_5)
-- [Clacc: how to compile basic example for AMD GPUs?](https://discourse.llvm.org/t/clacc-how-to-compile-basic-example-for-amd-gpus/63720#post_1)
 <!-- DISCOURSE-LLVM:END -->
