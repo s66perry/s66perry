@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Pattern debug diagnostic](https://discourse.llvm.org/t/pattern-debug-diagnostic/63723#post_5)
-- [Label-based notification](https://discourse.llvm.org/t/label-based-notification/60517#post_3)
-- [Label-based notification](https://discourse.llvm.org/t/label-based-notification/60517#post_2)
-- [Keeping vtable homing for debug-info type generation](https://discourse.llvm.org/t/keeping-vtable-homing-for-debug-info-type-generation/63732#post_3)
-- [Keeping vtable homing for debug-info type generation](https://discourse.llvm.org/t/keeping-vtable-homing-for-debug-info-type-generation/63732#post_2)
+- [Remove undef: move uninitialized memory to poison](https://discourse.llvm.org/t/remove-undef-move-uninitialized-memory-to-poison/61123#post_10)
+- [Llvm.stackprotector&lpar;&rpar; and GlobalISel](https://discourse.llvm.org/t/llvm-stackprotector-and-globalisel/63709#post_4)
+- [Remove undef: move uninitialized memory to poison](https://discourse.llvm.org/t/remove-undef-move-uninitialized-memory-to-poison/61123#post_9)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_14)
+- [Remove undef: move uninitialized memory to poison](https://discourse.llvm.org/t/remove-undef-move-uninitialized-memory-to-poison/61123#post_8)
 <!-- DISCOURSE-LLVM:END -->
