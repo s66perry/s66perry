@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879?page=2#post_24)
-- [Memref type conversion](https://discourse.llvm.org/t/memref-type-conversion/63690#post_2)
-- [Compiling LLVM against muslc using Bazel](https://discourse.llvm.org/t/compiling-llvm-against-muslc-using-bazel/63727#post_3)
-- [[RFC] Symbolic Shape Analysis](https://discourse.llvm.org/t/rfc-symbolic-shape-analysis/62879?page=2#post_23)
-- [Compiling LLVM against muslc using Bazel](https://discourse.llvm.org/t/compiling-llvm-against-muslc-using-bazel/63727#post_2)
+- [Removing `vector-to-rocdl`](https://discourse.llvm.org/t/removing-vector-to-rocdl/63665#post_2)
+- [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_9)
+- [Converting abstract results of functions inside `fir::GlobalOp`](https://discourse.llvm.org/t/converting-abstract-results-of-functions-inside-fir-globalop/63623#post_7)
+- [When does alias analysis occour in O3?](https://discourse.llvm.org/t/when-does-alias-analysis-occour-in-o3/63696#post_8)
+- [How to replace member of instructions in different SubtargetFeature](https://discourse.llvm.org/t/how-to-replace-member-of-instructions-in-different-subtargetfeature/63728#post_1)
 <!-- DISCOURSE-LLVM:END -->
