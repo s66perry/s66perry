@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Build_llvm_release.bat script options](https://discourse.llvm.org/t/build-llvm-release-bat-script-options/63146#post_9)
-- [Remove undef: move uninitialized memory to poison](https://discourse.llvm.org/t/remove-undef-move-uninitialized-memory-to-poison/61123#post_12)
-- [Why does GreedyPatternRewriteDriver requires region isolated from above?](https://discourse.llvm.org/t/why-does-greedypatternrewritedriver-requires-region-isolated-from-above/63724#post_3)
-- [Board Meeting Minutes - May 2022](https://discourse.llvm.org/t/board-meeting-minutes-may-2022/63628#post_3)
-- [Why does GreedyPatternRewriteDriver requires region isolated from above?](https://discourse.llvm.org/t/why-does-greedypatternrewritedriver-requires-region-isolated-from-above/63724#post_2)
+- [LLVM Cambridge UK Social](https://discourse.llvm.org/t/llvm-cambridge-uk-social/63523#post_3)
+- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815#post_8)
+- [Board Meeting Minutes - May 2022](https://discourse.llvm.org/t/board-meeting-minutes-may-2022/63628#post_4)
+- [Unable to recover address space from a register?](https://discourse.llvm.org/t/unable-to-recover-address-space-from-a-register/63760#post_2)
+- [MLIR for heterogeneous computing novel accelerator architecture](https://discourse.llvm.org/t/mlir-for-heterogeneous-computing-novel-accelerator-architecture/63758#post_2)
 <!-- DISCOURSE-LLVM:END -->
