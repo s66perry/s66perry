@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Fast scalar fsqrt tuning in x86](https://discourse.llvm.org/t/fast-scalar-fsqrt-tuning-in-x86/63605#post_8)
+- [Weird behaviour with strings returned from functions in toy-language](https://discourse.llvm.org/t/weird-behaviour-with-strings-returned-from-functions-in-toy-language/63770#post_2)
+- [Combining multiple MemoryOperands referencing adjacent memory into one](https://discourse.llvm.org/t/combining-multiple-memoryoperands-referencing-adjacent-memory-into-one/63654#post_5)
+- [Weird behaviour with strings returned from functions in toy-language](https://discourse.llvm.org/t/weird-behaviour-with-strings-returned-from-functions-in-toy-language/63770#post_1)
 - [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_17)
-- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_17)
-- [[PDL] Complex constraints in IR](https://discourse.llvm.org/t/pdl-complex-constraints-in-ir/63764#post_3)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_16)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_15)
 <!-- DISCOURSE-LLVM:END -->
