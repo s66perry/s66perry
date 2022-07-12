@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can&#39;t build LLVM 14.0.6 on Linux](https://discourse.llvm.org/t/cant-build-llvm-14-0-6-on-linux/63757#post_1)
+- [Getting the parent memoryLocation](https://discourse.llvm.org/t/getting-the-parent-memorylocation/63754#post_1)
 - [LLVM function argument analysis](https://discourse.llvm.org/t/llvm-function-argument-analysis/63685#post_3)
 - [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170#post_16)
 - [How to replace member of instructions in different SubtargetFeature](https://discourse.llvm.org/t/how-to-replace-member-of-instructions-in-different-subtargetfeature/63728#post_3)
-- [How to enable Z3 cross check on clang-tidy](https://discourse.llvm.org/t/how-to-enable-z3-cross-check-on-clang-tidy/63750#post_1)
-- [[C++20][RFC] Suggestion desired regarding the implementation of P0960R3](https://discourse.llvm.org/t/c-20-rfc-suggestion-desired-regarding-the-implementation-of-p0960r3/63744#post_1)
 <!-- DISCOURSE-LLVM:END -->
