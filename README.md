@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[C++20][RFC] Suggestion desired regarding the implementation of P0960R3](https://discourse.llvm.org/t/c-20-rfc-suggestion-desired-regarding-the-implementation-of-p0960r3/63744#post_3)
+- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_23)
+- [Loop tiling and loop ordering in MLIR](https://discourse.llvm.org/t/loop-tiling-and-loop-ordering-in-mlir/63777#post_3)
+- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_22)
 - [Loop tiling and loop ordering in MLIR](https://discourse.llvm.org/t/loop-tiling-and-loop-ordering-in-mlir/63777#post_2)
-- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170#post_18)
-- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_21)
-- [Loop tiling and loop ordering in MLIR](https://discourse.llvm.org/t/loop-tiling-and-loop-ordering-in-mlir/63777#post_1)
-- [[PDL] Complex constraints in IR](https://discourse.llvm.org/t/pdl-complex-constraints-in-ir/63764#post_5)
 <!-- DISCOURSE-LLVM:END -->
