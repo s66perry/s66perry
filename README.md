@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clarify llvm.vector.insert / llvm.vector.extract intrinsic semantics](https://discourse.llvm.org/t/clarify-llvm-vector-insert-llvm-vector-extract-intrinsic-semantics/63530#post_3)
+- [Clacc: how to compile basic example for AMD GPUs?](https://discourse.llvm.org/t/clacc-how-to-compile-basic-example-for-amd-gpus/63720#post_10)
+- [Clacc: how to compile basic example for AMD GPUs?](https://discourse.llvm.org/t/clacc-how-to-compile-basic-example-for-amd-gpus/63720#post_9)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_19)
 - [Fast scalar fsqrt tuning in x86](https://discourse.llvm.org/t/fast-scalar-fsqrt-tuning-in-x86/63605#post_9)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_25)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_18)
-- [Clarification about undefined behaviour of `invariant.load` instructions](https://discourse.llvm.org/t/clarification-about-undefined-behaviour-of-invariant-load-instructions/63791#post_2)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
