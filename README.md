@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [ARM BE8 Support](https://discourse.llvm.org/t/arm-be8-support/63783#post_7)
+- [ARM BE8 Support](https://discourse.llvm.org/t/arm-be8-support/63783#post_6)
 - [ARM BE8 Support](https://discourse.llvm.org/t/arm-be8-support/63783#post_5)
 - [[PDL] Complex constraints in IR](https://discourse.llvm.org/t/pdl-complex-constraints-in-ir/63764#post_7)
 - [ARM BE8 Support](https://discourse.llvm.org/t/arm-be8-support/63783#post_4)
-- [ARM BE8 Support](https://discourse.llvm.org/t/arm-be8-support/63783#post_3)
-- [ARM BE8 Support](https://discourse.llvm.org/t/arm-be8-support/63783#post_2)
 <!-- DISCOURSE-LLVM:END -->
