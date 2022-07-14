@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Converting abstract results of functions inside `fir::GlobalOp`](https://discourse.llvm.org/t/converting-abstract-results-of-functions-inside-fir-globalop/63623#post_11)
-- [[RFC] Re-implement non-trivial SimpleLoopUnswitch with FunctionPass](https://discourse.llvm.org/t/rfc-re-implement-non-trivial-simpleloopunswitch-with-functionpass/62937#post_14)
-- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_25)
-- [Distributed ThinLTO final linking order](https://discourse.llvm.org/t/distributed-thinlto-final-linking-order/63804#post_2)
-- [MLIR for heterogeneous computing novel accelerator architecture](https://discourse.llvm.org/t/mlir-for-heterogeneous-computing-novel-accelerator-architecture/63758#post_7)
+- [Distributed ThinLTO final linking order](https://discourse.llvm.org/t/distributed-thinlto-final-linking-order/63804#post_3)
+- [[RFC] A compiler flag to enable experimental/unstable language and library features](https://discourse.llvm.org/t/rfc-a-compiler-flag-to-enable-experimental-unstable-language-and-library-features/63609?page=2#post_31)
+- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_26)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon July 11 &#39;22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-july-11-22-6pm/63193#post_6)
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=4#post_65)
 <!-- DISCOURSE-LLVM:END -->
