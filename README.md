@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Converting abstract results of functions inside `fir::GlobalOp`](https://discourse.llvm.org/t/converting-abstract-results-of-functions-inside-fir-globalop/63623#post_11)
+- [[RFC] Re-implement non-trivial SimpleLoopUnswitch with FunctionPass](https://discourse.llvm.org/t/rfc-re-implement-non-trivial-simpleloopunswitch-with-functionpass/62937#post_14)
+- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_25)
+- [Distributed ThinLTO final linking order](https://discourse.llvm.org/t/distributed-thinlto-final-linking-order/63804#post_2)
 - [MLIR for heterogeneous computing novel accelerator architecture](https://discourse.llvm.org/t/mlir-for-heterogeneous-computing-novel-accelerator-architecture/63758#post_7)
-- [Converting abstract results of functions inside `fir::GlobalOp`](https://discourse.llvm.org/t/converting-abstract-results-of-functions-inside-fir-globalop/63623#post_10)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_27)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606#post_20)
-- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
