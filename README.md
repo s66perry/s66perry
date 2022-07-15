@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[compile-time] how to use http://llvm-compile-time-tracker.com/](https://discourse.llvm.org/t/compile-time-how-to-use-http-llvm-compile-time-tracker-com/63819#post_4)
+- [Recursion Depth in Static Analysis](https://discourse.llvm.org/t/recursion-depth-in-static-analysis/63832#post_1)
+- [[compile-time] how to use http://llvm-compile-time-tracker.com/](https://discourse.llvm.org/t/compile-time-how-to-use-http-llvm-compile-time-tracker-com/63819#post_3)
+- [MLIR for heterogeneous computing novel accelerator architecture](https://discourse.llvm.org/t/mlir-for-heterogeneous-computing-novel-accelerator-architecture/63758#post_9)
 - [MLIR for heterogeneous computing novel accelerator architecture](https://discourse.llvm.org/t/mlir-for-heterogeneous-computing-novel-accelerator-architecture/63758#post_8)
-- [[RFC] In-tree Swift Bindings](https://discourse.llvm.org/t/rfc-in-tree-swift-bindings/63562?page=2#post_28)
-- [Query regarding branching in Path Sensitive Analysis](https://discourse.llvm.org/t/query-regarding-branching-in-path-sensitive-analysis/63813#post_4)
-- [Query regarding branching in Path Sensitive Analysis](https://discourse.llvm.org/t/query-regarding-branching-in-path-sensitive-analysis/63813#post_3)
-- [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_74)
 <!-- DISCOURSE-LLVM:END -->
