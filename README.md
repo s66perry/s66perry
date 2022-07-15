@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC for refactoring common code for OpenACC and OpenMP](https://discourse.llvm.org/t/rfc-for-refactoring-common-code-for-openacc-and-openmp/63833#post_6)
-- [[DebugInfo] An idea for determining source-location orders after optimisation &lpar;aka: plumbing for is_stmt&rpar;](https://discourse.llvm.org/t/debuginfo-an-idea-for-determining-source-location-orders-after-optimisation-aka-plumbing-for-is-stmt/63842#post_1)
-- [HTO status](https://discourse.llvm.org/t/hto-status/63824#post_4)
-- [Why no unique-ptr-array-mismatch check?](https://discourse.llvm.org/t/why-no-unique-ptr-array-mismatch-check/63841#post_1)
-- [LLVM GPU Working Group Meeting – Friday, July 15, 2022](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-july-15-2022/63765#post_2)
+- [Given an instruction, how to get the previous one](https://discourse.llvm.org/t/given-an-instruction-how-to-get-the-previous-one/63849#post_1)
+- [How to do clang-tidy checks that need global TU information?](https://discourse.llvm.org/t/how-to-do-clang-tidy-checks-that-need-global-tu-information/63846#post_2)
+- [Remove undef: move uninitialized memory to poison](https://discourse.llvm.org/t/remove-undef-move-uninitialized-memory-to-poison/61123#post_14)
+- [How to do clang-tidy checks that need global TU information?](https://discourse.llvm.org/t/how-to-do-clang-tidy-checks-that-need-global-tu-information/63846#post_1)
+- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_13)
 <!-- DISCOURSE-LLVM:END -->
