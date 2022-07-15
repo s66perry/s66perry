@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC for refactoring common code for OpenACC and OpenMP](https://discourse.llvm.org/t/rfc-for-refactoring-common-code-for-openacc-and-openmp/63833#post_4)
+- [RFC for refactoring common code for OpenACC and OpenMP](https://discourse.llvm.org/t/rfc-for-refactoring-common-code-for-openacc-and-openmp/63833#post_3)
+- [RFC for refactoring common code for OpenACC and OpenMP](https://discourse.llvm.org/t/rfc-for-refactoring-common-code-for-openacc-and-openmp/63833#post_2)
+- [RFC for refactoring common code for OpenACC and OpenMP](https://discourse.llvm.org/t/rfc-for-refactoring-common-code-for-openacc-and-openmp/63833#post_1)
 - [[compile-time] how to use http://llvm-compile-time-tracker.com/](https://discourse.llvm.org/t/compile-time-how-to-use-http-llvm-compile-time-tracker-com/63819#post_4)
-- [Recursion Depth in Static Analysis](https://discourse.llvm.org/t/recursion-depth-in-static-analysis/63832#post_1)
-- [[compile-time] how to use http://llvm-compile-time-tracker.com/](https://discourse.llvm.org/t/compile-time-how-to-use-http-llvm-compile-time-tracker-com/63819#post_3)
-- [MLIR for heterogeneous computing novel accelerator architecture](https://discourse.llvm.org/t/mlir-for-heterogeneous-computing-novel-accelerator-architecture/63758#post_9)
-- [MLIR for heterogeneous computing novel accelerator architecture](https://discourse.llvm.org/t/mlir-for-heterogeneous-computing-novel-accelerator-architecture/63758#post_8)
 <!-- DISCOURSE-LLVM:END -->
