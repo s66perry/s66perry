@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What&#39;s necessary to get a correct PDB output from LLVM + lld?](https://discourse.llvm.org/t/whats-necessary-to-get-a-correct-pdb-output-from-llvm-lld/63870#post_1)
+- [Is there a finalizer method in the new pass infrastructure?](https://discourse.llvm.org/t/is-there-a-finalizer-method-in-the-new-pass-infrastructure/63869#post_1)
+- [Lack of constructs with a sensitivity list](https://discourse.llvm.org/t/lack-of-constructs-with-a-sensitivity-list/63692#post_11)
+- [LLVM GPU Working Group Meeting – Friday, July 15, 2022](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-july-15-2022/63765#post_3)
 - [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_7)
-- [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_6)
-- [Lowering CF to LLVM](https://discourse.llvm.org/t/lowering-cf-to-llvm/63863#post_2)
-- [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_5)
-- [[GlobalISel][Combiner] How to find an instruction with the same source operands as the current one?](https://discourse.llvm.org/t/globalisel-combiner-how-to-find-an-instruction-with-the-same-source-operands-as-the-current-one/63867#post_1)
 <!-- DISCOURSE-LLVM:END -->
