@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Distributed ThinLTO final linking order](https://discourse.llvm.org/t/distributed-thinlto-final-linking-order/63804#post_4)
 - [Release artifact naming conventions](https://discourse.llvm.org/t/release-artifact-naming-conventions/63872#post_6)
 - [Release artifact naming conventions](https://discourse.llvm.org/t/release-artifact-naming-conventions/63872#post_5)
 - [Release artifact naming conventions](https://discourse.llvm.org/t/release-artifact-naming-conventions/63872#post_4)
 - [Release artifact naming conventions](https://discourse.llvm.org/t/release-artifact-naming-conventions/63872#post_3)
-- [Release artifact naming conventions](https://discourse.llvm.org/t/release-artifact-naming-conventions/63872#post_2)
 <!-- DISCOURSE-LLVM:END -->
