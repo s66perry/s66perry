@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lowering CF to LLVM](https://discourse.llvm.org/t/lowering-cf-to-llvm/63863#post_5)
 - [HTO status](https://discourse.llvm.org/t/hto-status/63824#post_5)
 - [Ninja llvm build failed, ninja: build stopped: subcommand failed. On Ubuntu](https://discourse.llvm.org/t/ninja-llvm-build-failed-ninja-build-stopped-subcommand-failed-on-ubuntu/63874#post_7)
 - [Ninja llvm build failed, ninja: build stopped: subcommand failed. On Ubuntu](https://discourse.llvm.org/t/ninja-llvm-build-failed-ninja-build-stopped-subcommand-failed-on-ubuntu/63874#post_6)
 - [Ninja llvm build failed, ninja: build stopped: subcommand failed. On Ubuntu](https://discourse.llvm.org/t/ninja-llvm-build-failed-ninja-build-stopped-subcommand-failed-on-ubuntu/63874#post_5)
-- [Ninja llvm build failed, ninja: build stopped: subcommand failed. On Ubuntu](https://discourse.llvm.org/t/ninja-llvm-build-failed-ninja-build-stopped-subcommand-failed-on-ubuntu/63874#post_4)
 <!-- DISCOURSE-LLVM:END -->
