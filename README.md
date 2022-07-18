@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Removing OpaqueElementsAttr](https://discourse.llvm.org/t/rfc-removing-opaqueelementsattr/63856#post_4)
+- [[RFC] Removing OpaqueElementsAttr](https://discourse.llvm.org/t/rfc-removing-opaqueelementsattr/63856#post_3)
 - [Can a normal compiler include a MachineFunctionPass?](https://discourse.llvm.org/t/can-a-normal-compiler-include-a-machinefunctionpass/63911#post_3)
 - [Can a normal compiler include a MachineFunctionPass?](https://discourse.llvm.org/t/can-a-normal-compiler-include-a-machinefunctionpass/63911#post_2)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=4#post_68)
-- [Is there a finalizer method in the new pass infrastructure?](https://discourse.llvm.org/t/is-there-a-finalizer-method-in-the-new-pass-infrastructure/63869#post_2)
-- [Can a normal compiler include a MachineFunctionPass?](https://discourse.llvm.org/t/can-a-normal-compiler-include-a-machinefunctionpass/63911#post_1)
 <!-- DISCOURSE-LLVM:END -->
