@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The &quot;[mlir] Leverage CMake interface libraries for mlir python&quot; breaks build with cmake 3.15](https://discourse.llvm.org/t/the-mlir-leverage-cmake-interface-libraries-for-mlir-python-breaks-build-with-cmake-3-15/63534#post_6)
+- [Question from a beginner: Is it possible to traverse a dialect to print out the operations without matching to the AST?](https://discourse.llvm.org/t/question-from-a-beginner-is-it-possible-to-traverse-a-dialect-to-print-out-the-operations-without-matching-to-the-ast/63891#post_5)
+- [LLVM Weekly - #446, July 18th 2022](https://discourse.llvm.org/t/llvm-weekly-446-july-18th-2022/63906#post_3)
+- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_3)
 - [LLVM Weekly - #446, July 18th 2022](https://discourse.llvm.org/t/llvm-weekly-446-july-18th-2022/63906#post_2)
-- [LLVM Weekly - #446, July 18th 2022](https://discourse.llvm.org/t/llvm-weekly-446-july-18th-2022/63906#post_1)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_22)
-- [Target specific pass before SimplifyCFGPass](https://discourse.llvm.org/t/target-specific-pass-before-simplifycfgpass/63905#post_1)
-- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_2)
 <!-- DISCOURSE-LLVM:END -->
