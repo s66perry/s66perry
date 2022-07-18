@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_1)
-- [Get error messages when deserializing spirv binary](https://discourse.llvm.org/t/get-error-messages-when-deserializing-spirv-binary/63864#post_2)
-- [[Asia-Friendly Developer Hour] MHLO support!](https://discourse.llvm.org/t/asia-friendly-developer-hour-mhlo-support/63625#post_5)
-- [LLVM Embedded Toolchains Working Group next sync this Thursday, 21st July](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-next-sync-this-thursday-21st-july/63900#post_1)
-- [Where can I find the material about LLVM PGO?](https://discourse.llvm.org/t/where-can-i-find-the-material-about-llvm-pgo/63836#post_12)
+- [LLVM Weekly - #446, July 18th 2022](https://discourse.llvm.org/t/llvm-weekly-446-july-18th-2022/63906#post_1)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_22)
+- [Target specific pass before SimplifyCFGPass](https://discourse.llvm.org/t/target-specific-pass-before-simplifycfgpass/63905#post_1)
+- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_2)
+- [Question from a beginner: Is it possible to traverse a dialect to print out the operations without matching to the AST?](https://discourse.llvm.org/t/question-from-a-beginner-is-it-possible-to-traverse-a-dialect-to-print-out-the-operations-without-matching-to-the-ast/63891#post_4)
 <!-- DISCOURSE-LLVM:END -->
