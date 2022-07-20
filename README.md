@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Code Review Process](https://discourse.llvm.org/t/rfc-code-review-process/59049?page=2#post_33)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_1)
+- [Converting MLIR switch with no cases to llvm-ir asserts](https://discourse.llvm.org/t/converting-mlir-switch-with-no-cases-to-llvm-ir-asserts/63851#post_3)
+- [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_3)
 - [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_14)
-- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=4#post_71)
-- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_4)
-- [The &quot;[mlir] Leverage CMake interface libraries for mlir python&quot; breaks build with cmake 3.15](https://discourse.llvm.org/t/the-mlir-leverage-cmake-interface-libraries-for-mlir-python-breaks-build-with-cmake-3-15/63534#post_10)
-- [Clang-format, formatting inconsistent for &lpar;seemingly&rpar; incorrect user defined literals](https://discourse.llvm.org/t/clang-format-formatting-inconsistent-for-seemingly-incorrect-user-defined-literals/63962#post_1)
 <!-- DISCOURSE-LLVM:END -->
