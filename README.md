@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Code Review Process](https://discourse.llvm.org/t/rfc-code-review-process/59049?page=2#post_33)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_1)
-- [Converting MLIR switch with no cases to llvm-ir asserts](https://discourse.llvm.org/t/converting-mlir-switch-with-no-cases-to-llvm-ir-asserts/63851#post_3)
-- [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_3)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_14)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_3)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_2)
+- [RFC: Code Review Process](https://discourse.llvm.org/t/rfc-code-review-process/59049?page=2#post_35)
+- [RFC: Code Review Process](https://discourse.llvm.org/t/rfc-code-review-process/59049?page=2#post_34)
+- [Lowering CF to LLVM](https://discourse.llvm.org/t/lowering-cf-to-llvm/63863#post_6)
 <!-- DISCOURSE-LLVM:END -->
