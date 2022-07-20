@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=4#post_71)
+- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_4)
+- [The &quot;[mlir] Leverage CMake interface libraries for mlir python&quot; breaks build with cmake 3.15](https://discourse.llvm.org/t/the-mlir-leverage-cmake-interface-libraries-for-mlir-python-breaks-build-with-cmake-3-15/63534#post_10)
 - [Clang-format, formatting inconsistent for &lpar;seemingly&rpar; incorrect user defined literals](https://discourse.llvm.org/t/clang-format-formatting-inconsistent-for-seemingly-incorrect-user-defined-literals/63962#post_1)
 - [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_2)
-- [[RFC] Enhancing Clang-Tidy with project-level knowledge](https://discourse.llvm.org/t/rfc-enhancing-clang-tidy-with-project-level-knowledge/63960#post_1)
-- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_3)
-- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_2)
 <!-- DISCOURSE-LLVM:END -->
