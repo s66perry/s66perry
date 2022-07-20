@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-format, formatting inconsistent for &lpar;seemingly&rpar; incorrect user defined literals](https://discourse.llvm.org/t/clang-format-formatting-inconsistent-for-seemingly-incorrect-user-defined-literals/63962#post_1)
+- [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_2)
 - [[RFC] Enhancing Clang-Tidy with project-level knowledge](https://discourse.llvm.org/t/rfc-enhancing-clang-tidy-with-project-level-knowledge/63960#post_1)
 - [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_3)
 - [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_2)
-- [[RFC] Add direct support for permutations](https://discourse.llvm.org/t/rfc-add-direct-support-for-permutations/63946#post_2)
-- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_1)
 <!-- DISCOURSE-LLVM:END -->
