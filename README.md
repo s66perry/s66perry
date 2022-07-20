@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Bay Area Monthly Meetup &lpar;Mon July 11 &#39;22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-july-11-22-6pm/63193#post_7)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon August 8 ‘22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-august-8-22-6pm/63967#post_1)
+- [Do MI and post-RA schedulers correctly handle DBG_VALUE instructions?](https://discourse.llvm.org/t/do-mi-and-post-ra-schedulers-correctly-handle-dbg-value-instructions/63926#post_2)
+- [What LLVM Merchandise do you want to see?](https://discourse.llvm.org/t/what-llvm-merchandise-do-you-want-to-see/63799#post_3)
 - [[RFC] MLIR interpreter framework](https://discourse.llvm.org/t/rfc-mlir-interpreter-framework/63567?page=4#post_74)
-- [SNAP Performance analysis, more detailed than the presentation](https://discourse.llvm.org/t/snap-performance-analysis-more-detailed-than-the-presentation/60636?page=2#post_21)
-- [Differentiating if-then and if-then-else constructs in IR?](https://discourse.llvm.org/t/differentiating-if-then-and-if-then-else-constructs-in-ir/63879#post_3)
-- [Converting MLIR switch with no cases to llvm-ir asserts](https://discourse.llvm.org/t/converting-mlir-switch-with-no-cases-to-llvm-ir-asserts/63851#post_4)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_5)
 <!-- DISCOURSE-LLVM:END -->
