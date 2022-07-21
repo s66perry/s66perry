@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding more power operations into Math dialect](https://discourse.llvm.org/t/rfc-adding-more-power-operations-into-math-dialect/63975#post_2)
-- [[RFC] change lowering of Fortran math intrinsics](https://discourse.llvm.org/t/rfc-change-lowering-of-fortran-math-intrinsics/63971#post_3)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_6)
-- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_6)
-- [Can&#39;t build LLVM 14.0.6 on Linux](https://discourse.llvm.org/t/cant-build-llvm-14-0-6-on-linux/63757#post_2)
+- [Do MI and post-RA schedulers correctly handle DBG_VALUE instructions?](https://discourse.llvm.org/t/do-mi-and-post-ra-schedulers-correctly-handle-dbg-value-instructions/63926#post_3)
+- [Distributed ThinLTO final linking order](https://discourse.llvm.org/t/distributed-thinlto-final-linking-order/63804#post_5)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_7)
+- [[RFC] -ffat-lto-objects support](https://discourse.llvm.org/t/rfc-ffat-lto-objects-support/63977#post_2)
+- [[RFC] -ffat-lto-objects support](https://discourse.llvm.org/t/rfc-ffat-lto-objects-support/63977#post_1)
 <!-- DISCOURSE-LLVM:END -->
