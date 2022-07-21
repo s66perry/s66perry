@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_10)
-- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_9)
-- [Building OCaml bindings fails](https://discourse.llvm.org/t/building-ocaml-bindings-fails/63987#post_1)
-- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_8)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_9)
+- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_10)
+- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170#post_19)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_15)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_14)
+- [Do MI and post-RA schedulers correctly handle DBG_VALUE instructions?](https://discourse.llvm.org/t/do-mi-and-post-ra-schedulers-correctly-handle-dbg-value-instructions/63926#post_8)
 <!-- DISCOURSE-LLVM:END -->
