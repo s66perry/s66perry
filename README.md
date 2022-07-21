@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding more power operations into Math dialect](https://discourse.llvm.org/t/rfc-adding-more-power-operations-into-math-dialect/63975#post_1)
-- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_7)
-- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_6)
-- [Announcing Torch-MLIR Office Hours](https://discourse.llvm.org/t/announcing-torch-mlir-office-hours/63973#post_1)
-- [[RFC] change lowering of Fortran math intrinsics](https://discourse.llvm.org/t/rfc-change-lowering-of-fortran-math-intrinsics/63971#post_2)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964#post_6)
+- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_6)
+- [Can&#39;t build LLVM 14.0.6 on Linux](https://discourse.llvm.org/t/cant-build-llvm-14-0-6-on-linux/63757#post_2)
+- [Add a pre-compiled header in clang compiler instance](https://discourse.llvm.org/t/add-a-pre-compiled-header-in-clang-compiler-instance/63976#post_1)
+- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_5)
 <!-- DISCOURSE-LLVM:END -->
