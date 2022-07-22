@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where is the documentation for front-end to back-end communication](https://discourse.llvm.org/t/where-is-the-documentation-for-front-end-to-back-end-communication/64010#post_1)
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_8)
-- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339?page=2#post_28)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_43)
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_20)
+- [[RFC] change lowering of Fortran math intrinsics](https://discourse.llvm.org/t/rfc-change-lowering-of-fortran-math-intrinsics/63971#post_11)
+- [What LLVM Merchandise do you want to see?](https://discourse.llvm.org/t/what-llvm-merchandise-do-you-want-to-see/63799#post_5)
+- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518?page=2#post_21)
+- [What LLVM Merchandise do you want to see?](https://discourse.llvm.org/t/what-llvm-merchandise-do-you-want-to-see/63799#post_4)
+- [Disabling site-wide mailing list mode &lpar;not reply by email or watching categories via email&rpar;](https://discourse.llvm.org/t/disabling-site-wide-mailing-list-mode-not-reply-by-email-or-watching-categories-via-email/6022?page=3#post_52)
 <!-- DISCOURSE-LLVM:END -->
