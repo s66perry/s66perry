@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Allocating a fixed size object in a stack frame at a fixed offset](https://discourse.llvm.org/t/allocating-a-fixed-size-object-in-a-stack-frame-at-a-fixed-offset/63998#post_1)
+- [SimplifySetCC with immediate integer problem](https://discourse.llvm.org/t/simplifysetcc-with-immediate-integer-problem/63957#post_8)
+- [LLVM test suite on Windows](https://discourse.llvm.org/t/llvm-test-suite-on-windows/63997#post_1)
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_12)
 - [Uninitialized user-defined data type annotations](https://discourse.llvm.org/t/uninitialized-user-defined-data-type-annotations/63992#post_1)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_11)
-- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339?page=2#post_25)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_10)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_9)
 <!-- DISCOURSE-LLVM:END -->
