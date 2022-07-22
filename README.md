@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Where is the documentation for front-end to back-end communication](https://discourse.llvm.org/t/where-is-the-documentation-for-front-end-to-back-end-communication/64010#post_1)
+- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_8)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339?page=2#post_28)
 - [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_43)
 - [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518#post_20)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_42)
-- [[llvm-dev] [RFC] : [D130224] Introduce maybe_undef attribute for function arguments which accepts undef values](https://discourse.llvm.org/t/llvm-dev-rfc-d130224-introduce-maybe-undef-attribute-for-function-arguments-which-accepts-undef-values/63980#post_5)
-- [Approximating LLDB&#39;s breakpoint location decisions](https://discourse.llvm.org/t/approximating-lldbs-breakpoint-location-decisions/63985#post_2)
 <!-- DISCOURSE-LLVM:END -->
