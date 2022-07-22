@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_3)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_2)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=2#post_34)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_1)
-- [LLVM / Pull request discussion](https://discourse.llvm.org/t/llvm-pull-request-discussion/63988#post_1)
+- [Uninitialized user-defined data type annotations](https://discourse.llvm.org/t/uninitialized-user-defined-data-type-annotations/63992#post_1)
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_11)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339?page=2#post_25)
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_10)
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990#post_9)
 <!-- DISCOURSE-LLVM:END -->
