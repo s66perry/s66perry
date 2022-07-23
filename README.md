@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CUDA Support for clang-tidy](https://discourse.llvm.org/t/cuda-support-for-clang-tidy/64023#post_1)
+- [Need help setting up / configuring clangd extension](https://discourse.llvm.org/t/need-help-setting-up-configuring-clangd-extension/4496#post_3)
+- [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_5)
 - [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_46)
 - [Cannot build ParallelSTL](https://discourse.llvm.org/t/cannot-build-parallelstl/63708#post_10)
-- [Use not jointly dominated by defs](https://discourse.llvm.org/t/use-not-jointly-dominated-by-defs/63840#post_7)
-- [[RFC] Zstandard as a second compression method to LLVM](https://discourse.llvm.org/t/rfc-zstandard-as-a-second-compression-method-to-llvm/63399#post_15)
-- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_1)
 <!-- DISCOURSE-LLVM:END -->
