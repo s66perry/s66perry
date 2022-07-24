@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Problem using llvm:Type.getPointerAddressSpace](https://discourse.llvm.org/t/problem-using-llvm-type-getpointeraddressspace/64028#post_5)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_55)
+- [Problem using llvm:Type.getPointerAddressSpace](https://discourse.llvm.org/t/problem-using-llvm-type-getpointeraddressspace/64028#post_4)
 - [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_8)
 - [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_7)
-- [Identify memory regions](https://discourse.llvm.org/t/identify-memory-regions/5066#post_2)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_54)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
