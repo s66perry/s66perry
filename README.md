@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What LLVM Merchandise do you want to see?](https://discourse.llvm.org/t/what-llvm-merchandise-do-you-want-to-see/63799#post_8)
+- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518?page=2#post_23)
+- [Use not jointly dominated by defs](https://discourse.llvm.org/t/use-not-jointly-dominated-by-defs/63840#post_8)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_50)
 - [HTO status](https://discourse.llvm.org/t/hto-status/63824#post_7)
-- [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_6)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_49)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_48)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
