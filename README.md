@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Loopinfo find multiple headers](https://discourse.llvm.org/t/loopinfo-find-multiple-headers/64057#post_1)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_3)
-- [Problem using llvm:Type.getPointerAddressSpace](https://discourse.llvm.org/t/problem-using-llvm-type-getpointeraddressspace/64028#post_8)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_2)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_1)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_7)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_6)
+- [How to pass a constant to f16 in pattern result dag](https://discourse.llvm.org/t/how-to-pass-a-constant-to-f16-in-pattern-result-dag/64052#post_2)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_5)
+- [Approximating LLDB&#39;s breakpoint location decisions](https://discourse.llvm.org/t/approximating-lldbs-breakpoint-location-decisions/63985#post_5)
 <!-- DISCOURSE-LLVM:END -->
