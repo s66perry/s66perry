@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_7)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_6)
-- [How to pass a constant to f16 in pattern result dag](https://discourse.llvm.org/t/how-to-pass-a-constant-to-f16-in-pattern-result-dag/64052#post_2)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_5)
-- [Approximating LLDB&#39;s breakpoint location decisions](https://discourse.llvm.org/t/approximating-lldbs-breakpoint-location-decisions/63985#post_5)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_9)
+- [Can&#39;t build LLVM 14.0.6 on Linux](https://discourse.llvm.org/t/cant-build-llvm-14-0-6-on-linux/63757#post_7)
+- [Use not jointly dominated by defs](https://discourse.llvm.org/t/use-not-jointly-dominated-by-defs/63840#post_9)
+- [Can&#39;t build LLVM 14.0.6 on Linux](https://discourse.llvm.org/t/cant-build-llvm-14-0-6-on-linux/63757#post_6)
+- [Can&#39;t build LLVM 14.0.6 on Linux](https://discourse.llvm.org/t/cant-build-llvm-14-0-6-on-linux/63757#post_5)
 <!-- DISCOURSE-LLVM:END -->
