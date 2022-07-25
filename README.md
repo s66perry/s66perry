@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_16)
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518?page=2#post_27)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_15)
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518?page=2#post_26)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_14)
+- [LLVM Weekly - #447, July 25th 2022](https://discourse.llvm.org/t/llvm-weekly-447-july-25th-2022/64065#post_1)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_61)
+- [Next term - LLVM Foundation Board of Directors Elections &lpar;deadline July 30, 2022&rpar;](https://discourse.llvm.org/t/next-term-llvm-foundation-board-of-directors-elections-deadline-july-30-2022/63636#post_2)
+- [Passing arguments to functions](https://discourse.llvm.org/t/passing-arguments-to-functions/63927#post_2)
+- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_7)
 <!-- DISCOURSE-LLVM:END -->
