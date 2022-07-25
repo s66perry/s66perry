@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #447, July 25th 2022](https://discourse.llvm.org/t/llvm-weekly-447-july-25th-2022/64065#post_1)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_61)
-- [Next term - LLVM Foundation Board of Directors Elections &lpar;deadline July 30, 2022&rpar;](https://discourse.llvm.org/t/next-term-llvm-foundation-board-of-directors-elections-deadline-july-30-2022/63636#post_2)
-- [Passing arguments to functions](https://discourse.llvm.org/t/passing-arguments-to-functions/63927#post_2)
-- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_7)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_62)
+- [CUDA Support for clang-tidy](https://discourse.llvm.org/t/cuda-support-for-clang-tidy/64023#post_3)
+- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_5)
+- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_8)
+- [Target specific pass before SimplifyCFGPass](https://discourse.llvm.org/t/target-specific-pass-before-simplifycfgpass/63905#post_2)
 <!-- DISCOURSE-LLVM:END -->
