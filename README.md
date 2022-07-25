@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is it possible to generate and read PCH with an output stream](https://discourse.llvm.org/t/is-it-possible-to-generate-and-read-pch-with-an-output-stream/64038#post_1)
-- [Checks for IR modification outside of pass root op?](https://discourse.llvm.org/t/checks-for-ir-modification-outside-of-pass-root-op/64033#post_3)
-- [Checks for IR modification outside of pass root op?](https://discourse.llvm.org/t/checks-for-ir-modification-outside-of-pass-root-op/64033#post_2)
-- [[RFC] [Tensor] Extracting slices from `tensor.collapse_shape`](https://discourse.llvm.org/t/rfc-tensor-extracting-slices-from-tensor-collapse-shape/64034#post_1)
-- [Checks for IR modification outside of pass root op?](https://discourse.llvm.org/t/checks-for-ir-modification-outside-of-pass-root-op/64033#post_1)
+- [Identify memory regions](https://discourse.llvm.org/t/identify-memory-regions/5066#post_3)
+- [Approximating LLDB&#39;s breakpoint location decisions](https://discourse.llvm.org/t/approximating-lldbs-breakpoint-location-decisions/63985#post_4)
+- [How do I run BOLT on a benchmark of HHVM?](https://discourse.llvm.org/t/how-do-i-run-bolt-on-a-benchmark-of-hhvm/64046#post_1)
+- [How to solve the error of not having the same binary to convert profile to BOLT format?](https://discourse.llvm.org/t/how-to-solve-the-error-of-not-having-the-same-binary-to-convert-profile-to-bolt-format/64042#post_1)
+- [Checks for IR modification outside of pass root op?](https://discourse.llvm.org/t/checks-for-ir-modification-outside-of-pass-root-op/64033#post_4)
 <!-- DISCOURSE-LLVM:END -->
