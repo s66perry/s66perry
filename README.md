@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Request] [Admin] Clang-Tidy subforum&lpar;?&rpar; under &quot;Clang Frontend&quot;](https://discourse.llvm.org/t/request-admin-clang-tidy-subforum-under-clang-frontend/62459#post_6)
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518?page=2#post_24)
-- [Image upload to Discourse not working?](https://discourse.llvm.org/t/image-upload-to-discourse-not-working/64055#post_1)
-- [[Request] [Admin] Clang-Tidy subforum&lpar;?&rpar; under &quot;Clang Frontend&quot;](https://discourse.llvm.org/t/request-admin-clang-tidy-subforum-under-clang-frontend/62459#post_5)
-- [How to enable Z3 cross check on clang-tidy](https://discourse.llvm.org/t/how-to-enable-z3-cross-check-on-clang-tidy/63750#post_2)
+- [Loopinfo find multiple headers](https://discourse.llvm.org/t/loopinfo-find-multiple-headers/64057#post_1)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_3)
+- [Problem using llvm:Type.getPointerAddressSpace](https://discourse.llvm.org/t/problem-using-llvm-type-getpointeraddressspace/64028#post_8)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_2)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056#post_1)
 <!-- DISCOURSE-LLVM:END -->
