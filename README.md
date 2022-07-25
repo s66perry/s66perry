@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=2#post_26)
-- [Lookup callee info from SelectionDAG?](https://discourse.llvm.org/t/lookup-callee-info-from-selectiondag/64049#post_4)
-- [Lookup callee info from SelectionDAG?](https://discourse.llvm.org/t/lookup-callee-info-from-selectiondag/64049#post_3)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_63)
-- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_9)
+- [CUDA Support for clang-tidy](https://discourse.llvm.org/t/cuda-support-for-clang-tidy/64023#post_6)
+- [CUDA Support for clang-tidy](https://discourse.llvm.org/t/cuda-support-for-clang-tidy/64023#post_5)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_64)
+- [CUDA Support for clang-tidy](https://discourse.llvm.org/t/cuda-support-for-clang-tidy/64023#post_4)
+- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_11)
 <!-- DISCOURSE-LLVM:END -->
