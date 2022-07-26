@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990?page=2#post_24)
+- [[RFC] -ffat-lto-objects support](https://discourse.llvm.org/t/rfc-ffat-lto-objects-support/63977#post_7)
 - [[RFC] -ffat-lto-objects support](https://discourse.llvm.org/t/rfc-ffat-lto-objects-support/63977#post_6)
 - [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=2#post_30)
 - [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=2#post_29)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=2#post_28)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
