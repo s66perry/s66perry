@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_73)
-- [How to pass a constant to f16 in pattern result dag](https://discourse.llvm.org/t/how-to-pass-a-constant-to-f16-in-pattern-result-dag/64052#post_5)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_72)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_71)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_70)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_76)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_75)
+- [[RFC] Attributes for Allocator Functions in LLVM IR](https://discourse.llvm.org/t/rfc-attributes-for-allocator-functions-in-llvm-ir/61464?page=2#post_27)
+- [[RFC] Attributes for Allocator Functions in LLVM IR](https://discourse.llvm.org/t/rfc-attributes-for-allocator-functions-in-llvm-ir/61464?page=2#post_26)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=4#post_74)
 <!-- DISCOURSE-LLVM:END -->
