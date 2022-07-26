@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dead Links in LLVM Programmer&#39;s Manual](https://discourse.llvm.org/t/dead-links-in-llvm-programmers-manual/64089#post_2)
+- [Dead Links in LLVM Programmer&#39;s Manual](https://discourse.llvm.org/t/dead-links-in-llvm-programmers-manual/64089#post_1)
 - [2022 US LLVM Dev Mtg - High level agenda](https://discourse.llvm.org/t/2022-us-llvm-dev-mtg-high-level-agenda/64086#post_1)
 - [Chains of unrealized casts](https://discourse.llvm.org/t/chains-of-unrealized-casts/64084#post_1)
 - [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_89)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_88)
-- [Target specific pass before SimplifyCFGPass](https://discourse.llvm.org/t/target-specific-pass-before-simplifycfgpass/63905#post_3)
 <!-- DISCOURSE-LLVM:END -->
