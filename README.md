@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Debuginfod Credential Helper RFC](https://discourse.llvm.org/t/debuginfod-credential-helper-rfc/64092#post_1)
+- [Dead Links in LLVM Programmer&#39;s Manual](https://discourse.llvm.org/t/dead-links-in-llvm-programmers-manual/64089#post_3)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_36)
 - [[RFC] [Tensor] Extracting slices from `tensor.collapse_shape`](https://discourse.llvm.org/t/rfc-tensor-extracting-slices-from-tensor-collapse-shape/64034#post_6)
 - [Loop Opt WG Meeting on July 27, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-july-27-2022/64091#post_1)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990?page=2#post_25)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_35)
-- [Generate LLVM Source-based Code Coverage for C++ files not having unit tests](https://discourse.llvm.org/t/generate-llvm-source-based-code-coverage-for-c-files-not-having-unit-tests/64080#post_5)
 <!-- DISCOURSE-LLVM:END -->
