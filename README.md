@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Missing LLVM lowering for math::Atan2Op](https://discourse.llvm.org/t/missing-llvm-lowering-for-math-atan2op/64096#post_3)
-- [Missing LLVM lowering for math::Atan2Op](https://discourse.llvm.org/t/missing-llvm-lowering-for-math-atan2op/64096#post_2)
-- [Odd Vector Widen/Split supoort during creating SelectionDAG](https://discourse.llvm.org/t/odd-vector-widen-split-supoort-during-creating-selectiondag/64098#post_2)
-- [Dead Links in LLVM Programmer&#39;s Manual](https://discourse.llvm.org/t/dead-links-in-llvm-programmers-manual/64089#post_4)
-- [Odd Vector Widen/Split supoort during creating SelectionDAG](https://discourse.llvm.org/t/odd-vector-widen-split-supoort-during-creating-selectiondag/64098#post_1)
+- [Chains of unrealized casts](https://discourse.llvm.org/t/chains-of-unrealized-casts/64084#post_2)
+- [Missing LLVM lowering for math::Atan2Op](https://discourse.llvm.org/t/missing-llvm-lowering-for-math-atan2op/64096#post_4)
+- [How to match specify stmt inside a double for loop body?](https://discourse.llvm.org/t/how-to-match-specify-stmt-inside-a-double-for-loop-body/64100#post_2)
+- [How to match specify stmt inside a double for loop body?](https://discourse.llvm.org/t/how-to-match-specify-stmt-inside-a-double-for-loop-body/64100#post_1)
+- [How constexpr get evaluated in clang?](https://discourse.llvm.org/t/how-constexpr-get-evaluated-in-clang/64099#post_1)
 <!-- DISCOURSE-LLVM:END -->
