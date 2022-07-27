@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Torch-MLIR Community Meeting] 2022-08-01](https://discourse.llvm.org/t/torch-mlir-community-meeting-2022-08-01/64112#post_1)
+- [Help on debugging IntegerSet crash](https://discourse.llvm.org/t/help-on-debugging-integerset-crash/64105#post_5)
+- [Share deserialized PCH AST between successive libclang compile actions?](https://discourse.llvm.org/t/share-deserialized-pch-ast-between-successive-libclang-compile-actions/64111#post_1)
 - [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_97)
 - [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_96)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_4)
-- [Why does the `noprofile` attribute restrict inlining?](https://discourse.llvm.org/t/why-does-the-noprofile-attribute-restrict-inlining/64108#post_1)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_95)
 <!-- DISCOURSE-LLVM:END -->
