@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [C++ 17 in LLVM code base!](https://discourse.llvm.org/t/c-17-in-llvm-code-base/64120#post_3)
+- [Does clang support to generate GOT-based position indenpendent code with pic-register?](https://discourse.llvm.org/t/does-clang-support-to-generate-got-based-position-indenpendent-code-with-pic-register/64129#post_5)
 - [Does clang support to generate GOT-based position indenpendent code with pic-register?](https://discourse.llvm.org/t/does-clang-support-to-generate-got-based-position-indenpendent-code-with-pic-register/64129#post_4)
 - [Speakers for Community.o workshop - can you help?](https://discourse.llvm.org/t/speakers-for-community-o-workshop-can-you-help/64131#post_2)
 - [Speakers for Community.o workshop - can you help?](https://discourse.llvm.org/t/speakers-for-community-o-workshop-can-you-help/64131#post_1)
-- [Does clang support to generate GOT-based position indenpendent code with pic-register?](https://discourse.llvm.org/t/does-clang-support-to-generate-got-based-position-indenpendent-code-with-pic-register/64129#post_3)
-- [Overcoming Sparsification Limitation on Level Types](https://discourse.llvm.org/t/overcoming-sparsification-limitation-on-level-types/62585#post_2)
 <!-- DISCOURSE-LLVM:END -->
