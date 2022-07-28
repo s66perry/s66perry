@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_12)
+- [How to depth-search any parameterized type?](https://discourse.llvm.org/t/how-to-depth-search-any-parameterized-type/64123#post_6)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=2#post_35)
 - [Chains of unrealized casts](https://discourse.llvm.org/t/chains-of-unrealized-casts/64084#post_7)
 - [How to depth-search any parameterized type?](https://discourse.llvm.org/t/how-to-depth-search-any-parameterized-type/64123#post_5)
-- [How to depth-search any parameterized type?](https://discourse.llvm.org/t/how-to-depth-search-any-parameterized-type/64123#post_4)
-- [How to depth-search any parameterized type?](https://discourse.llvm.org/t/how-to-depth-search-any-parameterized-type/64123#post_3)
-- [Problem using llvm:Type.getPointerAddressSpace](https://discourse.llvm.org/t/problem-using-llvm-type-getpointeraddressspace/64028#post_11)
 <!-- DISCOURSE-LLVM:END -->
