@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_11)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_99)
-- [Multiple type support for input attribute](https://discourse.llvm.org/t/multiple-type-support-for-input-attribute/64116#post_5)
-- [How constexpr get evaluated in clang?](https://discourse.llvm.org/t/how-constexpr-get-evaluated-in-clang/64099#post_3)
-- [Help on debugging IntegerSet crash](https://discourse.llvm.org/t/help-on-debugging-integerset-crash/64105#post_10)
+- [Error lowering addrspacecast instruction... &lpar;I will need to patch my current backend&rpar;](https://discourse.llvm.org/t/error-lowering-addrspacecast-instruction-i-will-need-to-patch-my-current-backend/64121#post_1)
+- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_6)
+- [C++ 17 in LLVM code base!](https://discourse.llvm.org/t/c-17-in-llvm-code-base/64120#post_1)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_100)
+- [Problem using llvm:Type.getPointerAddressSpace](https://discourse.llvm.org/t/problem-using-llvm-type-getpointeraddressspace/64028#post_9)
 <!-- DISCOURSE-LLVM:END -->
