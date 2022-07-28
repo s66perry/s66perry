@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lookup callee info from SelectionDAG?](https://discourse.llvm.org/t/lookup-callee-info-from-selectiondag/64049#post_5)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_98)
+- [How to match specify stmt inside a double for loop body?](https://discourse.llvm.org/t/how-to-match-specify-stmt-inside-a-double-for-loop-body/64100#post_3)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_10)
 - [[Torch-MLIR Community Meeting] 2022-08-01](https://discourse.llvm.org/t/torch-mlir-community-meeting-2022-08-01/64112#post_1)
-- [Help on debugging IntegerSet crash](https://discourse.llvm.org/t/help-on-debugging-integerset-crash/64105#post_5)
-- [Share deserialized PCH AST between successive libclang compile actions?](https://discourse.llvm.org/t/share-deserialized-pch-ast-between-successive-libclang-compile-actions/64111#post_1)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_97)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_96)
 <!-- DISCOURSE-LLVM:END -->
