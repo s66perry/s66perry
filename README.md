@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Multiple type support for input attribute](https://discourse.llvm.org/t/multiple-type-support-for-input-attribute/64116#post_4)
-- [Maybe we could start to play with std modules](https://discourse.llvm.org/t/maybe-we-could-start-to-play-with-std-modules/64093#post_8)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_5)
-- [Odd Vector Widen/Split supoort during creating SelectionDAG](https://discourse.llvm.org/t/odd-vector-widen-split-supoort-during-creating-selectiondag/64098#post_5)
-- [How constexpr get evaluated in clang?](https://discourse.llvm.org/t/how-constexpr-get-evaluated-in-clang/64099#post_2)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_11)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=5#post_99)
+- [Multiple type support for input attribute](https://discourse.llvm.org/t/multiple-type-support-for-input-attribute/64116#post_5)
+- [How constexpr get evaluated in clang?](https://discourse.llvm.org/t/how-constexpr-get-evaluated-in-clang/64099#post_3)
+- [Help on debugging IntegerSet crash](https://discourse.llvm.org/t/help-on-debugging-integerset-crash/64105#post_10)
 <!-- DISCOURSE-LLVM:END -->
