@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR diffing](https://discourse.llvm.org/t/mlir-diffing/64103#post_2)
 - [Please add `arm64-apple-darwin` binary to releases](https://discourse.llvm.org/t/please-add-arm64-apple-darwin-binary-to-releases/64135#post_3)
 - [Please add `arm64-apple-darwin` binary to releases](https://discourse.llvm.org/t/please-add-arm64-apple-darwin-binary-to-releases/64135#post_2)
 - [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_17)
 - [Please add `arm64-apple-darwin` binary to releases](https://discourse.llvm.org/t/please-add-arm64-apple-darwin-binary-to-releases/64135#post_1)
-- [C++ 17 in LLVM code base!](https://discourse.llvm.org/t/c-17-in-llvm-code-base/64120#post_3)
 <!-- DISCOURSE-LLVM:END -->
