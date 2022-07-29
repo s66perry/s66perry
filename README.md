@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [APValue lifetime problem when evaluating constant expressions](https://discourse.llvm.org/t/apvalue-lifetime-problem-when-evaluating-constant-expressions/64002#post_5)
+- [How to cross compile MLIR for android?](https://discourse.llvm.org/t/how-to-cross-compile-mlir-for-android/64140#post_1)
+- [RFC: Uniformity Analysis for Irreducible Control Flow](https://discourse.llvm.org/t/rfc-uniformity-analysis-for-irreducible-control-flow/64139#post_1)
 - [Help on debugging IntegerSet crash](https://discourse.llvm.org/t/help-on-debugging-integerset-crash/64105#post_12)
 - [MLIR diffing](https://discourse.llvm.org/t/mlir-diffing/64103#post_2)
-- [Please add `arm64-apple-darwin` binary to releases](https://discourse.llvm.org/t/please-add-arm64-apple-darwin-binary-to-releases/64135#post_3)
-- [Please add `arm64-apple-darwin` binary to releases](https://discourse.llvm.org/t/please-add-arm64-apple-darwin-binary-to-releases/64135#post_2)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366#post_17)
 <!-- DISCOURSE-LLVM:END -->
