@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to depth-search any parameterized type?](https://discourse.llvm.org/t/how-to-depth-search-any-parameterized-type/64123#post_7)
-- [False Positives of Clang Static Analyzer--DivZeroChecker](https://discourse.llvm.org/t/false-positives-of-clang-static-analyzer-divzerochecker/64146#post_1)
-- [Should we have a &quot;GPU working group&quot;?](https://discourse.llvm.org/t/should-we-have-a-gpu-working-group/59250#post_19)
-- [RFC: Uniformity Analysis for Irreducible Control Flow](https://discourse.llvm.org/t/rfc-uniformity-analysis-for-irreducible-control-flow/64139#post_2)
-- [Multiple type support for input attribute](https://discourse.llvm.org/t/multiple-type-support-for-input-attribute/64116#post_6)
+- [Can I using clang compile something with gcc headers all time?](https://discourse.llvm.org/t/can-i-using-clang-compile-something-with-gcc-headers-all-time/64153#post_2)
+- [Can I using clang compile something with gcc headers all time?](https://discourse.llvm.org/t/can-i-using-clang-compile-something-with-gcc-headers-all-time/64153#post_1)
+- [How does llvm::LibCallSimplifier optimize call instruction](https://discourse.llvm.org/t/how-does-llvm-libcallsimplifier-optimize-call-instruction/64152#post_1)
+- [Help on debugging IntegerSet crash](https://discourse.llvm.org/t/help-on-debugging-integerset-crash/64105#post_13)
+- [[llvm-objcopy] update-section incompatible to GNU objcopy](https://discourse.llvm.org/t/llvm-objcopy-update-section-incompatible-to-gnu-objcopy/64147#post_1)
 <!-- DISCOURSE-LLVM:END -->
