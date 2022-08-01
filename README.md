@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Machine block placement time and complexity](https://discourse.llvm.org/t/machine-block-placement-time-and-complexity/2978#post_2)
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990?page=3#post_59)
+- [How to build the llvm doxgen documentation?](https://discourse.llvm.org/t/how-to-build-the-llvm-doxgen-documentation/64193#post_1)
 - [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174#post_12)
 - [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174#post_11)
-- [Missing LLVM lowering for math::Atan2Op](https://discourse.llvm.org/t/missing-llvm-lowering-for-math-atan2op/64096#post_8)
-- [textDocument/definition vs textDocument/declaration](https://discourse.llvm.org/t/textdocument-definition-vs-textdocument-declaration/64024#post_2)
-- [[llvm-objcopy] update-section incompatible to GNU objcopy](https://discourse.llvm.org/t/llvm-objcopy-update-section-incompatible-to-gnu-objcopy/64147#post_4)
 <!-- DISCOURSE-LLVM:END -->
