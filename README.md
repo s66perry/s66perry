@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISC-V multiply-add instructions &lpar;FMADD.*, etc&rpar;, bit-exactness, and correctness of optimizations](https://discourse.llvm.org/t/risc-v-multiply-add-instructions-fmadd-etc-bit-exactness-and-correctness-of-optimizations/64194#post_1)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990?page=4#post_61)
-- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990?page=3#post_60)
-- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174#post_18)
-- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174#post_17)
+- [Machine block placement time and complexity](https://discourse.llvm.org/t/machine-block-placement-time-and-complexity/2978#post_3)
+- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174#post_19)
+- [Why doesn&#39;t `unwind_phase2` skip the cleanup frame after an `_Unwind_Resume`?](https://discourse.llvm.org/t/why-doesnt-unwind-phase2-skip-the-cleanup-frame-after-an-unwind-resume/64186#post_3)
+- [Does clang support to generate GOT-based position indenpendent code with pic-register?](https://discourse.llvm.org/t/does-clang-support-to-generate-got-based-position-indenpendent-code-with-pic-register/64129#post_8)
+- [Help on debugging IntegerSet crash](https://discourse.llvm.org/t/help-on-debugging-integerset-crash/64105#post_15)
 <!-- DISCOURSE-LLVM:END -->
