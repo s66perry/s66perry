@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Flang example plugin does not load](https://discourse.llvm.org/t/flang-example-plugin-does-not-load/64218#post_1)
+- [[Bug 52017] New: LLDB keeps DLL loaded after FreeLibrary is called.](https://discourse.llvm.org/t/bug-52017-new-lldb-keeps-dll-loaded-after-freelibrary-is-called/59016#post_5)
+- [RFC: Python callback for data formatters type matching](https://discourse.llvm.org/t/rfc-python-callback-for-data-formatters-type-matching/64204#post_2)
 - [Testing libc++ documentation page is incorrect or incomplete](https://discourse.llvm.org/t/testing-libc-documentation-page-is-incorrect-or-incomplete/64200#post_3)
 - [Testing libc++ documentation page is incorrect or incomplete](https://discourse.llvm.org/t/testing-libc-documentation-page-is-incorrect-or-incomplete/64200#post_2)
-- [[RFC] pragma for nontemporal load/store](https://discourse.llvm.org/t/rfc-pragma-for-nontemporal-load-store/64215#post_3)
-- [[RFC] Primitive Ops: add MapOp, ReductionOp, TransposeOp, BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-mapop-reductionop-transposeop-broadcastop-to-linalg/64184?page=2#post_26)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=6#post_106)
 <!-- DISCOURSE-LLVM:END -->
