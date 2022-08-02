@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Cambridge UK Social - September](https://discourse.llvm.org/t/llvm-cambridge-uk-social-september/64207#post_3)
-- [Creating virtual register in XXRegisterInfo.cpp](https://discourse.llvm.org/t/creating-virtual-register-in-xxregisterinfo-cpp/64157#post_3)
-- [LLVM Cambridge UK Social - September](https://discourse.llvm.org/t/llvm-cambridge-uk-social-september/64207#post_2)
-- [LLVM Cambridge UK Social - September](https://discourse.llvm.org/t/llvm-cambridge-uk-social-september/64207#post_1)
-- [[RFC] Primitive Ops: add MapOp, ReductionOp, TransposeOp, BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-mapop-reductionop-transposeop-broadcastop-to-linalg/64184?page=2#post_23)
+- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212#post_2)
+- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212#post_1)
+- [How to get LMUL&gt;1 in RVV](https://discourse.llvm.org/t/how-to-get-lmul-1-in-rvv/5065#post_4)
+- [[RFC] Materialize strided MemRef layout as an attribute](https://discourse.llvm.org/t/rfc-materialize-strided-memref-layout-as-an-attribute/64211#post_1)
+- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_2)
 <!-- DISCOURSE-LLVM:END -->
