@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_6)
+- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_5)
 - [Section-start not being respected in ELF linker?](https://discourse.llvm.org/t/section-start-not-being-respected-in-elf-linker/64237#post_2)
 - [[DebugInfo] An idea for determining source-location orders after optimisation &lpar;aka: plumbing for is_stmt&rpar;](https://discourse.llvm.org/t/debuginfo-an-idea-for-determining-source-location-orders-after-optimisation-aka-plumbing-for-is-stmt/63842#post_2)
 - [Function too big with new pass manager](https://discourse.llvm.org/t/function-too-big-with-new-pass-manager/64240#post_2)
-- [Accessing metadata on instructions](https://discourse.llvm.org/t/accessing-metadata-on-instructions/64235#post_3)
-- [RISC-V LLVM sync-up call 4th August 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-4th-august-2022/64244#post_1)
 <!-- DISCOURSE-LLVM:END -->
