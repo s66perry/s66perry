@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Materialize strided MemRef layout as an attribute](https://discourse.llvm.org/t/rfc-materialize-strided-memref-layout-as-an-attribute/64211#post_7)
+- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=2#post_23)
+- [[RFC] Drafting a formal v1.0 release for RVV C Intrinsic API](https://discourse.llvm.org/t/rfc-drafting-a-formal-v1-0-release-for-rvv-c-intrinsic-api/64220#post_1)
 - [[RFC] An MLIR based Clang IR &lpar;CIR&rpar;](https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319?page=4#post_75)
 - [Testing libc++ documentation page is incorrect or incomplete](https://discourse.llvm.org/t/testing-libc-documentation-page-is-incorrect-or-incomplete/64200#post_4)
-- [Flang example plugin does not load](https://discourse.llvm.org/t/flang-example-plugin-does-not-load/64218#post_1)
-- [[Bug 52017] New: LLDB keeps DLL loaded after FreeLibrary is called.](https://discourse.llvm.org/t/bug-52017-new-lldb-keeps-dll-loaded-after-freelibrary-is-called/59016#post_5)
-- [RFC: Python callback for data formatters type matching](https://discourse.llvm.org/t/rfc-python-callback-for-data-formatters-type-matching/64204#post_2)
 <!-- DISCOURSE-LLVM:END -->
