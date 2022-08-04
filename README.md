@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[DebugInfo] An idea for determining source-location orders after optimisation &lpar;aka: plumbing for is_stmt&rpar;](https://discourse.llvm.org/t/debuginfo-an-idea-for-determining-source-location-orders-after-optimisation-aka-plumbing-for-is-stmt/63842#post_3)
-- [AST parent of class in a friend declaration](https://discourse.llvm.org/t/ast-parent-of-class-in-a-friend-declaration/64275#post_1)
-- [Lowering CF to LLVM](https://discourse.llvm.org/t/lowering-cf-to-llvm/63863#post_8)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_35)
-- [[RFC] Machine Function Splitting &lpar;MFS&rpar; on AArch64](https://discourse.llvm.org/t/rfc-machine-function-splitting-mfs-on-aarch64/64256#post_5)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_38)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_37)
+- [TestSendSignals.py has a weird eStateConnected assert on remote platforms](https://discourse.llvm.org/t/testsendsignals-py-has-a-weird-estateconnected-assert-on-remote-platforms/64261#post_4)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_36)
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_4)
 <!-- DISCOURSE-LLVM:END -->
