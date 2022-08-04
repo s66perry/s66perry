@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AST parent of class in a friend declaration](https://discourse.llvm.org/t/ast-parent-of-class-in-a-friend-declaration/64275#post_3)
+- [AST parent of class in a friend declaration](https://discourse.llvm.org/t/ast-parent-of-class-in-a-friend-declaration/64275#post_2)
+- [Understanding vectorization instruction](https://discourse.llvm.org/t/understanding-vectorization-instruction/64227#post_2)
+- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212#post_11)
 - [Why does the `noprofile` attribute restrict inlining?](https://discourse.llvm.org/t/why-does-the-noprofile-attribute-restrict-inlining/64108#post_7)
-- [DeclContext lookup strange behavior: cannot find local declarations](https://discourse.llvm.org/t/declcontext-lookup-strange-behavior-cannot-find-local-declarations/62737#post_3)
-- [[RFC] Primitive Ops: add MapOp, ReductionOp, TransposeOp, BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-mapop-reductionop-transposeop-broadcastop-to-linalg/64184?page=2#post_29)
-- [[RFC] Machine Function Splitting &lpar;MFS&rpar; on AArch64](https://discourse.llvm.org/t/rfc-machine-function-splitting-mfs-on-aarch64/64256#post_9)
-- [[RFC] Machine Function Splitting &lpar;MFS&rpar; on AArch64](https://discourse.llvm.org/t/rfc-machine-function-splitting-mfs-on-aarch64/64256#post_8)
 <!-- DISCOURSE-LLVM:END -->
