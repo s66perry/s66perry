@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_43)
-- [[RFC] Machine Function Splitting &lpar;MFS&rpar; on AArch64](https://discourse.llvm.org/t/rfc-machine-function-splitting-mfs-on-aarch64/64256#post_6)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_42)
-- [Reusing code to output assembly for loading immediates into registers](https://discourse.llvm.org/t/reusing-code-to-output-assembly-for-loading-immediates-into-registers/64208#post_3)
-- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_11)
+- [Section-start not being respected in ELF linker?](https://discourse.llvm.org/t/section-start-not-being-respected-in-elf-linker/64237#post_5)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_45)
+- [Parallel input file parsing](https://discourse.llvm.org/t/parallel-input-file-parsing/60164#post_10)
+- [[DebugInfo] An idea for determining source-location orders after optimisation &lpar;aka: plumbing for is_stmt&rpar;](https://discourse.llvm.org/t/debuginfo-an-idea-for-determining-source-location-orders-after-optimisation-aka-plumbing-for-is-stmt/63842#post_4)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_44)
 <!-- DISCOURSE-LLVM:END -->
