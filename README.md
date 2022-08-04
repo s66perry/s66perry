@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [APValue lifetime problem when evaluating constant expressions](https://discourse.llvm.org/t/apvalue-lifetime-problem-when-evaluating-constant-expressions/64002#post_8)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_33)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_32)
-- [The ModuleOp is empty after applyPatternsAndFoldGreedily is called](https://discourse.llvm.org/t/the-moduleop-is-empty-after-applypatternsandfoldgreedily-is-called/64271#post_3)
-- [[RFC] Machine Function Splitting &lpar;MFS&rpar; on AArch64](https://discourse.llvm.org/t/rfc-machine-function-splitting-mfs-on-aarch64/64256#post_4)
+- [Unable to do basic tutorial: &quot;Getting Started: Building and Running Clang&quot;](https://discourse.llvm.org/t/unable-to-do-basic-tutorial-getting-started-building-and-running-clang/64274#post_1)
+- [Flang example plugin does not load](https://discourse.llvm.org/t/flang-example-plugin-does-not-load/64218#post_4)
+- [The ModuleOp is empty after applyPatternsAndFoldGreedily is called](https://discourse.llvm.org/t/the-moduleop-is-empty-after-applypatternsandfoldgreedily-is-called/64271#post_5)
+- [TestSendSignals.py has a weird eStateConnected assert on remote platforms](https://discourse.llvm.org/t/testsendsignals-py-has-a-weird-estateconnected-assert-on-remote-platforms/64261#post_3)
+- [The ModuleOp is empty after applyPatternsAndFoldGreedily is called](https://discourse.llvm.org/t/the-moduleop-is-empty-after-applypatternsandfoldgreedily-is-called/64271#post_4)
 <!-- DISCOURSE-LLVM:END -->
