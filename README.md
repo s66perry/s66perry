@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_24)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_23)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_22)
+- [Recent progress on libc](https://discourse.llvm.org/t/recent-progress-on-libc/64179#post_2)
 - [Pre-compiled Modules and &lpar;Failing&rpar; Optimization of Build Time Requirements](https://discourse.llvm.org/t/pre-compiled-modules-and-failing-optimization-of-build-time-requirements/64267#post_1)
-- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_1)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_21)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249#post_20)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249#post_19)
 <!-- DISCOURSE-LLVM:END -->
