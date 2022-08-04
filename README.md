@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_38)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_37)
-- [TestSendSignals.py has a weird eStateConnected assert on remote platforms](https://discourse.llvm.org/t/testsendsignals-py-has-a-weird-estateconnected-assert-on-remote-platforms/64261#post_4)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_36)
-- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_4)
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_10)
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_9)
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_8)
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_7)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_41)
 <!-- DISCOURSE-LLVM:END -->
