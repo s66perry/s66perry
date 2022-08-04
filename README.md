@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TestSendSignals.py has a weird eStateConnected assert on remote platforms](https://discourse.llvm.org/t/testsendsignals-py-has-a-weird-estateconnected-assert-on-remote-platforms/64261#post_2)
-- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=2#post_33)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=2#post_32)
-- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_3)
-- [Flang example plugin does not load](https://discourse.llvm.org/t/flang-example-plugin-does-not-load/64218#post_3)
+- [[RFC] Machine Function Splitting &lpar;MFS&rpar; on AArch64](https://discourse.llvm.org/t/rfc-machine-function-splitting-mfs-on-aarch64/64256#post_4)
+- [The ModuleOp is empty after applyPatternsAndFoldGreedily is called](https://discourse.llvm.org/t/the-moduleop-is-empty-after-applypatternsandfoldgreedily-is-called/64271#post_2)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_31)
+- [[RFC] Better support for typed pointers in an opaque pointer world](https://discourse.llvm.org/t/rfc-better-support-for-typed-pointers-in-an-opaque-pointer-world/63339?page=2#post_30)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
