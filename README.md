@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_48)
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_12)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_47)
 - [AST parent of class in a friend declaration](https://discourse.llvm.org/t/ast-parent-of-class-in-a-friend-declaration/64275#post_3)
 - [AST parent of class in a friend declaration](https://discourse.llvm.org/t/ast-parent-of-class-in-a-friend-declaration/64275#post_2)
-- [Understanding vectorization instruction](https://discourse.llvm.org/t/understanding-vectorization-instruction/64227#post_2)
-- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212#post_11)
-- [Why does the `noprofile` attribute restrict inlining?](https://discourse.llvm.org/t/why-does-the-noprofile-attribute-restrict-inlining/64108#post_7)
 <!-- DISCOURSE-LLVM:END -->
