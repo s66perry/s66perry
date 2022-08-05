@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_4)
+- [SymbolTable linear lookup leads to O&lpar;n^2&rpar; complexity in verifier](https://discourse.llvm.org/t/symboltable-linear-lookup-leads-to-o-n-2-complexity-in-verifier/64295#post_3)
 - [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_16)
 - [SymbolTable linear lookup leads to O&lpar;n^2&rpar; complexity in verifier](https://discourse.llvm.org/t/symboltable-linear-lookup-leads-to-o-n-2-complexity-in-verifier/64295#post_2)
 - [2022 US LLVM Dev Mtg - High level agenda](https://discourse.llvm.org/t/2022-us-llvm-dev-mtg-high-level-agenda/64086#post_2)
-- [SymbolTable linear lookup leads to O&lpar;n^2&rpar; complexity in verifier](https://discourse.llvm.org/t/symboltable-linear-lookup-leads-to-o-n-2-complexity-in-verifier/64295#post_1)
-- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_15)
 <!-- DISCOURSE-LLVM:END -->
