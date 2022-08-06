@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Legacy PM in LLVM 15](https://discourse.llvm.org/t/legacy-pm-in-llvm-15/64305#post_1)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=3#post_52)
-- [[RFC] Access by indices and iteration on DynamicMemRefType](https://discourse.llvm.org/t/rfc-access-by-indices-and-iteration-on-dynamicmemreftype/64304#post_1)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=3#post_51)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=3#post_50)
+- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=3#post_61)
+- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=3#post_60)
+- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_19)
+- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=3#post_59)
+- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=3#post_58)
 <!-- DISCOURSE-LLVM:END -->
