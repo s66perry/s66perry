@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_59)
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990?page=4#post_69)
+- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_4)
 - [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_3)
 - [Legacy PM in LLVM 15](https://discourse.llvm.org/t/legacy-pm-in-llvm-15/64305#post_4)
-- [[RFC] Access by indices and iteration on DynamicMemRefType](https://discourse.llvm.org/t/rfc-access-by-indices-and-iteration-on-dynamicmemreftype/64304#post_2)
-- [Expand inline asm with &quot;sbr&quot; instruction](https://discourse.llvm.org/t/expand-inline-asm-with-sbr-instruction/64318#post_4)
-- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_2)
 <!-- DISCOURSE-LLVM:END -->
