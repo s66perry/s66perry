@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_5)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=4#post_80)
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_8)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=3#post_56)
-- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212#post_15)
+- [[RFC] Materialize strided MemRef layout as an attribute](https://discourse.llvm.org/t/rfc-materialize-strided-memref-layout-as-an-attribute/64211#post_13)
+- [AST parent of class in a friend declaration](https://discourse.llvm.org/t/ast-parent-of-class-in-a-friend-declaration/64275#post_5)
+- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=5#post_84)
+- [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_2)
+- [[RFC] Materialize strided MemRef layout as an attribute](https://discourse.llvm.org/t/rfc-materialize-strided-memref-layout-as-an-attribute/64211#post_12)
 <!-- DISCOURSE-LLVM:END -->
