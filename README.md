@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543#post_6)
-- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543#post_5)
-- [WOSET&#39;22 call for papers](https://discourse.llvm.org/t/woset22-call-for-papers/64344#post_1)
-- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_8)
-- [AST parent of class in a friend declaration](https://discourse.llvm.org/t/ast-parent-of-class-in-a-friend-declaration/64275#post_7)
+- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_6)
+- [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_11)
+- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_6)
+- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_9)
+- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_3)
 <!-- DISCOURSE-LLVM:END -->
