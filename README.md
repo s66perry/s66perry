@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_19)
+- [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_1)
+- [[RFC] Updated MLIR Dialect Overview Diagram](https://discourse.llvm.org/t/rfc-updated-mlir-dialect-overview-diagram/64266#post_18)
 - [Can you load a static library archive with lli tool?](https://discourse.llvm.org/t/can-you-load-a-static-library-archive-with-lli-tool/64322#post_1)
 - [LLVM GPU News #39, August 5, 2022](https://discourse.llvm.org/t/llvm-gpu-news-39-august-5-2022/64321#post_1)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_60)
-- [How to generate getelementptr instruction right](https://discourse.llvm.org/t/how-to-generate-getelementptr-instruction-right/64320#post_1)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=3#post_59)
 <!-- DISCOURSE-LLVM:END -->
