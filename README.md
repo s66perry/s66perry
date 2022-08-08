@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=2#post_37)
+- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=2#post_36)
 - [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_12)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=4#post_71)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=4#post_70)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=5#post_91)
-- [Stddef.h not found, size_t not defined using libclang](https://discourse.llvm.org/t/stddef-h-not-found-size-t-not-defined-using-libclang/64309#post_2)
 <!-- DISCOURSE-LLVM:END -->
