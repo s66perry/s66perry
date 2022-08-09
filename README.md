@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_20)
-- [Release/15.x has branched](https://discourse.llvm.org/t/release-15-x-has-branched/64095#post_12)
-- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_8)
-- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_10)
-- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_7)
+- [Expand inline asm with &quot;sbr&quot; instruction](https://discourse.llvm.org/t/expand-inline-asm-with-sbr-instruction/64318#post_7)
+- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_9)
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_14)
+- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_6)
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_13)
 <!-- DISCOURSE-LLVM:END -->
