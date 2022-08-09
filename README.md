@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lowering design doc for polymorphic entities](https://discourse.llvm.org/t/rfc-lowering-design-doc-for-polymorphic-entities/64363#post_1)
+- [C++ strict aliasing and TBAA](https://discourse.llvm.org/t/c-strict-aliasing-and-tbaa/64362#post_3)
+- [C++ strict aliasing and TBAA](https://discourse.llvm.org/t/c-strict-aliasing-and-tbaa/64362#post_2)
+- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=3#post_44)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=4#post_78)
-- [C++ strict aliasing and TBAA](https://discourse.llvm.org/t/c-strict-aliasing-and-tbaa/64362#post_1)
-- [15.0.0-rc2 has been tagged](https://discourse.llvm.org/t/15-0-0-rc2-has-been-tagged/64352#post_6)
-- [C++/ObjC++: switch to gnu++17 as the default dialect](https://discourse.llvm.org/t/c-objc-switch-to-gnu-17-as-the-default-dialect/64360#post_1)
-- [Restarting the Toronto LLVM Meetup](https://discourse.llvm.org/t/restarting-the-toronto-llvm-meetup/64359#post_1)
 <!-- DISCOURSE-LLVM:END -->
