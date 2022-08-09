@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Expand inline asm with &quot;sbr&quot; instruction](https://discourse.llvm.org/t/expand-inline-asm-with-sbr-instruction/64318#post_7)
-- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_9)
-- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_14)
-- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_6)
-- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_13)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=4#post_74)
+- [Replacing a machine instruction in a machine function pass](https://discourse.llvm.org/t/replacing-a-machine-instruction-in-a-machine-function-pass/64356#post_1)
+- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=3#post_41)
+- [Expand inline asm with &quot;sbr&quot; instruction](https://discourse.llvm.org/t/expand-inline-asm-with-sbr-instruction/64318#post_8)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=4#post_73)
 <!-- DISCOURSE-LLVM:END -->
