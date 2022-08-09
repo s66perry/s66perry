@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_4)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=4#post_72)
-- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=2#post_40)
-- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=2#post_39)
-- [Libclang how to get template arguments for a template type alias](https://discourse.llvm.org/t/libclang-how-to-get-template-arguments-for-a-template-type-alias/64349#post_2)
+- [Instrumentation of Clang/LLVM for Compile Time](https://discourse.llvm.org/t/instrumentation-of-clang-llvm-for-compile-time/60383#post_20)
+- [Release/15.x has branched](https://discourse.llvm.org/t/release-15-x-has-branched/64095#post_12)
+- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_8)
+- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_10)
+- [RFC: Improving Diagnostics with Template Specialization Resugaring](https://discourse.llvm.org/t/rfc-improving-diagnostics-with-template-specialization-resugaring/64294#post_7)
 <!-- DISCOURSE-LLVM:END -->
