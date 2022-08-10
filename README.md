@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_13)
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_12)
-- [Has phabricator stopped sending me emails?](https://discourse.llvm.org/t/has-phabricator-stopped-sending-me-emails/64380#post_3)
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_11)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_7)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_8)
+- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_15)
+- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_14)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_7)
+- [Determining if argument register retains original value](https://discourse.llvm.org/t/determining-if-argument-register-retains-original-value/64391#post_1)
 <!-- DISCOURSE-LLVM:END -->
