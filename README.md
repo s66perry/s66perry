@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Attribute indicating that function preserves argument nullness](https://discourse.llvm.org/t/rfc-attribute-indicating-that-function-preserves-argument-nullness/64372#post_3)
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_9)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_5)
-- [CANCELED Loop Opt WG Meeting on Aug 10, 2022](https://discourse.llvm.org/t/canceled-loop-opt-wg-meeting-on-aug-10-2022/64381#post_1)
-- [&quot;Symbol not found&quot; when building with c++ compilers](https://discourse.llvm.org/t/symbol-not-found-when-building-with-c-compilers/64316#post_3)
+- [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_16)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=4#post_80)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_9)
+- [Fail to optimize .ll file](https://discourse.llvm.org/t/fail-to-optimize-ll-file/64376#post_2)
+- [C++/ObjC++: switch to gnu++17 as the default dialect](https://discourse.llvm.org/t/c-objc-switch-to-gnu-17-as-the-default-dialect/64360#post_7)
 <!-- DISCOURSE-LLVM:END -->
