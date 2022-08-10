@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposal for converting arith to linalg generic pass](https://discourse.llvm.org/t/rfc-proposal-for-converting-arith-to-linalg-generic-pass/64388#post_4)
-- [[RFC] Proposal for converting arith to linalg generic pass](https://discourse.llvm.org/t/rfc-proposal-for-converting-arith-to-linalg-generic-pass/64388#post_3)
-- [[RFC] Proposal for converting arith to linalg generic pass](https://discourse.llvm.org/t/rfc-proposal-for-converting-arith-to-linalg-generic-pass/64388#post_2)
-- [[RFC] Proposal for converting arith to linalg generic pass](https://discourse.llvm.org/t/rfc-proposal-for-converting-arith-to-linalg-generic-pass/64388#post_1)
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_10)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_6)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_5)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_4)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_3)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_2)
 <!-- DISCOURSE-LLVM:END -->
