@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_10)
+- [[RFC] Attribute indicating that function preserves argument nullness](https://discourse.llvm.org/t/rfc-attribute-indicating-that-function-preserves-argument-nullness/64372#post_4)
 - [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383#post_4)
 - [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=3#post_46)
 - [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_6)
-- [Has phabricator stopped sending me emails?](https://discourse.llvm.org/t/has-phabricator-stopped-sending-me-emails/64380#post_2)
-- [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_19)
 <!-- DISCOURSE-LLVM:END -->
