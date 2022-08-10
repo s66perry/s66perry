@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Restarting the Toronto LLVM Meetup](https://discourse.llvm.org/t/restarting-the-toronto-llvm-meetup/64359#post_3)
 - [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_4)
 - [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_3)
 - [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_2)
 - [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_1)
-- [15.0.0-rc2 has been tagged](https://discourse.llvm.org/t/15-0-0-rc2-has-been-tagged/64352#post_8)
 <!-- DISCOURSE-LLVM:END -->
