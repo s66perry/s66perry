@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383#post_10)
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_10)
-- [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383#post_9)
-- [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383#post_8)
-- [Has phabricator stopped sending me emails?](https://discourse.llvm.org/t/has-phabricator-stopped-sending-me-emails/64380#post_4)
+- [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383#post_12)
+- [[TableGen/RegAlloc] How to use a fixed register in an instruction?](https://discourse.llvm.org/t/tablegen-regalloc-how-to-use-a-fixed-register-in-an-instruction/64405#post_1)
+- [[OpenMP] Runtime problem with subtraction reduction](https://discourse.llvm.org/t/openmp-runtime-problem-with-subtraction-reduction/64404#post_1)
+- [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383#post_11)
+- [Debugging clang with debugger breakpoints?](https://discourse.llvm.org/t/debugging-clang-with-debugger-breakpoints/53587#post_20)
 <!-- DISCOURSE-LLVM:END -->
