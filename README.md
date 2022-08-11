@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [&quot;Symbol not found&quot; when building with c++ compilers](https://discourse.llvm.org/t/symbol-not-found-when-building-with-c-compilers/64316#post_4)
+- [DILocation get wrong column](https://discourse.llvm.org/t/dilocation-get-wrong-column/64371#post_3)
+- [Find declaration of array](https://discourse.llvm.org/t/find-declaration-of-array/64393#post_1)
 - [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200?page=2#post_21)
 - [Std::experimental::pmr maturity](https://discourse.llvm.org/t/std-pmr-maturity/62200#post_20)
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_8)
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_15)
-- [Extracting dynamic offsets/strides from memref](https://discourse.llvm.org/t/extracting-dynamic-offsets-strides-from-memref/64170#post_14)
 <!-- DISCOURSE-LLVM:END -->
