@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Unify kDynamicSize and kDynamicStrideOrOffset](https://discourse.llvm.org/t/rfc-unify-kdynamicsize-and-kdynamicstrideoroffset/64534#post_5)
-- [[RFC] Unify kDynamicSize and kDynamicStrideOrOffset](https://discourse.llvm.org/t/rfc-unify-kdynamicsize-and-kdynamicstrideoroffset/64534#post_4)
-- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_2)
-- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_3)
-- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_2)
+- [Build issues and limitations with OpenMP on Arch Linux](https://discourse.llvm.org/t/build-issues-and-limitations-with-openmp-on-arch-linux/64409#post_4)
+- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_5)
+- [Shrinking iteration space of loop with condition](https://discourse.llvm.org/t/shrinking-iteration-space-of-loop-with-condition/64538#post_1)
+- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_4)
+- [[RFC] Unify kDynamicSize and kDynamicStrideOrOffset](https://discourse.llvm.org/t/rfc-unify-kdynamicsize-and-kdynamicstrideoroffset/64534#post_6)
 <!-- DISCOURSE-LLVM:END -->
