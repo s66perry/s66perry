@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_11)
-- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_1)
-- [AArch64 SME ABI implementation](https://discourse.llvm.org/t/aarch64-sme-abi-implementation/64412#post_4)
-- [AArch64 SME ABI implementation](https://discourse.llvm.org/t/aarch64-sme-abi-implementation/64412#post_3)
-- [AArch64 SME ABI implementation](https://discourse.llvm.org/t/aarch64-sme-abi-implementation/64412#post_2)
+- [[RFC] Unify kDynamicSize and kDynamicStrideOrOffset](https://discourse.llvm.org/t/rfc-unify-kdynamicsize-and-kdynamicstrideoroffset/64534#post_5)
+- [[RFC] Unify kDynamicSize and kDynamicStrideOrOffset](https://discourse.llvm.org/t/rfc-unify-kdynamicsize-and-kdynamicstrideoroffset/64534#post_4)
+- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_2)
+- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_3)
+- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_2)
 <!-- DISCOURSE-LLVM:END -->
