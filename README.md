@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Use of class template argument deduction](https://discourse.llvm.org/t/use-of-class-template-argument-deduction/64507#post_4)
+- [Use of class template argument deduction](https://discourse.llvm.org/t/use-of-class-template-argument-deduction/64507#post_3)
+- [[TableGen/RegAlloc] How to use a fixed register in an instruction?](https://discourse.llvm.org/t/tablegen-regalloc-how-to-use-a-fixed-register-in-an-instruction/64405#post_4)
+- [Massive LLVM-C API break in LLVM 15+ unrelated to pointers](https://discourse.llvm.org/t/massive-llvm-c-api-break-in-llvm-15-unrelated-to-pointers/64407#post_14)
 - [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_16)
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_12)
-- [[GlobalISel] Customize IRTranslator::translate?](https://discourse.llvm.org/t/globalisel-customize-irtranslator-translate/64546#post_2)
-- [[GlobalISel] Customize IRTranslator::translate?](https://discourse.llvm.org/t/globalisel-customize-irtranslator-translate/64546#post_1)
-- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_15)
 <!-- DISCOURSE-LLVM:END -->
