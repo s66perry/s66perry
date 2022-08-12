@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_6)
-- [[OpenMP] Runtime problem with subtraction reduction](https://discourse.llvm.org/t/openmp-runtime-problem-with-subtraction-reduction/64404#post_7)
-- [AArch64 SME ABI implementation](https://discourse.llvm.org/t/aarch64-sme-abi-implementation/64412#post_5)
-- [Build issues and limitations with OpenMP on Arch Linux](https://discourse.llvm.org/t/build-issues-and-limitations-with-openmp-on-arch-linux/64409#post_4)
-- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_5)
+- [Build issues and limitations with OpenMP on Arch Linux](https://discourse.llvm.org/t/build-issues-and-limitations-with-openmp-on-arch-linux/64409#post_7)
+- [`AffineIf` inside a linalg operations](https://discourse.llvm.org/t/affineif-inside-a-linalg-operations/64544#post_2)
+- [Build issues and limitations with OpenMP on Arch Linux](https://discourse.llvm.org/t/build-issues-and-limitations-with-openmp-on-arch-linux/64409#post_6)
+- [Shrinking iteration space of loop with condition](https://discourse.llvm.org/t/shrinking-iteration-space-of-loop-with-condition/64538#post_3)
+- [Build issues and limitations with OpenMP on Arch Linux](https://discourse.llvm.org/t/build-issues-and-limitations-with-openmp-on-arch-linux/64409#post_5)
 <!-- DISCOURSE-LLVM:END -->
