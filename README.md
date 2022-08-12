@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_6)
+- [[OpenMP] Runtime problem with subtraction reduction](https://discourse.llvm.org/t/openmp-runtime-problem-with-subtraction-reduction/64404#post_7)
+- [AArch64 SME ABI implementation](https://discourse.llvm.org/t/aarch64-sme-abi-implementation/64412#post_5)
 - [Build issues and limitations with OpenMP on Arch Linux](https://discourse.llvm.org/t/build-issues-and-limitations-with-openmp-on-arch-linux/64409#post_4)
 - [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_5)
-- [Shrinking iteration space of loop with condition](https://discourse.llvm.org/t/shrinking-iteration-space-of-loop-with-condition/64538#post_1)
-- [Why this FCMP OEQ is false?](https://discourse.llvm.org/t/why-this-fcmp-oeq-is-false/64531#post_4)
-- [[RFC] Unify kDynamicSize and kDynamicStrideOrOffset](https://discourse.llvm.org/t/rfc-unify-kdynamicsize-and-kdynamicstrideoroffset/64534#post_6)
 <!-- DISCOURSE-LLVM:END -->
