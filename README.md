@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Save the date for the 2022 US LLVM Developers&#39; Meeting!](https://discourse.llvm.org/t/save-the-date-for-the-2022-us-llvm-developers-meeting/63108#post_15)
 - [LTO, deplibs, and libcalls, oh my](https://discourse.llvm.org/t/lto-deplibs-and-libcalls-oh-my/64510#post_3)
 - [Are `SymbolicRegions` really untyped?](https://discourse.llvm.org/t/are-symbolicregions-really-untyped/64406#post_3)
 - [Restarting LLVM compiler social in Zurich!](https://discourse.llvm.org/t/restarting-llvm-compiler-social-in-zurich/64520#post_5)
 - [Compiling arm32 with clang - &#39;No available targets are compatible with triple &quot;armv6kz-unknown-linux-gnueabihf&quot;&#39;](https://discourse.llvm.org/t/compiling-arm32-with-clang-no-available-targets-are-compatible-with-triple-armv6kz-unknown-linux-gnueabihf/64518#post_5)
-- [Restarting LLVM compiler social in Zurich!](https://discourse.llvm.org/t/restarting-llvm-compiler-social-in-zurich/64520#post_4)
 <!-- DISCOURSE-LLVM:END -->
