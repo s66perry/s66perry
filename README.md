@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How can I create an Instruction `%3 = call i8* inttoptr &lpar;i64 1 to i8* &lpar;i8*, i8*&rpar;*&rpar;&lpar;i8* bitcast &lpar;%struct.anon* @pin_counter to i8*&rpar;, i8* nonnull %2&rpar;` using `IRBuilder`](https://discourse.llvm.org/t/how-can-i-create-an-instruction-3-call-i8-inttoptr-i64-1-to-i8-i8-i8-i8-bitcast-struct-anon-pin-counter-to-i8-i8-nonnull-2-using-irbuilder/64557#post_1)
 - [Compiling arm32 with clang - &#39;No available targets are compatible with triple &quot;armv6kz-unknown-linux-gnueabihf&quot;&#39;](https://discourse.llvm.org/t/compiling-arm32-with-clang-no-available-targets-are-compatible-with-triple-armv6kz-unknown-linux-gnueabihf/64518#post_7)
 - [Compiling arm32 with clang - &#39;No available targets are compatible with triple &quot;armv6kz-unknown-linux-gnueabihf&quot;&#39;](https://discourse.llvm.org/t/compiling-arm32-with-clang-no-available-targets-are-compatible-with-triple-armv6kz-unknown-linux-gnueabihf/64518#post_6)
 - [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_14)
 - [RFC: Python callback for data formatters type matching](https://discourse.llvm.org/t/rfc-python-callback-for-data-formatters-type-matching/64204#post_6)
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_13)
 <!-- DISCOURSE-LLVM:END -->
