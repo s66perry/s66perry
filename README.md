@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why this LLVM IR code crashing around 32000?](https://discourse.llvm.org/t/why-this-llvm-ir-code-crashing-around-32000/64576#post_1)
-- [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383?page=2#post_22)
-- [RFC: Updates to developer policy around C++ standards bump](https://discourse.llvm.org/t/rfc-updates-to-developer-policy-around-c-standards-bump/64383?page=2#post_21)
-- [[RFC] Materialize strided MemRef layout as an attribute](https://discourse.llvm.org/t/rfc-materialize-strided-memref-layout-as-an-attribute/64211#post_15)
-- [[RFC] Add integer add with carry op to arith](https://discourse.llvm.org/t/rfc-add-integer-add-with-carry-op-to-arith/64573#post_2)
+- [Convert NVIDIA GPU LLVM IR&lpar;NVVM&rpar; alloca instruction to AMDGPU&#39;s](https://discourse.llvm.org/t/convert-nvidia-gpu-llvm-ir-nvvm-alloca-instruction-to-amdgpus/64578#post_3)
+- [Convert NVIDIA GPU LLVM IR&lpar;NVVM&rpar; alloca instruction to AMDGPU&#39;s](https://discourse.llvm.org/t/convert-nvidia-gpu-llvm-ir-nvvm-alloca-instruction-to-amdgpus/64578#post_2)
+- [LLVM Weekly - #450, August 15th 2022](https://discourse.llvm.org/t/llvm-weekly-450-august-15th-2022/64579#post_1)
+- [Convert NVIDIA GPU LLVM IR&lpar;NVVM&rpar; alloca instruction to AMDGPU&#39;s](https://discourse.llvm.org/t/convert-nvidia-gpu-llvm-ir-nvvm-alloca-instruction-to-amdgpus/64578#post_1)
+- [Debuginfod Credential Helper RFC](https://discourse.llvm.org/t/debuginfod-credential-helper-rfc/64092#post_2)
 <!-- DISCOURSE-LLVM:END -->
