@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_2)
+- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_13)
+- [LLVM-HPC2022 at SC22 - Call for Papers!](https://discourse.llvm.org/t/llvm-hpc2022-at-sc22-call-for-papers/62882#post_3)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_82)
 - [[RFC] Add integer add with carry op to arith](https://discourse.llvm.org/t/rfc-add-integer-add-with-carry-op-to-arith/64573#post_3)
-- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_9)
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_1)
-- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_8)
-- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_1)
 <!-- DISCOURSE-LLVM:END -->
