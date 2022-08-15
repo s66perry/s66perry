@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_1)
+- [[RFC] Add direct support for permutations](https://discourse.llvm.org/t/rfc-add-direct-support-for-permutations/63946#post_3)
+- [Why clang is crashing while using the pass, which is injecting print function inside code](https://discourse.llvm.org/t/why-clang-is-crashing-while-using-the-pass-which-is-injecting-print-function-inside-code/64585#post_1)
+- [Why this LLVM IR code crashing around 32000?](https://discourse.llvm.org/t/why-this-llvm-ir-code-crashing-around-32000/64576#post_3)
 - [Why this LLVM IR code crashing around 32000?](https://discourse.llvm.org/t/why-this-llvm-ir-code-crashing-around-32000/64576#post_2)
-- [lld-link: Undefined symbol llvm::LLVMContext](https://discourse.llvm.org/t/lld-link-undefined-symbol-llvm-llvmcontext/64581#post_1)
-- [Debuginfod Credential Helper RFC](https://discourse.llvm.org/t/debuginfod-credential-helper-rfc/64092#post_3)
-- [Convert NVIDIA GPU LLVM IR&lpar;NVVM&rpar; alloca instruction to AMDGPU&#39;s](https://discourse.llvm.org/t/convert-nvidia-gpu-llvm-ir-nvvm-alloca-instruction-to-amdgpus/64578#post_4)
-- [Convert NVIDIA GPU LLVM IR&lpar;NVVM&rpar; alloca instruction to AMDGPU&#39;s](https://discourse.llvm.org/t/convert-nvidia-gpu-llvm-ir-nvvm-alloca-instruction-to-amdgpus/64578#post_3)
 <!-- DISCOURSE-LLVM:END -->
