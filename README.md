@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_6)
-- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_5)
-- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_14)
-- [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_5)
-- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_10)
+- [WiCT August 25th Virtual Meetup Featuring Ayana Monroe and Ruanqianqian &lpar;Lisa&rpar; Huang](https://discourse.llvm.org/t/wict-august-25th-virtual-meetup-featuring-ayana-monroe-and-ruanqianqian-lisa-huang/64620#post_1)
+- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_7)
+- [LLVM-14, Unable to correct problems, you have held broken packages - on Ubuntu-18](https://discourse.llvm.org/t/llvm-14-unable-to-correct-problems-you-have-held-broken-packages-on-ubuntu-18/64619#post_1)
+- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_6)
+- [Adding my work email fails due to being used by a staged user](https://discourse.llvm.org/t/adding-my-work-email-fails-due-to-being-used-by-a-staged-user/64608#post_2)
 <!-- DISCOURSE-LLVM:END -->
