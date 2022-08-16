@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why clang is crashing while using the pass, which is injecting print function inside code](https://discourse.llvm.org/t/why-clang-is-crashing-while-using-the-pass-which-is-injecting-print-function-inside-code/64585#post_2)
+- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_3)
+- [Convert NVIDIA GPU LLVM IR&lpar;NVVM&rpar; alloca instruction to AMDGPU&#39;s](https://discourse.llvm.org/t/convert-nvidia-gpu-llvm-ir-nvvm-alloca-instruction-to-amdgpus/64578#post_6)
+- [Convert NVIDIA GPU LLVM IR&lpar;NVVM&rpar; alloca instruction to AMDGPU&#39;s](https://discourse.llvm.org/t/convert-nvidia-gpu-llvm-ir-nvvm-alloca-instruction-to-amdgpus/64578#post_5)
 - [New Linalg Code Generation Strategy for Innermost Reductions](https://discourse.llvm.org/t/new-linalg-code-generation-strategy-for-innermost-reductions/64596#post_1)
-- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_8)
-- [It is possible to generate CFG + Callgraph in one file?](https://discourse.llvm.org/t/it-is-possible-to-generate-cfg-callgraph-in-one-file/64593#post_1)
-- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_2)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_84)
 <!-- DISCOURSE-LLVM:END -->
