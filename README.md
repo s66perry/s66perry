@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [New Linalg Code Generation Strategy for Innermost Reductions](https://discourse.llvm.org/t/new-linalg-code-generation-strategy-for-innermost-reductions/64596#post_6)
-- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_4)
-- [New Linalg Code Generation Strategy for Innermost Reductions](https://discourse.llvm.org/t/new-linalg-code-generation-strategy-for-innermost-reductions/64596#post_5)
-- [[RFC] Instcombine pass goes into a loop](https://discourse.llvm.org/t/rfc-instcombine-pass-goes-into-a-loop/64609#post_3)
-- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410#post_10)
+- [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_6)
+- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_5)
+- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_14)
+- [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_5)
+- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_10)
 <!-- DISCOURSE-LLVM:END -->
