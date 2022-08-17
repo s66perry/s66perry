@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_5)
+- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_4)
 - [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_3)
 - [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_2)
 - [LLVM-14, Unable to correct problems, you have held broken packages - on Ubuntu-18](https://discourse.llvm.org/t/llvm-14-unable-to-correct-problems-you-have-held-broken-packages-on-ubuntu-18/64619#post_3)
-- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518?page=2#post_21)
-- [LLVM-14, Unable to correct problems, you have held broken packages - on Ubuntu-18](https://discourse.llvm.org/t/llvm-14-unable-to-correct-problems-you-have-held-broken-packages-on-ubuntu-18/64619#post_2)
 <!-- DISCOURSE-LLVM:END -->
