@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Do I need to add an intrinsic for what I want to do?](https://discourse.llvm.org/t/do-i-need-to-add-an-intrinsic-for-what-i-want-to-do/64651#post_1)
+- [[RFC] zip_vector: in-memory block compression of integer arrays](https://discourse.llvm.org/t/rfc-zip-vector-in-memory-block-compression-of-integer-arrays/64624#post_3)
+- [2022 US LLVM Developers&#39; Meeting - Call for Presentations!](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-call-for-presentations/63691#post_3)
+- [Using a custom allocator for LLVM](https://discourse.llvm.org/t/using-a-custom-allocator-for-llvm/64637#post_5)
 - [Buildbot insights](https://discourse.llvm.org/t/buildbot-insights/64648#post_1)
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_18)
-- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_15)
-- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_4)
-- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_3)
 <!-- DISCOURSE-LLVM:END -->
