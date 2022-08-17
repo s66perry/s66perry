@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why don&#39;t operations in &quot;predefined&quot; dialects follow MLIR opertions syntex?](https://discourse.llvm.org/t/why-dont-operations-in-predefined-dialects-follow-mlir-opertions-syntex/64613#post_5)
+- [Why don&#39;t operations in &quot;predefined&quot; dialects follow MLIR opertions syntex?](https://discourse.llvm.org/t/why-dont-operations-in-predefined-dialects-follow-mlir-opertions-syntex/64613#post_4)
+- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518#post_20)
+- [RFC: Python callback for data formatters type matching](https://discourse.llvm.org/t/rfc-python-callback-for-data-formatters-type-matching/64204#post_8)
 - [Adding my work email fails due to being used by a staged user](https://discourse.llvm.org/t/adding-my-work-email-fails-due-to-being-used-by-a-staged-user/64608#post_4)
-- [Regarding check-all not running check-runtimes](https://discourse.llvm.org/t/regarding-check-all-not-running-check-runtimes/64626#post_1)
-- [[RFC] zip_vector: in-memory block compression of integer arrays](https://discourse.llvm.org/t/rfc-zip-vector-in-memory-block-compression-of-integer-arrays/64624#post_1)
-- [2022 US LLVM Dev Mtg - High level agenda](https://discourse.llvm.org/t/2022-us-llvm-dev-mtg-high-level-agenda/64086#post_6)
-- [Adding my work email fails due to being used by a staged user](https://discourse.llvm.org/t/adding-my-work-email-fails-due-to-being-used-by-a-staged-user/64608#post_3)
 <!-- DISCOURSE-LLVM:END -->
