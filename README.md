@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_8)
-- [[RFC] Instcombine pass goes into a loop](https://discourse.llvm.org/t/rfc-instcombine-pass-goes-into-a-loop/64609#post_4)
-- [LLVM-14, Unable to correct problems, you have held broken packages - on Ubuntu-18](https://discourse.llvm.org/t/llvm-14-unable-to-correct-problems-you-have-held-broken-packages-on-ubuntu-18/64619#post_6)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_42)
-- [Triple quirks for finding runtimes - how to improve this?](https://discourse.llvm.org/t/triple-quirks-for-finding-runtimes-how-to-improve-this/64078#post_2)
+- [Triple quirks for finding runtimes - how to improve this?](https://discourse.llvm.org/t/triple-quirks-for-finding-runtimes-how-to-improve-this/64078#post_4)
+- [Adding my work email fails due to being used by a staged user](https://discourse.llvm.org/t/adding-my-work-email-fails-due-to-being-used-by-a-staged-user/64608#post_5)
+- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_2)
+- [Triple quirks for finding runtimes - how to improve this?](https://discourse.llvm.org/t/triple-quirks-for-finding-runtimes-how-to-improve-this/64078#post_3)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389#post_17)
 <!-- DISCOURSE-LLVM:END -->
