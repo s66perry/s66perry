@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_8)
+- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_7)
+- [15.0.0-rc2 has been tagged](https://discourse.llvm.org/t/15-0-0-rc2-has-been-tagged/64352#post_14)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Aug 18th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-aug-18th/64634#post_1)
 - [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=2#post_39)
-- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_13)
-- [[RFC] TargetInfo Library](https://discourse.llvm.org/t/rfc-targetinfo-library/64342#post_12)
-- [RISC-V LLVM sync-up call 18th August 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-18th-august-2022/64632#post_1)
-- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
