@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] PC-Keyed Metadata at Runtime](https://discourse.llvm.org/t/rfc-pc-keyed-metadata-at-runtime/64191#post_15)
+- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_4)
+- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_3)
+- [[RFC] zip_vector: in-memory block compression of integer arrays](https://discourse.llvm.org/t/rfc-zip-vector-in-memory-block-compression-of-integer-arrays/64624#post_2)
 - [RFC: Uniformity Analysis for Irreducible Control Flow](https://discourse.llvm.org/t/rfc-uniformity-analysis-for-irreducible-control-flow/64139#post_5)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_86)
-- [2022 US LLVM Developers&#39; Meeting - Call for Presentations!](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-call-for-presentations/63691#post_2)
-- [Triple quirks for finding runtimes - how to improve this?](https://discourse.llvm.org/t/triple-quirks-for-finding-runtimes-how-to-improve-this/64078#post_4)
-- [Adding my work email fails due to being used by a staged user](https://discourse.llvm.org/t/adding-my-work-email-fails-due-to-being-used-by-a-staged-user/64608#post_5)
 <!-- DISCOURSE-LLVM:END -->
