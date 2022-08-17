@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Has phabricator stopped sending me emails?](https://discourse.llvm.org/t/has-phabricator-stopped-sending-me-emails/64380#post_9)
+- [Has phabricator stopped sending me emails?](https://discourse.llvm.org/t/has-phabricator-stopped-sending-me-emails/64380#post_8)
+- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_6)
 - [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_5)
 - [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_4)
-- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_3)
-- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_2)
-- [LLVM-14, Unable to correct problems, you have held broken packages - on Ubuntu-18](https://discourse.llvm.org/t/llvm-14-unable-to-correct-problems-you-have-held-broken-packages-on-ubuntu-18/64619#post_3)
 <!-- DISCOURSE-LLVM:END -->
