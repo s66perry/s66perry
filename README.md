@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_90)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_47)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_46)
-- [How to pass Memref or Numpy arrays to ExecutionEngine.invoke through python binding?](https://discourse.llvm.org/t/how-to-pass-memref-or-numpy-arrays-to-executionengine-invoke-through-python-binding/64661#post_2)
-- [Open MLIR Meeting 8/18/2022: Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/open-mlir-meeting-8-18-2022-proposal-for-a-high-level-ml-dialect-in-mlir/64629#post_2)
+- [How to run Clang-LLVM for RISCV target machine for Bitmanip extension?](https://discourse.llvm.org/t/how-to-run-clang-llvm-for-riscv-target-machine-for-bitmanip-extension/64662#post_3)
+- [[CFP] CODAI: Workshop on Compilers, Deployment, and Tooling for Edge AI - Extended Deadline](https://discourse.llvm.org/t/cfp-codai-workshop-on-compilers-deployment-and-tooling-for-edge-ai-extended-deadline/64672#post_2)
+- [Are `SymbolicRegions` really untyped?](https://discourse.llvm.org/t/are-symbolicregions-really-untyped/64406#post_6)
+- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_1)
+- [GenericTaintChecker - taint status examination](https://discourse.llvm.org/t/generictaintchecker-taint-status-examination/64675#post_1)
 <!-- DISCOURSE-LLVM:END -->
