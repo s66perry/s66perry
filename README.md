@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628#post_14)
-- [How to run Clang-LLVM for RISCV target machine for Bitmanip extension?](https://discourse.llvm.org/t/how-to-run-clang-llvm-for-riscv-target-machine-for-bitmanip-extension/64662#post_1)
-- [How to pass Memref or Numpy arrays to ExecutionEngine.invoke through python binding?](https://discourse.llvm.org/t/how-to-pass-memref-or-numpy-arrays-to-executionengine-invoke-through-python-binding/64661#post_1)
-- [LLVM buildbot will be restarted on August 17th, 2022 at 10:00 PM PDT](https://discourse.llvm.org/t/llvm-buildbot-will-be-restarted-on-august-17th-2022-at-10-00-pm-pdt/64659#post_1)
-- [Welcome to disscuss TensorRT Dialect](https://discourse.llvm.org/t/welcome-to-disscuss-tensorrt-dialect/64656#post_2)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_43)
+- [LLVM relicensing update &amp; further suggestions for help](https://discourse.llvm.org/t/llvm-relicensing-update-further-suggestions-for-help/64667#post_1)
+- [[RFC] Instcombine pass goes into a loop](https://discourse.llvm.org/t/rfc-instcombine-pass-goes-into-a-loop/64609#post_6)
+- [[RFC] Instcombine pass goes into a loop](https://discourse.llvm.org/t/rfc-instcombine-pass-goes-into-a-loop/64609#post_5)
+- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_5)
 <!-- DISCOURSE-LLVM:END -->
