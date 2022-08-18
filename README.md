@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_3)
-- [[RFC] Instcombine pass goes into a loop](https://discourse.llvm.org/t/rfc-instcombine-pass-goes-into-a-loop/64609#post_7)
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_6)
-- [Using dominator information during transformation](https://discourse.llvm.org/t/using-dominator-information-during-transformation/64679#post_2)
-- [LLVM Blog: August 2022 LLVM relicensing update &amp; further suggestions for help](https://discourse.llvm.org/t/llvm-blog-august-2022-llvm-relicensing-update-further-suggestions-for-help/64680#post_1)
+- [[GlobalISel] Customize IRTranslator::translate?](https://discourse.llvm.org/t/globalisel-customize-irtranslator-translate/64546#post_3)
+- [Using dominator information during transformation](https://discourse.llvm.org/t/using-dominator-information-during-transformation/64679#post_3)
+- [Using a custom allocator for LLVM](https://discourse.llvm.org/t/using-a-custom-allocator-for-llvm/64637#post_7)
+- [[GlobalISel] How to pattern match a G_STORE with offset compuation through TableGen](https://discourse.llvm.org/t/globalisel-how-to-pattern-match-a-g-store-with-offset-compuation-through-tablegen/64529#post_2)
+- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_4)
 <!-- DISCOURSE-LLVM:END -->
