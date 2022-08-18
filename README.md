@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_5)
-- [[RFC] Attribute indicating that function preserves argument nullness](https://discourse.llvm.org/t/rfc-attribute-indicating-that-function-preserves-argument-nullness/64372#post_5)
-- [Taskgroup task_reduction with target in_reduction segfaults](https://discourse.llvm.org/t/taskgroup-task-reduction-with-target-in-reduction-segfaults/64683#post_1)
-- [[GlobalISel] Customize IRTranslator::translate?](https://discourse.llvm.org/t/globalisel-customize-irtranslator-translate/64546#post_4)
-- [LTO, deplibs, and libcalls, oh my](https://discourse.llvm.org/t/lto-deplibs-and-libcalls-oh-my/64510#post_4)
+- [How to pass Memref or Numpy arrays to ExecutionEngine.invoke through python binding?](https://discourse.llvm.org/t/how-to-pass-memref-or-numpy-arrays-to-executionengine-invoke-through-python-binding/64661#post_5)
+- [How to pass Memref or Numpy arrays to ExecutionEngine.invoke through python binding?](https://discourse.llvm.org/t/how-to-pass-memref-or-numpy-arrays-to-executionengine-invoke-through-python-binding/64661#post_4)
+- [How to pass Memref or Numpy arrays to ExecutionEngine.invoke through python binding?](https://discourse.llvm.org/t/how-to-pass-memref-or-numpy-arrays-to-executionengine-invoke-through-python-binding/64661#post_3)
+- [Using a custom allocator for LLVM](https://discourse.llvm.org/t/using-a-custom-allocator-for-llvm/64637#post_8)
+- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_6)
 <!-- DISCOURSE-LLVM:END -->
