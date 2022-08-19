@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Address spaces](https://discourse.llvm.org/t/address-spaces/64705#post_1)
+- [Write a pass to change data layout from nchw to nhwc](https://discourse.llvm.org/t/write-a-pass-to-change-data-layout-from-nchw-to-nhwc/64704#post_1)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_48)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_98)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_97)
-- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_9)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_96)
-- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_8)
-- [[help] Link &lpar;kernel&rpar; elf with MMU &quot;offset&quot;](https://discourse.llvm.org/t/help-link-kernel-elf-with-mmu-offset/64698#post_1)
 <!-- DISCOURSE-LLVM:END -->
