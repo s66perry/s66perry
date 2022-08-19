@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [&quot;Remember&quot; an LLVM Instruction across IR serialization?](https://discourse.llvm.org/t/remember-an-llvm-instruction-across-ir-serialization/64687#post_2)
+- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_3)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_94)
 - [PSTL status](https://discourse.llvm.org/t/pstl-status/64690#post_1)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_93)
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_7)
-- [[AArch64] How to describe resource exclusion in the schedule model?](https://discourse.llvm.org/t/aarch64-how-to-describe-resource-exclusion-in-the-schedule-model/64602#post_2)
 <!-- DISCOURSE-LLVM:END -->
