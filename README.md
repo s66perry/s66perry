@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_1)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=6#post_108)
-- [[ADT] is_splat and empty ranges](https://discourse.llvm.org/t/adt-is-splat-and-empty-ranges/64692#post_9)
-- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_6)
-- [[ADT] is_splat and empty ranges](https://discourse.llvm.org/t/adt-is-splat-and-empty-ranges/64692#post_8)
+- [How to Match G_BUILD_VECTOR_TRUNC in TableGen?](https://discourse.llvm.org/t/how-to-match-g-build-vector-trunc-in-tablegen/64725#post_1)
+- [[analyzer][taint] More precise taint modelling on arrays](https://discourse.llvm.org/t/analyzer-taint-more-precise-taint-modelling-on-arrays/54444#post_5)
+- [[ADT] is_splat and empty ranges](https://discourse.llvm.org/t/adt-is-splat-and-empty-ranges/64692#post_11)
+- [Open MLIR Meeting 8/18/2022: Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/open-mlir-meeting-8-18-2022-proposal-for-a-high-level-ml-dialect-in-mlir/64629#post_3)
+- [`vector::ScanOp::build` overload has no implementation](https://discourse.llvm.org/t/vector-build-overload-has-no-implementation/64724#post_1)
 <!-- DISCOURSE-LLVM:END -->
