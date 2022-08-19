@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to Match G_BUILD_VECTOR_TRUNC in TableGen?](https://discourse.llvm.org/t/how-to-match-g-build-vector-trunc-in-tablegen/64725#post_1)
-- [[analyzer][taint] More precise taint modelling on arrays](https://discourse.llvm.org/t/analyzer-taint-more-precise-taint-modelling-on-arrays/54444#post_5)
-- [[ADT] is_splat and empty ranges](https://discourse.llvm.org/t/adt-is-splat-and-empty-ranges/64692#post_11)
-- [Open MLIR Meeting 8/18/2022: Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/open-mlir-meeting-8-18-2022-proposal-for-a-high-level-ml-dialect-in-mlir/64629#post_3)
-- [`vector::ScanOp::build` overload has no implementation](https://discourse.llvm.org/t/vector-build-overload-has-no-implementation/64724#post_1)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=6#post_109)
+- [Are UUID&#39;s of all zero&#39;s valid UUID&#39;s anywhere?](https://discourse.llvm.org/t/are-uuids-of-all-zeros-valid-uuids-anywhere/64686#post_8)
+- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_3)
+- [[clang-tools]How to make clang tool execute the CodeGen process](https://discourse.llvm.org/t/clang-tools-how-to-make-clang-tool-execute-the-codegen-process/64727#post_2)
+- [[clang-tools]How to make clang tool execute the CodeGen process](https://discourse.llvm.org/t/clang-tools-how-to-make-clang-tool-execute-the-codegen-process/64727#post_1)
 <!-- DISCOURSE-LLVM:END -->
