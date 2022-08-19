@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=6#post_103)
-- [Error including TargetGenRegisterInfo.inc or TargetGenDAGISel.inc](https://discourse.llvm.org/t/error-including-targetgenregisterinfo-inc-or-targetgendagisel-inc/64714#post_1)
-- [[alias] how to pass option -print-alias-sets base on clang?](https://discourse.llvm.org/t/alias-how-to-pass-option-print-alias-sets-base-on-clang/64708#post_3)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=6#post_102)
-- [LLVM GPU Working Group Meeting – Friday, August 19, 2022](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-august-19-2022/64606#post_2)
+- [Buildbot insights](https://discourse.llvm.org/t/buildbot-insights/64648#post_3)
+- [Error including TargetGenRegisterInfo.inc or TargetGenDAGISel.inc](https://discourse.llvm.org/t/error-including-targetgenregisterinfo-inc-or-targetgendagisel-inc/64714#post_2)
+- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518?page=2#post_25)
+- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518?page=2#post_24)
+- [Running compiler-rt tests when using `LLVM_ENABLE_RUNTIMES`](https://discourse.llvm.org/t/running-compiler-rt-tests-when-using-llvm-enable-runtimes/64716#post_1)
 <!-- DISCOURSE-LLVM:END -->
