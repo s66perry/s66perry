@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM relicensing update &amp; further suggestions for help](https://discourse.llvm.org/t/llvm-relicensing-update-further-suggestions-for-help/64667#post_2)
+- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_7)
+- [Review blocked on libc++abi group](https://discourse.llvm.org/t/review-blocked-on-libc-abi-group/64695#post_1)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_10)
 - [[ADT] is_splat and empty ranges](https://discourse.llvm.org/t/adt-is-splat-and-empty-ranges/64692#post_4)
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_9)
-- [Are UUID&#39;s of all zero&#39;s valid UUID&#39;s anywhere?](https://discourse.llvm.org/t/are-uuids-of-all-zeros-valid-uuids-anywhere/64686#post_6)
-- [[Alias] how to use the API of getModRefInfo?](https://discourse.llvm.org/t/alias-how-to-use-the-api-of-getmodrefinfo/64693#post_1)
-- [[analyzer][taint] More precise taint modelling on arrays](https://discourse.llvm.org/t/analyzer-taint-more-precise-taint-modelling-on-arrays/54444#post_4)
 <!-- DISCOURSE-LLVM:END -->
