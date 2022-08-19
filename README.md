@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Address spaces](https://discourse.llvm.org/t/address-spaces/64705#post_1)
-- [Write a pass to change data layout from nchw to nhwc](https://discourse.llvm.org/t/write-a-pass-to-change-data-layout-from-nchw-to-nhwc/64704#post_1)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_48)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_98)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_97)
+- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367?page=2#post_21)
+- [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367#post_20)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=5#post_100)
+- [Workaround UB when checking if a double fits in int64_t?](https://discourse.llvm.org/t/workaround-ub-when-checking-if-a-double-fits-in-int64-t/63046#post_2)
+- [How to use clang::tooling::Transformer?](https://discourse.llvm.org/t/how-to-use-clang-transformer/58624#post_2)
 <!-- DISCOURSE-LLVM:END -->
