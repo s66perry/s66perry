@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-tools]How to make clang tool execute the CodeGen process](https://discourse.llvm.org/t/clang-tools-how-to-make-clang-tool-execute-the-codegen-process/64727#post_3)
+- [How To Emit an LLVM IR or Object Code From A Source Code Inside A Tool](https://discourse.llvm.org/t/how-to-emit-an-llvm-ir-or-object-code-from-a-source-code-inside-a-tool/58357#post_5)
+- [Write a pass to change data layout from nchw to nhwc](https://discourse.llvm.org/t/write-a-pass-to-change-data-layout-from-nchw-to-nhwc/64704#post_5)
 - [Vector components numbers restruction](https://discourse.llvm.org/t/vector-components-numbers-restruction/64741#post_1)
 - [[SOLVED] Performance optimize&lpar;Matmul&rpar; in MLIR is slow](https://discourse.llvm.org/t/solved-performance-optimize-matmul-in-mlir-is-slow/64740#post_3)
-- [[SOLVED] Performance optimize&lpar;Matmul&rpar; in MLIR is slow](https://discourse.llvm.org/t/solved-performance-optimize-matmul-in-mlir-is-slow/64740#post_2)
-- [[SOLVED] Performance optimize&lpar;Matmul&rpar; in MLIR is slow](https://discourse.llvm.org/t/solved-performance-optimize-matmul-in-mlir-is-slow/64740#post_1)
-- [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_17)
 <!-- DISCOURSE-LLVM:END -->
