@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Vector components numbers restruction](https://discourse.llvm.org/t/vector-components-numbers-restruction/64741#post_1)
 - [[SOLVED] Performance optimize&lpar;Matmul&rpar; in MLIR is slow](https://discourse.llvm.org/t/solved-performance-optimize-matmul-in-mlir-is-slow/64740#post_3)
 - [[SOLVED] Performance optimize&lpar;Matmul&rpar; in MLIR is slow](https://discourse.llvm.org/t/solved-performance-optimize-matmul-in-mlir-is-slow/64740#post_2)
 - [[SOLVED] Performance optimize&lpar;Matmul&rpar; in MLIR is slow](https://discourse.llvm.org/t/solved-performance-optimize-matmul-in-mlir-is-slow/64740#post_1)
 - [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_17)
-- [Issues with signext i1 on aarch64](https://discourse.llvm.org/t/issues-with-signext-i1-on-aarch64/64739#post_1)
 <!-- DISCOURSE-LLVM:END -->
