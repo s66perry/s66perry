@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM GPU News #40, August 19, 2022](https://discourse.llvm.org/t/llvm-gpu-news-40-august-19-2022/64750#post_1)
+- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_12)
+- [[Alias] how to use the API of getModRefInfo?](https://discourse.llvm.org/t/alias-how-to-use-the-api-of-getmodrefinfo/64693#post_3)
 - [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_11)
 - [[ADT] is_splat and empty ranges](https://discourse.llvm.org/t/adt-is-splat-and-empty-ranges/64692#post_12)
-- [Jump tables in LLVM IR](https://discourse.llvm.org/t/jump-tables-in-llvm-ir/64742#post_2)
-- [Why is clang++ falling behind on c++ 20 support so much?](https://discourse.llvm.org/t/why-is-clang-falling-behind-on-c-20-support-so-much/64744#post_2)
-- [Why is clang++ falling behind on c++ 20 support so much?](https://discourse.llvm.org/t/why-is-clang-falling-behind-on-c-20-support-so-much/64744#post_1)
 <!-- DISCOURSE-LLVM:END -->
