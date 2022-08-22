@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_15)
+- [Issues with signext i1 on aarch64](https://discourse.llvm.org/t/issues-with-signext-i1-on-aarch64/64739#post_2)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=6#post_118)
 - [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628?page=2#post_21)
 - [LTO, deplibs, and libcalls, oh my](https://discourse.llvm.org/t/lto-deplibs-and-libcalls-oh-my/64510#post_5)
-- [[C++20][RFC] Suggestion desired regarding the implementation of P0960R3](https://discourse.llvm.org/t/c-20-rfc-suggestion-desired-regarding-the-implementation-of-p0960r3/63744#post_8)
-- [[GlobalISel] Customize IRTranslator::translate?](https://discourse.llvm.org/t/globalisel-customize-irtranslator-translate/64546#post_6)
-- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_8)
 <!-- DISCOURSE-LLVM:END -->
