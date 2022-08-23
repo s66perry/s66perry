@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=3#post_48)
-- [[Alias] isNoAlias don&#39;t return expect result when we override pointer](https://discourse.llvm.org/t/alias-isnoalias-dont-return-expect-result-when-we-override-pointer/64779#post_2)
-- [15.0.0-rc1 has been tagged](https://discourse.llvm.org/t/15-0-0-rc1-has-been-tagged/64174?page=3#post_47)
-- [How to dump help for mllvm option?](https://discourse.llvm.org/t/how-to-dump-help-for-mllvm-option/64775#post_2)
-- [[RFC] Inconsistent naming convention of docs and test folders](https://discourse.llvm.org/t/rfc-inconsistent-naming-convention-of-docs-and-test-folders/64780#post_1)
+- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628?page=2#post_23)
+- [Using google Coral &lpar;TPU&rpar; with MLIR](https://discourse.llvm.org/t/using-google-coral-tpu-with-mlir/64783#post_1)
+- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628?page=2#post_22)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410#post_16)
+- [[Alias] isNoAlias don&#39;t return expect result when we override pointer](https://discourse.llvm.org/t/alias-isnoalias-dont-return-expect-result-when-we-override-pointer/64779#post_3)
 <!-- DISCOURSE-LLVM:END -->
