@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Musttail generating incorrect output for function with pass by value arguments](https://discourse.llvm.org/t/musttail-generating-incorrect-output-for-function-with-pass-by-value-arguments/64778#post_2)
-- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_19)
-- [Using google Coral &lpar;TPU&rpar; with MLIR](https://discourse.llvm.org/t/using-google-coral-tpu-with-mlir/64783#post_3)
-- [15.0.0-rc3 delayed](https://discourse.llvm.org/t/15-0-0-rc3-delayed/64792#post_1)
-- [LLVM 15.x release status](https://discourse.llvm.org/t/llvm-15-x-release-status/64754#post_2)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_21)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410#post_20)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410#post_19)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410#post_18)
+- [MLIR-ODS DenseXXXArrayAttr + ArrayMinCount seem like a footgun](https://discourse.llvm.org/t/mlir-ods-densexxxarrayattr-arraymincount-seem-like-a-footgun/64763#post_8)
 <!-- DISCOURSE-LLVM:END -->
