@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR-ODS DenseXXXArrayAttr + ArrayMinCount seem like a footgun](https://discourse.llvm.org/t/mlir-ods-densexxxarrayattr-arraymincount-seem-like-a-footgun/64763#post_7)
-- [Custom mlir tensor type](https://discourse.llvm.org/t/custom-mlir-tensor-type/64788#post_1)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_51)
-- [Upcoming change with how libc++, libc++abi and libunwind are being built](https://discourse.llvm.org/t/upcoming-change-with-how-libc-libc-abi-and-libunwind-are-being-built/59079?page=2#post_29)
-- [[RFC] Add direct support for permutations](https://discourse.llvm.org/t/rfc-add-direct-support-for-permutations/63946#post_5)
+- [Musttail generating incorrect output for function with pass by value arguments](https://discourse.llvm.org/t/musttail-generating-incorrect-output-for-function-with-pass-by-value-arguments/64778#post_2)
+- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_19)
+- [Using google Coral &lpar;TPU&rpar; with MLIR](https://discourse.llvm.org/t/using-google-coral-tpu-with-mlir/64783#post_3)
+- [15.0.0-rc3 delayed](https://discourse.llvm.org/t/15-0-0-rc3-delayed/64792#post_1)
+- [LLVM 15.x release status](https://discourse.llvm.org/t/llvm-15-x-release-status/64754#post_2)
 <!-- DISCOURSE-LLVM:END -->
