@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Loop Opt WG Meeting on Aug 24, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-aug-24-2022/64798#post_1)
-- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_25)
-- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_24)
-- [Musttail generating incorrect output for function with pass by value arguments](https://discourse.llvm.org/t/musttail-generating-incorrect-output-for-function-with-pass-by-value-arguments/64778#post_5)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_122)
+- [Arcanist deprecation errors on PHP 8](https://discourse.llvm.org/t/arcanist-deprecation-errors-on-php-8/63231#post_20)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=6#post_108)
+- [Musttail generating incorrect output for function with pass by value arguments](https://discourse.llvm.org/t/musttail-generating-incorrect-output-for-function-with-pass-by-value-arguments/64778#post_6)
+- [Why so many new posts have llvm-weekly as tag?](https://discourse.llvm.org/t/why-so-many-new-posts-have-llvm-weekly-as-tag/64729#post_2)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
