@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[GlobalISel] Customize IRTranslator::translate?](https://discourse.llvm.org/t/globalisel-customize-irtranslator-translate/64546#post_8)
-- [[AArch64] Will the instruction cnth&#39;s pipeline delay increase when there is a inside mul?](https://discourse.llvm.org/t/aarch64-will-the-instruction-cnths-pipeline-delay-increase-when-there-is-a-inside-mul/62807#post_2)
-- [Using google Coral &lpar;TPU&rpar; with MLIR](https://discourse.llvm.org/t/using-google-coral-tpu-with-mlir/64783#post_2)
-- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628?page=2#post_24)
-- [Shrinking iteration space of loop with condition](https://discourse.llvm.org/t/shrinking-iteration-space-of-loop-with-condition/64538#post_5)
+- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_18)
+- [[RFC] Debug info for coroutine suspension locations](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations/64721#post_17)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_50)
+- [[RFC] Add integer add with carry op to arith](https://discourse.llvm.org/t/rfc-add-integer-add-with-carry-op-to-arith/64573#post_4)
+- [Support for bfloat in DAGTypeLegalizer::SoftenFloatRes_FP_EXTEND](https://discourse.llvm.org/t/support-for-bfloat-in-dagtypelegalizer-softenfloatres-fp-extend/64586#post_9)
 <!-- DISCOURSE-LLVM:END -->
