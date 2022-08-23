@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_4)
-- [Musttail generating incorrect output for function with pass by value arguments](https://discourse.llvm.org/t/musttail-generating-incorrect-output-for-function-with-pass-by-value-arguments/64778#post_4)
-- [Musttail generating incorrect output for function with pass by value arguments](https://discourse.llvm.org/t/musttail-generating-incorrect-output-for-function-with-pass-by-value-arguments/64778#post_3)
-- [Project idea: llvm-extract for C code](https://discourse.llvm.org/t/project-idea-llvm-extract-for-c-code/64796#post_1)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_121)
+- [Loop Opt WG Meeting on Aug 24, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-aug-24-2022/64798#post_1)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_25)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_24)
+- [Musttail generating incorrect output for function with pass by value arguments](https://discourse.llvm.org/t/musttail-generating-incorrect-output-for-function-with-pass-by-value-arguments/64778#post_5)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_122)
 <!-- DISCOURSE-LLVM:END -->
