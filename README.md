@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Structured Codegen Beyond Rectangular Arrays](https://discourse.llvm.org/t/rfc-structured-codegen-beyond-rectangular-arrays/64707#post_7)
-- [[GISel/InstructionSelect] Assertion: Register class not set, wrong accessor?](https://discourse.llvm.org/t/gisel-instructionselect-assertion-register-class-not-set-wrong-accessor/64821#post_2)
-- [lld-link: Undefined symbol llvm::LLVMContext](https://discourse.llvm.org/t/lld-link-undefined-symbol-llvm-llvmcontext/64581#post_4)
-- [Building clang &lpar;win x86-64&rpar; binaries with msvc&#39;s clang: Hurdles and sticking point](https://discourse.llvm.org/t/building-clang-win-x86-64-binaries-with-msvcs-clang-hurdles-and-sticking-point/64809#post_2)
-- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628?page=2#post_28)
+- [Why so many new posts have llvm-weekly as tag?](https://discourse.llvm.org/t/why-so-many-new-posts-have-llvm-weekly-as-tag/64729#post_4)
+- [Why so many new posts have llvm-weekly as tag?](https://discourse.llvm.org/t/why-so-many-new-posts-have-llvm-weekly-as-tag/64729#post_3)
+- [2022 US LLVM Developers&#39; Meeting - Registration is open](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-registration-is-open/64590#post_5)
+- [Having Trouble building LLVM](https://discourse.llvm.org/t/having-trouble-building-llvm/64737#post_2)
+- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_8)
 <!-- DISCOURSE-LLVM:END -->
