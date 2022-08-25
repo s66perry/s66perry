@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[TOSA] does TOSA only support symmetry quantization?](https://discourse.llvm.org/t/tosa-does-tosa-only-support-symmetry-quantization/64816#post_3)
-- [How to dump help for mllvm option?](https://discourse.llvm.org/t/how-to-dump-help-for-mllvm-option/64775#post_3)
-- [Why so many new posts have llvm-weekly as tag?](https://discourse.llvm.org/t/why-so-many-new-posts-have-llvm-weekly-as-tag/64729#post_6)
-- [Compiling LLVM with Clang and OpenMP for Remote OpenMP Offloading](https://discourse.llvm.org/t/compiling-llvm-with-clang-and-openmp-for-remote-openmp-offloading/64815#post_5)
-- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_10)
+- [[llvm-dev] [RFC] llvm-dva - Debug Information Visual Analyzer](https://discourse.llvm.org/t/llvm-dev-rfc-llvm-dva-debug-information-visual-analyzer/62570#post_12)
+- [How to dump help for mllvm option?](https://discourse.llvm.org/t/how-to-dump-help-for-mllvm-option/64775#post_4)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_131)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_130)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_129)
 <!-- DISCOURSE-LLVM:END -->
