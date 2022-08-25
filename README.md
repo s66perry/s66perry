@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_10)
+- [Why so many new posts have llvm-weekly as tag?](https://discourse.llvm.org/t/why-so-many-new-posts-have-llvm-weekly-as-tag/64729#post_7)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_132)
 - [RFC - LLVM JIT Office Hours / Updates](https://discourse.llvm.org/t/rfc-llvm-jit-office-hours-updates/64833#post_4)
 - [RFC - LLVM JIT Office Hours / Updates](https://discourse.llvm.org/t/rfc-llvm-jit-office-hours-updates/64833#post_3)
-- [Compiling LLVM with Clang and OpenMP for Remote OpenMP Offloading](https://discourse.llvm.org/t/compiling-llvm-with-clang-and-openmp-for-remote-openmp-offloading/64815#post_6)
-- [[analyzer][taint] More precise taint modelling on arrays](https://discourse.llvm.org/t/analyzer-taint-more-precise-taint-modelling-on-arrays/54444#post_8)
-- [How to dump help for mllvm option?](https://discourse.llvm.org/t/how-to-dump-help-for-mllvm-option/64775#post_5)
 <!-- DISCOURSE-LLVM:END -->
