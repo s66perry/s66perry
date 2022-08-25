@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Compiling LLVM with Clang and OpenMP for Remote OpenMP Offloading](https://discourse.llvm.org/t/compiling-llvm-with-clang-and-openmp-for-remote-openmp-offloading/64815#post_4)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_126)
-- [[alias] how to pass option -print-alias-sets base on clang?](https://discourse.llvm.org/t/alias-how-to-pass-option-print-alias-sets-base-on-clang/64708#post_7)
-- [RFC - LLVM JIT Office Hours / Updates](https://discourse.llvm.org/t/rfc-llvm-jit-office-hours-updates/64833#post_2)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_125)
+- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_10)
+- [MLIR C/C++ Frontend Working Group call this Friday, Aug 26th](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-call-this-friday-aug-26th/64836#post_1)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_40)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_39)
+- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
