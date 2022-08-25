@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_133)
+- [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_11)
+- [Building clang &lpar;win x86-64&rpar; binaries with msvc&#39;s clang: Hurdles and sticking point](https://discourse.llvm.org/t/building-clang-win-x86-64-binaries-with-msvcs-clang-hurdles-and-sticking-point/64809#post_3)
+- [Do I need to add an intrinsic for what I want to do?](https://discourse.llvm.org/t/do-i-need-to-add-an-intrinsic-for-what-i-want-to-do/64651#post_6)
 - [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_10)
-- [Why so many new posts have llvm-weekly as tag?](https://discourse.llvm.org/t/why-so-many-new-posts-have-llvm-weekly-as-tag/64729#post_7)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=7#post_132)
-- [RFC - LLVM JIT Office Hours / Updates](https://discourse.llvm.org/t/rfc-llvm-jit-office-hours-updates/64833#post_4)
-- [RFC - LLVM JIT Office Hours / Updates](https://discourse.llvm.org/t/rfc-llvm-jit-office-hours-updates/64833#post_3)
 <!-- DISCOURSE-LLVM:END -->
