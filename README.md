@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[TableGen] Share the same predicate implementation between tablegen code literal and cpp files?](https://discourse.llvm.org/t/tablegen-share-the-same-predicate-implementation-between-tablegen-code-literal-and-cpp-files/64858#post_3)
-- [Is that BlockFrequencyInfo can only be used with profile data](https://discourse.llvm.org/t/is-that-blockfrequencyinfo-can-only-be-used-with-profile-data/64855#post_7)
-- [Is that BlockFrequencyInfo can only be used with profile data](https://discourse.llvm.org/t/is-that-blockfrequencyinfo-can-only-be-used-with-profile-data/64855#post_6)
-- [[TableGen] Share the same predicate implementation between tablegen code literal and cpp files?](https://discourse.llvm.org/t/tablegen-share-the-same-predicate-implementation-between-tablegen-code-literal-and-cpp-files/64858#post_2)
-- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_14)
+- [Lld-link does not export data symbols](https://discourse.llvm.org/t/lld-link-does-not-export-data-symbols/64854#post_4)
+- [Lld-link does not export data symbols](https://discourse.llvm.org/t/lld-link-does-not-export-data-symbols/64854#post_3)
+- [15.0.0-rc3 has been tagged](https://discourse.llvm.org/t/15-0-0-rc3-has-been-tagged/64845#post_3)
+- [Lld-link does not export data symbols](https://discourse.llvm.org/t/lld-link-does-not-export-data-symbols/64854#post_2)
+- [What is a CodePointerSize and how does it relate to DWARF?](https://discourse.llvm.org/t/what-is-a-codepointersize-and-how-does-it-relate-to-dwarf/64825#post_4)
 <!-- DISCOURSE-LLVM:END -->
