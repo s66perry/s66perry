@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Jump tables in LLVM IR](https://discourse.llvm.org/t/jump-tables-in-llvm-ir/64742#post_3)
-- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_16)
-- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_15)
-- [Lld-link does not export data symbols](https://discourse.llvm.org/t/lld-link-does-not-export-data-symbols/64854#post_7)
-- [Problems on lowering scf.parallel with dynamic boundary to GPU](https://discourse.llvm.org/t/problems-on-lowering-scf-parallel-with-dynamic-boundary-to-gpu/64872#post_3)
+- [15.0.0-rc3 has been tagged](https://discourse.llvm.org/t/15-0-0-rc3-has-been-tagged/64845#post_4)
+- [Problems on lowering scf.parallel with dynamic boundary to GPU](https://discourse.llvm.org/t/problems-on-lowering-scf-parallel-with-dynamic-boundary-to-gpu/64872#post_4)
+- [[analyzer][taint] More precise taint modelling on arrays](https://discourse.llvm.org/t/analyzer-taint-more-precise-taint-modelling-on-arrays/54444#post_9)
+- [How should I use gdb to debug clangd?](https://discourse.llvm.org/t/how-should-i-use-gdb-to-debug-clangd/64876#post_1)
+- [[RFC] Revisiting linear history vs merge commits](https://discourse.llvm.org/t/rfc-revisiting-linear-history-vs-merge-commits/64873#post_3)
 <!-- DISCOURSE-LLVM:END -->
