@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Using google Coral &lpar;TPU&rpar; with MLIR](https://discourse.llvm.org/t/using-google-coral-tpu-with-mlir/64783#post_4)
+- [[RFC] IR Versioning](https://discourse.llvm.org/t/rfc-ir-versioning/5893#post_18)
 - [Lld-link does not export data symbols](https://discourse.llvm.org/t/lld-link-does-not-export-data-symbols/64854#post_5)
 - [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=6#post_115)
 - [Compiling LLVM with Clang and OpenMP for Remote OpenMP Offloading](https://discourse.llvm.org/t/compiling-llvm-with-clang-and-openmp-for-remote-openmp-offloading/64815#post_9)
-- [[RFC] IR Versioning](https://discourse.llvm.org/t/rfc-ir-versioning/5893#post_17)
-- [Bad codegen for handrolled unaligned write](https://discourse.llvm.org/t/bad-codegen-for-handrolled-unaligned-write/64863#post_4)
 <!-- DISCOURSE-LLVM:END -->
