@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [15.0.0-rc3 has been tagged](https://discourse.llvm.org/t/15-0-0-rc3-has-been-tagged/64845#post_4)
-- [Problems on lowering scf.parallel with dynamic boundary to GPU](https://discourse.llvm.org/t/problems-on-lowering-scf-parallel-with-dynamic-boundary-to-gpu/64872#post_4)
-- [[analyzer][taint] More precise taint modelling on arrays](https://discourse.llvm.org/t/analyzer-taint-more-precise-taint-modelling-on-arrays/54444#post_9)
-- [How should I use gdb to debug clangd?](https://discourse.llvm.org/t/how-should-i-use-gdb-to-debug-clangd/64876#post_1)
-- [[RFC] Revisiting linear history vs merge commits](https://discourse.llvm.org/t/rfc-revisiting-linear-history-vs-merge-commits/64873#post_3)
+- [Question about writing a refactoring tool](https://discourse.llvm.org/t/question-about-writing-a-refactoring-tool/57224#post_5)
+- [[RFC] Revisiting linear history vs merge commits](https://discourse.llvm.org/t/rfc-revisiting-linear-history-vs-merge-commits/64873#post_11)
+- [[RFC] Revisiting linear history vs merge commits](https://discourse.llvm.org/t/rfc-revisiting-linear-history-vs-merge-commits/64873#post_10)
+- [Problems on lowering scf.parallel with dynamic boundary to GPU](https://discourse.llvm.org/t/problems-on-lowering-scf-parallel-with-dynamic-boundary-to-gpu/64872#post_5)
+- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_19)
 <!-- DISCOURSE-LLVM:END -->
