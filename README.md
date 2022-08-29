@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there a tutorial about developing source code transformations Clang plugin?](https://discourse.llvm.org/t/is-there-a-tutorial-about-developing-source-code-transformations-clang-plugin/64909#post_2)
-- [[RFC] A binary serialization format for MLIR](https://discourse.llvm.org/t/rfc-a-binary-serialization-format-for-mlir/63518?page=2#post_29)
-- [Latency-Insensitive Finite State Machine](https://discourse.llvm.org/t/latency-insensitive-finite-state-machine/64911#post_1)
-- [Pack expansion bug?](https://discourse.llvm.org/t/pack-expansion-bug/64910#post_1)
-- [Is the LLVM dialect supports `llvm.trap` or any other debug intrinsics?](https://discourse.llvm.org/t/is-the-llvm-dialect-supports-llvm-trap-or-any-other-debug-intrinsics/64903#post_3)
+- [[RFC] Is it reasonable to add a CSE pass after the loop optimization ends?](https://discourse.llvm.org/t/rfc-is-it-reasonable-to-add-a-cse-pass-after-the-loop-optimization-ends/64914#post_2)
+- [15.0.0-rc3 has been tagged](https://discourse.llvm.org/t/15-0-0-rc3-has-been-tagged/64845#post_6)
+- [How to clang-format tablegen files?](https://discourse.llvm.org/t/how-to-clang-format-tablegen-files/64870#post_3)
+- [Note: shadowed declaration is here](https://discourse.llvm.org/t/note-shadowed-declaration-is-here/64915#post_1)
+- [[RFC] Is it reasonable to add a CSE pass after the loop optimization ends?](https://discourse.llvm.org/t/rfc-is-it-reasonable-to-add-a-cse-pass-after-the-loop-optimization-ends/64914#post_1)
 <!-- DISCOURSE-LLVM:END -->
