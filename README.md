@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Device pointers not implicitly mapped firstprivate](https://discourse.llvm.org/t/device-pointers-not-implicitly-mapped-firstprivate/64902#post_2)
-- [What is a CodePointerSize and how does it relate to DWARF?](https://discourse.llvm.org/t/what-is-a-codepointersize-and-how-does-it-relate-to-dwarf/64825#post_10)
-- [ISelLowring - create new custom instruction in some custom function](https://discourse.llvm.org/t/isellowring-create-new-custom-instruction-in-some-custom-function/64913#post_2)
-- [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_14)
-- [Is the LLVM dialect supports `llvm.trap` or any other debug intrinsics?](https://discourse.llvm.org/t/is-the-llvm-dialect-supports-llvm-trap-or-any-other-debug-intrinsics/64903#post_5)
+- [Device pointers not implicitly mapped firstprivate](https://discourse.llvm.org/t/device-pointers-not-implicitly-mapped-firstprivate/64902#post_6)
+- [Device pointers not implicitly mapped firstprivate](https://discourse.llvm.org/t/device-pointers-not-implicitly-mapped-firstprivate/64902#post_5)
+- [Device pointers not implicitly mapped firstprivate](https://discourse.llvm.org/t/device-pointers-not-implicitly-mapped-firstprivate/64902#post_4)
+- [[RFC] -ffat-lto-objects support](https://discourse.llvm.org/t/rfc-ffat-lto-objects-support/63977#post_17)
+- [[RFC] -ffat-lto-objects support](https://discourse.llvm.org/t/rfc-ffat-lto-objects-support/63977#post_16)
 <!-- DISCOURSE-LLVM:END -->
