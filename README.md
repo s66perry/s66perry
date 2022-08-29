@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Welcome to discuss TensorRT Dialect](https://discourse.llvm.org/t/welcome-to-discuss-tensorrt-dialect/64656#post_6)
-- [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_15)
-- [LLVM Weekly - #452, August 29th 2022](https://discourse.llvm.org/t/llvm-weekly-452-august-29th-2022/64922#post_1)
-- [MLIR C/C++ Frontend Working Group call this Friday, Aug 26th](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-call-this-friday-aug-26th/64836#post_2)
-- [How to clang-format tablegen files?](https://discourse.llvm.org/t/how-to-clang-format-tablegen-files/64870#post_5)
+- [Using Clang without standard include header](https://discourse.llvm.org/t/using-clang-without-standard-include-header/64925#post_3)
+- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_6)
+- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813#post_20)
+- [Using Clang without standard include header](https://discourse.llvm.org/t/using-clang-without-standard-include-header/64925#post_2)
+- [Using Clang without standard include header](https://discourse.llvm.org/t/using-clang-without-standard-include-header/64925#post_1)
 <!-- DISCOURSE-LLVM:END -->
