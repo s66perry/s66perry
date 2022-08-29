@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Is it reasonable to add a CSE pass after the loop optimization ends?](https://discourse.llvm.org/t/rfc-is-it-reasonable-to-add-a-cse-pass-after-the-loop-optimization-ends/64914#post_4)
-- [Python3 compatibility for the API](https://discourse.llvm.org/t/python3-compatibility-for-the-api/42307#post_15)
-- [[update_tet_checks] Don&#39;t work fine under the MSYS2 environment](https://discourse.llvm.org/t/update-tet-checks-dont-work-fine-under-the-msys2-environment/64916#post_1)
-- [[RFC] Is it reasonable to add a CSE pass after the loop optimization ends?](https://discourse.llvm.org/t/rfc-is-it-reasonable-to-add-a-cse-pass-after-the-loop-optimization-ends/64914#post_3)
-- [15.0.0-rc3 has been tagged](https://discourse.llvm.org/t/15-0-0-rc3-has-been-tagged/64845#post_7)
+- [ISelLowring - create new custom instruction in some custom function](https://discourse.llvm.org/t/isellowring-create-new-custom-instruction-in-some-custom-function/64913#post_2)
+- [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_14)
+- [Is the LLVM dialect supports `llvm.trap` or any other debug intrinsics?](https://discourse.llvm.org/t/is-the-llvm-dialect-supports-llvm-trap-or-any-other-debug-intrinsics/64903#post_5)
+- [Is the LLVM dialect supports `llvm.trap` or any other debug intrinsics?](https://discourse.llvm.org/t/is-the-llvm-dialect-supports-llvm-trap-or-any-other-debug-intrinsics/64903#post_4)
+- [[RFC] Is it reasonable to add a CSE pass after the loop optimization ends?](https://discourse.llvm.org/t/rfc-is-it-reasonable-to-add-a-cse-pass-after-the-loop-optimization-ends/64914#post_5)
 <!-- DISCOURSE-LLVM:END -->
