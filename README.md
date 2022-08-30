@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What algorithm is used by InstVisitor to traverse the basic blocks in CFG?](https://discourse.llvm.org/t/what-algorithm-is-used-by-instvisitor-to-traverse-the-basic-blocks-in-cfg/64919#post_3)
-- [[RFC] Enhancing Clang-Tidy with project-level knowledge](https://discourse.llvm.org/t/rfc-enhancing-clang-tidy-with-project-level-knowledge/63960#post_5)
-- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_7)
-- [Compiling LLVM with Clang and OpenMP for Remote OpenMP Offloading](https://discourse.llvm.org/t/compiling-llvm-with-clang-and-openmp-for-remote-openmp-offloading/64815#post_11)
-- [Llvm:crash vs crash label](https://discourse.llvm.org/t/llvm-crash-vs-crash-label/64818#post_6)
+- [Target teams loop reduction combined construct not implicitly mapping](https://discourse.llvm.org/t/target-teams-loop-reduction-combined-construct-not-implicitly-mapping/64941#post_5)
+- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_4)
+- [Target teams loop reduction combined construct not implicitly mapping](https://discourse.llvm.org/t/target-teams-loop-reduction-combined-construct-not-implicitly-mapping/64941#post_4)
+- [[lit] Run a RUN line multiple times with different % replacements](https://discourse.llvm.org/t/lit-run-a-run-line-multiple-times-with-different-replacements/64932#post_3)
+- [Target teams loop reduction combined construct not implicitly mapping](https://discourse.llvm.org/t/target-teams-loop-reduction-combined-construct-not-implicitly-mapping/64941#post_3)
 <!-- DISCOURSE-LLVM:END -->
