@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_5)
-- [Question about getelementptr inbounds with offset 0](https://discourse.llvm.org/t/question-about-getelementptr-inbounds-with-offset-0/62533#post_13)
-- [15.0.0-rc3 has been tagged](https://discourse.llvm.org/t/15-0-0-rc3-has-been-tagged/64845#post_9)
-- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_3)
-- [Odd behavior in SlotIndex::getInstrDistance&lpar;&rpar;](https://discourse.llvm.org/t/odd-behavior-in-slotindex-getinstrdistance/64934#post_2)
+- [Clang on CUDA file produces many warnings](https://discourse.llvm.org/t/clang-on-cuda-file-produces-many-warnings/64935#post_1)
+- [Under what circumstances will lld layout deviate from object file input order?](https://discourse.llvm.org/t/under-what-circumstances-will-lld-layout-deviate-from-object-file-input-order/64926#post_3)
+- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_8)
+- [2022 US LLVM Developers&#39; Meeting - Call for Presentations!](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-call-for-presentations/63691#post_5)
+- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_7)
 <!-- DISCOURSE-LLVM:END -->
