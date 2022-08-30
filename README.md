@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Pre-compiled Modules and &lpar;Failing&rpar; Optimization of Build Time Requirements](https://discourse.llvm.org/t/pre-compiled-modules-and-failing-optimization-of-build-time-requirements/64267#post_3)
-- [Pre-compiled Modules and &lpar;Failing&rpar; Optimization of Build Time Requirements](https://discourse.llvm.org/t/pre-compiled-modules-and-failing-optimization-of-build-time-requirements/64267#post_2)
-- [Overcoming Sparsification Limitation on Level Types](https://discourse.llvm.org/t/overcoming-sparsification-limitation-on-level-types/62585#post_5)
-- [[RFC] Adding Gather, Scatter Ops](https://discourse.llvm.org/t/rfc-adding-gather-scatter-ops/64757#post_17)
-- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_2)
+- [Linker generated attributes for LTO - does lld already do this?](https://discourse.llvm.org/t/linker-generated-attributes-for-lto-does-lld-already-do-this/64933#post_1)
+- [[lit] Run a RUN line multiple times with different % replacements](https://discourse.llvm.org/t/lit-run-a-run-line-multiple-times-with-different-replacements/64932#post_1)
+- [Latency-Insensitive Finite State Machine](https://discourse.llvm.org/t/latency-insensitive-finite-state-machine/64911#post_5)
+- [Latency-Insensitive Finite State Machine](https://discourse.llvm.org/t/latency-insensitive-finite-state-machine/64911#post_4)
+- [Latency-Insensitive Finite State Machine](https://discourse.llvm.org/t/latency-insensitive-finite-state-machine/64911#post_3)
 <!-- DISCOURSE-LLVM:END -->
