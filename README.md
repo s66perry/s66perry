@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Target teams loop reduction combined construct not implicitly mapping](https://discourse.llvm.org/t/target-teams-loop-reduction-combined-construct-not-implicitly-mapping/64941#post_5)
-- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_4)
-- [Target teams loop reduction combined construct not implicitly mapping](https://discourse.llvm.org/t/target-teams-loop-reduction-combined-construct-not-implicitly-mapping/64941#post_4)
-- [[lit] Run a RUN line multiple times with different % replacements](https://discourse.llvm.org/t/lit-run-a-run-line-multiple-times-with-different-replacements/64932#post_3)
-- [Target teams loop reduction combined construct not implicitly mapping](https://discourse.llvm.org/t/target-teams-loop-reduction-combined-construct-not-implicitly-mapping/64941#post_3)
+- [Llvm:crash vs crash label](https://discourse.llvm.org/t/llvm-crash-vs-crash-label/64818#post_7)
+- [14.0.6-final has been tagged](https://discourse.llvm.org/t/14-0-6-final-has-been-tagged/63432#post_9)
+- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813?page=2#post_23)
+- [[Clang] How to emit final &lpar;after optimizations&rpar; IR for the given code?](https://discourse.llvm.org/t/clang-how-to-emit-final-after-optimizations-ir-for-the-given-code/64942#post_4)
+- [[Clang] How to emit final &lpar;after optimizations&rpar; IR for the given code?](https://discourse.llvm.org/t/clang-how-to-emit-final-after-optimizations-ir-for-the-given-code/64942#post_3)
 <!-- DISCOURSE-LLVM:END -->
