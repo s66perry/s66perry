@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Buildbot insights](https://discourse.llvm.org/t/buildbot-insights/64648#post_4)
-- [[lit] Run a RUN line multiple times with different % replacements](https://discourse.llvm.org/t/lit-run-a-run-line-multiple-times-with-different-replacements/64932#post_4)
-- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813?page=2#post_24)
-- [InstCombine&#39;s select optimizations don&#39;t trigger reliably](https://discourse.llvm.org/t/instcombines-select-optimizations-dont-trigger-reliably/64927#post_2)
-- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_9)
+- [Target teams loop reduction combined construct not implicitly mapping](https://discourse.llvm.org/t/target-teams-loop-reduction-combined-construct-not-implicitly-mapping/64941#post_6)
+- [Clang does not produce full .debug_aranges section with ThinLTO](https://discourse.llvm.org/t/clang-does-not-produce-full-debug-aranges-section-with-thinlto/64898#post_3)
+- [Where does the function visitORR check the upper bits are zero?](https://discourse.llvm.org/t/where-does-the-function-visitorr-check-the-upper-bits-are-zero/64947#post_1)
+- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_10)
+- [Crash in omp_unset_lock](https://discourse.llvm.org/t/crash-in-omp-unset-lock/64946#post_2)
 <!-- DISCOURSE-LLVM:END -->
