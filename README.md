@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_5)
+- [Question about getelementptr inbounds with offset 0](https://discourse.llvm.org/t/question-about-getelementptr-inbounds-with-offset-0/62533#post_13)
+- [15.0.0-rc3 has been tagged](https://discourse.llvm.org/t/15-0-0-rc3-has-been-tagged/64845#post_9)
 - [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_3)
 - [Odd behavior in SlotIndex::getInstrDistance&lpar;&rpar;](https://discourse.llvm.org/t/odd-behavior-in-slotindex-getinstrdistance/64934#post_2)
-- [Odd behavior in SlotIndex::getInstrDistance&lpar;&rpar;](https://discourse.llvm.org/t/odd-behavior-in-slotindex-getinstrdistance/64934#post_1)
-- [Linker generated attributes for LTO - does lld already do this?](https://discourse.llvm.org/t/linker-generated-attributes-for-lto-does-lld-already-do-this/64933#post_1)
-- [[lit] Run a RUN line multiple times with different % replacements](https://discourse.llvm.org/t/lit-run-a-run-line-multiple-times-with-different-replacements/64932#post_1)
 <!-- DISCOURSE-LLVM:END -->
