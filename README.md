@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compiling LLVM with Clang and OpenMP for Remote OpenMP Offloading](https://discourse.llvm.org/t/compiling-llvm-with-clang-and-openmp-for-remote-openmp-offloading/64815#post_11)
+- [Llvm:crash vs crash label](https://discourse.llvm.org/t/llvm-crash-vs-crash-label/64818#post_6)
+- [Under what circumstances will lld layout deviate from object file input order?](https://discourse.llvm.org/t/under-what-circumstances-will-lld-layout-deviate-from-object-file-input-order/64926#post_4)
 - [What algorithm is used by InstVisitor to traverse the basic blocks in CFG?](https://discourse.llvm.org/t/what-algorithm-is-used-by-instvisitor-to-traverse-the-basic-blocks-in-cfg/64919#post_2)
 - [[RFC] Enhancing Clang-Tidy with project-level knowledge](https://discourse.llvm.org/t/rfc-enhancing-clang-tidy-with-project-level-knowledge/63960#post_4)
-- [Linker generated attributes for LTO - does lld already do this?](https://discourse.llvm.org/t/linker-generated-attributes-for-lto-does-lld-already-do-this/64933#post_2)
-- [Upstreaming from our MLIR python compiler project](https://discourse.llvm.org/t/upstreaming-from-our-mlir-python-compiler-project/64931#post_4)
-- [Assembly format of an array of EnumAttr](https://discourse.llvm.org/t/assembly-format-of-an-array-of-enumattr/64936#post_1)
 <!-- DISCOURSE-LLVM:END -->
