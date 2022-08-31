@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[lit] Run a RUN line multiple times with different % replacements](https://discourse.llvm.org/t/lit-run-a-run-line-multiple-times-with-different-replacements/64932#post_9)
-- [Clang does not produce full .debug_aranges section with ThinLTO](https://discourse.llvm.org/t/clang-does-not-produce-full-debug-aranges-section-with-thinlto/64898#post_5)
-- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_13)
-- [LLVM 15.0.0-final release update &lpar;and help needed&rpar;](https://discourse.llvm.org/t/llvm-15-0-0-final-release-update-and-help-needed/64967#post_3)
-- [[Alias] Can any interface distinguish two memory location point to different object?](https://discourse.llvm.org/t/alias-can-any-interface-distinguish-two-memory-location-point-to-different-object/64966#post_3)
+- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_16)
+- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_15)
+- [Llvm:crash vs crash label](https://discourse.llvm.org/t/llvm-crash-vs-crash-label/64818#post_9)
+- [Under what circumstances will lld layout deviate from object file input order?](https://discourse.llvm.org/t/under-what-circumstances-will-lld-layout-deviate-from-object-file-input-order/64926#post_6)
+- [Under what circumstances will lld layout deviate from object file input order?](https://discourse.llvm.org/t/under-what-circumstances-will-lld-layout-deviate-from-object-file-input-order/64926#post_5)
 <!-- DISCOURSE-LLVM:END -->
