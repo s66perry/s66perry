@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_17)
-- [Llvm:crash vs crash label](https://discourse.llvm.org/t/llvm-crash-vs-crash-label/64818#post_10)
-- [[RFC] Vector Masking Representation in MLIR](https://discourse.llvm.org/t/rfc-vector-masking-representation-in-mlir/64964#post_2)
-- [Interprocedural Register Allocation maturity and stability](https://discourse.llvm.org/t/interprocedural-register-allocation-maturity-and-stability/64970#post_1)
-- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_16)
+- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_16)
+- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_15)
+- [Upstreaming from our MLIR python compiler project](https://discourse.llvm.org/t/upstreaming-from-our-mlir-python-compiler-project/64931#post_6)
+- [Upstreaming from our MLIR python compiler project](https://discourse.llvm.org/t/upstreaming-from-our-mlir-python-compiler-project/64931#post_5)
+- [Gpu.all_reduce among a subgroup?](https://discourse.llvm.org/t/gpu-all-reduce-among-a-subgroup/64972#post_1)
 <!-- DISCOURSE-LLVM:END -->
