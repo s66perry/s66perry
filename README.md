@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [A patch to configure the &quot;pointer to aggregate&quot; warning in bugprone-sizeof-expression](https://discourse.llvm.org/t/a-patch-to-configure-the-pointer-to-aggregate-warning-in-bugprone-sizeof-expression/64955#post_3)
+- [FP contraction &lpar;FMA&rpar; on by default](https://discourse.llvm.org/t/fp-contraction-fma-on-by-default/64975#post_3)
+- [[RFC] EnumAttr for iterator types in Linalg](https://discourse.llvm.org/t/rfc-enumattr-for-iterator-types-in-linalg/64535#post_9)
+- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_17)
 - [FP contraction &lpar;FMA&rpar; on by default](https://discourse.llvm.org/t/fp-contraction-fma-on-by-default/64975#post_2)
-- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930#post_19)
-- [Guide/tutorial for adding a new type to C in Clang?](https://discourse.llvm.org/t/guide-tutorial-for-adding-a-new-type-to-c-in-clang/64978#post_1)
-- [Why do we require `-DLLVM_ENABLE_RUNTIMES` to build explicit target runtimes](https://discourse.llvm.org/t/why-do-we-require-dllvm-enable-runtimes-to-build-explicit-target-runtimes/64976#post_2)
-- [Shrinking iteration space of loop with condition](https://discourse.llvm.org/t/shrinking-iteration-space-of-loop-with-condition/64538#post_6)
 <!-- DISCOURSE-LLVM:END -->
