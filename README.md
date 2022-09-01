@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: New environment variable for controlling crash-diagnostics-dir](https://discourse.llvm.org/t/rfc-new-environment-variable-for-controlling-crash-diagnostics-dir/65022#post_2)
-- [How to create dependencies between conversions?](https://discourse.llvm.org/t/how-to-create-dependencies-between-conversions/65020#post_4)
-- [How does clang support opaque pointer](https://discourse.llvm.org/t/how-does-clang-support-opaque-pointer/65015#post_5)
-- [RFC: New environment variable for controlling crash-diagnostics-dir](https://discourse.llvm.org/t/rfc-new-environment-variable-for-controlling-crash-diagnostics-dir/65022#post_1)
-- [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_3)
+- [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_6)
+- [Odd behavior in SlotIndex::getInstrDistance&lpar;&rpar;](https://discourse.llvm.org/t/odd-behavior-in-slotindex-getinstrdistance/64934#post_3)
+- [[PSA] Swapping out `_or_null` with `_if_present`](https://discourse.llvm.org/t/psa-swapping-out-or-null-with-if-present/65018#post_3)
+- [[lit] Run a RUN line multiple times with different % replacements](https://discourse.llvm.org/t/lit-run-a-run-line-multiple-times-with-different-replacements/64932#post_17)
+- [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_5)
 <!-- DISCOURSE-LLVM:END -->
