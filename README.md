@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Bay Area Developer Summit](https://discourse.llvm.org/t/mlir-bay-area-developer-summit/64324#post_18)
-- [Rescheduled MLIR Bay Area Developer Summit [Nov 10, 2022]](https://discourse.llvm.org/t/rescheduled-mlir-bay-area-developer-summit-nov-10-2022/65043#post_1)
-- [[RFC] Initial draft of TCP Spec](https://discourse.llvm.org/t/rfc-initial-draft-of-tcp-spec/64973#post_11)
-- [[RFC] Initial draft of TCP Spec](https://discourse.llvm.org/t/rfc-initial-draft-of-tcp-spec/64973#post_10)
-- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883?page=2#post_23)
+- [[Implementation Details] Why does ASTContext::getTrivialTypeSourceInfo always allocate?](https://discourse.llvm.org/t/implementation-details-why-does-astcontext-gettrivialtypesourceinfo-always-allocate/65035#post_2)
+- [Rescheduled MLIR Bay Area Developer Summit [Nov 10, 2022]](https://discourse.llvm.org/t/rescheduled-mlir-bay-area-developer-summit-nov-10-2022/65043#post_2)
+- [[PSA] Swapping out `_or_null` with `_if_present`](https://discourse.llvm.org/t/psa-swapping-out-or-null-with-if-present/65018#post_9)
+- [[PSA] Swapping out `_or_null` with `_if_present`](https://discourse.llvm.org/t/psa-swapping-out-or-null-with-if-present/65018#post_8)
+- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
