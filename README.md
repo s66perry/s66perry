@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ML-OPT fails with mlir containing quantized components](https://discourse.llvm.org/t/ml-opt-fails-with-mlir-containing-quantized-components/65025#post_5)
-- [ML-OPT fails with mlir containing quantized components](https://discourse.llvm.org/t/ml-opt-fails-with-mlir-containing-quantized-components/65025#post_4)
-- [[RFC] Initial draft of TCP Spec](https://discourse.llvm.org/t/rfc-initial-draft-of-tcp-spec/64973#post_4)
-- [ML-OPT fails with mlir containing quantized components](https://discourse.llvm.org/t/ml-opt-fails-with-mlir-containing-quantized-components/65025#post_3)
-- [ML-OPT fails with mlir containing quantized components](https://discourse.llvm.org/t/ml-opt-fails-with-mlir-containing-quantized-components/65025#post_2)
+- [Should InlineCost take the cost of intrinsics into account?](https://discourse.llvm.org/t/should-inlinecost-take-the-cost-of-intrinsics-into-account/65027#post_5)
+- [Should InlineCost take the cost of intrinsics into account?](https://discourse.llvm.org/t/should-inlinecost-take-the-cost-of-intrinsics-into-account/65027#post_4)
+- [Should InlineCost take the cost of intrinsics into account?](https://discourse.llvm.org/t/should-inlinecost-take-the-cost-of-intrinsics-into-account/65027#post_3)
+- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883#post_18)
+- [[PSA] Swapping out `_or_null` with `_if_present`](https://discourse.llvm.org/t/psa-swapping-out-or-null-with-if-present/65018#post_5)
 <!-- DISCOURSE-LLVM:END -->
