@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Removal of armv2/2A/3/3M target options](https://discourse.llvm.org/t/rfc-removal-of-armv2-2a-3-3m-target-options/65040#post_2)
-- [Odd behavior in SlotIndex::getInstrDistance&lpar;&rpar;](https://discourse.llvm.org/t/odd-behavior-in-slotindex-getinstrdistance/64934#post_4)
-- [RFC: Removal of armv2/2A/3/3M target options](https://discourse.llvm.org/t/rfc-removal-of-armv2-2a-3-3m-target-options/65040#post_1)
-- [Taskgroup task_reduction with target in_reduction segfaults](https://discourse.llvm.org/t/taskgroup-task-reduction-with-target-in-reduction-segfaults/64683#post_6)
-- [[RFC][Incubation] Request for incubating TCP dialect for MLIR](https://discourse.llvm.org/t/rfc-incubation-request-for-incubating-tcp-dialect-for-mlir/64883?page=2#post_21)
+- [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_7)
+- [RFC: New environment variable for controlling crash-diagnostics-dir](https://discourse.llvm.org/t/rfc-new-environment-variable-for-controlling-crash-diagnostics-dir/65022#post_10)
+- [RFC: New environment variable for controlling crash-diagnostics-dir](https://discourse.llvm.org/t/rfc-new-environment-variable-for-controlling-crash-diagnostics-dir/65022#post_9)
+- [Should buildbots switch to ENABLE_RUNTIMES instead of ENABLE_PROJECTS for compiler-rt?](https://discourse.llvm.org/t/should-buildbots-switch-to-enable-runtimes-instead-of-enable-projects-for-compiler-rt/65042#post_1)
+- [[RFC] Initial draft of TCP Spec](https://discourse.llvm.org/t/rfc-initial-draft-of-tcp-spec/64973#post_8)
 <!-- DISCOURSE-LLVM:END -->
