@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Initial draft of TCP Spec](https://discourse.llvm.org/t/rfc-initial-draft-of-tcp-spec/64973#post_16)
 - [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_11)
 - [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_10)
 - [How to port my plugin to clang-14](https://discourse.llvm.org/t/how-to-port-my-plugin-to-clang-14/65045#post_4)
 - [ISelLowring - create new custom instruction in some custom function](https://discourse.llvm.org/t/isellowring-create-new-custom-instruction-in-some-custom-function/64913#post_3)
-- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
