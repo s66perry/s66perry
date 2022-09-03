@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Initial draft of TCP Spec](https://discourse.llvm.org/t/rfc-initial-draft-of-tcp-spec/64973#post_16)
-- [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_11)
-- [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_10)
-- [How to port my plugin to clang-14](https://discourse.llvm.org/t/how-to-port-my-plugin-to-clang-14/65045#post_4)
-- [ISelLowring - create new custom instruction in some custom function](https://discourse.llvm.org/t/isellowring-create-new-custom-instruction-in-some-custom-function/64913#post_3)
+- [Accessing Clang Frontend Compiler through command line](https://discourse.llvm.org/t/accessing-clang-frontend-compiler-through-command-line/65054#post_3)
+- [[MemorySSA] Does the accessedBetween support scalable vector pointer?](https://discourse.llvm.org/t/memoryssa-does-the-accessedbetween-support-scalable-vector-pointer/65052#post_2)
+- [Accessing Clang Frontend Compiler through command line](https://discourse.llvm.org/t/accessing-clang-frontend-compiler-through-command-line/65054#post_2)
+- [Where does the function visitORR check the upper bits are zero?](https://discourse.llvm.org/t/where-does-the-function-visitorr-check-the-upper-bits-are-zero/64947#post_6)
+- [Accessing Clang Frontend Compiler through command line](https://discourse.llvm.org/t/accessing-clang-frontend-compiler-through-command-line/65054#post_1)
 <!-- DISCOURSE-LLVM:END -->
