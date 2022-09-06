@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM intrinsic functions](https://discourse.llvm.org/t/llvm-intrinsic-functions/65100#post_3)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_4)
-- [C api mlir](https://discourse.llvm.org/t/c-api-mlir/65103#post_1)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_61)
-- [[RFC] Enhancing Clang-Tidy with project-level knowledge](https://discourse.llvm.org/t/rfc-enhancing-clang-tidy-with-project-level-knowledge/63960#post_7)
+- [Upstreaming from our MLIR python compiler project](https://discourse.llvm.org/t/upstreaming-from-our-mlir-python-compiler-project/64931#post_7)
+- [C api mlir](https://discourse.llvm.org/t/c-api-mlir/65103#post_2)
+- [Code of Conduct Changes &lpar;Related to LLVM Project Policy Changes&rpar;](https://discourse.llvm.org/t/code-of-conduct-changes-related-to-llvm-project-policy-changes/64197#post_3)
+- [Shadowed declaration is here](https://discourse.llvm.org/t/shadowed-declaration-is-here/65044#post_2)
+- [Introducing MLIR playground](https://discourse.llvm.org/t/introducing-mlir-playground/65076#post_2)
 <!-- DISCOURSE-LLVM:END -->
