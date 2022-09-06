@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Release/15.x has branched](https://discourse.llvm.org/t/release-15-x-has-branched/64095#post_18)
+- [Release/15.x has branched](https://discourse.llvm.org/t/release-15-x-has-branched/64095#post_17)
 - [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367?page=2#post_23)
 - [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_24)
 - [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367?page=2#post_22)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_1)
-- [Clang does not produce instrumentation results](https://discourse.llvm.org/t/clang-does-not-produce-instrumentation-results/65090#post_2)
 <!-- DISCOURSE-LLVM:END -->
