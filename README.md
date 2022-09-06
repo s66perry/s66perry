@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Upstreaming from our MLIR python compiler project](https://discourse.llvm.org/t/upstreaming-from-our-mlir-python-compiler-project/64931#post_7)
-- [C api mlir](https://discourse.llvm.org/t/c-api-mlir/65103#post_2)
-- [Code of Conduct Changes &lpar;Related to LLVM Project Policy Changes&rpar;](https://discourse.llvm.org/t/code-of-conduct-changes-related-to-llvm-project-policy-changes/64197#post_3)
-- [Shadowed declaration is here](https://discourse.llvm.org/t/shadowed-declaration-is-here/65044#post_2)
-- [Introducing MLIR playground](https://discourse.llvm.org/t/introducing-mlir-playground/65076#post_2)
+- [ORC JIT Update / Office Hours -- September 2022](https://discourse.llvm.org/t/orc-jit-update-office-hours-september-2022/65104#post_2)
+- [# [RFC] Add `tensor.from_shape` operation](https://discourse.llvm.org/t/rfc-add-tensor-from-shape-operation/65101#post_6)
+- [# [RFC] Add `tensor.from_shape` operation](https://discourse.llvm.org/t/rfc-add-tensor-from-shape-operation/65101#post_5)
+- [What is the first argument in &quot;_ZNSolsEi&quot; function call?](https://discourse.llvm.org/t/what-is-the-first-argument-in-znsolsei-function-call/65073#post_2)
+- [# [RFC] Add `tensor.from_shape` operation](https://discourse.llvm.org/t/rfc-add-tensor-from-shape-operation/65101#post_4)
 <!-- DISCOURSE-LLVM:END -->
