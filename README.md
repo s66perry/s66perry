@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [# [RFC] Add `tensor.from_shape` operation](https://discourse.llvm.org/t/rfc-add-tensor-from-shape-operation/65101#post_2)
+- [Code of Conduct Changes &lpar;Related to LLVM Project Policy Changes&rpar;](https://discourse.llvm.org/t/code-of-conduct-changes-related-to-llvm-project-policy-changes/64197#post_2)
+- [# [RFC] Add `tensor.from_shape` operation](https://discourse.llvm.org/t/rfc-add-tensor-from-shape-operation/65101#post_1)
+- [LLVM intrinsic functions](https://discourse.llvm.org/t/llvm-intrinsic-functions/65100#post_2)
 - [LLVM intrinsic functions](https://discourse.llvm.org/t/llvm-intrinsic-functions/65100#post_1)
-- [LLVM 15.0.0 Release](https://discourse.llvm.org/t/llvm-15-0-0-release/65099#post_1)
-- [[RFC] Proposed Changes to Clang&#39;s Code Ownership](https://discourse.llvm.org/t/rfc-proposed-changes-to-clangs-code-ownership/64813?page=2#post_27)
-- [Rationale for removing versioned libclang? --&gt; Middle ground to keep it behind option?](https://discourse.llvm.org/t/rationale-for-removing-versioned-libclang-middle-ground-to-keep-it-behind-option/64410?page=3#post_42)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_3)
 <!-- DISCOURSE-LLVM:END -->
