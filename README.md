@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_5)
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_4)
-- [LLVM Foundation Student Travel Grants Available - Sept 8 Deadline](https://discourse.llvm.org/t/llvm-foundation-student-travel-grants-available-sept-8-deadline/64794#post_2)
-- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_2)
-- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_1)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_146)
+- [Device pointers not implicitly mapped firstprivate](https://discourse.llvm.org/t/device-pointers-not-implicitly-mapped-firstprivate/64902#post_7)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_145)
+- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_7)
+- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_6)
 <!-- DISCOURSE-LLVM:END -->
