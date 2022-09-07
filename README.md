@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_9)
-- [Pass nesting in new pass manager](https://discourse.llvm.org/t/pass-nesting-in-new-pass-manager/65139#post_2)
-- [Pass nesting in new pass manager](https://discourse.llvm.org/t/pass-nesting-in-new-pass-manager/65139#post_1)
-- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637?page=2#post_30)
-- [Upcoming Project Policy Changes](https://discourse.llvm.org/t/upcoming-project-policy-changes/62637?page=2#post_29)
+- [About Community Code Ownership](https://discourse.llvm.org/t/about-community-code-ownership/64930?page=2#post_24)
+- [Torch-mlir to TOSA](https://discourse.llvm.org/t/torch-mlir-to-tosa/65135#post_4)
+- [Torch-mlir to TOSA](https://discourse.llvm.org/t/torch-mlir-to-tosa/65135#post_3)
+- [Pass nesting in new pass manager](https://discourse.llvm.org/t/pass-nesting-in-new-pass-manager/65139#post_3)
+- [Torch-mlir to TOSA](https://discourse.llvm.org/t/torch-mlir-to-tosa/65135#post_2)
 <!-- DISCOURSE-LLVM:END -->
