@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_154)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_153)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_152)
+- [[LV] What is the meaning of BLEND in the dump of loop-vectorize?](https://discourse.llvm.org/t/lv-what-is-the-meaning-of-blend-in-the-dump-of-loop-vectorize/65148#post_1)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_151)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_150)
-- [Introducing MLIR playground](https://discourse.llvm.org/t/introducing-mlir-playground/65076#post_5)
-- [Introducing MLIR playground](https://discourse.llvm.org/t/introducing-mlir-playground/65076#post_4)
-- [C++/ObjC++: switch to gnu++17 as the default dialect](https://discourse.llvm.org/t/c-objc-switch-to-gnu-17-as-the-default-dialect/64360#post_11)
 <!-- DISCOURSE-LLVM:END -->
