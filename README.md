@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Vector Masking Representation in MLIR](https://discourse.llvm.org/t/rfc-vector-masking-representation-in-mlir/64964#post_8)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_148)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_147)
+- [[RFC] Tensilica Xtensa &lpar;ESP32&rpar; backend](https://discourse.llvm.org/t/rfc-tensilica-xtensa-esp32-backend/57835#post_6)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_146)
-- [Device pointers not implicitly mapped firstprivate](https://discourse.llvm.org/t/device-pointers-not-implicitly-mapped-firstprivate/64902#post_7)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_145)
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_7)
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_6)
 <!-- DISCOURSE-LLVM:END -->
