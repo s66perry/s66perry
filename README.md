@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Vector Masking Representation in MLIR](https://discourse.llvm.org/t/rfc-vector-masking-representation-in-mlir/64964#post_8)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_148)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_147)
-- [[RFC] Tensilica Xtensa &lpar;ESP32&rpar; backend](https://discourse.llvm.org/t/rfc-tensilica-xtensa-esp32-backend/57835#post_6)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_146)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_151)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=8#post_150)
+- [Introducing MLIR playground](https://discourse.llvm.org/t/introducing-mlir-playground/65076#post_5)
+- [Introducing MLIR playground](https://discourse.llvm.org/t/introducing-mlir-playground/65076#post_4)
+- [C++/ObjC++: switch to gnu++17 as the default dialect](https://discourse.llvm.org/t/c-objc-switch-to-gnu-17-as-the-default-dialect/64360#post_11)
 <!-- DISCOURSE-LLVM:END -->
