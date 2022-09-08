@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_4)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_2)
+- [[RFC] -ffat-lto-objects support](https://discourse.llvm.org/t/rfc-ffat-lto-objects-support/63977#post_18)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_1)
 - [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=9#post_164)
-- [What&#39;s the purpose of `CXCallingConv_Default`?](https://discourse.llvm.org/t/whats-the-purpose-of-cxcallingconv-default/65167#post_1)
-- [[PSA] Swapping out `_or_null` with `_if_present`](https://discourse.llvm.org/t/psa-swapping-out-or-null-with-if-present/65018#post_13)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=9#post_163)
-- [LLVM Pragma](https://discourse.llvm.org/t/llvm-pragma/65069#post_3)
 <!-- DISCOURSE-LLVM:END -->
