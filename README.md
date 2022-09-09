@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why is the deprecated copy warning suppressed in MSVC compatibility mode?](https://discourse.llvm.org/t/why-is-the-deprecated-copy-warning-suppressed-in-msvc-compatibility-mode/65085#post_6)
+- [Crash in omp_unset_lock](https://discourse.llvm.org/t/crash-in-omp-unset-lock/64946#post_5)
+- [How to use PassManager in Python binding](https://discourse.llvm.org/t/how-to-use-passmanager-in-python-binding/65176#post_1)
 - [[MemorySSA] Does the accessedBetween support scalable vector pointer?](https://discourse.llvm.org/t/memoryssa-does-the-accessedbetween-support-scalable-vector-pointer/65052#post_4)
 - [[TableGen] Define single instruction allowing Reg/Imm operands or split to multiple instructions instead?](https://discourse.llvm.org/t/tablegen-define-single-instruction-allowing-reg-imm-operands-or-split-to-multiple-instructions-instead/65174#post_1)
-- [Machine block placement time and complexity](https://discourse.llvm.org/t/machine-block-placement-time-and-complexity/2978#post_4)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=9#post_166)
-- [LLVM Pragma](https://discourse.llvm.org/t/llvm-pragma/65069#post_4)
 <!-- DISCOURSE-LLVM:END -->
