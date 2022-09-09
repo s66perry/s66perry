@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_5)
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864?page=3#post_44)
+- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_11)
+- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_10)
 - [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_4)
-- [Firtool fails on chisel-circt-demo](https://discourse.llvm.org/t/firtool-fails-on-chisel-circt-demo/65075#post_4)
-- [[Homebrew] Zsh cannot find the installed llvm](https://discourse.llvm.org/t/homebrew-zsh-cannot-find-the-installed-llvm/65181#post_1)
-- [[TableGen] Define single instruction allowing Reg/Imm operands or split to multiple instructions instead?](https://discourse.llvm.org/t/tablegen-define-single-instruction-allowing-reg-imm-operands-or-split-to-multiple-instructions-instead/65174#post_2)
-- [How to use PassManager in Python binding](https://discourse.llvm.org/t/how-to-use-passmanager-in-python-binding/65176#post_5)
 <!-- DISCOURSE-LLVM:END -->
