@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_9)
+- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_8)
+- [[Homebrew] Zsh cannot find the installed llvm](https://discourse.llvm.org/t/homebrew-zsh-cannot-find-the-installed-llvm/65181#post_6)
+- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_7)
 - [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_6)
-- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_5)
-- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_4)
-- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_3)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_13)
 <!-- DISCOURSE-LLVM:END -->
