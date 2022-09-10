@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Minimal out-of-tree pass](https://discourse.llvm.org/t/minimal-out-of-tree-pass/65192#post_1)
+- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_15)
 - [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_14)
 - [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_13)
 - [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_12)
-- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191#post_11)
-- [Use bazelisk for bazel buildbots](https://discourse.llvm.org/t/use-bazelisk-for-bazel-buildbots/65188#post_2)
 <!-- DISCOURSE-LLVM:END -->
