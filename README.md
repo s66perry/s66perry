@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Patch application fails because phab thinks reverted revision already landed](https://discourse.llvm.org/t/patch-application-fails-because-phab-thinks-reverted-revision-already-landed/65203#post_2)
+- [Question for llvm dyn_cast&lt;type&gt;&lpar;&rpar; helper function in MLIR toy example](https://discourse.llvm.org/t/question-for-llvm-dyn-cast-type-helper-function-in-mlir-toy-example/65202#post_2)
+- [Patch application fails because phab thinks reverted revision already landed](https://discourse.llvm.org/t/patch-application-fails-because-phab-thinks-reverted-revision-already-landed/65203#post_1)
 - [Question for llvm dyn_cast&lt;type&gt;&lpar;&rpar; helper function in MLIR toy example](https://discourse.llvm.org/t/question-for-llvm-dyn-cast-type-helper-function-in-mlir-toy-example/65202#post_1)
 - [Minimal out-of-tree pass](https://discourse.llvm.org/t/minimal-out-of-tree-pass/65192#post_6)
-- [Minimal out-of-tree pass](https://discourse.llvm.org/t/minimal-out-of-tree-pass/65192#post_5)
-- [How to debug code in Dialect/Affine/Transforms](https://discourse.llvm.org/t/how-to-debug-code-in-dialect-affine-transforms/65200#post_1)
-- [Maybe we could start to play with std modules](https://discourse.llvm.org/t/maybe-we-could-start-to-play-with-std-modules/64093#post_11)
 <!-- DISCOURSE-LLVM:END -->
