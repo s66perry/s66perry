@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Embedded Toolchains Working Group call this Thursday 15th of September](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-15th-of-september/65222#post_1)
+- [Address spaces](https://discourse.llvm.org/t/address-spaces/64705#post_2)
 - [The constrains on template template-parameters seem to be ignored](https://discourse.llvm.org/t/the-constrains-on-template-template-parameters-seem-to-be-ignored/65212#post_2)
 - [[RFC][clang][dataflow] SignAnalysis, edgeTransfer, branchTransfer](https://discourse.llvm.org/t/rfc-clang-dataflow-signanalysis-edgetransfer-branchtransfer/65220#post_2)
 - [[RFC][clang][dataflow] SignAnalysis, edgeTransfer, branchTransfer](https://discourse.llvm.org/t/rfc-clang-dataflow-signanalysis-edgetransfer-branchtransfer/65220#post_1)
-- [[RFC] Add `func::GraphFuncOp` which holds a graph region](https://discourse.llvm.org/t/rfc-add-func-graphfuncop-which-holds-a-graph-region/65217#post_1)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_15)
 <!-- DISCOURSE-LLVM:END -->
