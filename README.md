@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213#post_10)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213#post_9)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213#post_8)
-- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864?page=3#post_45)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213#post_7)
+- [Round Table about Profiling &amp; Coverage &amp; Compiler-rt in 2022 LLVM Dev Mtg](https://discourse.llvm.org/t/round-table-about-profiling-coverage-compiler-rt-in-2022-llvm-dev-mtg/65225#post_3)
+- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213#post_11)
+- [LLVM Weekly - #454, September 12th 2022](https://discourse.llvm.org/t/llvm-weekly-454-september-12th-2022/65228#post_1)
+- [Is it feasible to convert &quot;pipeline&quot; dialect&quot; to &quot;FSM&quot; directly?](https://discourse.llvm.org/t/is-it-feasible-to-convert-pipeline-dialect-to-fsm-directly/65207#post_2)
+- [Print expanded debug metadata in IR for debugging LLVM](https://discourse.llvm.org/t/print-expanded-debug-metadata-in-ir-for-debugging-llvm/65223#post_3)
 <!-- DISCOURSE-LLVM:END -->
