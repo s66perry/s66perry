@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is --cuda-path necessary for generating an AST only?](https://discourse.llvm.org/t/is-cuda-path-necessary-for-generating-an-ast-only/65257#post_1)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=2#post_34)
-- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_11)
-- [Should FileCheck report incorrect prefixes?](https://discourse.llvm.org/t/should-filecheck-report-incorrect-prefixes/65255#post_3)
-- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_10)
+- [Is there any open roadmap/todolist for llvm-libc?](https://discourse.llvm.org/t/is-there-any-open-roadmap-todolist-for-llvm-libc/65258#post_3)
+- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_15)
+- [Is there any open roadmap/todolist for llvm-libc?](https://discourse.llvm.org/t/is-there-any-open-roadmap-todolist-for-llvm-libc/65258#post_2)
+- [[&lpar;possibly&rpar; Bug report] clang-cl fastcall &lpar;32bits&rpar; abi does not match msvc](https://discourse.llvm.org/t/possibly-bug-report-clang-cl-fastcall-32bits-abi-does-not-match-msvc/65260#post_1)
+- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_14)
 <!-- DISCOURSE-LLVM:END -->
