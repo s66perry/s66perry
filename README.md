@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Integration with ABC optimizer](https://discourse.llvm.org/t/integration-with-abc-optimizer/65264#post_1)
+- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=2#post_37)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_25)
+- [How to inline tsan&#39;s instrumentation functions?](https://discourse.llvm.org/t/how-to-inline-tsans-instrumentation-functions/65261#post_1)
 - [[RFC] Add `func::GraphFuncOp` which holds a graph region](https://discourse.llvm.org/t/rfc-add-func-graphfuncop-which-holds-a-graph-region/65217#post_6)
-- [Is --cuda-path necessary for generating an AST only?](https://discourse.llvm.org/t/is-cuda-path-necessary-for-generating-an-ast-only/65257#post_7)
-- [Double Buffering with the Transform Dialect](https://discourse.llvm.org/t/double-buffering-with-the-transform-dialect/65164#post_6)
-- [Is there any open roadmap/todolist for llvm-libc?](https://discourse.llvm.org/t/is-there-any-open-roadmap-todolist-for-llvm-libc/65258#post_3)
-- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_15)
 <!-- DISCOURSE-LLVM:END -->
