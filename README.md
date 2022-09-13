@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coordinate LLVM commits for different project](https://discourse.llvm.org/t/coordinate-llvm-commits-for-different-project/63990?page=4#post_70)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_6)
+- [[LTO] Question on symbol alias in LTOModule](https://discourse.llvm.org/t/lto-question-on-symbol-alias-in-ltomodule/65234#post_1)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_5)
 - [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_4)
-- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_3)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_16)
-- [Odd behavior in SlotIndex::getInstrDistance&lpar;&rpar;](https://discourse.llvm.org/t/odd-behavior-in-slotindex-getinstrdistance/64934#post_8)
-- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_2)
 <!-- DISCOURSE-LLVM:END -->
