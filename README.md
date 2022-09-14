@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191?page=2#post_24)
-- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191?page=2#post_23)
-- [[RFC] Add `func::GraphFuncOp` which holds a graph region](https://discourse.llvm.org/t/rfc-add-func-graphfuncop-which-holds-a-graph-region/65217#post_7)
-- [Is there any open roadmap/todolist for llvm-libc?](https://discourse.llvm.org/t/is-there-any-open-roadmap-todolist-for-llvm-libc/65258#post_4)
-- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191?page=2#post_22)
+- [How to debug code in Dialect/Affine/Transforms](https://discourse.llvm.org/t/how-to-debug-code-in-dialect-affine-transforms/65200#post_3)
+- [Printing &lpar;only&rpar; demangled C++ symbols in lld diagnostics?](https://discourse.llvm.org/t/printing-only-demangled-c-symbols-in-lld-diagnostics/65253#post_4)
+- [[&lpar;possibly&rpar; Bug report] clang-cl fastcall &lpar;32bits&rpar; abi does not match msvc](https://discourse.llvm.org/t/possibly-bug-report-clang-cl-fastcall-32bits-abi-does-not-match-msvc/65260#post_2)
+- [Is it feasible to convert &quot;pipeline&quot; dialect&quot; to &quot;FSM&quot; directly?](https://discourse.llvm.org/t/is-it-feasible-to-convert-pipeline-dialect-to-fsm-directly/65207#post_3)
+- [Crash in omp_unset_lock](https://discourse.llvm.org/t/crash-in-omp-unset-lock/64946#post_7)
 <!-- DISCOURSE-LLVM:END -->
