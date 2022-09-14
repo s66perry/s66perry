@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is it possible to make passes running after optimizer?](https://discourse.llvm.org/t/is-it-possible-to-make-passes-running-after-optimizer/65273#post_2)
-- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_9)
-- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_8)
-- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_2)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=9#post_177)
+- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_5)
+- [RISC-V LLVM sync-up call 15th September 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-15th-september-2022/65283#post_1)
+- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_4)
+- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_3)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_10)
 <!-- DISCOURSE-LLVM:END -->
