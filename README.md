@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_10)
-- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_5)
-- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_8)
-- [3 new Neural 3D Graphics Software Engineer positions at AMD](https://discourse.llvm.org/t/3-new-neural-3d-graphics-software-engineer-positions-at-amd/65285#post_1)
-- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_7)
+- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_10)
+- [How to make an intrinsic behavie like a load instruction with regards to GVN pass?](https://discourse.llvm.org/t/how-to-make-an-intrinsic-behavie-like-a-load-instruction-with-regards-to-gvn-pass/65287#post_1)
+- [Integration with ABC optimizer](https://discourse.llvm.org/t/integration-with-abc-optimizer/65264#post_2)
+- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_15)
+- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_9)
 <!-- DISCOURSE-LLVM:END -->
