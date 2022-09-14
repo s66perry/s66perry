@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[&lpar;possibly&rpar; Bug report] clang-cl fastcall &lpar;32bits&rpar; abi does not match msvc](https://discourse.llvm.org/t/possibly-bug-report-clang-cl-fastcall-32bits-abi-does-not-match-msvc/65260#post_6)
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_12)
-- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_13)
-- [Is it feasible to convert &quot;pipeline&quot; dialect&quot; to &quot;FSM&quot; directly?](https://discourse.llvm.org/t/is-it-feasible-to-convert-pipeline-dialect-to-fsm-directly/65207#post_4)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_27)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_7)
+- [Print expanded debug metadata in IR for debugging LLVM](https://discourse.llvm.org/t/print-expanded-debug-metadata-in-ir-for-debugging-llvm/65223#post_6)
+- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=9#post_176)
+- [Is that possible to extend FloatType &lpar;e.g., Float8Type&rpar;?](https://discourse.llvm.org/t/is-that-possible-to-extend-floattype-e-g-float8type/60928#post_3)
+- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_1)
 <!-- DISCOURSE-LLVM:END -->
