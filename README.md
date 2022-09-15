@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [New to CIRCT; Is there example using CIRCT to FIRRTL-to-ASAP7 synthesis?](https://discourse.llvm.org/t/new-to-circt-is-there-example-using-circt-to-firrtl-to-asap7-synthesis/65290#post_1)
+- [AST transformation for P2066](https://discourse.llvm.org/t/ast-transformation-for-p2066/65289#post_1)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_11)
 - [How to make an intrinsic behavie like a load instruction with regards to GVN pass?](https://discourse.llvm.org/t/how-to-make-an-intrinsic-behavie-like-a-load-instruction-with-regards-to-gvn-pass/65287#post_4)
 - [How to make an intrinsic behavie like a load instruction with regards to GVN pass?](https://discourse.llvm.org/t/how-to-make-an-intrinsic-behavie-like-a-load-instruction-with-regards-to-gvn-pass/65287#post_3)
-- [How to make an intrinsic behavie like a load instruction with regards to GVN pass?](https://discourse.llvm.org/t/how-to-make-an-intrinsic-behavie-like-a-load-instruction-with-regards-to-gvn-pass/65287#post_2)
-- [Integration with ABC optimizer](https://discourse.llvm.org/t/integration-with-abc-optimizer/65264#post_3)
-- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_10)
 <!-- DISCOURSE-LLVM:END -->
