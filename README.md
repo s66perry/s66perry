@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Mips&#39;s i64 shift int lowerShiftRightParts?](https://discourse.llvm.org/t/mipss-i64-shift-int-lowershiftrightparts/65250#post_2)
-- [LLVM libc embedded systems and initialization &lpar;LLVM embdedded toolchain meeting&rpar;](https://discourse.llvm.org/t/llvm-libc-embedded-systems-and-initialization-llvm-embdedded-toolchain-meeting/65294#post_1)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=9#post_178)
-- [Fatal error: &#39;stdio.h&#39; file not found](https://discourse.llvm.org/t/fatal-error-stdio-h-file-not-found/65271#post_5)
-- [Is there any open roadmap/todolist for llvm-libc?](https://discourse.llvm.org/t/is-there-any-open-roadmap-todolist-for-llvm-libc/65258#post_6)
+- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_20)
+- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_19)
+- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_18)
+- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_17)
+- [Llvm-14.0.6 build fails in configure phase](https://discourse.llvm.org/t/llvm-14-0-6-build-fails-in-configure-phase/65191?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
