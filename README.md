@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_29)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_28)
-- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251#post_16)
-- [Is there any open roadmap/todolist for llvm-libc?](https://discourse.llvm.org/t/is-there-any-open-roadmap-todolist-for-llvm-libc/65258#post_5)
-- [Printing from LLVM for debugging the instruction pattern written for backend](https://discourse.llvm.org/t/printing-from-llvm-for-debugging-the-instruction-pattern-written-for-backend/65291#post_1)
+- [Is there any open roadmap/todolist for llvm-libc?](https://discourse.llvm.org/t/is-there-any-open-roadmap-todolist-for-llvm-libc/65258#post_6)
+- [[RFC] Harmonize flexible array members handling](https://discourse.llvm.org/t/rfc-harmonize-flexible-array-members-handling/65001#post_13)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_31)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_30)
+- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_17)
 <!-- DISCOURSE-LLVM:END -->
