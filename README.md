@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][clang][dataflow] SignAnalysis, edgeTransfer, branchTransfer](https://discourse.llvm.org/t/rfc-clang-dataflow-signanalysis-edgetransfer-branchtransfer/65220#post_4)
-- [Allocation registers from two different banks in one instruction](https://discourse.llvm.org/t/allocation-registers-from-two-different-banks-in-one-instruction/65321#post_2)
-- [Allocation registers from two different banks in one instruction](https://discourse.llvm.org/t/allocation-registers-from-two-different-banks-in-one-instruction/65321#post_1)
-- [[RFC] Centralized location for version information](https://discourse.llvm.org/t/rfc-centralized-location-for-version-information/65295#post_11)
-- [[RFC] Centralized location for version information](https://discourse.llvm.org/t/rfc-centralized-location-for-version-information/65295#post_10)
+- [[AArch64] How to mov a const value into a register?](https://discourse.llvm.org/t/aarch64-how-to-mov-a-const-value-into-a-register/65320#post_2)
+- [LLVM 15.0.0 Release](https://discourse.llvm.org/t/llvm-15-0-0-release/65099#post_6)
+- [The constrains on template template-parameters seem to be ignored](https://discourse.llvm.org/t/the-constrains-on-template-template-parameters-seem-to-be-ignored/65212#post_9)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_16)
+- [AST transformation for P2066](https://discourse.llvm.org/t/ast-transformation-for-p2066/65289#post_4)
 <!-- DISCOURSE-LLVM:END -->
