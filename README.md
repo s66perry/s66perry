@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_12)
-- [[RFC][MLIR] OpenMP Loop Transformation : tile and unroll directive operation support for omp.dialect](https://discourse.llvm.org/t/rfc-mlir-openmp-loop-transformation-tile-and-unroll-directive-operation-support-for-omp-dialect/65301#post_3)
-- [Crash in omp_unset_lock](https://discourse.llvm.org/t/crash-in-omp-unset-lock/64946#post_9)
-- [[RFC] Centralized location for version information](https://discourse.llvm.org/t/rfc-centralized-location-for-version-information/65295#post_9)
-- [Crash in omp_unset_lock](https://discourse.llvm.org/t/crash-in-omp-unset-lock/64946#post_8)
+- [[RFC][clang][dataflow] SignAnalysis, edgeTransfer, branchTransfer](https://discourse.llvm.org/t/rfc-clang-dataflow-signanalysis-edgetransfer-branchtransfer/65220#post_4)
+- [Allocation registers from two different banks in one instruction](https://discourse.llvm.org/t/allocation-registers-from-two-different-banks-in-one-instruction/65321#post_2)
+- [Allocation registers from two different banks in one instruction](https://discourse.llvm.org/t/allocation-registers-from-two-different-banks-in-one-instruction/65321#post_1)
+- [[RFC] Centralized location for version information](https://discourse.llvm.org/t/rfc-centralized-location-for-version-information/65295#post_11)
+- [[RFC] Centralized location for version information](https://discourse.llvm.org/t/rfc-centralized-location-for-version-information/65295#post_10)
 <!-- DISCOURSE-LLVM:END -->
