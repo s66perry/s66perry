@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_34)
+- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_6)
+- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_5)
+- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=2#post_33)
 - [`__attribute__&lpar;&lpar;const&rpar;&rpar;` is needed where `const` should have sufficed?](https://discourse.llvm.org/t/attribute-const-is-needed-where-const-should-have-sufficed/65308#post_16)
-- [[RFC][MLIR] OpenMP Loop Transformation : tile and unroll directive operation support for omp.dialect](https://discourse.llvm.org/t/rfc-mlir-openmp-loop-transformation-tile-and-unroll-directive-operation-support-for-omp-dialect/65301#post_8)
-- [`__attribute__&lpar;&lpar;const&rpar;&rpar;` is needed where `const` should have sufficed?](https://discourse.llvm.org/t/attribute-const-is-needed-where-const-should-have-sufficed/65308#post_15)
-- [LLVM 15.0.0 Release](https://discourse.llvm.org/t/llvm-15-0-0-release/65099#post_10)
-- [LLVM 15.0.0 Release](https://discourse.llvm.org/t/llvm-15-0-0-release/65099#post_9)
 <!-- DISCOURSE-LLVM:END -->
