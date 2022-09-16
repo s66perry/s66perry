@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [`__attribute__&lpar;&lpar;const&rpar;&rpar;` is needed where `const` should have sufficed?](https://discourse.llvm.org/t/attribute-const-is-needed-where-const-should-have-sufficed/65308#post_11)
-- [`__attribute__&lpar;&lpar;const&rpar;&rpar;` is needed where `const` should have sufficed?](https://discourse.llvm.org/t/attribute-const-is-needed-where-const-should-have-sufficed/65308#post_10)
-- [`__attribute__&lpar;&lpar;const&rpar;&rpar;` is needed where `const` should have sufficed?](https://discourse.llvm.org/t/attribute-const-is-needed-where-const-should-have-sufficed/65308#post_9)
-- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902#post_17)
-- [Print in MLIR](https://discourse.llvm.org/t/print-in-mlir/1701#post_19)
+- [Tblgen-lsp-server error in Sublime Text](https://discourse.llvm.org/t/tblgen-lsp-server-error-in-sublime-text/65315#post_2)
+- [`__attribute__&lpar;&lpar;const&rpar;&rpar;` is needed where `const` should have sufficed?](https://discourse.llvm.org/t/attribute-const-is-needed-where-const-should-have-sufficed/65308#post_12)
+- [Tblgen-lsp-server error in Sublime Text](https://discourse.llvm.org/t/tblgen-lsp-server-error-in-sublime-text/65315#post_1)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224#post_13)
+- [LLVM GPU Working Group Meeting – Friday, September 16, 2022](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-september-16-2022/65252#post_3)
 <!-- DISCOURSE-LLVM:END -->
