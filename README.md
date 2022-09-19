@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to interrupt debugger.RunCommandInterpreter&lpar;&rpar;?](https://discourse.llvm.org/t/how-to-interrupt-debugger-runcommandinterpreter/65328#post_3)
-- [[RFC] Adding a default file location to config file support](https://discourse.llvm.org/t/rfc-adding-a-default-file-location-to-config-file-support/63606?page=3#post_41)
-- [Tblgen-lsp-server error in Sublime Text](https://discourse.llvm.org/t/tblgen-lsp-server-error-in-sublime-text/65315#post_6)
-- [How to cite when Clang obtained FORTIFY_SOURCE support?](https://discourse.llvm.org/t/how-to-cite-when-clang-obtained-fortify-source-support/61044#post_4)
-- [Tblgen-lsp-server error in Sublime Text](https://discourse.llvm.org/t/tblgen-lsp-server-error-in-sublime-text/65315#post_5)
+- [Status of staging buildmaster](https://discourse.llvm.org/t/status-of-staging-buildmaster/65370#post_1)
+- [Deleted constructor leads to compile error in Clang but not MSVC](https://discourse.llvm.org/t/deleted-constructor-leads-to-compile-error-in-clang-but-not-msvc/65369#post_1)
+- [[RFC] Request for upstream Tensilica Xtensa &lpar;ESP32&rpar; backend](https://discourse.llvm.org/t/rfc-request-for-upstream-tensilica-xtensa-esp32-backend/65355#post_3)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon September 19 ‘22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-september-19-22-6pm/64559#post_3)
+- [Instruction which deals with restrict pointer](https://discourse.llvm.org/t/instruction-which-deals-with-restrict-pointer/65368#post_1)
 <!-- DISCOURSE-LLVM:END -->
