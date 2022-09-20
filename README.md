@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Call Hierarchy result is incomplete when using remote index](https://discourse.llvm.org/t/call-hierarchy-result-is-incomplete-when-using-remote-index/65372#post_1)
-- [[RFC] Request for upstream Tensilica Xtensa &lpar;ESP32&rpar; backend](https://discourse.llvm.org/t/rfc-request-for-upstream-tensilica-xtensa-esp32-backend/65355#post_4)
-- [Parenthesized initialization of aggregates](https://discourse.llvm.org/t/parenthesized-initialization-of-aggregates/58950#post_2)
-- [MLIR generic IR stability and upgradability](https://discourse.llvm.org/t/mlir-generic-ir-stability-and-upgradability/65371#post_1)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_18)
+- [Time_t should be int64_t in libc](https://discourse.llvm.org/t/time-t-should-be-int64-t-in-libc/65376#post_1)
+- [MLIR generic IR stability and upgradability](https://discourse.llvm.org/t/mlir-generic-ir-stability-and-upgradability/65371#post_2)
+- [Canonicalizing debug info for alias templates](https://discourse.llvm.org/t/canonicalizing-debug-info-for-alias-templates/65375#post_1)
+- [Effect of Clang modules on compilation time](https://discourse.llvm.org/t/effect-of-clang-modules-on-compilation-time/65374#post_1)
+- [Code style of initializer in if statement](https://discourse.llvm.org/t/code-style-of-initializer-in-if-statement/65357#post_3)
 <!-- DISCOURSE-LLVM:END -->
