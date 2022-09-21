@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 15.0.1 was tagged](https://discourse.llvm.org/t/llvm-15-0-1-was-tagged/65381#post_12)
+- [Effect of Clang modules on compilation time](https://discourse.llvm.org/t/effect-of-clang-modules-on-compilation-time/65374#post_4)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224?page=2#post_23)
 - [`ninja check-libc` : target does not exist on Windows](https://discourse.llvm.org/t/ninja-check-libc-target-does-not-exist-on-windows/58989#post_5)
 - [`ninja check-libc` : target does not exist on Windows](https://discourse.llvm.org/t/ninja-check-libc-target-does-not-exist-on-windows/58989#post_4)
-- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224?page=2#post_22)
-- [`ninja check-libc` : target does not exist on Windows](https://discourse.llvm.org/t/ninja-check-libc-target-does-not-exist-on-windows/58989#post_3)
-- [Does `isless` trap on signaling NaN?](https://discourse.llvm.org/t/does-isless-trap-on-signaling-nan/65398#post_1)
 <!-- DISCOURSE-LLVM:END -->
