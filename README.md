@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Syncing Asm Goto with Outputs with GCC](https://discourse.llvm.org/t/rfc-syncing-asm-goto-with-outputs-with-gcc/65453#post_1)
-- [Adding support for new target](https://discourse.llvm.org/t/adding-support-for-new-target/65435#post_2)
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_9)
-- [Flang-aarch64-dylib buildbot: need help understanding a regression in clang-tblgen](https://discourse.llvm.org/t/flang-aarch64-dylib-buildbot-need-help-understanding-a-regression-in-clang-tblgen/64871#post_5)
-- [Do vector predication intrinsics support NSW/NUW flags?](https://discourse.llvm.org/t/do-vector-predication-intrinsics-support-nsw-nuw-flags/65452#post_1)
+- [Effect of Clang modules on compilation time](https://discourse.llvm.org/t/effect-of-clang-modules-on-compilation-time/65374#post_5)
+- [Which project is copying the libs into build\Debug\lib?](https://discourse.llvm.org/t/which-project-is-copying-the-libs-into-build-debug-lib/65455#post_2)
+- [Which project is copying the libs into build\Debug\lib?](https://discourse.llvm.org/t/which-project-is-copying-the-libs-into-build-debug-lib/65455#post_1)
+- [[RFC] Syncing Asm Goto with Outputs with GCC](https://discourse.llvm.org/t/rfc-syncing-asm-goto-with-outputs-with-gcc/65453#post_4)
+- [[RFC] Syncing Asm Goto with Outputs with GCC](https://discourse.llvm.org/t/rfc-syncing-asm-goto-with-outputs-with-gcc/65453#post_3)
 <!-- DISCOURSE-LLVM:END -->
