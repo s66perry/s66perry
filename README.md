@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR C/C++ Frontend Working Group call this Friday, Sep 23rd](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-call-this-friday-sep-23rd/65433#post_1)
-- [Support create OperationState based on an operation](https://discourse.llvm.org/t/support-create-operationstate-based-on-an-operation/65432#post_1)
-- [Interest in a &lpar;perhaps simplistic&rpar; image processing front-end?](https://discourse.llvm.org/t/interest-in-a-perhaps-simplistic-image-processing-front-end/65431#post_1)
-- [Should PDB contain demangled symbols?](https://discourse.llvm.org/t/should-pdb-contain-demangled-symbols/65408#post_3)
-- [Clang equivalent to gcc large-function-growth?](https://discourse.llvm.org/t/clang-equivalent-to-gcc-large-function-growth/65419#post_2)
+- [RFC: Add APFloat and MLIR type support for fp8 &lpar;e5m2&rpar;](https://discourse.llvm.org/t/rfc-add-apfloat-and-mlir-type-support-for-fp8-e5m2/65279#post_12)
+- [LLVM-C changes in LLVM-15](https://discourse.llvm.org/t/llvm-c-changes-in-llvm-15/65429#post_3)
+- [Support create OperationState based on an operation](https://discourse.llvm.org/t/support-create-operationstate-based-on-an-operation/65432#post_2)
+- [LLVM-C changes in LLVM-15](https://discourse.llvm.org/t/llvm-c-changes-in-llvm-15/65429#post_2)
+- [Supporting top-level ops other than builtin.module](https://discourse.llvm.org/t/supporting-top-level-ops-other-than-builtin-module/65224?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
