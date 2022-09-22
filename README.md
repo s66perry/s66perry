@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_8)
+- [Handling &quot;gigantic&quot; weights](https://discourse.llvm.org/t/handling-gigantic-weights/65406#post_8)
+- [Handling &quot;gigantic&quot; weights](https://discourse.llvm.org/t/handling-gigantic-weights/65406#post_7)
+- [TableGen Syntax while defining instructions in .td files](https://discourse.llvm.org/t/tablegen-syntax-while-defining-instructions-in-td-files/65439#post_4)
 - [TableGen Syntax while defining instructions in .td files](https://discourse.llvm.org/t/tablegen-syntax-while-defining-instructions-in-td-files/65439#post_3)
-- [LLVM 13 changes break C++ compilation via API?](https://discourse.llvm.org/t/llvm-13-changes-break-c-compilation-via-api/65447#post_1)
-- [Inaccessible review](https://discourse.llvm.org/t/inaccessible-review/65446#post_1)
-- [Problem adding GDB index when building LLVM](https://discourse.llvm.org/t/problem-adding-gdb-index-when-building-llvm/65444#post_2)
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_14)
 <!-- DISCOURSE-LLVM:END -->
