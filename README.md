@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_8)
-- [Handling &quot;gigantic&quot; weights](https://discourse.llvm.org/t/handling-gigantic-weights/65406#post_8)
-- [Handling &quot;gigantic&quot; weights](https://discourse.llvm.org/t/handling-gigantic-weights/65406#post_7)
-- [TableGen Syntax while defining instructions in .td files](https://discourse.llvm.org/t/tablegen-syntax-while-defining-instructions-in-td-files/65439#post_4)
-- [TableGen Syntax while defining instructions in .td files](https://discourse.llvm.org/t/tablegen-syntax-while-defining-instructions-in-td-files/65439#post_3)
+- [Flang-aarch64-dylib buildbot: need help understanding a regression in clang-tblgen](https://discourse.llvm.org/t/flang-aarch64-dylib-buildbot-need-help-understanding-a-regression-in-clang-tblgen/64871#post_5)
+- [Do vector predication intrinsics support NSW/NUW flags?](https://discourse.llvm.org/t/do-vector-predication-intrinsics-support-nsw-nuw-flags/65452#post_1)
+- [[RFC][MLIR] OpenMP Loop Transformation : tile and unroll directive operation support for omp.dialect](https://discourse.llvm.org/t/rfc-mlir-openmp-loop-transformation-tile-and-unroll-directive-operation-support-for-omp-dialect/65301#post_13)
+- [Problem adding GDB index when building LLVM](https://discourse.llvm.org/t/problem-adding-gdb-index-when-building-llvm/65444#post_3)
+- [Flang-aarch64-dylib buildbot: need help understanding a regression in clang-tblgen](https://discourse.llvm.org/t/flang-aarch64-dylib-buildbot-need-help-understanding-a-regression-in-clang-tblgen/64871#post_4)
 <!-- DISCOURSE-LLVM:END -->
