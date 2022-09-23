@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there any notes or document about why arith dialect not support broadcast semantics](https://discourse.llvm.org/t/is-there-any-notes-or-document-about-why-arith-dialect-not-support-broadcast-semantics/65468#post_2)
+- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_10)
+- [[RFC][arith] Should we support scalar &lt;--&gt; vector `arith.bitcast`s?](https://discourse.llvm.org/t/rfc-arith-should-we-support-scalar-vector-arith-bitcast-s/65427#post_3)
+- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_18)
 - [MLIR generic IR stability and upgradability](https://discourse.llvm.org/t/mlir-generic-ir-stability-and-upgradability/65371#post_4)
-- [__float128: how to use f128 functions with clang?](https://discourse.llvm.org/t/float128-how-to-use-f128-functions-with-clang/65470#post_1)
-- [LLVM 15.0.1 was tagged](https://discourse.llvm.org/t/llvm-15-0-1-was-tagged/65381#post_19)
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_17)
-- [[RFC][MemRef] Adding Realloc Op](https://discourse.llvm.org/t/rfc-memref-adding-realloc-op/65132#post_16)
 <!-- DISCOURSE-LLVM:END -->
