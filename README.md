@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang --crypt --random](https://discourse.llvm.org/t/clang-crypt-random/65497#post_1)
 - [Support for PE/COFF in BOLT](https://discourse.llvm.org/t/support-for-pe-coff-in-bolt/65496#post_1)
 - [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_44)
 - [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_43)
 - [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_42)
+- [Contributing MDSpan implementation](https://discourse.llvm.org/t/contributing-mdspan-implementation/65478#post_8)
 <!-- DISCOURSE-LLVM:END -->
