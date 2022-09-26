@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_57)
-- [[RFC] Define precise arith semantics](https://discourse.llvm.org/t/rfc-define-precise-arith-semantics/65507#post_4)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_56)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_55)
-- [LLVM 15.0.1 was tagged](https://discourse.llvm.org/t/llvm-15-0-1-was-tagged/65381?page=2#post_24)
+- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_61)
+- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_60)
+- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=3#post_59)
+- [LLVM Blog: August 2022 LLVM relicensing update &amp; further suggestions for help](https://discourse.llvm.org/t/llvm-blog-august-2022-llvm-relicensing-update-further-suggestions-for-help/64680#post_4)
+- [Printing from LLVM for debugging the instruction pattern written for backend](https://discourse.llvm.org/t/printing-from-llvm-for-debugging-the-instruction-pattern-written-for-backend/65291#post_9)
 <!-- DISCOURSE-LLVM:END -->
