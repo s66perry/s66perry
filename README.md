@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to compile C++ files under compiler-rt with -stdlib=libc++?](https://discourse.llvm.org/t/how-to-compile-c-files-under-compiler-rt-with-stdlib-libc/60482#post_8)
+- [LLVM Weekly - #456, September 26th 2022](https://discourse.llvm.org/t/llvm-weekly-456-september-26th-2022/65515#post_1)
+- [Printing from LLVM for debugging the instruction pattern written for backend](https://discourse.llvm.org/t/printing-from-llvm-for-debugging-the-instruction-pattern-written-for-backend/65291#post_11)
+- [Printing from LLVM for debugging the instruction pattern written for backend](https://discourse.llvm.org/t/printing-from-llvm-for-debugging-the-instruction-pattern-written-for-backend/65291#post_10)
 - [Why is LLDB not showing debug info for my assembly file?](https://discourse.llvm.org/t/why-is-lldb-not-showing-debug-info-for-my-assembly-file/65412#post_17)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=4#post_64)
-- [Why isn&#39;t sinking pass used in default pipeline?](https://discourse.llvm.org/t/why-isnt-sinking-pass-used-in-default-pipeline/65513#post_1)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=4#post_63)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=4#post_62)
 <!-- DISCOURSE-LLVM:END -->
