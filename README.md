@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Define precise arith semantics](https://discourse.llvm.org/t/rfc-define-precise-arith-semantics/65507#post_20)
+- [Segmentation fault when emitting gpu dialect with python binding](https://discourse.llvm.org/t/segmentation-fault-when-emitting-gpu-dialect-with-python-binding/65537#post_2)
+- [Several memref.subview&#39;s in an affine.for](https://discourse.llvm.org/t/several-memref-subviews-in-an-affine-for/65518#post_3)
+- [Adding a target specific module flag](https://discourse.llvm.org/t/adding-a-target-specific-module-flag/65539#post_1)
 - [Segmentation fault when emitting gpu dialect with python binding](https://discourse.llvm.org/t/segmentation-fault-when-emitting-gpu-dialect-with-python-binding/65537#post_1)
-- [`SBType` and non-type template arguments](https://discourse.llvm.org/t/sbtype-and-non-type-template-arguments/65521#post_2)
-- [Any useful sources for learning backend development](https://discourse.llvm.org/t/any-useful-sources-for-learning-backend-development/65509#post_3)
-- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_33)
-- [Confusion in LLVM backend&#39;s target description file](https://discourse.llvm.org/t/confusion-in-llvm-backends-target-description-file/65527#post_5)
 <!-- DISCOURSE-LLVM:END -->
