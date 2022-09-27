@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Define precise arith semantics](https://discourse.llvm.org/t/rfc-define-precise-arith-semantics/65507#post_14)
-- [[RFC] Define precise arith semantics](https://discourse.llvm.org/t/rfc-define-precise-arith-semantics/65507#post_13)
-- [[RFC] Define precise arith semantics](https://discourse.llvm.org/t/rfc-define-precise-arith-semantics/65507#post_12)
-- [[RFC] Define precise arith semantics](https://discourse.llvm.org/t/rfc-define-precise-arith-semantics/65507#post_11)
-- [`SBType` and non-type template arguments](https://discourse.llvm.org/t/sbtype-and-non-type-template-arguments/65521#post_1)
+- [About tosa lowing to linalg problems?](https://discourse.llvm.org/t/about-tosa-lowing-to-linalg-problems/65523#post_3)
+- [About tosa lowing to linalg problems?](https://discourse.llvm.org/t/about-tosa-lowing-to-linalg-problems/65523#post_2)
+- [About tosa lowing to linalg problems?](https://discourse.llvm.org/t/about-tosa-lowing-to-linalg-problems/65523#post_1)
+- [The type of time_t should be int64_t in libc](https://discourse.llvm.org/t/the-type-of-time-t-should-be-int64-t-in-libc/65376#post_5)
+- [Ssize_t should be the signed version of size_t](https://discourse.llvm.org/t/ssize-t-should-be-the-signed-version-of-size-t/65378#post_3)
 <!-- DISCOURSE-LLVM:END -->
