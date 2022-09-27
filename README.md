@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_4)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_3)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_2)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_5)
-- [LLVM Blog: Text formatting in C++ using libc++](https://discourse.llvm.org/t/llvm-blog-text-formatting-in-c-using-libc/65544#post_1)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_9)
+- [[RFC] Define precise arith semantics](https://discourse.llvm.org/t/rfc-define-precise-arith-semantics/65507?page=2#post_32)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_8)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_7)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_6)
 <!-- DISCOURSE-LLVM:END -->
