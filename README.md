@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GPU_DimensionAttr in python binding](https://discourse.llvm.org/t/gpu-dimensionattr-in-python-binding/65553#post_2)
+- [Llvm:crash vs crash label](https://discourse.llvm.org/t/llvm-crash-vs-crash-label/64818#post_11)
+- [[help wanted]adaptor advantage](https://discourse.llvm.org/t/help-wanted-adaptor-advantage/65556#post_1)
+- [Segmentation fault when emitting gpu dialect with python binding](https://discourse.llvm.org/t/segmentation-fault-when-emitting-gpu-dialect-with-python-binding/65537#post_4)
 - [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_17)
-- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_12)
-- [Why not eliminate range checks for non-indvars?](https://discourse.llvm.org/t/why-not-eliminate-range-checks-for-non-indvars/65551#post_4)
-- [Why not eliminate range checks for non-indvars?](https://discourse.llvm.org/t/why-not-eliminate-range-checks-for-non-indvars/65551#post_3)
-- [RFC: A Jupyter kernel for Tablegen](https://discourse.llvm.org/t/rfc-a-jupyter-kernel-for-tablegen/65003#post_8)
 <!-- DISCOURSE-LLVM:END -->
