@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Segmentation fault when emitting gpu dialect with python binding](https://discourse.llvm.org/t/segmentation-fault-when-emitting-gpu-dialect-with-python-binding/65537#post_6)
+- [Segmentation fault when emitting gpu dialect with python binding](https://discourse.llvm.org/t/segmentation-fault-when-emitting-gpu-dialect-with-python-binding/65537#post_5)
+- [Confusion regarding include statements](https://discourse.llvm.org/t/confusion-regarding-include-statements/65561#post_2)
+- [Firtool fails on chisel-circt-demo](https://discourse.llvm.org/t/firtool-fails-on-chisel-circt-demo/65075#post_5)
 - [Confusion regarding include statements](https://discourse.llvm.org/t/confusion-regarding-include-statements/65561#post_1)
-- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_6)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_18)
-- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_13)
-- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_5)
 <!-- DISCOURSE-LLVM:END -->
