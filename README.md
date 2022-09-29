@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Confusion regarding include statements](https://discourse.llvm.org/t/confusion-regarding-include-statements/65561#post_4)
+- [Confusion regarding include statements](https://discourse.llvm.org/t/confusion-regarding-include-statements/65561#post_3)
+- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_8)
+- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_7)
 - [[RFC] Support debugging child processes](https://discourse.llvm.org/t/rfc-support-debugging-child-processes/65506#post_3)
-- [Adding support for new target](https://discourse.llvm.org/t/adding-support-for-new-target/65435#post_3)
-- [Track taint path](https://discourse.llvm.org/t/track-taint-path/65566#post_1)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540#post_19)
-- [Any useful sources for learning backend development](https://discourse.llvm.org/t/any-useful-sources-for-learning-backend-development/65509#post_4)
 <!-- DISCOURSE-LLVM:END -->
