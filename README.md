@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_8)
-- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_7)
-- [X86-32-bit testing](https://discourse.llvm.org/t/x86-32-bit-testing/65480#post_5)
-- [X86-32-bit testing](https://discourse.llvm.org/t/x86-32-bit-testing/65480#post_4)
-- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_6)
+- [Fatal error: &#39;stdio.h&#39; file not found](https://discourse.llvm.org/t/fatal-error-stdio-h-file-not-found/65271#post_6)
+- [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_1)
+- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_9)
+- [Newbie question for registering new target with LLVM](https://discourse.llvm.org/t/newbie-question-for-registering-new-target-with-llvm/24780#post_7)
+- [Guidance for doing my first contribution](https://discourse.llvm.org/t/guidance-for-doing-my-first-contribution/65590#post_1)
 <!-- DISCOURSE-LLVM:END -->
