@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_4)
-- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_12)
-- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_3)
-- [How to compile and link with other c/c++ programs](https://discourse.llvm.org/t/how-to-compile-and-link-with-other-c-c-programs/4835#post_10)
-- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_11)
+- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_8)
+- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_7)
+- [X86-32-bit testing](https://discourse.llvm.org/t/x86-32-bit-testing/65480#post_5)
+- [X86-32-bit testing](https://discourse.llvm.org/t/x86-32-bit-testing/65480#post_4)
+- [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_6)
 <!-- DISCOURSE-LLVM:END -->
