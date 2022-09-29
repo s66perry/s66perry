@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Shift LLVM AA TechCall sessions by -1 &lpar;or +3&rpar; weeks](https://discourse.llvm.org/t/rfc-shift-llvm-aa-techcall-sessions-by-1-or-3-weeks/65572#post_3)
-- [X86-32-bit testing](https://discourse.llvm.org/t/x86-32-bit-testing/65480#post_3)
-- [Confusion in understanding Pat class](https://discourse.llvm.org/t/confusion-in-understanding-pat-class/65577#post_3)
-- [Confusion in understanding Pat class](https://discourse.llvm.org/t/confusion-in-understanding-pat-class/65577#post_2)
-- [RISC-V LLVM sync-up call 29th September 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-29th-september-2022/65574#post_3)
+- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_7)
+- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_6)
+- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_12)
+- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_5)
+- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_4)
 <!-- DISCOURSE-LLVM:END -->
