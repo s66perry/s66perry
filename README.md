@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_25)
-- [[RFC] Alternative approach of dealing with implications from comparisons through POS analysis](https://discourse.llvm.org/t/rfc-alternative-approach-of-dealing-with-implications-from-comparisons-through-pos-analysis/65601#post_8)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366?page=2#post_24)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366?page=2#post_23)
-- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366?page=2#post_22)
+- [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_4)
+- [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_3)
+- [Compile Clang statically for WebAssembly](https://discourse.llvm.org/t/compile-clang-statically-for-webassembly/65614#post_1)
+- [How to build compiler-rt for new X86 half float ABI](https://discourse.llvm.org/t/how-to-build-compiler-rt-for-new-x86-half-float-abi/63366?page=2#post_25)
+- [X86-32-bit testing](https://discourse.llvm.org/t/x86-32-bit-testing/65480#post_8)
 <!-- DISCOURSE-LLVM:END -->
