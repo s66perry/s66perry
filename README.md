@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_29)
+- [Proposed change to X86 Code Ownership](https://discourse.llvm.org/t/proposed-change-to-x86-code-ownership/65620#post_1)
+- [Compile Clang statically for WebAssembly](https://discourse.llvm.org/t/compile-clang-statically-for-webassembly/65614#post_5)
 - [X86-32-bit testing](https://discourse.llvm.org/t/x86-32-bit-testing/65480#post_9)
 - [libc++&#39;s legacy testing configuration has been removed](https://discourse.llvm.org/t/libc-s-legacy-testing-configuration-has-been-removed/65619#post_1)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_28)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_27)
-- [Compile Clang statically for WebAssembly](https://discourse.llvm.org/t/compile-clang-statically-for-webassembly/65614#post_4)
 <!-- DISCOURSE-LLVM:END -->
