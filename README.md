@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to debug LLDB source codes?](https://discourse.llvm.org/t/how-to-debug-lldb-source-codes/65598#post_1)
+- [Guidance for doing my first contribution](https://discourse.llvm.org/t/guidance-for-doing-my-first-contribution/65590#post_2)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_8)
 - [Adding support for new target](https://discourse.llvm.org/t/adding-support-for-new-target/65435#post_4)
 - [Optimize away memory allocations?](https://discourse.llvm.org/t/optimize-away-memory-allocations/65587#post_10)
-- [[RFC] Shift LLVM AA TechCall sessions by -1 &lpar;or +3&rpar; weeks](https://discourse.llvm.org/t/rfc-shift-llvm-aa-techcall-sessions-by-1-or-3-weeks/65572#post_5)
-- [2022 LLVM Dev Mtg Updates](https://discourse.llvm.org/t/2022-llvm-dev-mtg-updates/65596#post_1)
-- [Torch.empty_like supported in torch MLIR](https://discourse.llvm.org/t/torch-empty-like-supported-in-torch-mlir/65595#post_1)
 <!-- DISCOURSE-LLVM:END -->
