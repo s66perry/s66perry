@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM_ENABLE_RUNTIMES for cross compilation](https://discourse.llvm.org/t/llvm-enable-runtimes-for-cross-compilation/65653#post_2)
+- [LLVM_ENABLE_RUNTIMES for cross compilation](https://discourse.llvm.org/t/llvm-enable-runtimes-for-cross-compilation/65653#post_1)
 - [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_8)
 - [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_7)
 - [How and Where do you usually install your LLVM?](https://discourse.llvm.org/t/how-and-where-do-you-usually-install-your-llvm/65647#post_2)
-- [How and Where do you usually install your LLVM?](https://discourse.llvm.org/t/how-and-where-do-you-usually-install-your-llvm/65647#post_1)
-- [Clang compiled binary significantly slower than gcc compiled binary](https://discourse.llvm.org/t/clang-compiled-binary-significantly-slower-than-gcc-compiled-binary/65624#post_3)
 <!-- DISCOURSE-LLVM:END -->
