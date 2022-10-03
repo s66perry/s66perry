@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lit runner passing empty stdin to tool makes incorrect tests pass](https://discourse.llvm.org/t/lit-runner-passing-empty-stdin-to-tool-makes-incorrect-tests-pass/65672#post_1)
+- [Clang-tidy Ignoring Format Style](https://discourse.llvm.org/t/clang-tidy-ignoring-format-style/65457#post_3)
 - [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_14)
 - [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_13)
 - [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_12)
-- [Confusion in !cast bang operator](https://discourse.llvm.org/t/confusion-in-cast-bang-operator/65662#post_3)
-- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_11)
 <!-- DISCOURSE-LLVM:END -->
