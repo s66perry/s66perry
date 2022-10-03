@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_36)
-- [Proposed LangRef change to relax the const&#39;ness of vscale](https://discourse.llvm.org/t/proposed-langref-change-to-relax-the-constness-of-vscale/65677#post_1)
-- [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_12)
-- [[RFC] -load-pass-plugin for mlir-opt](https://discourse.llvm.org/t/rfc-load-pass-plugin-for-mlir-opt/65049#post_3)
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389?page=2#post_22)
+- [Merging change in LLVM repo](https://discourse.llvm.org/t/merging-change-in-llvm-repo/65681#post_1)
+- [Code compiled for arm64 much slower than for x86_64](https://discourse.llvm.org/t/code-compiled-for-arm64-much-slower-than-for-x86-64/65680#post_2)
+- [RISC-V V C Intrinsic API v1.0 release meeting reminder &lpar;Oct 03, 2022&rpar;](https://discourse.llvm.org/t/risc-v-v-c-intrinsic-api-v1-0-release-meeting-reminder-oct-03-2022/65670#post_2)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_37)
+- [Code compiled for arm64 much slower than for x86_64](https://discourse.llvm.org/t/code-compiled-for-arm64-much-slower-than-for-x86-64/65680#post_1)
 <!-- DISCOURSE-LLVM:END -->
