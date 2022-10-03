@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_34)
+- [A new Pass as a Plugin can&#39;t be run](https://discourse.llvm.org/t/a-new-pass-as-a-plugin-cant-be-run/63806#post_7)
 - [Guidance for doing my first contribution](https://discourse.llvm.org/t/guidance-for-doing-my-first-contribution/65590#post_7)
 - [[PSA] &quot;Raw&quot; accessors are being removed](https://discourse.llvm.org/t/psa-raw-accessors-are-being-removed/65629#post_3)
 - [[PSA] &quot;Raw&quot; accessors are being removed](https://discourse.llvm.org/t/psa-raw-accessors-are-being-removed/65629#post_2)
-- [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_10)
-- [New Flang Technical Call Invite](https://discourse.llvm.org/t/new-flang-technical-call-invite/65654#post_1)
 <!-- DISCOURSE-LLVM:END -->
