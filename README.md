@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=2#post_35)
-- [Clang C API - expressions operator sign taking](https://discourse.llvm.org/t/clang-c-api-expressions-operator-sign-taking/65665#post_1)
-- [Guidance for doing my first contribution](https://discourse.llvm.org/t/guidance-for-doing-my-first-contribution/65590#post_8)
-- [I meet a problem when use mlir-cpu-runner show Unknown type!](https://discourse.llvm.org/t/i-meet-a-problem-when-use-mlir-cpu-runner-show-unknown-type/65633#post_2)
-- [Clang-tidy right side const qualification](https://discourse.llvm.org/t/clang-tidy-right-side-const-qualification/65664#post_1)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_14)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_13)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_12)
+- [Confusion in !cast bang operator](https://discourse.llvm.org/t/confusion-in-cast-bang-operator/65662#post_3)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_11)
 <!-- DISCOURSE-LLVM:END -->
