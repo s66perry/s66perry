@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 15.0.1 was tagged](https://discourse.llvm.org/t/llvm-15-0-1-was-tagged/65381?page=2#post_27)
+- [LLVM 15.0.1 was tagged](https://discourse.llvm.org/t/llvm-15-0-1-was-tagged/65381?page=2#post_26)
+- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251?page=2#post_29)
 - [[Clang 16] Notice of potentially breaking changes](https://discourse.llvm.org/t/clang-16-notice-of-potentially-breaking-changes/65562#post_4)
 - [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_13)
-- [Lit runner passing empty stdin to tool makes incorrect tests pass](https://discourse.llvm.org/t/lit-runner-passing-empty-stdin-to-tool-makes-incorrect-tests-pass/65672#post_1)
-- [Clang-tidy Ignoring Format Style](https://discourse.llvm.org/t/clang-tidy-ignoring-format-style/65457#post_3)
-- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_14)
 <!-- DISCOURSE-LLVM:END -->
