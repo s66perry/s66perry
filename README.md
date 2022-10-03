@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [I meet a problem when use mlir-cpu-runner show Unknown type!](https://discourse.llvm.org/t/i-meet-a-problem-when-use-mlir-cpu-runner-show-unknown-type/65633#post_2)
+- [Clang-tidy right side const qualification](https://discourse.llvm.org/t/clang-tidy-right-side-const-qualification/65664#post_1)
+- [Confusion in !cast bang operator](https://discourse.llvm.org/t/confusion-in-cast-bang-operator/65662#post_2)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_10)
 - [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_9)
-- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_8)
-- [Confusion in !cast bang operator](https://discourse.llvm.org/t/confusion-in-cast-bang-operator/65662#post_1)
-- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_7)
-- [Libc++&#39;s legacy testing configuration has been removed](https://discourse.llvm.org/t/libc-s-legacy-testing-configuration-has-been-removed/65619#post_2)
 <!-- DISCOURSE-LLVM:END -->
