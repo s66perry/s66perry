@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 15.0.1 was tagged](https://discourse.llvm.org/t/llvm-15-0-1-was-tagged/65381?page=2#post_27)
-- [LLVM 15.0.1 was tagged](https://discourse.llvm.org/t/llvm-15-0-1-was-tagged/65381?page=2#post_26)
-- [[RFC] Add new discourse channel for &quot;Potentially Breaking/Disruptive Changes&quot; for Clang](https://discourse.llvm.org/t/rfc-add-new-discourse-channel-for-potentially-breaking-disruptive-changes-for-clang/65251?page=2#post_29)
-- [[Clang 16] Notice of potentially breaking changes](https://discourse.llvm.org/t/clang-16-notice-of-potentially-breaking-changes/65562#post_4)
-- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_13)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389?page=2#post_22)
+- [[Clang 16] Notice of potentially breaking changes](https://discourse.llvm.org/t/clang-16-notice-of-potentially-breaking-changes/65562#post_6)
+- [[Clang 16] Notice of potentially breaking changes](https://discourse.llvm.org/t/clang-16-notice-of-potentially-breaking-changes/65562#post_5)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389?page=2#post_21)
+- [Managing MCInstrPrinter and Including GenRegisterInfo.inc; small backend guide](https://discourse.llvm.org/t/managing-mcinstrprinter-and-including-genregisterinfo-inc-small-backend-guide/65592#post_11)
 <!-- DISCOURSE-LLVM:END -->
