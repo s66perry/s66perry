@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Crash due to using a new Transformation Pass](https://discourse.llvm.org/t/crash-due-to-using-a-new-transformation-pass/65700#post_2)
-- [[RFC] MLIR web related dialect proposal](https://discourse.llvm.org/t/rfc-mlir-web-related-dialect-proposal/65690#post_8)
-- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_17)
-- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_15)
-- [Code compiled for arm64 much slower than for x86_64](https://discourse.llvm.org/t/code-compiled-for-arm64-much-slower-than-for-x86-64/65680#post_17)
+- [RFC: Can we stop the extension to allow dereferencing void* in C++?](https://discourse.llvm.org/t/rfc-can-we-stop-the-extension-to-allow-dereferencing-void-in-c/65708#post_1)
+- [Code compiled for arm64 much slower than for x86_64](https://discourse.llvm.org/t/code-compiled-for-arm64-much-slower-than-for-x86-64/65680#post_18)
+- [[RFC] -load-pass-plugin for mlir-opt](https://discourse.llvm.org/t/rfc-load-pass-plugin-for-mlir-opt/65049#post_6)
+- [[runtimes] Removed support for LLVM_ENABLE_PROJECTS in libcxx, libcxxabi and libunwind](https://discourse.llvm.org/t/runtimes-removed-support-for-llvm-enable-projects-in-libcxx-libcxxabi-and-libunwind/65707#post_1)
+- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
