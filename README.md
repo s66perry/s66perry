@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR web related dialect proposal](https://discourse.llvm.org/t/rfc-mlir-web-related-dialect-proposal/65690#post_4)
+- [Code compiled for arm64 much slower than for x86_64](https://discourse.llvm.org/t/code-compiled-for-arm64-much-slower-than-for-x86-64/65680#post_7)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_15)
 - [[RFC] MLIR web related dialect proposal](https://discourse.llvm.org/t/rfc-mlir-web-related-dialect-proposal/65690#post_3)
 - [[RFC] MLIR web related dialect proposal](https://discourse.llvm.org/t/rfc-mlir-web-related-dialect-proposal/65690#post_2)
-- [[RFC] MLIR web related dialect proposal](https://discourse.llvm.org/t/rfc-mlir-web-related-dialect-proposal/65690#post_1)
-- [Merging change in LLVM repo](https://discourse.llvm.org/t/merging-change-in-llvm-repo/65681#post_2)
-- [LTO, deplibs, and libcalls, oh my](https://discourse.llvm.org/t/lto-deplibs-and-libcalls-oh-my/64510#post_6)
 <!-- DISCOURSE-LLVM:END -->
