@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_4)
+- [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_3)
+- [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_2)
+- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_13)
 - [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_1)
-- [Loop Opt WG Meeting on Oct 5, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-oct-5-2022/65712#post_1)
-- [distributed lit testing](https://discourse.llvm.org/t/distributed-lit-testing/57691#post_7)
-- [[mlir][RFC] Concurrent updates with `scf.foreach_thread](https://discourse.llvm.org/t/mlir-rfc-concurrent-updates-with-scf-foreach-thread/65615#post_4)
-- [Track taint path](https://discourse.llvm.org/t/track-taint-path/65566#post_3)
 <!-- DISCOURSE-LLVM:END -->
