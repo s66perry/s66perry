@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Track taint path](https://discourse.llvm.org/t/track-taint-path/65566#post_2)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=2#post_37)
-- [[Community Meeting / Developer Hour] Refactoring recurring meetings](https://discourse.llvm.org/t/community-meeting-developer-hour-refactoring-recurring-meetings/62575#post_3)
-- [Crash due to using a new Transformation Pass](https://discourse.llvm.org/t/crash-due-to-using-a-new-transformation-pass/65700#post_1)
-- [MLGO Panel at the Developers&#39; Meeting &lpar;and Oct/Nov monthlies&rpar;](https://discourse.llvm.org/t/mlgo-panel-at-the-developers-meeting-and-oct-nov-monthlies/65698#post_1)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_17)
+- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_15)
+- [Code compiled for arm64 much slower than for x86_64](https://discourse.llvm.org/t/code-compiled-for-arm64-much-slower-than-for-x86-64/65680#post_17)
+- [[RFC] Type System for the Transform Dialect](https://discourse.llvm.org/t/rfc-type-system-for-the-transform-dialect/65702#post_1)
+- [Code compiled for arm64 much slower than for x86_64](https://discourse.llvm.org/t/code-compiled-for-arm64-much-slower-than-for-x86-64/65680#post_16)
 <!-- DISCOURSE-LLVM:END -->
