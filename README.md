@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Interest in a &lpar;perhaps simplistic&rpar; image processing front-end?](https://discourse.llvm.org/t/interest-in-a-perhaps-simplistic-image-processing-front-end/65431#post_2)
+- [Match patterns based on a MLIR input](https://discourse.llvm.org/t/match-patterns-based-on-a-mlir-input/65714#post_1)
+- [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_5)
 - [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_4)
 - [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_3)
-- [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_2)
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_13)
-- [Macro performance: Lexer and SourceManager](https://discourse.llvm.org/t/macro-performance-lexer-and-sourcemanager/65713#post_1)
 <!-- DISCOURSE-LLVM:END -->
