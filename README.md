@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Match patterns based on a MLIR input](https://discourse.llvm.org/t/match-patterns-based-on-a-mlir-input/65714#post_2)
-- [[RFC] Alternative approach of dealing with implications from comparisons through POS analysis](https://discourse.llvm.org/t/rfc-alternative-approach-of-dealing-with-implications-from-comparisons-through-pos-analysis/65601#post_9)
-- [[RFC] Inject invariant conditions to loops to enable unswitching &lpar;and constraint elimination?&rpar;](https://discourse.llvm.org/t/rfc-inject-invariant-conditions-to-loops-to-enable-unswitching-and-constraint-elimination/65716#post_1)
-- [I meet a problem when use mlir-cpu-runner show Unknown type!](https://discourse.llvm.org/t/i-meet-a-problem-when-use-mlir-cpu-runner-show-unknown-type/65633#post_3)
-- [Crash due to using a new Transformation Pass](https://discourse.llvm.org/t/crash-due-to-using-a-new-transformation-pass/65700#post_3)
+- [Llvm Pass for instrumenting code at the Assembly level](https://discourse.llvm.org/t/llvm-pass-for-instrumenting-code-at-the-assembly-level/65719#post_1)
+- [[mlir][RFC] Concurrent updates with `scf.foreach_thread](https://discourse.llvm.org/t/mlir-rfc-concurrent-updates-with-scf-foreach-thread/65615#post_9)
+- [[mlir][RFC] Concurrent updates with `scf.foreach_thread](https://discourse.llvm.org/t/mlir-rfc-concurrent-updates-with-scf-foreach-thread/65615#post_8)
+- [If I have installed LLVM, should I install MLIR from scratch?](https://discourse.llvm.org/t/if-i-have-installed-llvm-should-i-install-mlir-from-scratch/65717#post_1)
+- [[mlir][RFC] Concurrent updates with `scf.foreach_thread](https://discourse.llvm.org/t/mlir-rfc-concurrent-updates-with-scf-foreach-thread/65615#post_7)
 <!-- DISCOURSE-LLVM:END -->
