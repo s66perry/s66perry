@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Should func::CallOp and func::ConstantOp be generalized to refer to FunctionOpInterface?](https://discourse.llvm.org/t/should-func-callop-and-func-constantop-be-generalized-to-refer-to-functionopinterface/65722#post_2)
+- [Should func::CallOp and func::ConstantOp be generalized to refer to FunctionOpInterface?](https://discourse.llvm.org/t/should-func-callop-and-func-constantop-be-generalized-to-refer-to-functionopinterface/65722#post_1)
+- [I have some question about mma operation](https://discourse.llvm.org/t/i-have-some-question-about-mma-operation/65721#post_1)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657#post_18)
 - [I meet a problem when use mlir-cpu-runner show Unknown type!](https://discourse.llvm.org/t/i-meet-a-problem-when-use-mlir-cpu-runner-show-unknown-type/65633#post_4)
-- [Question about getelementptr inbounds with offset 0](https://discourse.llvm.org/t/question-about-getelementptr-inbounds-with-offset-0/62533#post_14)
-- [[mlir][RFC] Concurrent updates with `scf.foreach_thread](https://discourse.llvm.org/t/mlir-rfc-concurrent-updates-with-scf-foreach-thread/65615#post_10)
-- [I have installed LLVM, should I install MLIR from the begining?](https://discourse.llvm.org/t/i-have-installed-llvm-should-i-install-mlir-from-the-begining/65720#post_1)
-- [Scalable vector support and MOPS support](https://discourse.llvm.org/t/scalable-vector-support-and-mops-support/65522#post_16)
 <!-- DISCOURSE-LLVM:END -->
