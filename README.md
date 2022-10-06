@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_7)
-- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_6)
-- [How to convert c to elf format using clang](https://discourse.llvm.org/t/how-to-convert-c-to-elf-format-using-clang/65743#post_1)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_16)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_15)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_17)
+- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_11)
+- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_10)
+- [Clangd not working correctly with emacs+eglot](https://discourse.llvm.org/t/clangd-not-working-correctly-with-emacs-eglot/1220?page=2#post_22)
+- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_9)
 <!-- DISCOURSE-LLVM:END -->
