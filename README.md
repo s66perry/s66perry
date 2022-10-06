@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PSA: Retire `tileAndFuseLinalgOps` method](https://discourse.llvm.org/t/psa-retire-tileandfuselinalgops-method/63850#post_3)
+- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_13)
+- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_12)
 - [Use -print-callgrapg-sccs from opt](https://discourse.llvm.org/t/use-print-callgrapg-sccs-from-opt/65782#post_1)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=2#post_38)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=2#post_37)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=2#post_36)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
