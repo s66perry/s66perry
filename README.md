@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_7)
+- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_6)
+- [How to convert c to elf format using clang](https://discourse.llvm.org/t/how-to-convert-c-to-elf-format-using-clang/65743#post_1)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_16)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_15)
-- [Open MLIR Meeting 10/6/2022: Coordinate Transformations in AMD&#39;s rocMLIR](https://discourse.llvm.org/t/open-mlir-meeting-10-6-2022-coordinate-transformations-in-amds-rocmlir/65742#post_1)
-- [Semantics modeling: Undefined Behavior and Side Effects](https://discourse.llvm.org/t/semantics-modeling-undefined-behavior-and-side-effects/4812#post_12)
-- [WiCT October Meetup - IN PERSON! Join us!](https://discourse.llvm.org/t/wict-october-meetup-in-person-join-us/65741#post_1)
 <!-- DISCOURSE-LLVM:END -->
