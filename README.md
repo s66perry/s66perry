@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_20)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_19)
+- [Llvm Pass for instrumenting code at the Assembly level](https://discourse.llvm.org/t/llvm-pass-for-instrumenting-code-at-the-assembly-level/65719#post_3)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_18)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734#post_17)
-- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_11)
-- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_10)
-- [Clangd not working correctly with emacs+eglot](https://discourse.llvm.org/t/clangd-not-working-correctly-with-emacs-eglot/1220?page=2#post_22)
-- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_9)
 <!-- DISCOURSE-LLVM:END -->
