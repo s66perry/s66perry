@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to contribute to documentation?](https://discourse.llvm.org/t/how-to-contribute-to-documentation/65759#post_7)
-- [How to contribute to documentation?](https://discourse.llvm.org/t/how-to-contribute-to-documentation/65759#post_6)
-- [How can we get all the options of command line](https://discourse.llvm.org/t/how-can-we-get-all-the-options-of-command-line/65784#post_3)
-- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657?page=2#post_28)
-- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_14)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=3#post_45)
+- [How to convert c to elf using clang and using ld.lld](https://discourse.llvm.org/t/how-to-convert-c-to-elf-using-clang-and-using-ld-lld/65743#post_4)
+- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_14)
+- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_16)
+- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_15)
 <!-- DISCOURSE-LLVM:END -->
