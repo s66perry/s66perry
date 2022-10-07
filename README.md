@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Eliminating naked pointers from the OCaml bindings to be compatible with OCaml 5](https://discourse.llvm.org/t/eliminating-naked-pointers-from-the-ocaml-bindings-to-be-compatible-with-ocaml-5/65794#post_1)
-- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_14)
-- [How to convert c to elf using clang and using ld.lld](https://discourse.llvm.org/t/how-to-convert-c-to-elf-using-clang-and-using-ld-lld/65743#post_3)
-- [I have installed LLVM, should I install MLIR from the begining?](https://discourse.llvm.org/t/i-have-installed-llvm-should-i-install-mlir-from-the-begining/65720#post_4)
-- [I have installed LLVM, should I install MLIR from the begining?](https://discourse.llvm.org/t/i-have-installed-llvm-should-i-install-mlir-from-the-begining/65720#post_3)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657?page=2#post_24)
+- [PSA: Retire `tileAndFuseLinalgOps` method](https://discourse.llvm.org/t/psa-retire-tileandfuselinalgops-method/63850#post_5)
+- [Build_llvm_release.bat script dependencies](https://discourse.llvm.org/t/build-llvm-release-bat-script-dependencies/65657?page=2#post_23)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=3#post_44)
+- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_4)
 <!-- DISCOURSE-LLVM:END -->
