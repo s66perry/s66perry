@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PCH support](https://discourse.llvm.org/t/pch-support/3424#post_4)
-- [[mlir][RFC] Concurrent updates with `scf.foreach_thread](https://discourse.llvm.org/t/mlir-rfc-concurrent-updates-with-scf-foreach-thread/65615#post_12)
-- [Misleading optimization remark caused by lambda?](https://discourse.llvm.org/t/misleading-optimization-remark-caused-by-lambda/65808#post_2)
-- [Misleading optimization remark caused by lambda?](https://discourse.llvm.org/t/misleading-optimization-remark-caused-by-lambda/65808#post_1)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=3#post_49)
+- [I have some question about mma operation](https://discourse.llvm.org/t/i-have-some-question-about-mma-operation/65721#post_7)
+- [I have some question about mma operation](https://discourse.llvm.org/t/i-have-some-question-about-mma-operation/65721#post_6)
+- [[RFC] Is it okay to run DCE during a conversion pass?](https://discourse.llvm.org/t/rfc-is-it-okay-to-run-dce-during-a-conversion-pass/65787#post_8)
+- [[RFC] Is it okay to run DCE during a conversion pass?](https://discourse.llvm.org/t/rfc-is-it-okay-to-run-dce-during-a-conversion-pass/65787#post_7)
+- [[RFC] Is it okay to run DCE during a conversion pass?](https://discourse.llvm.org/t/rfc-is-it-okay-to-run-dce-during-a-conversion-pass/65787#post_6)
 <!-- DISCOURSE-LLVM:END -->
