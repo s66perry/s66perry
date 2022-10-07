@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Passing in a Unranked Memref to an LLVM function call](https://discourse.llvm.org/t/passing-in-a-unranked-memref-to-an-llvm-function-call/65774#post_2)
+- [C++ strict aliasing and TBAA](https://discourse.llvm.org/t/c-strict-aliasing-and-tbaa/64362#post_6)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=3#post_46)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=3#post_45)
 - [How to convert c to elf using clang and using ld.lld](https://discourse.llvm.org/t/how-to-convert-c-to-elf-using-clang-and-using-ld-lld/65743#post_4)
-- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_14)
-- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_16)
-- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_15)
 <!-- DISCOURSE-LLVM:END -->
