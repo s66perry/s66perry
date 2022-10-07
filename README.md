@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [C++ strict aliasing and TBAA](https://discourse.llvm.org/t/c-strict-aliasing-and-tbaa/64362#post_7)
-- [Emit alloc instructions during a conversion pass](https://discourse.llvm.org/t/emit-alloc-instructions-during-a-conversion-pass/65735#post_3)
-- [Eliminating naked pointers from the OCaml bindings to be compatible with OCaml 5](https://discourse.llvm.org/t/eliminating-naked-pointers-from-the-ocaml-bindings-to-be-compatible-with-ocaml-5/65794#post_2)
-- [Passing in a Unranked Memref to an LLVM function call](https://discourse.llvm.org/t/passing-in-a-unranked-memref-to-an-llvm-function-call/65774#post_2)
-- [C++ strict aliasing and TBAA](https://discourse.llvm.org/t/c-strict-aliasing-and-tbaa/64362#post_6)
+- [Emit alloc instructions during a conversion pass](https://discourse.llvm.org/t/emit-alloc-instructions-during-a-conversion-pass/65735#post_4)
+- [Passing in a Unranked Memref to an LLVM function call](https://discourse.llvm.org/t/passing-in-a-unranked-memref-to-an-llvm-function-call/65774#post_3)
+- [How to read the source code of the LLVM pass and MLIR dialect](https://discourse.llvm.org/t/how-to-read-the-source-code-of-the-llvm-pass-and-mlir-dialect/65800#post_1)
+- [Any tool/extension to assist development](https://discourse.llvm.org/t/any-tool-extension-to-assist-development/65797#post_2)
+- [Any tool/extension to assist development](https://discourse.llvm.org/t/any-tool-extension-to-assist-development/65797#post_1)
 <!-- DISCOURSE-LLVM:END -->
