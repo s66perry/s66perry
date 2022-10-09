@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [A new Pass as a Plugin can&#39;t be run](https://discourse.llvm.org/t/a-new-pass-as-a-plugin-cant-be-run/63806#post_8)
+- [[RFC] Remove the Go bindings](https://discourse.llvm.org/t/rfc-remove-the-go-bindings/65725#post_9)
 - [[RFC] Remove the Go bindings](https://discourse.llvm.org/t/rfc-remove-the-go-bindings/65725#post_8)
 - [Program aborts when calling getDomTree&lpar;&rpar;](https://discourse.llvm.org/t/program-aborts-when-calling-getdomtree/65832#post_1)
 - [I accidentally created a naming inconsistency in the OCaml API](https://discourse.llvm.org/t/i-accidentally-created-a-naming-inconsistency-in-the-ocaml-api/65715#post_5)
-- [Proposed change to X86 Code Ownership](https://discourse.llvm.org/t/proposed-change-to-x86-code-ownership/65620#post_10)
-- [Proposed change to X86 Code Ownership](https://discourse.llvm.org/t/proposed-change-to-x86-code-ownership/65620#post_9)
 <!-- DISCOURSE-LLVM:END -->
