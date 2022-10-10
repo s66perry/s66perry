@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How can we get frontend and linker invocations of the build command?](https://discourse.llvm.org/t/how-can-we-get-frontend-and-linker-invocations-of-the-build-command/65784#post_8)
-- [How to change vector dialect to memref dialect?](https://discourse.llvm.org/t/how-to-change-vector-dialect-to-memref-dialect/65824#post_2)
-- [TableGen: Subtargets with different encodings](https://discourse.llvm.org/t/tablegen-subtargets-with-different-encodings/65776#post_5)
-- [How can we get frontend and linker invocations of the build command?](https://discourse.llvm.org/t/how-can-we-get-frontend-and-linker-invocations-of-the-build-command/65784#post_7)
-- [Where can we find out the algorithm of Auto-Vectorization?](https://discourse.llvm.org/t/where-can-we-find-out-the-algorithm-of-auto-vectorization/65844#post_2)
+- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_8)
+- [How to implement memref writing in stride?](https://discourse.llvm.org/t/how-to-implement-memref-writing-in-stride/65819#post_4)
+- [How to implement memref writing in stride?](https://discourse.llvm.org/t/how-to-implement-memref-writing-in-stride/65819#post_3)
+- [[RFC] Mark tensor.dim and memref.dim as side effecting](https://discourse.llvm.org/t/rfc-mark-tensor-dim-and-memref-dim-as-side-effecting/65729#post_19)
+- [How to implement memref writing in stride?](https://discourse.llvm.org/t/how-to-implement-memref-writing-in-stride/65819#post_2)
 <!-- DISCOURSE-LLVM:END -->
