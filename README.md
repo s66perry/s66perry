@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm-link: Linking globals named &#39;global&#39;: symbol multyply defined!](https://discourse.llvm.org/t/llvm-link-linking-globals-named-global-symbol-multyply-defined/65834#post_3)
-- [AArch64 Big Endian ILP32 support in LLD](https://discourse.llvm.org/t/aarch64-big-endian-ilp32-support-in-lld/65845#post_1)
-- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_18)
-- [Where can we find out the algorithm of Auto-Vectorization?](https://discourse.llvm.org/t/where-can-we-find-out-the-algorithm-of-auto-vectorization/65844#post_1)
-- [Can the LLVM optimization pipeline be run more than once?](https://discourse.llvm.org/t/can-the-llvm-optimization-pipeline-be-run-more-than-once/65843#post_1)
+- [How can we get frontend and linker invocations of the build command?](https://discourse.llvm.org/t/how-can-we-get-frontend-and-linker-invocations-of-the-build-command/65784#post_8)
+- [How to change vector dialect to memref dialect?](https://discourse.llvm.org/t/how-to-change-vector-dialect-to-memref-dialect/65824#post_2)
+- [TableGen: Subtargets with different encodings](https://discourse.llvm.org/t/tablegen-subtargets-with-different-encodings/65776#post_5)
+- [How can we get frontend and linker invocations of the build command?](https://discourse.llvm.org/t/how-can-we-get-frontend-and-linker-invocations-of-the-build-command/65784#post_7)
+- [Where can we find out the algorithm of Auto-Vectorization?](https://discourse.llvm.org/t/where-can-we-find-out-the-algorithm-of-auto-vectorization/65844#post_2)
 <!-- DISCOURSE-LLVM:END -->
