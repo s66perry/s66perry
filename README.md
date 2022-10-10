@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Warning: comparison of integers of different signs](https://discourse.llvm.org/t/warning-comparison-of-integers-of-different-signs/65835#post_3)
-- [[RFC] Request for upstream Tensilica Xtensa &lpar;ESP32&rpar; backend](https://discourse.llvm.org/t/rfc-request-for-upstream-tensilica-xtensa-esp32-backend/65355#post_5)
-- [Use clang-format for formatting code fragments](https://discourse.llvm.org/t/use-clang-format-for-formatting-code-fragments/65847#post_3)
-- [LLVM Weekly - #458, October 10th 2022](https://discourse.llvm.org/t/llvm-weekly-458-october-10th-2022/65848#post_1)
-- [Use clang-format for formatting code fragments](https://discourse.llvm.org/t/use-clang-format-for-formatting-code-fragments/65847#post_2)
+- [Memref-to-llvm: llvm.alloca operations emitted for memref.copy cause segfault if embedded in loop](https://discourse.llvm.org/t/memref-to-llvm-llvm-alloca-operations-emitted-for-memref-copy-cause-segfault-if-embedded-in-loop/65850#post_2)
+- [Help with writing passes](https://discourse.llvm.org/t/help-with-writing-passes/65849#post_4)
+- [Help with writing passes](https://discourse.llvm.org/t/help-with-writing-passes/65849#post_3)
+- [Use clang-format for formatting code fragments](https://discourse.llvm.org/t/use-clang-format-for-formatting-code-fragments/65847#post_4)
+- [Memref-to-llvm: llvm.alloca operations emitted for memref.copy cause segfault if embedded in loop](https://discourse.llvm.org/t/memref-to-llvm-llvm-alloca-operations-emitted-for-memref-copy-cause-segfault-if-embedded-in-loop/65850#post_1)
 <!-- DISCOURSE-LLVM:END -->
