@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_12)
-- [LLDB startup takes ~15 seconds parsing symbol tables](https://discourse.llvm.org/t/lldb-startup-takes-15-seconds-parsing-symbol-tables/65487#post_6)
-- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_11)
-- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_10)
-- [[RFC] Is it okay to run DCE during a conversion pass?](https://discourse.llvm.org/t/rfc-is-it-okay-to-run-dce-during-a-conversion-pass/65787#post_12)
+- [Warning: comparison of integers of different signs](https://discourse.llvm.org/t/warning-comparison-of-integers-of-different-signs/65835#post_3)
+- [[RFC] Request for upstream Tensilica Xtensa &lpar;ESP32&rpar; backend](https://discourse.llvm.org/t/rfc-request-for-upstream-tensilica-xtensa-esp32-backend/65355#post_5)
+- [Use clang-format for formatting code fragments](https://discourse.llvm.org/t/use-clang-format-for-formatting-code-fragments/65847#post_3)
+- [LLVM Weekly - #458, October 10th 2022](https://discourse.llvm.org/t/llvm-weekly-458-october-10th-2022/65848#post_1)
+- [Use clang-format for formatting code fragments](https://discourse.llvm.org/t/use-clang-format-for-formatting-code-fragments/65847#post_2)
 <!-- DISCOURSE-LLVM:END -->
