@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Where can we find out the algorithm of Auto-Vectorization?](https://discourse.llvm.org/t/where-can-we-find-out-the-algorithm-of-auto-vectorization/65844#post_1)
+- [Can the LLVM optimization pipeline be run more than once?](https://discourse.llvm.org/t/can-the-llvm-optimization-pipeline-be-run-more-than-once/65843#post_1)
 - [Llvm-link: Linking globals named &#39;global&#39;: symbol multyply defined!](https://discourse.llvm.org/t/llvm-link-linking-globals-named-global-symbol-multyply-defined/65834#post_2)
 - [Why is getting a function address so slow?](https://discourse.llvm.org/t/why-is-getting-a-function-address-so-slow/65837#post_3)
 - [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579#post_17)
-- [[RFC] Proposal for a high-level ML dialect in MLIR](https://discourse.llvm.org/t/rfc-proposal-for-a-high-level-ml-dialect-in-mlir/64249?page=10#post_181)
-- [Configure script breakage with the new -Werror=implicit-function-declaration](https://discourse.llvm.org/t/configure-script-breakage-with-the-new-werror-implicit-function-declaration/65213?page=4#post_69)
 <!-- DISCOURSE-LLVM:END -->
