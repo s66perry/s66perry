@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Std::string vs llvm::StringRef](https://discourse.llvm.org/t/std-string-vs-llvm-stringref/65873#post_2)
+- [Has gc-sections changed behaviour?](https://discourse.llvm.org/t/has-gc-sections-changed-behaviour/65876#post_1)
+- [[RFC] Enabling LoopVectorizer for vectorization width of 1](https://discourse.llvm.org/t/rfc-enabling-loopvectorizer-for-vectorization-width-of-1/65769#post_6)
+- [Std::string vs llvm::StringRef](https://discourse.llvm.org/t/std-string-vs-llvm-stringref/65873#post_1)
 - [FOSDEM LLVM dev room organization](https://discourse.llvm.org/t/fosdem-llvm-dev-room-organization/65805#post_4)
-- [Section-start not being respected in ELF linker?](https://discourse.llvm.org/t/section-start-not-being-respected-in-elf-linker/64237#post_8)
-- [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868#post_3)
-- [How to change vector dialect to memref dialect?](https://discourse.llvm.org/t/how-to-change-vector-dialect-to-memref-dialect/65824#post_4)
-- [PDL example for working with a range](https://discourse.llvm.org/t/pdl-example-for-working-with-a-range/65870#post_1)
 <!-- DISCOURSE-LLVM:END -->
