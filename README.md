@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Setjmp&lpar;&rpar; and static analysis](https://discourse.llvm.org/t/setjmp-and-static-analysis/65827#post_5)
+- [Nested GEP expression](https://discourse.llvm.org/t/nested-gep-expression/65895#post_2)
+- [[RFC] Broadcasting in TCP](https://discourse.llvm.org/t/rfc-broadcasting-in-tcp/65896#post_1)
+- [Nested GEP expression](https://discourse.llvm.org/t/nested-gep-expression/65895#post_1)
 - [Generating control flow with multiple return destinations](https://discourse.llvm.org/t/generating-control-flow-with-multiple-return-destinations/65893#post_3)
-- [Generating control flow with multiple return destinations](https://discourse.llvm.org/t/generating-control-flow-with-multiple-return-destinations/65893#post_2)
-- [Generating control flow with multiple return destinations](https://discourse.llvm.org/t/generating-control-flow-with-multiple-return-destinations/65893#post_1)
-- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_18)
-- [[RFC] Enabling LoopVectorizer for vectorization width of 1](https://discourse.llvm.org/t/rfc-enabling-loopvectorizer-for-vectorization-width-of-1/65769#post_8)
 <!-- DISCOURSE-LLVM:END -->
