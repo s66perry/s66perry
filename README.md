@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868#post_4)
-- [Building libc for RISCV or AArch64](https://discourse.llvm.org/t/building-libc-for-riscv-or-aarch64/65881#post_2)
-- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_4)
-- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_3)
-- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_2)
+- [How does MLIR define tensor/vector/matrix *rank*?](https://discourse.llvm.org/t/how-does-mlir-define-tensor-vector-matrix-rank/65888#post_2)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_43)
+- [Building libc for RISCV or AArch64](https://discourse.llvm.org/t/building-libc-for-riscv-or-aarch64/65881#post_6)
+- [Building libc for RISCV or AArch64](https://discourse.llvm.org/t/building-libc-for-riscv-or-aarch64/65881#post_5)
+- [How does MLIR define tensor/vector/matrix *rank*?](https://discourse.llvm.org/t/how-does-mlir-define-tensor-vector-matrix-rank/65888#post_1)
 <!-- DISCOURSE-LLVM:END -->
