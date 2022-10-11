@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868#post_4)
+- [Building libc for RISCV or AArch64](https://discourse.llvm.org/t/building-libc-for-riscv-or-aarch64/65881#post_2)
+- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_4)
+- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_3)
 - [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_2)
-- [Unsupported by backend contract: module initializers](https://discourse.llvm.org/t/unsupported-by-backend-contract-module-initializers/65878#post_2)
-- [Building libc for RISCV or AArch64](https://discourse.llvm.org/t/building-libc-for-riscv-or-aarch64/65881#post_1)
-- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_16)
-- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_1)
 <!-- DISCOURSE-LLVM:END -->
