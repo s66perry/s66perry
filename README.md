@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_45)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_44)
-- [Setjmp&lpar;&rpar; and static analysis](https://discourse.llvm.org/t/setjmp-and-static-analysis/65827#post_5)
-- [Nested GEP expression](https://discourse.llvm.org/t/nested-gep-expression/65895#post_2)
-- [[RFC] Broadcasting in TCP](https://discourse.llvm.org/t/rfc-broadcasting-in-tcp/65896#post_1)
+- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_5)
+- [About llc compiler with -fPIC](https://discourse.llvm.org/t/about-llc-compiler-with-fpic/65898#post_4)
+- [About llc compiler with -fPIC](https://discourse.llvm.org/t/about-llc-compiler-with-fpic/65898#post_3)
+- [About llc compiler with -fPIC](https://discourse.llvm.org/t/about-llc-compiler-with-fpic/65898#post_2)
+- [About llc compiler with -fPIC](https://discourse.llvm.org/t/about-llc-compiler-with-fpic/65898#post_1)
 <!-- DISCOURSE-LLVM:END -->
