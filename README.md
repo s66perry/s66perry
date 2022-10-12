@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Github deprecates current way to foward variables to another step of a job](https://discourse.llvm.org/t/github-deprecates-current-way-to-foward-variables-to-another-step-of-a-job/65914#post_2)
-- [Misleading optimization remark caused by lambda?](https://discourse.llvm.org/t/misleading-optimization-remark-caused-by-lambda/65808#post_5)
-- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757#post_20)
-- [Generating PCM &lpar;module interfaces&rpar; and regular object files from the same compiler invocation](https://discourse.llvm.org/t/generating-pcm-module-interfaces-and-regular-object-files-from-the-same-compiler-invocation/65918#post_1)
-- [[RFC] MLIR web related dialect proposal](https://discourse.llvm.org/t/rfc-mlir-web-related-dialect-proposal/65690#post_9)
+- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757?page=2#post_21)
+- [Writing an llvm pass within source tree](https://discourse.llvm.org/t/writing-an-llvm-pass-within-source-tree/65903#post_3)
+- [Generating PCM &lpar;module interfaces&rpar; and regular object files from the same compiler invocation](https://discourse.llvm.org/t/generating-pcm-module-interfaces-and-regular-object-files-from-the-same-compiler-invocation/65918#post_2)
+- [Eliminating naked pointers from the OCaml bindings to be compatible with OCaml 5](https://discourse.llvm.org/t/eliminating-naked-pointers-from-the-ocaml-bindings-to-be-compatible-with-ocaml-5/65794#post_4)
+- [Darwin lld linking issue](https://discourse.llvm.org/t/darwin-lld-linking-issue/65709#post_6)
 <!-- DISCOURSE-LLVM:END -->
