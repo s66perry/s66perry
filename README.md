@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `hsearch` implementation](https://discourse.llvm.org/t/rfc-hsearch-implementation/65934#post_5)
-- [[RFC] `hsearch` implementation](https://discourse.llvm.org/t/rfc-hsearch-implementation/65934#post_4)
-- [[RFC] `hsearch` implementation](https://discourse.llvm.org/t/rfc-hsearch-implementation/65934#post_3)
-- [[RFC] `hsearch` implementation](https://discourse.llvm.org/t/rfc-hsearch-implementation/65934#post_2)
-- [Cross AST type comparison](https://discourse.llvm.org/t/cross-ast-type-comparison/65938#post_2)
+- [Simple cross-compilation with --target fails](https://discourse.llvm.org/t/simple-cross-compilation-with-target-fails/65948#post_3)
+- [Simple cross-compilation with --target fails](https://discourse.llvm.org/t/simple-cross-compilation-with-target-fails/65948#post_2)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639#post_15)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_13)
+- [Simple cross-compilation with --target fails](https://discourse.llvm.org/t/simple-cross-compilation-with-target-fails/65948#post_1)
 <!-- DISCOURSE-LLVM:END -->
