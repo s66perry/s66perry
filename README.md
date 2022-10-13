@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang -- incorrectly putting stuff in cxx_global_var_init &lpar;when building GCC subcomponents&rpar;](https://discourse.llvm.org/t/clang-incorrectly-putting-stuff-in-cxx-global-var-init-when-building-gcc-subcomponents/65932#post_1)
+- [How do we plan to make constexpr &lt;cmath&gt; and &lt;cstdlib&gt;](https://discourse.llvm.org/t/how-do-we-plan-to-make-constexpr-cmath-and-cstdlib/65930#post_2)
+- [How do we plan to make constexpr &lt;cmath&gt; and &lt;cstdlib&gt;](https://discourse.llvm.org/t/how-do-we-plan-to-make-constexpr-cmath-and-cstdlib/65930#post_1)
+- [[RFC] Elementwise ops in TCP](https://discourse.llvm.org/t/rfc-elementwise-ops-in-tcp/65887#post_5)
 - [[RFC] Elementwise ops in TCP](https://discourse.llvm.org/t/rfc-elementwise-ops-in-tcp/65887#post_4)
-- [[RFC] Elementwise ops in TCP](https://discourse.llvm.org/t/rfc-elementwise-ops-in-tcp/65887#post_3)
-- [LLVM with RISC-V V-extension intrinsic support](https://discourse.llvm.org/t/llvm-with-risc-v-v-extension-intrinsic-support/58283#post_2)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_61)
-- [Open MLIR Meeting 10/13/2022: Discussion about broadcasting in TCP](https://discourse.llvm.org/t/open-mlir-meeting-10-13-2022-discussion-about-broadcasting-in-tcp/65926#post_1)
 <!-- DISCOURSE-LLVM:END -->
