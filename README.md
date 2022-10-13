@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cross AST type comparison](https://discourse.llvm.org/t/cross-ast-type-comparison/65938#post_1)
+- [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100?page=2#post_21)
+- [Generating PCM &lpar;module interfaces&rpar; and regular object files from the same compiler invocation](https://discourse.llvm.org/t/generating-pcm-module-interfaces-and-regular-object-files-from-the-same-compiler-invocation/65918#post_9)
 - [Generating PCM &lpar;module interfaces&rpar; and regular object files from the same compiler invocation](https://discourse.llvm.org/t/generating-pcm-module-interfaces-and-regular-object-files-from-the-same-compiler-invocation/65918#post_8)
 - [Auto-generate the memory folding tables](https://discourse.llvm.org/t/auto-generate-the-memory-folding-tables/61100#post_20)
-- [Generating PCM &lpar;module interfaces&rpar; and regular object files from the same compiler invocation](https://discourse.llvm.org/t/generating-pcm-module-interfaces-and-regular-object-files-from-the-same-compiler-invocation/65918#post_7)
-- [How do AST related options generate executables?](https://discourse.llvm.org/t/how-do-ast-related-options-generate-executables/65908#post_4)
-- [Generating PCM &lpar;module interfaces&rpar; and regular object files from the same compiler invocation](https://discourse.llvm.org/t/generating-pcm-module-interfaces-and-regular-object-files-from-the-same-compiler-invocation/65918#post_6)
 <!-- DISCOURSE-LLVM:END -->
