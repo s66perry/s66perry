@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is it possible to disable branch coverage generation?](https://discourse.llvm.org/t/is-it-possible-to-disable-branch-coverage-generation/62342#post_9)
-- [RFC: Option to automatically use Xcode SDK](https://discourse.llvm.org/t/rfc-option-to-automatically-use-xcode-sdk/65978#post_1)
-- [Using DRR to rewrite LLVM::CallOp](https://discourse.llvm.org/t/using-drr-to-rewrite-llvm-callop/65975#post_3)
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_10)
-- [MLIR Build Error when enabling cuda runner](https://discourse.llvm.org/t/mlir-build-error-when-enabling-cuda-runner/65880#post_6)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_17)
+- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_16)
+- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_12)
+- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_11)
+- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_3)
 <!-- DISCOURSE-LLVM:END -->
