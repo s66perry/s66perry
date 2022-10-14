@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add explicit shape inputs to tensor.expand_shape](https://discourse.llvm.org/t/rfc-add-explicit-shape-inputs-to-tensor-expand-shape/65952#post_7)
-- [Cross AST type comparison](https://discourse.llvm.org/t/cross-ast-type-comparison/65938#post_3)
-- [Possible false positive in clang-tidy NewDeleteLeaks check](https://discourse.llvm.org/t/possible-false-positive-in-clang-tidy-newdeleteleaks-check/65970#post_1)
-- [How to understand &quot;affine&quot; in MLIR？](https://discourse.llvm.org/t/how-to-understand-affine-in-mlir/65965#post_2)
-- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_7)
+- [Using DRR to rewrite LLVM::CallOp](https://discourse.llvm.org/t/using-drr-to-rewrite-llvm-callop/65975#post_2)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_23)
+- [[RFC] Alternative approach of dealing with implications from comparisons through POS analysis](https://discourse.llvm.org/t/rfc-alternative-approach-of-dealing-with-implications-from-comparisons-through-pos-analysis/65601#post_11)
+- [Using DRR to rewrite LLVM::CallOp](https://discourse.llvm.org/t/using-drr-to-rewrite-llvm-callop/65975#post_1)
+- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_1)
 <!-- DISCOURSE-LLVM:END -->
