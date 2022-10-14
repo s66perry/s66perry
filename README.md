@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_1)
+- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_2)
+- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_1)
 - [How do AST related options generate executables?](https://discourse.llvm.org/t/how-do-ast-related-options-generate-executables/65908#post_5)
 - [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_7)
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_6)
-- [How do we plan to make constexpr &lt;cmath&gt; and &lt;cstdlib&gt;](https://discourse.llvm.org/t/how-do-we-plan-to-make-constexpr-cmath-and-cstdlib/65930#post_6)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_64)
 <!-- DISCOURSE-LLVM:END -->
