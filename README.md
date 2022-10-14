@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add explicit shape inputs to tensor.expand_shape](https://discourse.llvm.org/t/rfc-add-explicit-shape-inputs-to-tensor-expand-shape/65952#post_5)
+- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_3)
+- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_2)
 - [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_1)
 - [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_2)
-- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_1)
-- [How do AST related options generate executables?](https://discourse.llvm.org/t/how-do-ast-related-options-generate-executables/65908#post_5)
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_7)
 <!-- DISCOURSE-LLVM:END -->
