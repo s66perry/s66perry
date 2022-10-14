@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Setjmp&lpar;&rpar; and static analysis](https://discourse.llvm.org/t/setjmp-and-static-analysis/65827#post_6)
+- [Treat two files as a single file](https://discourse.llvm.org/t/treat-two-files-as-a-single-file/65964#post_2)
+- [[C++ 20] how to use the 3-way comparison operator &lpar;Space Ship Operator&rpar;?](https://discourse.llvm.org/t/c-20-how-to-use-the-3-way-comparison-operator-space-ship-operator/65962#post_3)
+- [Treat two files as a single file](https://discourse.llvm.org/t/treat-two-files-as-a-single-file/65964#post_1)
 - [[C++ 20] how to use the 3-way comparison operator &lpar;Space Ship Operator&rpar;?](https://discourse.llvm.org/t/c-20-how-to-use-the-3-way-comparison-operator-space-ship-operator/65962#post_2)
-- [[RFC] Add explicit shape inputs to tensor.expand_shape](https://discourse.llvm.org/t/rfc-add-explicit-shape-inputs-to-tensor-expand-shape/65952#post_6)
-- [Default setting for CLANG_DEFAULT_PIE_ON_LINUX](https://discourse.llvm.org/t/default-setting-for-clang-default-pie-on-linux/61688#post_8)
-- [[C++ 20] how to use the 3-way comparison operator &lpar;Space Ship Operator&rpar;?](https://discourse.llvm.org/t/c-20-how-to-use-the-3-way-comparison-operator-space-ship-operator/65962#post_1)
-- [[RFC] Add explicit shape inputs to tensor.expand_shape](https://discourse.llvm.org/t/rfc-add-explicit-shape-inputs-to-tensor-expand-shape/65952#post_5)
 <!-- DISCOURSE-LLVM:END -->
