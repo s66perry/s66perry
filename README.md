@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_17)
-- [LLVM 15.0.2 tagged](https://discourse.llvm.org/t/llvm-15-0-2-tagged/65694#post_16)
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_12)
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_11)
-- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_3)
+- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_9)
+- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_3)
+- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_13)
+- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_8)
+- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_2)
 <!-- DISCOURSE-LLVM:END -->
