@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757?page=2#post_24)
+- [Request for a new warning message](https://discourse.llvm.org/t/request-for-a-new-warning-message/65982#post_3)
+- [Missing aggregate bitcast - or lowering existing SSA to LLVM IR](https://discourse.llvm.org/t/missing-aggregate-bitcast-or-lowering-existing-ssa-to-llvm-ir/64223#post_2)
 - [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757?page=2#post_23)
 - [Request for a new warning message](https://discourse.llvm.org/t/request-for-a-new-warning-message/65982#post_2)
-- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_6)
-- [RFC: Option to automatically use Xcode SDK](https://discourse.llvm.org/t/rfc-option-to-automatically-use-xcode-sdk/65978#post_2)
-- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_5)
 <!-- DISCOURSE-LLVM:END -->
