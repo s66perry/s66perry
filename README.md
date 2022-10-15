@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Which should be selected between defining a struct type and defining a runtime type when i want to compile a class?](https://discourse.llvm.org/t/which-should-be-selected-between-defining-a-struct-type-and-defining-a-runtime-type-when-i-want-to-compile-a-class/65983#post_1)
+- [RFC: Option to automatically use Xcode SDK](https://discourse.llvm.org/t/rfc-option-to-automatically-use-xcode-sdk/65978#post_4)
+- [RFC: Option to automatically use Xcode SDK](https://discourse.llvm.org/t/rfc-option-to-automatically-use-xcode-sdk/65978#post_3)
+- [I have some problems about vector.contract](https://discourse.llvm.org/t/i-have-some-problems-about-vector-contract/65886#post_2)
 - [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757?page=2#post_24)
-- [Request for a new warning message](https://discourse.llvm.org/t/request-for-a-new-warning-message/65982#post_3)
-- [Missing aggregate bitcast - or lowering existing SSA to LLVM IR](https://discourse.llvm.org/t/missing-aggregate-bitcast-or-lowering-existing-ssa-to-llvm-ir/64223#post_2)
-- [Clang-14.0.6 performance optimization](https://discourse.llvm.org/t/clang-14-0-6-performance-optimization/65757?page=2#post_23)
-- [Request for a new warning message](https://discourse.llvm.org/t/request-for-a-new-warning-message/65982#post_2)
 <!-- DISCOURSE-LLVM:END -->
