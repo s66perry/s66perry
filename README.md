@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Option to automatically use Xcode SDK](https://discourse.llvm.org/t/rfc-option-to-automatically-use-xcode-sdk/65978#post_2)
+- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_5)
+- [Request for a new warning message](https://discourse.llvm.org/t/request-for-a-new-warning-message/65982#post_1)
 - [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_4)
 - [How to understand &quot;affine&quot; in MLIR？](https://discourse.llvm.org/t/how-to-understand-affine-in-mlir/65965#post_3)
-- [Check for Instruction if movable or not](https://discourse.llvm.org/t/check-for-instruction-if-movable-or-not/65981#post_1)
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_15)
-- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_4)
 <!-- DISCOURSE-LLVM:END -->
