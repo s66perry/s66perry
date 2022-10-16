@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is MPI code generation supported in MLIR?](https://discourse.llvm.org/t/is-mpi-code-generation-supported-in-mlir/65992#post_1)
+- [How to disable Randomize in Firtool generated SV](https://discourse.llvm.org/t/how-to-disable-randomize-in-firtool-generated-sv/65990#post_1)
 - [Error when using both vector.outerproduct and vector.store](https://discourse.llvm.org/t/error-when-using-both-vector-outerproduct-and-vector-store/65989#post_1)
 - [How do we plan to make constexpr &lt;cmath&gt; and &lt;cstdlib&gt;](https://discourse.llvm.org/t/how-do-we-plan-to-make-constexpr-cmath-and-cstdlib/65930#post_9)
 - [How do we plan to make constexpr &lt;cmath&gt; and &lt;cstdlib&gt;](https://discourse.llvm.org/t/how-do-we-plan-to-make-constexpr-cmath-and-cstdlib/65930#post_8)
-- [How do we plan to make constexpr &lt;cmath&gt; and &lt;cstdlib&gt;](https://discourse.llvm.org/t/how-do-we-plan-to-make-constexpr-cmath-and-cstdlib/65930#post_7)
-- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_7)
 <!-- DISCOURSE-LLVM:END -->
