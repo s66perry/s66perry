@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Round Tables for the 2022 US LLVM Dev Mtg!](https://discourse.llvm.org/t/round-tables-for-the-2022-us-llvm-dev-mtg/65137#post_5)
+- [Round Tables for the 2022 US LLVM Dev Mtg!](https://discourse.llvm.org/t/round-tables-for-the-2022-us-llvm-dev-mtg/65137#post_4)
+- [Round Tables for the 2022 US LLVM Dev Mtg!](https://discourse.llvm.org/t/round-tables-for-the-2022-us-llvm-dev-mtg/65137#post_3)
+- [2022 US LLVM Developers&#39; Meeting - Registration is open](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-registration-is-open/64590#post_12)
 - [Preexecution](https://discourse.llvm.org/t/preexecution/65953#post_3)
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_15)
-- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_11)
-- [I have some problems about vector.contract](https://discourse.llvm.org/t/i-have-some-problems-about-vector-contract/65886#post_4)
-- [I have some problems about vector.contract](https://discourse.llvm.org/t/i-have-some-problems-about-vector-contract/65886#post_3)
 <!-- DISCOURSE-LLVM:END -->
