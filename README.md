@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Bay Area Monthly Meetup &lpar;Mon October 17 ‘22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-october-17-22-6pm/65583#post_4)
+- [LLVM Weekly - #459, October 17th 2022](https://discourse.llvm.org/t/llvm-weekly-459-october-17th-2022/66014#post_1)
+- [Unordered Floating Noint Numbers &lpar;and Infinite ones too&rpar;](https://discourse.llvm.org/t/unordered-floating-noint-numbers-and-infinite-ones-too/65961#post_12)
+- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_7)
 - [RFC: Add -p driver support to Clang](https://discourse.llvm.org/t/rfc-add-p-driver-support-to-clang/66013#post_1)
-- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_6)
-- [‘MemRefType’ is not a member of ‘mlir’](https://discourse.llvm.org/t/memreftype-is-not-a-member-of-mlir/65959#post_5)
-- [Clang: error: no library &#39;libomptarget-new-nvptx-sm_35.bc&#39; found in the default clang](https://discourse.llvm.org/t/clang-error-no-library-libomptarget-new-nvptx-sm-35-bc-found-in-the-default-clang/66002#post_2)
-- [Round Tables for the 2022 US LLVM Dev Mtg!](https://discourse.llvm.org/t/round-tables-for-the-2022-us-llvm-dev-mtg/65137#post_5)
 <!-- DISCOURSE-LLVM:END -->
