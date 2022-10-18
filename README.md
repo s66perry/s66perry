@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Rescheduled MLIR Bay Area Developer Summit [Nov 10, 2022]](https://discourse.llvm.org/t/rescheduled-mlir-bay-area-developer-summit-nov-10-2022/65043#post_9)
-- [Unreachable blocks in llvm-reduce](https://discourse.llvm.org/t/unreachable-blocks-in-llvm-reduce/66046#post_2)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_67)
-- [[RFC] Elementwise ops in TCP](https://discourse.llvm.org/t/rfc-elementwise-ops-in-tcp/65887#post_11)
-- [Unreachable blocks in llvm-reduce](https://discourse.llvm.org/t/unreachable-blocks-in-llvm-reduce/66046#post_1)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_52)
+- [Unreachable blocks in llvm-reduce](https://discourse.llvm.org/t/unreachable-blocks-in-llvm-reduce/66046#post_3)
+- [Loop Opt WG Meeting on Oct 19, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-oct-19-2022/66047#post_2)
+- [Loop Opt WG Meeting on Oct 19, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-oct-19-2022/66047#post_1)
+- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
