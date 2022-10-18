@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [SVML functions with Clang](https://discourse.llvm.org/t/svml-functions-with-clang/66048#post_1)
 - [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_14)
 - [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_53)
 - [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_52)
 - [Unreachable blocks in llvm-reduce](https://discourse.llvm.org/t/unreachable-blocks-in-llvm-reduce/66046#post_3)
-- [Loop Opt WG Meeting on Oct 19, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-oct-19-2022/66047#post_2)
 <!-- DISCOURSE-LLVM:END -->
