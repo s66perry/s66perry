@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How should we support dependency scanner for C++20 Modules?](https://discourse.llvm.org/t/how-should-we-support-dependency-scanner-for-c-20-modules/66027#post_4)
+- [[RFC] lit&#39;s REQUIRES and triples](https://discourse.llvm.org/t/rfc-lits-requires-and-triples/66041#post_3)
+- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_4)
+- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_2)
 - [Microsoft Defender SmartScreen flags LLVM Windows installer as unknown](https://discourse.llvm.org/t/microsoft-defender-smartscreen-flags-llvm-windows-installer-as-unknown/66050#post_1)
-- [SVML functions with Clang](https://discourse.llvm.org/t/svml-functions-with-clang/66048#post_1)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_14)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_53)
-- [[RFC] `index` dialect](https://discourse.llvm.org/t/rfc-index-dialect/65540?page=3#post_52)
 <!-- DISCOURSE-LLVM:END -->
