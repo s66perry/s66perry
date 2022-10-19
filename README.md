@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_12)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_69)
-- [How can I save the final relocatiable file before linking when using lto&lpar;-flto&rpar;](https://discourse.llvm.org/t/how-can-i-save-the-final-relocatiable-file-before-linking-when-using-lto-flto/66059#post_2)
-- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_11)
-- [Is it possible to disable a specific instruction in AArch64?](https://discourse.llvm.org/t/is-it-possible-to-disable-a-specific-instruction-in-aarch64/66060#post_1)
+- [Eliminating naked pointers from the OCaml bindings to be compatible with OCaml 5](https://discourse.llvm.org/t/eliminating-naked-pointers-from-the-ocaml-bindings-to-be-compatible-with-ocaml-5/65794#post_11)
+- [[mac] minos version used by clang is dependent on host macOS version](https://discourse.llvm.org/t/mac-minos-version-used-by-clang-is-dependent-on-host-macos-version/66063#post_1)
+- [Loop Opt WG Meeting on Oct 19, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-oct-19-2022/66047#post_4)
+- [[RFC] Elementwise ops in TCP](https://discourse.llvm.org/t/rfc-elementwise-ops-in-tcp/65887#post_12)
+- [[Request for comments] Torch-MLIR 1-2yr roadmap](https://discourse.llvm.org/t/request-for-comments-torch-mlir-1-2yr-roadmap/66057#post_2)
 <!-- DISCOURSE-LLVM:END -->
