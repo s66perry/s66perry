@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_70)
+- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_6)
 - [Is there an op in the calyx dialect that maps invoke?](https://discourse.llvm.org/t/is-there-an-op-in-the-calyx-dialect-that-maps-invoke/66051#post_5)
 - [Is there an op in the calyx dialect that maps invoke?](https://discourse.llvm.org/t/is-there-an-op-in-the-calyx-dialect-that-maps-invoke/66051#post_4)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon October 17 ‘22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-october-17-22-6pm/65583#post_5)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071#post_4)
-- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
