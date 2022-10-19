@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] lit&#39;s REQUIRES and triples](https://discourse.llvm.org/t/rfc-lits-requires-and-triples/66041#post_4)
-- [[RFC] Add explicit shape inputs to tensor.expand_shape](https://discourse.llvm.org/t/rfc-add-explicit-shape-inputs-to-tensor-expand-shape/65952#post_10)
-- [How to contribute to the open MLIR project](https://discourse.llvm.org/t/how-to-contribute-to-the-open-mlir-project/66055#post_2)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_2)
-- [How to contribute to the open MLIR project](https://discourse.llvm.org/t/how-to-contribute-to-the-open-mlir-project/66055#post_1)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_15)
+- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_7)
+- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_6)
+- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_5)
+- [Error when using both vector.outerproduct and vector.store](https://discourse.llvm.org/t/error-when-using-both-vector-outerproduct-and-vector-store/65989#post_3)
 <!-- DISCOURSE-LLVM:END -->
