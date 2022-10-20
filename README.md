@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086#post_4)
-- [DWIM Print Command](https://discourse.llvm.org/t/dwim-print-command/66078#post_3)
-- [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086#post_3)
-- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_12)
-- [How can I save the final relocatiable file before linking when using lto&lpar;-flto&rpar;](https://discourse.llvm.org/t/how-can-i-save-the-final-relocatiable-file-before-linking-when-using-lto-flto/66059#post_3)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_71)
+- [Why doesn&#39;t my compilation cache when changing linker?](https://discourse.llvm.org/t/why-doesnt-my-compilation-cache-when-changing-linker/66088#post_11)
+- [Unreachable blocks in llvm-reduce](https://discourse.llvm.org/t/unreachable-blocks-in-llvm-reduce/66046#post_6)
+- [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086#post_6)
+- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_8)
 <!-- DISCOURSE-LLVM:END -->
