@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_15)
+- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_14)
 - [Simple cross-compilation with --target fails](https://discourse.llvm.org/t/simple-cross-compilation-with-target-fails/65948#post_6)
 - [Bypassing clang-tidy false reports on bugprone-exception-escape](https://discourse.llvm.org/t/bypassing-clang-tidy-false-reports-on-bugprone-exception-escape/66096#post_1)
 - [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_13)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_12)
-- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_14)
 <!-- DISCOURSE-LLVM:END -->
