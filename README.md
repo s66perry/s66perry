@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954#post_19)
 - [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071#post_10)
 - [Testing downstream targets in Clang](https://discourse.llvm.org/t/testing-downstream-targets-in-clang/66076#post_2)
 - [Conda-forge fortran-on-win compiler discussion - flang a candidate](https://discourse.llvm.org/t/conda-forge-fortran-on-win-compiler-discussion-flang-a-candidate/66081#post_4)
 - [[gdb] Reading symbols from clang takes extremely long time](https://discourse.llvm.org/t/gdb-reading-symbols-from-clang-takes-extremely-long-time/66022#post_2)
-- [Conda-forge fortran-on-win compiler discussion - flang a candidate](https://discourse.llvm.org/t/conda-forge-fortran-on-win-compiler-discussion-flang-a-candidate/66081#post_3)
 <!-- DISCOURSE-LLVM:END -->
