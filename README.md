@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Conda-forge fortran-on-win compiler discussion - flang a candidate](https://discourse.llvm.org/t/conda-forge-fortran-on-win-compiler-discussion-flang-a-candidate/66081#post_1)
-- [RFC: Add -p driver support to Clang](https://discourse.llvm.org/t/rfc-add-p-driver-support-to-clang/66013#post_8)
-- [How to find all c++ class definitions, their constructors, and their use with LLVM?](https://discourse.llvm.org/t/how-to-find-all-c-class-definitions-their-constructors-and-their-use-with-llvm/65951#post_5)
-- [RFC: Add -p driver support to Clang](https://discourse.llvm.org/t/rfc-add-p-driver-support-to-clang/66013#post_7)
-- [How to find all c++ class definitions, their constructors, and their use with LLVM?](https://discourse.llvm.org/t/how-to-find-all-c-class-definitions-their-constructors-and-their-use-with-llvm/65951#post_4)
+- [Sema : Section type conflict](https://discourse.llvm.org/t/sema-section-type-conflict/66000#post_2)
+- [How to contribute to the open MLIR project](https://discourse.llvm.org/t/how-to-contribute-to-the-open-mlir-project/66055#post_5)
+- [How to contribute to the open MLIR project](https://discourse.llvm.org/t/how-to-contribute-to-the-open-mlir-project/66055#post_4)
+- [Crash due to using a new Transformation Pass](https://discourse.llvm.org/t/crash-due-to-using-a-new-transformation-pass/65700#post_5)
+- [Eliminating naked pointers from the OCaml bindings to be compatible with OCaml 5](https://discourse.llvm.org/t/eliminating-naked-pointers-from-the-ocaml-bindings-to-be-compatible-with-ocaml-5/65794#post_12)
 <!-- DISCOURSE-LLVM:END -->
