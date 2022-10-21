@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_21)
+- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_20)
+- [[RFC] lit&#39;s REQUIRES and triples](https://discourse.llvm.org/t/rfc-lits-requires-and-triples/66041#post_6)
+- [Bufferization: how to avoid extra alloc with &#39;buffer-results-to-out-params&#39;](https://discourse.llvm.org/t/bufferization-how-to-avoid-extra-alloc-with-buffer-results-to-out-params/66120#post_1)
 - [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_16)
-- [Undefined symbol when used as global, not from function](https://discourse.llvm.org/t/undefined-symbol-when-used-as-global-not-from-function/66119#post_2)
-- [RFC: Source-based MC/DC Code Coverage](https://discourse.llvm.org/t/rfc-source-based-mc-dc-code-coverage/59244#post_3)
-- [Undefined symbol when used as global, not from function](https://discourse.llvm.org/t/undefined-symbol-when-used-as-global-not-from-function/66119#post_1)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_8)
 <!-- DISCOURSE-LLVM:END -->
