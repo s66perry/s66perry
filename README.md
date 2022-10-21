@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_16)
+- [MLIR C/C++ Frontend Working Group [Monday, Oct 24th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-monday-oct-24th/66117#post_1)
+- [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086#post_14)
+- [Rescheduled MLIR Bay Area Developer Summit [Nov 10, 2022]](https://discourse.llvm.org/t/rescheduled-mlir-bay-area-developer-summit-nov-10-2022/65043#post_14)
 - [[RFC] lit&#39;s REQUIRES and triples](https://discourse.llvm.org/t/rfc-lits-requires-and-triples/66041#post_5)
-- [Simple cross-compilation with --target fails](https://discourse.llvm.org/t/simple-cross-compilation-with-target-fails/65948#post_8)
-- [Is installing the project necessary to modify and extend it?](https://discourse.llvm.org/t/is-installing-the-project-necessary-to-modify-and-extend-it/66111#post_5)
-- [Unreachable blocks in llvm-reduce](https://discourse.llvm.org/t/unreachable-blocks-in-llvm-reduce/66046#post_7)
-- [Support for 128bit long double on Apple Silicon?](https://discourse.llvm.org/t/support-for-128bit-long-double-on-apple-silicon/66108#post_4)
 <!-- DISCOURSE-LLVM:END -->
