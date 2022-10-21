@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [2022 US LLVM Developers&#39; Meeting - Registration is open](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-registration-is-open/64590#post_13)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_19)
-- [BOLT Open Projects](https://discourse.llvm.org/t/bolt-open-projects/61857#post_12)
-- [[RFC][MLIR] OpenMP Loop Transformation : tile and unroll directive operation support for omp.dialect](https://discourse.llvm.org/t/rfc-mlir-openmp-loop-transformation-tile-and-unroll-directive-operation-support-for-omp-dialect/65301#post_15)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_18)
+- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_16)
+- [Undefined symbol when used as global, not from function](https://discourse.llvm.org/t/undefined-symbol-when-used-as-global-not-from-function/66119#post_2)
+- [RFC: Source-based MC/DC Code Coverage](https://discourse.llvm.org/t/rfc-source-based-mc-dc-code-coverage/59244#post_3)
+- [Undefined symbol when used as global, not from function](https://discourse.llvm.org/t/undefined-symbol-when-used-as-global-not-from-function/66119#post_1)
+- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_8)
 <!-- DISCOURSE-LLVM:END -->
