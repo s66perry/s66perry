@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_15)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_14)
-- [Simple cross-compilation with --target fails](https://discourse.llvm.org/t/simple-cross-compilation-with-target-fails/65948#post_6)
-- [Bypassing clang-tidy false reports on bugprone-exception-escape](https://discourse.llvm.org/t/bypassing-clang-tidy-false-reports-on-bugprone-exception-escape/66096#post_1)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053#post_13)
+- [[RFC] Elementwise ops in TCP](https://discourse.llvm.org/t/rfc-elementwise-ops-in-tcp/65887#post_16)
+- [Eliminating naked pointers from the OCaml bindings to be compatible with OCaml 5](https://discourse.llvm.org/t/eliminating-naked-pointers-from-the-ocaml-bindings-to-be-compatible-with-ocaml-5/65794#post_13)
+- [Alias Analysis Framework in MLIR](https://discourse.llvm.org/t/alias-analysis-framework-in-mlir/2433#post_10)
+- [Alias Analysis Framework in MLIR](https://discourse.llvm.org/t/alias-analysis-framework-in-mlir/2433#post_9)
+- [Alias Analysis Framework in MLIR](https://discourse.llvm.org/t/alias-analysis-framework-in-mlir/2433#post_8)
 <!-- DISCOURSE-LLVM:END -->
