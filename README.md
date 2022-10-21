@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_11)
-- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_10)
-- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_9)
-- [Why doesn&#39;t my compilation cache when changing linker?](https://discourse.llvm.org/t/why-doesnt-my-compilation-cache-when-changing-linker/66088#post_14)
-- [BOLT Open Projects](https://discourse.llvm.org/t/bolt-open-projects/61857#post_10)
+- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_12)
+- [Support for 128bit long double on Apple Silicon?](https://discourse.llvm.org/t/support-for-128bit-long-double-on-apple-silicon/66108#post_1)
+- [LLVM 15.0.4 release schedule update](https://discourse.llvm.org/t/llvm-15-0-4-release-schedule-update/66099#post_4)
+- [LLVM 15.0.4 release schedule update](https://discourse.llvm.org/t/llvm-15-0-4-release-schedule-update/66099#post_3)
+- [BOLT Open Projects](https://discourse.llvm.org/t/bolt-open-projects/61857#post_11)
 <!-- DISCOURSE-LLVM:END -->
