@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086#post_9)
+- [Rescheduled MLIR Bay Area Developer Summit [Nov 10, 2022]](https://discourse.llvm.org/t/rescheduled-mlir-bay-area-developer-summit-nov-10-2022/65043#post_10)
+- [[RFC] Broadcasting in TCP](https://discourse.llvm.org/t/rfc-broadcasting-in-tcp/65896#post_3)
+- [Open MLIR Meeting 10/13/2022: Discussion about broadcasting in TCP](https://discourse.llvm.org/t/open-mlir-meeting-10-13-2022-discussion-about-broadcasting-in-tcp/65926#post_2)
 - [SourceMgr Diagnostic Verifier Handler Regex error](https://discourse.llvm.org/t/sourcemgr-diagnostic-verifier-handler-regex-error/66089#post_3)
-- [SourceMgr Diagnostic Verifier Handler Regex error](https://discourse.llvm.org/t/sourcemgr-diagnostic-verifier-handler-regex-error/66089#post_2)
-- [[AutoFDO] Reuse profile when tryInlineCandidate&lpar;&rpar; failed?](https://discourse.llvm.org/t/autofdo-reuse-profile-when-tryinlinecandidate-failed/66097#post_1)
-- [How to contribute to the open MLIR project](https://discourse.llvm.org/t/how-to-contribute-to-the-open-mlir-project/66055#post_7)
-- [[RFC] Unifying the terminology about modules in clang](https://discourse.llvm.org/t/rfc-unifying-the-terminology-about-modules-in-clang/66054#post_5)
 <!-- DISCOURSE-LLVM:END -->
