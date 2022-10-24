@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_17)
-- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_7)
-- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_6)
-- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_5)
-- [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086?page=2#post_21)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_10)
+- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_19)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_9)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_8)
+- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_18)
 <!-- DISCOURSE-LLVM:END -->
