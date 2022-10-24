@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_17)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_7)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_6)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_5)
 - [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086?page=2#post_21)
-- [Should LLVM provide more documenation for frontend developers?](https://discourse.llvm.org/t/should-llvm-provide-more-documenation-for-frontend-developers/66134#post_4)
-- [[RFC] Unify memory effect attributes](https://discourse.llvm.org/t/rfc-unify-memory-effect-attributes/65579?page=2#post_21)
-- [RFC: Bump minimal requirements Apple Clang 9.3 -&gt; 10.0.0 before 4th Tue in January](https://discourse.llvm.org/t/rfc-bump-minimal-requirements-apple-clang-9-3-10-0-0-before-4th-tue-in-january/66156#post_14)
-- [RFC: Bump minimal requirements Apple Clang 9.3 -&gt; 10.0.0 before 4th Tue in January](https://discourse.llvm.org/t/rfc-bump-minimal-requirements-apple-clang-9-3-10-0-0-before-4th-tue-in-january/66156#post_13)
 <!-- DISCOURSE-LLVM:END -->
