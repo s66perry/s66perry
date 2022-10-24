@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang. Introduction](https://discourse.llvm.org/t/clang-introduction/66140#post_2)
-- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_1)
-- [DWIM Print Command](https://discourse.llvm.org/t/dwim-print-command/66078#post_7)
-- [Creating an object of value class](https://discourse.llvm.org/t/creating-an-object-of-value-class/66154#post_1)
-- [Problem in Documentation](https://discourse.llvm.org/t/problem-in-documentation/65920#post_3)
+- [Should buildbots switch to ENABLE_RUNTIMES instead of ENABLE_PROJECTS for compiler-rt?](https://discourse.llvm.org/t/should-buildbots-switch-to-enable-runtimes-instead-of-enable-projects-for-compiler-rt/65042#post_11)
+- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071#post_12)
+- [Should buildbots switch to ENABLE_RUNTIMES instead of ENABLE_PROJECTS for compiler-rt?](https://discourse.llvm.org/t/should-buildbots-switch-to-enable-runtimes-instead-of-enable-projects-for-compiler-rt/65042#post_10)
+- [Make install-runtimes does not install runtimes](https://discourse.llvm.org/t/make-install-runtimes-does-not-install-runtimes/66136#post_3)
+- [There are some odd branches. Is it allowed? Can&#39;t we ban it?](https://discourse.llvm.org/t/there-are-some-odd-branches-is-it-allowed-cant-we-ban-it/66150#post_3)
 <!-- DISCOURSE-LLVM:END -->
