@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [There are some odd branches. Is it allowed? Can&#39;t we ban it?](https://discourse.llvm.org/t/there-are-some-odd-branches-is-it-allowed-cant-we-ban-it/66150#post_2)
-- [There are some odd branches. Is it allowed? Can&#39;t we ban it?](https://discourse.llvm.org/t/there-are-some-odd-branches-is-it-allowed-cant-we-ban-it/66150#post_1)
-- [Function that return &#39;true&#39; if operand is an immediate/constant](https://discourse.llvm.org/t/function-that-return-true-if-operand-is-an-immediate-constant/66149#post_2)
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954?page=2#post_22)
-- [Function that return &#39;true&#39; if operand is an immediate/constant](https://discourse.llvm.org/t/function-that-return-true-if-operand-is-an-immediate-constant/66149#post_1)
+- [Problem in Documentation](https://discourse.llvm.org/t/problem-in-documentation/65920#post_3)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_17)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_16)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_15)
+- [Important: New toolchain requirements to build LLVM will &lpar;most likely&rpar; be landing within a week. Prepare your buildbots](https://discourse.llvm.org/t/important-new-toolchain-requirements-to-build-llvm-will-most-likely-be-landing-within-a-week-prepare-your-buildbots/61447#post_14)
 <!-- DISCOURSE-LLVM:END -->
