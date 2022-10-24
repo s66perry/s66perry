@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954?page=2#post_21)
-- [Took chisel-circt 0.6.0 and LLVM 1.15.0 for a spin](https://discourse.llvm.org/t/took-chisel-circt-0-6-0-and-llvm-1-15-0-for-a-spin/65756#post_2)
-- [Bufferization: how to avoid extra alloc with &#39;buffer-results-to-out-params&#39;](https://discourse.llvm.org/t/bufferization-how-to-avoid-extra-alloc-with-buffer-results-to-out-params/66120#post_2)
-- [Should LLVM provide more documenation for frontend developers?](https://discourse.llvm.org/t/should-llvm-provide-more-documenation-for-frontend-developers/66134#post_3)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053?page=2#post_22)
+- [There are some odd branches. Is it allowed? Can&#39;t we ban it?](https://discourse.llvm.org/t/there-are-some-odd-branches-is-it-allowed-cant-we-ban-it/66150#post_2)
+- [There are some odd branches. Is it allowed? Can&#39;t we ban it?](https://discourse.llvm.org/t/there-are-some-odd-branches-is-it-allowed-cant-we-ban-it/66150#post_1)
+- [Function that return &#39;true&#39; if operand is an immediate/constant](https://discourse.llvm.org/t/function-that-return-true-if-operand-is-an-immediate-constant/66149#post_2)
+- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954?page=2#post_22)
+- [Function that return &#39;true&#39; if operand is an immediate/constant](https://discourse.llvm.org/t/function-that-return-true-if-operand-is-an-immediate-constant/66149#post_1)
 <!-- DISCOURSE-LLVM:END -->
