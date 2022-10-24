@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Cross compilation of libcxx for baremetal ARMv7m with hard floating point support](https://discourse.llvm.org/t/cross-compilation-of-libcxx-for-baremetal-armv7m-with-hard-floating-point-support/66164#post_6)
-- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168#post_20)
-- [CSE with optional/mergable attributes](https://discourse.llvm.org/t/cse-with-optional-mergable-attributes/66167#post_1)
-- [[RFC] legacy `opt` pass syntax with new pass manager](https://discourse.llvm.org/t/rfc-legacy-opt-pass-syntax-with-new-pass-manager/65863#post_9)
-- [RFC: volatile/const atomics should not expand to LLSC/cmpxchg loops](https://discourse.llvm.org/t/rfc-volatile-const-atomics-should-not-expand-to-llsc-cmpxchg-loops/66165#post_1)
+- [Std::format not available in libc++ 15?](https://discourse.llvm.org/t/std-format-not-available-in-libc-15/66137#post_3)
+- [LLVM Weekly - #460, October 24th 2022](https://discourse.llvm.org/t/llvm-weekly-460-october-24th-2022/66169#post_1)
+- [2022 US LLVM Developers&#39; Meeting - Registration is open](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-registration-is-open/64590#post_15)
+- [2022 US LLVM Developers&#39; Meeting - Registration is open](https://discourse.llvm.org/t/2022-us-llvm-developers-meeting-registration-is-open/64590#post_14)
+- [Object file modification/writing](https://discourse.llvm.org/t/object-file-modification-writing/65954?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
