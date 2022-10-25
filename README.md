@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Retain fact that index/offsets for GEP are non-negative for `size_t/uint64_t` offsets?](https://discourse.llvm.org/t/retain-fact-that-index-offsets-for-gep-are-non-negative-for-size-t-uint64-t-offsets/65974#post_17)
+- [LLVM 15.0.3 tagged!](https://discourse.llvm.org/t/llvm-15-0-3-tagged/66031#post_13)
 - [Arcanist deprecation problem](https://discourse.llvm.org/t/arcanist-deprecation-problem/66177#post_2)
 - [Help needed with LTO &amp; NoUnwind &lpar;PostOrderFunctionAttrsPass&rpar;](https://discourse.llvm.org/t/help-needed-with-lto-nounwind-postorderfunctionattrspass/66189#post_2)
 - [OpRewritePattern works weird](https://discourse.llvm.org/t/oprewritepattern-works-weird/66176#post_7)
-- [[SimplifyCFG] track branch fold costs across transformations](https://discourse.llvm.org/t/simplifycfg-track-branch-fold-costs-across-transformations/66191#post_1)
-- [How to preserve loop&#39;s metadata after LoopSimplify transformation](https://discourse.llvm.org/t/how-to-preserve-loops-metadata-after-loopsimplify-transformation/66190#post_1)
 <!-- DISCOURSE-LLVM:END -->
