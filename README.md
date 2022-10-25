@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_73)
-- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129#post_8)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_3)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_2)
-- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_10)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_12)
+- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_7)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_11)
+- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_6)
+- [RFC: Source-based MC/DC Code Coverage](https://discourse.llvm.org/t/rfc-source-based-mc-dc-code-coverage/59244#post_4)
 <!-- DISCOURSE-LLVM:END -->
