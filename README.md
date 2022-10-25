@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_16)
-- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_15)
-- [OpRewritePattern works weird](https://discourse.llvm.org/t/oprewritepattern-works-weird/66176#post_3)
-- [OpRewritePattern works weird](https://discourse.llvm.org/t/oprewritepattern-works-weird/66176#post_2)
-- [OpRewritePattern works weird](https://discourse.llvm.org/t/oprewritepattern-works-weird/66176#post_1)
+- [cl::ParseCommandLineOptions fails to emit some messages to the stream passed to it](https://discourse.llvm.org/t/cl-parsecommandlineoptions-fails-to-emit-some-messages-to-the-stream-passed-to-it/66178#post_1)
+- [Arcanist deprecation problem](https://discourse.llvm.org/t/arcanist-deprecation-problem/66177#post_1)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155?page=2#post_21)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_20)
+- [How can I use multiple GPUs in OpenMP?](https://discourse.llvm.org/t/how-can-i-use-multiple-gpus-in-openmp/66155#post_19)
 <!-- DISCOURSE-LLVM:END -->
