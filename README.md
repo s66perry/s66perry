@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_8)
-- [Supporting function pointers and components in lowering](https://discourse.llvm.org/t/supporting-function-pointers-and-components-in-lowering/63075#post_7)
-- [Implementation of 2D vector.store](https://discourse.llvm.org/t/implementation-of-2d-vector-store/66207#post_1)
-- [Using separate MLIR files for PDL pattern matching](https://discourse.llvm.org/t/using-separate-mlir-files-for-pdl-pattern-matching/66183#post_3)
-- [Crash when running update_core_linalg_named_ops.sh](https://discourse.llvm.org/t/crash-when-running-update-core-linalg-named-ops-sh/66115#post_13)
+- [Question about Middle-end Optimization](https://discourse.llvm.org/t/question-about-middle-end-optimization/66211#post_1)
+- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_10)
+- [[RFC] Upgrading LLVM&#39;s minimum required CMake version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-cmake-version/66193#post_6)
+- [Trying to get MLIR_LINK_MLIR_DYLIB implemented](https://discourse.llvm.org/t/trying-to-get-mlir-link-mlir-dylib-implemented/66086?page=2#post_23)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=4#post_77)
 <!-- DISCOURSE-LLVM:END -->
