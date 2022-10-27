@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can window Eclipse use lldb debug?](https://discourse.llvm.org/t/can-window-eclipse-use-lldb-debug/66226#post_2)
+- [Accumulator based Architecture?](https://discourse.llvm.org/t/accumulator-based-architecture/66243#post_1)
+- [Extra tickets for the MLIR summit available through lottery on Friday Oct. 20th](https://discourse.llvm.org/t/extra-tickets-for-the-mlir-summit-available-through-lottery-on-friday-oct-20th/66242#post_1)
 - [Decltype of external struct&#39;s member, used in templated class, fails to resolve](https://discourse.llvm.org/t/decltype-of-external-structs-member-used-in-templated-class-fails-to-resolve/66216#post_4)
 - [Decltype of external struct&#39;s member, used in templated class, fails to resolve](https://discourse.llvm.org/t/decltype-of-external-structs-member-used-in-templated-class-fails-to-resolve/66216#post_3)
-- [Rescheduled MLIR Bay Area Developer Summit [Nov 10, 2022]](https://discourse.llvm.org/t/rescheduled-mlir-bay-area-developer-summit-nov-10-2022/65043#post_15)
-- [How to define link path for clang++?](https://discourse.llvm.org/t/how-to-define-link-path-for-clang/66240#post_1)
-- [[RFC] Upgrading LLVM&#39;s minimum required CMake version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-cmake-version/66193#post_14)
 <!-- DISCOURSE-LLVM:END -->
