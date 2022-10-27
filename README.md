@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR Affine]Error with incompatible affine passes](https://discourse.llvm.org/t/mlir-affine-error-with-incompatible-affine-passes/66227#post_7)
+- [DWIM Print Command](https://discourse.llvm.org/t/dwim-print-command/66078#post_15)
 - [RISC-V LLVM sync-up call 27th October 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-27th-october-2022/66219#post_3)
 - [DWIM Print Command](https://discourse.llvm.org/t/dwim-print-command/66078#post_14)
 - [Converting scf loops to parrallel loops](https://discourse.llvm.org/t/converting-scf-loops-to-parrallel-loops/66233#post_2)
-- [[MLIR Affine]Error with incompatible affine passes](https://discourse.llvm.org/t/mlir-affine-error-with-incompatible-affine-passes/66227#post_6)
-- [Generating FIR &lpar;MLIR&#39;s Fortran dialect&rpar; using FLANG](https://discourse.llvm.org/t/generating-fir-mlirs-fortran-dialect-using-flang/1592#post_3)
 <!-- DISCOURSE-LLVM:END -->
