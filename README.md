@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Volunteer as a Moderator, get a free t-shirt!](https://discourse.llvm.org/t/volunteer-as-a-moderator-get-a-free-t-shirt/66228#post_3)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_6)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_5)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_4)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_3)
-- [Extra tickets for the MLIR summit available through lottery on Friday Oct. 28th](https://discourse.llvm.org/t/extra-tickets-for-the-mlir-summit-available-through-lottery-on-friday-oct-28th/66242#post_3)
 <!-- DISCOURSE-LLVM:END -->
