@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why is CallBr restricted to only inline-asm?](https://discourse.llvm.org/t/why-is-callbr-restricted-to-only-inline-asm/66265#post_2)
+- [Bazel rule for creating tablegen_compile_commands.yml](https://discourse.llvm.org/t/bazel-rule-for-creating-tablegen-compile-commands-yml/66272#post_6)
+- [Disable inlining in opt](https://discourse.llvm.org/t/disable-inlining-in-opt/66254#post_4)
 - [Does it make sense for a function to have a personality/LSDA if it has no other unwind info? &lpar;Mach-O&rpar;](https://discourse.llvm.org/t/does-it-make-sense-for-a-function-to-have-a-personality-lsda-if-it-has-no-other-unwind-info-mach-o/65490#post_2)
 - [Bazel rule for creating tablegen_compile_commands.yml](https://discourse.llvm.org/t/bazel-rule-for-creating-tablegen-compile-commands-yml/66272#post_5)
-- [Trouble Shooting SLP not Working for the RISC-V](https://discourse.llvm.org/t/trouble-shooting-slp-not-working-for-the-risc-v/66278#post_2)
-- [Trouble Shooting SLP not Working for the RISC-V](https://discourse.llvm.org/t/trouble-shooting-slp-not-working-for-the-risc-v/66278#post_1)
-- [Cross compilation of libcxx for baremetal ARMv7m with hard floating point support](https://discourse.llvm.org/t/cross-compilation-of-libcxx-for-baremetal-armv7m-with-hard-floating-point-support/66164#post_8)
 <!-- DISCOURSE-LLVM:END -->
