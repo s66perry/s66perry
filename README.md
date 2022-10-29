@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Volunteer as a Moderator, get a free t-shirt!](https://discourse.llvm.org/t/volunteer-as-a-moderator-get-a-free-t-shirt/66228#post_5)
+- [Implementing CWG1734-](https://discourse.llvm.org/t/implementing-cwg1734/54741#post_7)
 - [MLIR DRR result pattern with constant StringAttr](https://discourse.llvm.org/t/mlir-drr-result-pattern-with-constant-stringattr/66275#post_4)
 - [MLIR DRR result pattern with constant StringAttr](https://discourse.llvm.org/t/mlir-drr-result-pattern-with-constant-stringattr/66275#post_3)
 - [Implementation of 2D vector.store](https://discourse.llvm.org/t/implementation-of-2d-vector-store/66207#post_3)
-- [MLIR DRR result pattern with constant StringAttr](https://discourse.llvm.org/t/mlir-drr-result-pattern-with-constant-stringattr/66275#post_2)
-- [Bazel rule for creating tablegen_compile_commands.yml](https://discourse.llvm.org/t/bazel-rule-for-creating-tablegen-compile-commands-yml/66272#post_4)
 <!-- DISCOURSE-LLVM:END -->
