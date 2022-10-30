@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR DRR result pattern with constant StringAttr](https://discourse.llvm.org/t/mlir-drr-result-pattern-with-constant-stringattr/66275#post_7)
+- [Trouble Shooting SLP not Working for the RISC-V](https://discourse.llvm.org/t/trouble-shooting-slp-not-working-for-the-risc-v/66278#post_4)
 - [Affine For loop with multiple index variables](https://discourse.llvm.org/t/affine-for-loop-with-multiple-index-variables/66282#post_1)
 - [MLIR DRR result pattern with constant StringAttr](https://discourse.llvm.org/t/mlir-drr-result-pattern-with-constant-stringattr/66275#post_6)
 - [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_1)
-- [Trouble Shooting SLP not Working for the RISC-V](https://discourse.llvm.org/t/trouble-shooting-slp-not-working-for-the-risc-v/66278#post_3)
-- [MLIR DRR result pattern with constant StringAttr](https://discourse.llvm.org/t/mlir-drr-result-pattern-with-constant-stringattr/66275#post_5)
 <!-- DISCOURSE-LLVM:END -->
