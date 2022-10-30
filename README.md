@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_1)
+- [Trouble Shooting SLP not Working for the RISC-V](https://discourse.llvm.org/t/trouble-shooting-slp-not-working-for-the-risc-v/66278#post_3)
 - [MLIR DRR result pattern with constant StringAttr](https://discourse.llvm.org/t/mlir-drr-result-pattern-with-constant-stringattr/66275#post_5)
 - [FAQ update and Question on minimum build](https://discourse.llvm.org/t/faq-update-and-question-on-minimum-build/34525#post_7)
 - [ORC JIT Update / Office Hours -- September 2022](https://discourse.llvm.org/t/orc-jit-update-office-hours-september-2022/65104#post_6)
-- [Why is CallBr restricted to only inline-asm?](https://discourse.llvm.org/t/why-is-callbr-restricted-to-only-inline-asm/66265#post_2)
-- [Bazel rule for creating tablegen_compile_commands.yml](https://discourse.llvm.org/t/bazel-rule-for-creating-tablegen-compile-commands-yml/66272#post_6)
 <!-- DISCOURSE-LLVM:END -->
