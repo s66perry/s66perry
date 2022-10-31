@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add explicit shape inputs to tensor.expand_shape](https://discourse.llvm.org/t/rfc-add-explicit-shape-inputs-to-tensor-expand-shape/65952#post_12)
-- [Marking SSA values as pointing to immutable memory](https://discourse.llvm.org/t/marking-ssa-values-as-pointing-to-immutable-memory/66249#post_8)
-- [[RFC] FastMath flags support in MLIR &lpar;arith dialect&rpar;](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-mlir-arith-dialect/6049?page=2#post_25)
-- [Bazel rule for creating tablegen_compile_commands.yml](https://discourse.llvm.org/t/bazel-rule-for-creating-tablegen-compile-commands-yml/66272#post_7)
-- [RISC-V V C Intrinsic API v1.0 release meeting reminder &lpar;October 31, 2022&rpar;](https://discourse.llvm.org/t/risc-v-v-c-intrinsic-api-v1-0-release-meeting-reminder-october-31-2022/66286#post_1)
+- [How to make JIT compilation dependent on the values of function variables?](https://discourse.llvm.org/t/how-to-make-jit-compilation-dependent-on-the-values-of-function-variables/66162#post_2)
+- [Does opt introduce extra dependencies?](https://discourse.llvm.org/t/does-opt-introduce-extra-dependencies/66292#post_1)
+- [Question about Middle-end Optimization](https://discourse.llvm.org/t/question-about-middle-end-optimization/66211#post_3)
+- [X86_64 legacy instructions](https://discourse.llvm.org/t/x86-64-legacy-instructions/66290#post_1)
+- [Trouble Shooting SLP not Working for the RISC-V](https://discourse.llvm.org/t/trouble-shooting-slp-not-working-for-the-risc-v/66278#post_5)
 <!-- DISCOURSE-LLVM:END -->
