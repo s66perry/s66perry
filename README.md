@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RISC-V V C Intrinsic API v1.0 release meeting reminder &lpar;October 31, 2022&rpar;](https://discourse.llvm.org/t/risc-v-v-c-intrinsic-api-v1-0-release-meeting-reminder-october-31-2022/66286#post_2)
+- [Volunteer as a Moderator, get a free t-shirt!](https://discourse.llvm.org/t/volunteer-as-a-moderator-get-a-free-t-shirt/66228#post_7)
+- [Volunteer as a Moderator, get a free t-shirt!](https://discourse.llvm.org/t/volunteer-as-a-moderator-get-a-free-t-shirt/66228#post_6)
+- [Does it make sense for a function to have a personality/LSDA if it has no other unwind info? &lpar;Mach-O&rpar;](https://discourse.llvm.org/t/does-it-make-sense-for-a-function-to-have-a-personality-lsda-if-it-has-no-other-unwind-info-mach-o/65490#post_3)
 - [Bazel rule for creating tablegen_compile_commands.yml](https://discourse.llvm.org/t/bazel-rule-for-creating-tablegen-compile-commands-yml/66272#post_8)
-- [Matcher that finds all variables/fields of polymorphic type](https://discourse.llvm.org/t/matcher-that-finds-all-variables-fields-of-polymorphic-type/66246#post_2)
-- [GNU libgcrypt ATT asm style. Clang &lpar;llmv-as&rpar; doesn&#39;t pass autotool configure check unified asm code support](https://discourse.llvm.org/t/gnu-libgcrypt-att-asm-style-clang-llmv-as-doesnt-pass-autotool-configure-check-unified-asm-code-support/66303#post_2)
-- [Performance issues of dynamic_cast in libcxxabi](https://discourse.llvm.org/t/performance-issues-of-dynamic-cast-in-libcxxabi/66296#post_3)
-- [GNU libgcrypt ATT asm style. Clang &lpar;llmv-as&rpar; doesn&#39;t pass autotool configure check unified asm code support](https://discourse.llvm.org/t/gnu-libgcrypt-att-asm-style-clang-llmv-as-doesnt-pass-autotool-configure-check-unified-asm-code-support/66303#post_1)
 <!-- DISCOURSE-LLVM:END -->
