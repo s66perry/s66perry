@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upgrading LLVM&#39;s minimum required CMake version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-cmake-version/66193#post_15)
+- [Windows build/test bot for the LLVM OpenMP repo](https://discourse.llvm.org/t/windows-build-test-bot-for-the-llvm-openmp-repo/66326#post_1)
+- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_6)
+- [[RFC] Make lto native object file names more readable](https://discourse.llvm.org/t/rfc-make-lto-native-object-file-names-more-readable/66325#post_1)
 - [X86_64 legacy instructions](https://discourse.llvm.org/t/x86-64-legacy-instructions/66290#post_2)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=6#post_107)
-- [How to get a single file syntax tree?](https://discourse.llvm.org/t/how-to-get-a-single-file-syntax-tree/66322#post_2)
-- [How to get a single file syntax tree?](https://discourse.llvm.org/t/how-to-get-a-single-file-syntax-tree/66322#post_1)
-- [Performance issues of dynamic_cast in libcxxabi](https://discourse.llvm.org/t/performance-issues-of-dynamic-cast-in-libcxxabi/66296#post_5)
 <!-- DISCOURSE-LLVM:END -->
