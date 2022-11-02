@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [May I ship &lpar;redistribute&rpar; the LLVM Clang compiler with my application?](https://discourse.llvm.org/t/may-i-ship-redistribute-the-llvm-clang-compiler-with-my-application/66348#post_3)
+- [CIRCT Bay Area Meetup 11/8/22](https://discourse.llvm.org/t/circt-bay-area-meetup-11-8-22/66357#post_1)
+- [Is it a bug of isLoopSimplifyForm&lpar;&rpar;](https://discourse.llvm.org/t/is-it-a-bug-of-isloopsimplifyform/66355#post_2)
+- [Debugging MLIR with gdb](https://discourse.llvm.org/t/debugging-mlir-with-gdb/66294#post_3)
 - [How to make JIT compilation dependent on the values of function variables?](https://discourse.llvm.org/t/how-to-make-jit-compilation-dependent-on-the-values-of-function-variables/66162#post_3)
-- [PSA: Pass pipeline anchor becoming explicit](https://discourse.llvm.org/t/psa-pass-pipeline-anchor-becoming-explicit/66353#post_4)
-- [PSA: Pass pipeline anchor becoming explicit](https://discourse.llvm.org/t/psa-pass-pipeline-anchor-becoming-explicit/66353#post_3)
-- [Is it a bug of isLoopSimplifyForm&lpar;&rpar;](https://discourse.llvm.org/t/is-it-a-bug-of-isloopsimplifyform/66355#post_1)
-- [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=6#post_118)
 <!-- DISCOURSE-LLVM:END -->
