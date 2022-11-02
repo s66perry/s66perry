@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Looking for Mentor] RISC-V linker](https://discourse.llvm.org/t/looking-for-mentor-risc-v-linker/49537#post_2)
+- [No llvm-config.exe or LLVMConfig.cmake in pre-built Windows?](https://discourse.llvm.org/t/no-llvm-config-exe-or-llvmconfig-cmake-in-pre-built-windows/57692#post_2)
+- [LLVM 15.0.4 Released](https://discourse.llvm.org/t/llvm-15-0-4-released/66337#post_1)
 - [X86_64 legacy instructions](https://discourse.llvm.org/t/x86-64-legacy-instructions/66290#post_3)
 - [Is there a circt tutorial which shows scheduling capabilities of the tool?](https://discourse.llvm.org/t/is-there-a-circt-tutorial-which-shows-scheduling-capabilities-of-the-tool/66334#post_2)
-- [Is there a circt tutorial which shows scheduling capabilities of the tool?](https://discourse.llvm.org/t/is-there-a-circt-tutorial-which-shows-scheduling-capabilities-of-the-tool/66334#post_1)
-- [[RFC] Make lto native object file names more readable](https://discourse.llvm.org/t/rfc-make-lto-native-object-file-names-more-readable/66325#post_2)
-- [Loop Opt WG Meeting on Nov 2, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-nov-2-2022/66331#post_1)
 <!-- DISCOURSE-LLVM:END -->
