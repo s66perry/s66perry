@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR VP Ops on RVV Backend Integration Test and Issues Report](https://discourse.llvm.org/t/mlir-vp-ops-on-rvv-backend-integration-test-and-issues-report/66343#post_3)
+- [Initial patches for ARM64EC &lpar;Windows 11&rpar; now posted](https://discourse.llvm.org/t/initial-patches-for-arm64ec-windows-11-now-posted/62449#post_8)
+- [PSA: Pass pipeline anchor becoming explicit](https://discourse.llvm.org/t/psa-pass-pipeline-anchor-becoming-explicit/66353#post_6)
+- [MLIR VP Ops on RVV Backend Integration Test and Issues Report](https://discourse.llvm.org/t/mlir-vp-ops-on-rvv-backend-integration-test-and-issues-report/66343#post_2)
 - [Overload resolution involving trailing template parameter packs](https://discourse.llvm.org/t/overload-resolution-involving-trailing-template-parameter-packs/66369#post_1)
-- [Affine For loop with multiple index variables](https://discourse.llvm.org/t/affine-for-loop-with-multiple-index-variables/66282#post_4)
-- [PSA: Pass pipeline anchor becoming explicit](https://discourse.llvm.org/t/psa-pass-pipeline-anchor-becoming-explicit/66353#post_5)
-- [Affine For loop with multiple index variables](https://discourse.llvm.org/t/affine-for-loop-with-multiple-index-variables/66282#post_3)
-- [Attaching arith::FastMathAttr to operations in Flang](https://discourse.llvm.org/t/attaching-arith-fastmathattr-to-operations-in-flang/66366#post_1)
 <!-- DISCOURSE-LLVM:END -->
