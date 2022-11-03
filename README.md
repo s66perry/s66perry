@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Interface inheritance and dependencies, interface method visibility, interface composition](https://discourse.llvm.org/t/interface-inheritance-and-dependencies-interface-method-visibility-interface-composition/66380#post_1)
+- [LLVM 15.0.4 Released](https://discourse.llvm.org/t/llvm-15-0-4-released/66337#post_3)
+- [Attaching arith::FastMathAttr to operations in Flang](https://discourse.llvm.org/t/attaching-arith-fastmathattr-to-operations-in-flang/66366#post_2)
+- [How to match variadic input in pdll](https://discourse.llvm.org/t/how-to-match-variadic-input-in-pdll/66376#post_1)
 - [Affine For loop with multiple index variables](https://discourse.llvm.org/t/affine-for-loop-with-multiple-index-variables/66282#post_6)
-- [Types for intrinsics](https://discourse.llvm.org/t/types-for-intrinsics/66374#post_2)
-- [[Looking for Mentor] RISC-V linker](https://discourse.llvm.org/t/looking-for-mentor-risc-v-linker/49537#post_3)
-- [Many &quot;not found&quot;](https://discourse.llvm.org/t/many-not-found/66361#post_2)
-- [Types for intrinsics](https://discourse.llvm.org/t/types-for-intrinsics/66374#post_1)
 <!-- DISCOURSE-LLVM:END -->
