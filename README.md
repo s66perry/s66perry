@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to get a single file syntax tree?](https://discourse.llvm.org/t/how-to-get-a-single-file-syntax-tree/66322#post_3)
-- [[RFC] Add a code owner for incremental compilation/incremental C++](https://discourse.llvm.org/t/rfc-add-a-code-owner-for-incremental-compilation-incremental-c/66345#post_4)
-- [Rescheduled MLIR Bay Area Developer Summit [Nov 10, 2022]](https://discourse.llvm.org/t/rescheduled-mlir-bay-area-developer-summit-nov-10-2022/65043#post_16)
-- [isLoopSimplifyForm&lpar;&rpar;: is it a bug or not?](https://discourse.llvm.org/t/isloopsimplifyform-is-it-a-bug-or-not/66355#post_4)
-- [Attaching arith::FastMathAttr to operations in Flang](https://discourse.llvm.org/t/attaching-arith-fastmathattr-to-operations-in-flang/66366#post_5)
+- [How to get a single file syntax tree?](https://discourse.llvm.org/t/how-to-get-a-single-file-syntax-tree/66322#post_4)
+- [How to mofify tensor type?](https://discourse.llvm.org/t/how-to-mofify-tensor-type/66393#post_1)
+- [Can window Eclipse use lldb debug?](https://discourse.llvm.org/t/can-window-eclipse-use-lldb-debug/66226#post_3)
+- [Performance issues of dynamic_cast in libcxxabi](https://discourse.llvm.org/t/performance-issues-of-dynamic-cast-in-libcxxabi/66296#post_9)
+- [Unexpected memory occupy when load bitcode module](https://discourse.llvm.org/t/unexpected-memory-occupy-when-load-bitcode-module/66392#post_1)
 <!-- DISCOURSE-LLVM:END -->
