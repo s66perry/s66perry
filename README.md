@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How long does it take to run the test-release.sh script?](https://discourse.llvm.org/t/how-long-does-it-take-to-run-the-test-release-sh-script/66414#post_4)
+- [How long does it take to run the test-release.sh script?](https://discourse.llvm.org/t/how-long-does-it-take-to-run-the-test-release-sh-script/66414#post_3)
+- [How long does it take to run the test-release.sh script?](https://discourse.llvm.org/t/how-long-does-it-take-to-run-the-test-release-sh-script/66414#post_2)
+- [How long does it take to run the test-release.sh script?](https://discourse.llvm.org/t/how-long-does-it-take-to-run-the-test-release-sh-script/66414#post_1)
 - [Error in running baremetal code for riscv &lpar;clang-llvm&rpar;](https://discourse.llvm.org/t/error-in-running-baremetal-code-for-riscv-clang-llvm/66412#post_1)
-- [Volunteer as a Moderator, get a free t-shirt!](https://discourse.llvm.org/t/volunteer-as-a-moderator-get-a-free-t-shirt/66228#post_14)
-- [How to convert c to elf using clang and using ld.lld](https://discourse.llvm.org/t/how-to-convert-c-to-elf-using-clang-and-using-ld-lld/65743#post_8)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_1)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395#post_9)
 <!-- DISCOURSE-LLVM:END -->
