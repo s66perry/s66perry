@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_9)
-- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_2)
-- [Lowering ::mlir::memref::TensorStoreOp to LLVM IR](https://discourse.llvm.org/t/lowering-tensorstoreop-to-llvm-ir/66425#post_2)
-- [Lowering ::mlir::memref::TensorStoreOp to LLVM IR](https://discourse.llvm.org/t/lowering-tensorstoreop-to-llvm-ir/66425#post_1)
-- [Clang-tidy eliminate unused parts of headers](https://discourse.llvm.org/t/clang-tidy-eliminate-unused-parts-of-headers/66424#post_1)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_3)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_2)
+- [Index maps and tiling](https://discourse.llvm.org/t/index-maps-and-tiling/66298#post_6)
+- [Vector cast handling differently in C++](https://discourse.llvm.org/t/vector-cast-handling-differently-in-c/66429#post_1)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_1)
 <!-- DISCOURSE-LLVM:END -->
