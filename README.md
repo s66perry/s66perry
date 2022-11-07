@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Proposal: adding a c++20 early adopter mode for libc++ constexpr annotations in c++17](https://discourse.llvm.org/t/proposal-adding-a-c-20-early-adopter-mode-for-libc-constexpr-annotations-in-c-17/66446#post_1)
-- [Get pointee type from an opaque pointer type in function argument](https://discourse.llvm.org/t/get-pointee-type-from-an-opaque-pointer-type-in-function-argument/66434#post_5)
-- [LLVM Compiler Social Zurich - December](https://discourse.llvm.org/t/llvm-compiler-social-zurich-december/66444#post_1)
-- [LLVM Cambridge UK Social - November](https://discourse.llvm.org/t/llvm-cambridge-uk-social-november/66346#post_2)
-- [Unexpected memory occupy when load bitcode module](https://discourse.llvm.org/t/unexpected-memory-occupy-when-load-bitcode-module/66392#post_7)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_8)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_7)
+- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_13)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_6)
+- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_12)
 <!-- DISCOURSE-LLVM:END -->
