@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_9)
+- [Error in running baremetal code for riscv &lpar;clang-llvm&rpar;](https://discourse.llvm.org/t/error-in-running-baremetal-code-for-riscv-clang-llvm/66412#post_3)
 - [Is there any initialization/finalization methods in new pass manager?](https://discourse.llvm.org/t/is-there-any-initialization-finalization-methods-in-new-pass-manager/66417#post_3)
 - [Index maps and tiling](https://discourse.llvm.org/t/index-maps-and-tiling/66298#post_5)
 - [Index maps and tiling](https://discourse.llvm.org/t/index-maps-and-tiling/66298#post_4)
-- [How to mofify tensor type?](https://discourse.llvm.org/t/how-to-mofify-tensor-type/66393#post_3)
-- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_1)
 <!-- DISCOURSE-LLVM:END -->
