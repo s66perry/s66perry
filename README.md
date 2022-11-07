@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to create a empty LLVM module](https://discourse.llvm.org/t/how-to-create-a-empty-llvm-module/66430#post_2)
-- [Get pointee type from an opaque pointer type in function argument](https://discourse.llvm.org/t/get-pointee-type-from-an-opaque-pointer-type-in-function-argument/66434#post_4)
-- [Get pointee type from an opaque pointer type in function argument](https://discourse.llvm.org/t/get-pointee-type-from-an-opaque-pointer-type-in-function-argument/66434#post_3)
-- [Get pointee type from an opaque pointer type in function argument](https://discourse.llvm.org/t/get-pointee-type-from-an-opaque-pointer-type-in-function-argument/66434#post_2)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_4)
+- [Index maps and tiling](https://discourse.llvm.org/t/index-maps-and-tiling/66298#post_8)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_7)
+- [[Looking for Mentor] RISC-V linker](https://discourse.llvm.org/t/looking-for-mentor-risc-v-linker/49537#post_4)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_6)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_5)
 <!-- DISCOURSE-LLVM:END -->
