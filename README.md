@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Proposal: adding a c++20 early adopter mode for libc++ constexpr annotations in c++17](https://discourse.llvm.org/t/proposal-adding-a-c-20-early-adopter-mode-for-libc-constexpr-annotations-in-c-17/66446#post_1)
+- [Get pointee type from an opaque pointer type in function argument](https://discourse.llvm.org/t/get-pointee-type-from-an-opaque-pointer-type-in-function-argument/66434#post_5)
+- [LLVM Compiler Social Zurich - December](https://discourse.llvm.org/t/llvm-compiler-social-zurich-december/66444#post_1)
 - [LLVM Cambridge UK Social - November](https://discourse.llvm.org/t/llvm-cambridge-uk-social-november/66346#post_2)
 - [Unexpected memory occupy when load bitcode module](https://discourse.llvm.org/t/unexpected-memory-occupy-when-load-bitcode-module/66392#post_7)
-- [LLVM Weekly - #462, November 7th 2022](https://discourse.llvm.org/t/llvm-weekly-462-november-7th-2022/66441#post_1)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_9)
-- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_11)
 <!-- DISCOURSE-LLVM:END -->
