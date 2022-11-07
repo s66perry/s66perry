@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Libclang cannot parse c++ includes that are after include from std](https://discourse.llvm.org/t/libclang-cannot-parse-c-includes-that-are-after-include-from-std/66340#post_2)
-- [Is there any initialization/finalization methods in new pass manager?](https://discourse.llvm.org/t/is-there-any-initialization-finalization-methods-in-new-pass-manager/66417#post_2)
-- [Unexpected memory occupy when load bitcode module](https://discourse.llvm.org/t/unexpected-memory-occupy-when-load-bitcode-module/66392#post_5)
-- [Streamlining support for standalone builds](https://discourse.llvm.org/t/streamlining-support-for-standalone-builds/66264#post_3)
-- [Streamlining support for standalone builds](https://discourse.llvm.org/t/streamlining-support-for-standalone-builds/66264#post_2)
+- [Is there any initialization/finalization methods in new pass manager?](https://discourse.llvm.org/t/is-there-any-initialization-finalization-methods-in-new-pass-manager/66417#post_3)
+- [Index maps and tiling](https://discourse.llvm.org/t/index-maps-and-tiling/66298#post_5)
+- [Index maps and tiling](https://discourse.llvm.org/t/index-maps-and-tiling/66298#post_4)
+- [How to mofify tensor type?](https://discourse.llvm.org/t/how-to-mofify-tensor-type/66393#post_3)
+- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_1)
 <!-- DISCOURSE-LLVM:END -->
