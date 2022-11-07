@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_3)
-- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_2)
-- [Index maps and tiling](https://discourse.llvm.org/t/index-maps-and-tiling/66298#post_6)
-- [Vector cast handling differently in C++](https://discourse.llvm.org/t/vector-cast-handling-differently-in-c/66429#post_1)
-- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_1)
+- [How to modify password of phabricator](https://discourse.llvm.org/t/how-to-modify-password-of-phabricator/66431#post_1)
+- [How to create a empty LLVM module](https://discourse.llvm.org/t/how-to-create-a-empty-llvm-module/66430#post_1)
+- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_10)
+- [Unexpected memory occupy when load bitcode module](https://discourse.llvm.org/t/unexpected-memory-occupy-when-load-bitcode-module/66392#post_6)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_5)
 <!-- DISCOURSE-LLVM:END -->
