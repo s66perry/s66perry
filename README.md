@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Round Table about Profiling &amp; Coverage &amp; Compiler-rt in 2022 LLVM Dev Mtg](https://discourse.llvm.org/t/round-table-about-profiling-coverage-compiler-rt-in-2022-llvm-dev-mtg/65225#post_10)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_16)
+- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_17)
 - [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_12)
 - [RTB - Tracking compile time and compiler sizes for LLVM and GCC](https://discourse.llvm.org/t/rtb-tracking-compile-time-and-compiler-sizes-for-llvm-and-gcc/66461#post_3)
-- [RTB - Tracking compile time and compiler sizes for LLVM and GCC](https://discourse.llvm.org/t/rtb-tracking-compile-time-and-compiler-sizes-for-llvm-and-gcc/66461#post_2)
-- [Get pointee type from an opaque pointer type in function argument](https://discourse.llvm.org/t/get-pointee-type-from-an-opaque-pointer-type-in-function-argument/66434#post_7)
-- [[RFC] Add higher level operations in FIR](https://discourse.llvm.org/t/rfc-add-higher-level-operations-in-fir/65389#post_2)
 <!-- DISCOURSE-LLVM:END -->
