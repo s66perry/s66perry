@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RTB - Tracking compile time and compiler sizes for LLVM and GCC](https://discourse.llvm.org/t/rtb-tracking-compile-time-and-compiler-sizes-for-llvm-and-gcc/66461#post_2)
+- [Get pointee type from an opaque pointer type in function argument](https://discourse.llvm.org/t/get-pointee-type-from-an-opaque-pointer-type-in-function-argument/66434#post_7)
 - [[RFC] Add higher level operations in FIR](https://discourse.llvm.org/t/rfc-add-higher-level-operations-in-fir/65389#post_2)
 - [Guidence regarding RISCV target](https://discourse.llvm.org/t/guidence-regarding-riscv-target/66465#post_1)
 - [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053?page=2#post_24)
-- [Error in running baremetal code for riscv &lpar;clang-llvm&rpar;](https://discourse.llvm.org/t/error-in-running-baremetal-code-for-riscv-clang-llvm/66412#post_7)
-- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_16)
 <!-- DISCOURSE-LLVM:END -->
