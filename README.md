@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there a way to toggle on/off InFlightDiagnostics from being printed to stdout/err?](https://discourse.llvm.org/t/is-there-a-way-to-toggle-on-off-inflightdiagnostics-from-being-printed-to-stdout-err/66452#post_3)
-- [Does it make sense for a function to have a personality/LSDA if it has no other unwind info? &lpar;Mach-O&rpar;](https://discourse.llvm.org/t/does-it-make-sense-for-a-function-to-have-a-personality-lsda-if-it-has-no-other-unwind-info-mach-o/65490#post_5)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_14)
-- [LLVM 15.0.4 Released](https://discourse.llvm.org/t/llvm-15-0-4-released/66337#post_5)
-- [Is there a way to toggle on/off InFlightDiagnostics from being printed to stdout/err?](https://discourse.llvm.org/t/is-there-a-way-to-toggle-on-off-inflightdiagnostics-from-being-printed-to-stdout-err/66452#post_2)
+- [Personal calendar for session / Swoogo login?](https://discourse.llvm.org/t/personal-calendar-for-session-swoogo-login/66453#post_3)
+- [Proposal: adding a c++20 early adopter mode for libc++ constexpr annotations in c++17](https://discourse.llvm.org/t/proposal-adding-a-c-20-early-adopter-mode-for-libc-constexpr-annotations-in-c-17/66446#post_4)
+- [Personal calendar for session / Swoogo login?](https://discourse.llvm.org/t/personal-calendar-for-session-swoogo-login/66453#post_2)
+- [Board Meeting Minutes - May 2022](https://discourse.llvm.org/t/board-meeting-minutes-may-2022/63628#post_7)
+- [Unexpected memory occupy when load bitcode module](https://discourse.llvm.org/t/unexpected-memory-occupy-when-load-bitcode-module/66392#post_8)
 <!-- DISCOURSE-LLVM:END -->
