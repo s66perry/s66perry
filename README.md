@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Round Table about Profiling &amp; Coverage &amp; Compiler-rt in 2022 LLVM Dev Mtg](https://discourse.llvm.org/t/round-table-about-profiling-coverage-compiler-rt-in-2022-llvm-dev-mtg/65225#post_10)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_16)
-- [[RFC] Primitive Ops: add BroadcastOp to Linalg](https://discourse.llvm.org/t/rfc-primitive-ops-add-broadcastop-to-linalg/66313#post_17)
-- [Enabling GlobalISel for Apple AArch64 platforms](https://discourse.llvm.org/t/enabling-globalisel-for-apple-aarch64-platforms/63953#post_12)
-- [RTB - Tracking compile time and compiler sizes for LLVM and GCC](https://discourse.llvm.org/t/rtb-tracking-compile-time-and-compiler-sizes-for-llvm-and-gcc/66461#post_3)
+- [LLVM 15.0.4 has been tagged](https://discourse.llvm.org/t/llvm-15-0-4-has-been-tagged/66354#post_9)
+- [Toolchain conventions: the -march string](https://discourse.llvm.org/t/toolchain-conventions-the-march-string/66470#post_1)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_18)
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631?page=2#post_27)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_17)
 <!-- DISCOURSE-LLVM:END -->
