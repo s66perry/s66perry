@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [A problem caused by inline namespace in libcxx](https://discourse.llvm.org/t/a-problem-caused-by-inline-namespace-in-libcxx/66485#post_2)
+- [Using `__attribute__&lpar;&lpar;format&rpar;&rpar;` on the `format` function](https://discourse.llvm.org/t/using-attribute-format-on-the-format-function/66487#post_2)
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508?page=2#post_25)
 - [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508?page=2#post_24)
 - [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508?page=2#post_23)
-- [[RFC] Any-sized VT for TableGen](https://discourse.llvm.org/t/rfc-any-sized-vt-for-tablegen/66492#post_2)
-- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508?page=2#post_22)
-- [[RFC] Any-sized VT for TableGen](https://discourse.llvm.org/t/rfc-any-sized-vt-for-tablegen/66492#post_1)
 <!-- DISCOURSE-LLVM:END -->
