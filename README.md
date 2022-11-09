@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508?page=2#post_28)
-- [CANCELLED RISC-V LLVM sync-up call 10th November 2022](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-10th-november-2022/66503#post_1)
-- [How could I tackle a simple &quot;pass-through&quot; code generator?](https://discourse.llvm.org/t/how-could-i-tackle-a-simple-pass-through-code-generator/66502#post_2)
-- [How could I tackle a simple &quot;pass-through&quot; code generator?](https://discourse.llvm.org/t/how-could-i-tackle-a-simple-pass-through-code-generator/66502#post_1)
-- [Passing an undefined attribute using Declarative Rewrite Rule](https://discourse.llvm.org/t/passing-an-undefined-attribute-using-declarative-rewrite-rule/66468#post_4)
+- [Errors using arcanist](https://discourse.llvm.org/t/errors-using-arcanist/66505#post_2)
+- [List dependencies](https://discourse.llvm.org/t/list-dependencies/66497#post_7)
+- [Proposal: adding a c++20 early adopter mode for libc++ constexpr annotations in c++17](https://discourse.llvm.org/t/proposal-adding-a-c-20-early-adopter-mode-for-libc-constexpr-annotations-in-c-17/66446#post_7)
+- [List dependencies](https://discourse.llvm.org/t/list-dependencies/66497#post_6)
+- [Errors using arcanist](https://discourse.llvm.org/t/errors-using-arcanist/66505#post_1)
 <!-- DISCOURSE-LLVM:END -->
