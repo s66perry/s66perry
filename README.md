@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error reading riscv64-umedium](https://discourse.llvm.org/t/error-reading-riscv64-umedium/66483#post_1)
+- [Build problem in LLVM](https://discourse.llvm.org/t/build-problem-in-llvm/66481#post_2)
+- [isLoopSimplifyForm&lpar;&rpar;: is it a bug or not?](https://discourse.llvm.org/t/isloopsimplifyform-is-it-a-bug-or-not/66355#post_5)
 - [Build problem in LLVM](https://discourse.llvm.org/t/build-problem-in-llvm/66481#post_1)
 - [Build problem in libLLVMObject.so](https://discourse.llvm.org/t/build-problem-in-libllvmobject-so/66480#post_1)
-- [Round Table about Profiling &amp; Coverage &amp; Compiler-rt in 2022 LLVM Dev Mtg](https://discourse.llvm.org/t/round-table-about-profiling-coverage-compiler-rt-in-2022-llvm-dev-mtg/65225#post_11)
-- [Turn off certain IR optimizations](https://discourse.llvm.org/t/turn-off-certain-ir-optimizations/66475#post_2)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_9)
 <!-- DISCOURSE-LLVM:END -->
