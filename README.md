@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Passing an undefined attribute using Declarative Rewrite Rule](https://discourse.llvm.org/t/passing-an-undefined-attribute-using-declarative-rewrite-rule/66468#post_5)
+- [Proposal: adding a c++20 early adopter mode for libc++ constexpr annotations in c++17](https://discourse.llvm.org/t/proposal-adding-a-c-20-early-adopter-mode-for-libc-constexpr-annotations-in-c-17/66446#post_8)
+- [CIRCT Bay Area Meetup 11/8/22](https://discourse.llvm.org/t/circt-bay-area-meetup-11-8-22/66357#post_6)
 - [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_1)
 - [How could I tackle a simple &quot;pass-through&quot; code generator?](https://discourse.llvm.org/t/how-could-i-tackle-a-simple-pass-through-code-generator/66502#post_4)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_15)
-- [Cross compilation of libcxx for baremetal ARMv7m with hard floating point support](https://discourse.llvm.org/t/cross-compilation-of-libcxx-for-baremetal-armv7m-with-hard-floating-point-support/66164#post_10)
-- [How could I tackle a simple &quot;pass-through&quot; code generator?](https://discourse.llvm.org/t/how-could-i-tackle-a-simple-pass-through-code-generator/66502#post_3)
 <!-- DISCOURSE-LLVM:END -->
