@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Errors using arcanist](https://discourse.llvm.org/t/errors-using-arcanist/66505#post_2)
-- [List dependencies](https://discourse.llvm.org/t/list-dependencies/66497#post_7)
-- [Proposal: adding a c++20 early adopter mode for libc++ constexpr annotations in c++17](https://discourse.llvm.org/t/proposal-adding-a-c-20-early-adopter-mode-for-libc-constexpr-annotations-in-c-17/66446#post_7)
-- [List dependencies](https://discourse.llvm.org/t/list-dependencies/66497#post_6)
-- [Errors using arcanist](https://discourse.llvm.org/t/errors-using-arcanist/66505#post_1)
+- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_1)
+- [How could I tackle a simple &quot;pass-through&quot; code generator?](https://discourse.llvm.org/t/how-could-i-tackle-a-simple-pass-through-code-generator/66502#post_4)
+- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_15)
+- [Cross compilation of libcxx for baremetal ARMv7m with hard floating point support](https://discourse.llvm.org/t/cross-compilation-of-libcxx-for-baremetal-armv7m-with-hard-floating-point-support/66164#post_10)
+- [How could I tackle a simple &quot;pass-through&quot; code generator?](https://discourse.llvm.org/t/how-could-i-tackle-a-simple-pass-through-code-generator/66502#post_3)
 <!-- DISCOURSE-LLVM:END -->
