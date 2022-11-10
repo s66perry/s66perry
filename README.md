@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508?page=2#post_29)
-- [How to find the clang internal include directory for use with libclang](https://discourse.llvm.org/t/how-to-find-the-clang-internal-include-directory-for-use-with-libclang/66514#post_5)
-- [PPCallbacks - Get Hash Location](https://discourse.llvm.org/t/ppcallbacks-get-hash-location/66513#post_2)
-- [Update on clang-extract-api: Clang Support for API Information Generation in JSON](https://discourse.llvm.org/t/update-on-clang-extract-api-clang-support-for-api-information-generation-in-json/63535#post_3)
-- [Update on clang-extract-api: Clang Support for API Information Generation in JSON](https://discourse.llvm.org/t/update-on-clang-extract-api-clang-support-for-api-information-generation-in-json/63535#post_2)
+- [Option to disable inline namespacing completely?](https://discourse.llvm.org/t/option-to-disable-inline-namespacing-completely/50284?page=2#post_22)
+- [A problem caused by inline namespace in libcxx](https://discourse.llvm.org/t/a-problem-caused-by-inline-namespace-in-libcxx/66485#post_5)
+- [A problem caused by inline namespace in libcxx](https://discourse.llvm.org/t/a-problem-caused-by-inline-namespace-in-libcxx/66485#post_4)
+- [A problem caused by inline namespace in libcxx](https://discourse.llvm.org/t/a-problem-caused-by-inline-namespace-in-libcxx/66485#post_3)
+- [Why are builtin types showing as Unexposed through a member function pointer?](https://discourse.llvm.org/t/why-are-builtin-types-showing-as-unexposed-through-a-member-function-pointer/66518#post_1)
 <!-- DISCOURSE-LLVM:END -->
