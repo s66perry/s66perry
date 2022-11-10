@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Backend for RISC-V easy start](https://discourse.llvm.org/t/llvm-backend-for-risc-v-easy-start/61508?page=2#post_30)
+- [C++ spaceship operator `default` marked as deleted with `std::array` member](https://discourse.llvm.org/t/c-spaceship-operator-default-marked-as-deleted-with-std-array-member/66529#post_1)
+- [A problem caused by inline namespace in libcxx](https://discourse.llvm.org/t/a-problem-caused-by-inline-namespace-in-libcxx/66485#post_6)
 - [Confusion regarding vscale in LLVM-IR](https://discourse.llvm.org/t/confusion-regarding-vscale-in-llvm-ir/66526#post_2)
 - [Compiling Libc++ against newlib](https://discourse.llvm.org/t/compiling-libc-against-newlib/66527#post_1)
-- [Confusion regarding vscale in LLVM-IR](https://discourse.llvm.org/t/confusion-regarding-vscale-in-llvm-ir/66526#post_1)
-- [Confusion regarding iPTR](https://discourse.llvm.org/t/confusion-regarding-iptr/66524#post_1)
-- [Guidance regarding RISCV Intrinsics](https://discourse.llvm.org/t/guidance-regarding-riscv-intrinsics/66523#post_1)
 <!-- DISCOURSE-LLVM:END -->
