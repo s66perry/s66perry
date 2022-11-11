@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [clang reports file stdio.h not found on windows](https://discourse.llvm.org/t/clang-reports-file-stdio-h-not-found-on-windows/66534#post_6)
+- [clang reports file stdio.h not found on windows](https://discourse.llvm.org/t/clang-reports-file-stdio-h-not-found-on-windows/66534#post_5)
+- [Turn off certain IR optimizations](https://discourse.llvm.org/t/turn-off-certain-ir-optimizations/66475#post_3)
+- [Output codegen information to data section](https://discourse.llvm.org/t/output-codegen-information-to-data-section/66541#post_2)
 - [RFC: Source-based MC/DC Code Coverage](https://discourse.llvm.org/t/rfc-source-based-mc-dc-code-coverage/59244#post_6)
-- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018#post_20)
-- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_2)
-- [Error reading riscv64-umedium](https://discourse.llvm.org/t/error-reading-riscv64-umedium/66483#post_2)
-- [Steps to implement codegen for a new target &lpar;newbie question&rpar;](https://discourse.llvm.org/t/steps-to-implement-codegen-for-a-new-target-newbie-question/66546#post_1)
 <!-- DISCOURSE-LLVM:END -->
