@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [A problem caused by inline namespace in libcxx](https://discourse.llvm.org/t/a-problem-caused-by-inline-namespace-in-libcxx/66485#post_8)
+- [A problem caused by inline namespace in libcxx](https://discourse.llvm.org/t/a-problem-caused-by-inline-namespace-in-libcxx/66485#post_7)
 - [clang reports file stdio.h not found on windows](https://discourse.llvm.org/t/clang-reports-file-stdio-h-not-found-on-windows/66534#post_6)
 - [clang reports file stdio.h not found on windows](https://discourse.llvm.org/t/clang-reports-file-stdio-h-not-found-on-windows/66534#post_5)
 - [Turn off certain IR optimizations](https://discourse.llvm.org/t/turn-off-certain-ir-optimizations/66475#post_3)
-- [Output codegen information to data section](https://discourse.llvm.org/t/output-codegen-information-to-data-section/66541#post_2)
-- [RFC: Source-based MC/DC Code Coverage](https://discourse.llvm.org/t/rfc-source-based-mc-dc-code-coverage/59244#post_6)
 <!-- DISCOURSE-LLVM:END -->
