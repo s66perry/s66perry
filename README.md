@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_2)
+- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_5)
 - [GC operand bundle allowed value types](https://discourse.llvm.org/t/gc-operand-bundle-allowed-value-types/66556#post_1)
 - [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=6#post_121)
 - [ISO C3X proposal: nonnull qualifier](https://discourse.llvm.org/t/iso-c3x-proposal-nonnull-qualifier/59269?page=6#post_120)
-- [Turn off certain IR optimizations](https://discourse.llvm.org/t/turn-off-certain-ir-optimizations/66475#post_5)
-- [Sema : Section type conflict](https://discourse.llvm.org/t/sema-section-type-conflict/66000#post_5)
 <!-- DISCOURSE-LLVM:END -->
