@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang startup files &lpar;_init and _fini symbols&rpar;](https://discourse.llvm.org/t/clang-startup-files-init-and-fini-symbols/66568#post_1)
 - [Libc++abi linking problem with newlib](https://discourse.llvm.org/t/libc-abi-linking-problem-with-newlib/66567#post_3)
 - [Libc++abi linking problem with newlib](https://discourse.llvm.org/t/libc-abi-linking-problem-with-newlib/66567#post_2)
 - [Libc++abi linking problem with newlib](https://discourse.llvm.org/t/libc-abi-linking-problem-with-newlib/66567#post_1)
 - [Ubuntu installs clang15 error](https://discourse.llvm.org/t/ubuntu-installs-clang15-error/66563#post_3)
-- [Confusion regarding iPTR](https://discourse.llvm.org/t/confusion-regarding-iptr/66524#post_2)
 <!-- DISCOURSE-LLVM:END -->
