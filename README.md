@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_8)
+- [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868#post_16)
+- [GC operand bundle allowed value types](https://discourse.llvm.org/t/gc-operand-bundle-allowed-value-types/66556#post_2)
 - [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_7)
 - [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_6)
-- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_5)
-- [Libc++abi linking problem with newlib](https://discourse.llvm.org/t/libc-abi-linking-problem-with-newlib/66567#post_4)
-- [Turn off certain IR optimizations](https://discourse.llvm.org/t/turn-off-certain-ir-optimizations/66475#post_7)
 <!-- DISCOURSE-LLVM:END -->
