@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Source-based MC/DC Code Coverage](https://discourse.llvm.org/t/rfc-source-based-mc-dc-code-coverage/59244#post_7)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Nov 14 ‘22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-nov-14-22-6pm/66222#post_2)
+- [Steps to implement codegen for a new target &lpar;newbie question&rpar;](https://discourse.llvm.org/t/steps-to-implement-codegen-for-a-new-target-newbie-question/66546#post_6)
 - [Steps to implement codegen for a new target &lpar;newbie question&rpar;](https://discourse.llvm.org/t/steps-to-implement-codegen-for-a-new-target-newbie-question/66546#post_5)
 - [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_1)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_21)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_20)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_19)
 <!-- DISCOURSE-LLVM:END -->
