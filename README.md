@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_18)
-- [Office Hours Round Table - LLVM dev meeting summary](https://discourse.llvm.org/t/office-hours-round-table-llvm-dev-meeting-summary/66544#post_2)
-- [Build CallExpr to built-in functions during CodeGen](https://discourse.llvm.org/t/build-callexpr-to-built-in-functions-during-codegen/66550#post_3)
-- [Build CallExpr to built-in functions during CodeGen](https://discourse.llvm.org/t/build-callexpr-to-built-in-functions-during-codegen/66550#post_2)
-- [Updated Clang office hours](https://discourse.llvm.org/t/updated-clang-office-hours/66572#post_1)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_20)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409#post_19)
+- [Steps to implement codegen for a new target &lpar;newbie question&rpar;](https://discourse.llvm.org/t/steps-to-implement-codegen-for-a-new-target-newbie-question/66546#post_4)
+- [LLVM Weekly - #463, November 14th 2022](https://discourse.llvm.org/t/llvm-weekly-463-november-14th-2022/66573#post_1)
+- [Steps to implement codegen for a new target &lpar;newbie question&rpar;](https://discourse.llvm.org/t/steps-to-implement-codegen-for-a-new-target-newbie-question/66546#post_3)
 <!-- DISCOURSE-LLVM:END -->
