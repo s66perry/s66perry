@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Consistent assembly code is not obtained compared to https://gcc.godbolt.org/](https://discourse.llvm.org/t/consistent-assembly-code-is-not-obtained-compared-to-https-gcc-godbolt-org/66586#post_2)
-- [How to allocate consecutive registers? &lpar;Array register files?&rpar;](https://discourse.llvm.org/t/how-to-allocate-consecutive-registers-array-register-files/66601#post_1)
-- [[RFC] Add a code owner for incremental compilation/incremental C++](https://discourse.llvm.org/t/rfc-add-a-code-owner-for-incremental-compilation-incremental-c/66345#post_5)
-- [Delete variable definitions and it&#39;s references](https://discourse.llvm.org/t/delete-variable-definitions-and-its-references/66599#post_1)
-- [Office Hours Round Table - LLVM dev meeting summary](https://discourse.llvm.org/t/office-hours-round-table-llvm-dev-meeting-summary/66544#post_3)
+- [Delete variable definitions and it&#39;s references](https://discourse.llvm.org/t/delete-variable-definitions-and-its-references/66599#post_3)
+- [Delete variable definitions and it&#39;s references](https://discourse.llvm.org/t/delete-variable-definitions-and-its-references/66599#post_2)
+- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053?page=2#post_25)
+- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_3)
+- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_16)
 <!-- DISCOURSE-LLVM:END -->
