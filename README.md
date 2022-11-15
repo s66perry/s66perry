@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Delete variable definitions and it&#39;s references](https://discourse.llvm.org/t/delete-variable-definitions-and-its-references/66599#post_3)
-- [Delete variable definitions and it&#39;s references](https://discourse.llvm.org/t/delete-variable-definitions-and-its-references/66599#post_2)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053?page=2#post_25)
-- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_3)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_16)
+- [Can I have custom data owned &lpar;and freed&rpar; by an Operation?](https://discourse.llvm.org/t/can-i-have-custom-data-owned-and-freed-by-an-operation/65270#post_6)
+- [LLVM 15.0.4 Released](https://discourse.llvm.org/t/llvm-15-0-4-released/66337#post_7)
+- [LLVM 15.0.4 Released](https://discourse.llvm.org/t/llvm-15-0-4-released/66337#post_6)
+- [LLVM Education Initiative](https://discourse.llvm.org/t/llvm-education-initiative/66400#post_9)
+- [Can I have custom data owned &lpar;and freed&rpar; by an Operation?](https://discourse.llvm.org/t/can-i-have-custom-data-owned-and-freed-by-an-operation/65270#post_5)
 <!-- DISCOURSE-LLVM:END -->
