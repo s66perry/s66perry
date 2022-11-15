@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018?page=2#post_21)
-- [Review Request for Minimal Block Coverage Instrumentation](https://discourse.llvm.org/t/review-request-for-minimal-block-coverage-instrumentation/66580#post_1)
-- [LLVM Cambridge UK Social - November](https://discourse.llvm.org/t/llvm-cambridge-uk-social-november/66346#post_3)
-- [RFC: Source-based MC/DC Code Coverage](https://discourse.llvm.org/t/rfc-source-based-mc-dc-code-coverage/59244#post_7)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Nov 14 ‘22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-nov-14-22-6pm/66222#post_2)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_22)
+- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_7)
+- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_9)
+- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_2)
+- [LLVM Education Initiative](https://discourse.llvm.org/t/llvm-education-initiative/66400#post_8)
 <!-- DISCOURSE-LLVM:END -->
