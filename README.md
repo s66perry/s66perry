@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_22)
-- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_7)
-- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_9)
-- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_2)
-- [LLVM Education Initiative](https://discourse.llvm.org/t/llvm-education-initiative/66400#post_8)
+- [Consistent assembly code is not obtained compared to https://gcc.godbolt.org/](https://discourse.llvm.org/t/consistent-assembly-code-is-not-obtained-compared-to-https-gcc-godbolt-org/66586#post_1)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_34)
+- [Attaching arith::FastMathAttr to operations in Flang](https://discourse.llvm.org/t/attaching-arith-fastmathattr-to-operations-in-flang/66366#post_6)
+- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_11)
+- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_10)
 <!-- DISCOURSE-LLVM:END -->
