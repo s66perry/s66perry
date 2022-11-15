@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Any-sized VT for TableGen](https://discourse.llvm.org/t/rfc-any-sized-vt-for-tablegen/66492#post_3)
 - [Consistent assembly code is not obtained compared to https://gcc.godbolt.org/](https://discourse.llvm.org/t/consistent-assembly-code-is-not-obtained-compared-to-https-gcc-godbolt-org/66586#post_1)
 - [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_34)
 - [Attaching arith::FastMathAttr to operations in Flang](https://discourse.llvm.org/t/attaching-arith-fastmathattr-to-operations-in-flang/66366#post_6)
 - [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_11)
-- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_10)
 <!-- DISCOURSE-LLVM:END -->
