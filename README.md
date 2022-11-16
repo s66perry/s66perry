@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang Compression](https://discourse.llvm.org/t/clang-compression/66624#post_1)
-- [Intrinsic with sideeffect is optimized out](https://discourse.llvm.org/t/intrinsic-with-sideeffect-is-optimized-out/66053?page=2#post_26)
-- [Mixing -frtti &lpar;application&rpar; and -fno-rtti &lpar;LLVM&rpar;](https://discourse.llvm.org/t/mixing-frtti-application-and-fno-rtti-llvm/66621#post_1)
-- [Does Clang support Intel Assembly?](https://discourse.llvm.org/t/does-clang-support-intel-assembly/66620#post_1)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_25)
+- [How to allocate consecutive registers? &lpar;Array register files?&rpar;](https://discourse.llvm.org/t/how-to-allocate-consecutive-registers-array-register-files/66601#post_2)
+- [[RFC] Broadcasting in TCP](https://discourse.llvm.org/t/rfc-broadcasting-in-tcp/65896#post_6)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_62)
+- [Clang Compression](https://discourse.llvm.org/t/clang-compression/66624#post_2)
+- [ArmClang and IAR support compression in the linker. Does clang support similar operations of compression?](https://discourse.llvm.org/t/armclang-and-iar-support-compression-in-the-linker-does-clang-support-similar-operations-of-compression/66625#post_1)
 <!-- DISCOURSE-LLVM:END -->
