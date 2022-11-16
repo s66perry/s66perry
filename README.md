@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Where could we perform &lpar;sudo-?&rpar;SROA with non-constant offsets?](https://discourse.llvm.org/t/where-could-we-perform-sudo-sroa-with-non-constant-offsets/66645#post_2)
+- [Where could we perform &lpar;sudo-?&rpar;SROA with non-constant offsets?](https://discourse.llvm.org/t/where-could-we-perform-sudo-sroa-with-non-constant-offsets/66645#post_1)
 - [Mixing -frtti &lpar;application&rpar; and -fno-rtti &lpar;LLVM&rpar;](https://discourse.llvm.org/t/mixing-frtti-application-and-fno-rtti-llvm/66621#post_2)
 - [Does Clang support Intel Assembly?](https://discourse.llvm.org/t/does-clang-support-intel-assembly/66620#post_7)
 - [Does Clang support Intel Assembly?](https://discourse.llvm.org/t/does-clang-support-intel-assembly/66620#post_6)
-- [[RFC] Inconsistency between dynamic and static attributes &lpar;i64 v. index&rpar;](https://discourse.llvm.org/t/rfc-inconsistency-between-dynamic-and-static-attributes-i64-v-index/66612#post_3)
-- [Basic Block Label Not Emitted](https://discourse.llvm.org/t/basic-block-label-not-emitted/66638#post_2)
 <!-- DISCOURSE-LLVM:END -->
