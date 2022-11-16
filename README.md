@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_24)
+- [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092#post_6)
 - [LLVM 15.0.4 has been tagged](https://discourse.llvm.org/t/llvm-15-0-4-has-been-tagged/66354#post_10)
 - [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_12)
 - [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_4)
-- [Loop Opt WG Meeting on Nov 16, 2022](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-nov-16-2022/66610#post_1)
-- [Delete variable definitions and it&#39;s references](https://discourse.llvm.org/t/delete-variable-definitions-and-its-references/66599#post_5)
 <!-- DISCOURSE-LLVM:END -->
