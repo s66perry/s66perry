@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_26)
-- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_6)
-- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_5)
-- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_4)
-- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_3)
+- [Does Clang support Intel Assembly?](https://discourse.llvm.org/t/does-clang-support-intel-assembly/66620#post_7)
+- [Does Clang support Intel Assembly?](https://discourse.llvm.org/t/does-clang-support-intel-assembly/66620#post_6)
+- [[RFC] Inconsistency between dynamic and static attributes &lpar;i64 v. index&rpar;](https://discourse.llvm.org/t/rfc-inconsistency-between-dynamic-and-static-attributes-i64-v-index/66612#post_3)
+- [Basic Block Label Not Emitted](https://discourse.llvm.org/t/basic-block-label-not-emitted/66638#post_2)
+- [LLVM Education Initiative](https://discourse.llvm.org/t/llvm-education-initiative/66400#post_10)
 <!-- DISCOURSE-LLVM:END -->
