@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Add_custom_target with shell looping construct](https://discourse.llvm.org/t/add-custom-target-with-shell-looping-construct/66635#post_1)
-- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_2)
-- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_1)
-- [Premerge testing repository move to zorg](https://discourse.llvm.org/t/premerge-testing-repository-move-to-zorg/66632#post_1)
-- [Does Clang support Intel Assembly?](https://discourse.llvm.org/t/does-clang-support-intel-assembly/66620#post_4)
+- [State of LLVM_ENABLE_MODULES build](https://discourse.llvm.org/t/state-of-llvm-enable-modules-build/66630#post_4)
+- [Basic Block Label Not Emitted](https://discourse.llvm.org/t/basic-block-label-not-emitted/66638#post_1)
+- [[RFC] Add inc and dec operations to atomicrmw](https://discourse.llvm.org/t/rfc-add-inc-and-dec-operations-to-atomicrmw/66387#post_7)
+- [LLVM 15.0.5 has been tagged](https://discourse.llvm.org/t/llvm-15-0-5-has-been-tagged/66615#post_3)
+- [State of LLVM_ENABLE_MODULES build](https://discourse.llvm.org/t/state-of-llvm-enable-modules-build/66630#post_3)
 <!-- DISCOURSE-LLVM:END -->
