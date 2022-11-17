@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Static Analysis in Clang Round Table - Notes](https://discourse.llvm.org/t/static-analysis-in-clang-round-table-notes/66662#post_1)
-- [How to deal with parallel FuncOp insertion in the ModuleOp](https://discourse.llvm.org/t/how-to-deal-with-parallel-funcop-insertion-in-the-moduleop/66661#post_1)
-- [Mixing -frtti &lpar;application&rpar; and -fno-rtti &lpar;LLVM&rpar;](https://discourse.llvm.org/t/mixing-frtti-application-and-fno-rtti-llvm/66621#post_5)
-- [[RFC] Moving TOSA construction lib into MLIR core](https://discourse.llvm.org/t/rfc-moving-tosa-construction-lib-into-mlir-core/4961#post_12)
-- [CANCELLED - Nov. 23rd Biweekly Call](https://discourse.llvm.org/t/cancelled-nov-23rd-biweekly-call/66660#post_1)
+- [[RFC] Moving TOSA construction lib into MLIR core](https://discourse.llvm.org/t/rfc-moving-tosa-construction-lib-into-mlir-core/4961#post_14)
+- [&quot;LLVM Essentials&quot; book example on scalar evolution](https://discourse.llvm.org/t/llvm-essentials-book-example-on-scalar-evolution/66664#post_1)
+- [[RFC] Moving TOSA construction lib into MLIR core](https://discourse.llvm.org/t/rfc-moving-tosa-construction-lib-into-mlir-core/4961#post_13)
+- [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_2)
+- [Prototyping a not-an-instruction dbg.value](https://discourse.llvm.org/t/prototyping-a-not-an-instruction-dbg-value/66247#post_4)
 <!-- DISCOURSE-LLVM:END -->
