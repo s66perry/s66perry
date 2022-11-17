@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_5)
-- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_6)
-- [Build libc++ with MSVS, CMake and Ninja](https://discourse.llvm.org/t/build-libc-with-msvs-cmake-and-ninja/66659#post_1)
-- [[RFC] Add support for OpenHarmony OS](https://discourse.llvm.org/t/rfc-add-support-for-openharmony-os/66656#post_1)
-- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_11)
+- [Static Analysis in Clang Round Table - Notes](https://discourse.llvm.org/t/static-analysis-in-clang-round-table-notes/66662#post_1)
+- [How to deal with parallel FuncOp insertion in the ModuleOp](https://discourse.llvm.org/t/how-to-deal-with-parallel-funcop-insertion-in-the-moduleop/66661#post_1)
+- [Mixing -frtti &lpar;application&rpar; and -fno-rtti &lpar;LLVM&rpar;](https://discourse.llvm.org/t/mixing-frtti-application-and-fno-rtti-llvm/66621#post_5)
+- [[RFC] Moving TOSA construction lib into MLIR core](https://discourse.llvm.org/t/rfc-moving-tosa-construction-lib-into-mlir-core/4961#post_12)
+- [CANCELLED - Nov. 23rd Biweekly Call](https://discourse.llvm.org/t/cancelled-nov-23rd-biweekly-call/66660#post_1)
 <!-- DISCOURSE-LLVM:END -->
