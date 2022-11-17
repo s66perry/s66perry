@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [State of LLVM_ENABLE_MODULES build](https://discourse.llvm.org/t/state-of-llvm-enable-modules-build/66630#post_7)
-- [Spirv dialect &lpar;and SPIR-V target&rpar; design decision?](https://discourse.llvm.org/t/spirv-dialect-and-spir-v-target-design-decision/66646#post_1)
-- [State of LLVM_ENABLE_MODULES build](https://discourse.llvm.org/t/state-of-llvm-enable-modules-build/66630#post_6)
-- [Consistent assembly code is not obtained compared to https://gcc.godbolt.org/](https://discourse.llvm.org/t/consistent-assembly-code-is-not-obtained-compared-to-https-gcc-godbolt-org/66586#post_4)
-- [[RFC] Inconsistency between dynamic and static attributes &lpar;i64 v. index&rpar;](https://discourse.llvm.org/t/rfc-inconsistency-between-dynamic-and-static-attributes-i64-v-index/66612#post_4)
+- [Mixing -frtti &lpar;application&rpar; and -fno-rtti &lpar;LLVM&rpar;](https://discourse.llvm.org/t/mixing-frtti-application-and-fno-rtti-llvm/66621#post_3)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_54)
+- [Consistent assembly code is not obtained compared to https://gcc.godbolt.org/](https://discourse.llvm.org/t/consistent-assembly-code-is-not-obtained-compared-to-https-gcc-godbolt-org/66586#post_5)
+- [Using clang on windows without using MSVC link](https://discourse.llvm.org/t/using-clang-on-windows-without-using-msvc-link/4359#post_5)
+- [Using clang on windows without using MSVC link](https://discourse.llvm.org/t/using-clang-on-windows-without-using-msvc-link/4359#post_4)
 <!-- DISCOURSE-LLVM:END -->
