@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why is CallBr restricted to only inline-asm?](https://discourse.llvm.org/t/why-is-callbr-restricted-to-only-inline-asm/66265#post_3)
+- [[TableGen] Define single instruction allowing Reg/Imm operands or split to multiple instructions instead?](https://discourse.llvm.org/t/tablegen-define-single-instruction-allowing-reg-imm-operands-or-split-to-multiple-instructions-instead/65174#post_7)
 - [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_10)
 - [Consistent assembly code is not obtained compared to https://gcc.godbolt.org/](https://discourse.llvm.org/t/consistent-assembly-code-is-not-obtained-compared-to-https-gcc-godbolt-org/66586#post_6)
 - [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_1)
-- [Mixing -frtti &lpar;application&rpar; and -fno-rtti &lpar;LLVM&rpar;](https://discourse.llvm.org/t/mixing-frtti-application-and-fno-rtti-llvm/66621#post_3)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_54)
 <!-- DISCOURSE-LLVM:END -->
