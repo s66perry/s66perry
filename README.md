@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Microsoft CLC/clover: Unresolved symbols when static linking clang 15](https://discourse.llvm.org/t/microsoft-clc-clover-unresolved-symbols-when-static-linking-clang-15/66655#post_2)
-- [[RFC] Moving TOSA construction lib into MLIR core](https://discourse.llvm.org/t/rfc-moving-tosa-construction-lib-into-mlir-core/4961#post_11)
-- [Microsoft CLC/clover: Unresolved symbols when static linking clang 15](https://discourse.llvm.org/t/microsoft-clc-clover-unresolved-symbols-when-static-linking-clang-15/66655#post_1)
-- [Mesa3D draw module: Unresolved symbols when static linking LLVM 15](https://discourse.llvm.org/t/mesa3d-draw-module-unresolved-symbols-when-static-linking-llvm-15/66654#post_1)
-- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631?page=2#post_29)
+- [[RFC] Add support for OpenHarmony OS](https://discourse.llvm.org/t/rfc-add-support-for-openharmony-os/66656#post_1)
+- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_11)
+- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_10)
+- [Libc++abi linking problem with newlib](https://discourse.llvm.org/t/libc-abi-linking-problem-with-newlib/66567#post_5)
+- [Can&#39;t select target for triple](https://discourse.llvm.org/t/cant-select-target-for-triple/66633#post_9)
 <!-- DISCOURSE-LLVM:END -->
