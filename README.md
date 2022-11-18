@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Error when splitting v4i16 data into four i16 using DAG.ExtractVectorElements&lpar;&rpar;](https://discourse.llvm.org/t/error-when-splitting-v4i16-data-into-four-i16-using-dag-extractvectorelements/66675#post_1)
-- [[InstSimplify] Remove zero-index opaque pointer GEP](https://discourse.llvm.org/t/instsimplify-remove-zero-index-opaque-pointer-gep/66672#post_1)
-- [Is special meaning of C statements inside of Objective-C class sections intended?](https://discourse.llvm.org/t/is-special-meaning-of-c-statements-inside-of-objective-c-class-sections-intended/65492#post_6)
-- [How does clang implement compression during debugging?](https://discourse.llvm.org/t/how-does-clang-implement-compression-during-debugging/66671#post_1)
-- [Windows clang assembler and sysv_abi](https://discourse.llvm.org/t/windows-clang-assembler-and-sysv-abi/66670#post_1)
+- [How to deal with parallel FuncOp insertion in the ModuleOp](https://discourse.llvm.org/t/how-to-deal-with-parallel-funcop-insertion-in-the-moduleop/66661#post_3)
+- [Toyc-ch1 command not found](https://discourse.llvm.org/t/toyc-ch1-command-not-found/66677#post_1)
+- [Windows clang assembler and sysv_abi](https://discourse.llvm.org/t/windows-clang-assembler-and-sysv-abi/66670#post_3)
+- [[AArch64] What is the function of the 2nd return value parameter of the WhileWR interface?](https://discourse.llvm.org/t/aarch64-what-is-the-function-of-the-2nd-return-value-parameter-of-the-whilewr-interface/66676#post_1)
+- [Windows clang assembler and sysv_abi](https://discourse.llvm.org/t/windows-clang-assembler-and-sysv-abi/66670#post_2)
 <!-- DISCOURSE-LLVM:END -->
