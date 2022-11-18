@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Split v4i16 into four i16 data using DAG.ExtractVectorElements&lpar;&rpar;](https://discourse.llvm.org/t/split-v4i16-into-four-i16-data-using-dag-extractvectorelements/66675#post_1)
+- [Error when splitting v4i16 data into four i16 using DAG.ExtractVectorElements&lpar;&rpar;](https://discourse.llvm.org/t/error-when-splitting-v4i16-data-into-four-i16-using-dag-extractvectorelements/66675#post_1)
 - [[InstSimplify] Remove zero-index opaque pointer GEP](https://discourse.llvm.org/t/instsimplify-remove-zero-index-opaque-pointer-gep/66672#post_1)
 - [Is special meaning of C statements inside of Objective-C class sections intended?](https://discourse.llvm.org/t/is-special-meaning-of-c-statements-inside-of-objective-c-class-sections-intended/65492#post_6)
 - [How does clang implement compression during debugging?](https://discourse.llvm.org/t/how-does-clang-implement-compression-during-debugging/66671#post_1)
