@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_5)
-- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_4)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395#post_10)
-- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_3)
-- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_2)
+- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_5)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_9)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_8)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_7)
+- [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_9)
 <!-- DISCOURSE-LLVM:END -->
