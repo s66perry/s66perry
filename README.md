@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_6)
-- [Reviewstack](https://discourse.llvm.org/t/reviewstack/66687#post_1)
-- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_5)
-- [Toyc-ch1 command not found](https://discourse.llvm.org/t/toyc-ch1-command-not-found/66677#post_5)
-- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_10)
+- [DWIM Print Command](https://discourse.llvm.org/t/dwim-print-command/66078#post_16)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_13)
+- [Round Table about CAS and Compiler Caching in 2022 LLVM Dev Mtg](https://discourse.llvm.org/t/round-table-about-cas-and-compiler-caching-in-2022-llvm-dev-mtg/66689#post_1)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_12)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_11)
 <!-- DISCOURSE-LLVM:END -->
