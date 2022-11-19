@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_8)
 - [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_7)
 - [Windows clang assembler and sysv_abi](https://discourse.llvm.org/t/windows-clang-assembler-and-sysv-abi/66670#post_5)
 - [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018?page=2#post_23)
 - [[InstSimplify] Remove zero-index opaque pointer GEP](https://discourse.llvm.org/t/instsimplify-remove-zero-index-opaque-pointer-gep/66672#post_3)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_12)
 <!-- DISCOURSE-LLVM:END -->
