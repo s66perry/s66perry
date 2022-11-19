@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_11)
+- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_6)
 - [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_13)
 - [Understanding how mlir DialectInterface are loaded](https://discourse.llvm.org/t/understanding-how-mlir-dialectinterface-are-loaded/66697#post_2)
 - [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_10)
-- [Understanding how mlir DialectInterface are loaded](https://discourse.llvm.org/t/understanding-how-mlir-dialectinterface-are-loaded/66697#post_1)
-- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_12)
 <!-- DISCOURSE-LLVM:END -->
