@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Libclang fails to parse classes with :: in name](https://discourse.llvm.org/t/libclang-fails-to-parse-classes-with-in-name/66704#post_3)
 - [LLVM 15.0.5 has been tagged](https://discourse.llvm.org/t/llvm-15-0-5-has-been-tagged/66615#post_8)
 - [Libclang fails to parse classes with :: in name](https://discourse.llvm.org/t/libclang-fails-to-parse-classes-with-in-name/66704#post_2)
 - [LLVM 15.0.5 has been tagged](https://discourse.llvm.org/t/llvm-15-0-5-has-been-tagged/66615#post_7)
 - [LLVM 15.0.5 has been tagged](https://discourse.llvm.org/t/llvm-15-0-5-has-been-tagged/66615#post_6)
-- [LLVM 15.0.5 has been tagged](https://discourse.llvm.org/t/llvm-15-0-5-has-been-tagged/66615#post_5)
 <!-- DISCOURSE-LLVM:END -->
