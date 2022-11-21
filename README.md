@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-tidy matcher for pointers of a given type](https://discourse.llvm.org/t/clang-tidy-matcher-for-pointers-of-a-given-type/66714#post_1)
-- [Is it not important that the name corresponds to intrisic?](https://discourse.llvm.org/t/is-it-not-important-that-the-name-corresponds-to-intrisic/66713#post_1)
-- [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_12)
-- [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_11)
-- [Cannot auto vectorization for the half float point in RISCV](https://discourse.llvm.org/t/cannot-auto-vectorization-for-the-half-float-point-in-riscv/66712#post_4)
+- [Lowering an HLL to a specific dialect in mlir](https://discourse.llvm.org/t/lowering-an-hll-to-a-specific-dialect-in-mlir/66718#post_1)
+- [Can clang-cl use /tune:cpu with MSVC, similar to -mtune=cpu on other platforms?](https://discourse.llvm.org/t/can-clang-cl-use-tune-cpu-with-msvc-similar-to-mtune-cpu-on-other-platforms/66717#post_1)
+- [Error when splitting v4i16 data into four i16 using DAG.ExtractVectorElements&lpar;&rpar;](https://discourse.llvm.org/t/error-when-splitting-v4i16-data-into-four-i16-using-dag-extractvectorelements/66675#post_2)
+- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_15)
+- [How to make clang stop after specific llvm pass?](https://discourse.llvm.org/t/how-to-make-clang-stop-after-specific-llvm-pass/66715#post_4)
 <!-- DISCOURSE-LLVM:END -->
