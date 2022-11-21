@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Codegen document question](https://discourse.llvm.org/t/codegen-document-question/66730#post_1)
+- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_2)
+- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_17)
 - [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_13)
 - [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_1)
-- [Tablegen question regarding instruction records](https://discourse.llvm.org/t/tablegen-question-regarding-instruction-records/66728#post_1)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_12)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395#post_15)
 <!-- DISCOURSE-LLVM:END -->
