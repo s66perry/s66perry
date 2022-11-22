@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_7)
+- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_6)
+- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_20)
 - [Is it not important that the name corresponds to intrisic?](https://discourse.llvm.org/t/is-it-not-important-that-the-name-corresponds-to-intrisic/66713#post_3)
 - [Is it not important that the name corresponds to intrisic?](https://discourse.llvm.org/t/is-it-not-important-that-the-name-corresponds-to-intrisic/66713#post_2)
-- [Centralized place for &quot;smart, fast, correct-enough parallel computation stuff&quot;](https://discourse.llvm.org/t/centralized-place-for-smart-fast-correct-enough-parallel-computation-stuff/66744#post_1)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_35)
-- [[RFC] Inconsistency between dynamic and static attributes &lpar;i64 v. index&rpar;](https://discourse.llvm.org/t/rfc-inconsistency-between-dynamic-and-static-attributes-i64-v-index/66612#post_6)
 <!-- DISCOURSE-LLVM:END -->
