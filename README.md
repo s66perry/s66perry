@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Review Request for Minimal Block Coverage Instrumentation](https://discourse.llvm.org/t/review-request-for-minimal-block-coverage-instrumentation/66580#post_2)
+- [Lowering an HLL to a specific dialect in mlir](https://discourse.llvm.org/t/lowering-an-hll-to-a-specific-dialect-in-mlir/66718#post_2)
+- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678?page=2#post_21)
+- [I have some problem about DAG](https://discourse.llvm.org/t/i-have-some-problem-about-dag/66747#post_1)
 - [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_12)
-- [Codegen document question](https://discourse.llvm.org/t/codegen-document-question/66730#post_2)
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_11)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_29)
-- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_20)
 <!-- DISCOURSE-LLVM:END -->
