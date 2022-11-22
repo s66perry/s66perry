@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_7)
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_6)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_20)
-- [Is it not important that the name corresponds to intrisic?](https://discourse.llvm.org/t/is-it-not-important-that-the-name-corresponds-to-intrisic/66713#post_3)
-- [Is it not important that the name corresponds to intrisic?](https://discourse.llvm.org/t/is-it-not-important-that-the-name-corresponds-to-intrisic/66713#post_2)
+- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_20)
+- [[RFC] Inconsistency between dynamic and static attributes &lpar;i64 v. index&rpar;](https://discourse.llvm.org/t/rfc-inconsistency-between-dynamic-and-static-attributes-i64-v-index/66612#post_7)
+- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_8)
+- [[RFC] Standalone libc++ test suite](https://discourse.llvm.org/t/rfc-standalone-libc-test-suite/66746#post_1)
+- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_10)
 <!-- DISCOURSE-LLVM:END -->
