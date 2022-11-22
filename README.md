@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678#post_18)
-- [Tensorflow to mlir](https://discourse.llvm.org/t/tensorflow-to-mlir/66732#post_1)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_28)
-- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_14)
-- [Codegen document question](https://discourse.llvm.org/t/codegen-document-question/66730#post_1)
+- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_3)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_33)
+- [Buffer deallocation: missing start/finish abstraction handling](https://discourse.llvm.org/t/buffer-deallocation-missing-start-finish-abstraction-handling/66733#post_1)
+- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_18)
+- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_17)
 <!-- DISCOURSE-LLVM:END -->
