@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_4)
 - [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_34)
 - [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868?page=2#post_21)
 - [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_3)
 - [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_33)
-- [Buffer deallocation: missing start/finish abstraction handling](https://discourse.llvm.org/t/buffer-deallocation-missing-start-finish-abstraction-handling/66733#post_1)
 <!-- DISCOURSE-LLVM:END -->
