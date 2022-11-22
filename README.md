@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is it not important that the name corresponds to intrisic?](https://discourse.llvm.org/t/is-it-not-important-that-the-name-corresponds-to-intrisic/66713#post_3)
+- [Is it not important that the name corresponds to intrisic?](https://discourse.llvm.org/t/is-it-not-important-that-the-name-corresponds-to-intrisic/66713#post_2)
+- [Centralized place for &quot;smart, fast, correct-enough parallel computation stuff&quot;](https://discourse.llvm.org/t/centralized-place-for-smart-fast-correct-enough-parallel-computation-stuff/66744#post_1)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_35)
 - [[RFC] Inconsistency between dynamic and static attributes &lpar;i64 v. index&rpar;](https://discourse.llvm.org/t/rfc-inconsistency-between-dynamic-and-static-attributes-i64-v-index/66612#post_6)
-- [[RFC] Any-sized VT for TableGen](https://discourse.llvm.org/t/rfc-any-sized-vt-for-tablegen/66492#post_4)
-- [Reclaiming Phabricator account with inaccessible email](https://discourse.llvm.org/t/reclaiming-phabricator-account-with-inaccessible-email/66743#post_1)
-- [[premerge] buildkite donwtime 21-11-2022](https://discourse.llvm.org/t/premerge-buildkite-donwtime-21-11-2022/66741#post_1)
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_1)
 <!-- DISCOURSE-LLVM:END -->
