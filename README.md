@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_21)
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729#post_20)
-- [RFC: Caffeine parallel runtime library](https://discourse.llvm.org/t/rfc-caffeine-parallel-runtime-library/66750#post_1)
-- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_9)
-- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678?page=2#post_25)
+- [Reclaiming Phabricator account with inaccessible email](https://discourse.llvm.org/t/reclaiming-phabricator-account-with-inaccessible-email/66743#post_2)
+- [Lowering an HLL to a specific dialect in mlir](https://discourse.llvm.org/t/lowering-an-hll-to-a-specific-dialect-in-mlir/66718#post_3)
+- [Using Clang With Musl](https://discourse.llvm.org/t/using-clang-with-musl/66719#post_4)
+- [Using Clang With Musl](https://discourse.llvm.org/t/using-clang-with-musl/66719#post_3)
+- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
