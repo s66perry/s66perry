@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Caffeine parallel runtime library](https://discourse.llvm.org/t/rfc-caffeine-parallel-runtime-library/66750#post_5)
+- [AArch64 Big Endian ILP32 support in LLD](https://discourse.llvm.org/t/aarch64-big-endian-ilp32-support-in-lld/65845#post_2)
+- [RFC - Adding assembly output to LLD &quot;save-temps&quot; with LTO enabled](https://discourse.llvm.org/t/rfc-adding-assembly-output-to-lld-save-temps-with-lto-enabled/66765#post_2)
+- [Using Clang With Musl](https://discourse.llvm.org/t/using-clang-with-musl/66719#post_5)
 - [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_16)
-- [RFC: Caffeine parallel runtime library](https://discourse.llvm.org/t/rfc-caffeine-parallel-runtime-library/66750#post_4)
-- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678?page=2#post_29)
-- [[RFC] Broadcasting in TCP](https://discourse.llvm.org/t/rfc-broadcasting-in-tcp/65896#post_7)
-- [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_15)
 <!-- DISCOURSE-LLVM:END -->
