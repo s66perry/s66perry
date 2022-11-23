@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_19)
+- [[RFC] New Pass Manager: pipeline and infrastructure extensions [LLVM Dev round table follow up]](https://discourse.llvm.org/t/rfc-new-pass-manager-pipeline-and-infrastructure-extensions-llvm-dev-round-table-follow-up/66736#post_3)
 - [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_29)
 - [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_28)
 - [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_27)
-- [Case in self assignment of llvm::OwningArrayRef&#39;s move constructor](https://discourse.llvm.org/t/case-in-self-assignment-of-llvm-owningarrayrefs-move-constructor/66771#post_1)
-- [Perf2bolt fails with PERF-ERROR: return code 1](https://discourse.llvm.org/t/perf2bolt-fails-with-perf-error-return-code-1/66769#post_3)
 <!-- DISCOURSE-LLVM:END -->
