@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question on symbol lookup error &lpar;VersionTuple&rpar;](https://discourse.llvm.org/t/question-on-symbol-lookup-error-versiontuple/54442#post_3)
-- [Map&lpar;to&rpar; vs map&lpar;tofrom&rpar; for parameter pack in OpenMP target region](https://discourse.llvm.org/t/map-to-vs-map-tofrom-for-parameter-pack-in-openmp-target-region/66761#post_1)
-- [Geting IntegerLiteral Value using Libclang](https://discourse.llvm.org/t/geting-integerliteral-value-using-libclang/66757#post_1)
-- [Lowering an HLL to a specific dialect in mlir](https://discourse.llvm.org/t/lowering-an-hll-to-a-specific-dialect-in-mlir/66718#post_4)
-- [Build &quot;Release&quot; with cmake produces a debug build?](https://discourse.llvm.org/t/build-release-with-cmake-produces-a-debug-build/66753#post_2)
+- [Error when splitting v4i16 data into four i16 using DAG.ExtractVectorElements&lpar;&rpar;](https://discourse.llvm.org/t/error-when-splitting-v4i16-data-into-four-i16-using-dag-extractvectorelements/66675#post_3)
+- [I have some questions about SDValue and SDNode](https://discourse.llvm.org/t/i-have-some-questions-about-sdvalue-and-sdnode/66762#post_3)
+- [Proposal: adding a c++20 early adopter mode for libc++ constexpr annotations in c++17](https://discourse.llvm.org/t/proposal-adding-a-c-20-early-adopter-mode-for-libc-constexpr-annotations-in-c-17/66446#post_12)
+- [I have some questions about SDValue and SDNode](https://discourse.llvm.org/t/i-have-some-questions-about-sdvalue-and-sdnode/66762#post_2)
+- [I have some questions about SDValue and SDNode](https://discourse.llvm.org/t/i-have-some-questions-about-sdvalue-and-sdnode/66762#post_1)
 <!-- DISCOURSE-LLVM:END -->
