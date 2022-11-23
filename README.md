@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 15.0.5 has been tagged](https://discourse.llvm.org/t/llvm-15-0-5-has-been-tagged/66615#post_10)
+- [RFC: Caffeine parallel runtime library](https://discourse.llvm.org/t/rfc-caffeine-parallel-runtime-library/66750#post_2)
+- [How to modify structure layout in lto with opaque pointers](https://discourse.llvm.org/t/how-to-modify-structure-layout-in-lto-with-opaque-pointers/66773#post_1)
+- [Mandatory feature macros in OpenCL C 3.0?](https://discourse.llvm.org/t/mandatory-feature-macros-in-opencl-c-3-0/66404#post_7)
 - [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_19)
-- [[RFC] New Pass Manager: pipeline and infrastructure extensions [LLVM Dev round table follow up]](https://discourse.llvm.org/t/rfc-new-pass-manager-pipeline-and-infrastructure-extensions-llvm-dev-round-table-follow-up/66736#post_3)
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_29)
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_28)
-- [Semantics on NaN](https://discourse.llvm.org/t/semantics-on-nan/66729?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
