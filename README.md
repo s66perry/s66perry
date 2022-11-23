@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CANCELLED RISC-V LLVM sync-up call 24th November 2022](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-24th-november-2022/66775#post_1)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_15)
+- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678?page=2#post_27)
 - [LLVM 15.0.5 has been tagged](https://discourse.llvm.org/t/llvm-15-0-5-has-been-tagged/66615#post_10)
 - [RFC: Caffeine parallel runtime library](https://discourse.llvm.org/t/rfc-caffeine-parallel-runtime-library/66750#post_2)
-- [How to modify structure layout in lto with opaque pointers](https://discourse.llvm.org/t/how-to-modify-structure-layout-in-lto-with-opaque-pointers/66773#post_1)
-- [Mandatory feature macros in OpenCL C 3.0?](https://discourse.llvm.org/t/mandatory-feature-macros-in-opencl-c-3-0/66404#post_7)
-- [Cleanly Addressing GlobalISel/DAG Pattern Matching Differences](https://discourse.llvm.org/t/cleanly-addressing-globalisel-dag-pattern-matching-differences/64817#post_19)
 <!-- DISCOURSE-LLVM:END -->
