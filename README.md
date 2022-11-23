@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Map&lpar;to&rpar; vs map&lpar;tofrom&rpar; for parameter pack in OpenMP target region](https://discourse.llvm.org/t/map-to-vs-map-tofrom-for-parameter-pack-in-openmp-target-region/66761#post_1)
+- [Geting IntegerLiteral Value using Libclang](https://discourse.llvm.org/t/geting-integerliteral-value-using-libclang/66757#post_1)
+- [Lowering an HLL to a specific dialect in mlir](https://discourse.llvm.org/t/lowering-an-hll-to-a-specific-dialect-in-mlir/66718#post_4)
 - [Build &quot;Release&quot; with cmake produces a debug build?](https://discourse.llvm.org/t/build-release-with-cmake-produces-a-debug-build/66753#post_2)
 - [What can clang-repl do](https://discourse.llvm.org/t/what-can-clang-repl-do/66754#post_1)
-- [Build &quot;Release&quot; with cmake produces a debug build?](https://discourse.llvm.org/t/build-release-with-cmake-produces-a-debug-build/66753#post_1)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=2#post_36)
-- [I have some problem about DAG](https://discourse.llvm.org/t/i-have-some-problem-about-dag/66747#post_3)
 <!-- DISCOURSE-LLVM:END -->
