@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Confusion in &#39;build&#39; methods in MLIR](https://discourse.llvm.org/t/confusion-in-build-methods-in-mlir/66806#post_1)
+- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_12)
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_8)
+- [Attributes in MLIR](https://discourse.llvm.org/t/attributes-in-mlir/66805#post_1)
 - [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_7)
-- [RFC: Testing of newlib/picolibc](https://discourse.llvm.org/t/rfc-testing-of-newlib-picolibc/66509#post_11)
-- [Joining the LLVM org without commit access](https://discourse.llvm.org/t/joining-the-llvm-org-without-commit-access/66800#post_3)
-- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_6)
-- [Joining the LLVM org without commit access](https://discourse.llvm.org/t/joining-the-llvm-org-without-commit-access/66800#post_2)
 <!-- DISCOURSE-LLVM:END -->
