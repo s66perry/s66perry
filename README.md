@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Broadcasting in TCP](https://discourse.llvm.org/t/rfc-broadcasting-in-tcp/65896#post_8)
-- [Job Opening to work on LLVM at Woven Planet - United Kingdom](https://discourse.llvm.org/t/job-opening-to-work-on-llvm-at-woven-planet-united-kingdom/66809#post_1)
-- [Job Opening to work on LLVM @ Woven Planet - United Kingdom](https://discourse.llvm.org/t/job-opening-to-work-on-llvm-woven-planet-united-kingdom/66799#post_3)
-- [Job Opening to work on LLVM @ Woven Planet - United Kingdom](https://discourse.llvm.org/t/job-opening-to-work-on-llvm-woven-planet-united-kingdom/66799#post_2)
-- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_15)
+- [Confusion in &#39;build&#39; methods in MLIR](https://discourse.llvm.org/t/confusion-in-build-methods-in-mlir/66806#post_2)
+- [Libcxx non-character-T deprecation breaks Apache Arrow](https://discourse.llvm.org/t/libcxx-non-character-t-deprecation-breaks-apache-arrow/66783#post_4)
+- [Joining the LLVM org without commit access](https://discourse.llvm.org/t/joining-the-llvm-org-without-commit-access/66800#post_6)
+- [Attributes in MLIR](https://discourse.llvm.org/t/attributes-in-mlir/66805#post_2)
+- [Joining the LLVM org without commit access](https://discourse.llvm.org/t/joining-the-llvm-org-without-commit-access/66800#post_5)
 <!-- DISCOURSE-LLVM:END -->
