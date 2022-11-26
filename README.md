@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to allocate consecutive registers? &lpar;Array register files?&rpar;](https://discourse.llvm.org/t/how-to-allocate-consecutive-registers-array-register-files/66601#post_3)
 - [Is there a way to add instructions to the backend outside of the source tree?](https://discourse.llvm.org/t/is-there-a-way-to-add-instructions-to-the-backend-outside-of-the-source-tree/66827#post_3)
 - [Is there a way to add instructions to the backend outside of the source tree?](https://discourse.llvm.org/t/is-there-a-way-to-add-instructions-to-the-backend-outside-of-the-source-tree/66827#post_2)
 - [Compiling with flang-new](https://discourse.llvm.org/t/compiling-with-flang-new/66808#post_14)
 - [Omp.h not found after fresh install with apt.llvm.org/llvm.sh &lpar;WSL2 Ubuntu 20.04&rpar;](https://discourse.llvm.org/t/omp-h-not-found-after-fresh-install-with-apt-llvm-org-llvm-sh-wsl2-ubuntu-20-04/4549#post_3)
-- [Visual Studio Code](https://discourse.llvm.org/t/visual-studio-code/66829#post_1)
 <!-- DISCOURSE-LLVM:END -->
