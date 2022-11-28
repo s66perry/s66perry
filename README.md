@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error : custom op is unknown](https://discourse.llvm.org/t/error-custom-op-is-unknown/66851#post_1)
+- [How to tackle P1787 &quot;Declarations and where to find them&quot;?](https://discourse.llvm.org/t/how-to-tackle-p1787-declarations-and-where-to-find-them/66833#post_4)
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_12)
 - [Visual Studio Code](https://discourse.llvm.org/t/visual-studio-code/66829#post_3)
 - [How to register a custom dialect with MLIRContext?](https://discourse.llvm.org/t/how-to-register-a-custom-dialect-with-mlircontext/66850#post_1)
-- [Compiling with flang-new](https://discourse.llvm.org/t/compiling-with-flang-new/66808#post_15)
-- [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_3)
-- [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_2)
 <!-- DISCOURSE-LLVM:END -->
