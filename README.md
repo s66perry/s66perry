@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_3)
+- [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_2)
+- [I have a question about RISCVCommonTableGen](https://discourse.llvm.org/t/i-have-a-question-about-riscvcommontablegen/66846#post_5)
+- [I have a question about RISCVCommonTableGen](https://discourse.llvm.org/t/i-have-a-question-about-riscvcommontablegen/66846#post_4)
 - [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_1)
-- [I have a question about RISCVCommonTableGen](https://discourse.llvm.org/t/i-have-a-question-about-riscvcommontablegen/66846#post_3)
-- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_11)
-- [I have a question about RISCVCommonTableGen](https://discourse.llvm.org/t/i-have-a-question-about-riscvcommontablegen/66846#post_2)
-- [Can&#39;t find &#39;Pure&#39; trait&#39;s definition](https://discourse.llvm.org/t/cant-find-pure-traits-definition/66844#post_2)
 <!-- DISCOURSE-LLVM:END -->
