@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Visual Studio Code](https://discourse.llvm.org/t/visual-studio-code/66829#post_3)
+- [How to register a custom dialect with MLIRContext?](https://discourse.llvm.org/t/how-to-register-a-custom-dialect-with-mlircontext/66850#post_1)
+- [Compiling with flang-new](https://discourse.llvm.org/t/compiling-with-flang-new/66808#post_15)
 - [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_3)
 - [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_2)
-- [I have a question about RISCVCommonTableGen](https://discourse.llvm.org/t/i-have-a-question-about-riscvcommontablegen/66846#post_5)
-- [I have a question about RISCVCommonTableGen](https://discourse.llvm.org/t/i-have-a-question-about-riscvcommontablegen/66846#post_4)
-- [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_1)
 <!-- DISCOURSE-LLVM:END -->
