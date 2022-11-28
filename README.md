@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang Code Owner/Reviewers Holiday Availability](https://discourse.llvm.org/t/clang-code-owner-reviewers-holiday-availability/66854#post_4)
+- [[RFC][arith] Add extended multiplication ops](https://discourse.llvm.org/t/rfc-arith-add-extended-multiplication-ops/66869#post_1)
+- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=2#post_33)
 - [Visual Studio Code](https://discourse.llvm.org/t/visual-studio-code/66829#post_4)
 - [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_13)
-- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=2#post_32)
-- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=2#post_31)
-- [Memref.alloca in AMD GPU kernels seem to lower to llvm.alloca with an incorrect address space](https://discourse.llvm.org/t/memref-alloca-in-amd-gpu-kernels-seem-to-lower-to-llvm-alloca-with-an-incorrect-address-space/66864#post_2)
 <!-- DISCOURSE-LLVM:END -->
