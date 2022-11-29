@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_15)
+- [[Tosa][tosa-to-linalg] Code design problem of Tosa to Linalg conversion](https://discourse.llvm.org/t/tosa-tosa-to-linalg-code-design-problem-of-tosa-to-linalg-conversion/66818#post_6)
+- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_6)
+- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_3)
 - [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_2)
-- [How do I register my Clang Static Analyzer checker](https://discourse.llvm.org/t/how-do-i-register-my-clang-static-analyzer-checker/66895#post_1)
-- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518?page=2#post_26)
-- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_5)
-- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_4)
 <!-- DISCOURSE-LLVM:END -->
