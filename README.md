@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_15)
-- [[Tosa][tosa-to-linalg] Code design problem of Tosa to Linalg conversion](https://discourse.llvm.org/t/tosa-tosa-to-linalg-code-design-problem-of-tosa-to-linalg-conversion/66818#post_6)
-- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_6)
-- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_3)
-- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_2)
+- [LLVM 15.0.6 Released!](https://discourse.llvm.org/t/llvm-15-0-6-released/66899#post_1)
+- [Error : custom op is unknown](https://discourse.llvm.org/t/error-custom-op-is-unknown/66851#post_3)
+- [Create a new FuncOp in MLIR](https://discourse.llvm.org/t/create-a-new-funcop-in-mlir/66898#post_1)
+- [Memref.alloca in AMD GPU kernels seem to lower to llvm.alloca with an incorrect address space](https://discourse.llvm.org/t/memref-alloca-in-amd-gpu-kernels-seem-to-lower-to-llvm-alloca-with-an-incorrect-address-space/66864#post_10)
+- [Memref.alloca in AMD GPU kernels seem to lower to llvm.alloca with an incorrect address space](https://discourse.llvm.org/t/memref-alloca-in-amd-gpu-kernels-seem-to-lower-to-llvm-alloca-with-an-incorrect-address-space/66864#post_9)
 <!-- DISCOURSE-LLVM:END -->
