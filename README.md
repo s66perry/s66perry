@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where can I find arm_neon_sve_bridge.h in GCC?](https://discourse.llvm.org/t/where-can-i-find-arm-neon-sve-bridge-h-in-gcc/66887#post_1)
-- [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_1)
-- [How to legalize an EVT ValueType?](https://discourse.llvm.org/t/how-to-legalize-an-evt-valuetype/66885#post_1)
-- [[Tosa][tosa-to-linalg] Code design problem of Tosa to Linalg conversion](https://discourse.llvm.org/t/tosa-tosa-to-linalg-code-design-problem-of-tosa-to-linalg-conversion/66818#post_4)
-- [Memref.alloca in AMD GPU kernels seem to lower to llvm.alloca with an incorrect address space](https://discourse.llvm.org/t/memref-alloca-in-amd-gpu-kernels-seem-to-lower-to-llvm-alloca-with-an-incorrect-address-space/66864#post_7)
+- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_2)
+- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_1)
+- [Where can I find arm_neon_sve_bridge.h in GCC?](https://discourse.llvm.org/t/where-can-i-find-arm-neon-sve-bridge-h-in-gcc/66887#post_3)
+- [Where can I find arm_neon_sve_bridge.h in GCC?](https://discourse.llvm.org/t/where-can-i-find-arm-neon-sve-bridge-h-in-gcc/66887#post_2)
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_11)
 <!-- DISCOURSE-LLVM:END -->
