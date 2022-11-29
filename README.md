@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][arith] Add extended multiplication ops](https://discourse.llvm.org/t/rfc-arith-add-extended-multiplication-ops/66869#post_7)
-- [LLVM GPU Working Group Meeting – Friday, December 2, 2022](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-december-2-2022/66892#post_1)
-- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_3)
-- [[RFC][arith] Add extended multiplication ops](https://discourse.llvm.org/t/rfc-arith-add-extended-multiplication-ops/66869#post_6)
-- [Getting errors in tablegen generated file](https://discourse.llvm.org/t/getting-errors-in-tablegen-generated-file/66853#post_3)
+- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_2)
+- [How do I register my Clang Static Analyzer checker](https://discourse.llvm.org/t/how-do-i-register-my-clang-static-analyzer-checker/66895#post_1)
+- [RFC: Should we enable Function Specialization?](https://discourse.llvm.org/t/rfc-should-we-enable-function-specialization/61518?page=2#post_26)
+- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_5)
+- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_4)
 <!-- DISCOURSE-LLVM:END -->
