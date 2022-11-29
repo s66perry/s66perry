@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_12)
-- [Error while building llvm and mlir](https://discourse.llvm.org/t/error-while-building-llvm-and-mlir/66878#post_3)
-- [Memref.alloca in AMD GPU kernels seem to lower to llvm.alloca with an incorrect address space](https://discourse.llvm.org/t/memref-alloca-in-amd-gpu-kernels-seem-to-lower-to-llvm-alloca-with-an-incorrect-address-space/66864#post_6)
-- [Error while building llvm and mlir](https://discourse.llvm.org/t/error-while-building-llvm-and-mlir/66878#post_2)
-- [Error while building llvm and mlir](https://discourse.llvm.org/t/error-while-building-llvm-and-mlir/66878#post_1)
+- [Getting errors in tablegen generated file](https://discourse.llvm.org/t/getting-errors-in-tablegen-generated-file/66853#post_2)
+- [LLVM Flang needs thread-safe IO runtime](https://discourse.llvm.org/t/llvm-flang-needs-thread-safe-io-runtime/66879#post_1)
+- [Error : custom op is unknown](https://discourse.llvm.org/t/error-custom-op-is-unknown/66851#post_2)
+- [How to register a dialect?](https://discourse.llvm.org/t/how-to-register-a-dialect/66848#post_4)
+- [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649#post_19)
 <!-- DISCOURSE-LLVM:END -->
