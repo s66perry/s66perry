@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM is optimizing the intrinsic code as well](https://discourse.llvm.org/t/llvm-is-optimizing-the-intrinsic-code-as-well/66439#post_3)
-- [Status of Overaligned i8](https://discourse.llvm.org/t/status-of-overaligned-i8/66913#post_2)
-- [LLVM is optimizing the intrinsic code as well](https://discourse.llvm.org/t/llvm-is-optimizing-the-intrinsic-code-as-well/66439#post_2)
-- [Status of Overaligned i8](https://discourse.llvm.org/t/status-of-overaligned-i8/66913#post_1)
-- [Replacing LLVM IR instructions which have different types](https://discourse.llvm.org/t/replacing-llvm-ir-instructions-which-have-different-types/66908#post_3)
+- [Is LLVM Flang runtime thread-safe?](https://discourse.llvm.org/t/is-llvm-flang-runtime-thread-safe/66879#post_5)
+- [Is LLVM Flang runtime thread-safe?](https://discourse.llvm.org/t/is-llvm-flang-runtime-thread-safe/66879#post_4)
+- [Status of Overaligned i8](https://discourse.llvm.org/t/status-of-overaligned-i8/66913#post_3)
+- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_8)
+- [[Tosa][tosa-to-linalg] Code design problem of Tosa to Linalg conversion](https://discourse.llvm.org/t/tosa-tosa-to-linalg-code-design-problem-of-tosa-to-linalg-conversion/66818#post_7)
 <!-- DISCOURSE-LLVM:END -->
