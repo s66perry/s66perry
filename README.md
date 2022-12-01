@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_7)
+- [AVR bot seems to be having trouble](https://discourse.llvm.org/t/avr-bot-seems-to-be-having-trouble/66949#post_1)
+- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_6)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_7)
 - [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_12)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_5)
-- [[RFC] Better UX for Clang&#39;s unwind-affecting attributes](https://discourse.llvm.org/t/rfc-better-ux-for-clangs-unwind-affecting-attributes/66890#post_11)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_4)
-- [Split GEP in Loop](https://discourse.llvm.org/t/split-gep-in-loop/66938#post_5)
 <!-- DISCOURSE-LLVM:END -->
