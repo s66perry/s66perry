@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Split GEP in Loop](https://discourse.llvm.org/t/split-gep-in-loop/66938#post_3)
 - [Split GEP in Loop](https://discourse.llvm.org/t/split-gep-in-loop/66938#post_2)
 - [Split GEP in Loop](https://discourse.llvm.org/t/split-gep-in-loop/66938#post_1)
 - [A question about TARGET_BUILTIN](https://discourse.llvm.org/t/a-question-about-target-builtin/66932#post_3)
 - [Tablegen: how to use class template arguments in code literal to parent class?](https://discourse.llvm.org/t/tablegen-how-to-use-class-template-arguments-in-code-literal-to-parent-class/66927#post_2)
-- [Specifying unpriviledge spec version &lpar;-misa-spec gcc flag equivalent&rpar;](https://discourse.llvm.org/t/specifying-unpriviledge-spec-version-misa-spec-gcc-flag-equivalent/66935#post_1)
 <!-- DISCOURSE-LLVM:END -->
