@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Caffeine parallel runtime library](https://discourse.llvm.org/t/rfc-caffeine-parallel-runtime-library/66750#post_7)
+- [Movement between vector type on &#39;vector&#39; dialect](https://discourse.llvm.org/t/movement-between-vector-type-on-vector-dialect/66934#post_2)
+- [Movement between vector type on &#39;vector&#39; dialect](https://discourse.llvm.org/t/movement-between-vector-type-on-vector-dialect/66934#post_1)
 - [A question about TARGET_BUILTIN](https://discourse.llvm.org/t/a-question-about-target-builtin/66932#post_2)
 - [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129#post_17)
-- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129#post_16)
-- [Compiling with flang-new](https://discourse.llvm.org/t/compiling-with-flang-new/66808#post_16)
-- [DREAL intrinsic](https://discourse.llvm.org/t/dreal-intrinsic/66931#post_2)
 <!-- DISCOURSE-LLVM:END -->
