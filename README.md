@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_9)
+- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_8)
+- [Can clangd be equipped with JIT](https://discourse.llvm.org/t/can-clangd-be-equipped-with-jit/66959#post_1)
 - [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_13)
 - [Vector.transfer_read padding and division operations](https://discourse.llvm.org/t/vector-transfer-read-padding-and-division-operations/66955#post_2)
-- [Movement between vector type on &#39;vector&#39; dialect](https://discourse.llvm.org/t/movement-between-vector-type-on-vector-dialect/66934#post_4)
-- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_1)
-- [Vector.transfer_read padding and division operations](https://discourse.llvm.org/t/vector-transfer-read-padding-and-division-operations/66955#post_1)
 <!-- DISCOURSE-LLVM:END -->
