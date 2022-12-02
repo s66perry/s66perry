@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to mofify tensor type?](https://discourse.llvm.org/t/how-to-mofify-tensor-type/66393#post_4)
 - [Build failure when attempting to build flang with c++20](https://discourse.llvm.org/t/build-failure-when-attempting-to-build-flang-with-c-20/66953#post_2)
 - [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=2#post_37)
 - [Runtime-rt library build for RISCV](https://discourse.llvm.org/t/runtime-rt-library-build-for-riscv/66904#post_3)
 - [[RFC] Let clang use system GPU as default offload arch for HIP](https://discourse.llvm.org/t/rfc-let-clang-use-system-gpu-as-default-offload-arch-for-hip/66950#post_4)
-- [Build failure when attempting to build flang with c++20](https://discourse.llvm.org/t/build-failure-when-attempting-to-build-flang-with-c-20/66953#post_1)
 <!-- DISCOURSE-LLVM:END -->
