@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_15)
+- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_14)
+- [VariadicOfVariadic Build Error](https://discourse.llvm.org/t/variadicofvariadic-build-error/66960#post_5)
 - [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_13)
 - [Backend Legacy PM Usage --- Help Needed!](https://discourse.llvm.org/t/backend-legacy-pm-usage-help-needed/66964#post_2)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_12)
-- [Backend Legacy PM Usage --- Help Needed!](https://discourse.llvm.org/t/backend-legacy-pm-usage-help-needed/66964#post_1)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_11)
 <!-- DISCOURSE-LLVM:END -->
