@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_16)
+- [[RFC] Let clang use system GPU as default offload arch for HIP](https://discourse.llvm.org/t/rfc-let-clang-use-system-gpu-as-default-offload-arch-for-hip/66950#post_5)
 - [VariadicOfVariadic Build Error](https://discourse.llvm.org/t/variadicofvariadic-build-error/66960#post_3)
 - [VariadicOfVariadic Build Error](https://discourse.llvm.org/t/variadicofvariadic-build-error/66960#post_2)
 - [VariadicOfVariadic Build Error](https://discourse.llvm.org/t/variadicofvariadic-build-error/66960#post_1)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_9)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_8)
 <!-- DISCOURSE-LLVM:END -->
