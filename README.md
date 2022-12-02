@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Linking without gcc on GNU/Linux](https://discourse.llvm.org/t/linking-without-gcc-on-gnu-linux/66428#post_13)
+- [Vector.transfer_read padding and division operations](https://discourse.llvm.org/t/vector-transfer-read-padding-and-division-operations/66955#post_2)
+- [Movement between vector type on &#39;vector&#39; dialect](https://discourse.llvm.org/t/movement-between-vector-type-on-vector-dialect/66934#post_4)
 - [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_1)
 - [Vector.transfer_read padding and division operations](https://discourse.llvm.org/t/vector-transfer-read-padding-and-division-operations/66955#post_1)
-- [How to mofify tensor type?](https://discourse.llvm.org/t/how-to-mofify-tensor-type/66393#post_5)
-- [How to mofify tensor type?](https://discourse.llvm.org/t/how-to-mofify-tensor-type/66393#post_4)
-- [Build failure when attempting to build flang with c++20](https://discourse.llvm.org/t/build-failure-when-attempting-to-build-flang-with-c-20/66953#post_2)
 <!-- DISCOURSE-LLVM:END -->
