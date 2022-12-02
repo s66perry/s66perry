@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Global Instruction Selection BPF example](https://discourse.llvm.org/t/global-instruction-selection-bpf-example/66951#post_3)
+- [Global Instruction Selection BPF example](https://discourse.llvm.org/t/global-instruction-selection-bpf-example/66951#post_2)
+- [Global Instruction Selection BPF example](https://discourse.llvm.org/t/global-instruction-selection-bpf-example/66951#post_1)
+- [[RFC] Let clang use system GPU as default offload arch for HIP](https://discourse.llvm.org/t/rfc-let-clang-use-system-gpu-as-default-offload-arch-for-hip/66950#post_1)
 - [Split GEP in Loop](https://discourse.llvm.org/t/split-gep-in-loop/66938#post_6)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_7)
-- [AVR bot seems to be having trouble](https://discourse.llvm.org/t/avr-bot-seems-to-be-having-trouble/66949#post_1)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_6)
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_7)
 <!-- DISCOURSE-LLVM:END -->
