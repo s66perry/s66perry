@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_5)
+- [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_4)
+- [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_3)
+- [How could I get the classes hierarchy for large code base](https://discourse.llvm.org/t/how-could-i-get-the-classes-hierarchy-for-large-code-base/66975#post_1)
 - [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_2)
-- [Help with LLVM standalone cross-compiler build](https://discourse.llvm.org/t/help-with-llvm-standalone-cross-compiler-build/66973#post_5)
-- [Help with LLVM standalone cross-compiler build](https://discourse.llvm.org/t/help-with-llvm-standalone-cross-compiler-build/66973#post_4)
-- [AVR bot seems to be having trouble](https://discourse.llvm.org/t/avr-bot-seems-to-be-having-trouble/66949#post_2)
-- [Help with LLVM standalone cross-compiler build](https://discourse.llvm.org/t/help-with-llvm-standalone-cross-compiler-build/66973#post_3)
 <!-- DISCOURSE-LLVM:END -->
