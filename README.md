@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How could I get the classes hierarchy for large code base](https://discourse.llvm.org/t/how-could-i-get-the-classes-hierarchy-for-large-code-base/66975#post_3)
 - [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_1)
 - [[RFC] Check for redundant usages of `static` - one large check or multiple small checks?](https://discourse.llvm.org/t/rfc-check-for-redundant-usages-of-static-one-large-check-or-multiple-small-checks/66986#post_1)
 - [Checker for Github Issue https://github.com/llvm/llvm-project/issues/43453](https://discourse.llvm.org/t/checker-for-github-issue-https-github-com-llvm-llvm-project-issues-43453/66985#post_1)
 - [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_6)
-- [Help with LLVM standalone cross-compiler build](https://discourse.llvm.org/t/help-with-llvm-standalone-cross-compiler-build/66973#post_6)
 <!-- DISCOURSE-LLVM:END -->
