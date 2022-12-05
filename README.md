@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_3)
+- [[AutoFDO] Reuse profile when tryInlineCandidate&lpar;&rpar; failed?](https://discourse.llvm.org/t/autofdo-reuse-profile-when-tryinlinecandidate-failed/66097#post_2)
 - [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_9)
 - [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_8)
 - [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_7)
-- [How could I get the classes hierarchy for large code base](https://discourse.llvm.org/t/how-could-i-get-the-classes-hierarchy-for-large-code-base/66975#post_3)
-- [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_1)
 <!-- DISCOURSE-LLVM:END -->
