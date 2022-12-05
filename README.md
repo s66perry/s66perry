@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Math Library Intrinsics as native intrinsics](https://discourse.llvm.org/t/math-library-intrinsics-as-native-intrinsics/12698#post_9)
 - [MemorySSA upcoming meeting](https://discourse.llvm.org/t/memoryssa-upcoming-meeting/61458#post_2)
 - [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_16)
 - [Learning MLIR DataFlowAnalysis](https://discourse.llvm.org/t/learning-mlir-dataflowanalysis/67009#post_1)
 - [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_7)
-- [Compiling Python and C files into object files using LLVM / Clang](https://discourse.llvm.org/t/compiling-python-and-c-files-into-object-files-using-llvm-clang/67008#post_1)
 <!-- DISCOURSE-LLVM:END -->
