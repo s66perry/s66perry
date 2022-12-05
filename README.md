@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_8)
-- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_7)
-- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_6)
-- [Clang is overly aggressive when evaluating constexpr functions](https://discourse.llvm.org/t/clang-is-overly-aggressive-when-evaluating-constexpr-functions/67006#post_1)
-- [AVR bot seems to be having trouble](https://discourse.llvm.org/t/avr-bot-seems-to-be-having-trouble/66949#post_3)
+- [MemorySSA upcoming meeting](https://discourse.llvm.org/t/memoryssa-upcoming-meeting/61458#post_2)
+- [RFC: The meaning of -Ofast](https://discourse.llvm.org/t/rfc-the-meaning-of-ofast/66554#post_16)
+- [Learning MLIR DataFlowAnalysis](https://discourse.llvm.org/t/learning-mlir-dataflowanalysis/67009#post_1)
+- [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_7)
+- [Compiling Python and C files into object files using LLVM / Clang](https://discourse.llvm.org/t/compiling-python-and-c-files-into-object-files-using-llvm-clang/67008#post_1)
 <!-- DISCOURSE-LLVM:END -->
