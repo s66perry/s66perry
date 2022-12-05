@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Specifying unpriviledge spec version &lpar;-misa-spec gcc flag equivalent&rpar;](https://discourse.llvm.org/t/specifying-unpriviledge-spec-version-misa-spec-gcc-flag-equivalent/66935#post_2)
+- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_12)
+- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_11)
 - [How could I get the classes hierarchy for large code base](https://discourse.llvm.org/t/how-could-i-get-the-classes-hierarchy-for-large-code-base/66975#post_4)
 - [Search for other instructions that depend on an instruction using LLVM API](https://discourse.llvm.org/t/search-for-other-instructions-that-depend-on-an-instruction-using-llvm-api/66994#post_3)
-- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_10)
-- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_4)
-- [How can I find a derivation of an composite type?](https://discourse.llvm.org/t/how-can-i-find-a-derivation-of-an-composite-type/66996#post_1)
 <!-- DISCOURSE-LLVM:END -->
