@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_6)
+- [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_5)
 - [[RFC] libcxx &lt;experimental/simd&gt; implementation](https://discourse.llvm.org/t/rfc-libcxx-experimental-simd-implementation/67026#post_1)
 - [Thoughts on PyTorch 2.0](https://discourse.llvm.org/t/thoughts-on-pytorch-2-0/67000#post_3)
 - [Thoughts on PyTorch 2.0](https://discourse.llvm.org/t/thoughts-on-pytorch-2-0/67000#post_2)
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_9)
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_8)
 <!-- DISCOURSE-LLVM:END -->
