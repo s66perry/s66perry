@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=2#post_38)
+- [Instcombine, struct w/ padding &amp; aggregate loads/stores as scalars](https://discourse.llvm.org/t/instcombine-struct-w-padding-aggregate-loads-stores-as-scalars/67035#post_1)
 - [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776?page=2#post_23)
 - [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776?page=2#post_22)
 - [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_7)
-- [I32Attr and other attribute type constraints](https://discourse.llvm.org/t/i32attr-and-other-attribute-type-constraints/67030#post_3)
-- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_16)
 <!-- DISCOURSE-LLVM:END -->
