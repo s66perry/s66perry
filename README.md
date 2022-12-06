@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Changes to `TilingInterface`](https://discourse.llvm.org/t/rfc-changes-to-tilinginterface/66649?page=2#post_22)
-- [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_6)
-- [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_5)
-- [[RFC] libcxx &lt;experimental/simd&gt; implementation](https://discourse.llvm.org/t/rfc-libcxx-experimental-simd-implementation/67026#post_1)
-- [Thoughts on PyTorch 2.0](https://discourse.llvm.org/t/thoughts-on-pytorch-2-0/67000#post_3)
+- [I32Attr and other attribute type constraints](https://discourse.llvm.org/t/i32attr-and-other-attribute-type-constraints/67030#post_3)
+- [Stable name mangling for anonymous types](https://discourse.llvm.org/t/stable-name-mangling-for-anonymous-types/66943#post_16)
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776?page=2#post_21)
+- [I32Attr and other attribute type constraints](https://discourse.llvm.org/t/i32attr-and-other-attribute-type-constraints/67030#post_2)
+- [Mlir slice](https://discourse.llvm.org/t/mlir-slice/67023#post_2)
 <!-- DISCOURSE-LLVM:END -->
