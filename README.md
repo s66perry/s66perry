@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_20)
+- [Create a new FuncOp in MLIR](https://discourse.llvm.org/t/create-a-new-funcop-in-mlir/66898#post_4)
 - [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_4)
 - [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_3)
 - [[CFP] Seventh LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-seventh-llvm-performance-workshop-at-cgo/66987#post_2)
-- [How to allocate consecutive registers? &lpar;Array register files?&rpar;](https://discourse.llvm.org/t/how-to-allocate-consecutive-registers-array-register-files/66601#post_8)
-- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776#post_19)
 <!-- DISCOURSE-LLVM:END -->
