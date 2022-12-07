@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129#post_20)
+- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129#post_19)
+- [Math Dialect match and rewrite patterns](https://discourse.llvm.org/t/math-dialect-match-and-rewrite-patterns/67021#post_4)
+- [Supporting memory reference dependencies between iterations](https://discourse.llvm.org/t/supporting-memory-reference-dependencies-between-iterations/67050#post_1)
 - [Can I build LLVM using Basel for macOS+arm64](https://discourse.llvm.org/t/can-i-build-llvm-using-basel-for-macos-arm64/67043#post_2)
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_10)
-- [Create a new FuncOp in MLIR](https://discourse.llvm.org/t/create-a-new-funcop-in-mlir/66898#post_5)
-- [Mlir slice](https://discourse.llvm.org/t/mlir-slice/67023#post_5)
-- [Math Dialect match and rewrite patterns](https://discourse.llvm.org/t/math-dialect-match-and-rewrite-patterns/67021#post_3)
 <!-- DISCOURSE-LLVM:END -->
