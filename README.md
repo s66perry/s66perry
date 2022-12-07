@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Syncing Asm Goto with Outputs with GCC](https://discourse.llvm.org/t/rfc-syncing-asm-goto-with-outputs-with-gcc/65453#post_6)
-- [How to use equivalent eu-unstrip with llvm-objcopy + llvm-strip](https://discourse.llvm.org/t/how-to-use-equivalent-eu-unstrip-with-llvm-objcopy-llvm-strip/67062#post_2)
-- [Can I build LLVM using Basel for macOS+arm64](https://discourse.llvm.org/t/can-i-build-llvm-using-basel-for-macos-arm64/67043#post_4)
-- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_37)
-- [How to use equivalent eu-unstrip with llvm-objcopy + llvm-strip](https://discourse.llvm.org/t/how-to-use-equivalent-eu-unstrip-with-llvm-objcopy-llvm-strip/67062#post_1)
+- [RISC-V LLVM sync-up call 8th December 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-8th-december-2022/67065#post_1)
+- [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_9)
+- [Clang is overly aggressive when evaluating constexpr functions](https://discourse.llvm.org/t/clang-is-overly-aggressive-when-evaluating-constexpr-functions/67006#post_3)
+- [Clang is overly aggressive when evaluating constexpr functions](https://discourse.llvm.org/t/clang-is-overly-aggressive-when-evaluating-constexpr-functions/67006#post_2)
+- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_13)
 <!-- DISCOURSE-LLVM:END -->
