@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can I build LLVM using Basel for macOS+arm64 and/or iOS/arm64?](https://discourse.llvm.org/t/can-i-build-llvm-using-basel-for-macos-arm64-and-or-ios-arm64/67043#post_1)
+- [Can I build LLVM using Basel for macOS+arm64](https://discourse.llvm.org/t/can-i-build-llvm-using-basel-for-macos-arm64/67043#post_1)
 - [How to allocate consecutive registers? &lpar;Array register files?&rpar;](https://discourse.llvm.org/t/how-to-allocate-consecutive-registers-array-register-files/66601#post_9)
 - [Is LLVM Flang runtime thread-safe?](https://discourse.llvm.org/t/is-llvm-flang-runtime-thread-safe/66879#post_8)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon Dec 5 ‘22 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-dec-5-22-6pm/66871#post_2)
