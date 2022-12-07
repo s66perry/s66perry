@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631?page=2#post_30)
 - [Use analysis results in transform dialect operations?](https://discourse.llvm.org/t/use-analysis-results-in-transform-dialect-operations/67056#post_2)
 - [Help wanted with LLVM build failure on Linux using GitHub master branch](https://discourse.llvm.org/t/help-wanted-with-llvm-build-failure-on-linux-using-github-master-branch/67038#post_3)
 - [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408?page=2#post_22)
 - [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129?page=2#post_22)
-- [Use analysis results in transform dialect operations?](https://discourse.llvm.org/t/use-analysis-results-in-transform-dialect-operations/67056#post_1)
 <!-- DISCOURSE-LLVM:END -->
