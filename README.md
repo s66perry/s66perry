@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Removing bugpoint &lpar;as part of new pass manager migration&rpar;](https://discourse.llvm.org/t/rfc-removing-bugpoint-as-part-of-new-pass-manager-migration/61596#post_19)
+- [Can I build LLVM using Basel for macOS+arm64](https://discourse.llvm.org/t/can-i-build-llvm-using-basel-for-macos-arm64/67043#post_3)
+- [replaceOp&lpar;&rpar; working](https://discourse.llvm.org/t/replaceop-working/67052#post_2)
 - [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408#post_21)
 - [replaceOp&lpar;&rpar; working](https://discourse.llvm.org/t/replaceop-working/67052#post_1)
-- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776?page=2#post_25)
-- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776?page=2#post_24)
-- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
