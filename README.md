@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [replaceOp&lpar;&rpar; working](https://discourse.llvm.org/t/replaceop-working/67052#post_1)
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776?page=2#post_25)
+- [[RFC] Runtime Op Verification](https://discourse.llvm.org/t/rfc-runtime-op-verification/66776?page=2#post_24)
+- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129?page=2#post_21)
 - [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129#post_20)
-- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129#post_19)
-- [Math Dialect match and rewrite patterns](https://discourse.llvm.org/t/math-dialect-match-and-rewrite-patterns/67021#post_4)
-- [Supporting memory reference dependencies between iterations](https://discourse.llvm.org/t/supporting-memory-reference-dependencies-between-iterations/67050#post_1)
-- [Can I build LLVM using Basel for macOS+arm64](https://discourse.llvm.org/t/can-i-build-llvm-using-basel-for-macos-arm64/67043#post_2)
 <!-- DISCOURSE-LLVM:END -->
