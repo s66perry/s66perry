@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408?page=2#post_30)
+- [Build of 14.06 fails on armv7 due to libatomic not being linked](https://discourse.llvm.org/t/build-of-14-06-fails-on-armv7-due-to-libatomic-not-being-linked/67091#post_3)
+- [Build of 14.06 fails on armv7 due to libatomic not being linked](https://discourse.llvm.org/t/build-of-14-06-fails-on-armv7-due-to-libatomic-not-being-linked/67091#post_2)
+- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408?page=2#post_29)
 - [Why aren&#39;t these vector ops converted to LLVM?](https://discourse.llvm.org/t/why-arent-these-vector-ops-converted-to-llvm/67092#post_2)
-- [Optimizer emitting wrong alignment for atomic store](https://discourse.llvm.org/t/optimizer-emitting-wrong-alignment-for-atomic-store/67073#post_3)
-- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_41)
-- [Why aren&#39;t these vector ops converted to LLVM?](https://discourse.llvm.org/t/why-arent-these-vector-ops-converted-to-llvm/67092#post_1)
-- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_40)
 <!-- DISCOURSE-LLVM:END -->
