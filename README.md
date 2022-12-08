@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Caller pass a local variable as const reference to callee &lpar;function definition&rpar;; shall the local variable be SROA&#39;ed?](https://discourse.llvm.org/t/caller-pass-a-local-variable-as-const-reference-to-callee-function-definition-shall-the-local-variable-be-sroaed/67095#post_2)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094#post_2)
+- [Caller pass a local variable as const reference to callee &lpar;function definition&rpar;; shall the local variable be SROA&#39;ed?](https://discourse.llvm.org/t/caller-pass-a-local-variable-as-const-reference-to-callee-function-definition-shall-the-local-variable-be-sroaed/67095#post_1)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094#post_1)
 - [Build of 14.06 fails on armv7 due to libatomic not being linked](https://discourse.llvm.org/t/build-of-14-06-fails-on-armv7-due-to-libatomic-not-being-linked/67091#post_4)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408?page=2#post_30)
-- [Build of 14.06 fails on armv7 due to libatomic not being linked](https://discourse.llvm.org/t/build-of-14-06-fails-on-armv7-due-to-libatomic-not-being-linked/67091#post_3)
-- [Build of 14.06 fails on armv7 due to libatomic not being linked](https://discourse.llvm.org/t/build-of-14-06-fails-on-armv7-due-to-libatomic-not-being-linked/67091#post_2)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
