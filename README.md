@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Bazel build on macOS failed: no member named &#39;syscall_impl&#39; in namespace &#39;__llvm_libc&#39;](https://discourse.llvm.org/t/bazel-build-on-macos-failed-no-member-named-syscall-impl-in-namespace-llvm-libc/67074#post_2)
-- [Bazel build on macOS failed: no member named &#39;syscall_impl&#39; in namespace &#39;__llvm_libc&#39;](https://discourse.llvm.org/t/bazel-build-on-macos-failed-no-member-named-syscall-impl-in-namespace-llvm-libc/67074#post_1)
-- [Optimizer emitting unaligned atomic store](https://discourse.llvm.org/t/optimizer-emitting-unaligned-atomic-store/67073#post_1)
-- [CAPI and Python Bindings Support for Value uses](https://discourse.llvm.org/t/capi-and-python-bindings-support-for-value-uses/65458#post_3)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_15)
+- [How do I detect if a RecordDecl has unnamed initializations?](https://discourse.llvm.org/t/how-do-i-detect-if-a-recorddecl-has-unnamed-initializations/67079#post_1)
+- [Optimizer emitting wrong alignment for atomic store](https://discourse.llvm.org/t/optimizer-emitting-wrong-alignment-for-atomic-store/67073#post_2)
+- [Clang is overly aggressive when evaluating constexpr functions](https://discourse.llvm.org/t/clang-is-overly-aggressive-when-evaluating-constexpr-functions/67006#post_4)
+- [The way to utilize metadata in IR from MachineInstr](https://discourse.llvm.org/t/the-way-to-utilize-metadata-in-ir-from-machineinstr/67077#post_1)
+- [replaceOp&lpar;&rpar; working](https://discourse.llvm.org/t/replaceop-working/67052#post_3)
 <!-- DISCOURSE-LLVM:END -->
