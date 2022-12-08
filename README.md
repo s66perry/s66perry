@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_14)
-- [Splitting the diagnostic text field into a summary field and a reason field](https://discourse.llvm.org/t/splitting-the-diagnostic-text-field-into-a-summary-field-and-a-reason-field/67068#post_1)
-- [[remote] Veridise is hiring LLVM Engineers](https://discourse.llvm.org/t/remote-veridise-is-hiring-llvm-engineers/67067#post_1)
-- [RISC-V LLVM sync-up call 8th December 2022](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-8th-december-2022/67065#post_1)
-- [LLVM 15.0.6 was tagged](https://discourse.llvm.org/t/llvm-15-0-6-was-tagged/66886#post_9)
+- [CAPI and Python Bindings Support for Value uses](https://discourse.llvm.org/t/capi-and-python-bindings-support-for-value-uses/65458#post_3)
+- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_15)
+- [Red bot keeps notifying?](https://discourse.llvm.org/t/red-bot-keeps-notifying/67055#post_2)
+- [No &#39;Target&#39; subclasses defined](https://discourse.llvm.org/t/no-target-subclasses-defined/67069#post_1)
+- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=3#post_41)
 <!-- DISCOURSE-LLVM:END -->
