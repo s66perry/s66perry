@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Caller pass a local variable as const reference to callee &lpar;function definition&rpar;; shall the local variable be SROA&#39;ed?](https://discourse.llvm.org/t/caller-pass-a-local-variable-as-const-reference-to-callee-function-definition-shall-the-local-variable-be-sroaed/67095#post_2)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094#post_2)
-- [Caller pass a local variable as const reference to callee &lpar;function definition&rpar;; shall the local variable be SROA&#39;ed?](https://discourse.llvm.org/t/caller-pass-a-local-variable-as-const-reference-to-callee-function-definition-shall-the-local-variable-be-sroaed/67095#post_1)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094#post_1)
-- [Build of 14.06 fails on armv7 due to libatomic not being linked](https://discourse.llvm.org/t/build-of-14-06-fails-on-armv7-due-to-libatomic-not-being-linked/67091#post_4)
+- [Bazel build on macOS failed: no member named &#39;syscall_impl&#39; in namespace &#39;__llvm_libc&#39;](https://discourse.llvm.org/t/bazel-build-on-macos-failed-no-member-named-syscall-impl-in-namespace-llvm-libc/67074#post_3)
+- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_17)
+- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_16)
+- [[RFC] Let clang use system GPU as default offload arch for HIP](https://discourse.llvm.org/t/rfc-let-clang-use-system-gpu-as-default-offload-arch-for-hip/66950#post_6)
+- [Missing optimization case in not equal &lpar;!=&rpar; binary operator](https://discourse.llvm.org/t/missing-optimization-case-in-not-equal-binary-operator/67097#post_1)
 <!-- DISCOURSE-LLVM:END -->
