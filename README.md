@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Syncing Asm Goto with Outputs with GCC](https://discourse.llvm.org/t/rfc-syncing-asm-goto-with-outputs-with-gcc/65453#post_7)
+- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_15)
+- [Instcombine, struct w/ padding &amp; aggregate loads/stores as scalars](https://discourse.llvm.org/t/instcombine-struct-w-padding-aggregate-loads-stores-as-scalars/67035#post_4)
+- [replaceOp&lpar;&rpar; working](https://discourse.llvm.org/t/replaceop-working/67052#post_4)
 - [How do I detect if a RecordDecl has unnamed initializations?](https://discourse.llvm.org/t/how-do-i-detect-if-a-recorddecl-has-unnamed-initializations/67079#post_1)
-- [Optimizer emitting wrong alignment for atomic store](https://discourse.llvm.org/t/optimizer-emitting-wrong-alignment-for-atomic-store/67073#post_2)
-- [Clang is overly aggressive when evaluating constexpr functions](https://discourse.llvm.org/t/clang-is-overly-aggressive-when-evaluating-constexpr-functions/67006#post_4)
-- [The way to utilize metadata in IR from MachineInstr](https://discourse.llvm.org/t/the-way-to-utilize-metadata-in-ir-from-machineinstr/67077#post_1)
-- [replaceOp&lpar;&rpar; working](https://discourse.llvm.org/t/replaceop-working/67052#post_3)
 <!-- DISCOURSE-LLVM:END -->
