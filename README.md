@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_1)
-- [LLVM AArch64 Baremetal linker script](https://discourse.llvm.org/t/llvm-aarch64-baremetal-linker-script/67085#post_1)
-- [Build clang libcxx libcxxabi libunwind compiler-rt error](https://discourse.llvm.org/t/build-clang-libcxx-libcxxabi-libunwind-compiler-rt-error/67082#post_2)
-- [Instcombine, struct w/ padding &amp; aggregate loads/stores as scalars](https://discourse.llvm.org/t/instcombine-struct-w-padding-aggregate-loads-stores-as-scalars/67035#post_6)
-- [Build clang libcxx libcxxabi libunwind compiler-rt error](https://discourse.llvm.org/t/build-clang-libcxx-libcxxabi-libunwind-compiler-rt-error/67082#post_1)
+- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_3)
+- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_2)
+- [Creating releases for Ubuntu 22.04](https://discourse.llvm.org/t/creating-releases-for-ubuntu-22-04/67087#post_1)
+- [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_3)
+- [The way to access metadata in IR from MachineInstr](https://discourse.llvm.org/t/the-way-to-access-metadata-in-ir-from-machineinstr/67077#post_2)
 <!-- DISCOURSE-LLVM:END -->
