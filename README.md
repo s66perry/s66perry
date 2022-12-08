@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_39)
-- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_14)
-- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_13)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408?page=2#post_28)
-- [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_5)
+- [Why aren&#39;t these vector ops converted to LLVM?](https://discourse.llvm.org/t/why-arent-these-vector-ops-converted-to-llvm/67092#post_2)
+- [Optimizer emitting wrong alignment for atomic store](https://discourse.llvm.org/t/optimizer-emitting-wrong-alignment-for-atomic-store/67073#post_3)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_41)
+- [Why aren&#39;t these vector ops converted to LLVM?](https://discourse.llvm.org/t/why-arent-these-vector-ops-converted-to-llvm/67092#post_1)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=2#post_40)
 <!-- DISCOURSE-LLVM:END -->
