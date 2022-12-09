@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094#post_9)
-- [Add a new builtin to clang with a typeof as a parameter](https://discourse.llvm.org/t/add-a-new-builtin-to-clang-with-a-typeof-as-a-parameter/67106#post_1)
-- [A question about neglect of &#39;include-fixed&#39; using libclang with GCC toolchain only](https://discourse.llvm.org/t/a-question-about-neglect-of-include-fixed-using-libclang-with-gcc-toolchain-only/67061#post_6)
-- [A question about neglect of &#39;include-fixed&#39; using libclang with GCC toolchain only](https://discourse.llvm.org/t/a-question-about-neglect-of-include-fixed-using-libclang-with-gcc-toolchain-only/67061#post_5)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094#post_8)
+- [Q&amp;A: clangd&#39;s parser design](https://discourse.llvm.org/t/q-a-clangds-parser-design/67096#post_5)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_19)
+- [Q&amp;A: clangd&#39;s parser design](https://discourse.llvm.org/t/q-a-clangds-parser-design/67096#post_4)
+- [Q&amp;A: clangd&#39;s parser design](https://discourse.llvm.org/t/q-a-clangds-parser-design/67096#post_3)
+- [Stack probing similar to -fstack-check](https://discourse.llvm.org/t/stack-probing-similar-to-fstack-check/67108#post_1)
 <!-- DISCOURSE-LLVM:END -->
