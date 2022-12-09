@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_18)
-- [Mismatch between DFA and Scoreboard](https://discourse.llvm.org/t/mismatch-between-dfa-and-scoreboard/63053#post_9)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094#post_14)
-- [Non-deterministic diagnostics due to parallelism](https://discourse.llvm.org/t/non-deterministic-diagnostics-due-to-parallelism/64389?page=2#post_25)
-- [The way to access metadata in IR from MachineInstr](https://discourse.llvm.org/t/the-way-to-access-metadata-in-ir-from-machineinstr/67077#post_5)
+- [Interface inheritance and dependencies, interface method visibility, interface composition](https://discourse.llvm.org/t/interface-inheritance-and-dependencies-interface-method-visibility-interface-composition/66380#post_15)
+- [Add a new builtin to clang with a typeof as a parameter](https://discourse.llvm.org/t/add-a-new-builtin-to-clang-with-a-typeof-as-a-parameter/67106#post_3)
+- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_20)
+- [Interface inheritance and dependencies, interface method visibility, interface composition](https://discourse.llvm.org/t/interface-inheritance-and-dependencies-interface-method-visibility-interface-composition/66380#post_14)
+- [Aggregating builders and deprecate Buildbot as the one ring](https://discourse.llvm.org/t/aggregating-builders-and-deprecate-buildbot-as-the-one-ring/67086#post_19)
 <!-- DISCOURSE-LLVM:END -->
