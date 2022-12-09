@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Q&amp;A: clangd&#39;s parser design](https://discourse.llvm.org/t/q-a-clangds-parser-design/67096#post_5)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_19)
-- [Q&amp;A: clangd&#39;s parser design](https://discourse.llvm.org/t/q-a-clangds-parser-design/67096#post_4)
-- [Q&amp;A: clangd&#39;s parser design](https://discourse.llvm.org/t/q-a-clangds-parser-design/67096#post_3)
-- [Stack probing similar to -fstack-check](https://discourse.llvm.org/t/stack-probing-similar-to-fstack-check/67108#post_1)
+- [Interface inheritance and dependencies, interface method visibility, interface composition](https://discourse.llvm.org/t/interface-inheritance-and-dependencies-interface-method-visibility-interface-composition/66380#post_13)
+- [Mismatch between DFA and Scoreboard](https://discourse.llvm.org/t/mismatch-between-dfa-and-scoreboard/63053#post_8)
+- [Add a new builtin to clang with a typeof as a parameter](https://discourse.llvm.org/t/add-a-new-builtin-to-clang-with-a-typeof-as-a-parameter/67106#post_2)
+- [__unw_add_dynamic_fde - not found issue](https://discourse.llvm.org/t/unw-add-dynamic-fde-not-found-issue/67113#post_2)
+- [[PSA] Retire Linalg filter-based patterns](https://discourse.llvm.org/t/psa-retire-linalg-filter-based-patterns/63785#post_3)
 <!-- DISCOURSE-LLVM:END -->
