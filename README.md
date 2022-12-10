@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129?page=2#post_23)
+- [No &#39;Target&#39; subclasses defined](https://discourse.llvm.org/t/no-target-subclasses-defined/67069#post_4)
+- [Perf2bolt fails with PERF-ERROR: return code 1](https://discourse.llvm.org/t/perf2bolt-fails-with-perf-error-return-code-1/66769#post_6)
 - [No &#39;Target&#39; subclasses defined](https://discourse.llvm.org/t/no-target-subclasses-defined/67069#post_3)
 - [The way to access metadata in IR from MachineInstr](https://discourse.llvm.org/t/the-way-to-access-metadata-in-ir-from-machineinstr/67077#post_6)
-- [No &#39;Target&#39; subclasses defined](https://discourse.llvm.org/t/no-target-subclasses-defined/67069#post_2)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_31)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
