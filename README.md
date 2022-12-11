@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_33)
 - [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_10)
 - [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_9)
 - [Lld cannot make PIE binaries on x32](https://discourse.llvm.org/t/lld-cannot-make-pie-binaries-on-x32/67131#post_1)
 - [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_8)
-- [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_7)
 <!-- DISCOURSE-LLVM:END -->
