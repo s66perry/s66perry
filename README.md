@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129?page=2#post_24)
 - [Compiler-rt and libunwind request for infomation](https://discourse.llvm.org/t/compiler-rt-and-libunwind-request-for-infomation/67132#post_3)
 - [Index problem after rewriting AffineLoad/StoreOp](https://discourse.llvm.org/t/index-problem-after-rewriting-affineload-storeop/67133#post_1)
 - [Compiler-rt and libunwind request for infomation](https://discourse.llvm.org/t/compiler-rt-and-libunwind-request-for-infomation/67132#post_2)
 - [Compiler-rt and libunwind request for infomation](https://discourse.llvm.org/t/compiler-rt-and-libunwind-request-for-infomation/67132#post_1)
-- [Relax/no-relax is not honored with clang&lpar;trunk&rpar;](https://discourse.llvm.org/t/relax-no-relax-is-not-honored-with-clang-trunk/67105#post_6)
 <!-- DISCOURSE-LLVM:END -->
