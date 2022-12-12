@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #467, December 12th 2022](https://discourse.llvm.org/t/llvm-weekly-467-december-12th-2022/67146#post_1)
+- [Use analysis results in transform dialect operations?](https://discourse.llvm.org/t/use-analysis-results-in-transform-dialect-operations/67056#post_4)
+- [LLVM 15 default PIE issue](https://discourse.llvm.org/t/llvm-15-default-pie-issue/67125#post_8)
+- [[PSA] MLIR visualizers for LLDB 16](https://discourse.llvm.org/t/psa-mlir-visualizers-for-lldb-16/67145#post_4)
 - [[PSA] MLIR visualizers for LLDB 16](https://discourse.llvm.org/t/psa-mlir-visualizers-for-lldb-16/67145#post_3)
-- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129?page=2#post_26)
-- [The libc implementation for the GPUs](https://discourse.llvm.org/t/the-libc-implementation-for-the-gpus/66129?page=2#post_25)
-- [How to build &quot;libeling_rt.builtins-riscv32.a&quot;](https://discourse.llvm.org/t/how-to-build-libeling-rt-builtins-riscv32-a/67142#post_2)
-- [[PSA] MLIR visualizers for LLDB 16](https://discourse.llvm.org/t/psa-mlir-visualizers-for-lldb-16/67145#post_2)
 <!-- DISCOURSE-LLVM:END -->
