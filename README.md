@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_7)
+- [How to print out the Polly passes used in Clang?](https://discourse.llvm.org/t/how-to-print-out-the-polly-passes-used-in-clang/67152#post_1)
 - [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_6)
 - [Minimum / Recommended hardware requirements for compiling LLVM](https://discourse.llvm.org/t/minimum-recommended-hardware-requirements-for-compiling-llvm/67151#post_4)
 - [Minimum / Recommended hardware requirements for compiling LLVM](https://discourse.llvm.org/t/minimum-recommended-hardware-requirements-for-compiling-llvm/67151#post_3)
-- [Minimum / Recommended hardware requirements for compiling LLVM](https://discourse.llvm.org/t/minimum-recommended-hardware-requirements-for-compiling-llvm/67151#post_2)
-- [Minimum / Recommended hardware requirements for compiling LLVM](https://discourse.llvm.org/t/minimum-recommended-hardware-requirements-for-compiling-llvm/67151#post_1)
 <!-- DISCOURSE-LLVM:END -->
