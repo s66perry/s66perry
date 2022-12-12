@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Interactive kernel/user-space co-debugging with Scripted Processes](https://discourse.llvm.org/t/rfc-interactive-kernel-user-space-co-debugging-with-scripted-processes/66907#post_5)
+- [Use analysis results in transform dialect operations?](https://discourse.llvm.org/t/use-analysis-results-in-transform-dialect-operations/67056#post_5)
+- [LLVM 15 default PIE issue](https://discourse.llvm.org/t/llvm-15-default-pie-issue/67125#post_9)
+- [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_14)
 - [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_7)
-- [How to print out the Polly passes used in Clang?](https://discourse.llvm.org/t/how-to-print-out-the-polly-passes-used-in-clang/67152#post_1)
-- [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_6)
-- [Minimum / Recommended hardware requirements for compiling LLVM](https://discourse.llvm.org/t/minimum-recommended-hardware-requirements-for-compiling-llvm/67151#post_4)
-- [Minimum / Recommended hardware requirements for compiling LLVM](https://discourse.llvm.org/t/minimum-recommended-hardware-requirements-for-compiling-llvm/67151#post_3)
 <!-- DISCOURSE-LLVM:END -->
