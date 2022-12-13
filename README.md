@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_36)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_35)
+- [Q on Flang&#39;s lit testing](https://discourse.llvm.org/t/q-on-flangs-lit-testing/67186#post_5)
+- [Q on Flang&#39;s lit testing](https://discourse.llvm.org/t/q-on-flangs-lit-testing/67186#post_4)
 - [When are versions of clang considered no longer supported?](https://discourse.llvm.org/t/when-are-versions-of-clang-considered-no-longer-supported/67187#post_2)
-- [Loop unrolling in large functions and compile time](https://discourse.llvm.org/t/loop-unrolling-in-large-functions-and-compile-time/67164#post_6)
-- [Loop unrolling in large functions and compile time](https://discourse.llvm.org/t/loop-unrolling-in-large-functions-and-compile-time/67164#post_5)
-- [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_15)
-- [Stack probing similar to -fstack-check](https://discourse.llvm.org/t/stack-probing-similar-to-fstack-check/67108#post_4)
 <!-- DISCOURSE-LLVM:END -->
