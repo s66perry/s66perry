@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Minimum / Recommended hardware requirements for compiling LLVM](https://discourse.llvm.org/t/minimum-recommended-hardware-requirements-for-compiling-llvm/67151#post_5)
-- [How to create unspillable live interval zone for a set of regs but not allocating them?](https://discourse.llvm.org/t/how-to-create-unspillable-live-interval-zone-for-a-set-of-regs-but-not-allocating-them/67175#post_2)
-- [LLVM 15 default PIE issue](https://discourse.llvm.org/t/llvm-15-default-pie-issue/67125#post_15)
-- [RFC: Switching from llvm::Any to std::any](https://discourse.llvm.org/t/rfc-switching-from-llvm-any-to-std-any/67176#post_3)
-- [RFC: Switching from llvm::Any to std::any](https://discourse.llvm.org/t/rfc-switching-from-llvm-any-to-std-any/67176#post_2)
+- [Problem with library search paths and cmake and debian bullseye](https://discourse.llvm.org/t/problem-with-library-search-paths-and-cmake-and-debian-bullseye/67183#post_1)
+- [RFC: Switching from llvm::Any to std::any](https://discourse.llvm.org/t/rfc-switching-from-llvm-any-to-std-any/67176#post_5)
+- [RFC: Switching from llvm::Any to std::any](https://discourse.llvm.org/t/rfc-switching-from-llvm-any-to-std-any/67176#post_4)
+- [Datalayout optimization and load reordering](https://discourse.llvm.org/t/datalayout-optimization-and-load-reordering/67181#post_1)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_17)
 <!-- DISCOURSE-LLVM:END -->
