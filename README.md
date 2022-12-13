@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_2)
+- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_1)
+- [Use analysis results in transform dialect operations?](https://discourse.llvm.org/t/use-analysis-results-in-transform-dialect-operations/67056#post_6)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_18)
 - [2022 LLVM Developers&#39; Meeting Videos Posted](https://discourse.llvm.org/t/2022-llvm-developers-meeting-videos-posted/67189#post_1)
-- [Pass to tie an output operand to a subregister of an input operand](https://discourse.llvm.org/t/pass-to-tie-an-output-operand-to-a-subregister-of-an-input-operand/67184#post_3)
-- [Q on Flang&#39;s lit testing](https://discourse.llvm.org/t/q-on-flangs-lit-testing/67186#post_3)
-- [[PSA] MLIR visualizers for LLDB 16](https://discourse.llvm.org/t/psa-mlir-visualizers-for-lldb-16/67145#post_6)
-- [Pass to tie an output operand to a subregister of an input operand](https://discourse.llvm.org/t/pass-to-tie-an-output-operand-to-a-subregister-of-an-input-operand/67184#post_2)
 <!-- DISCOURSE-LLVM:END -->
