@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_36)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_35)
-- [Q on Flang&#39;s lit testing](https://discourse.llvm.org/t/q-on-flangs-lit-testing/67186#post_5)
-- [Q on Flang&#39;s lit testing](https://discourse.llvm.org/t/q-on-flangs-lit-testing/67186#post_4)
-- [When are versions of clang considered no longer supported?](https://discourse.llvm.org/t/when-are-versions-of-clang-considered-no-longer-supported/67187#post_2)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_20)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_41)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740#post_19)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_40)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
