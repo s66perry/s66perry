@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Open MLIR Meeting 12/15/2022: Embedded reactive programming in MLIR](https://discourse.llvm.org/t/open-mlir-meeting-12-15-2022-embedded-reactive-programming-in-mlir/67197#post_1)
+- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_6)
+- [[AVR] alloca bug?](https://discourse.llvm.org/t/avr-alloca-bug/67080#post_17)
+- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_5)
 - [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_4)
-- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_3)
-- [RFC: Switching from llvm::Any to std::any](https://discourse.llvm.org/t/rfc-switching-from-llvm-any-to-std-any/67176#post_11)
-- [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_10)
-- [Steps to implement codegen for a new target &lpar;newbie question&rpar;](https://discourse.llvm.org/t/steps-to-implement-codegen-for-a-new-target-newbie-question/66546#post_7)
 <!-- DISCOURSE-LLVM:END -->
