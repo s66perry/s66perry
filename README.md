@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_7)
-- [[Bug 52017] New: LLDB keeps DLL loaded after FreeLibrary is called.](https://discourse.llvm.org/t/bug-52017-new-lldb-keeps-dll-loaded-after-freelibrary-is-called/59016#post_6)
-- [Error: &quot;xlen must be 32 or 64 for save-restore implementation](https://discourse.llvm.org/t/error-xlen-must-be-32-or-64-for-save-restore-implementation/67141#post_7)
-- [Error: &quot;xlen must be 32 or 64 for save-restore implementation](https://discourse.llvm.org/t/error-xlen-must-be-32-or-64-for-save-restore-implementation/67141#post_6)
-- [Why is the riscv32 executable compiled by clang several times larger than that compiled by gcc?](https://discourse.llvm.org/t/why-is-the-riscv32-executable-compiled-by-clang-several-times-larger-than-that-compiled-by-gcc/67199#post_1)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_46)
+- [Why is the riscv32 executable compiled by clang several times larger than that compiled by gcc?](https://discourse.llvm.org/t/why-is-the-riscv32-executable-compiled-by-clang-several-times-larger-than-that-compiled-by-gcc/67199#post_3)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_45)
+- [Why is the riscv32 executable compiled by clang several times larger than that compiled by gcc?](https://discourse.llvm.org/t/why-is-the-riscv32-executable-compiled-by-clang-several-times-larger-than-that-compiled-by-gcc/67199#post_2)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_44)
 <!-- DISCOURSE-LLVM:END -->
