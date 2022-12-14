@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_50)
 - [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_11)
 - [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208#post_1)
 - [Why is the riscv32 executable compiled by clang several times larger than that compiled by gcc?](https://discourse.llvm.org/t/why-is-the-riscv32-executable-compiled-by-clang-several-times-larger-than-that-compiled-by-gcc/67199#post_6)
 - [Why is the riscv32 executable compiled by clang several times larger than that compiled by gcc?](https://discourse.llvm.org/t/why-is-the-riscv32-executable-compiled-by-clang-several-times-larger-than-that-compiled-by-gcc/67199#post_5)
-- [Why is the riscv32 executable compiled by clang several times larger than that compiled by gcc?](https://discourse.llvm.org/t/why-is-the-riscv32-executable-compiled-by-clang-several-times-larger-than-that-compiled-by-gcc/67199#post_4)
 <!-- DISCOURSE-LLVM:END -->
