@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Compiler Social Zurich - December](https://discourse.llvm.org/t/llvm-compiler-social-zurich-december/66444#post_2)
-- [VTT for the object shouldn&#39;t be dso_local always](https://discourse.llvm.org/t/vtt-for-the-object-shouldnt-be-dso-local-always/67205#post_1)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_49)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_48)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_47)
+- [No fastmath attribute on `arith::CmpFOp`](https://discourse.llvm.org/t/no-fastmath-attribute-on-arith-cmpfop/67206#post_4)
+- [No fastmath attribute on `arith::CmpFOp`](https://discourse.llvm.org/t/no-fastmath-attribute-on-arith-cmpfop/67206#post_3)
+- [No fastmath attribute on `arith::CmpFOp`](https://discourse.llvm.org/t/no-fastmath-attribute-on-arith-cmpfop/67206#post_2)
+- [No fastmath attribute on `arith::CmpFOp`](https://discourse.llvm.org/t/no-fastmath-attribute-on-arith-cmpfop/67206#post_1)
+- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_10)
 <!-- DISCOURSE-LLVM:END -->
