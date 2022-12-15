@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where does clang install standard library header files, and where does it search for them?](https://discourse.llvm.org/t/where-does-clang-install-standard-library-header-files-and-where-does-it-search-for-them/67229#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208#post_16)
-- [Memory vs synchronization effects](https://discourse.llvm.org/t/memory-vs-synchronization-effects/67227#post_1)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_54)
-- [Raw_string_ostream &lpar;std::string &amp;O&rpar;](https://discourse.llvm.org/t/raw-string-ostream-std-string-o/67222#post_2)
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631?page=2#post_33)
+- [Compiler-rt build and tests](https://discourse.llvm.org/t/compiler-rt-build-and-tests/67231#post_1)
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631?page=2#post_32)
+- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631?page=2#post_31)
+- [Understanding type conversions during dialect conversions](https://discourse.llvm.org/t/understanding-type-conversions-during-dialect-conversions/67230#post_1)
 <!-- DISCOURSE-LLVM:END -->
