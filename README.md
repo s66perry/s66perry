@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Printing QualType with Dependencies resolved](https://discourse.llvm.org/t/printing-qualtype-with-dependencies-resolved/67248#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=2#post_28)
-- [LLVM&#39;s plan for dropping support for legacy non-opaque pointers](https://discourse.llvm.org/t/llvms-plan-for-dropping-support-for-legacy-non-opaque-pointers/67245#post_4)
-- [[RFC] Heterogeneous Debug Info](https://discourse.llvm.org/t/rfc-heterogeneous-debug-info/66872#post_6)
-- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_2)
+- [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_1)
+- [Interpreting the test cases for fixed-point arithmetic](https://discourse.llvm.org/t/interpreting-the-test-cases-for-fixed-point-arithmetic/67218#post_4)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=2#post_29)
+- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_4)
+- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_3)
 <!-- DISCOURSE-LLVM:END -->
