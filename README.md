@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extensible LLVM IR Import](https://discourse.llvm.org/t/rfc-extensible-llvm-ir-import/67256#post_6)
-- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_12)
-- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_11)
-- [[RFC] Extensible LLVM IR Import](https://discourse.llvm.org/t/rfc-extensible-llvm-ir-import/67256#post_5)
-- [[RFC] Extensible LLVM IR Import](https://discourse.llvm.org/t/rfc-extensible-llvm-ir-import/67256#post_4)
+- [Bpf-samples compilation issue](https://discourse.llvm.org/t/bpf-samples-compilation-issue/67258#post_1)
+- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_15)
+- [[RFC] Cleaning up how we link TableGen tools](https://discourse.llvm.org/t/rfc-cleaning-up-how-we-link-tablegen-tools/66678?page=2#post_31)
+- [Change the Address Space of a Type of a Function Argument](https://discourse.llvm.org/t/change-the-address-space-of-a-type-of-a-function-argument/67257#post_2)
+- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_14)
 <!-- DISCOURSE-LLVM:END -->
