@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_3)
-- [Error when adding Clang builtin to connect to LLVM intrinsic](https://discourse.llvm.org/t/error-when-adding-clang-builtin-to-connect-to-llvm-intrinsic/67264#post_1)
-- [[RFC] Extend Linalg named operations for arbitrary element types](https://discourse.llvm.org/t/rfc-extend-linalg-named-operations-for-arbitrary-element-types/5631?page=2#post_34)
-- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_3)
-- [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_2)
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_18)
+- [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_5)
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_17)
+- [Running NVVM on a GPU](https://discourse.llvm.org/t/running-nvvm-on-a-gpu/67266#post_1)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=3#post_44)
 <!-- DISCOURSE-LLVM:END -->
