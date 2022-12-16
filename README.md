@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [New clang-tidy check: finding move candidates](https://discourse.llvm.org/t/new-clang-tidy-check-finding-move-candidates/67252#post_1)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=3#post_42)
 - [How could I add the metadata for inline function name and indirect call function name at the code emitting phase?](https://discourse.llvm.org/t/how-could-i-add-the-metadata-for-inline-function-name-and-indirect-call-function-name-at-the-code-emitting-phase/67250#post_1)
 - [How could I get the classes hierarchy for large code base](https://discourse.llvm.org/t/how-could-i-get-the-classes-hierarchy-for-large-code-base/66975#post_5)
 - [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_8)
-- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_7)
-- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_6)
 <!-- DISCOURSE-LLVM:END -->
