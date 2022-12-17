@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Running NVVM on a GPU](https://discourse.llvm.org/t/running-nvvm-on-a-gpu/67266#post_2)
 - [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_5)
 - [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_4)
 - [&lt;eof&gt; parser at end of file](https://discourse.llvm.org/t/eof-parser-at-end-of-file/67158#post_17)
 - [&lt;eof&gt; parser at end of file](https://discourse.llvm.org/t/eof-parser-at-end-of-file/67158#post_16)
-- [&lt;eof&gt; parser at end of file](https://discourse.llvm.org/t/eof-parser-at-end-of-file/67158#post_15)
 <!-- DISCOURSE-LLVM:END -->
