@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_5)
 - [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_4)
 - [&lt;eof&gt; parser at end of file](https://discourse.llvm.org/t/eof-parser-at-end-of-file/67158#post_17)
 - [&lt;eof&gt; parser at end of file](https://discourse.llvm.org/t/eof-parser-at-end-of-file/67158#post_16)
 - [&lt;eof&gt; parser at end of file](https://discourse.llvm.org/t/eof-parser-at-end-of-file/67158#post_15)
-- [Lld cannot make PIE binaries on x32](https://discourse.llvm.org/t/lld-cannot-make-pie-binaries-on-x32/67131#post_2)
 <!-- DISCOURSE-LLVM:END -->
