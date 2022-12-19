@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Getting a function type from a function value with opaque pointers](https://discourse.llvm.org/t/getting-a-function-type-from-a-function-value-with-opaque-pointers/67280#post_2)
-- [How to identify an instruction that has been lowered by an intrinsic?](https://discourse.llvm.org/t/how-to-identify-an-instruction-that-has-been-lowered-by-an-intrinsic/67278#post_3)
-- [Getting a function type from a function value with opaque pointers](https://discourse.llvm.org/t/getting-a-function-type-from-a-function-value-with-opaque-pointers/67280#post_1)
-- [CFP FOSDEM 2023 LLVM dev room: extended deadline 11th of December](https://discourse.llvm.org/t/cfp-fosdem-2023-llvm-dev-room-extended-deadline-11th-of-december/66495#post_3)
-- [How to identify an instruction that has been lowered by an intrinsic?](https://discourse.llvm.org/t/how-to-identify-an-instruction-that-has-been-lowered-by-an-intrinsic/67278#post_2)
+- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_10)
+- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_35)
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716#post_21)
+- [Getting a function type from a function value with opaque pointers](https://discourse.llvm.org/t/getting-a-function-type-from-a-function-value-with-opaque-pointers/67280#post_4)
+- [Getting a function type from a function value with opaque pointers](https://discourse.llvm.org/t/getting-a-function-type-from-a-function-value-with-opaque-pointers/67280#post_3)
 <!-- DISCOURSE-LLVM:END -->
