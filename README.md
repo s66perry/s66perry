@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CFP FOSDEM 2023 LLVM dev room: extended deadline 11th of December](https://discourse.llvm.org/t/cfp-fosdem-2023-llvm-dev-room-extended-deadline-11th-of-december/66495#post_3)
 - [How to identify an instruction that has been lowered by an intrinsic?](https://discourse.llvm.org/t/how-to-identify-an-instruction-that-has-been-lowered-by-an-intrinsic/67278#post_2)
 - [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_6)
 - [How to identify an instruction that has been lowered by an intrinsic?](https://discourse.llvm.org/t/how-to-identify-an-instruction-that-has-been-lowered-by-an-intrinsic/67278#post_1)
 - [Confusion regarding LiteralExprAst class in AST.h in toy tutorial chap 1](https://discourse.llvm.org/t/confusion-regarding-literalexprast-class-in-ast-h-in-toy-tutorial-chap-1/67277#post_2)
-- [Confusion regarding LiteralExprAst class in AST.h in toy tutorial chap 1](https://discourse.llvm.org/t/confusion-regarding-literalexprast-class-in-ast-h-in-toy-tutorial-chap-1/67277#post_1)
 <!-- DISCOURSE-LLVM:END -->
