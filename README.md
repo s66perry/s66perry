@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Advice about modifying MicrosoftRecordLayoutBuilder](https://discourse.llvm.org/t/advice-about-modifying-microsoftrecordlayoutbuilder/67293#post_3)
-- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_18)
-- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_17)
-- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_16)
-- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262#post_15)
+- [Tips for incremental building](https://discourse.llvm.org/t/tips-for-incremental-building/67289#post_6)
+- [Adding artifacts to existing releases](https://discourse.llvm.org/t/adding-artifacts-to-existing-releases/67296#post_1)
+- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071#post_19)
+- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071#post_18)
+- [Release artifact naming conventions](https://discourse.llvm.org/t/release-artifact-naming-conventions/63872#post_7)
 <!-- DISCOURSE-LLVM:END -->
