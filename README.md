@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Repeated calls to a ROCm kernel are very slow](https://discourse.llvm.org/t/repeated-calls-to-a-rocm-kernel-are-very-slow/67306#post_1)
+- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_9)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=3#post_45)
 - [How to know what is included in each optimization level of Clang？](https://discourse.llvm.org/t/how-to-know-what-is-included-in-each-optimization-level-of-clang/67302#post_3)
 - [[RFC] What is the intended semantic of `memref.reinterpret_cast`?](https://discourse.llvm.org/t/rfc-what-is-the-intended-semantic-of-memref-reinterpret-cast/67259#post_3)
-- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_38)
-- [[RFC] Interfaces and dialects for precise IR transformation control](https://discourse.llvm.org/t/rfc-interfaces-and-dialects-for-precise-ir-transformation-control/60927?page=2#post_37)
-- [Perf2bolt fails with PERF-ERROR: return code 1](https://discourse.llvm.org/t/perf2bolt-fails-with-perf-error-return-code-1/66769#post_8)
 <!-- DISCOURSE-LLVM:END -->
