@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_1)
-- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=3#post_42)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_11)
-- [[RFC] Changing interface of tensor/memref.reshape op](https://discourse.llvm.org/t/rfc-changing-interface-of-tensor-memref-reshape-op/67322#post_3)
-- [Question to LLVM Discord: Why cannot see any channels other than code-of-conduct](https://discourse.llvm.org/t/question-to-llvm-discord-why-cannot-see-any-channels-other-than-code-of-conduct/67312#post_3)
+- [&quot;-mlong-calls &quot; is not effective with clang](https://discourse.llvm.org/t/mlong-calls-is-not-effective-with-clang/67315#post_3)
+- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246#post_17)
+- [&quot;-mlong-calls &quot; is not effective with clang](https://discourse.llvm.org/t/mlong-calls-is-not-effective-with-clang/67315#post_2)
+- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_3)
+- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_2)
 <!-- DISCOURSE-LLVM:END -->
