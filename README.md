@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_9)
+- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_8)
+- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_7)
+- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_6)
 - [New way to check target triple in lit tests](https://discourse.llvm.org/t/new-way-to-check-target-triple-in-lit-tests/67326#post_1)
-- [Advice about modifying MicrosoftRecordLayoutBuilder](https://discourse.llvm.org/t/advice-about-modifying-microsoftrecordlayoutbuilder/67293#post_10)
-- [Advice about modifying MicrosoftRecordLayoutBuilder](https://discourse.llvm.org/t/advice-about-modifying-microsoftrecordlayoutbuilder/67293#post_9)
-- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_5)
-- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_4)
 <!-- DISCOURSE-LLVM:END -->
