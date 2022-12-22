@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_41)
+- [Minimum Python policy/upgrade policy?](https://discourse.llvm.org/t/minimum-python-policy-upgrade-policy/67327#post_2)
+- [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_12)
 - [Why do we allow arith.index_cast on memref / tensor?](https://discourse.llvm.org/t/why-do-we-allow-arith-index-cast-on-memref-tensor/67324#post_11)
 - [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333#post_2)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333#post_1)
-- [Why does the LLD linker not reducing the execution time?](https://discourse.llvm.org/t/why-does-the-lld-linker-not-reducing-the-execution-time/67332#post_1)
-- [Why is the riscv32 executable compiled by clang several times larger than that compiled by gcc?](https://discourse.llvm.org/t/why-is-the-riscv32-executable-compiled-by-clang-several-times-larger-than-that-compiled-by-gcc/67199#post_12)
 <!-- DISCOURSE-LLVM:END -->
