@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Minimum Python policy/upgrade policy?](https://discourse.llvm.org/t/minimum-python-policy-upgrade-policy/67327#post_9)
+- [&quot;-mlong-calls &quot; is not effective with clang](https://discourse.llvm.org/t/mlong-calls-is-not-effective-with-clang/67315#post_6)
 - [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_42)
 - [Minimum Python policy/upgrade policy?](https://discourse.llvm.org/t/minimum-python-policy-upgrade-policy/67327#post_8)
 - [JIT session error while using lli on Windows](https://discourse.llvm.org/t/jit-session-error-while-using-lli-on-windows/67354#post_3)
-- [JIT session error while using lli on Windows](https://discourse.llvm.org/t/jit-session-error-while-using-lli-on-windows/67354#post_2)
-- [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_8)
 <!-- DISCOURSE-LLVM:END -->
