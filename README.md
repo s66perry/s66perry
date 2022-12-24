@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is that possible for CSA to analyze other languages e.g. Java、 JavaScript by transpiling them to clang compatible AST](https://discourse.llvm.org/t/is-that-possible-for-csa-to-analyze-other-languages-e-g-java-javascript-by-transpiling-them-to-clang-compatible-ast/67356#post_4)
+- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=2#post_40)
+- [Math intrinsics](https://discourse.llvm.org/t/math-intrinsics/67192#post_12)
 - [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_11)
 - [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_9)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_21)
-- [LLVM Social Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-social-darmstadt-germany/67364#post_1)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
