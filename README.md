@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Pointers to writing a new backend for beginners?](https://discourse.llvm.org/t/pointers-to-writing-a-new-backend-for-beginners/67409#post_1)
 - [[RFC] A better fold API using more generic Adaptors](https://discourse.llvm.org/t/rfc-a-better-fold-api-using-more-generic-adaptors/67374#post_5)
 - [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_14)
 - [[RFC] A better fold API using more generic Adaptors](https://discourse.llvm.org/t/rfc-a-better-fold-api-using-more-generic-adaptors/67374#post_4)
 - [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=3#post_42)
-- [[RFC] A better fold API using more generic Adaptors](https://discourse.llvm.org/t/rfc-a-better-fold-api-using-more-generic-adaptors/67374#post_3)
 <!-- DISCOURSE-LLVM:END -->
