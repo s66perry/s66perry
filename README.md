@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Binary heap pop-push operation using `pop_heap`](https://discourse.llvm.org/t/binary-heap-pop-push-operation-using-pop-heap/67430#post_1)
+- [&quot;-mlong-calls &quot; is not effective with clang](https://discourse.llvm.org/t/mlong-calls-is-not-effective-with-clang/67315#post_9)
+- [AArch64 Options in clang](https://discourse.llvm.org/t/aarch64-options-in-clang/67429#post_4)
 - [AArch64 Options in clang](https://discourse.llvm.org/t/aarch64-options-in-clang/67429#post_3)
 - [Trying to build OpenMP on Apple Silicon mac fails with link errors](https://discourse.llvm.org/t/trying-to-build-openmp-on-apple-silicon-mac-fails-with-link-errors/67417#post_6)
-- [AArch64 Options in clang](https://discourse.llvm.org/t/aarch64-options-in-clang/67429#post_2)
-- [AArch64 Options in clang](https://discourse.llvm.org/t/aarch64-options-in-clang/67429#post_1)
-- [GPU Workgroup/shared memory address space is hard coded](https://discourse.llvm.org/t/gpu-workgroup-shared-memory-address-space-is-hard-coded/67249#post_10)
 <!-- DISCOURSE-LLVM:END -->
