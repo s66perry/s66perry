@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Calling function pointer](https://discourse.llvm.org/t/calling-function-pointer/67452#post_2)
 - [Calling function pointer](https://discourse.llvm.org/t/calling-function-pointer/67452#post_1)
 - [Clang MD MF emitting absolute paths](https://discourse.llvm.org/t/clang-md-mf-emitting-absolute-paths/67450#post_1)
 - [Impact of default PIE on llvm testing times](https://discourse.llvm.org/t/impact-of-default-pie-on-llvm-testing-times/67445#post_4)
 - [Impact of default PIE on llvm testing times](https://discourse.llvm.org/t/impact-of-default-pie-on-llvm-testing-times/67445#post_3)
-- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
