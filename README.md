@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Impact of default PIE on llvm testing times](https://discourse.llvm.org/t/impact-of-default-pie-on-llvm-testing-times/67445#post_5)
+- [Instrument assembly code to make multiple code regions](https://discourse.llvm.org/t/instrument-assembly-code-to-make-multiple-code-regions/67401#post_4)
 - [[cxx feature check] what satisfies GNU_POSIX_REGEX | POSIX_REGEX?](https://discourse.llvm.org/t/cxx-feature-check-what-satisfies-gnu-posix-regex-posix-regex/2267#post_8)
 - [Calling function pointer](https://discourse.llvm.org/t/calling-function-pointer/67452#post_4)
 - [Is there a way to generate ctags or cscope files?](https://discourse.llvm.org/t/is-there-a-way-to-generate-ctags-or-cscope-files/67464#post_2)
-- [Is there a way to generate ctags or cscope files?](https://discourse.llvm.org/t/is-there-a-way-to-generate-ctags-or-cscope-files/67464#post_1)
-- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=3#post_49)
 <!-- DISCOURSE-LLVM:END -->
