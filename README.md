@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A better fold API using more generic Adaptors](https://discourse.llvm.org/t/rfc-a-better-fold-api-using-more-generic-adaptors/67374#post_8)
+- [[RFC] A better fold API using more generic Adaptors](https://discourse.llvm.org/t/rfc-a-better-fold-api-using-more-generic-adaptors/67374#post_7)
+- [Status of GEPs into vectors of overaligned elements](https://discourse.llvm.org/t/status-of-geps-into-vectors-of-overaligned-elements/67497#post_3)
 - [&lt;eof&gt; parser at end of file](https://discourse.llvm.org/t/eof-parser-at-end-of-file/67158?page=2#post_24)
 - [Buildbot notifications only include author but not committer](https://discourse.llvm.org/t/buildbot-notifications-only-include-author-but-not-committer/67500#post_1)
-- [[RFC] lit&#39;s REQUIRES and triples](https://discourse.llvm.org/t/rfc-lits-requires-and-triples/66041#post_10)
-- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_7)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
