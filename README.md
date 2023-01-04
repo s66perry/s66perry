@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=2#post_21)
+- [Memref.alloca in AMD GPU kernels seem to lower to llvm.alloca with an incorrect address space](https://discourse.llvm.org/t/memref-alloca-in-amd-gpu-kernels-seem-to-lower-to-llvm-alloca-with-an-incorrect-address-space/66864?page=2#post_25)
 - [LLVM Embedded Toolchains Working Group call this Thursday 5th of January](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-5th-of-january/67493#post_1)
 - [Extending the LLVM dialect InlinerInterface](https://discourse.llvm.org/t/extending-the-llvm-dialect-inlinerinterface/67469#post_4)
 - [Extending the LLVM dialect InlinerInterface](https://discourse.llvm.org/t/extending-the-llvm-dialect-inlinerinterface/67469#post_3)
-- [Extend MD_prof branch weights metadata from 32 to 64 bits](https://discourse.llvm.org/t/extend-md-prof-branch-weights-metadata-from-32-to-64-bits/67492#post_1)
-- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481#post_6)
 <!-- DISCOURSE-LLVM:END -->
