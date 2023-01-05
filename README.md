@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Tutorial Ch6 failed with error “Dialect `func&#39; not found for custom op &#39;func.func‘”](https://discourse.llvm.org/t/mlir-tutorial-ch6-failed-with-error-dialect-func-not-found-for-custom-op-func-func/67461#post_4)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=2#post_32)
-- [MLIR Tutorial Ch6 failed with error “Dialect `func&#39; not found for custom op &#39;func.func‘”](https://discourse.llvm.org/t/mlir-tutorial-ch6-failed-with-error-dialect-func-not-found-for-custom-op-func-func/67461#post_3)
-- [Llvm-bolt --reg-reassin core dump when the input binary&lpar;mysqld&rpar; is PGO optimized](https://discourse.llvm.org/t/llvm-bolt-reg-reassin-core-dump-when-the-input-binary-mysqld-is-pgo-optimized/67380#post_5)
-- [Llvm-bolt --reg-reassin core dump when the input binary&lpar;mysqld&rpar; is PGO optimized](https://discourse.llvm.org/t/llvm-bolt-reg-reassin-core-dump-when-the-input-binary-mysqld-is-pgo-optimized/67380#post_4)
+- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_9)
+- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=2#post_33)
+- [Status of GEPs into vectors of overaligned elements](https://discourse.llvm.org/t/status-of-geps-into-vectors-of-overaligned-elements/67497#post_4)
+- [MLIR Summit OpenMP Roundtable discussion &lpar;Summary&rpar;](https://discourse.llvm.org/t/mlir-summit-openmp-roundtable-discussion-summary/66574#post_8)
+- [Supporting memory reference dependencies between iterations](https://discourse.llvm.org/t/supporting-memory-reference-dependencies-between-iterations/67050#post_3)
 <!-- DISCOURSE-LLVM:END -->
