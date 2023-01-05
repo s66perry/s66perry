@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=2#post_35)
+- [Std::variant exception specification](https://discourse.llvm.org/t/std-variant-exception-specification/67511#post_3)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_37)
 - [[Proposed breaking change/RFC] Remove min and max from -arith-expand-ops](https://discourse.llvm.org/t/proposed-breaking-change-rfc-remove-min-and-max-from-arith-expand-ops/67456#post_10)
 - [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_44)
-- [Std::variant exception specification](https://discourse.llvm.org/t/std-variant-exception-specification/67511#post_2)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_43)
-- [Std::variant exception specification](https://discourse.llvm.org/t/std-variant-exception-specification/67511#post_1)
 <!-- DISCOURSE-LLVM:END -->
