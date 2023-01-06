@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can&#39;t link soft-float modules with double-float modules](https://discourse.llvm.org/t/cant-link-soft-float-modules-with-double-float-modules/67521#post_2)
+- [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_3)
+- [Binary payload in MLIR files](https://discourse.llvm.org/t/binary-payload-in-mlir-files/67529#post_1)
 - [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_2)
 - [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_1)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270#post_21)
-- [Extending the LLVM dialect InlinerInterface](https://discourse.llvm.org/t/extending-the-llvm-dialect-inlinerinterface/67469#post_5)
-- [The member function of mlir::detail::StorageUserTraitBase&lt; ConcreteType, TraitType &gt;](https://discourse.llvm.org/t/the-member-function-of-mlir-storageusertraitbase-concretetype-traittype/67524#post_1)
 <!-- DISCOURSE-LLVM:END -->
