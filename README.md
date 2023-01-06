@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm-bolt --reg-reassin core dump when the input binary&lpar;mysqld&rpar; is PGO optimized](https://discourse.llvm.org/t/llvm-bolt-reg-reassin-core-dump-when-the-input-binary-mysqld-is-pgo-optimized/67380#post_6)
+- [GPU Working Group Meeting -- Friday, January 6, 2023](https://discourse.llvm.org/t/gpu-working-group-meeting-friday-january-6-2023/67503#post_2)
+- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_46)
 - [[Proposed breaking change/RFC] Remove min and max from -arith-expand-ops](https://discourse.llvm.org/t/proposed-breaking-change-rfc-remove-min-and-max-from-arith-expand-ops/67456#post_13)
 - [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_45)
-- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481#post_7)
-- [[Proposed breaking change/RFC] Remove min and max from -arith-expand-ops](https://discourse.llvm.org/t/proposed-breaking-change-rfc-remove-min-and-max-from-arith-expand-ops/67456#post_12)
-- [[Proposed breaking change/RFC] Remove min and max from -arith-expand-ops](https://discourse.llvm.org/t/proposed-breaking-change-rfc-remove-min-and-max-from-arith-expand-ops/67456#post_11)
 <!-- DISCOURSE-LLVM:END -->
