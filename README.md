@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_53)
-- [BPF target support in LLVM toolchain Build in buildroot environment](https://discourse.llvm.org/t/bpf-target-support-in-llvm-toolchain-build-in-buildroot-environment/67531#post_5)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_52)
-- [BPF target support in LLVM toolchain Build in buildroot environment](https://discourse.llvm.org/t/bpf-target-support-in-llvm-toolchain-build-in-buildroot-environment/67531#post_4)
-- [Optimization issue - how do I use normal registers and loop unrolling](https://discourse.llvm.org/t/optimization-issue-how-do-i-use-normal-registers-and-loop-unrolling/67533#post_1)
+- [Enabling -debug and -debug-only flags in LLVM application](https://discourse.llvm.org/t/enabling-debug-and-debug-only-flags-in-llvm-application/67534#post_1)
+- [BPF target support in LLVM toolchain Build in buildroot environment](https://discourse.llvm.org/t/bpf-target-support-in-llvm-toolchain-build-in-buildroot-environment/67531#post_11)
+- [BPF target support in LLVM toolchain Build in buildroot environment](https://discourse.llvm.org/t/bpf-target-support-in-llvm-toolchain-build-in-buildroot-environment/67531#post_10)
+- [BPF target support in LLVM toolchain Build in buildroot environment](https://discourse.llvm.org/t/bpf-target-support-in-llvm-toolchain-build-in-buildroot-environment/67531#post_9)
+- [BPF target support in LLVM toolchain Build in buildroot environment](https://discourse.llvm.org/t/bpf-target-support-in-llvm-toolchain-build-in-buildroot-environment/67531#post_8)
 <!-- DISCOURSE-LLVM:END -->
