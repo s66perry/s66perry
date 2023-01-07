@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_5)
-- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_4)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_57)
-- [Enabling -debug and -debug-only flags in LLVM application](https://discourse.llvm.org/t/enabling-debug-and-debug-only-flags-in-llvm-application/67534#post_7)
-- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_3)
+- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_10)
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541#post_4)
+- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_9)
+- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_8)
+- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_7)
 <!-- DISCOURSE-LLVM:END -->
