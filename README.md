@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] CommandLine: Allow loading &gt;1 library linking to the same libLLVM version](https://discourse.llvm.org/t/rfc-commandline-allow-loading-1-library-linking-to-the-same-libllvm-version/67542#post_3)
 - [[RFC] CommandLine: Allow loading &gt;1 library linking to the same libLLVM version](https://discourse.llvm.org/t/rfc-commandline-allow-loading-1-library-linking-to-the-same-libllvm-version/67542#post_2)
 - [Pointers to writing a new backend for beginners?](https://discourse.llvm.org/t/pointers-to-writing-a-new-backend-for-beginners/67409#post_4)
 - [Debugging LLVM on an IDE](https://discourse.llvm.org/t/debugging-llvm-on-an-ide/67546#post_3)
 - [RBP register is not preserved before a call to function with custom CC](https://discourse.llvm.org/t/rbp-register-is-not-preserved-before-a-call-to-function-with-custom-cc/67553#post_2)
-- [Failed llvm build](https://discourse.llvm.org/t/failed-llvm-build/67550#post_12)
 <!-- DISCOURSE-LLVM:END -->
