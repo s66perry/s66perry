@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Could ARMv4T support be added?](https://discourse.llvm.org/t/could-armv4t-support-be-added/4156#post_7)
+- [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296?page=2#post_24)
+- [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296?page=2#post_23)
+- [LLVM_ENABLE_EXPENSIVE_CHECKS failures on Ubuntu 22.04 &lpar;libstdc++-12&rpar;](https://discourse.llvm.org/t/llvm-enable-expensive-checks-failures-on-ubuntu-22-04-libstdc-12/67567#post_1)
 - [Opaque pointers status update](https://discourse.llvm.org/t/opaque-pointers-status-update/60296?page=2#post_22)
-- [[RFC] What is the intended semantic of `memref.reinterpret_cast`?](https://discourse.llvm.org/t/rfc-what-is-the-intended-semantic-of-memref-reinterpret-cast/67259#post_5)
-- [Unable to access source_location &lpar;by std or experimental&rpar;](https://discourse.llvm.org/t/unable-to-access-source-location-by-std-or-experimental/67565#post_1)
-- [Unable to build clang correctly for target riscv64-unknown-linux-gnu](https://discourse.llvm.org/t/unable-to-build-clang-correctly-for-target-riscv64-unknown-linux-gnu/67561#post_2)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=2#post_36)
 <!-- DISCOURSE-LLVM:END -->
