@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_10)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_9)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_8)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_7)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_6)
+- [An opinionated way to outsource, simplify and unify repetitive CMake code in standalone build mode](https://discourse.llvm.org/t/an-opinionated-way-to-outsource-simplify-and-unify-repetitive-cmake-code-in-standalone-build-mode/67508#post_6)
+- [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516#post_8)
+- [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516#post_7)
+- [An opinionated way to outsource, simplify and unify repetitive CMake code in standalone build mode](https://discourse.llvm.org/t/an-opinionated-way-to-outsource-simplify-and-unify-repetitive-cmake-code-in-standalone-build-mode/67508#post_5)
+- [An opinionated way to outsource, simplify and unify repetitive CMake code in standalone build mode](https://discourse.llvm.org/t/an-opinionated-way-to-outsource-simplify-and-unify-repetitive-cmake-code-in-standalone-build-mode/67508#post_4)
 <!-- DISCOURSE-LLVM:END -->
