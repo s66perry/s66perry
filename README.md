@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Basic LLDB API Questions](https://discourse.llvm.org/t/basic-lldb-api-questions/67584#post_1)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_45)
-- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571#post_5)
-- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_44)
-- [How calculate the offset of a member of LLVMStructType at compile-time?](https://discourse.llvm.org/t/how-calculate-the-offset-of-a-member-of-llvmstructtype-at-compile-time/67583#post_1)
+- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571#post_6)
+- [BPF target support in LLVM toolchain Build in buildroot environment](https://discourse.llvm.org/t/bpf-target-support-in-llvm-toolchain-build-in-buildroot-environment/67531#post_12)
+- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_14)
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541#post_10)
+- [/InferAsanLibs COFF directive](https://discourse.llvm.org/t/inferasanlibs-coff-directive/62458#post_2)
 <!-- DISCOURSE-LLVM:END -->
