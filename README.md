@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] CommandLine: Allow loading &gt;1 library linking to the same libLLVM version](https://discourse.llvm.org/t/rfc-commandline-allow-loading-1-library-linking-to-the-same-libllvm-version/67542#post_13)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_24)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_23)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_22)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_21)
+- [Api access to https://discourse.llvm.org/?](https://discourse.llvm.org/t/api-access-to-https-discourse-llvm-org/67509#post_8)
+- [Api access to https://discourse.llvm.org/?](https://discourse.llvm.org/t/api-access-to-https-discourse-llvm-org/67509#post_7)
+- [Api access to https://discourse.llvm.org/?](https://discourse.llvm.org/t/api-access-to-https-discourse-llvm-org/67509#post_6)
+- [Api access to https://discourse.llvm.org/?](https://discourse.llvm.org/t/api-access-to-https-discourse-llvm-org/67509#post_5)
+- [Extending Clang’s `external_source_symbol` attribute with explicit symbol USR](https://discourse.llvm.org/t/extending-clang-s-external-source-symbol-attribute-with-explicit-symbol-usr/67575#post_5)
 <!-- DISCOURSE-LLVM:END -->
