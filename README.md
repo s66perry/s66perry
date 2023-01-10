@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541#post_7)
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541#post_6)
+- [What&#39;s RegState usage?](https://discourse.llvm.org/t/whats-regstate-usage/67576#post_1)
 - [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516#post_11)
 - [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516#post_10)
-- [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516#post_9)
-- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902?page=2#post_28)
-- [Extending Clang’s `external_source_symbol` attribute with explicit symbol USR](https://discourse.llvm.org/t/extending-clang-s-external-source-symbol-attribute-with-explicit-symbol-usr/67575#post_1)
 <!-- DISCOURSE-LLVM:END -->
