@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What&#39;s RegState usage?](https://discourse.llvm.org/t/whats-regstate-usage/67576#post_2)
-- [Unable to access source_location &lpar;by std or experimental&rpar;](https://discourse.llvm.org/t/unable-to-access-source-location-by-std-or-experimental/67565#post_4)
-- [Error: anonymous structs are a Microsoft extension [-Werror,-Wmicrosoft-anon-tag]](https://discourse.llvm.org/t/error-anonymous-structs-are-a-microsoft-extension-werror-wmicrosoft-anon-tag/67588#post_4)
-- [Error: anonymous structs are a Microsoft extension [-Werror,-Wmicrosoft-anon-tag]](https://discourse.llvm.org/t/error-anonymous-structs-are-a-microsoft-extension-werror-wmicrosoft-anon-tag/67588#post_3)
-- [Which are projects that do not compile on windows?](https://discourse.llvm.org/t/which-are-projects-that-do-not-compile-on-windows/67590#post_1)
+- [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_3)
+- [Error: anonymous structs are a Microsoft extension [-Werror,-Wmicrosoft-anon-tag]](https://discourse.llvm.org/t/error-anonymous-structs-are-a-microsoft-extension-werror-wmicrosoft-anon-tag/67588#post_6)
+- [Extend MD_prof branch weights metadata from 32 to 64 bits](https://discourse.llvm.org/t/extend-md-prof-branch-weights-metadata-from-32-to-64-bits/67492#post_2)
+- [[RFC][HIP] Use double for long double by default for both host/device](https://discourse.llvm.org/t/rfc-hip-use-double-for-long-double-by-default-for-both-host-device/67593#post_2)
+- [Error: anonymous structs are a Microsoft extension [-Werror,-Wmicrosoft-anon-tag]](https://discourse.llvm.org/t/error-anonymous-structs-are-a-microsoft-extension-werror-wmicrosoft-anon-tag/67588#post_5)
 <!-- DISCOURSE-LLVM:END -->
