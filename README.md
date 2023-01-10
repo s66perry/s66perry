@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_19)
-- [Extending Clang’s `external_source_symbol` attribute with explicit symbol USR](https://discourse.llvm.org/t/extending-clang-s-external-source-symbol-attribute-with-explicit-symbol-usr/67575#post_4)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_18)
-- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_1)
-- [Generating x86 instruction prefixes in a MachineInstr for lowering](https://discourse.llvm.org/t/generating-x86-instruction-prefixes-in-a-machineinstr-for-lowering/67538#post_2)
+- [[RFC] CommandLine: Allow loading &gt;1 library linking to the same libLLVM version](https://discourse.llvm.org/t/rfc-commandline-allow-loading-1-library-linking-to-the-same-libllvm-version/67542#post_13)
+- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_24)
+- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_23)
+- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_22)
+- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
