@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Setting hardware &lpar;vs software&rpar; breakpoints?](https://discourse.llvm.org/t/setting-hardware-vs-software-breakpoints/67580#post_3)
-- [Api access to https://discourse.llvm.org/?](https://discourse.llvm.org/t/api-access-to-https-discourse-llvm-org/67509#post_4)
-- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571#post_9)
-- [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_4)
-- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_17)
+- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_1)
+- [Generating x86 instruction prefixes in a MachineInstr for lowering](https://discourse.llvm.org/t/generating-x86-instruction-prefixes-in-a-machineinstr-for-lowering/67538#post_2)
+- [Setting hardware &lpar;vs software&rpar; breakpoints?](https://discourse.llvm.org/t/setting-hardware-vs-software-breakpoints/67580#post_4)
+- [Extending Clang’s `external_source_symbol` attribute with explicit symbol USR](https://discourse.llvm.org/t/extending-clang-s-external-source-symbol-attribute-with-explicit-symbol-usr/67575#post_3)
+- [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516#post_12)
 <!-- DISCOURSE-LLVM:END -->
