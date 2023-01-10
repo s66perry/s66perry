@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_3)
-- [Error: anonymous structs are a Microsoft extension [-Werror,-Wmicrosoft-anon-tag]](https://discourse.llvm.org/t/error-anonymous-structs-are-a-microsoft-extension-werror-wmicrosoft-anon-tag/67588#post_6)
-- [Extend MD_prof branch weights metadata from 32 to 64 bits](https://discourse.llvm.org/t/extend-md-prof-branch-weights-metadata-from-32-to-64-bits/67492#post_2)
-- [[RFC][HIP] Use double for long double by default for both host/device](https://discourse.llvm.org/t/rfc-hip-use-double-for-long-double-by-default-for-both-host-device/67593#post_2)
-- [Error: anonymous structs are a Microsoft extension [-Werror,-Wmicrosoft-anon-tag]](https://discourse.llvm.org/t/error-anonymous-structs-are-a-microsoft-extension-werror-wmicrosoft-anon-tag/67588#post_5)
+- [[RFC] Explicitly specifying NaN and signed zero semantics for minf and maxf](https://discourse.llvm.org/t/rfc-explicitly-specifying-nan-and-signed-zero-semantics-for-minf-and-maxf/67539#post_17)
+- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571#post_8)
+- [Is it possible to use Propeller iteratively?](https://discourse.llvm.org/t/is-it-possible-to-use-propeller-iteratively/67560#post_4)
+- [Which are projects that do not compile on windows?](https://discourse.llvm.org/t/which-are-projects-that-do-not-compile-on-windows/67590#post_2)
+- [Clang compilation triggered &quot;invalid operand for instruction&quot; build error](https://discourse.llvm.org/t/clang-compilation-triggered-invalid-operand-for-instruction-build-error/67595#post_1)
 <!-- DISCOURSE-LLVM:END -->
