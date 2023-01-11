@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding artifacts to existing releases](https://discourse.llvm.org/t/adding-artifacts-to-existing-releases/67296#post_5)
 - [LLVM 15.0.7 Release Update](https://discourse.llvm.org/t/llvm-15-0-7-release-update/67605#post_1)
 - [New Learning Resource for Clang Libraries &lpar;Slide Deck and Code Examples&rpar;](https://discourse.llvm.org/t/new-learning-resource-for-clang-libraries-slide-deck-and-code-examples/67604#post_1)
 - [Setting hardware &lpar;vs software&rpar; breakpoints?](https://discourse.llvm.org/t/setting-hardware-vs-software-breakpoints/67580#post_8)
 - [Setting hardware &lpar;vs software&rpar; breakpoints?](https://discourse.llvm.org/t/setting-hardware-vs-software-breakpoints/67580#post_7)
-- [Setting hardware &lpar;vs software&rpar; breakpoints?](https://discourse.llvm.org/t/setting-hardware-vs-software-breakpoints/67580#post_6)
 <!-- DISCOURSE-LLVM:END -->
