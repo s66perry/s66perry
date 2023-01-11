@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Memory dependence around read-modify-write instructions](https://discourse.llvm.org/t/memory-dependence-around-read-modify-write-instructions/67609#post_2)
-- [Current status of `DIArgList` / multiple inputs to debug intrinsics](https://discourse.llvm.org/t/current-status-of-diarglist-multiple-inputs-to-debug-intrinsics/67612#post_1)
-- [Building OpenCL kernel with clang-15](https://discourse.llvm.org/t/building-opencl-kernel-with-clang-15/67611#post_1)
-- [Basic LLDB API Questions](https://discourse.llvm.org/t/basic-lldb-api-questions/67584#post_5)
-- [Basic LLDB API Questions](https://discourse.llvm.org/t/basic-lldb-api-questions/67584#post_4)
+- [Result number not allowed in argument list](https://discourse.llvm.org/t/result-number-not-allowed-in-argument-list/67616#post_1)
+- [Crash bug for i1 vectors in X86ISelLowering](https://discourse.llvm.org/t/crash-bug-for-i1-vectors-in-x86isellowering/67615#post_2)
+- [Crash bug for i1 vectors in X86ISelLowering](https://discourse.llvm.org/t/crash-bug-for-i1-vectors-in-x86isellowering/67615#post_1)
+- [Cmake-file-api](https://discourse.llvm.org/t/cmake-file-api/67614#post_1)
+- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571#post_10)
 <!-- DISCOURSE-LLVM:END -->
