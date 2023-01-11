@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extending Clang’s `external_source_symbol` attribute with explicit symbol USR](https://discourse.llvm.org/t/extending-clang-s-external-source-symbol-attribute-with-explicit-symbol-usr/67575#post_6)
+- [Cmake-file-api](https://discourse.llvm.org/t/cmake-file-api/67614#post_2)
 - [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246?page=2#post_24)
 - [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246?page=2#post_23)
 - [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246?page=2#post_22)
-- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246?page=2#post_21)
-- [How should I manage DBG_VALUEs when its def moves?](https://discourse.llvm.org/t/how-should-i-manage-dbg-values-when-its-def-moves/67601#post_2)
 <!-- DISCOURSE-LLVM:END -->
