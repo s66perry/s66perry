@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [DebugInfo optimization tests and automatic CHECK generation](https://discourse.llvm.org/t/debuginfo-optimization-tests-and-automatic-check-generation/67246?page=2#post_26)
-- [Clang compilation triggered &quot;invalid operand for instruction&quot; build error](https://discourse.llvm.org/t/clang-compilation-triggered-invalid-operand-for-instruction-build-error/67595#post_6)
-- [Libc++ CI Phab pre-commit: available AND reliable](https://discourse.llvm.org/t/libc-ci-phab-pre-commit-available-and-reliable/67624#post_2)
-- [LLVM Meetup in Munich – January 20th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-20th-2023/67384#post_4)
-- [LLVM Meetup in Munich – January 20th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-20th-2023/67384#post_3)
+- [Crash bug for i1 vectors in X86ISelLowering](https://discourse.llvm.org/t/crash-bug-for-i1-vectors-in-x86isellowering/67615#post_4)
+- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_5)
+- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_4)
+- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_3)
+- [[RFC] CommandLine: Allow loading &gt;1 library linking to the same libLLVM version](https://discourse.llvm.org/t/rfc-commandline-allow-loading-1-library-linking-to-the-same-libllvm-version/67542#post_15)
 <!-- DISCOURSE-LLVM:END -->
