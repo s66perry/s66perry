@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What&#39;s RegState usage?](https://discourse.llvm.org/t/whats-regstate-usage/67576#post_4)
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541#post_19)
+- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_7)
+- [Extending Clang’s `external_source_symbol` attribute with explicit symbol USR](https://discourse.llvm.org/t/extending-clang-s-external-source-symbol-attribute-with-explicit-symbol-usr/67575#post_7)
 - [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_8)
-- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541#post_18)
-- [AArch64 watchpoints - reported address outside watched range; adopting MASK style watchpoints](https://discourse.llvm.org/t/aarch64-watchpoints-reported-address-outside-watched-range-adopting-mask-style-watchpoints/67660#post_1)
-- [/bin/ld: DWARF error: invalid or unhandled FORM value: 0x25](https://discourse.llvm.org/t/bin-ld-dwarf-error-invalid-or-unhandled-form-value-0x25/67620#post_7)
-- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541#post_17)
 <!-- DISCOURSE-LLVM:END -->
