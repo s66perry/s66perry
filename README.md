@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_6)
+- [Does IFunc use from LLVM require OS support?](https://discourse.llvm.org/t/does-ifunc-use-from-llvm-require-os-support/67628#post_3)
 - [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_3)
 - [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_5)
 - [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262?page=2#post_22)
-- [Does IFunc use from LLVM require OS support?](https://discourse.llvm.org/t/does-ifunc-use-from-llvm-require-os-support/67628#post_2)
-- [Adding artifacts to existing releases](https://discourse.llvm.org/t/adding-artifacts-to-existing-releases/67296#post_6)
 <!-- DISCOURSE-LLVM:END -->
