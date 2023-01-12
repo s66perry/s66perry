@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_4)
-- [[RFC][memref] New op to &lpar;re&rpar;materialize a memref](https://discourse.llvm.org/t/rfc-memref-new-op-to-re-materialize-a-memref/67650#post_2)
-- [[RFC][memref] New op to &lpar;re&rpar;materialize a memref](https://discourse.llvm.org/t/rfc-memref-new-op-to-re-materialize-a-memref/67650#post_1)
-- [Candidate function not viable: no known conversion from &#39;LPTSTR&#39; &lpar;aka &#39;char *&#39;&rpar; to &#39;const OLECHAR *&#39; &lpar;aka &#39;const wchar_t *&#39;&rpar;](https://discourse.llvm.org/t/candidate-function-not-viable-no-known-conversion-from-lptstr-aka-char-to-const-olechar-aka-const-wchar-t/67641#post_2)
-- [MLIR Operation modification rules](https://discourse.llvm.org/t/mlir-operation-modification-rules/67646#post_3)
+- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_5)
+- [TSan instrumentation using LLVM opt and TSan passes](https://discourse.llvm.org/t/tsan-instrumentation-using-llvm-opt-and-tsan-passes/67653#post_1)
+- [[RFC][memref] New op to &lpar;re&rpar;materialize a memref](https://discourse.llvm.org/t/rfc-memref-new-op-to-re-materialize-a-memref/67650#post_4)
+- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_17)
+- [[RFC][memref] New op to &lpar;re&rpar;materialize a memref](https://discourse.llvm.org/t/rfc-memref-new-op-to-re-materialize-a-memref/67650#post_3)
 <!-- DISCOURSE-LLVM:END -->
