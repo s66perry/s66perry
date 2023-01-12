@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [An opinionated way to outsource, simplify and unify repetitive CMake code in standalone build mode](https://discourse.llvm.org/t/an-opinionated-way-to-outsource-simplify-and-unify-repetitive-cmake-code-in-standalone-build-mode/67508#post_9)
-- [/llvm/include/llvm/Support/ELF.h](https://discourse.llvm.org/t/llvm-include-llvm-support-elf-h/67640#post_1)
-- [Comments needed for refactoring `DecoderEmitter` TableGen backend](https://discourse.llvm.org/t/comments-needed-for-refactoring-decoderemitter-tablegen-backend/65738#post_5)
-- [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_7)
-- [Memory dependence around read-modify-write instructions](https://discourse.llvm.org/t/memory-dependence-around-read-modify-write-instructions/67609#post_3)
+- [MLIR Operation modification rules](https://discourse.llvm.org/t/mlir-operation-modification-rules/67646#post_1)
+- [CMake Error at cmake/modules/CMakeLists.txt:1 &lpar;include&rpar;:](https://discourse.llvm.org/t/cmake-error-at-cmake-modules-cmakelists-txt-1-include/67645#post_1)
+- [How to get the crash stacktrace function name?](https://discourse.llvm.org/t/how-to-get-the-crash-stacktrace-function-name/67644#post_1)
+- [/bin/ld: DWARF error: invalid or unhandled FORM value: 0x25](https://discourse.llvm.org/t/bin-ld-dwarf-error-invalid-or-unhandled-form-value-0x25/67620#post_3)
+- [[RFC] Heterogeneous Debug Info](https://discourse.llvm.org/t/rfc-heterogeneous-debug-info/66872#post_7)
 <!-- DISCOURSE-LLVM:END -->
