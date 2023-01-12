@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Operation modification rules](https://discourse.llvm.org/t/mlir-operation-modification-rules/67646#post_1)
-- [CMake Error at cmake/modules/CMakeLists.txt:1 &lpar;include&rpar;:](https://discourse.llvm.org/t/cmake-error-at-cmake-modules-cmakelists-txt-1-include/67645#post_1)
-- [How to get the crash stacktrace function name?](https://discourse.llvm.org/t/how-to-get-the-crash-stacktrace-function-name/67644#post_1)
-- [/bin/ld: DWARF error: invalid or unhandled FORM value: 0x25](https://discourse.llvm.org/t/bin-ld-dwarf-error-invalid-or-unhandled-form-value-0x25/67620#post_3)
-- [[RFC] Heterogeneous Debug Info](https://discourse.llvm.org/t/rfc-heterogeneous-debug-info/66872#post_7)
+- [Candidate function not viable: no known conversion from &#39;LPTSTR&#39; &lpar;aka &#39;char *&#39;&rpar; to &#39;const OLECHAR *&#39; &lpar;aka &#39;const wchar_t *&#39;&rpar;](https://discourse.llvm.org/t/candidate-function-not-viable-no-known-conversion-from-lptstr-aka-char-to-const-olechar-aka-const-wchar-t/67641#post_2)
+- [MLIR Operation modification rules](https://discourse.llvm.org/t/mlir-operation-modification-rules/67646#post_3)
+- [MLIR Operation modification rules](https://discourse.llvm.org/t/mlir-operation-modification-rules/67646#post_2)
+- [How to get the crash stacktrace function name?](https://discourse.llvm.org/t/how-to-get-the-crash-stacktrace-function-name/67644#post_2)
+- [/llvm/include/llvm/Support/ELF.h](https://discourse.llvm.org/t/llvm-include-llvm-support-elf-h/67640#post_2)
 <!-- DISCOURSE-LLVM:END -->
