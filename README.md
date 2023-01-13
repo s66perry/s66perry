@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_8)
-- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_7)
-- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_6)
-- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_5)
-- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_4)
+- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_20)
+- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_19)
+- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_18)
+- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_17)
+- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666#post_16)
 <!-- DISCOURSE-LLVM:END -->
