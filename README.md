@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Compared to llvm 10, why llvm 15 replace all the &quot;-&gt;&quot; by &quot;.&quot; in .cpp and .h file?](https://discourse.llvm.org/t/compared-to-llvm-10-why-llvm-15-replace-all-the-by-in-cpp-and-h-file/67680#post_1)
-- [Customizing passes in llc while compiling .ll files](https://discourse.llvm.org/t/customizing-passes-in-llc-while-compiling-ll-files/67679#post_1)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_24)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_23)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_22)
+- [Compared to llvm 10, why llvm 15 replace all the &quot;-&gt;&quot; by &quot;.&quot; in .cpp and .h file?](https://discourse.llvm.org/t/compared-to-llvm-10-why-llvm-15-replace-all-the-by-in-cpp-and-h-file/67680#post_4)
+- [/bin/ld: DWARF error: invalid or unhandled FORM value: 0x25](https://discourse.llvm.org/t/bin-ld-dwarf-error-invalid-or-unhandled-form-value-0x25/67620#post_8)
+- [Compared to llvm 10, why llvm 15 replace all the &quot;-&gt;&quot; by &quot;.&quot; in .cpp and .h file?](https://discourse.llvm.org/t/compared-to-llvm-10-why-llvm-15-replace-all-the-by-in-cpp-and-h-file/67680#post_3)
+- [Compared to llvm 10, why llvm 15 replace all the &quot;-&gt;&quot; by &quot;.&quot; in .cpp and .h file?](https://discourse.llvm.org/t/compared-to-llvm-10-why-llvm-15-replace-all-the-by-in-cpp-and-h-file/67680#post_2)
+- [Using LLVM in a test suite run under LeakSanitizer](https://discourse.llvm.org/t/using-llvm-in-a-test-suite-run-under-leaksanitizer/67671#post_3)
 <!-- DISCOURSE-LLVM:END -->
