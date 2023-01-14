@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [func::FuncOp](https://discourse.llvm.org/t/func-funcop/67701#post_3)
+- [func::FuncOp](https://discourse.llvm.org/t/func-funcop/67701#post_2)
+- [func::FuncOp](https://discourse.llvm.org/t/func-funcop/67701#post_1)
+- [JIT session error while using lli on Windows](https://discourse.llvm.org/t/jit-session-error-while-using-lli-on-windows/67354#post_5)
 - [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_14)
-- [CSE Pass can not eliminate two Ops with the same region](https://discourse.llvm.org/t/cse-pass-can-not-eliminate-two-ops-with-the-same-region/67669#post_7)
-- [CSE Pass can not eliminate two Ops with the same region](https://discourse.llvm.org/t/cse-pass-can-not-eliminate-two-ops-with-the-same-region/67669#post_6)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_32)
-- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_13)
 <!-- DISCOURSE-LLVM:END -->
