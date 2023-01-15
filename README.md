@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CSE Pass can not eliminate two Ops with the same region](https://discourse.llvm.org/t/cse-pass-can-not-eliminate-two-ops-with-the-same-region/67669#post_8)
 - [Segmentation faults when mixing versions of LLVM](https://discourse.llvm.org/t/segmentation-faults-when-mixing-versions-of-llvm/67694#post_12)
 - [func::FuncOp](https://discourse.llvm.org/t/func-funcop/67701#post_3)
 - [func::FuncOp](https://discourse.llvm.org/t/func-funcop/67701#post_2)
 - [func::FuncOp](https://discourse.llvm.org/t/func-funcop/67701#post_1)
-- [JIT session error while using lli on Windows](https://discourse.llvm.org/t/jit-session-error-while-using-lli-on-windows/67354#post_5)
 <!-- DISCOURSE-LLVM:END -->
