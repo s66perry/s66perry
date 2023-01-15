@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_15)
+- [How to get the crash stacktrace function name?](https://discourse.llvm.org/t/how-to-get-the-crash-stacktrace-function-name/67644#post_4)
+- [How to get the crash stacktrace function name?](https://discourse.llvm.org/t/how-to-get-the-crash-stacktrace-function-name/67644#post_3)
 - [CSE Pass can not eliminate two Ops with the same region](https://discourse.llvm.org/t/cse-pass-can-not-eliminate-two-ops-with-the-same-region/67669#post_10)
 - [UB is bizarre in this case](https://discourse.llvm.org/t/ub-is-bizarre-in-this-case/67705#post_2)
-- [Segmentation faults when mixing versions of LLVM](https://discourse.llvm.org/t/segmentation-faults-when-mixing-versions-of-llvm/67694#post_13)
-- [UB is bizarre in this case](https://discourse.llvm.org/t/ub-is-bizarre-in-this-case/67705#post_1)
-- [CSE Pass can not eliminate two Ops with the same region](https://discourse.llvm.org/t/cse-pass-can-not-eliminate-two-ops-with-the-same-region/67669#post_9)
 <!-- DISCOURSE-LLVM:END -->
