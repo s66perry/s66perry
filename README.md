@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_1)
-- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_20)
-- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_19)
-- [LLVM 15.0.7 has been tagged](https://discourse.llvm.org/t/llvm-15-0-7-has-been-tagged/67637#post_8)
-- [Extending the LLVM dialect InlinerInterface](https://discourse.llvm.org/t/extending-the-llvm-dialect-inlinerinterface/67469#post_7)
+- [Red bot keeps notifying?](https://discourse.llvm.org/t/red-bot-keeps-notifying/67055#post_4)
+- [Red bot keeps notifying?](https://discourse.llvm.org/t/red-bot-keeps-notifying/67055#post_3)
+- [[PDLL] Defining string array attribute statically with AttrExpr](https://discourse.llvm.org/t/pdll-defining-string-array-attribute-statically-with-attrexpr/67730#post_1)
+- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_2)
+- [How should I manage DBG_VALUEs when its def moves?](https://discourse.llvm.org/t/how-should-i-manage-dbg-values-when-its-def-moves/67601#post_4)
 <!-- DISCOURSE-LLVM:END -->
