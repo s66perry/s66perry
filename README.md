@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_3)
+- [Clang-format ignores code after preprocessor if](https://discourse.llvm.org/t/clang-format-ignores-code-after-preprocessor-if/67726#post_2)
+- [Setup LLVM Project on machine without sudo access](https://discourse.llvm.org/t/setup-llvm-project-on-machine-without-sudo-access/67734#post_1)
 - [Is SeparateConstOffsetFromGEP the right tool for my task &lpar;and should we move it into a utility class&rpar;](https://discourse.llvm.org/t/is-separateconstoffsetfromgep-the-right-tool-for-my-task-and-should-we-move-it-into-a-utility-class/67716#post_4)
 - [LLVM Meetup in Munich – January 20th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-20th-2023/67384#post_5)
-- [LLVM Weekly - #472, January 16th 2023](https://discourse.llvm.org/t/llvm-weekly-472-january-16th-2023/67731#post_2)
-- [LLVM Weekly - #472, January 16th 2023](https://discourse.llvm.org/t/llvm-weekly-472-january-16th-2023/67731#post_1)
-- [Red bot keeps notifying?](https://discourse.llvm.org/t/red-bot-keeps-notifying/67055#post_4)
 <!-- DISCOURSE-LLVM:END -->
