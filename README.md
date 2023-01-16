@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Multi-dimension lowering of scalable vectors in mlir](https://discourse.llvm.org/t/multi-dimension-lowering-of-scalable-vectors-in-mlir/67723#post_2)
+- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_7)
 - [Multi-dimension lowering of scalable vectors in mlir](https://discourse.llvm.org/t/multi-dimension-lowering-of-scalable-vectors-in-mlir/67723#post_1)
 - [PSA: Retire Linalg fusion-on-memrefs](https://discourse.llvm.org/t/psa-retire-linalg-fusion-on-memrefs/67720#post_3)
 - [Request for add a dynamicLibrary dialect](https://discourse.llvm.org/t/request-for-add-a-dynamiclibrary-dialect/67707#post_5)
-- [Is SeparateConstOffsetFromGEP the right tool for my task &lpar;and should we move it into a utility class&rpar;](https://discourse.llvm.org/t/is-separateconstoffsetfromgep-the-right-tool-for-my-task-and-should-we-move-it-into-a-utility-class/67716#post_3)
-- [Request for add a dynamicLibrary dialect](https://discourse.llvm.org/t/request-for-add-a-dynamiclibrary-dialect/67707#post_4)
 <!-- DISCOURSE-LLVM:END -->
