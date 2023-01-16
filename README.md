@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Request for add a dynamicLibrary dialect](https://discourse.llvm.org/t/request-for-add-a-dynamiclibrary-dialect/67707#post_6)
-- [PSA: Retire Linalg fusion-on-memrefs](https://discourse.llvm.org/t/psa-retire-linalg-fusion-on-memrefs/67720#post_5)
-- [PSA: Retire Linalg fusion-on-memrefs](https://discourse.llvm.org/t/psa-retire-linalg-fusion-on-memrefs/67720#post_4)
-- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_8)
-- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598#post_17)
+- [Result number not allowed in argument list](https://discourse.llvm.org/t/result-number-not-allowed-in-argument-list/67616#post_4)
+- [[RFC] What is the intended semantic of `memref.reinterpret_cast`?](https://discourse.llvm.org/t/rfc-what-is-the-intended-semantic-of-memref-reinterpret-cast/67259#post_8)
+- [Result number not allowed in argument list](https://discourse.llvm.org/t/result-number-not-allowed-in-argument-list/67616#post_3)
+- [Request for add a dynamicLibrary dialect](https://discourse.llvm.org/t/request-for-add-a-dynamiclibrary-dialect/67707#post_8)
+- [[RFC] What is the intended semantic of `memref.reinterpret_cast`?](https://discourse.llvm.org/t/rfc-what-is-the-intended-semantic-of-memref-reinterpret-cast/67259#post_7)
 <!-- DISCOURSE-LLVM:END -->
