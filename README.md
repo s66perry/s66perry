@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543#post_11)
-- [LLVM 15.0.4 has been tagged](https://discourse.llvm.org/t/llvm-15-0-4-has-been-tagged/66354#post_12)
-- [RFC: Improving Clang’s Diagnostics](https://discourse.llvm.org/t/rfc-improving-clang-s-diagnostics/62584?page=3#post_43)
-- [Phabricator pre-merge check failed due to seemingly unrelated issues](https://discourse.llvm.org/t/phabricator-pre-merge-check-failed-due-to-seemingly-unrelated-issues/67754#post_2)
-- [Issue with instcombine pass inserting llvm.assume](https://discourse.llvm.org/t/issue-with-instcombine-pass-inserting-llvm-assume/67735#post_3)
+- [Pattern matching of CopyToReg SDNode in DAGToDAG::Select&lpar;&rpar;](https://discourse.llvm.org/t/pattern-matching-of-copytoreg-sdnode-in-dagtodag-select/67684#post_3)
+- [Adding artifacts to existing releases](https://discourse.llvm.org/t/adding-artifacts-to-existing-releases/67296#post_13)
+- [LLVM 15.0.4 has been tagged](https://discourse.llvm.org/t/llvm-15-0-4-has-been-tagged/66354#post_13)
+- [Inherit from MLIR class fails because of type id resolver](https://discourse.llvm.org/t/inherit-from-mlir-class-fails-because-of-type-id-resolver/67755#post_1)
+- [[PDLL] Defining string array attribute statically with AttrExpr](https://discourse.llvm.org/t/pdll-defining-string-array-attribute-statically-with-attrexpr/67730#post_2)
 <!-- DISCOURSE-LLVM:END -->
