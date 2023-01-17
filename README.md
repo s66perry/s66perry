@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_3)
-- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_2)
-- [CSE Pass can not eliminate two Ops with the same region](https://discourse.llvm.org/t/cse-pass-can-not-eliminate-two-ops-with-the-same-region/67669#post_12)
-- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_6)
-- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_1)
+- [Clang-format ignores code after preprocessor if](https://discourse.llvm.org/t/clang-format-ignores-code-after-preprocessor-if/67726#post_3)
+- [[opt/llc] Determine the context of loaded plugin with optimization passes](https://discourse.llvm.org/t/opt-llc-determine-the-context-of-loaded-plugin-with-optimization-passes/67744#post_1)
+- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_4)
+- [Memory aliasing](https://discourse.llvm.org/t/memory-aliasing/67743#post_1)
+- [How should I manage DBG_VALUEs when its def moves?](https://discourse.llvm.org/t/how-should-i-manage-dbg-values-when-its-def-moves/67601#post_5)
 <!-- DISCOURSE-LLVM:END -->
