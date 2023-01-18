@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 15.0.7 Release](https://discourse.llvm.org/t/llvm-15-0-7-release/67638#post_2)
+- [Disable SROA on some aggregates](https://discourse.llvm.org/t/disable-sroa-on-some-aggregates/67781#post_6)
+- [Alignment in a struct](https://discourse.llvm.org/t/alignment-in-a-struct/67780#post_2)
+- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629?page=2#post_24)
 - [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629?page=2#post_23)
-- [[RFC][HIP] __grid_constant__ support](https://discourse.llvm.org/t/rfc-hip-grid-constant-support/67759#post_3)
-- [LLVM 15.0.0-final tagged](https://discourse.llvm.org/t/llvm-15-0-0-final-tagged/65097#post_19)
-- [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_8)
-- [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_7)
 <!-- DISCOURSE-LLVM:END -->
