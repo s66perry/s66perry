@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Red bot keeps notifying?](https://discourse.llvm.org/t/red-bot-keeps-notifying/67055#post_5)
-- [Release Notes Editing](https://discourse.llvm.org/t/release-notes-editing/67765#post_1)
-- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_2)
-- [Rewrite IR external symbol names for ThinLTO](https://discourse.llvm.org/t/rewrite-ir-external-symbol-names-for-thinlto/67764#post_1)
-- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_18)
+- [MLIR Tutorial Ch6 failed with error “Dialect `func&#39; not found for custom op &#39;func.func‘”](https://discourse.llvm.org/t/mlir-tutorial-ch6-failed-with-error-dialect-func-not-found-for-custom-op-func-func/67461#post_8)
+- [MLIR Tutorial Ch6 failed with error “Dialect `func&#39; not found for custom op &#39;func.func‘”](https://discourse.llvm.org/t/mlir-tutorial-ch6-failed-with-error-dialect-func-not-found-for-custom-op-func-func/67461#post_7)
+- [Release Notes Editing](https://discourse.llvm.org/t/release-notes-editing/67765#post_2)
+- [Inherit from MLIR class fails because of type id resolver](https://discourse.llvm.org/t/inherit-from-mlir-class-fails-because-of-type-id-resolver/67755#post_2)
+- [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
