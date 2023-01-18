@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Red bot keeps notifying?](https://discourse.llvm.org/t/red-bot-keeps-notifying/67055#post_6)
-- [LLVM 15.0.7 Release](https://discourse.llvm.org/t/llvm-15-0-7-release/67638#post_4)
-- [LLVM 15.0.7 Release](https://discourse.llvm.org/t/llvm-15-0-7-release/67638#post_3)
-- [How to use the optimized pass of clang?](https://discourse.llvm.org/t/how-to-use-the-optimized-pass-of-clang/67791#post_1)
-- [Running llvm-lit on external project test file derived from standalone fails](https://discourse.llvm.org/t/running-llvm-lit-on-external-project-test-file-derived-from-standalone-fails/67787#post_2)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_41)
+- [How to use the optimized pass of clang?](https://discourse.llvm.org/t/how-to-use-the-optimized-pass-of-clang/67791#post_2)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_40)
+- [/bin/ld: DWARF error: invalid or unhandled FORM value: 0x25](https://discourse.llvm.org/t/bin-ld-dwarf-error-invalid-or-unhandled-form-value-0x25/67620#post_13)
+- [Adding New Test Cases for a New Instruction at LLVM-MC](https://discourse.llvm.org/t/adding-new-test-cases-for-a-new-instruction-at-llvm-mc/67779#post_3)
 <!-- DISCOURSE-LLVM:END -->
