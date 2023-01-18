@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Land C++ modules changes required for CMake before LLVM 16 branch?](https://discourse.llvm.org/t/land-c-modules-changes-required-for-cmake-before-llvm-16-branch/67717#post_5)
-- [Conservative folding of to_tensor&lpar;to_memref&rpar;](https://discourse.llvm.org/t/conservative-folding-of-to-tensor-to-memref/67777#post_3)
-- [Release Notes Editing](https://discourse.llvm.org/t/release-notes-editing/67765#post_4)
-- [Conservative folding of to_tensor&lpar;to_memref&rpar;](https://discourse.llvm.org/t/conservative-folding-of-to-tensor-to-memref/67777#post_2)
-- [[RFC][HIP] __grid_constant__ support](https://discourse.llvm.org/t/rfc-hip-grid-constant-support/67759#post_2)
+- [[patch] review request for a bug fix D141909](https://discourse.llvm.org/t/patch-review-request-for-a-bug-fix-d141909/67784#post_1)
+- [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_5)
+- [How do I print out all the pass options used by clang optimization?](https://discourse.llvm.org/t/how-do-i-print-out-all-the-pass-options-used-by-clang-optimization/67783#post_2)
+- [Phabricator pre-merge check failed due to seemingly unrelated issues](https://discourse.llvm.org/t/phabricator-pre-merge-check-failed-due-to-seemingly-unrelated-issues/67754#post_4)
+- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_11)
 <!-- DISCOURSE-LLVM:END -->
