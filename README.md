@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [`__isoc99_sscanf` is used regardless of `-std=c89 -pedantic`](https://discourse.llvm.org/t/isoc99-sscanf-is-used-regardless-of-std-c89-pedantic/67775#post_1)
+- [About the additional implicit operands](https://discourse.llvm.org/t/about-the-additional-implicit-operands/67774#post_1)
 - [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_4)
 - [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516?page=2#post_31)
 - [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666?page=2#post_23)
-- [Anyone using MLIR with ONNX models?](https://discourse.llvm.org/t/anyone-using-mlir-with-onnx-models/67769#post_1)
-- [LLVM buildbot will be restarted on January 17th, 2023 at 8:00 PM PST](https://discourse.llvm.org/t/llvm-buildbot-will-be-restarted-on-january-17th-2023-at-8-00-pm-pst/67768#post_1)
 <!-- DISCOURSE-LLVM:END -->
