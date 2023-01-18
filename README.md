@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Tutorial Ch6 failed with error “Dialect `func&#39; not found for custom op &#39;func.func‘”](https://discourse.llvm.org/t/mlir-tutorial-ch6-failed-with-error-dialect-func-not-found-for-custom-op-func-func/67461#post_8)
-- [MLIR Tutorial Ch6 failed with error “Dialect `func&#39; not found for custom op &#39;func.func‘”](https://discourse.llvm.org/t/mlir-tutorial-ch6-failed-with-error-dialect-func-not-found-for-custom-op-func-func/67461#post_7)
-- [Release Notes Editing](https://discourse.llvm.org/t/release-notes-editing/67765#post_2)
-- [Inherit from MLIR class fails because of type id resolver](https://discourse.llvm.org/t/inherit-from-mlir-class-fails-because-of-type-id-resolver/67755#post_2)
-- [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516?page=2#post_30)
+- [Land C++ modules changes required for CMake before LLVM 16 branch?](https://discourse.llvm.org/t/land-c-modules-changes-required-for-cmake-before-llvm-16-branch/67717#post_4)
+- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_20)
+- [[RFC] Clang: true `noexcept` &lpar;aka, defaults are often wrong, hardcoded defaults are always wrong&rpar;](https://discourse.llvm.org/t/rfc-clang-true-noexcept-aka-defaults-are-often-wrong-hardcoded-defaults-are-always-wrong/67629#post_19)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_39)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
