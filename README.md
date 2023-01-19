@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Processing in the middle of transforming IR to DAG](https://discourse.llvm.org/t/processing-in-the-middle-of-transforming-ir-to-dag/67805#post_1)
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_33)
+- [CANCELLED RISC-V LLVM sync-up call 19th January 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-19th-january-2023/67804#post_1)
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_32)
 - [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_31)
-- [Land C++ modules changes required for CMake before LLVM 16 branch?](https://discourse.llvm.org/t/land-c-modules-changes-required-for-cmake-before-llvm-16-branch/67717#post_6)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_30)
-- [Inliner requests analysis on invalid IR during cloning stage](https://discourse.llvm.org/t/inliner-requests-analysis-on-invalid-ir-during-cloning-stage/67800#post_1)
-- [Conservative folding of to_tensor&lpar;to_memref&rpar;](https://discourse.llvm.org/t/conservative-folding-of-to-tensor-to-memref/67777#post_4)
 <!-- DISCOURSE-LLVM:END -->
