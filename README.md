@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PSA: Retire `tileAndFuseLinalgOps` method](https://discourse.llvm.org/t/psa-retire-tileandfuselinalgops-method/63850#post_8)
+- [Processing in the middle of transforming IR to DAG](https://discourse.llvm.org/t/processing-in-the-middle-of-transforming-ir-to-dag/67805#post_2)
+- [LLDB: how to &quot;set solib-search-path&quot; or &quot;set sysroot&quot;?](https://discourse.llvm.org/t/lldb-how-to-set-solib-search-path-or-set-sysroot/67806#post_2)
 - [[llvm-dev] [RFC] llvm-dva - Debug Information Visual Analyzer](https://discourse.llvm.org/t/llvm-dev-rfc-llvm-dva-debug-information-visual-analyzer/62570#post_16)
 - [Conservative folding of to_tensor&lpar;to_memref&rpar;](https://discourse.llvm.org/t/conservative-folding-of-to-tensor-to-memref/67777#post_5)
-- [LLDB: how to &quot;set solib-search-path&quot; or &quot;set sysroot&quot;?](https://discourse.llvm.org/t/lldb-how-to-set-solib-search-path-or-set-sysroot/67806#post_1)
-- [Rewriting LinalgGenericOp](https://discourse.llvm.org/t/rewriting-linalggenericop/67261#post_2)
-- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_12)
 <!-- DISCOURSE-LLVM:END -->
