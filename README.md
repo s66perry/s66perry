@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PSA: Retire `tileAndFuseLinalgOps` method](https://discourse.llvm.org/t/psa-retire-tileandfuselinalgops-method/63850#post_8)
-- [Processing in the middle of transforming IR to DAG](https://discourse.llvm.org/t/processing-in-the-middle-of-transforming-ir-to-dag/67805#post_2)
-- [LLDB: how to &quot;set solib-search-path&quot; or &quot;set sysroot&quot;?](https://discourse.llvm.org/t/lldb-how-to-set-solib-search-path-or-set-sysroot/67806#post_2)
-- [[llvm-dev] [RFC] llvm-dva - Debug Information Visual Analyzer](https://discourse.llvm.org/t/llvm-dev-rfc-llvm-dva-debug-information-visual-analyzer/62570#post_16)
-- [Conservative folding of to_tensor&lpar;to_memref&rpar;](https://discourse.llvm.org/t/conservative-folding-of-to-tensor-to-memref/67777#post_5)
+- [What is the status of `dbg.addr`?](https://discourse.llvm.org/t/what-is-the-status-of-dbg-addr/62898#post_9)
+- [Adding a C++20 buildbot](https://discourse.llvm.org/t/adding-a-c-20-buildbot/67156#post_8)
+- [How build a mlir::LLVM::CallOp for indirect call?](https://discourse.llvm.org/t/how-build-a-mlir-callop-for-indirect-call/67812#post_3)
+- [Creating a Docker image with clang, llvm-config, and LLVM libs - help](https://discourse.llvm.org/t/creating-a-docker-image-with-clang-llvm-config-and-llvm-libs-help/63916#post_3)
+- [How build a mlir::LLVM::CallOp for indirect call?](https://discourse.llvm.org/t/how-build-a-mlir-callop-for-indirect-call/67812#post_2)
 <!-- DISCOURSE-LLVM:END -->
