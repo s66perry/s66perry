@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GenericTaintChecker - taint status examination](https://discourse.llvm.org/t/generictaintchecker-taint-status-examination/64675#post_2)
+- [PSA: Retire `tileAndFuseLinalgOps` method](https://discourse.llvm.org/t/psa-retire-tileandfuselinalgops-method/63850#post_12)
+- [[RFC] Proposal for optimizations to transparently make data structures PIC-friendly](https://discourse.llvm.org/t/rfc-proposal-for-optimizations-to-transparently-make-data-structures-pic-friendly/67822#post_1)
 - [LLVM LTO pass: How to get module name/ output binary name?](https://discourse.llvm.org/t/llvm-lto-pass-how-to-get-module-name-output-binary-name/67821#post_1)
 - [PSA: Retire `tileAndFuseLinalgOps` method](https://discourse.llvm.org/t/psa-retire-tileandfuselinalgops-method/63850#post_11)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=4#post_61)
-- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=3#post_60)
-- [LLVM Social Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-social-darmstadt-germany/67364#post_2)
 <!-- DISCOURSE-LLVM:END -->
