@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Rewriting LinalgGenericOp](https://discourse.llvm.org/t/rewriting-linalggenericop/67261#post_2)
+- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_12)
+- [Inherit from MLIR class fails because of type id resolver](https://discourse.llvm.org/t/inherit-from-mlir-class-fails-because-of-type-id-resolver/67755#post_3)
+- [How should I manage DBG_VALUEs when its def moves?](https://discourse.llvm.org/t/how-should-i-manage-dbg-values-when-its-def-moves/67601#post_7)
 - [Processing in the middle of transforming IR to DAG](https://discourse.llvm.org/t/processing-in-the-middle-of-transforming-ir-to-dag/67805#post_1)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_33)
-- [CANCELLED RISC-V LLVM sync-up call 19th January 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-19th-january-2023/67804#post_1)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_32)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
