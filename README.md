@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_8)
-- [Conservative folding of to_tensor&lpar;to_memref&rpar;](https://discourse.llvm.org/t/conservative-folding-of-to-tensor-to-memref/67777#post_8)
-- [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_10)
-- [Expose More Inlining Opportunities](https://discourse.llvm.org/t/expose-more-inlining-opportunities/67834#post_2)
-- [Expose More Inlining Opportunities](https://discourse.llvm.org/t/expose-more-inlining-opportunities/67834#post_1)
+- [Switch recommonmark to myst-parser](https://discourse.llvm.org/t/switch-recommonmark-to-myst-parser/3259#post_4)
+- [LLDB: how to &quot;set solib-search-path&quot; or &quot;set sysroot&quot;?](https://discourse.llvm.org/t/lldb-how-to-set-solib-search-path-or-set-sysroot/67806#post_4)
+- [How build a mlir::LLVM::CallOp for indirect call?](https://discourse.llvm.org/t/how-build-a-mlir-callop-for-indirect-call/67812#post_16)
+- [How build a mlir::LLVM::CallOp for indirect call?](https://discourse.llvm.org/t/how-build-a-mlir-callop-for-indirect-call/67812#post_15)
+- [Default to ARM Thumb for disassembly?](https://discourse.llvm.org/t/default-to-arm-thumb-for-disassembly/67458#post_2)
 <!-- DISCOURSE-LLVM:END -->
