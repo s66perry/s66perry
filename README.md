@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Switch recommonmark to myst-parser](https://discourse.llvm.org/t/switch-recommonmark-to-myst-parser/3259#post_4)
-- [LLDB: how to &quot;set solib-search-path&quot; or &quot;set sysroot&quot;?](https://discourse.llvm.org/t/lldb-how-to-set-solib-search-path-or-set-sysroot/67806#post_4)
-- [How build a mlir::LLVM::CallOp for indirect call?](https://discourse.llvm.org/t/how-build-a-mlir-callop-for-indirect-call/67812#post_16)
-- [How build a mlir::LLVM::CallOp for indirect call?](https://discourse.llvm.org/t/how-build-a-mlir-callop-for-indirect-call/67812#post_15)
-- [Default to ARM Thumb for disassembly?](https://discourse.llvm.org/t/default-to-arm-thumb-for-disassembly/67458#post_2)
+- [How build a mlir::LLVM::CallOp for indirect call?](https://discourse.llvm.org/t/how-build-a-mlir-callop-for-indirect-call/67812#post_17)
+- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_18)
+- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_17)
+- [Where to report documentation&#39;s bugs?](https://discourse.llvm.org/t/where-to-report-documentations-bugs/67838#post_1)
+- [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_16)
 <!-- DISCOURSE-LLVM:END -->
