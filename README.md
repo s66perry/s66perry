@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Expose More Inlining Opportunities](https://discourse.llvm.org/t/expose-more-inlining-opportunities/67834#post_2)
+- [Expose More Inlining Opportunities](https://discourse.llvm.org/t/expose-more-inlining-opportunities/67834#post_1)
 - [[RFC] Proposal for optimizations to transparently make data structures PIC-friendly](https://discourse.llvm.org/t/rfc-proposal-for-optimizations-to-transparently-make-data-structures-pic-friendly/67822#post_6)
 - [[RFC] Proposal for optimizations to transparently make data structures PIC-friendly](https://discourse.llvm.org/t/rfc-proposal-for-optimizations-to-transparently-make-data-structures-pic-friendly/67822#post_5)
 - [InstrItin and SchedWriteRes](https://discourse.llvm.org/t/instritin-and-schedwriteres/48111#post_5)
-- [[RFC] Proposal for optimizations to transparently make data structures PIC-friendly](https://discourse.llvm.org/t/rfc-proposal-for-optimizations-to-transparently-make-data-structures-pic-friendly/67822#post_4)
-- [NEC &quot;ve&quot; VectorEngine in hobbyist hands](https://discourse.llvm.org/t/nec-ve-vectorengine-in-hobbyist-hands/67825#post_1)
 <!-- DISCOURSE-LLVM:END -->
