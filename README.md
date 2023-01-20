@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [EuroLLVM 2023 - May 10-11, Glasgow, Scotland](https://discourse.llvm.org/t/eurollvm-2023-may-10-11-glasgow-scotland/67844#post_1)
+- [Add LLVM type support for fp8 data types &lpar;F8E4M3 and F8E5M2&rpar;](https://discourse.llvm.org/t/add-llvm-type-support-for-fp8-data-types-f8e4m3-and-f8e5m2/67598?page=2#post_21)
 - [Does anyone use llvm-exegesis? Feedback wanted](https://discourse.llvm.org/t/does-anyone-use-llvm-exegesis-feedback-wanted/67729#post_19)
 - [Intrinsics are not special, stop pretending. [* I mean it *]](https://discourse.llvm.org/t/intrinsics-are-not-special-stop-pretending-i-mean-it/67545#post_3)
 - [Where to report documentation&#39;s bugs?](https://discourse.llvm.org/t/where-to-report-documentations-bugs/67838#post_2)
-- [Impact of default PIE on llvm testing times](https://discourse.llvm.org/t/impact-of-default-pie-on-llvm-testing-times/67445#post_7)
-- [Status of Overaligned i8](https://discourse.llvm.org/t/status-of-overaligned-i8/66913#post_8)
 <!-- DISCOURSE-LLVM:END -->
