@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_6)
+- [Conersion of IR](https://discourse.llvm.org/t/conersion-of-ir/67850#post_1)
+- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_5)
 - [Multilibs example case](https://discourse.llvm.org/t/multilibs-example-case/67848#post_1)
 - [Rewrite IR external symbol names for ThinLTO](https://discourse.llvm.org/t/rewrite-ir-external-symbol-names-for-thinlto/67764#post_2)
-- [[RFC] Implementing a matrix multiply &amp; vector operation fusing optimization](https://discourse.llvm.org/t/rfc-implementing-a-matrix-multiply-vector-operation-fusing-optimization/67847#post_2)
-- [[RFC] Heterogeneous Debug Info](https://discourse.llvm.org/t/rfc-heterogeneous-debug-info/66872#post_8)
-- [[RFC] Implementing a matrix multiply &amp; vector operation fusing optimization](https://discourse.llvm.org/t/rfc-implementing-a-matrix-multiply-vector-operation-fusing-optimization/67847#post_1)
 <!-- DISCOURSE-LLVM:END -->
