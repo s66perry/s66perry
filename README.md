@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Elixir FE for MLIR](https://discourse.llvm.org/t/elixir-fe-for-mlir/67852#post_4)
+- [[RFC] CanonicalizerPass convergence / error handling](https://discourse.llvm.org/t/rfc-canonicalizerpass-convergence-error-handling/67333?page=4#post_62)
+- [Elixir FE for MLIR](https://discourse.llvm.org/t/elixir-fe-for-mlir/67852#post_3)
+- [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846#post_4)
 - [Elixir FE for MLIR](https://discourse.llvm.org/t/elixir-fe-for-mlir/67852#post_2)
-- [Elixir FE for MLIR](https://discourse.llvm.org/t/elixir-fe-for-mlir/67852#post_1)
-- [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846#post_3)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_36)
-- [Restrict `vector.type_cast` to only cast to alignable multi-dim vectors](https://discourse.llvm.org/t/restrict-vector-type-cast-to-only-cast-to-alignable-multi-dim-vectors/67811#post_2)
 <!-- DISCOURSE-LLVM:END -->
