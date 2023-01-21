@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846#post_3)
+- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_36)
+- [Restrict `vector.type_cast` to only cast to alignable multi-dim vectors](https://discourse.llvm.org/t/restrict-vector-type-cast-to-only-cast-to-alignable-multi-dim-vectors/67811#post_2)
 - [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846#post_2)
 - [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_35)
-- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_6)
-- [Conersion of IR](https://discourse.llvm.org/t/conersion-of-ir/67850#post_1)
-- [Machine intermediate representation](https://discourse.llvm.org/t/machine-intermediate-representation/67738#post_5)
 <!-- DISCOURSE-LLVM:END -->
