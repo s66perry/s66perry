@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 15.0.7 has been tagged](https://discourse.llvm.org/t/llvm-15-0-7-has-been-tagged/67637#post_10)
+- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_2)
 - [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_1)
 - [Elixir FE for MLIR](https://discourse.llvm.org/t/elixir-fe-for-mlir/67852#post_10)
 - [Elixir FE for MLIR](https://discourse.llvm.org/t/elixir-fe-for-mlir/67852#post_9)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_1)
-- [Elixir FE for MLIR](https://discourse.llvm.org/t/elixir-fe-for-mlir/67852#post_8)
 <!-- DISCOURSE-LLVM:END -->
