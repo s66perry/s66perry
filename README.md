@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Restrict `vector.type_cast` to only cast to alignable multi-dim vectors](https://discourse.llvm.org/t/restrict-vector-type-cast-to-only-cast-to-alignable-multi-dim-vectors/67811#post_4)
-- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_4)
-- [FirstOrderRecurrencePHI Unroll Parts](https://discourse.llvm.org/t/firstorderrecurrencephi-unroll-parts/67874#post_3)
-- [Why do the default UBSan flags turn off the vptr and function checks?](https://discourse.llvm.org/t/why-do-the-default-ubsan-flags-turn-off-the-vptr-and-function-checks/67879#post_1)
-- [FirstOrderRecurrencePHI Unroll Parts](https://discourse.llvm.org/t/firstorderrecurrencephi-unroll-parts/67874#post_2)
+- [Debugging Swift is just…awful](https://discourse.llvm.org/t/debugging-swift-is-just-awful/67866#post_6)
+- [How is TableGen used?](https://discourse.llvm.org/t/how-is-tablegen-used/67882#post_1)
+- [Debugging Swift is just…awful](https://discourse.llvm.org/t/debugging-swift-is-just-awful/67866#post_5)
+- [Debugging Swift is just…awful](https://discourse.llvm.org/t/debugging-swift-is-just-awful/67866#post_4)
+- [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846#post_5)
 <!-- DISCOURSE-LLVM:END -->
