@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_2)
-- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_1)
-- [Testing Phabricator Patches on buildbots](https://discourse.llvm.org/t/testing-phabricator-patches-on-buildbots/67906#post_2)
-- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_19)
-- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_1)
+- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_6)
+- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_5)
+- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_4)
+- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_3)
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_7)
 <!-- DISCOURSE-LLVM:END -->
