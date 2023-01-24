@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_2)
+- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_1)
+- [Testing Phabricator Patches on buildbots](https://discourse.llvm.org/t/testing-phabricator-patches-on-buildbots/67906#post_2)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_19)
 - [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_1)
-- [Testing Phabricator Patches on buildbots](https://discourse.llvm.org/t/testing-phabricator-patches-on-buildbots/67906#post_1)
-- [FirstOrderRecurrencePHI Unroll Parts](https://discourse.llvm.org/t/firstorderrecurrencephi-unroll-parts/67874#post_4)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_10)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
