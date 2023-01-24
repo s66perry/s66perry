@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Implementing a matrix multiply &amp; vector operation fusing optimization](https://discourse.llvm.org/t/rfc-implementing-a-matrix-multiply-vector-operation-fusing-optimization/67847#post_3)
-- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_10)
-- [PSA: You need to run `expand-strided-metadata` before `memref-to-llvm` now](https://discourse.llvm.org/t/psa-you-need-to-run-expand-strided-metadata-before-memref-to-llvm-now/66956#post_19)
-- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_9)
-- [Why is Windows builds of Clang built with some exception flags?](https://discourse.llvm.org/t/why-is-windows-builds-of-clang-built-with-some-exception-flags/67908#post_8)
+- [How is TableGen used?](https://discourse.llvm.org/t/how-is-tablegen-used/67882#post_9)
+- [Buildbots roundtable notes US LLVM Dev 2022](https://discourse.llvm.org/t/buildbots-roundtable-notes-us-llvm-dev-2022/66683#post_20)
+- [Packaging PDBs into distributions](https://discourse.llvm.org/t/packaging-pdbs-into-distributions/67891#post_2)
+- [[FOSDEM] Lunch before the LLVM dev room](https://discourse.llvm.org/t/fosdem-lunch-before-the-llvm-dev-room/67914#post_1)
+- [How is TableGen used?](https://discourse.llvm.org/t/how-is-tablegen-used/67882#post_8)
 <!-- DISCOURSE-LLVM:END -->
