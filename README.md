@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920#post_1)
-- [Release scripts to reproduce published release builds](https://discourse.llvm.org/t/release-scripts-to-reproduce-published-release-builds/67918#post_2)
-- [Release scripts to reproduce published release builds](https://discourse.llvm.org/t/release-scripts-to-reproduce-published-release-builds/67918#post_1)
-- [Error: invalid ‘static_cast’ from type ‘llvm::MCSection’ to type ‘llvm::MCSectionELF&amp;’](https://discourse.llvm.org/t/error-invalid-static-cast-from-type-llvm-mcsection-to-type-llvm-mcsectionelf/67915#post_2)
-- [14.0.6-final has been tagged](https://discourse.llvm.org/t/14-0-6-final-has-been-tagged/63432#post_16)
+- [[discussion] Fuzzing Pattern Application](https://discourse.llvm.org/t/discussion-fuzzing-pattern-application/67911#post_4)
+- [Open MLIR Meeting 1/26/2022: Controllable Transformations in MLIR with the `transforms` dialect](https://discourse.llvm.org/t/open-mlir-meeting-1-26-2022-controllable-transformations-in-mlir-with-the-transforms-dialect/67922#post_1)
+- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920#post_2)
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_9)
+- [Packaging PDBs into distributions](https://discourse.llvm.org/t/packaging-pdbs-into-distributions/67891#post_3)
 <!-- DISCOURSE-LLVM:END -->
