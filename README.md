@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_1)
+- [Testing Phabricator Patches on buildbots](https://discourse.llvm.org/t/testing-phabricator-patches-on-buildbots/67906#post_1)
+- [FirstOrderRecurrencePHI Unroll Parts](https://discourse.llvm.org/t/firstorderrecurrencephi-unroll-parts/67874#post_4)
+- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_10)
 - [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_43)
-- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_7)
-- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_6)
-- [Clang format: force parameters to one-line-each even if the statement does NOT overflow](https://discourse.llvm.org/t/clang-format-force-parameters-to-one-line-each-even-if-the-statement-does-not-overflow/67903#post_1)
-- [Possible conversion from C time_t to string](https://discourse.llvm.org/t/possible-conversion-from-c-time-t-to-string/67892#post_5)
 <!-- DISCOURSE-LLVM:END -->
