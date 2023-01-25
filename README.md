@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894#post_12)
-- [Release/16.x has been branched](https://discourse.llvm.org/t/release-16-x-has-been-branched/67940#post_1)
-- [Assertion `SubtargetFeatures::hasFlag&lpar;Feature&rpar; &amp;&amp; &quot;Feature flags should start with &#39;+&#39; or &#39;-&#39;&quot;&#39; failed](https://discourse.llvm.org/t/assertion-subtargetfeatures-hasflag-feature-feature-flags-should-start-with-or-failed/67939#post_1)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_10)
-- [[FOSDEM] Lunch before the LLVM dev room](https://discourse.llvm.org/t/fosdem-lunch-before-the-llvm-dev-room/67914#post_2)
+- [LLVM 15.0.7 missing libPolly.a](https://discourse.llvm.org/t/llvm-15-0-7-missing-libpolly-a/67942#post_1)
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_48)
+- [[RFC] Introduce &quot;gate keeper&quot; builders to reduce notification noise from long running bots](https://discourse.llvm.org/t/rfc-introduce-gate-keeper-builders-to-reduce-notification-noise-from-long-running-bots/67931#post_3)
+- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_13)
+- [[FOSDEM] Lunch before the LLVM dev room](https://discourse.llvm.org/t/fosdem-lunch-before-the-llvm-dev-room/67914#post_3)
 <!-- DISCOURSE-LLVM:END -->
