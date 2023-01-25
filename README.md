@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introduce &quot;gate keeper&quot; builders to reduce notification noise from long running bots](https://discourse.llvm.org/t/rfc-introduce-gate-keeper-builders-to-reduce-notification-noise-from-long-running-bots/67931#post_7)
+- [[RFC] Introduce &quot;gate keeper&quot; builders to reduce notification noise from long running bots](https://discourse.llvm.org/t/rfc-introduce-gate-keeper-builders-to-reduce-notification-noise-from-long-running-bots/67931#post_6)
+- [[RFC] Introduce &quot;gate keeper&quot; builders to reduce notification noise from long running bots](https://discourse.llvm.org/t/rfc-introduce-gate-keeper-builders-to-reduce-notification-noise-from-long-running-bots/67931#post_5)
+- [Initial patches for ARM64EC &lpar;Windows 11&rpar; now posted](https://discourse.llvm.org/t/initial-patches-for-arm64ec-windows-11-now-posted/62449#post_9)
 - [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_2)
-- [How to commit a reviewed patch](https://discourse.llvm.org/t/how-to-commit-a-reviewed-patch/67952#post_2)
-- [How to commit a reviewed patch](https://discourse.llvm.org/t/how-to-commit-a-reviewed-patch/67952#post_1)
-- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_8)
-- [Loop invariant expression using pointers not being optimized](https://discourse.llvm.org/t/loop-invariant-expression-using-pointers-not-being-optimized/67778#post_3)
 <!-- DISCOURSE-LLVM:END -->
