@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_2)
+- [How to commit a reviewed patch](https://discourse.llvm.org/t/how-to-commit-a-reviewed-patch/67952#post_2)
+- [How to commit a reviewed patch](https://discourse.llvm.org/t/how-to-commit-a-reviewed-patch/67952#post_1)
 - [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_8)
 - [Loop invariant expression using pointers not being optimized](https://discourse.llvm.org/t/loop-invariant-expression-using-pointers-not-being-optimized/67778#post_3)
-- [General confusion/problems with LLDB debugging Cortex M0](https://discourse.llvm.org/t/general-confusion-problems-with-lldb-debugging-cortex-m0/67457#post_4)
-- [General confusion/problems with LLDB debugging Cortex M0](https://discourse.llvm.org/t/general-confusion-problems-with-lldb-debugging-cortex-m0/67457#post_3)
-- [[RFC] llvm-libc tuning - suggested practices](https://discourse.llvm.org/t/rfc-llvm-libc-tuning-suggested-practices/67949#post_1)
 <!-- DISCOURSE-LLVM:END -->
