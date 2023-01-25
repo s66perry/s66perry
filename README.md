@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CreateShuffleVector](https://discourse.llvm.org/t/createshufflevector/67947#post_1)
 - [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_1)
 - [FirstOrderRecurrencePHI Unroll Parts](https://discourse.llvm.org/t/firstorderrecurrencephi-unroll-parts/67874#post_5)
 - [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_11)
 - [Assertion `SubtargetFeatures::hasFlag&lpar;Feature&rpar; &amp;&amp; &quot;Feature flags should start with &#39;+&#39; or &#39;-&#39;&quot;&#39; failed](https://discourse.llvm.org/t/assertion-subtargetfeatures-hasflag-feature-feature-flags-should-start-with-or-failed/67939#post_2)
-- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_3)
 <!-- DISCOURSE-LLVM:END -->
