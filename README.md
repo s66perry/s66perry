@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Loop invariant expression using pointers not being optimized](https://discourse.llvm.org/t/loop-invariant-expression-using-pointers-not-being-optimized/67778#post_4)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_39)
-- [_Bfloat16 arithmetic support akin to _Float16](https://discourse.llvm.org/t/bfloat16-arithmetic-support-akin-to-float16/67958#post_3)
-- [_Bfloat16 arithmetic support akin to _Float16](https://discourse.llvm.org/t/bfloat16-arithmetic-support-akin-to-float16/67958#post_2)
-- [Deprecating llvm::Optional&lt;X&gt;::hasValue/getValue/getValueOr](https://discourse.llvm.org/t/deprecating-llvm-optional-x-hasvalue-getvalue-getvalueor/63716?page=2#post_38)
+- [_Bfloat16 arithmetic support akin to _Float16](https://discourse.llvm.org/t/bfloat16-arithmetic-support-akin-to-float16/67958#post_6)
+- [_Bfloat16 arithmetic support akin to _Float16](https://discourse.llvm.org/t/bfloat16-arithmetic-support-akin-to-float16/67958#post_5)
+- [_Bfloat16 arithmetic support akin to _Float16](https://discourse.llvm.org/t/bfloat16-arithmetic-support-akin-to-float16/67958#post_4)
+- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481#post_19)
+- [128 bit shifts constants expanded when shift parts is legal](https://discourse.llvm.org/t/128-bit-shifts-constants-expanded-when-shift-parts-is-legal/67959#post_1)
 <!-- DISCOURSE-LLVM:END -->
