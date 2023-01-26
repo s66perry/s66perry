@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] llvm-libc tuning](https://discourse.llvm.org/t/rfc-llvm-libc-tuning/67980#post_1)
 - [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_5)
 - [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_36)
 - [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_4)
 - [Regarding ELF_RELOC](https://discourse.llvm.org/t/regarding-elf-reloc/67970#post_3)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_3)
 <!-- DISCOURSE-LLVM:END -->
