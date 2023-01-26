@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_7)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_6)
-- [[discussion] Fuzzing Pattern Application](https://discourse.llvm.org/t/discussion-fuzzing-pattern-application/67911#post_7)
-- [[RFC] llvm-libc tuning](https://discourse.llvm.org/t/rfc-llvm-libc-tuning/67980#post_1)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_5)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_10)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_9)
+- [Notice to out of tree targets: TargetLowering::hasBitPreservingFPLogic is being removed](https://discourse.llvm.org/t/notice-to-out-of-tree-targets-targetlowering-hasbitpreservingfplogic-is-being-removed/67975#post_3)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_8)
+- [Notice to out of tree targets: TargetLowering::hasBitPreservingFPLogic is being removed](https://discourse.llvm.org/t/notice-to-out-of-tree-targets-targetlowering-hasbitpreservingfplogic-is-being-removed/67975#post_2)
 <!-- DISCOURSE-LLVM:END -->
