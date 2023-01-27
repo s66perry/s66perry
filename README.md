@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_2)
+- [[RFC] Introduce &quot;gate keeper&quot; builders to reduce notification noise from long running bots](https://discourse.llvm.org/t/rfc-introduce-gate-keeper-builders-to-reduce-notification-noise-from-long-running-bots/67931#post_10)
 - [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_14)
 - [Flang compiled modules don&#39;t have a datalayout](https://discourse.llvm.org/t/flang-compiled-modules-dont-have-a-datalayout/67986#post_6)
 - [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_1)
-- [EuroLLVM 2023 - May 10-11, Glasgow, Scotland](https://discourse.llvm.org/t/eurollvm-2023-may-10-11-glasgow-scotland/67844#post_2)
-- [GSOC 2023: mentors and projects are needed!](https://discourse.llvm.org/t/gsoc-2023-mentors-and-projects-are-needed/67749#post_8)
 <!-- DISCOURSE-LLVM:END -->
