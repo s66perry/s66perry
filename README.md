@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Who is using Static Analyzer? Where are our users?](https://discourse.llvm.org/t/who-is-using-static-analyzer-where-are-our-users/67985#post_3)
+- [Who is using Static Analyzer? Where are our users?](https://discourse.llvm.org/t/who-is-using-static-analyzer-where-are-our-users/67985#post_2)
+- [Flang compiled modules don&#39;t have a datalayout](https://discourse.llvm.org/t/flang-compiled-modules-dont-have-a-datalayout/67986#post_5)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_16)
 - [Notice to out of tree targets: TargetLowering::hasBitPreservingFPLogic is being removed](https://discourse.llvm.org/t/notice-to-out-of-tree-targets-targetlowering-hasbitpreservingfplogic-is-being-removed/67975#post_4)
-- [128 bit shifts constants expanded when shift parts is legal](https://discourse.llvm.org/t/128-bit-shifts-constants-expanded-when-shift-parts-is-legal/67959#post_7)
-- [128 bit shifts constants expanded when shift parts is legal](https://discourse.llvm.org/t/128-bit-shifts-constants-expanded-when-shift-parts-is-legal/67959#post_6)
-- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481?page=2#post_24)
-- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
