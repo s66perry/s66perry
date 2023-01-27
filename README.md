@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_12)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_38)
-- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894#post_13)
-- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_11)
-- [BOLT: Accuracy of instrumentation mode?](https://discourse.llvm.org/t/bolt-accuracy-of-instrumentation-mode/67995#post_1)
+- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_14)
+- [Flang compiled modules don&#39;t have a datalayout](https://discourse.llvm.org/t/flang-compiled-modules-dont-have-a-datalayout/67986#post_6)
+- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_1)
+- [EuroLLVM 2023 - May 10-11, Glasgow, Scotland](https://discourse.llvm.org/t/eurollvm-2023-may-10-11-glasgow-scotland/67844#post_2)
+- [GSOC 2023: mentors and projects are needed!](https://discourse.llvm.org/t/gsoc-2023-mentors-and-projects-are-needed/67749#post_8)
 <!-- DISCOURSE-LLVM:END -->
