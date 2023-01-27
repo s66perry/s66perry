@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM buildbot will be restarted on January 27th, 2023 at 8:00 PM PST](https://discourse.llvm.org/t/llvm-buildbot-will-be-restarted-on-january-27th-2023-at-8-00-pm-pst/68007#post_1)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_8)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_7)
-- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481?page=2#post_25)
-- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_2)
+- [&quot;Host compiler does not support &#39;-fuse-ld=lld&#39;&quot; Error when running CMake command that used to work](https://discourse.llvm.org/t/host-compiler-does-not-support-fuse-ld-lld-error-when-running-cmake-command-that-used-to-work/68008#post_2)
+- [&quot;Host compiler does not support &#39;-fuse-ld=lld&#39;&quot; Error when running CMake command that used to work](https://discourse.llvm.org/t/host-compiler-does-not-support-fuse-ld-lld-error-when-running-cmake-command-that-used-to-work/68008#post_1)
+- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_14)
+- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_13)
+- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_12)
 <!-- DISCOURSE-LLVM:END -->
