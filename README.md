@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Getting Segmentation fault while retrieving values at runtime](https://discourse.llvm.org/t/getting-segmentation-fault-while-retrieving-values-at-runtime/67516?page=2#post_39)
-- [&quot;Host compiler does not support &#39;-fuse-ld=lld&#39;&quot; Error when running CMake command that used to work](https://discourse.llvm.org/t/host-compiler-does-not-support-fuse-ld-lld-error-when-running-cmake-command-that-used-to-work/68008#post_3)
-- [&quot;Host compiler does not support &#39;-fuse-ld=lld&#39;&quot; Error when running CMake command that used to work](https://discourse.llvm.org/t/host-compiler-does-not-support-fuse-ld-lld-error-when-running-cmake-command-that-used-to-work/68008#post_2)
-- [&quot;Host compiler does not support &#39;-fuse-ld=lld&#39;&quot; Error when running CMake command that used to work](https://discourse.llvm.org/t/host-compiler-does-not-support-fuse-ld-lld-error-when-running-cmake-command-that-used-to-work/68008#post_1)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_14)
+- [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_8)
+- [BOLT: Accuracy of instrumentation mode?](https://discourse.llvm.org/t/bolt-accuracy-of-instrumentation-mode/67995#post_2)
+- [EuroLLVM 2023 - May 10-11, Glasgow, Scotland](https://discourse.llvm.org/t/eurollvm-2023-may-10-11-glasgow-scotland/67844#post_3)
+- [Llvm-test-suite accepts merge commits](https://discourse.llvm.org/t/llvm-test-suite-accepts-merge-commits/68010#post_2)
+- [Llvm-test-suite accepts merge commits](https://discourse.llvm.org/t/llvm-test-suite-accepts-merge-commits/68010#post_1)
 <!-- DISCOURSE-LLVM:END -->
