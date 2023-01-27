@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_12)
+- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=2#post_38)
+- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894#post_13)
 - [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_11)
 - [BOLT: Accuracy of instrumentation mode?](https://discourse.llvm.org/t/bolt-accuracy-of-instrumentation-mode/67995#post_1)
-- [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_3)
-- [Connecting op verifiers to analyses](https://discourse.llvm.org/t/connecting-op-verifiers-to-analyses/3553#post_16)
-- [Proposal: Pass Manager Builder for MLIR](https://discourse.llvm.org/t/proposal-pass-manager-builder-for-mlir/67982#post_5)
 <!-- DISCOURSE-LLVM:END -->
