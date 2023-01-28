@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_3)
-- [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_8)
-- [BOLT: Accuracy of instrumentation mode?](https://discourse.llvm.org/t/bolt-accuracy-of-instrumentation-mode/67995#post_2)
-- [EuroLLVM 2023 - May 10-11, Glasgow, Scotland](https://discourse.llvm.org/t/eurollvm-2023-may-10-11-glasgow-scotland/67844#post_3)
-- [Llvm-test-suite accepts merge commits](https://discourse.llvm.org/t/llvm-test-suite-accepts-merge-commits/68010#post_2)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_6)
+- [[RFC] Grouping ops in TCP](https://discourse.llvm.org/t/rfc-grouping-ops-in-tcp/68013#post_1)
+- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262?page=2#post_25)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_5)
+- [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_9)
 <!-- DISCOURSE-LLVM:END -->
