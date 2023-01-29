@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to keep out-of-tree target in sync with upstream?](https://discourse.llvm.org/t/how-to-keep-out-of-tree-target-in-sync-with-upstream/68027#post_3)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_10)
+- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481?page=2#post_27)
+- [How to keep out-of-tree target in sync with upstream?](https://discourse.llvm.org/t/how-to-keep-out-of-tree-target-in-sync-with-upstream/68027#post_2)
 - [How to keep out-of-tree target in sync with upstream?](https://discourse.llvm.org/t/how-to-keep-out-of-tree-target-in-sync-with-upstream/68027#post_1)
-- [Correct way to lower tosa to linalg](https://discourse.llvm.org/t/correct-way-to-lower-tosa-to-linalg/68020#post_2)
-- [Clang format: force parameters to one-line-each even if the statement does NOT overflow](https://discourse.llvm.org/t/clang-format-force-parameters-to-one-line-each-even-if-the-statement-does-not-overflow/67903#post_3)
-- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_9)
-- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_8)
 <!-- DISCOURSE-LLVM:END -->
