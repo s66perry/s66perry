@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Integrate logic synthesis and optimisation capabilities](https://discourse.llvm.org/t/integrate-logic-synthesis-and-optimisation-capabilities/68038#post_5)
+- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018?page=2#post_30)
 - [Pointer-typed globals in larger-than-pointer integer containers fails](https://discourse.llvm.org/t/pointer-typed-globals-in-larger-than-pointer-integer-containers-fails/68072#post_3)
 - [Pointer-typed globals in larger-than-pointer integer containers fails](https://discourse.llvm.org/t/pointer-typed-globals-in-larger-than-pointer-integer-containers-fails/68072#post_2)
 - [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846#post_11)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_17)
-- [Pointer-typed globals in larger-than-pointer integer containers fails](https://discourse.llvm.org/t/pointer-typed-globals-in-larger-than-pointer-integer-containers-fails/68072#post_1)
 <!-- DISCOURSE-LLVM:END -->
