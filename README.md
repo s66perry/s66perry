@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PSA: Retire Linalg fusion-on-memrefs](https://discourse.llvm.org/t/psa-retire-linalg-fusion-on-memrefs/67720#post_6)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_18)
+- [Thoughts on making the LLD test suite depend on clang?](https://discourse.llvm.org/t/thoughts-on-making-the-lld-test-suite-depend-on-clang/68057#post_3)
 - [LLVM 15.0.7 missing libPolly.a](https://discourse.llvm.org/t/llvm-15-0-7-missing-libpolly-a/67942#post_4)
 - [Thoughts on making the LLD test suite depend on clang?](https://discourse.llvm.org/t/thoughts-on-making-the-lld-test-suite-depend-on-clang/68057#post_2)
-- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481?page=2#post_30)
-- [Thoughts on making the LLD test suite depend on clang?](https://discourse.llvm.org/t/thoughts-on-making-the-lld-test-suite-depend-on-clang/68057#post_1)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_12)
 <!-- DISCOURSE-LLVM:END -->
