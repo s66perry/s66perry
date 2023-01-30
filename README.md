@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PSA: Retire Linalg fusion-on-memrefs](https://discourse.llvm.org/t/psa-retire-linalg-fusion-on-memrefs/67720#post_6)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_18)
-- [Thoughts on making the LLD test suite depend on clang?](https://discourse.llvm.org/t/thoughts-on-making-the-lld-test-suite-depend-on-clang/68057#post_3)
-- [LLVM 15.0.7 missing libPolly.a](https://discourse.llvm.org/t/llvm-15-0-7-missing-libpolly-a/67942#post_4)
-- [Thoughts on making the LLD test suite depend on clang?](https://discourse.llvm.org/t/thoughts-on-making-the-lld-test-suite-depend-on-clang/68057#post_2)
+- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037#post_13)
+- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037#post_12)
+- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037#post_11)
+- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037#post_10)
+- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037#post_9)
 <!-- DISCOURSE-LLVM:END -->
