@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM] Addressing Rust optimization failures in LLVM](https://discourse.llvm.org/t/llvm-addressing-rust-optimization-failures-in-llvm/68096#post_1)
-- [GPU Working Group Meeting – Friday, Feb 3, 2023](https://discourse.llvm.org/t/gpu-working-group-meeting-friday-feb-3-2023/68095#post_1)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998?page=2#post_23)
-- [[LLVM] Improving compile times](https://discourse.llvm.org/t/llvm-improving-compile-times/68094#post_1)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998?page=2#post_22)
+- [Thoughts on PyTorch 2.0](https://discourse.llvm.org/t/thoughts-on-pytorch-2-0/67000#post_10)
+- [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_12)
+- [LLVM 16.0.0-rc1 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc1-has-been-tagged/68019#post_11)
+- [LLVM 16.0.0-rc1 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc1-has-been-tagged/68019#post_10)
+- [LLVM 16.0.0-rc1 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc1-has-been-tagged/68019#post_9)
 <!-- DISCOURSE-LLVM:END -->
