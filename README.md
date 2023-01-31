@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Idea for clang-tidy: NOLINT fix option](https://discourse.llvm.org/t/idea-for-clang-tidy-nolint-fix-option/68070#post_3)
+- [Integrate logic synthesis and optimisation capabilities](https://discourse.llvm.org/t/integrate-logic-synthesis-and-optimisation-capabilities/68038#post_7)
+- [Thoughts on making the LLD test suite depend on clang?](https://discourse.llvm.org/t/thoughts-on-making-the-lld-test-suite-depend-on-clang/68057#post_4)
 - [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_16)
 - [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_15)
-- [Thoughts on PyTorch 2.0](https://discourse.llvm.org/t/thoughts-on-pytorch-2-0/67000#post_10)
-- [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_12)
-- [LLVM 16.0.0-rc1 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc1-has-been-tagged/68019#post_11)
 <!-- DISCOURSE-LLVM:END -->
