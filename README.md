@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Embedded Toolchains Working Group call this Thursday 2nd of February](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-2nd-of-february/68086#post_1)
+- [Unexpected failure: use of undeclared identifier &#39;not&#39;](https://discourse.llvm.org/t/unexpected-failure-use-of-undeclared-identifier-not/68085#post_1)
+- [LLVM in VCPKG and painful update](https://discourse.llvm.org/t/llvm-in-vcpkg-and-painful-update/68051#post_3)
+- [LLVM in VCPKG and painful update](https://discourse.llvm.org/t/llvm-in-vcpkg-and-painful-update/68051#post_2)
 - [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_20)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_19)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998#post_18)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978#post_20)
-- [LLVM 16.0.0-rc1 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc1-has-been-tagged/68019#post_5)
 <!-- DISCOURSE-LLVM:END -->
