@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481?page=2#post_35)
-- [inferReturnTypes triggers a failure in tensor.InsertSliceOp](https://discourse.llvm.org/t/inferreturntypes-triggers-a-failure-in-tensor-insertsliceop/68001#post_2)
-- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494#post_7)
-- [Nullability analyzer doesn&#39;t seem to work &lpar;and how to fix it&rpar;](https://discourse.llvm.org/t/nullability-analyzer-doesnt-seem-to-work-and-how-to-fix-it/67683#post_3)
-- [Pointer-typed globals in larger-than-pointer integer containers fails](https://discourse.llvm.org/t/pointer-typed-globals-in-larger-than-pointer-integer-containers-fails/68072#post_5)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004#post_20)
+- [inferReturnTypes triggers a failure in tensor.InsertSliceOp](https://discourse.llvm.org/t/inferreturntypes-triggers-a-failure-in-tensor-insertsliceop/68001#post_9)
+- [inferReturnTypes triggers a failure in tensor.InsertSliceOp](https://discourse.llvm.org/t/inferreturntypes-triggers-a-failure-in-tensor-insertsliceop/68001#post_8)
+- [inferReturnTypes triggers a failure in tensor.InsertSliceOp](https://discourse.llvm.org/t/inferreturntypes-triggers-a-failure-in-tensor-insertsliceop/68001#post_7)
+- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920#post_9)
 <!-- DISCOURSE-LLVM:END -->
