@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What is the correct sequence of IR instructions to generate subs+sbc pair?](https://discourse.llvm.org/t/what-is-the-correct-sequence-of-ir-instructions-to-generate-subs-sbc-pair/68133#post_1)
-- [Build of 15.0.7 fails due to libstdc++ not being linked against](https://discourse.llvm.org/t/build-of-15-0-7-fails-due-to-libstdc-not-being-linked-against/68132#post_1)
-- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_3)
-- [How to bufferize `scf.execute_region` op?](https://discourse.llvm.org/t/how-to-bufferize-scf-execute-region-op/68081#post_4)
-- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_3)
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_6)
+- [Hash of checkout llvm-mctoll](https://discourse.llvm.org/t/hash-of-checkout-llvm-mctoll/68134#post_1)
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_5)
+- [Pointer-typed globals in larger-than-pointer integer containers fails](https://discourse.llvm.org/t/pointer-typed-globals-in-larger-than-pointer-integer-containers-fails/68072#post_6)
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_4)
 <!-- DISCOURSE-LLVM:END -->
