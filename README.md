@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Build of 15.0.7 fails due to libstdc++ not being linked against](https://discourse.llvm.org/t/build-of-15-0-7-fails-due-to-libstdc-not-being-linked-against/68132#post_5)
+- [Build of 15.0.7 fails due to libstdc++ not being linked against](https://discourse.llvm.org/t/build-of-15-0-7-fails-due-to-libstdc-not-being-linked-against/68132#post_4)
+- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998?page=2#post_26)
+- [Build of 15.0.7 fails due to libstdc++ not being linked against](https://discourse.llvm.org/t/build-of-15-0-7-fails-due-to-libstdc-not-being-linked-against/68132#post_3)
 - [How to bufferize `scf.execute_region` op?](https://discourse.llvm.org/t/how-to-bufferize-scf-execute-region-op/68081#post_6)
-- [[RFC] Add support for OpenHarmony OS](https://discourse.llvm.org/t/rfc-add-support-for-openharmony-os/66656#post_6)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978?page=2#post_29)
-- [[RFC] Add support for OpenHarmony OS](https://discourse.llvm.org/t/rfc-add-support-for-openharmony-os/66656#post_5)
-- [RFC: Time to drop legacy runtime paths?](https://discourse.llvm.org/t/rfc-time-to-drop-legacy-runtime-paths/64628?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
