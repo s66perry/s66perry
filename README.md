@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Parsing C type from PragmaHandler in clang plugin?](https://discourse.llvm.org/t/parsing-c-type-from-pragmahandler-in-clang-plugin/68136#post_1)
-- [What is the correct sequence of IR instructions to generate subs+sbc pair?](https://discourse.llvm.org/t/what-is-the-correct-sequence-of-ir-instructions-to-generate-subs-sbc-pair/68133#post_3)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978?page=2#post_28)
-- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_26)
-- [Hash of checkout llvm-mctoll](https://discourse.llvm.org/t/hash-of-checkout-llvm-mctoll/68134#post_4)
+- [`llvm.vp.*` mask semantics not being honored when targeting x86?](https://discourse.llvm.org/t/llvm-vp-mask-semantics-not-being-honored-when-targeting-x86/68138#post_2)
+- [`llvm.vp.*` mask semantics not being honored when targeting x86?](https://discourse.llvm.org/t/llvm-vp-mask-semantics-not-being-honored-when-targeting-x86/68138#post_1)
+- [RFC: Adding the AMD/GraphCore/[maybe others] float8 formats to APFloat](https://discourse.llvm.org/t/rfc-adding-the-amd-graphcore-maybe-others-float8-formats-to-apfloat/67969#post_4)
+- [RFC: Add GitHub autolinks to Phab reviews, PRs, etc.?](https://discourse.llvm.org/t/rfc-add-github-autolinks-to-phab-reviews-prs-etc/68137#post_2)
+- [RFC: Add GitHub autolinks to Phab reviews, PRs, etc.?](https://discourse.llvm.org/t/rfc-add-github-autolinks-to-phab-reviews-prs-etc/68137#post_1)
 <!-- DISCOURSE-LLVM:END -->
