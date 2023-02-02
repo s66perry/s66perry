@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [inferReturnTypes triggers a failure in tensor.InsertSliceOp](https://discourse.llvm.org/t/inferreturntypes-triggers-a-failure-in-tensor-insertsliceop/68001#post_10)
 - [&quot;Use after move&quot; sanitizer support](https://discourse.llvm.org/t/use-after-move-sanitizer-support/68143#post_1)
 - [Parsing C type from PragmaHandler in clang plugin?](https://discourse.llvm.org/t/parsing-c-type-from-pragmahandler-in-clang-plugin/68136#post_6)
 - [Parsing C type from PragmaHandler in clang plugin?](https://discourse.llvm.org/t/parsing-c-type-from-pragmahandler-in-clang-plugin/68136#post_5)
 - [Parsing C type from PragmaHandler in clang plugin?](https://discourse.llvm.org/t/parsing-c-type-from-pragmahandler-in-clang-plugin/68136#post_4)
-- [Parsing C type from PragmaHandler in clang plugin?](https://discourse.llvm.org/t/parsing-c-type-from-pragmahandler-in-clang-plugin/68136#post_3)
 <!-- DISCOURSE-LLVM:END -->
