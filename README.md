@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Model matrices in the llvm IR like &lpar;&lt;4 x 4 x float&gt;&rpar;](https://discourse.llvm.org/t/model-matrices-in-the-llvm-ir-like-4-x-4-x-float/68173#post_3)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_32)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_23)
+- [Model matrices in the llvm IR like &lpar;&lt;4 x 4 x float&gt;&rpar;](https://discourse.llvm.org/t/model-matrices-in-the-llvm-ir-like-4-x-4-x-float/68173#post_2)
 - [Adding an intrinsic function to LLVM](https://discourse.llvm.org/t/adding-an-intrinsic-function-to-llvm/68175#post_1)
-- [[RFC] Proper low level abstractions to LLVM &lpar;Bits, Bytes, Addresses and Masks&rpar;](https://discourse.llvm.org/t/rfc-proper-low-level-abstractions-to-llvm-bits-bytes-addresses-and-masks/63081#post_20)
-- [LLVM 16.0.0-rc1 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc1-has-been-tagged/68019#post_14)
-- [Model matrices in the llvm IR like &lpar;&lt;4 x 4 x float&gt;&rpar;](https://discourse.llvm.org/t/model-matrices-in-the-llvm-ir-like-4-x-4-x-float/68173#post_1)
-- [How to bufferize `scf.execute_region` op?](https://discourse.llvm.org/t/how-to-bufferize-scf-execute-region-op/68081#post_8)
 <!-- DISCOURSE-LLVM:END -->
