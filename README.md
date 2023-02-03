@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_10)
 - [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_31)
 - [Runtime build failure](https://discourse.llvm.org/t/runtime-build-failure/68161#post_5)
 - [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_30)
 - [CMake Warning: Manually-specified variables](https://discourse.llvm.org/t/cmake-warning-manually-specified-variables/68016#post_5)
-- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_9)
 <!-- DISCOURSE-LLVM:END -->
