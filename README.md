@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Some questions about mlir lower](https://discourse.llvm.org/t/some-questions-about-mlir-lower/68166#post_5)
-- [A question about LLVM_IntrOpBase](https://discourse.llvm.org/t/a-question-about-llvm-intropbase/68170#post_2)
-- [[LLVM] Improving compile times](https://discourse.llvm.org/t/llvm-improving-compile-times/68094#post_2)
-- [A question about LLVM_IntrOpBase](https://discourse.llvm.org/t/a-question-about-llvm-intropbase/68170#post_1)
-- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_4)
+- [Model matrices in the llvm IR like &lpar;&lt;4 x 4 x float&gt;&rpar;](https://discourse.llvm.org/t/model-matrices-in-the-llvm-ir-like-4-x-4-x-float/68173#post_1)
+- [How to bufferize `scf.execute_region` op?](https://discourse.llvm.org/t/how-to-bufferize-scf-execute-region-op/68081#post_8)
+- [How can I compile LLVM for windows on ubuntu or windows](https://discourse.llvm.org/t/how-can-i-compile-llvm-for-windows-on-ubuntu-or-windows/68172#post_1)
+- [Error 137: Out Of Memory Killer](https://discourse.llvm.org/t/error-137-out-of-memory-killer/68098#post_3)
+- [Some questions about mlir lower](https://discourse.llvm.org/t/some-questions-about-mlir-lower/68166#post_6)
 <!-- DISCOURSE-LLVM:END -->
