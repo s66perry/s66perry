@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=4#post_61)
+- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_60)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_35)
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_12)
 - [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_14)
-- [What is the status of `dbg.addr`?](https://discourse.llvm.org/t/what-is-the-status-of-dbg-addr/62898#post_10)
-- [Adding instruction ids in debug dumps](https://discourse.llvm.org/t/adding-instruction-ids-in-debug-dumps/68188#post_1)
-- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037?page=2#post_22)
-- [How can I take the value of an operation? Then print it](https://discourse.llvm.org/t/how-can-i-take-the-value-of-an-operation-then-print-it/68187#post_3)
 <!-- DISCOURSE-LLVM:END -->
