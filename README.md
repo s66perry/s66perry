@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PseudoInstExpansion Pseudo result &#39;JIRL&#39; operand count mismatch](https://discourse.llvm.org/t/pseudoinstexpansion-pseudo-result-jirl-operand-count-mismatch/68190#post_1)
+- [How can I compile LLVM for windows on ubuntu or windows](https://discourse.llvm.org/t/how-can-i-compile-llvm-for-windows-on-ubuntu-or-windows/68172#post_4)
 - [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=4#post_61)
 - [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=3#post_60)
 - [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_35)
-- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_12)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_14)
 <!-- DISCOURSE-LLVM:END -->
