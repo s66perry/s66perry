@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Listeners for RewriterBase](https://discourse.llvm.org/t/rfc-listeners-for-rewriterbase/68198#post_1)
 - [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=2#post_37)
 - [How can I take the value of an operation? Then print it](https://discourse.llvm.org/t/how-can-i-take-the-value-of-an-operation-then-print-it/68187#post_5)
 - [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815#post_16)
 - [How can I take the value of an operation? Then print it](https://discourse.llvm.org/t/how-can-i-take-the-value-of-an-operation-then-print-it/68187#post_4)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=4#post_62)
 <!-- DISCOURSE-LLVM:END -->
