@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_65)
-- [Tiling on gml_st or linalg](https://discourse.llvm.org/t/tiling-on-gml-st-or-linalg/68254#post_2)
-- [Warnings while building LLVM](https://discourse.llvm.org/t/warnings-while-building-llvm/68258#post_2)
-- [Warnings while building LLVM](https://discourse.llvm.org/t/warnings-while-building-llvm/68258#post_1)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257#post_1)
+- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_1)
+- [Instruction Latency with the RocketSchedmodel](https://discourse.llvm.org/t/instruction-latency-with-the-rocketschedmodel/68259#post_1)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257#post_2)
+- [How do I debug the mlir-translate bug?](https://discourse.llvm.org/t/how-do-i-debug-the-mlir-translate-bug/68206#post_6)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_66)
 <!-- DISCOURSE-LLVM:END -->
