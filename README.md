@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257#post_6)
+- [ELF mergeable sections](https://discourse.llvm.org/t/elf-mergeable-sections/68279#post_2)
+- [[RFC][Flang][driver] Try to support `flang -fc1as`](https://discourse.llvm.org/t/rfc-flang-driver-try-to-support-flang-fc1as/68267#post_3)
+- [[RFC][Flang][driver] Try to support `flang -fc1as`](https://discourse.llvm.org/t/rfc-flang-driver-try-to-support-flang-fc1as/68267#post_2)
 - [Question about register spilling, rematerialization, and racy accesses](https://discourse.llvm.org/t/question-about-register-spilling-rematerialization-and-racy-accesses/68280#post_1)
-- [ELF mergeable sections](https://discourse.llvm.org/t/elf-mergeable-sections/68279#post_1)
-- [Specializing std::formatter not working?](https://discourse.llvm.org/t/specializing-std-formatter-not-working/68278#post_1)
-- [[PSA] Default `fold` method signature has been switched to using `FoldAdaptor`](https://discourse.llvm.org/t/psa-default-fold-method-signature-has-been-switched-to-using-foldadaptor/68277#post_1)
-- [How code for waiting a spinlock?](https://discourse.llvm.org/t/how-code-for-waiting-a-spinlock/68269#post_3)
 <!-- DISCOURSE-LLVM:END -->
