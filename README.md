@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unable to compile rvv vector intrinsics with clang](https://discourse.llvm.org/t/unable-to-compile-rvv-vector-intrinsics-with-clang/68265#post_2)
-- [How code for waiting a spinlock?](https://discourse.llvm.org/t/how-code-for-waiting-a-spinlock/68269#post_1)
-- [[RFC][Flang][driver] Try to support `flang -fc1as`](https://discourse.llvm.org/t/rfc-flang-driver-try-to-support-flang-fc1as/68267#post_1)
-- [PseudoInstExpansion Pseudo result &#39;JIRL&#39; operand count mismatch](https://discourse.llvm.org/t/pseudoinstexpansion-pseudo-result-jirl-operand-count-mismatch/68190#post_10)
-- [Unable to compile rvv vector intrinsics with clang](https://discourse.llvm.org/t/unable-to-compile-rvv-vector-intrinsics-with-clang/68265#post_1)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_67)
+- [Idea for clang-tidy: NOLINT fix option](https://discourse.llvm.org/t/idea-for-clang-tidy-nolint-fix-option/68070#post_4)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_37)
+- [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=2#post_36)
+- [What is the status of `dbg.addr`?](https://discourse.llvm.org/t/what-is-the-status-of-dbg-addr/62898#post_12)
 <!-- DISCOURSE-LLVM:END -->
