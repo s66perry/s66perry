@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902?page=2#post_31)
-- [Runtime issues when using cufftXtSetCallback](https://discourse.llvm.org/t/runtime-issues-when-using-cufftxtsetcallback/68276#post_1)
-- [How to execute various MLIR programs?](https://discourse.llvm.org/t/how-to-execute-various-mlir-programs/68274#post_2)
-- [How code for waiting a spinlock?](https://discourse.llvm.org/t/how-code-for-waiting-a-spinlock/68269#post_2)
-- [How to execute various MLIR programs?](https://discourse.llvm.org/t/how-to-execute-various-mlir-programs/68274#post_1)
+- [Question about register spilling, rematerialization, and racy accesses](https://discourse.llvm.org/t/question-about-register-spilling-rematerialization-and-racy-accesses/68280#post_1)
+- [ELF mergeable sections](https://discourse.llvm.org/t/elf-mergeable-sections/68279#post_1)
+- [Specializing std::formatter not working?](https://discourse.llvm.org/t/specializing-std-formatter-not-working/68278#post_1)
+- [[PSA] Default `fold` method signature has been switched to using `FoldAdaptor`](https://discourse.llvm.org/t/psa-default-fold-method-signature-has-been-switched-to-using-foldadaptor/68277#post_1)
+- [How code for waiting a spinlock?](https://discourse.llvm.org/t/how-code-for-waiting-a-spinlock/68269#post_3)
 <!-- DISCOURSE-LLVM:END -->
