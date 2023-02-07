@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Coverage] Support a hierarchical directory structure in generated coverage html reports](https://discourse.llvm.org/t/coverage-support-a-hierarchical-directory-structure-in-generated-coverage-html-reports/68239#post_1)
+- [How to pass analysis info from one pass to another](https://discourse.llvm.org/t/how-to-pass-analysis-info-from-one-pass-to-another/68237#post_2)
+- [How to pass analysis info from one pass to another](https://discourse.llvm.org/t/how-to-pass-analysis-info-from-one-pass-to-another/68237#post_1)
 - [[RFC] Load Instruction: Uninitialized Memory Semantics](https://discourse.llvm.org/t/rfc-load-instruction-uninitialized-memory-semantics/67481?page=2#post_38)
 - [Array globals in LLVM dialect](https://discourse.llvm.org/t/array-globals-in-llvm-dialect/68229#post_3)
-- [[Clang] Improve and stabilize the static analyzer&#39;s &quot;taint analysis&quot; checks](https://discourse.llvm.org/t/clang-improve-and-stabilize-the-static-analyzers-taint-analysis-checks/68235#post_1)
-- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_16)
-- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130#post_15)
 <!-- DISCOURSE-LLVM:END -->
