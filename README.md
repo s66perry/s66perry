@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_1)
-- [macOS dyld shared cache](https://discourse.llvm.org/t/macos-dyld-shared-cache/68054#post_2)
-- [Tiling on gml_st or linalg](https://discourse.llvm.org/t/tiling-on-gml-st-or-linalg/68254#post_5)
-- [[Flang][driver] Behavior of unsupported gfortran flags when fed into flang](https://discourse.llvm.org/t/flang-driver-behavior-of-unsupported-gfortran-flags-when-fed-into-flang/68289#post_2)
-- [Unresolved issues from the LLVM 15.x release](https://discourse.llvm.org/t/unresolved-issues-from-the-llvm-15-x-release/66071?page=3#post_42)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_23)
+- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018?page=2#post_32)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_22)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_21)
+- [NVPTX: SyncScope/AtomicOrdering of atomicrmw support?](https://discourse.llvm.org/t/nvptx-syncscope-atomicordering-of-atomicrmw-support/68090#post_2)
 <!-- DISCOURSE-LLVM:END -->
