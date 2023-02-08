@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Extending ASTMatchers to Support C++20 Concepts](https://discourse.llvm.org/t/rfc-extending-astmatchers-to-support-c-20-concepts/67434#post_4)
-- [Specializing std::formatter not working?](https://discourse.llvm.org/t/specializing-std-formatter-not-working/68278#post_4)
-- [Link failed using riscv clang for rv64imac arch](https://discourse.llvm.org/t/link-failed-using-riscv-clang-for-rv64imac-arch/68303#post_2)
-- [Link failed using riscv clang for rv64imac arch](https://discourse.llvm.org/t/link-failed-using-riscv-clang-for-rv64imac-arch/68303#post_1)
-- [What does Clang do with unsupported GCC flags?](https://discourse.llvm.org/t/what-does-clang-do-with-unsupported-gcc-flags/68300#post_3)
+- [Why do sub-byte loads on AArch64 not require masking?](https://discourse.llvm.org/t/why-do-sub-byte-loads-on-aarch64-not-require-masking/68309#post_1)
+- [[Bufferization] Unnecessary insertion of memref.copy introduced by recent changes upstream](https://discourse.llvm.org/t/bufferization-unnecessary-insertion-of-memref-copy-introduced-by-recent-changes-upstream/68308#post_1)
+- [Next Toronto Clang / LLVM Meetup - Thursday, Feb 16](https://discourse.llvm.org/t/next-toronto-clang-llvm-meetup-thursday-feb-16/68295#post_3)
+- [Llvm-lit -vv broken?](https://discourse.llvm.org/t/llvm-lit-vv-broken/67974#post_4)
+- [Reporting phabricator spam](https://discourse.llvm.org/t/reporting-phabricator-spam/68204#post_4)
 <!-- DISCOURSE-LLVM:END -->
