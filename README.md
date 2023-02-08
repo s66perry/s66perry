@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_23)
-- [[RFC] Floating-point accuracy control](https://discourse.llvm.org/t/rfc-floating-point-accuracy-control/66018?page=2#post_32)
-- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_22)
-- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_21)
-- [NVPTX: SyncScope/AtomicOrdering of atomicrmw support?](https://discourse.llvm.org/t/nvptx-syncscope-atomicordering-of-atomicrmw-support/68090#post_2)
+- [Error 137: Out Of Memory Killer](https://discourse.llvm.org/t/error-137-out-of-memory-killer/68098#post_4)
+- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666?page=2#post_30)
+- [Using GitHub Actions for Releasing](https://discourse.llvm.org/t/using-github-actions-for-releasing/67666?page=2#post_29)
+- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894#post_17)
+- [TargetParser: auto-generation of RISCV CPU definitions](https://discourse.llvm.org/t/targetparser-auto-generation-of-riscv-cpu-definitions/66419#post_12)
 <!-- DISCOURSE-LLVM:END -->
