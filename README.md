@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Transform Dialect Cheatsheet](https://discourse.llvm.org/t/transform-dialect-cheatsheet/68368#post_1)
-- [Question about getelementptr inbounds with offset 0](https://discourse.llvm.org/t/question-about-getelementptr-inbounds-with-offset-0/62533#post_15)
-- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_9)
-- [Call for ODM Talks - LEC, Simulation, Synthesis, Vendor-specific dialect&lpar;s&rpar;/outputs](https://discourse.llvm.org/t/call-for-odm-talks-lec-simulation-synthesis-vendor-specific-dialect-s-outputs/68354#post_2)
-- [[RFC] Switching the LLVM Dialect and Dialect lowerings to opaque pointers](https://discourse.llvm.org/t/rfc-switching-the-llvm-dialect-and-dialect-lowerings-to-opaque-pointers/68179#post_9)
+- [Support for &quot;zicsr&quot; and &quot;zifencei&quot; extensions](https://discourse.llvm.org/t/support-for-zicsr-and-zifencei-extensions/68369#post_2)
+- [Support for &quot;zicsr&quot; and &quot;zifencei&quot; extensions](https://discourse.llvm.org/t/support-for-zicsr-and-zifencei-extensions/68369#post_1)
+- [Open MLIR Meeting 2/9/2023: Deep Dive on MLIR Internals, Operation&amp;Attribute, towards Properties](https://discourse.llvm.org/t/open-mlir-meeting-2-9-2023-deep-dive-on-mlir-internals-operation-attribute-towards-properties/68297#post_6)
+- [[RFC] Switching the LLVM Dialect and Dialect lowerings to opaque pointers](https://discourse.llvm.org/t/rfc-switching-the-llvm-dialect-and-dialect-lowerings-to-opaque-pointers/68179#post_10)
+- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_6)
 <!-- DISCOURSE-LLVM:END -->
