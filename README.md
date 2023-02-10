@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257#post_14)
-- [Open MLIR Meeting 2/9/2023: Deep Dive on MLIR Internals, Operation&amp;Attribute, towards Properties](https://discourse.llvm.org/t/open-mlir-meeting-2-9-2023-deep-dive-on-mlir-internals-operation-attribute-towards-properties/68297#post_4)
-- [RFC: Make Multiple Unsequenced Modifications an Error by Default](https://discourse.llvm.org/t/rfc-make-multiple-unsequenced-modifications-an-error-by-default/68349#post_10)
-- [Link failed using riscv clang for rv64imac arch](https://discourse.llvm.org/t/link-failed-using-riscv-clang-for-rv64imac-arch/68303#post_7)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257#post_13)
+- [[RFC] IR Versioning](https://discourse.llvm.org/t/rfc-ir-versioning/5893?page=2#post_30)
+- [Question about memref.subview verification](https://discourse.llvm.org/t/question-about-memref-subview-verification/5885#post_5)
+- [Testing clang Fix-Its attached to notes](https://discourse.llvm.org/t/testing-clang-fix-its-attached-to-notes/68317#post_3)
+- [[RFC] Switching the LLVM Dialect and Dialect lowerings to opaque pointers](https://discourse.llvm.org/t/rfc-switching-the-llvm-dialect-and-dialect-lowerings-to-opaque-pointers/68179#post_7)
+- [[RFC] Switching the LLVM Dialect and Dialect lowerings to opaque pointers](https://discourse.llvm.org/t/rfc-switching-the-llvm-dialect-and-dialect-lowerings-to-opaque-pointers/68179#post_6)
 <!-- DISCOURSE-LLVM:END -->
