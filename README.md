@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [C code snippets that generate instructions from bitmanip extension in LLVM-RISCV backend](https://discourse.llvm.org/t/c-code-snippets-that-generate-instructions-from-bitmanip-extension-in-llvm-riscv-backend/68321#post_3)
+- [Flang compiled modules don&#39;t have a datalayout](https://discourse.llvm.org/t/flang-compiled-modules-dont-have-a-datalayout/67986#post_8)
+- [LLVM 16.0.0-rc2 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc2-has-been-tagged/68299#post_7)
+- [LLVM 16.0.0-rc2 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc2-has-been-tagged/68299#post_6)
 - [[RFC] Parallel loops on tensors in MLIR](https://discourse.llvm.org/t/rfc-parallel-loops-on-tensors-in-mlir/68332#post_10)
-- [[RFC] Parallel loops on tensors in MLIR](https://discourse.llvm.org/t/rfc-parallel-loops-on-tensors-in-mlir/68332#post_9)
-- [LLVM 16.0.0-rc2 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc2-has-been-tagged/68299#post_5)
-- [Changes to MCInstrDesc and tablegenned instruction tables &lpar;was Re: Impact of default PIE on llvm testing times&rpar;](https://discourse.llvm.org/t/changes-to-mcinstrdesc-and-tablegenned-instruction-tables-was-re-impact-of-default-pie-on-llvm-testing-times/68330#post_4)
-- [Lld link newlib nano show out of range error for _printf_float](https://discourse.llvm.org/t/lld-link-newlib-nano-show-out-of-range-error-for-printf-float/68360#post_1)
 <!-- DISCOURSE-LLVM:END -->
