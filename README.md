@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] IR Versioning](https://discourse.llvm.org/t/rfc-ir-versioning/5893?page=2#post_31)
-- [[Clang] Improve and stabilize the static analyzer&#39;s &quot;taint analysis&quot; checks](https://discourse.llvm.org/t/clang-improve-and-stabilize-the-static-analyzers-taint-analysis-checks/68235#post_3)
-- [Link failed using riscv clang for rv64imac arch](https://discourse.llvm.org/t/link-failed-using-riscv-clang-for-rv64imac-arch/68303#post_8)
-- [LLVM 16.0.0-rc2 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc2-has-been-tagged/68299#post_4)
-- [[Clang] Improve and stabilize the static analyzer&#39;s &quot;taint analysis&quot; checks](https://discourse.llvm.org/t/clang-improve-and-stabilize-the-static-analyzers-taint-analysis-checks/68235#post_2)
+- [Whether there is a way to get out the address of the memref?](https://discourse.llvm.org/t/whether-there-is-a-way-to-get-out-the-address-of-the-memref/68356#post_4)
+- [Whether there is a way to get out the address of the memref?](https://discourse.llvm.org/t/whether-there-is-a-way-to-get-out-the-address-of-the-memref/68356#post_3)
+- [Whether there is a way to get out the address of the memref?](https://discourse.llvm.org/t/whether-there-is-a-way-to-get-out-the-address-of-the-memref/68356#post_2)
+- [How to create &quot;global&quot; trait and interface?](https://discourse.llvm.org/t/how-to-create-global-trait-and-interface/68357#post_2)
+- [How to create &quot;global&quot; trait and interface?](https://discourse.llvm.org/t/how-to-create-global-trait-and-interface/68357#post_1)
 <!-- DISCOURSE-LLVM:END -->
