@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Support for &quot;zicsr&quot; and &quot;zifencei&quot; extensions](https://discourse.llvm.org/t/support-for-zicsr-and-zifencei-extensions/68369#post_2)
-- [Support for &quot;zicsr&quot; and &quot;zifencei&quot; extensions](https://discourse.llvm.org/t/support-for-zicsr-and-zifencei-extensions/68369#post_1)
-- [Open MLIR Meeting 2/9/2023: Deep Dive on MLIR Internals, Operation&amp;Attribute, towards Properties](https://discourse.llvm.org/t/open-mlir-meeting-2-9-2023-deep-dive-on-mlir-internals-operation-attribute-towards-properties/68297#post_6)
-- [[RFC] Switching the LLVM Dialect and Dialect lowerings to opaque pointers](https://discourse.llvm.org/t/rfc-switching-the-llvm-dialect-and-dialect-lowerings-to-opaque-pointers/68179#post_10)
-- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_6)
+- [Does clang support CUDA&#39;s dynamic parallelism feature?](https://discourse.llvm.org/t/does-clang-support-cudas-dynamic-parallelism-feature/68373#post_1)
+- [RFC: Make Multiple Unsequenced Modifications an Error by Default](https://discourse.llvm.org/t/rfc-make-multiple-unsequenced-modifications-an-error-by-default/68349#post_11)
+- [Call for ODM Talks - LEC, Simulation, Synthesis, Vendor-specific dialect&lpar;s&rpar;/outputs](https://discourse.llvm.org/t/call-for-odm-talks-lec-simulation-synthesis-vendor-specific-dialect-s-outputs/68354#post_4)
+- [Question about register spilling, rematerialization, and racy accesses](https://discourse.llvm.org/t/question-about-register-spilling-rematerialization-and-racy-accesses/68280#post_4)
+- [Why do sub-byte loads on AArch64 not require masking?](https://discourse.llvm.org/t/why-do-sub-byte-loads-on-aarch64-not-require-masking/68309#post_7)
 <!-- DISCOURSE-LLVM:END -->
