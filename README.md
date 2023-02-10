@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 16.0.0-rc2 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc2-has-been-tagged/68299#post_8)
-- [Support for &quot;zicsr&quot; and &quot;zifencei&quot; extensions](https://discourse.llvm.org/t/support-for-zicsr-and-zifencei-extensions/68369#post_3)
-- [Does clang support CUDA&#39;s dynamic parallelism feature?](https://discourse.llvm.org/t/does-clang-support-cudas-dynamic-parallelism-feature/68373#post_1)
-- [RFC: Make Multiple Unsequenced Modifications an Error by Default](https://discourse.llvm.org/t/rfc-make-multiple-unsequenced-modifications-an-error-by-default/68349#post_11)
-- [Call for ODM Talks - LEC, Simulation, Synthesis, Vendor-specific dialect&lpar;s&rpar;/outputs](https://discourse.llvm.org/t/call-for-odm-talks-lec-simulation-synthesis-vendor-specific-dialect-s-outputs/68354#post_4)
+- [Executable codegen output for LLVM IR](https://discourse.llvm.org/t/executable-codegen-output-for-llvm-ir/68353#post_3)
+- [[RFC] Extending formatters with a &quot;source code reference&quot;](https://discourse.llvm.org/t/rfc-extending-formatters-with-a-source-code-reference/68375#post_1)
+- [Does clang support CUDA&#39;s dynamic parallelism feature?](https://discourse.llvm.org/t/does-clang-support-cudas-dynamic-parallelism-feature/68373#post_2)
+- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_7)
+- [Executable codegen output for LLVM IR](https://discourse.llvm.org/t/executable-codegen-output-for-llvm-ir/68353#post_2)
 <!-- DISCOURSE-LLVM:END -->
