@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Executable codegen output for LLVM IR](https://discourse.llvm.org/t/executable-codegen-output-for-llvm-ir/68353#post_3)
-- [[RFC] Extending formatters with a &quot;source code reference&quot;](https://discourse.llvm.org/t/rfc-extending-formatters-with-a-source-code-reference/68375#post_1)
-- [Does clang support CUDA&#39;s dynamic parallelism feature?](https://discourse.llvm.org/t/does-clang-support-cudas-dynamic-parallelism-feature/68373#post_2)
-- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_7)
-- [Executable codegen output for LLVM IR](https://discourse.llvm.org/t/executable-codegen-output-for-llvm-ir/68353#post_2)
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130?page=2#post_28)
+- [[RFC] Extending formatters with a &quot;source code reference&quot;](https://discourse.llvm.org/t/rfc-extending-formatters-with-a-source-code-reference/68375#post_2)
+- [Why do sub-byte loads on AArch64 not require masking?](https://discourse.llvm.org/t/why-do-sub-byte-loads-on-aarch64-not-require-masking/68309#post_10)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_1)
+- [Does LTO intentionally emit .init_array regardless of -target value?](https://discourse.llvm.org/t/does-lto-intentionally-emit-init-array-regardless-of-target-value/68376#post_1)
 <!-- DISCOURSE-LLVM:END -->
