@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to build %true = arith.constant true](https://discourse.llvm.org/t/how-to-build-true-arith-constant-true/68394#post_2)
+- [How to build %true = arith.constant true](https://discourse.llvm.org/t/how-to-build-true-arith-constant-true/68394#post_1)
 - [Where is printMemref defined?](https://discourse.llvm.org/t/where-is-printmemref-defined/68390#post_5)
 - [/bin/ld: DWARF error: invalid or unhandled FORM value: 0x25](https://discourse.llvm.org/t/bin-ld-dwarf-error-invalid-or-unhandled-form-value-0x25/67620#post_17)
 - [Where is printMemref defined?](https://discourse.llvm.org/t/where-is-printmemref-defined/68390#post_4)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_16)
-- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_2)
 <!-- DISCOURSE-LLVM:END -->
