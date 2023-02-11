@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Clang] Improve and stabilize the static analyzer&#39;s &quot;taint analysis&quot; checks](https://discourse.llvm.org/t/clang-improve-and-stabilize-the-static-analyzers-taint-analysis-checks/68235#post_4)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_18)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_17)
-- [Flang on Phoronix: LLVM&#39;s Fortran Compiler &quot;Flang&quot; Makes Significant Progress](https://discourse.llvm.org/t/flang-on-phoronix-llvms-fortran-compiler-flang-makes-significant-progress/68386#post_1)
-- [[RFC] Extending formatters with a &quot;source code reference&quot;](https://discourse.llvm.org/t/rfc-extending-formatters-with-a-source-code-reference/68375#post_4)
+- [How do I cross-compile llvm?](https://discourse.llvm.org/t/how-do-i-cross-compile-llvm/68391#post_1)
+- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_15)
+- [Does LTO intentionally emit .init_array regardless of -target value?](https://discourse.llvm.org/t/does-lto-intentionally-emit-init-array-regardless-of-target-value/68376#post_3)
+- [Where is printMemref defined?](https://discourse.llvm.org/t/where-is-printmemref-defined/68390#post_3)
+- [Where is printMemref defined?](https://discourse.llvm.org/t/where-is-printmemref-defined/68390#post_2)
 <!-- DISCOURSE-LLVM:END -->
