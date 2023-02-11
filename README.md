@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_2)
-- [2023 EuroLLVM - Student Travel Grant Applications now accepted](https://discourse.llvm.org/t/2023-eurollvm-student-travel-grant-applications-now-accepted/68310#post_3)
-- [2023 EuroLLVM - Student Travel Grant Applications now accepted](https://discourse.llvm.org/t/2023-eurollvm-student-travel-grant-applications-now-accepted/68310#post_2)
-- [LLVM Foundation Strategic Planning - Invitation to participate](https://discourse.llvm.org/t/llvm-foundation-strategic-planning-invitation-to-participate/68379#post_1)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_15)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_9)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_8)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_7)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_6)
+- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_3)
 <!-- DISCOURSE-LLVM:END -->
