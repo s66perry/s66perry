@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM] Addressing Rust optimization failures in LLVM](https://discourse.llvm.org/t/llvm-addressing-rust-optimization-failures-in-llvm/68096#post_6)
-- [Is lldb for riscv ready to use?](https://discourse.llvm.org/t/is-lldb-for-riscv-ready-to-use/68326#post_2)
-- [How to remove some operation?](https://discourse.llvm.org/t/how-to-remove-some-operation/68395#post_2)
-- [How to remove some operation?](https://discourse.llvm.org/t/how-to-remove-some-operation/68395#post_1)
-- [C code snippets that generate instructions from bitmanip extension in LLVM-RISCV backend](https://discourse.llvm.org/t/c-code-snippets-that-generate-instructions-from-bitmanip-extension-in-llvm-riscv-backend/68321#post_5)
+- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_5)
+- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_4)
+- [JITLink new backends](https://discourse.llvm.org/t/jitlink-new-backends/68223#post_4)
+- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_3)
+- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_4)
 <!-- DISCOURSE-LLVM:END -->
