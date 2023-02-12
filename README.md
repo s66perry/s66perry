@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How build a llvm global string using &#39;\0&#39; as end character?](https://discourse.llvm.org/t/how-build-a-llvm-global-string-using-0-as-end-character/68419#post_1)
-- [How to build libcxx/libcxxabi for riscv target](https://discourse.llvm.org/t/how-to-build-libcxx-libcxxabi-for-riscv-target/68251#post_2)
-- [Specializing std::formatter not working?](https://discourse.llvm.org/t/specializing-std-formatter-not-working/68278#post_5)
-- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037?page=2#post_23)
-- [Numbered sequentially temporary variables in LLVM IR](https://discourse.llvm.org/t/numbered-sequentially-temporary-variables-in-llvm-ir/68415#post_2)
+- [Failed to detect pattern for &quot;llvm.bswap.i64&quot; in some of my test cases with Clang 12, but no such problem with Clang 11](https://discourse.llvm.org/t/failed-to-detect-pattern-for-llvm-bswap-i64-in-some-of-my-test-cases-with-clang-12-but-no-such-problem-with-clang-11/68421#post_3)
+- [Failed to detect pattern for &quot;llvm.bswap.i64&quot; in some of my test cases with Clang 12, but no such problem with Clang 11](https://discourse.llvm.org/t/failed-to-detect-pattern-for-llvm-bswap-i64-in-some-of-my-test-cases-with-clang-12-but-no-such-problem-with-clang-11/68421#post_2)
+- [Failed to detect pattern for &quot;llvm.bswap.i64&quot; in some of my test cases with Clang 12, but no such problem with Clang 11](https://discourse.llvm.org/t/failed-to-detect-pattern-for-llvm-bswap-i64-in-some-of-my-test-cases-with-clang-12-but-no-such-problem-with-clang-11/68421#post_1)
+- [Catching up on uniformity analysis](https://discourse.llvm.org/t/catching-up-on-uniformity-analysis/68403#post_3)
+- [Building External Project: target &quot;mlir_runner_utils&quot; links to target &quot;Terminfo::terminfo&quot; but the target was not found](https://discourse.llvm.org/t/building-external-project-target-mlir-runner-utils-links-to-target-terminfo-terminfo-but-the-target-was-not-found/68397#post_13)
 <!-- DISCOURSE-LLVM:END -->
