@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037?page=2#post_24)
+- [Average salary for LLVM Compiler Engineer](https://discourse.llvm.org/t/average-salary-for-llvm-compiler-engineer/68427#post_1)
 - [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257#post_19)
 - [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856#post_19)
 - [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_17)
-- [[LLVM] Addressing Rust optimization failures in LLVM](https://discourse.llvm.org/t/llvm-addressing-rust-optimization-failures-in-llvm/68096#post_7)
-- [AffineParallelOp::getLoopBody&lpar;&rpar; trigger build error: call to implicitly-deleted copy constructor of &#39;mlir::Region&#39;](https://discourse.llvm.org/t/affineparallelop-getloopbody-trigger-build-error-call-to-implicitly-deleted-copy-constructor-of-mlir-region/68412#post_2)
 <!-- DISCOURSE-LLVM:END -->
