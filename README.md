@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Preferred casting style going forward](https://discourse.llvm.org/t/preferred-casting-style-going-forward/68443#post_2)
+- [Preferred casting style going forward](https://discourse.llvm.org/t/preferred-casting-style-going-forward/68443#post_1)
+- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_19)
 - [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_18)
 - [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_5)
-- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_12)
-- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_11)
-- [How build a whileop?](https://discourse.llvm.org/t/how-build-a-whileop/68440#post_3)
 <!-- DISCOURSE-LLVM:END -->
