@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_20)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_22)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_21)
-- [Preferred casting style going forward](https://discourse.llvm.org/t/preferred-casting-style-going-forward/68443#post_7)
-- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377#post_19)
+- [Looking To Work Under A Team, As An Open Source Dev](https://discourse.llvm.org/t/looking-to-work-under-a-team-as-an-open-source-dev/68448#post_1)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377?page=2#post_21)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_3)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_2)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_1)
 <!-- DISCOURSE-LLVM:END -->
