@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support for &quot;zicsr&quot; and &quot;zifencei&quot; extensions](https://discourse.llvm.org/t/support-for-zicsr-and-zifencei-extensions/68369#post_6)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257#post_20)
+- [How build a whileop?](https://discourse.llvm.org/t/how-build-a-whileop/68440#post_1)
+- [LLVM Weekly - #476, February 13th 2023](https://discourse.llvm.org/t/llvm-weekly-476-february-13th-2023/68439#post_1)
 - [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037?page=2#post_25)
-- [How to create a memref.alloca using Opbuilder?](https://discourse.llvm.org/t/how-to-create-a-memref-alloca-using-opbuilder/68438#post_1)
-- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_2)
-- [How to get builder.create build Op?](https://discourse.llvm.org/t/how-to-get-builder-create-build-op/68435#post_1)
-- [Adding the [[clang::assert_nrvo]] variable attribute](https://discourse.llvm.org/t/adding-the-clang-assert-nrvo-variable-attribute/68401#post_2)
 <!-- DISCOURSE-LLVM:END -->
