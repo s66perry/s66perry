@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377?page=2#post_23)
-- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377?page=2#post_22)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_23)
-- [Tablegen Decode Conflict error with no obvious conflict](https://discourse.llvm.org/t/tablegen-decode-conflict-error-with-no-obvious-conflict/68339#post_6)
-- [Error: invalid ‘static_cast’ from type ‘llvm::MCSection’ to type ‘llvm::MCSectionELF&amp;’](https://discourse.llvm.org/t/error-invalid-static-cast-from-type-llvm-mcsection-to-type-llvm-mcsectionelf/67915#post_5)
+- [Tablegen Decode Conflict error with no obvious conflict](https://discourse.llvm.org/t/tablegen-decode-conflict-error-with-no-obvious-conflict/68339#post_8)
+- [Tablegen Decode Conflict error with no obvious conflict](https://discourse.llvm.org/t/tablegen-decode-conflict-error-with-no-obvious-conflict/68339#post_7)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978?page=2#post_31)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377?page=2#post_25)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
