@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Error] Converting LLVM IR to RISC-V Assembly](https://discourse.llvm.org/t/error-converting-llvm-ir-to-risc-v-assembly/68482#post_3)
-- [[Error] Converting LLVM IR to RISC-V Assembly](https://discourse.llvm.org/t/error-converting-llvm-ir-to-risc-v-assembly/68482#post_2)
-- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_4)
-- [Pack expansion bug?](https://discourse.llvm.org/t/pack-expansion-bug/64910#post_4)
-- [[Proposal] Encourage README.md files for sub-directories](https://discourse.llvm.org/t/proposal-encourage-readme-md-files-for-sub-directories/68484#post_2)
+- [Undefined reference when Linking CXX executable bin/llvm-lto2](https://discourse.llvm.org/t/undefined-reference-when-linking-cxx-executable-bin-llvm-lto2/68489#post_4)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_76)
+- [[LLVM] Addressing Rust optimization failures in LLVM](https://discourse.llvm.org/t/llvm-addressing-rust-optimization-failures-in-llvm/68096#post_11)
+- [Undefined reference when Linking CXX executable bin/llvm-lto2](https://discourse.llvm.org/t/undefined-reference-when-linking-cxx-executable-bin-llvm-lto2/68489#post_3)
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_2)
 <!-- DISCOURSE-LLVM:END -->
