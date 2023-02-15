@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Testing clang Fix-Its attached to notes](https://discourse.llvm.org/t/testing-clang-fix-its-attached-to-notes/68317#post_5)
-- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_11)
-- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_8)
-- [RISC-V LLVM sync-up call 16th February 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-16th-february-2023/68500#post_1)
-- [[Clang] Modules build daemon: build system agnostic support for explicitly built modules](https://discourse.llvm.org/t/clang-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/68224#post_2)
+- [Does LTO intentionally emit .init_array regardless of -target value?](https://discourse.llvm.org/t/does-lto-intentionally-emit-init-array-regardless-of-target-value/68376#post_7)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_11)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_10)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_9)
+- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854#post_20)
 <!-- DISCOURSE-LLVM:END -->
