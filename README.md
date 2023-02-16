@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to add a customed argument in llc?](https://discourse.llvm.org/t/how-to-add-a-customed-argument-in-llc/68510#post_2)
-- [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_4)
-- [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_3)
-- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894#post_19)
-- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_9)
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_14)
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_13)
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_12)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_20)
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_11)
 <!-- DISCOURSE-LLVM:END -->
