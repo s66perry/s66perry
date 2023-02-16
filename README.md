@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_4)
+- [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_3)
+- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894#post_19)
 - [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_9)
 - [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_2)
-- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446#post_19)
-- [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_1)
-- [Testing clang Fix-Its attached to notes](https://discourse.llvm.org/t/testing-clang-fix-its-attached-to-notes/68317#post_6)
 <!-- DISCOURSE-LLVM:END -->
