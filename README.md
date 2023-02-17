@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[DWARF][DWP] 4GB limit](https://discourse.llvm.org/t/dwarf-dwp-4gb-limit/63902?page=2#post_36)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978?page=2#post_38)
-- [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_5)
-- [Missing GCC include - bug or feature?](https://discourse.llvm.org/t/missing-gcc-include-bug-or-feature/68538#post_1)
-- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_9)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=2#post_39)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978?page=2#post_39)
+- [How to build a mlir gpu-codegen project？](https://discourse.llvm.org/t/how-to-build-a-mlir-gpu-codegen-project/68543#post_1)
+- [Conversion of GPU kernel failed because &#39;gpu-to-cubin&#39; pipeline was not found](https://discourse.llvm.org/t/conversion-of-gpu-kernel-failed-because-gpu-to-cubin-pipeline-was-not-found/63051#post_3)
+- [Missing GCC include - bug or feature?](https://discourse.llvm.org/t/missing-gcc-include-bug-or-feature/68538#post_4)
 <!-- DISCOURSE-LLVM:END -->
