@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_8)
-- [Map LLVM values to corresponding source-level expressions](https://discourse.llvm.org/t/map-llvm-values-to-corresponding-source-level-expressions/68450#post_3)
-- [GenericTaintChecker - taint status examination](https://discourse.llvm.org/t/generictaintchecker-taint-status-examination/64675#post_4)
-- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_7)
-- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_6)
+- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978?page=2#post_38)
+- [OpenMP nvptx64 offload fails silently with clang 14.0.3 but works with trunk &lpar;17.0.0&rpar;](https://discourse.llvm.org/t/openmp-nvptx64-offload-fails-silently-with-clang-14-0-3-but-works-with-trunk-17-0-0/68517#post_5)
+- [Missing GCC include - bug or feature?](https://discourse.llvm.org/t/missing-gcc-include-bug-or-feature/68538#post_1)
+- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_9)
+- [[RFC] Parallel loops on tensors in MLIR](https://discourse.llvm.org/t/rfc-parallel-loops-on-tensors-in-mlir/68332#post_12)
 <!-- DISCOURSE-LLVM:END -->
