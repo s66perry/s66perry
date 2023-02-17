@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488?page=2#post_23)
-- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488?page=2#post_22)
-- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488?page=2#post_21)
-- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_20)
-- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_19)
+- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_8)
+- [Map LLVM values to corresponding source-level expressions](https://discourse.llvm.org/t/map-llvm-values-to-corresponding-source-level-expressions/68450#post_3)
+- [GenericTaintChecker - taint status examination](https://discourse.llvm.org/t/generictaintchecker-taint-status-examination/64675#post_4)
+- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_7)
+- [Future-proof syntax for dataflow operators?](https://discourse.llvm.org/t/future-proof-syntax-for-dataflow-operators/68124#post_6)
 <!-- DISCOURSE-LLVM:END -->
