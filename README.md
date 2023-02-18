@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Out of memory error when building llvm on windows](https://discourse.llvm.org/t/out-of-memory-error-when-building-llvm-on-windows/68560#post_3)
-- [[Proposal] split built-ins from the rest of &quot;compiler-rt&quot;](https://discourse.llvm.org/t/proposal-split-built-ins-from-the-rest-of-compiler-rt/67978?page=3#post_43)
-- [Out of memory error when building llvm on windows](https://discourse.llvm.org/t/out-of-memory-error-when-building-llvm-on-windows/68560#post_2)
-- [Out of memory error when building llvm on windows](https://discourse.llvm.org/t/out-of-memory-error-when-building-llvm-on-windows/68560#post_1)
-- [How build a whileop?](https://discourse.llvm.org/t/how-build-a-whileop/68440#post_6)
+- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_13)
+- [Map LLVM values to corresponding source-level expressions](https://discourse.llvm.org/t/map-llvm-values-to-corresponding-source-level-expressions/68450#post_4)
+- [How to build a scf::IndexSwitchOp?](https://discourse.llvm.org/t/how-to-build-a-scf-indexswitchop/68546#post_2)
+- [Out of memory error when building llvm on windows](https://discourse.llvm.org/t/out-of-memory-error-when-building-llvm-on-windows/68560#post_5)
+- [Out of memory error when building llvm on windows](https://discourse.llvm.org/t/out-of-memory-error-when-building-llvm-on-windows/68560#post_4)
 <!-- DISCOURSE-LLVM:END -->
