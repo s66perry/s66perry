@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=2#post_29)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=2#post_28)
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_21)
 - [Registration for the 2023 Euro LLVM Developers&#39; Meeting is now open!](https://discourse.llvm.org/t/registration-for-the-2023-euro-llvm-developers-meeting-is-now-open/68556#post_1)
 - [How to invoke conflict resolution process](https://discourse.llvm.org/t/how-to-invoke-conflict-resolution-process/68548#post_3)
-- [How to invoke conflict resolution process](https://discourse.llvm.org/t/how-to-invoke-conflict-resolution-process/68548#post_2)
-- [Static linking clangTooling with CMake and Homebrew on macOS](https://discourse.llvm.org/t/static-linking-clangtooling-with-cmake-and-homebrew-on-macos/68555#post_1)
-- [Good test and validation sets for checking new optimisations](https://discourse.llvm.org/t/good-test-and-validation-sets-for-checking-new-optimisations/68554#post_2)
 <!-- DISCOURSE-LLVM:END -->
