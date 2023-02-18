@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Moving OCaml bindings to peripheral tier and disabling them by default](https://discourse.llvm.org/t/rfc-moving-ocaml-bindings-to-peripheral-tier-and-disabling-them-by-default/68290#post_10)
-- [Testing clang Fix-Its attached to notes](https://discourse.llvm.org/t/testing-clang-fix-its-attached-to-notes/68317#post_10)
-- [Add custom executable &lpar;output object&rpar; format](https://discourse.llvm.org/t/add-custom-executable-output-object-format/68552#post_1)
-- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=2#post_27)
-- [Strategic Planning - Grants &amp; Scholarships Meeting Feb 27/28](https://discourse.llvm.org/t/strategic-planning-grants-scholarships-meeting-feb-27-28/68550#post_1)
+- [Registration for the 2023 Euro LLVM Developers&#39; Meeting is now open!](https://discourse.llvm.org/t/registration-for-the-2023-euro-llvm-developers-meeting-is-now-open/68556#post_1)
+- [How to invoke conflict resolution process](https://discourse.llvm.org/t/how-to-invoke-conflict-resolution-process/68548#post_3)
+- [How to invoke conflict resolution process](https://discourse.llvm.org/t/how-to-invoke-conflict-resolution-process/68548#post_2)
+- [Static linking clangTooling with CMake and Homebrew on macOS](https://discourse.llvm.org/t/static-linking-clangtooling-with-cmake-and-homebrew-on-macos/68555#post_1)
+- [Good test and validation sets for checking new optimisations](https://discourse.llvm.org/t/good-test-and-validation-sets-for-checking-new-optimisations/68554#post_2)
 <!-- DISCOURSE-LLVM:END -->
