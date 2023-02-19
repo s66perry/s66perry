@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [About the Beginners category](https://discourse.llvm.org/t/about-the-beginners-category/25#post_2)
+- [How to link with LLD using llvm-config](https://discourse.llvm.org/t/how-to-link-with-lld-using-llvm-config/68571#post_1)
+- [How to build a scf::IndexSwitchOp?](https://discourse.llvm.org/t/how-to-build-a-scf-indexswitchop/68546#post_5)
+- [How to build a scf::IndexSwitchOp?](https://discourse.llvm.org/t/how-to-build-a-scf-indexswitchop/68546#post_4)
 - [Outsourcing the constexpr evaluation to the LLVM IR interpreter?](https://discourse.llvm.org/t/outsourcing-the-constexpr-evaluation-to-the-llvm-ir-interpreter/68569#post_2)
-- [Outsourcing the constexpr evaluation to the LLVM IR interpreter?](https://discourse.llvm.org/t/outsourcing-the-constexpr-evaluation-to-the-llvm-ir-interpreter/68569#post_1)
-- [[clang-repl] Implement autocompletion in clang-repl](https://discourse.llvm.org/t/clang-repl-implement-autocompletion-in-clang-repl/60364#post_9)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=2#post_40)
-- [Python API: control the prompt on breakpoint](https://discourse.llvm.org/t/python-api-control-the-prompt-on-breakpoint/68565#post_1)
 <!-- DISCOURSE-LLVM:END -->
