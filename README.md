@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Print out inline function programmably](https://discourse.llvm.org/t/print-out-inline-function-programmably/68576#post_1)
 - [C++20 std::source_location](https://discourse.llvm.org/t/c-20-std-source-location/68574#post_1)
 - [Good test and validation sets for checking new optimisations](https://discourse.llvm.org/t/good-test-and-validation-sets-for-checking-new-optimisations/68554#post_4)
 - [What qualifies as High-Level IR and Low-Level IR?](https://discourse.llvm.org/t/what-qualifies-as-high-level-ir-and-low-level-ir/68573#post_2)
 - [What qualifies as High-Level IR and Low-Level IR?](https://discourse.llvm.org/t/what-qualifies-as-high-level-ir-and-low-level-ir/68573#post_1)
-- [Good test and validation sets for checking new optimisations](https://discourse.llvm.org/t/good-test-and-validation-sets-for-checking-new-optimisations/68554#post_3)
 <!-- DISCOURSE-LLVM:END -->
