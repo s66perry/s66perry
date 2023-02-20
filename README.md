@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Better performance models for MLGO training](https://discourse.llvm.org/t/better-performance-models-for-mlgo-training/68219#post_7)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_42)
 - [Readability-identifier-naming HungarianNotation config typo: CharPrinter](https://discourse.llvm.org/t/readability-identifier-naming-hungariannotation-config-typo-charprinter/68617#post_1)
 - [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_1)
 - [LLVM Weekly - #477, February 20th 2023](https://discourse.llvm.org/t/llvm-weekly-477-february-20th-2023/68610#post_1)
-- [Python API: control the prompt on breakpoint](https://discourse.llvm.org/t/python-api-control-the-prompt-on-breakpoint/68565#post_2)
-- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
