@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What is the difference between the classification of the text, data and bss segments of Clang and GCC?](https://discourse.llvm.org/t/what-is-the-difference-between-the-classification-of-the-text-data-and-bss-segments-of-clang-and-gcc/68600#post_2)
-- [What is the difference between the classification of the text, data and bss segments of Clang and GCC?](https://discourse.llvm.org/t/what-is-the-difference-between-the-classification-of-the-text-data-and-bss-segments-of-clang-and-gcc/68600#post_1)
-- [AsmParser for instruction](https://discourse.llvm.org/t/asmparser-for-instruction/68598#post_3)
-- [AsmParser for instruction](https://discourse.llvm.org/t/asmparser-for-instruction/68598#post_2)
-- [[LLVM] Addressing Rust optimization failures in LLVM](https://discourse.llvm.org/t/llvm-addressing-rust-optimization-failures-in-llvm/68096#post_14)
+- [Performance issues with memref.global and LLVM IR](https://discourse.llvm.org/t/performance-issues-with-memref-global-and-llvm-ir/68604#post_2)
+- [What is the difference between the classification of the text, data and bss segments of Clang and GCC?](https://discourse.llvm.org/t/what-is-the-difference-between-the-classification-of-the-text-data-and-bss-segments-of-clang-and-gcc/68600#post_5)
+- [AArch64 watchpoints - reported address outside watched range; adopting MASK style watchpoints](https://discourse.llvm.org/t/aarch64-watchpoints-reported-address-outside-watched-range-adopting-mask-style-watchpoints/67660#post_7)
+- [What is the difference between the classification of the text, data and bss segments of Clang and GCC?](https://discourse.llvm.org/t/what-is-the-difference-between-the-classification-of-the-text-data-and-bss-segments-of-clang-and-gcc/68600#post_4)
+- [Performance issues with memref.global and LLVM IR](https://discourse.llvm.org/t/performance-issues-with-memref-global-and-llvm-ir/68604#post_1)
 <!-- DISCOURSE-LLVM:END -->
