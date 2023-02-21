@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_6)
+- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_5)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_43)
 - [Struggling with simple mlir-translate to spir-v](https://discourse.llvm.org/t/struggling-with-simple-mlir-translate-to-spir-v/68579#post_9)
 - [Struggling with simple mlir-translate to spir-v](https://discourse.llvm.org/t/struggling-with-simple-mlir-translate-to-spir-v/68579#post_8)
-- [How can I get variable name of GEP, and use it to create a if then instruction?](https://discourse.llvm.org/t/how-can-i-get-variable-name-of-gep-and-use-it-to-create-a-if-then-instruction/68410#post_6)
-- [How can I get variable name of GEP, and use it to create a if then instruction?](https://discourse.llvm.org/t/how-can-i-get-variable-name-of-gep-and-use-it-to-create-a-if-then-instruction/68410#post_5)
-- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_4)
 <!-- DISCOURSE-LLVM:END -->
