@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Std::source_location::current&lpar;&rpar; fail](https://discourse.llvm.org/t/std-current-fail/68656#post_1)
+- [Handling PHIs in Uniformity Analysis](https://discourse.llvm.org/t/handling-phis-in-uniformity-analysis/68655#post_1)
+- [Add custom executable &lpar;output object&rpar; format](https://discourse.llvm.org/t/add-custom-executable-output-object-format/68552#post_4)
+- [Question on creating new pragma and code generation for duplication/comparison of a variable](https://discourse.llvm.org/t/question-on-creating-new-pragma-and-code-generation-for-duplication-comparison-of-a-variable/68654#post_1)
 - [Segmentation Fault in .omp_outlined](https://discourse.llvm.org/t/segmentation-fault-in-omp-outlined/68650#post_2)
-- [Why is REG_SEQUENCE lowered during TwoAddressInstructions?](https://discourse.llvm.org/t/why-is-reg-sequence-lowered-during-twoaddressinstructions/68641#post_3)
-- [Instrument CPP macro](https://discourse.llvm.org/t/instrument-cpp-macro/68648#post_4)
-- [Segmentation Fault in .omp_outlined](https://discourse.llvm.org/t/segmentation-fault-in-omp-outlined/68650#post_1)
-- [Is it possible to manually specify .init_array order?](https://discourse.llvm.org/t/is-it-possible-to-manually-specify-init-array-order/68649#post_1)
 <!-- DISCOURSE-LLVM:END -->
