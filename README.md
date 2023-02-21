@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Performance issues with memref.global and LLVM IR](https://discourse.llvm.org/t/performance-issues-with-memref-global-and-llvm-ir/68604#post_5)
-- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_6)
-- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_5)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_43)
-- [Struggling with simple mlir-translate to spir-v](https://discourse.llvm.org/t/struggling-with-simple-mlir-translate-to-spir-v/68579#post_9)
+- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_10)
+- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_9)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740?page=2#post_21)
+- [Clang discards cases in a switch statement](https://discourse.llvm.org/t/clang-discards-cases-in-a-switch-statement/68615#post_8)
+- [Improve Clang Diagnostics](https://discourse.llvm.org/t/improve-clang-diagnostics/61521#post_8)
 <!-- DISCOURSE-LLVM:END -->
