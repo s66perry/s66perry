@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_24)
-- [Segmentation Fault in .omp_outlined](https://discourse.llvm.org/t/segmentation-fault-in-omp-outlined/68650#post_5)
-- [How to get address of value stored in regsters](https://discourse.llvm.org/t/how-to-get-address-of-value-stored-in-regsters/68626#post_5)
-- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_6)
-- [Error 137: Out Of Memory Killer](https://discourse.llvm.org/t/error-137-out-of-memory-killer/68098#post_12)
+- [Why is REG_SEQUENCE lowered during TwoAddressInstructions?](https://discourse.llvm.org/t/why-is-reg-sequence-lowered-during-twoaddressinstructions/68641#post_4)
+- [Missed Optimization: Combine Ors to Testing Of a Single Bit](https://discourse.llvm.org/t/missed-optimization-combine-ors-to-testing-of-a-single-bit/68673#post_2)
+- [Missed Optimization: Combine Ors to Testing Of a Single Bit](https://discourse.llvm.org/t/missed-optimization-combine-ors-to-testing-of-a-single-bit/68673#post_1)
+- [Segmentation Fault in .omp_outlined](https://discourse.llvm.org/t/segmentation-fault-in-omp-outlined/68650#post_8)
+- [Segmentation Fault in .omp_outlined](https://discourse.llvm.org/t/segmentation-fault-in-omp-outlined/68650#post_7)
 <!-- DISCOURSE-LLVM:END -->
