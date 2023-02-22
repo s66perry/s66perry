@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_3)
-- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_2)
-- [LLVM 16.0.0-rc3 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc3-has-been-tagged/68667#post_1)
-- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_1)
-- [[Clang] ExtractAPI while building](https://discourse.llvm.org/t/clang-extractapi-while-building/68372#post_2)
+- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_5)
+- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_4)
+- [-fshort-wchar and std::wstring](https://discourse.llvm.org/t/fshort-wchar-and-std-wstring/68668#post_1)
+- [Segmentation Fault in .omp_outlined](https://discourse.llvm.org/t/segmentation-fault-in-omp-outlined/68650#post_4)
+- [Segmentation Fault in .omp_outlined](https://discourse.llvm.org/t/segmentation-fault-in-omp-outlined/68650#post_3)
 <!-- DISCOURSE-LLVM:END -->
