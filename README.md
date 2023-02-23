@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_1)
+- [Better performance models for MLGO training](https://discourse.llvm.org/t/better-performance-models-for-mlgo-training/68219#post_8)
 - [[RFC] Handle Argument/Result Attributes While Inlining](https://discourse.llvm.org/t/rfc-handle-argument-result-attributes-while-inlining/68639#post_3)
 - [[RFC] Handle Argument/Result Attributes While Inlining](https://discourse.llvm.org/t/rfc-handle-argument-result-attributes-while-inlining/68639#post_2)
 - [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_26)
-- [-fshort-wchar and std::wstring](https://discourse.llvm.org/t/fshort-wchar-and-std-wstring/68668#post_4)
-- [Autocompletion for custom commands](https://discourse.llvm.org/t/autocompletion-for-custom-commands/68697#post_1)
 <!-- DISCOURSE-LLVM:END -->
