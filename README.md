@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is it possible to disable the triple that LLVM 15 added to the libc++{abi} library path?](https://discourse.llvm.org/t/is-it-possible-to-disable-the-triple-that-llvm-15-added-to-the-libc-abi-library-path/68704#post_2)
-- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_7)
-- [Autocompletion for custom commands](https://discourse.llvm.org/t/autocompletion-for-custom-commands/68697#post_2)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_22)
-- [Error 137: Out Of Memory Killer](https://discourse.llvm.org/t/error-137-out-of-memory-killer/68098#post_13)
+- [LLVM 16.0.0-rc3 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc3-has-been-tagged/68667#post_4)
+- [Adding an intrinsic function to LLVM](https://discourse.llvm.org/t/adding-an-intrinsic-function-to-llvm/68175#post_7)
+- [Is it possible to disable the triple that LLVM 15 added to the libc++{abi} library path?](https://discourse.llvm.org/t/is-it-possible-to-disable-the-triple-that-llvm-15-added-to-the-libc-abi-library-path/68704#post_3)
+- [Map LLVM values to corresponding source-level expressions](https://discourse.llvm.org/t/map-llvm-values-to-corresponding-source-level-expressions/68450#post_7)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_7)
 <!-- DISCOURSE-LLVM:END -->
