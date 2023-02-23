@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488#post_26)
+- [-fshort-wchar and std::wstring](https://discourse.llvm.org/t/fshort-wchar-and-std-wstring/68668#post_4)
+- [Autocompletion for custom commands](https://discourse.llvm.org/t/autocompletion-for-custom-commands/68697#post_1)
+- [[RFC][HIP] __grid_constant__ support](https://discourse.llvm.org/t/rfc-hip-grid-constant-support/67759#post_7)
 - [Handling PHIs in Uniformity Analysis](https://discourse.llvm.org/t/handling-phis-in-uniformity-analysis/68655#post_4)
-- [Memory aliasing](https://discourse.llvm.org/t/memory-aliasing/67743#post_2)
-- [Adding an intrinsic function to LLVM](https://discourse.llvm.org/t/adding-an-intrinsic-function-to-llvm/68175#post_5)
-- [Tell C++ class method from free function in LLVM IR. Which metadata or attribute to use?](https://discourse.llvm.org/t/tell-c-class-method-from-free-function-in-llvm-ir-which-metadata-or-attribute-to-use/68693#post_2)
-- [Adding an intrinsic function to LLVM](https://discourse.llvm.org/t/adding-an-intrinsic-function-to-llvm/68175#post_4)
 <!-- DISCOURSE-LLVM:END -->
