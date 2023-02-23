@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: &quot;RFC Shepherds&quot;](https://discourse.llvm.org/t/rfc-rfc-shepherds/68666#post_7)
+- [Autocompletion for custom commands](https://discourse.llvm.org/t/autocompletion-for-custom-commands/68697#post_2)
+- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_22)
 - [Error 137: Out Of Memory Killer](https://discourse.llvm.org/t/error-137-out-of-memory-killer/68098#post_13)
 - [[RFC] Introduce cross-lane function attribute to prevent merging call of cross-lane functions](https://discourse.llvm.org/t/rfc-introduce-cross-lane-function-attribute-to-prevent-merging-call-of-cross-lane-functions/62148#post_5)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_21)
-- [Question on creating new pragma and code generation for duplication/comparison of a variable](https://discourse.llvm.org/t/question-on-creating-new-pragma-and-code-generation-for-duplication-comparison-of-a-variable/68654#post_3)
-- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_2)
 <!-- DISCOURSE-LLVM:END -->
