@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Memory aliasing](https://discourse.llvm.org/t/memory-aliasing/67743#post_2)
 - [Adding an intrinsic function to LLVM](https://discourse.llvm.org/t/adding-an-intrinsic-function-to-llvm/68175#post_5)
 - [Tell C++ class method from free function in LLVM IR. Which metadata or attribute to use?](https://discourse.llvm.org/t/tell-c-class-method-from-free-function-in-llvm-ir-which-metadata-or-attribute-to-use/68693#post_2)
 - [Adding an intrinsic function to LLVM](https://discourse.llvm.org/t/adding-an-intrinsic-function-to-llvm/68175#post_4)
 - [Adding riscv vector intrinsic to llvm](https://discourse.llvm.org/t/adding-riscv-vector-intrinsic-to-llvm/68694#post_1)
-- [Tell C++ class method from free function in LLVM IR. Which metadata or attribute to use?](https://discourse.llvm.org/t/tell-c-class-method-from-free-function-in-llvm-ir-which-metadata-or-attribute-to-use/68693#post_1)
 <!-- DISCOURSE-LLVM:END -->
