@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM] Improving compile times](https://discourse.llvm.org/t/llvm-improving-compile-times/68094#post_5)
-- [Adding an intrinsic function to LLVM](https://discourse.llvm.org/t/adding-an-intrinsic-function-to-llvm/68175#post_6)
-- [[RFC] Adding support #pragma clang loop [no]prefetch&lpar;&rpar; for prefetch](https://discourse.llvm.org/t/rfc-adding-support-pragma-clang-loop-no-prefetch-for-prefetch/68597#post_3)
-- [GenericTaintChecker - taint status examination](https://discourse.llvm.org/t/generictaintchecker-taint-status-examination/64675#post_5)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_1)
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488?page=2#post_28)
+- [Registering a loop nest pass with the new pass manager](https://discourse.llvm.org/t/registering-a-loop-nest-pass-with-the-new-pass-manager/68703#post_1)
+- [Pass Failed: AffineToPipeline](https://discourse.llvm.org/t/pass-failed-affinetopipeline/68488?page=2#post_27)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_2)
+- [Finding versioned and unversioned loops](https://discourse.llvm.org/t/finding-versioned-and-unversioned-loops/68702#post_1)
 <!-- DISCOURSE-LLVM:END -->
