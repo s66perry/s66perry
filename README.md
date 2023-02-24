@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Libc build failure on x86](https://discourse.llvm.org/t/libc-build-failure-on-x86/68732#post_2)
+- [Libc build failure on x86](https://discourse.llvm.org/t/libc-build-failure-on-x86/68732#post_1)
+- [AArch64 watchpoints - reported address outside watched range; adopting MASK style watchpoints](https://discourse.llvm.org/t/aarch64-watchpoints-reported-address-outside-watched-range-adopting-mask-style-watchpoints/67660#post_10)
+- [AArch64 watchpoints - reported address outside watched range; adopting MASK style watchpoints](https://discourse.llvm.org/t/aarch64-watchpoints-reported-address-outside-watched-range-adopting-mask-style-watchpoints/67660#post_9)
 - [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=5#post_81)
-- [RFC: Handle Execution Results in clang-repl](https://discourse.llvm.org/t/rfc-handle-execution-results-in-clang-repl/68493#post_4)
-- [[Coverage] Support a hierarchical directory structure in generated coverage html reports](https://discourse.llvm.org/t/coverage-support-a-hierarchical-directory-structure-in-generated-coverage-html-reports/68239#post_2)
-- [Adding riscv vector intrinsic to llvm](https://discourse.llvm.org/t/adding-riscv-vector-intrinsic-to-llvm/68694#post_4)
-- [How to create &quot;global&quot; trait and interface?](https://discourse.llvm.org/t/how-to-create-global-trait-and-interface/68357#post_3)
 <!-- DISCOURSE-LLVM:END -->
