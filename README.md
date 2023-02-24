@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Semantics of floating-point instructions are unclear](https://discourse.llvm.org/t/semantics-of-floating-point-instructions-are-unclear/68733#post_5)
-- [Towards MLIR Bytecode format stability and backward compatibility](https://discourse.llvm.org/t/towards-mlir-bytecode-format-stability-and-backward-compatibility/68742#post_1)
-- [Improve Clang Diagnostics](https://discourse.llvm.org/t/improve-clang-diagnostics/61521#post_10)
-- [Semantics of floating-point instructions are unclear](https://discourse.llvm.org/t/semantics-of-floating-point-instructions-are-unclear/68733#post_4)
-- [Semantics of floating-point instructions are unclear](https://discourse.llvm.org/t/semantics-of-floating-point-instructions-are-unclear/68733#post_3)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=2#post_39)
+- [RFC: Handle Execution Results in clang-repl](https://discourse.llvm.org/t/rfc-handle-execution-results-in-clang-repl/68493#post_8)
+- [Towards MLIR Bytecode format stability and backward compatibility](https://discourse.llvm.org/t/towards-mlir-bytecode-format-stability-and-backward-compatibility/68742#post_3)
+- [Towards MLIR Bytecode format stability and backward compatibility](https://discourse.llvm.org/t/towards-mlir-bytecode-format-stability-and-backward-compatibility/68742#post_2)
+- [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_5)
 <!-- DISCOURSE-LLVM:END -->
