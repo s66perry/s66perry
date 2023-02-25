@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_26)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_1)
-- [JITLink new backends](https://discourse.llvm.org/t/jitlink-new-backends/68223#post_6)
-- [Is it possible to disable the triple that LLVM 15 added to the libc++{abi} library path?](https://discourse.llvm.org/t/is-it-possible-to-disable-the-triple-that-llvm-15-added-to-the-libc-abi-library-path/68704#post_4)
-- [How do I read &quot;Type set is empty for each HW mode&quot;?](https://discourse.llvm.org/t/how-do-i-read-type-set-is-empty-for-each-hw-mode/68751#post_6)
+- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_27)
+- [Is there a way to randomize memref or assign values to memref one by one?](https://discourse.llvm.org/t/is-there-a-way-to-randomize-memref-or-assign-values-to-memref-one-by-one/68753#post_3)
+- [MLIR diffing](https://discourse.llvm.org/t/mlir-diffing/64103#post_13)
+- [Utility to create a list MLIR Mutations after a transform](https://discourse.llvm.org/t/utility-to-create-a-list-mlir-mutations-after-a-transform/68759#post_1)
+- [Is there a way to randomize memref or assign values to memref one by one?](https://discourse.llvm.org/t/is-there-a-way-to-randomize-memref-or-assign-values-to-memref-one-by-one/68753#post_2)
 <!-- DISCOURSE-LLVM:END -->
