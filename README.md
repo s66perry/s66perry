@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 16.0.0-rc3 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc3-has-been-tagged/68667#post_6)
+- [LLVM 16.0.0-rc2 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc2-has-been-tagged/68299#post_9)
 - [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_4)
 - [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_3)
 - [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_2)
-- [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_1)
-- [Libc build failure on x86](https://discourse.llvm.org/t/libc-build-failure-on-x86/68732#post_4)
 <!-- DISCOURSE-LLVM:END -->
