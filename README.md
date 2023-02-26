@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What is the status of `dbg.addr`?](https://discourse.llvm.org/t/what-is-the-status-of-dbg-addr/62898#post_13)
+- [Semantics of floating-point instructions are unclear](https://discourse.llvm.org/t/semantics-of-floating-point-instructions-are-unclear/68733#post_9)
+- [Semantics of floating-point instructions are unclear](https://discourse.llvm.org/t/semantics-of-floating-point-instructions-are-unclear/68733#post_8)
 - [[PSA] In-tree conversion passes can now be used with LLVM opaque-pointers; Please switch your downstream projects!](https://discourse.llvm.org/t/psa-in-tree-conversion-passes-can-now-be-used-with-llvm-opaque-pointers-please-switch-your-downstream-projects/68738#post_3)
 - [[PSA] In-tree conversion passes can now be used with LLVM opaque-pointers; Please switch your downstream projects!](https://discourse.llvm.org/t/psa-in-tree-conversion-passes-can-now-be-used-with-llvm-opaque-pointers-please-switch-your-downstream-projects/68738#post_2)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_27)
-- [Is there a way to randomize memref or assign values to memref one by one?](https://discourse.llvm.org/t/is-there-a-way-to-randomize-memref-or-assign-values-to-memref-one-by-one/68753#post_3)
-- [MLIR diffing](https://discourse.llvm.org/t/mlir-diffing/64103#post_13)
 <!-- DISCOURSE-LLVM:END -->
