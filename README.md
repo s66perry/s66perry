@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Libc build failure on x86](https://discourse.llvm.org/t/libc-build-failure-on-x86/68732#post_6)
+- [Libc build failure on x86](https://discourse.llvm.org/t/libc-build-failure-on-x86/68732#post_5)
+- [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_7)
 - [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_6)
 - [[RFC] The Natural Intersection of MLIR and C](https://discourse.llvm.org/t/rfc-the-natural-intersection-of-mlir-and-c/68708#post_5)
-- [[NewPM] Retrieve TargetMachine](https://discourse.llvm.org/t/newpm-retrieve-targetmachine/68767#post_1)
-- [[RFC] Resolving issues related to extension versioning in RISC-V](https://discourse.llvm.org/t/rfc-resolving-issues-related-to-extension-versioning-in-risc-v/68472#post_5)
-- [LLVM 16.0.0-rc3 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc3-has-been-tagged/68667#post_6)
 <!-- DISCOURSE-LLVM:END -->
