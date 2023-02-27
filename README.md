@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920#post_14)
-- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_4)
-- [LLVM Foundation Strategic Planning - Invitation to participate](https://discourse.llvm.org/t/llvm-foundation-strategic-planning-invitation-to-participate/68379#post_4)
-- [Community Health &amp; Infrastructure - Strategic Planning &lpar;March 20/21&rpar;](https://discourse.llvm.org/t/community-health-infrastructure-strategic-planning-march-20-21/68796#post_1)
-- [Diversity &amp; Inclusion - Strategic Planning &lpar;March 6/7&rpar;](https://discourse.llvm.org/t/diversity-inclusion-strategic-planning-march-6-7/68794#post_1)
+- [[RFC][HIP] __grid_constant__ support](https://discourse.llvm.org/t/rfc-hip-grid-constant-support/67759#post_8)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_2)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_24)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_1)
+- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_5)
 <!-- DISCOURSE-LLVM:END -->
