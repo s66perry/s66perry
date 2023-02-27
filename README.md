@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Towards MLIR Bytecode format stability and backward compatibility](https://discourse.llvm.org/t/towards-mlir-bytecode-format-stability-and-backward-compatibility/68742#post_6)
+- [Towards MLIR Bytecode format stability and backward compatibility](https://discourse.llvm.org/t/towards-mlir-bytecode-format-stability-and-backward-compatibility/68742#post_5)
+- [[NewPM] Retrieve TargetMachine](https://discourse.llvm.org/t/newpm-retrieve-targetmachine/68767#post_2)
 - [LLVM backend, unique operands in instruction](https://discourse.llvm.org/t/llvm-backend-unique-operands-in-instruction/68779#post_5)
 - [Towards MLIR Bytecode format stability and backward compatibility](https://discourse.llvm.org/t/towards-mlir-bytecode-format-stability-and-backward-compatibility/68742#post_4)
-- [LLVM backend, unique operands in instruction](https://discourse.llvm.org/t/llvm-backend-unique-operands-in-instruction/68779#post_4)
-- [LLVM backend, unique operands in instruction](https://discourse.llvm.org/t/llvm-backend-unique-operands-in-instruction/68779#post_3)
-- [Llvm-as: &lt;stdin&gt;:1:1: error: expected top-level entity](https://discourse.llvm.org/t/llvm-as-stdin-1-error-expected-top-level-entity/68786#post_4)
 <!-- DISCOURSE-LLVM:END -->
