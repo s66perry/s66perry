@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_27)
-- [Lifetime markers and coroutine intrinsics](https://discourse.llvm.org/t/lifetime-markers-and-coroutine-intrinsics/68824#post_1)
-- [Strategic Planning - Grants &amp; Scholarships Meeting Feb 27/28](https://discourse.llvm.org/t/strategic-planning-grants-scholarships-meeting-feb-27-28/68550#post_4)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_13)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_12)
+- [Dependencies from potentially aliasing loads and stores](https://discourse.llvm.org/t/dependencies-from-potentially-aliasing-loads-and-stores/68827#post_1)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=2#post_40)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_15)
+- [CUCLANG struggle with cooperative groups headers](https://discourse.llvm.org/t/cuclang-struggle-with-cooperative-groups-headers/68592#post_5)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_14)
 <!-- DISCOURSE-LLVM:END -->
