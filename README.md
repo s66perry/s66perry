@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Dependencies from potentially aliasing loads and stores](https://discourse.llvm.org/t/dependencies-from-potentially-aliasing-loads-and-stores/68827#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=2#post_40)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_15)
-- [CUCLANG struggle with cooperative groups headers](https://discourse.llvm.org/t/cuclang-struggle-with-cooperative-groups-headers/68592#post_5)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_14)
+- [Error: invalid use of incomplete type ‘const class llvm::MCSubtargetInfo’](https://discourse.llvm.org/t/error-invalid-use-of-incomplete-type-const-class-llvm-mcsubtargetinfo/68830#post_2)
+- [Error: invalid use of incomplete type ‘const class llvm::MCSubtargetInfo’](https://discourse.llvm.org/t/error-invalid-use-of-incomplete-type-const-class-llvm-mcsubtargetinfo/68830#post_1)
+- [MLIR Open projects](https://discourse.llvm.org/t/mlir-open-projects/68829#post_1)
+- [Concatenating 2 or more memrefs](https://discourse.llvm.org/t/concatenating-2-or-more-memrefs/68816#post_2)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_42)
 <!-- DISCOURSE-LLVM:END -->
