@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_14)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_6)
-- [Using MacOS calling convention to call external functions](https://discourse.llvm.org/t/using-macos-calling-convention-to-call-external-functions/68819#post_3)
-- [Using MacOS calling convention to call external functions](https://discourse.llvm.org/t/using-macos-calling-convention-to-call-external-functions/68819#post_2)
-- [`dbg.addr` intrinsic slated for removal](https://discourse.llvm.org/t/dbg-addr-intrinsic-slated-for-removal/68781#post_2)
+- [Strategic Planning - Grants &amp; Scholarships Meeting Feb 27/28](https://discourse.llvm.org/t/strategic-planning-grants-scholarships-meeting-feb-27-28/68550#post_4)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_13)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_12)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_11)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_10)
 <!-- DISCOURSE-LLVM:END -->
