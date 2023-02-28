@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Concatenating 2 or more memrefs](https://discourse.llvm.org/t/concatenating-2-or-more-memrefs/68816#post_1)
+- [Create a scalar accumulator variable in MLIR](https://discourse.llvm.org/t/create-a-scalar-accumulator-variable-in-mlir/68815#post_2)
+- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_4)
+- [Adding riscv vector intrinsic to llvm](https://discourse.llvm.org/t/adding-riscv-vector-intrinsic-to-llvm/68694#post_6)
 - [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_3)
-- [Create a scalar accumulator variable in MLIR](https://discourse.llvm.org/t/create-a-scalar-accumulator-variable-in-mlir/68815#post_1)
-- [[RFC] disable clang-format in subfolders by config file option](https://discourse.llvm.org/t/rfc-disable-clang-format-in-subfolders-by-config-file-option/68813#post_1)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998?page=2#post_37)
-- [Exported Calyx doesn&#39;t add memory](https://discourse.llvm.org/t/exported-calyx-doesnt-add-memory/68707#post_3)
 <!-- DISCOURSE-LLVM:END -->
