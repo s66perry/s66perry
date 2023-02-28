@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_5)
+- [LLVM Cambridge UK Social - February](https://discourse.llvm.org/t/llvm-cambridge-uk-social-february/67677#post_3)
+- [LLVM Cambridge UK Social - March](https://discourse.llvm.org/t/llvm-cambridge-uk-social-march/68817#post_1)
 - [Concatenating 2 or more memrefs](https://discourse.llvm.org/t/concatenating-2-or-more-memrefs/68816#post_1)
 - [Create a scalar accumulator variable in MLIR](https://discourse.llvm.org/t/create-a-scalar-accumulator-variable-in-mlir/68815#post_2)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_4)
-- [Adding riscv vector intrinsic to llvm](https://discourse.llvm.org/t/adding-riscv-vector-intrinsic-to-llvm/68694#post_6)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_3)
 <!-- DISCOURSE-LLVM:END -->
