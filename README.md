@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_28)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_46)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_45)
-- [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_6)
-- [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_5)
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_31)
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_30)
+- [About the Automated Reports category](https://discourse.llvm.org/t/about-the-automated-reports-category/68715#post_2)
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_29)
+- [Create a scalar accumulator variable in MLIR](https://discourse.llvm.org/t/create-a-scalar-accumulator-variable-in-mlir/68815#post_3)
 <!-- DISCOURSE-LLVM:END -->
