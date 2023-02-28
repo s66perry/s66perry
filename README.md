@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Error: invalid use of incomplete type ‘const class llvm::MCSubtargetInfo’](https://discourse.llvm.org/t/error-invalid-use-of-incomplete-type-const-class-llvm-mcsubtargetinfo/68830#post_2)
-- [Error: invalid use of incomplete type ‘const class llvm::MCSubtargetInfo’](https://discourse.llvm.org/t/error-invalid-use-of-incomplete-type-const-class-llvm-mcsubtargetinfo/68830#post_1)
-- [MLIR Open projects](https://discourse.llvm.org/t/mlir-open-projects/68829#post_1)
-- [Concatenating 2 or more memrefs](https://discourse.llvm.org/t/concatenating-2-or-more-memrefs/68816#post_2)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_42)
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_28)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_46)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_45)
+- [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_6)
+- [How to compile C++ header units?](https://discourse.llvm.org/t/how-to-compile-c-header-units/68766#post_5)
 <!-- DISCOURSE-LLVM:END -->
