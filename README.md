@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][HIP] __grid_constant__ support](https://discourse.llvm.org/t/rfc-hip-grid-constant-support/67759#post_8)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_2)
-- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_24)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_1)
-- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_5)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_26)
+- [Deprecation of &quot;enable-new-pm&quot; option](https://discourse.llvm.org/t/deprecation-of-enable-new-pm-option/65168?page=2#post_25)
+- [Clang-tidy appears to be significantly slower from clang-15 to clang-16](https://discourse.llvm.org/t/clang-tidy-appears-to-be-significantly-slower-from-clang-15-to-clang-16/68717#post_4)
+- [Clang-tidy appears to be significantly slower from clang-15 to clang-16](https://discourse.llvm.org/t/clang-tidy-appears-to-be-significantly-slower-from-clang-15-to-clang-16/68717#post_3)
+- [SysV ABI non-power-of-two returns, motivation?](https://discourse.llvm.org/t/sysv-abi-non-power-of-two-returns-motivation/68799#post_1)
 <!-- DISCOURSE-LLVM:END -->
