@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding support #pragma clang loop [no]prefetch&lpar;&rpar; for prefetch](https://discourse.llvm.org/t/rfc-adding-support-pragma-clang-loop-no-prefetch-for-prefetch/68597#post_7)
-- [Why do we need transform the shl to mul in ReassociatePass?](https://discourse.llvm.org/t/why-do-we-need-transform-the-shl-to-mul-in-reassociatepass/68853#post_1)
-- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=3#post_42)
-- [Fortran 2008 BLOCK construct landed](https://discourse.llvm.org/t/fortran-2008-block-construct-landed/68850#post_1)
-- [Who is using Static Analyzer? Where are our users?](https://discourse.llvm.org/t/who-is-using-static-analyzer-where-are-our-users/67985#post_7)
+- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_9)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_51)
+- [Better performance models for MLGO training](https://discourse.llvm.org/t/better-performance-models-for-mlgo-training/68219#post_9)
+- [Enforcing MacOS aarch64 calling convention](https://discourse.llvm.org/t/enforcing-macos-aarch64-calling-convention/68860#post_1)
+- [Maybe we could start to play with std modules](https://discourse.llvm.org/t/maybe-we-could-start-to-play-with-std-modules/64093#post_18)
 <!-- DISCOURSE-LLVM:END -->
