@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Enforcing MacOS aarch64 calling convention](https://discourse.llvm.org/t/enforcing-macos-aarch64-calling-convention/68860#post_3)
+- [Adding restrictions on target independent opcodes in MIR](https://discourse.llvm.org/t/adding-restrictions-on-target-independent-opcodes-in-mir/68457#post_2)
+- [C/C++ includes search path order?](https://discourse.llvm.org/t/c-c-includes-search-path-order/68868#post_3)
+- [What does add_llvm_library exactly do? Why are libomp libraries installed twice?](https://discourse.llvm.org/t/what-does-add-llvm-library-exactly-do-why-are-libomp-libraries-installed-twice/68873#post_1)
 - [C/C++ includes search path order?](https://discourse.llvm.org/t/c-c-includes-search-path-order/68868#post_2)
-- [RFC: Handle Execution Results in clang-repl](https://discourse.llvm.org/t/rfc-handle-execution-results-in-clang-repl/68493#post_10)
-- [[RFC] omp.module and omp.function vs dialect attributes to encode openmp properties](https://discourse.llvm.org/t/rfc-omp-module-and-omp-function-vs-dialect-attributes-to-encode-openmp-properties/67998?page=2#post_38)
-- [Map LLVM values to corresponding source-level expressions](https://discourse.llvm.org/t/map-llvm-values-to-corresponding-source-level-expressions/68450#post_11)
-- [How to link llc-generated Obj file into executable file?](https://discourse.llvm.org/t/how-to-link-llc-generated-obj-file-into-executable-file/68870#post_1)
 <!-- DISCOURSE-LLVM:END -->
