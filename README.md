@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_12)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_48)
-- [ORC Platform `OrcRuntimePath`](https://discourse.llvm.org/t/orc-platform-orcruntimepath/68839#post_17)
-- [ORC Platform `OrcRuntimePath`](https://discourse.llvm.org/t/orc-platform-orcruntimepath/68839#post_16)
-- [MLIR Open Projects in GPU](https://discourse.llvm.org/t/mlir-open-projects-in-gpu/68840#post_3)
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130?page=3#post_50)
+- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_17)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_49)
+- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_16)
+- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_15)
 <!-- DISCOURSE-LLVM:END -->
