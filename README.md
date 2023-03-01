@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Performance issues with memref.global and LLVM IR](https://discourse.llvm.org/t/performance-issues-with-memref-global-and-llvm-ir/68604#post_7)
-- [Are there assembly .macro differences in clang-cl.exe?](https://discourse.llvm.org/t/are-there-assembly-macro-differences-in-clang-cl-exe/68861#post_5)
-- [Libclang with python binding to extract structure with unnamed field](https://discourse.llvm.org/t/libclang-with-python-binding-to-extract-structure-with-unnamed-field/68864#post_1)
-- [Map LLVM values to corresponding source-level expressions](https://discourse.llvm.org/t/map-llvm-values-to-corresponding-source-level-expressions/68450#post_10)
-- [Are there assembly .macro differences in clang-cl.exe?](https://discourse.llvm.org/t/are-there-assembly-macro-differences-in-clang-cl-exe/68861#post_4)
+- [Map LLVM values to corresponding source-level expressions](https://discourse.llvm.org/t/map-llvm-values-to-corresponding-source-level-expressions/68450#post_11)
+- [How to link llc-generated Obj file into executable file?](https://discourse.llvm.org/t/how-to-link-llc-generated-obj-file-into-executable-file/68870#post_1)
+- [LLVM 16.0.0-rc1 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc1-has-been-tagged/68019#post_18)
+- [Error building LLVM+Clang &quot;Too many open files&quot; on Windows](https://discourse.llvm.org/t/error-building-llvm-clang-too-many-open-files-on-windows/68867#post_2)
+- [Enforcing MacOS aarch64 calling convention](https://discourse.llvm.org/t/enforcing-macos-aarch64-calling-convention/68860#post_2)
 <!-- DISCOURSE-LLVM:END -->
