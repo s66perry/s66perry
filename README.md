@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Are there assembly .macro differences in clang-cl.exe?](https://discourse.llvm.org/t/are-there-assembly-macro-differences-in-clang-cl-exe/68861#post_3)
+- [Are there assembly .macro differences in clang-cl.exe?](https://discourse.llvm.org/t/are-there-assembly-macro-differences-in-clang-cl-exe/68861#post_2)
+- [How to build a mlir gpu-codegen project？](https://discourse.llvm.org/t/how-to-build-a-mlir-gpu-codegen-project/68543#post_5)
+- [Are there assembly .macro differences in clang-cl.exe?](https://discourse.llvm.org/t/are-there-assembly-macro-differences-in-clang-cl-exe/68861#post_1)
 - [Questions about EuroLLVM 2023](https://discourse.llvm.org/t/questions-about-eurollvm-2023/68346#post_7)
-- [Create a scalar accumulator variable in MLIR](https://discourse.llvm.org/t/create-a-scalar-accumulator-variable-in-mlir/68815#post_4)
-- [ORC Platform `OrcRuntimePath`](https://discourse.llvm.org/t/orc-platform-orcruntimepath/68839#post_14)
-- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_9)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
