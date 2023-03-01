@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_11)
-- [Questions about EuroLLVM 2023](https://discourse.llvm.org/t/questions-about-eurollvm-2023/68346#post_9)
-- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_10)
-- [MLIR Open Projects in GPU](https://discourse.llvm.org/t/mlir-open-projects-in-gpu/68840#post_2)
-- [[RFC] Enhancing Clang-Tidy with project-level knowledge](https://discourse.llvm.org/t/rfc-enhancing-clang-tidy-with-project-level-knowledge/63960#post_9)
+- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665#post_12)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_48)
+- [ORC Platform `OrcRuntimePath`](https://discourse.llvm.org/t/orc-platform-orcruntimepath/68839#post_17)
+- [ORC Platform `OrcRuntimePath`](https://discourse.llvm.org/t/orc-platform-orcruntimepath/68839#post_16)
+- [MLIR Open Projects in GPU](https://discourse.llvm.org/t/mlir-open-projects-in-gpu/68840#post_3)
 <!-- DISCOURSE-LLVM:END -->
