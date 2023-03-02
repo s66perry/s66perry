@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Questions about EuroLLVM 2023](https://discourse.llvm.org/t/questions-about-eurollvm-2023/68346#post_10)
+- [Using MacOS calling convention to call external functions](https://discourse.llvm.org/t/using-macos-calling-convention-to-call-external-functions/68819#post_5)
+- [Enforcing MacOS aarch64 calling convention](https://discourse.llvm.org/t/enforcing-macos-aarch64-calling-convention/68860#post_6)
+- [Improve Clang diagnostics 2](https://discourse.llvm.org/t/improve-clang-diagnostics-2/68900#post_1)
 - [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_11)
-- [Prune unused metadata after function extraction](https://discourse.llvm.org/t/prune-unused-metadata-after-function-extraction/68875#post_3)
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740?page=2#post_24)
-- [GSoC 2023 proposal - Improve and stabilize the static analyzer’s “taint analysis” checks](https://discourse.llvm.org/t/gsoc-2023-proposal-improve-and-stabilize-the-static-analyzer-s-taint-analysis-checks/68858#post_3)
-- [RFC: Machine Pipeliner interface](https://discourse.llvm.org/t/rfc-machine-pipeliner-interface/68897#post_1)
 <!-- DISCOURSE-LLVM:END -->
