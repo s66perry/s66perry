@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Questions about EuroLLVM 2023](https://discourse.llvm.org/t/questions-about-eurollvm-2023/68346#post_10)
-- [Using MacOS calling convention to call external functions](https://discourse.llvm.org/t/using-macos-calling-convention-to-call-external-functions/68819#post_5)
-- [Enforcing MacOS aarch64 calling convention](https://discourse.llvm.org/t/enforcing-macos-aarch64-calling-convention/68860#post_6)
-- [Improve Clang diagnostics 2](https://discourse.llvm.org/t/improve-clang-diagnostics-2/68900#post_1)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_11)
+- [GLSL Frontend in Clang &amp; Clang Tools extension](https://discourse.llvm.org/t/glsl-frontend-in-clang-clang-tools-extension/68903#post_1)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_51)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_18)
+- [RFC: Handle Execution Results in clang-repl](https://discourse.llvm.org/t/rfc-handle-execution-results-in-clang-repl/68493#post_12)
+- [LLVM MLGO Meeting March 3, 2023](https://discourse.llvm.org/t/llvm-mlgo-meeting-march-3-2023/68687#post_2)
 <!-- DISCOURSE-LLVM:END -->
