@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_34)
+- [RFC Loop Versioning for unit stride](https://discourse.llvm.org/t/rfc-loop-versioning-for-unit-stride/68605#post_2)
 - [Instructions cost definition](https://discourse.llvm.org/t/instructions-cost-definition/68831#post_3)
 - [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_53)
 - [Prune unused metadata after function extraction](https://discourse.llvm.org/t/prune-unused-metadata-after-function-extraction/68875#post_4)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_52)
-- [GLSL Frontend in Clang &amp; Clang Tools extension](https://discourse.llvm.org/t/glsl-frontend-in-clang-clang-tools-extension/68903#post_1)
 <!-- DISCOURSE-LLVM:END -->
