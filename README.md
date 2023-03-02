@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Instructions cost definition](https://discourse.llvm.org/t/instructions-cost-definition/68831#post_3)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_53)
+- [Prune unused metadata after function extraction](https://discourse.llvm.org/t/prune-unused-metadata-after-function-extraction/68875#post_4)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_52)
 - [GLSL Frontend in Clang &amp; Clang Tools extension](https://discourse.llvm.org/t/glsl-frontend-in-clang-clang-tools-extension/68903#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_51)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_18)
-- [RFC: Handle Execution Results in clang-repl](https://discourse.llvm.org/t/rfc-handle-execution-results-in-clang-repl/68493#post_12)
-- [LLVM MLGO Meeting March 3, 2023](https://discourse.llvm.org/t/llvm-mlgo-meeting-march-3-2023/68687#post_2)
 <!-- DISCOURSE-LLVM:END -->
