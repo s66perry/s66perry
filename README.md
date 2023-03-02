@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_17)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_16)
+- [Enforcing MacOS aarch64 calling convention](https://discourse.llvm.org/t/enforcing-macos-aarch64-calling-convention/68860#post_5)
+- [Adding restrictions on target independent opcodes in MIR](https://discourse.llvm.org/t/adding-restrictions-on-target-independent-opcodes-in-mir/68457#post_3)
 - [Error building LLVM+Clang &quot;Too many open files&quot; on Windows](https://discourse.llvm.org/t/error-building-llvm-clang-too-many-open-files-on-windows/68867#post_4)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_6)
-- [Exported Calyx doesn&#39;t add memory](https://discourse.llvm.org/t/exported-calyx-doesnt-add-memory/68707#post_7)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_5)
-- [How to convert linalg.matmul to nvvm gpu dialect](https://discourse.llvm.org/t/how-to-convert-linalg-matmul-to-nvvm-gpu-dialect/68890#post_1)
 <!-- DISCOURSE-LLVM:END -->
