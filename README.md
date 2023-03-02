@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_21)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_20)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798#post_19)
-- [PSA: Changes to `TilingInterface` ABI](https://discourse.llvm.org/t/psa-changes-to-tilinginterface-abi/68906#post_1)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_34)
+- [Global ISel](https://discourse.llvm.org/t/global-isel/68884#post_5)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_23)
+- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_6)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_22)
+- [No conversion warning on `i += s` with `int i` and `unsigned s`](https://discourse.llvm.org/t/no-conversion-warning-on-i-s-with-int-i-and-unsigned-s/68913#post_1)
 <!-- DISCOURSE-LLVM:END -->
