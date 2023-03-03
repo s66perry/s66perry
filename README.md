@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_29)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_28)
 - [Legalizing: integer promotion with custom expand](https://discourse.llvm.org/t/legalizing-integer-promotion-with-custom-expand/68940#post_3)
 - [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_9)
 - [Legalizing: integer promotion with custom expand](https://discourse.llvm.org/t/legalizing-integer-promotion-with-custom-expand/68940#post_2)
-- [Is there any way to retain the GEPs which lead to the first field of a structure](https://discourse.llvm.org/t/is-there-any-way-to-retain-the-geps-which-lead-to-the-first-field-of-a-structure/68929#post_3)
-- [Legalizing: integer promotion with custom expand](https://discourse.llvm.org/t/legalizing-integer-promotion-with-custom-expand/68940#post_1)
 <!-- DISCOURSE-LLVM:END -->
