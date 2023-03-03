@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How can I extract the string literals from a Mach-O archive or object without mangling?](https://discourse.llvm.org/t/how-can-i-extract-the-string-literals-from-a-mach-o-archive-or-object-without-mangling/68918#post_1)
-- [What string encoding does LLVM use for link maps?](https://discourse.llvm.org/t/what-string-encoding-does-llvm-use-for-link-maps/68917#post_1)
-- [How to disable clang expression elimination for thread_local variable](https://discourse.llvm.org/t/how-to-disable-clang-expression-elimination-for-thread-local-variable/68845#post_2)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_24)
-- [Global ISel](https://discourse.llvm.org/t/global-isel/68884#post_5)
+- [Mir-opt -test-linalg-codegen-strategy pass not found](https://discourse.llvm.org/t/mir-opt-test-linalg-codegen-strategy-pass-not-found/68920#post_1)
+- [[Clang] Improve and stabilize the static analyzer&#39;s &quot;taint analysis&quot; checks](https://discourse.llvm.org/t/clang-improve-and-stabilize-the-static-analyzers-taint-analysis-checks/68235#post_13)
+- [C/C++ includes search path order?](https://discourse.llvm.org/t/c-c-includes-search-path-order/68868#post_4)
+- [GSoC 2023 proposal - Improve and stabilize the static analyzer’s “taint analysis” checks](https://discourse.llvm.org/t/gsoc-2023-proposal-improve-and-stabilize-the-static-analyzer-s-taint-analysis-checks/68858#post_4)
+- [[Coverage] Support a hierarchical directory structure in generated coverage html reports](https://discourse.llvm.org/t/coverage-support-a-hierarchical-directory-structure-in-generated-coverage-html-reports/68239#post_5)
 <!-- DISCOURSE-LLVM:END -->
