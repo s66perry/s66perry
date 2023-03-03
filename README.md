@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Compiler Social Zurich - March](https://discourse.llvm.org/t/llvm-compiler-social-zurich-march/68934#post_1)
+- [GLSL Frontend in Clang &amp; Clang Tools extension](https://discourse.llvm.org/t/glsl-frontend-in-clang-clang-tools-extension/68903#post_3)
+- [Prune unused metadata after function extraction](https://discourse.llvm.org/t/prune-unused-metadata-after-function-extraction/68875#post_5)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_52)
 - [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_35)
-- [How to affect registers to make macro fusion happen](https://discourse.llvm.org/t/how-to-affect-registers-to-make-macro-fusion-happen/68932#post_1)
-- [How can I create a new eBPF map in user llvm pass?](https://discourse.llvm.org/t/how-can-i-create-a-new-ebpf-map-in-user-llvm-pass/68931#post_1)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_31)
-- [Is there any way to retain the GEPs which lead to the first field of a structure](https://discourse.llvm.org/t/is-there-any-way-to-retain-the-geps-which-lead-to-the-first-field-of-a-structure/68929#post_1)
 <!-- DISCOURSE-LLVM:END -->
