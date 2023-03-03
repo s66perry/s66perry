@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Instructions cost definition](https://discourse.llvm.org/t/instructions-cost-definition/68831#post_4)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_24)
-- [Global ISel](https://discourse.llvm.org/t/global-isel/68884#post_6)
-- [I have some problems designing mlir op](https://discourse.llvm.org/t/i-have-some-problems-designing-mlir-op/68889#post_2)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_54)
+- [Is there any way to retain the GEPs which lead to the first field of a structure](https://discourse.llvm.org/t/is-there-any-way-to-retain-the-geps-which-lead-to-the-first-field-of-a-structure/68929#post_1)
+- [`dbg.addr` intrinsic slated for removal](https://discourse.llvm.org/t/dbg-addr-intrinsic-slated-for-removal/68781#post_3)
+- [Global ISel](https://discourse.llvm.org/t/global-isel/68884#post_8)
+- [Global ISel](https://discourse.llvm.org/t/global-isel/68884#post_7)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
