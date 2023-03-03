@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Jump table generation with PIC](https://discourse.llvm.org/t/jump-table-generation-with-pic/68935#post_3)
+- [Jump table generation with PIC](https://discourse.llvm.org/t/jump-table-generation-with-pic/68935#post_2)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_53)
+- [Improve Clang diagnostics 2](https://discourse.llvm.org/t/improve-clang-diagnostics-2/68900#post_2)
 - [`dbg.addr` intrinsic slated for removal](https://discourse.llvm.org/t/dbg-addr-intrinsic-slated-for-removal/68781#post_4)
-- [How to build a mlir gpu-codegen project？](https://discourse.llvm.org/t/how-to-build-a-mlir-gpu-codegen-project/68543#post_6)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_26)
-- [Jump table generation with PIC](https://discourse.llvm.org/t/jump-table-generation-with-pic/68935#post_1)
-- [LLVM Compiler Social Zurich - March](https://discourse.llvm.org/t/llvm-compiler-social-zurich-march/68934#post_1)
 <!-- DISCOURSE-LLVM:END -->
