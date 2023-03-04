@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Are the LLVM-16 release notes online?](https://discourse.llvm.org/t/are-the-llvm-16-release-notes-online/68944#post_2)
 - [Are the LLVM-16 release notes online?](https://discourse.llvm.org/t/are-the-llvm-16-release-notes-online/68944#post_1)
 - [Testing clang Fix-Its attached to notes](https://discourse.llvm.org/t/testing-clang-fix-its-attached-to-notes/68317#post_12)
 - [Why doesn&#39;t the assembler treat a macro as an immediate?](https://discourse.llvm.org/t/why-doesnt-the-assembler-treat-a-macro-as-an-immediate/68942#post_1)
 - [How to affect registers to make macro fusion happen](https://discourse.llvm.org/t/how-to-affect-registers-to-make-macro-fusion-happen/68932#post_2)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
