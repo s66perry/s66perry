@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Are the LLVM-16 release notes online?](https://discourse.llvm.org/t/are-the-llvm-16-release-notes-online/68944#post_4)
 - [Struggling with simple mlir-translate to spir-v](https://discourse.llvm.org/t/struggling-with-simple-mlir-translate-to-spir-v/68579#post_12)
 - [Struggling with simple mlir-translate to spir-v](https://discourse.llvm.org/t/struggling-with-simple-mlir-translate-to-spir-v/68579#post_11)
 - [Are the LLVM-16 release notes online?](https://discourse.llvm.org/t/are-the-llvm-16-release-notes-online/68944#post_3)
 - [Lowering to mutiple independent instructions &lpar;RISC-V&rpar;](https://discourse.llvm.org/t/lowering-to-mutiple-independent-instructions-risc-v/68947#post_3)
-- [Lowering to mutiple independent instructions &lpar;RISC-V&rpar;](https://discourse.llvm.org/t/lowering-to-mutiple-independent-instructions-risc-v/68947#post_2)
 <!-- DISCOURSE-LLVM:END -->
