@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [GLSL Frontend in Clang &amp; Clang Tools extension](https://discourse.llvm.org/t/glsl-frontend-in-clang-clang-tools-extension/68903#post_4)
-- [GPU Working Group Meeting – Friday, Feb 3, 2023](https://discourse.llvm.org/t/gpu-working-group-meeting-friday-feb-3-2023/68095#post_5)
-- [How to compile multiple .ll files into a single executable](https://discourse.llvm.org/t/how-to-compile-multiple-ll-files-into-a-single-executable/68973#post_1)
-- [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_12)
-- [Is there a way to query a runtime ordering of passes for a given source file?](https://discourse.llvm.org/t/is-there-a-way-to-query-a-runtime-ordering-of-passes-for-a-given-source-file/68970#post_2)
+- [How to create MachineNode and replace the former one?](https://discourse.llvm.org/t/how-to-create-machinenode-and-replace-the-former-one/68976#post_3)
+- [How to create MachineNode and replace the former one?](https://discourse.llvm.org/t/how-to-create-machinenode-and-replace-the-former-one/68976#post_2)
+- [How -fsanitize=local-bounds is different from fsanitize=array-bounds](https://discourse.llvm.org/t/how-fsanitize-local-bounds-is-different-from-fsanitize-array-bounds/68978#post_1)
+- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_15)
+- [How to create MachineNode and replace the former one?](https://discourse.llvm.org/t/how-to-create-machinenode-and-replace-the-former-one/68976#post_1)
 <!-- DISCOURSE-LLVM:END -->
