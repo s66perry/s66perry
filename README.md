@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 16.0.0-rc3 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc3-has-been-tagged/68667#post_7)
-- [LLVM 16.0.0-rc2 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc2-has-been-tagged/68299#post_10)
-- [Build dependency between tools &lpar;clang, lld&rpar; and runtimes](https://discourse.llvm.org/t/build-dependency-between-tools-clang-lld-and-runtimes/68988#post_2)
-- [GLSL Frontend in Clang &amp; Clang Tools extension](https://discourse.llvm.org/t/glsl-frontend-in-clang-clang-tools-extension/68903#post_5)
-- [Diversity &amp; Inclusion - Strategic Planning &lpar;March 6/7&rpar;](https://discourse.llvm.org/t/diversity-inclusion-strategic-planning-march-6-7/68794#post_2)
+- [LLVM Weekly - #479, March 6th 2023](https://discourse.llvm.org/t/llvm-weekly-479-march-6th-2023/68993#post_1)
+- [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_15)
+- [[PSA] `preloadDialectInContext` has been deprecated for &gt;1y and will be removed](https://discourse.llvm.org/t/psa-preloaddialectincontext-has-been-deprecated-for-1y-and-will-be-removed/68992#post_1)
+- [[PSA] Migrating `mlir-opt`-like tools to use `MlirOptMainConfig`](https://discourse.llvm.org/t/psa-migrating-mlir-opt-like-tools-to-use-mliroptmainconfig/68991#post_1)
+- [GPU Working Group Meeting – Friday, Feb 3, 2023](https://discourse.llvm.org/t/gpu-working-group-meeting-friday-feb-3-2023/68095#post_11)
 <!-- DISCOURSE-LLVM:END -->
