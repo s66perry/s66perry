@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to compile multiple .ll files into a single executable](https://discourse.llvm.org/t/how-to-compile-multiple-ll-files-into-a-single-executable/68973#post_1)
+- [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_12)
+- [Is there a way to query a runtime ordering of passes for a given source file?](https://discourse.llvm.org/t/is-there-a-way-to-query-a-runtime-ordering-of-passes-for-a-given-source-file/68970#post_2)
 - [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_11)
 - [Is there a way to query a runtime ordering of passes for a given source file?](https://discourse.llvm.org/t/is-there-a-way-to-query-a-runtime-ordering-of-passes-for-a-given-source-file/68970#post_1)
-- [[RFC] Upstream IRDL, a dialect for dynamic dialects](https://discourse.llvm.org/t/rfc-upstream-irdl-a-dialect-for-dynamic-dialects/68718#post_10)
-- [Improve Clang diagnostics 2](https://discourse.llvm.org/t/improve-clang-diagnostics-2/68900#post_3)
-- [How to achieve memref byte alignment?](https://discourse.llvm.org/t/how-to-achieve-memref-byte-alignment/68962#post_2)
 <!-- DISCOURSE-LLVM:END -->
