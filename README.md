@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Community Health &amp; Infrastructure - Strategic Planning &lpar;March 20/21&rpar;](https://discourse.llvm.org/t/community-health-infrastructure-strategic-planning-march-20-21/68796#post_2)
-- [Clang - Emitting both bitcode and object files](https://discourse.llvm.org/t/clang-emitting-both-bitcode-and-object-files/69002#post_7)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_1)
-- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_17)
-- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_16)
+- [Mir-opt -test-linalg-codegen-strategy pass not found](https://discourse.llvm.org/t/mir-opt-test-linalg-codegen-strategy-pass-not-found/68920#post_3)
+- [How to build a mlir gpu-codegen project？](https://discourse.llvm.org/t/how-to-build-a-mlir-gpu-codegen-project/68543#post_8)
+- [Struggling with simple mlir-translate to spir-v](https://discourse.llvm.org/t/struggling-with-simple-mlir-translate-to-spir-v/68579#post_14)
+- [Struggling with simple mlir-translate to spir-v](https://discourse.llvm.org/t/struggling-with-simple-mlir-translate-to-spir-v/68579#post_13)
+- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762#post_20)
 <!-- DISCOURSE-LLVM:END -->
