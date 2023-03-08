@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_7)
-- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_14)
-- [[MLIR] Optimizing MLIR’s Presburger library](https://discourse.llvm.org/t/mlir-optimizing-mlir-s-presburger-library/68213#post_4)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_6)
-- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=3#post_44)
+- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762?page=2#post_39)
+- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762?page=2#post_38)
+- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762?page=2#post_37)
+- [[RFC] Local Per-Component IR Checkpointing](https://discourse.llvm.org/t/rfc-local-per-component-ir-checkpointing/69071#post_3)
+- [Adding options for Clang to write diagnostics to file](https://discourse.llvm.org/t/adding-options-for-clang-to-write-diagnostics-to-file/67762?page=2#post_36)
 <!-- DISCOURSE-LLVM:END -->
