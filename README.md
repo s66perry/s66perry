@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_18)
-- [[RFC] Adding support #pragma clang loop [no]prefetch&lpar;&rpar; for prefetch](https://discourse.llvm.org/t/rfc-adding-support-pragma-clang-loop-no-prefetch-for-prefetch/68597#post_8)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479#post_17)
-- [Building clang+llvm using cmake with Visual Studio generator - how make libclang_rt-builtins use static runtime?](https://discourse.llvm.org/t/building-clang-llvm-using-cmake-with-visual-studio-generator-how-make-libclang-rt-builtins-use-static-runtime/69069#post_1)
-- [How -fsanitize=local-bounds is different from fsanitize=array-bounds](https://discourse.llvm.org/t/how-fsanitize-local-bounds-is-different-from-fsanitize-array-bounds/68978#post_2)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_7)
+- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_14)
+- [[MLIR] Optimizing MLIR’s Presburger library](https://discourse.llvm.org/t/mlir-optimizing-mlir-s-presburger-library/68213#post_4)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_6)
+- [[RFC] Lightweight LLVM IR Checkpointing](https://discourse.llvm.org/t/rfc-lightweight-llvm-ir-checkpointing/68446?page=3#post_44)
 <!-- DISCOURSE-LLVM:END -->
