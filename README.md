@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Arcinator/Phabricator Workflow Principles](https://discourse.llvm.org/t/arcinator-phabricator-workflow-principles/69100#post_1)
-- [IR load and xor instruction pattern matching](https://discourse.llvm.org/t/ir-load-and-xor-instruction-pattern-matching/69062#post_4)
-- [LLVM expression evaluation issue on Arm v7 targets](https://discourse.llvm.org/t/llvm-expression-evaluation-issue-on-arm-v7-targets/69099#post_1)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_11)
-- [Predicated Rewrite Patterns?](https://discourse.llvm.org/t/predicated-rewrite-patterns/69086#post_2)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_13)
+- [Arcinator/Phabricator Workflow Principles](https://discourse.llvm.org/t/arcinator-phabricator-workflow-principles/69100#post_2)
+- [GetElementPointer can return a different type than the type of the base pointer in MLIR, but this is not allowed in LLVM IR](https://discourse.llvm.org/t/getelementpointer-can-return-a-different-type-than-the-type-of-the-base-pointer-in-mlir-but-this-is-not-allowed-in-llvm-ir/69103#post_1)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_12)
+- [Failed to install llvm-14-dev package on ubuntu 22.04.1 LTS](https://discourse.llvm.org/t/failed-to-install-llvm-14-dev-package-on-ubuntu-22-04-1-lts/68495#post_4)
 <!-- DISCOURSE-LLVM:END -->
