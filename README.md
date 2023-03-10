@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_8)
+- [[RFC] Local Per-Component IR Checkpointing](https://discourse.llvm.org/t/rfc-local-per-component-ir-checkpointing/69071#post_5)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_17)
 - [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_7)
 - [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_6)
-- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_5)
-- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_4)
-- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_3)
 <!-- DISCOURSE-LLVM:END -->
