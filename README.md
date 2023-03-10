@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [No debugging symbols found in binary despite using -g flag](https://discourse.llvm.org/t/no-debugging-symbols-found-in-binary-despite-using-g-flag/69114#post_2)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_12)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Feb 27 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-feb-27-23-6pm/68104#post_4)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Mar 27 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-mar-27-23-6pm/69117#post_1)
-- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_1)
+- [Understanding the impact of instruction scheduling for modern desctop CPUs](https://discourse.llvm.org/t/understanding-the-impact-of-instruction-scheduling-for-modern-desctop-cpus/69027#post_5)
+- [No debugging symbols found in binary despite using -g flag](https://discourse.llvm.org/t/no-debugging-symbols-found-in-binary-despite-using-g-flag/69114#post_3)
+- [GSoC 2023 proposal - Improve and stabilize the static analyzer’s “taint analysis” checks](https://discourse.llvm.org/t/gsoc-2023-proposal-improve-and-stabilize-the-static-analyzer-s-taint-analysis-checks/68858#post_7)
+- [RFC: SBValue Metadata Provider](https://discourse.llvm.org/t/rfc-sbvalue-metadata-provider/68377?page=2#post_27)
+- [Open MLIR Meeting 3/9/2023: Integrating Convolution Optimization into MLIR to Improve Performance Beyond Im2Col+GEMM](https://discourse.llvm.org/t/open-mlir-meeting-3-9-2023-integrating-convolution-optimization-into-mlir-to-improve-performance-beyond-im2col-gemm/69018#post_2)
 <!-- DISCOURSE-LLVM:END -->
