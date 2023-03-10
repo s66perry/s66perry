@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What does the &quot;ch&quot; mean in LLVM DAG debug info？](https://discourse.llvm.org/t/what-does-the-ch-mean-in-llvm-dag-debug-info/69091#post_9)
-- [Understanding the impact of instruction scheduling for modern desctop CPUs](https://discourse.llvm.org/t/understanding-the-impact-of-instruction-scheduling-for-modern-desctop-cpus/69027#post_6)
-- [How to generate IR so that the loop vectorizer can vectorize it](https://discourse.llvm.org/t/how-to-generate-ir-so-that-the-loop-vectorizer-can-vectorize-it/69096#post_7)
-- [How to generate IR so that the loop vectorizer can vectorize it](https://discourse.llvm.org/t/how-to-generate-ir-so-that-the-loop-vectorizer-can-vectorize-it/69096#post_6)
-- [How to generate IR so that the loop vectorizer can vectorize it](https://discourse.llvm.org/t/how-to-generate-ir-so-that-the-loop-vectorizer-can-vectorize-it/69096#post_5)
+- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_7)
+- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_6)
+- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_5)
+- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_4)
+- [C++20 modules and Objective-C++ &lpar;.mm&rpar; files?](https://discourse.llvm.org/t/c-20-modules-and-objective-c-mm-files/69116#post_3)
 <!-- DISCOURSE-LLVM:END -->
