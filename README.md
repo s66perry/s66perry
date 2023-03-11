@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [WiCT In Person Meetup! March 30](https://discourse.llvm.org/t/wict-in-person-meetup-march-30/69155#post_1)
+- [GetElementPointer can return a different type than the type of the base pointer in MLIR, but this is not allowed in LLVM IR](https://discourse.llvm.org/t/getelementpointer-can-return-a-different-type-than-the-type-of-the-base-pointer-in-mlir-but-this-is-not-allowed-in-llvm-ir/69103#post_4)
+- [Running passes in transform ops + dealing with dependent dialects of those passes](https://discourse.llvm.org/t/running-passes-in-transform-ops-dealing-with-dependent-dialects-of-those-passes/69139#post_4)
+- [Insert a new struct declaration](https://discourse.llvm.org/t/insert-a-new-struct-declaration/69105#post_5)
 - [[RFC] _Optional: a type qualifier to indicate pointer nullability](https://discourse.llvm.org/t/rfc-optional-a-type-qualifier-to-indicate-pointer-nullability/68004?page=3#post_42)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_21)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_20)
-- [Target does not provide no preserved mask](https://discourse.llvm.org/t/target-does-not-provide-no-preserved-mask/69152#post_1)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_7)
 <!-- DISCOURSE-LLVM:END -->
