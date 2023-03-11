@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Using Tensor `Encoding` attribute](https://discourse.llvm.org/t/using-tensor-encoding-attribute/69142#post_2)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_19)
+- [[RFC] -load-pass-plugin for mlir-opt](https://discourse.llvm.org/t/rfc-load-pass-plugin-for-mlir-opt/65049#post_9)
 - [How do I get a libc++ bug fixed?](https://discourse.llvm.org/t/how-do-i-get-a-libc-bug-fixed/69147#post_1)
-- [[llvm-profdata] What behavior was intended if multiple name tables are present in an extensible sample profile?](https://discourse.llvm.org/t/llvm-profdata-what-behavior-was-intended-if-multiple-name-tables-are-present-in-an-extensible-sample-profile/69145#post_1)
-- [Running passes in transform ops + dealing with dependent dialects of those passes](https://discourse.llvm.org/t/running-passes-in-transform-ops-dealing-with-dependent-dialects-of-those-passes/69139#post_3)
-- [[LLVM] Improving compile times](https://discourse.llvm.org/t/llvm-improving-compile-times/68094#post_8)
-- [Using Tensor `Encoding` attribute](https://discourse.llvm.org/t/using-tensor-encoding-attribute/69142#post_1)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008#post_18)
 <!-- DISCOURSE-LLVM:END -->
