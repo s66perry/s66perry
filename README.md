@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Running passes in transform ops + dealing with dependent dialects of those passes](https://discourse.llvm.org/t/running-passes-in-transform-ops-dealing-with-dependent-dialects-of-those-passes/69139#post_3)
+- [[LLVM] Improving compile times](https://discourse.llvm.org/t/llvm-improving-compile-times/68094#post_8)
+- [Using Tensor `Encoding` attribute](https://discourse.llvm.org/t/using-tensor-encoding-attribute/69142#post_1)
+- [Running passes in transform ops + dealing with dependent dialects of those passes](https://discourse.llvm.org/t/running-passes-in-transform-ops-dealing-with-dependent-dialects-of-those-passes/69139#post_2)
 - [Why does TOSA use signless integer types?](https://discourse.llvm.org/t/why-does-tosa-use-signless-integer-types/67505#post_5)
-- [Is it possible to manually specify .init_array order?](https://discourse.llvm.org/t/is-it-possible-to-manually-specify-init-array-order/68649#post_3)
-- [Is it possible to manually specify .init_array order?](https://discourse.llvm.org/t/is-it-possible-to-manually-specify-init-array-order/68649#post_2)
-- [Dev meetings archives](https://discourse.llvm.org/t/dev-meetings-archives/69140#post_1)
-- [Running passes in transform ops + dealing with dependent dialects of those passes](https://discourse.llvm.org/t/running-passes-in-transform-ops-dealing-with-dependent-dialects-of-those-passes/69139#post_1)
 <!-- DISCOURSE-LLVM:END -->
