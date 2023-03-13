@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Windows open source project that use clang as default compiler](https://discourse.llvm.org/t/windows-open-source-project-that-use-clang-as-default-compiler/69181#post_8)
-- [Is intrinsic with no-return incompatible with optimization -O2?](https://discourse.llvm.org/t/is-intrinsic-with-no-return-incompatible-with-optimization-o2/69196#post_3)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_6)
-- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_5)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_23)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_25)
+- [Using Tensor `Encoding` attribute](https://discourse.llvm.org/t/using-tensor-encoding-attribute/69142#post_3)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_24)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191#post_15)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191#post_14)
 <!-- DISCOURSE-LLVM:END -->
