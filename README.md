@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191#post_18)
+- [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_2)
+- [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_1)
+- [ODR checking status?](https://discourse.llvm.org/t/odr-checking-status/69122#post_7)
 - [ODR checking status?](https://discourse.llvm.org/t/odr-checking-status/69122#post_6)
-- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191#post_17)
-- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191#post_16)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_25)
-- [Using Tensor `Encoding` attribute](https://discourse.llvm.org/t/using-tensor-encoding-attribute/69142#post_3)
 <!-- DISCOURSE-LLVM:END -->
