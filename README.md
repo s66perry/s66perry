@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_3)
-- [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_2)
-- [Draft for Coarray Fortran Runtime Library Interface Design Document](https://discourse.llvm.org/t/draft-for-coarray-fortran-runtime-library-interface-design-document/69237#post_1)
-- [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_1)
-- [Upstreaming an new LLVM backend for Renesas RL78](https://discourse.llvm.org/t/upstreaming-an-new-llvm-backend-for-renesas-rl78/69235#post_1)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_22)
+- [[RFC] Resolving issues related to extension versioning in RISC-V](https://discourse.llvm.org/t/rfc-resolving-issues-related-to-extension-versioning-in-risc-v/68472#post_9)
+- [JITLink new backends](https://discourse.llvm.org/t/jitlink-new-backends/68223#post_10)
+- [[RFC] Resolving issues related to extension versioning in RISC-V](https://discourse.llvm.org/t/rfc-resolving-issues-related-to-extension-versioning-in-risc-v/68472#post_8)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
