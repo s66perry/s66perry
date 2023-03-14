@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Windows open source project that use clang as default compiler](https://discourse.llvm.org/t/windows-open-source-project-that-use-clang-as-default-compiler/69181#post_9)
-- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_7)
-- [DIMetadata ownership model](https://discourse.llvm.org/t/dimetadata-ownership-model/69133#post_2)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_59)
-- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_58)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=4#post_61)
+- [[PSA] Updating Inliner Interface](https://discourse.llvm.org/t/psa-updating-inliner-interface/69224#post_1)
+- [DIMetadata ownership model](https://discourse.llvm.org/t/dimetadata-ownership-model/69133#post_3)
+- [How can i learn LinalgNamedStructuredOps.yaml?](https://discourse.llvm.org/t/how-can-i-learn-linalgnamedstructuredops-yaml/69183#post_2)
+- [Problems with Verilator linting warning in Chisel generated code](https://discourse.llvm.org/t/problems-with-verilator-linting-warning-in-chisel-generated-code/69223#post_1)
 <!-- DISCOURSE-LLVM:END -->
