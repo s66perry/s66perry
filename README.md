@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Could we mark coroutines as unreleased now?](https://discourse.llvm.org/t/rfc-could-we-mark-coroutines-as-unreleased-now/69220#post_1)
-- [[MLIR] Optimizing MLIR’s Presburger library](https://discourse.llvm.org/t/mlir-optimizing-mlir-s-presburger-library/68213#post_7)
-- [Commiting Changes to llvm-project](https://discourse.llvm.org/t/commiting-changes-to-llvm-project/69208#post_9)
-- [Commiting Changes to llvm-project](https://discourse.llvm.org/t/commiting-changes-to-llvm-project/69208#post_8)
-- [Folding memory into FMA](https://discourse.llvm.org/t/folding-memory-into-fma/69217#post_1)
+- [Windows open source project that use clang as default compiler](https://discourse.llvm.org/t/windows-open-source-project-that-use-clang-as-default-compiler/69181#post_9)
+- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_7)
+- [DIMetadata ownership model](https://discourse.llvm.org/t/dimetadata-ownership-model/69133#post_2)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_59)
+- [[RFC] Interface for destination-style ops](https://discourse.llvm.org/t/rfc-interface-for-destination-style-ops/64056?page=3#post_58)
 <!-- DISCOURSE-LLVM:END -->
