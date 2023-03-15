@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clarification on StructurizeCFG](https://discourse.llvm.org/t/clarification-on-structurizecfg/69257#post_1)
+- [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_8)
+- [Issues compiling 15.0.7](https://discourse.llvm.org/t/issues-compiling-15-0-7/69255#post_1)
 - [[RFC] New Preprocessor macro directive: #Repeat](https://discourse.llvm.org/t/rfc-new-preprocessor-macro-directive-repeat/69253#post_1)
 - [[RFC] Could we mark coroutines as unreleased now?](https://discourse.llvm.org/t/rfc-could-we-mark-coroutines-as-unreleased-now/69220#post_5)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_7)
-- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_3)
-- [How to resolve MCSymbolRefExpr when parsing asm files?](https://discourse.llvm.org/t/how-to-resolve-mcsymbolrefexpr-when-parsing-asm-files/69242#post_3)
 <!-- DISCOURSE-LLVM:END -->
