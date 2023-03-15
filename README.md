@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Issues compiling 15.0.7](https://discourse.llvm.org/t/issues-compiling-15-0-7/69255#post_2)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_26)
+- [[RFC] Could we mark coroutines as unreleased now?](https://discourse.llvm.org/t/rfc-could-we-mark-coroutines-as-unreleased-now/69220#post_6)
+- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_11)
 - [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_10)
-- [How to resolve MCSymbolRefExpr when parsing asm files?](https://discourse.llvm.org/t/how-to-resolve-mcsymbolrefexpr-when-parsing-asm-files/69242#post_4)
-- [[RFC] New Preprocessor macro directive: #Repeat](https://discourse.llvm.org/t/rfc-new-preprocessor-macro-directive-repeat/69253#post_3)
-- [Upstreaming an new LLVM backend for Renesas RL78](https://discourse.llvm.org/t/upstreaming-an-new-llvm-backend-for-renesas-rl78/69235#post_4)
-- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_9)
 <!-- DISCOURSE-LLVM:END -->
