@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issues compiling 15.0.7](https://discourse.llvm.org/t/issues-compiling-15-0-7/69255#post_2)
-- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_26)
-- [[RFC] Could we mark coroutines as unreleased now?](https://discourse.llvm.org/t/rfc-could-we-mark-coroutines-as-unreleased-now/69220#post_6)
-- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_11)
-- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_10)
+- [appendMacroDirective vs appendDefMacroDirective](https://discourse.llvm.org/t/appendmacrodirective-vs-appenddefmacrodirective/69264#post_1)
+- [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_4)
+- [[RFC] Data layout in Transform dialect and CuTe library](https://discourse.llvm.org/t/rfc-data-layout-in-transform-dialect-and-cute-library/69263#post_1)
+- [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_1)
+- [Who is using Static Analyzer? Where are our users?](https://discourse.llvm.org/t/who-is-using-static-analyzer-where-are-our-users/67985#post_10)
 <!-- DISCOURSE-LLVM:END -->
