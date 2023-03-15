@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang-repl] Implement autocompletion in clang-repl](https://discourse.llvm.org/t/clang-repl-implement-autocompletion-in-clang-repl/60364#post_13)
-- [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_2)
-- [JITLink new backends](https://discourse.llvm.org/t/jitlink-new-backends/68223#post_11)
-- [appendMacroDirective vs appendDefMacroDirective](https://discourse.llvm.org/t/appendmacrodirective-vs-appenddefmacrodirective/69264#post_4)
-- [appendMacroDirective vs appendDefMacroDirective](https://discourse.llvm.org/t/appendmacrodirective-vs-appenddefmacrodirective/69264#post_3)
+- [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_3)
+- [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_5)
+- [JITLink new backends](https://discourse.llvm.org/t/jitlink-new-backends/68223#post_13)
+- [JITLink new backends](https://discourse.llvm.org/t/jitlink-new-backends/68223#post_12)
+- [Re-optimization using JITLink](https://discourse.llvm.org/t/re-optimization-using-jitlink/68260#post_10)
 <!-- DISCOURSE-LLVM:END -->
