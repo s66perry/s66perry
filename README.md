@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_21)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_26)
-- [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_10)
-- [Clang-format, formatting inconsistent for &lpar;seemingly&rpar; incorrect user defined literals](https://discourse.llvm.org/t/clang-format-formatting-inconsistent-for-seemingly-incorrect-user-defined-literals/63962#post_3)
-- [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_9)
+- [LLVM 16.0.0-rc4 has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-rc4-has-been-tagged/69150#post_12)
+- [[clang-repl] Tutorial development with clang-repl](https://discourse.llvm.org/t/clang-repl-tutorial-development-with-clang-repl/60365#post_6)
+- [[Clang] ExtractAPI C++ Support](https://discourse.llvm.org/t/clang-extractapi-c-support/68371#post_3)
+- [[RFC] New Preprocessor macro directive: #Repeat](https://discourse.llvm.org/t/rfc-new-preprocessor-macro-directive-repeat/69253#post_4)
+- [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_8)
 <!-- DISCOURSE-LLVM:END -->
