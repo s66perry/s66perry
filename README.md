@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why does TOSA use signless integer types?](https://discourse.llvm.org/t/why-does-tosa-use-signless-integer-types/67505#post_9)
+- [Question about mem2reg&#39;s handling of global variables](https://discourse.llvm.org/t/question-about-mem2regs-handling-of-global-variables/69279#post_2)
+- [[RFC] Split Pipeline Dialect and Add Representation for Sequential Loop Scheduling](https://discourse.llvm.org/t/rfc-split-pipeline-dialect-and-add-representation-for-sequential-loop-scheduling/69294#post_1)
+- [Breaking on C++ exception seems to discard much of the stacktrace](https://discourse.llvm.org/t/breaking-on-c-exception-seems-to-discard-much-of-the-stacktrace/69286#post_7)
 - [Breaking on C++ exception seems to discard much of the stacktrace](https://discourse.llvm.org/t/breaking-on-c-exception-seems-to-discard-much-of-the-stacktrace/69286#post_6)
-- [Clang-query match stmt with parent of cxxCtorInitializer](https://discourse.llvm.org/t/clang-query-match-stmt-with-parent-of-cxxctorinitializer/69293#post_1)
-- [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_5)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=5#post_84)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=5#post_83)
 <!-- DISCOURSE-LLVM:END -->
