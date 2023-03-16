@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about mem2reg&#39;s handling of global variables](https://discourse.llvm.org/t/question-about-mem2regs-handling-of-global-variables/69279#post_1)
+- [[Clang] ExtractAPI C++ Support](https://discourse.llvm.org/t/clang-extractapi-c-support/68371#post_2)
+- [Include Directories in a Simple Out of Tree Monolithic Build](https://discourse.llvm.org/t/include-directories-in-a-simple-out-of-tree-monolithic-build/68956#post_8)
 - [Include Directories in a Simple Out of Tree Monolithic Build](https://discourse.llvm.org/t/include-directories-in-a-simple-out-of-tree-monolithic-build/68956#post_7)
 - [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130?page=3#post_56)
-- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130?page=3#post_55)
-- [Include Directories in a Simple Out of Tree Monolithic Build](https://discourse.llvm.org/t/include-directories-in-a-simple-out-of-tree-monolithic-build/68956#post_6)
-- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494#post_20)
 <!-- DISCOURSE-LLVM:END -->
