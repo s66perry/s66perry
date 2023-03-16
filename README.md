@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_21)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_26)
 - [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_10)
 - [Clang-format, formatting inconsistent for &lpar;seemingly&rpar; incorrect user defined literals](https://discourse.llvm.org/t/clang-format-formatting-inconsistent-for-seemingly-incorrect-user-defined-literals/63962#post_3)
 - [Dump IR after each pass into separate file](https://discourse.llvm.org/t/dump-ir-after-each-pass-into-separate-file/69236#post_9)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_10)
-- [Question about mem2reg&#39;s handling of global variables](https://discourse.llvm.org/t/question-about-mem2regs-handling-of-global-variables/69279#post_1)
 <!-- DISCOURSE-LLVM:END -->
