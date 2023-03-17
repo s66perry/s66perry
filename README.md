@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_40)
-- [Preprocessor in Flang](https://discourse.llvm.org/t/preprocessor-in-flang/69311#post_5)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_10)
-- [Linalg.conv_2d_nchw_fchw&#39; op inferred input/output operand #0 has shape&#39;s dimension #3 to be greater than or equal](https://discourse.llvm.org/t/linalg-conv-2d-nchw-fchw-op-inferred-input-output-operand-0-has-shapes-dimension-3-to-be-greater-than-or-equal/69303#post_3)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_9)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_30)
+- [How can i create memory alloc by memref.alloc for dynamic dimensions using c++](https://discourse.llvm.org/t/how-can-i-create-memory-alloc-by-memref-alloc-for-dynamic-dimensions-using-c/69318#post_1)
+- [Preprocessor in Flang](https://discourse.llvm.org/t/preprocessor-in-flang/69311#post_7)
+- [Can different versions of libc++ coexist in a program at runtime?](https://discourse.llvm.org/t/can-different-versions-of-libc-coexist-in-a-program-at-runtime/69302#post_4)
+- [Polly&#39;s auto paralyser flag](https://discourse.llvm.org/t/pollys-auto-paralyser-flag/69307#post_2)
 <!-- DISCOURSE-LLVM:END -->
