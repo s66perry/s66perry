@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_14)
-- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130?page=3#post_57)
-- [Override the type converter configuration &lpar;a pass option by conversion passes&rpar;](https://discourse.llvm.org/t/override-the-type-converter-configuration-a-pass-option-by-conversion-passes/69304#post_1)
-- [Linalg.conv_2d_nchw_fchw&#39; op inferred input/output operand #0 has shape&#39;s dimension #3 to be greater than or equal](https://discourse.llvm.org/t/linalg-conv-2d-nchw-fchw-op-inferred-input-output-operand-0-has-shapes-dimension-3-to-be-greater-than-or-equal/69303#post_1)
-- [Can different versions of libc++ coexist in a program at runtime?](https://discourse.llvm.org/t/can-different-versions-of-libc-coexist-in-a-program-at-runtime/69302#post_1)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_16)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=2#post_38)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_29)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_15)
+- [Polly&#39;s auto paralyser flag](https://discourse.llvm.org/t/pollys-auto-paralyser-flag/69307#post_1)
 <!-- DISCOURSE-LLVM:END -->
