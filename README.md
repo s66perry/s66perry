@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Community Health &amp; Infrastructure - Strategic Planning &lpar;March 20/21&rpar;](https://discourse.llvm.org/t/community-health-infrastructure-strategic-planning-march-20-21/68796#post_5)
+- [CIRCT ECO in the presence of transformations](https://discourse.llvm.org/t/circt-eco-in-the-presence-of-transformations/69322#post_1)
+- [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_9)
 - [Building runtimes and builtins for RISC-V baremetal target &lpar;riscv64-unknown-elf&rpar;](https://discourse.llvm.org/t/building-runtimes-and-builtins-for-risc-v-baremetal-target-riscv64-unknown-elf/69321#post_2)
 - [Can different versions of libc++ coexist in a program at runtime?](https://discourse.llvm.org/t/can-different-versions-of-libc-coexist-in-a-program-at-runtime/69302#post_7)
-- [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_10)
-- [Can different versions of libc++ coexist in a program at runtime?](https://discourse.llvm.org/t/can-different-versions-of-libc-coexist-in-a-program-at-runtime/69302#post_6)
-- [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
