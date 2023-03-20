@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_6)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_38)
-- [[clang-repl] Tutorial development with clang-repl](https://discourse.llvm.org/t/clang-repl-tutorial-development-with-clang-repl/60365#post_7)
-- [Does `noalias` still apply if a pointer is never dereferenced?](https://discourse.llvm.org/t/does-noalias-still-apply-if-a-pointer-is-never-dereferenced/69381#post_2)
-- [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_10)
+- [Automatically generate tablegen](https://discourse.llvm.org/t/automatically-generate-tablegen/69368#post_4)
+- [[Enzyme] Moving Instruction Rules to Tablegen](https://discourse.llvm.org/t/enzyme-moving-instruction-rules-to-tablegen/61176#post_3)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_39)
+- [Linkage of NonTypeTemplateParm and TemplateTemplateParm](https://discourse.llvm.org/t/linkage-of-nontypetemplateparm-and-templatetemplateparm/69388#post_1)
+- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_7)
 <!-- DISCOURSE-LLVM:END -->
