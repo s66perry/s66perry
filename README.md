@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_32)
-- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_5)
-- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_4)
-- [Slow compilation](https://discourse.llvm.org/t/slow-compilation/69374#post_2)
-- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_3)
+- [Slow compilation](https://discourse.llvm.org/t/slow-compilation/69374#post_3)
+- [[RFC] Data layout in Transform dialect and CuTe library](https://discourse.llvm.org/t/rfc-data-layout-in-transform-dialect-and-cute-library/69263#post_2)
+- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_17)
+- [How can we extract Loop Conditions from a program using Clang?](https://discourse.llvm.org/t/how-can-we-extract-loop-conditions-from-a-program-using-clang/69379#post_1)
+- [Automatically generate tablegen](https://discourse.llvm.org/t/automatically-generate-tablegen/69368#post_3)
 <!-- DISCOURSE-LLVM:END -->
