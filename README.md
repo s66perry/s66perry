@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_6)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_38)
+- [[clang-repl] Tutorial development with clang-repl](https://discourse.llvm.org/t/clang-repl-tutorial-development-with-clang-repl/60365#post_7)
+- [Does `noalias` still apply if a pointer is never dereferenced?](https://discourse.llvm.org/t/does-noalias-still-apply-if-a-pointer-is-never-dereferenced/69381#post_2)
 - [Can we keep must progress optimizations around infinite loop in C++ while avoiding some surprising behavior?](https://discourse.llvm.org/t/can-we-keep-must-progress-optimizations-around-infinite-loop-in-c-while-avoiding-some-surprising-behavior/69205#post_10)
-- [Does `noalias` still apply if a pointer is never dereferenced?](https://discourse.llvm.org/t/does-noalias-still-apply-if-a-pointer-is-never-dereferenced/69381#post_1)
-- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_5)
-- [Slow compilation](https://discourse.llvm.org/t/slow-compilation/69374#post_3)
-- [[RFC] Data layout in Transform dialect and CuTe library](https://discourse.llvm.org/t/rfc-data-layout-in-transform-dialect-and-cute-library/69263#post_2)
 <!-- DISCOURSE-LLVM:END -->
