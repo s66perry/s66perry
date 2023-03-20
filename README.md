@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 16.0.0-final has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-final-has-been-tagged/69327#post_6)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_37)
-- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_1)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_18)
-- [Automatically generate tablegen](https://discourse.llvm.org/t/automatically-generate-tablegen/69368#post_1)
+- [CIRCT ECO in the presence of transformations](https://discourse.llvm.org/t/circt-eco-in-the-presence-of-transformations/69322#post_2)
+- [[Coverage] Patch based test coverage for quick test feedback](https://discourse.llvm.org/t/coverage-patch-based-test-coverage-for-quick-test-feedback/68628#post_2)
+- [LLVM Weekly - #481, March 20th 2023](https://discourse.llvm.org/t/llvm-weekly-481-march-20th-2023/69372#post_1)
+- [How to cite when Clang obtained FORTIFY_SOURCE support?](https://discourse.llvm.org/t/how-to-cite-when-clang-obtained-fortify-source-support/61044#post_5)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_19)
 <!-- DISCOURSE-LLVM:END -->
