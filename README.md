@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Slow compilation](https://discourse.llvm.org/t/slow-compilation/69374#post_1)
-- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_3)
-- [How to assign address space when using transform.structured.promote](https://discourse.llvm.org/t/how-to-assign-address-space-when-using-transform-structured-promote/69366#post_3)
-- [Override the type converter configuration &lpar;a pass option by conversion passes&rpar;](https://discourse.llvm.org/t/override-the-type-converter-configuration-a-pass-option-by-conversion-passes/69304#post_2)
-- [How to assign address space when using transform.structured.promote](https://discourse.llvm.org/t/how-to-assign-address-space-when-using-transform-structured-promote/69366#post_2)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_32)
+- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_5)
+- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_4)
+- [Slow compilation](https://discourse.llvm.org/t/slow-compilation/69374#post_2)
+- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_3)
 <!-- DISCOURSE-LLVM:END -->
