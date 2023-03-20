@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_35)
+- [How to go about My contribution to LLVM](https://discourse.llvm.org/t/how-to-go-about-my-contribution-to-llvm/69401#post_2)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_44)
 - [Retrieve address of the elements of a shared pointer?](https://discourse.llvm.org/t/retrieve-address-of-the-elements-of-a-shared-pointer/69403#post_3)
 - [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_34)
-- [IPO for linkonce_odr functions](https://discourse.llvm.org/t/ipo-for-linkonce-odr-functions/69404#post_1)
-- [Retrieve address of the elements of a shared pointer?](https://discourse.llvm.org/t/retrieve-address-of-the-elements-of-a-shared-pointer/69403#post_2)
-- [CIRCT ECO in the presence of transformations](https://discourse.llvm.org/t/circt-eco-in-the-presence-of-transformations/69322#post_4)
 <!-- DISCOURSE-LLVM:END -->
