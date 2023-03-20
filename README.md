@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to assign address space when using transform.structured.promote](https://discourse.llvm.org/t/how-to-assign-address-space-when-using-transform-structured-promote/69366#post_1)
-- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_2)
-- [TargetLowering::CallLoweringInfo.IsTailCall](https://discourse.llvm.org/t/targetlowering-callloweringinfo-istailcall/69364#post_1)
-- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=2#post_31)
-- [Avoidable overhead from threading by default](https://discourse.llvm.org/t/avoidable-overhead-from-threading-by-default/69160#post_3)
+- [LLVM 16.0.0-final has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-final-has-been-tagged/69327#post_6)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=2#post_37)
+- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_1)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_18)
+- [Automatically generate tablegen](https://discourse.llvm.org/t/automatically-generate-tablegen/69368#post_1)
 <!-- DISCOURSE-LLVM:END -->
