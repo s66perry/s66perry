@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [CIRCT ECO in the presence of transformations](https://discourse.llvm.org/t/circt-eco-in-the-presence-of-transformations/69322#post_2)
-- [[Coverage] Patch based test coverage for quick test feedback](https://discourse.llvm.org/t/coverage-patch-based-test-coverage-for-quick-test-feedback/68628#post_2)
-- [LLVM Weekly - #481, March 20th 2023](https://discourse.llvm.org/t/llvm-weekly-481-march-20th-2023/69372#post_1)
-- [How to cite when Clang obtained FORTIFY_SOURCE support?](https://discourse.llvm.org/t/how-to-cite-when-clang-obtained-fortify-source-support/61044#post_5)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699#post_19)
+- [Slow compilation](https://discourse.llvm.org/t/slow-compilation/69374#post_1)
+- [Using Transform Dialect Op in self-def lowering pass](https://discourse.llvm.org/t/using-transform-dialect-op-in-self-def-lowering-pass/69369#post_3)
+- [How to assign address space when using transform.structured.promote](https://discourse.llvm.org/t/how-to-assign-address-space-when-using-transform-structured-promote/69366#post_3)
+- [Override the type converter configuration &lpar;a pass option by conversion passes&rpar;](https://discourse.llvm.org/t/override-the-type-converter-configuration-a-pass-option-by-conversion-passes/69304#post_2)
+- [How to assign address space when using transform.structured.promote](https://discourse.llvm.org/t/how-to-assign-address-space-when-using-transform-structured-promote/69366#post_2)
 <!-- DISCOURSE-LLVM:END -->
