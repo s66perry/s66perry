@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Could we mark coroutines as unreleased now?](https://discourse.llvm.org/t/rfc-could-we-mark-coroutines-as-unreleased-now/69220#post_8)
-- [How can we customize sequence of passes &lpar;disable&rpar; in different optimization level?](https://discourse.llvm.org/t/how-can-we-customize-sequence-of-passes-disable-in-different-optimization-level/69432#post_1)
-- [How to assign address space when using transform.structured.promote](https://discourse.llvm.org/t/how-to-assign-address-space-when-using-transform-structured-promote/69366#post_4)
-- [Variadic operands using the C API](https://discourse.llvm.org/t/variadic-operands-using-the-c-api/69430#post_2)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_47)
+- [Not understanding why I am getting &quot;failed to legalize operation &#39;builtin.unrealized_conversion_cast&#39; that was explicitly marked illegal&quot;](https://discourse.llvm.org/t/not-understanding-why-i-am-getting-failed-to-legalize-operation-builtin-unrealized-conversion-cast-that-was-explicitly-marked-illegal/69434#post_1)
+- [IPO for linkonce_odr functions](https://discourse.llvm.org/t/ipo-for-linkonce-odr-functions/69404#post_16)
+- [Inliner cost model](https://discourse.llvm.org/t/inliner-cost-model/2992#post_8)
+- [IPO for linkonce_odr functions](https://discourse.llvm.org/t/ipo-for-linkonce-odr-functions/69404#post_15)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
