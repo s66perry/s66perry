@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM bolt support for 32 bit systems](https://discourse.llvm.org/t/llvm-bolt-support-for-32-bit-systems/69410#post_1)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=3#post_44)
+- [Automatically generate tablegen](https://discourse.llvm.org/t/automatically-generate-tablegen/69368#post_5)
 - [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_2)
 - [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_1)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699?page=2#post_21)
-- [IPO for linkonce_odr functions](https://discourse.llvm.org/t/ipo-for-linkonce-odr-functions/69404#post_13)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
