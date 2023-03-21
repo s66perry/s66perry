@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_46)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_11)
-- [Clangd can&#39;t parse source correctly when just `--` option is included in `command` field of compile_commands.json](https://discourse.llvm.org/t/clangd-cant-parse-source-correctly-when-just-option-is-included-in-command-field-of-compile-commands-json/69427#post_1)
-- [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_3)
-- [Trouble with building Kaleidoscope LLVM 15.0.0 on Windows 10](https://discourse.llvm.org/t/trouble-with-building-kaleidoscope-llvm-15-0-0-on-windows-10/69394#post_2)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_13)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699?page=2#post_23)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_42)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_12)
+- [Variadic operands using the C API](https://discourse.llvm.org/t/variadic-operands-using-the-c-api/69430#post_1)
 <!-- DISCOURSE-LLVM:END -->
