@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Optimized Convolution for MLIR](https://discourse.llvm.org/t/rfc-optimized-convolution-for-mlir/69454#post_1)
-- [LLVM Lab is down due power outage](https://discourse.llvm.org/t/llvm-lab-is-down-due-power-outage/69450#post_2)
-- [LLVM 16.0.0-final has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-final-has-been-tagged/69327#post_9)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_57)
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_56)
+- [Representing aliasd memref in MLIR](https://discourse.llvm.org/t/representing-aliasd-memref-in-mlir/4122#post_5)
+- [Clangd can&#39;t parse source correctly when just `--` option is included in `command` field of compile_commands.json](https://discourse.llvm.org/t/clangd-cant-parse-source-correctly-when-just-option-is-included-in-command-field-of-compile-commands-json/69427#post_2)
+- [Representing aliasd memref in MLIR](https://discourse.llvm.org/t/representing-aliasd-memref-in-mlir/4122#post_4)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740?page=2#post_34)
+- [Representing aliasd memref in MLIR](https://discourse.llvm.org/t/representing-aliasd-memref-in-mlir/4122#post_3)
 <!-- DISCOURSE-LLVM:END -->
