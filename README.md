@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clangd can&#39;t parse source correctly when just `--` option is included in `command` field of compile_commands.json](https://discourse.llvm.org/t/clangd-cant-parse-source-correctly-when-just-option-is-included-in-command-field-of-compile-commands-json/69427#post_3)
-- [Exposing transform mutation tracking and &quot;rollback&quot; capabilities](https://discourse.llvm.org/t/exposing-transform-mutation-tracking-and-rollback-capabilities/69460#post_2)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_25)
-- [[RFC] Running libc unit tests as integration tests](https://discourse.llvm.org/t/rfc-running-libc-unit-tests-as-integration-tests/69461#post_1)
-- [CIRCT ECO in the presence of transformations](https://discourse.llvm.org/t/circt-eco-in-the-presence-of-transformations/69322#post_9)
+- [[PITCH] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/pitch-rename-flang-new-to-flang/68665?page=2#post_24)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_1)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_46)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740?page=2#post_37)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
