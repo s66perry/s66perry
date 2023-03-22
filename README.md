@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unreasonable branches](https://discourse.llvm.org/t/unreasonable-branches/69447#post_4)
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_10)
+- [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_5)
 - [Unreasonable branches](https://discourse.llvm.org/t/unreasonable-branches/69447#post_3)
 - [Unreasonable branches](https://discourse.llvm.org/t/unreasonable-branches/69447#post_2)
-- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_10)
-- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_9)
-- [Unreasonable branches](https://discourse.llvm.org/t/unreasonable-branches/69447#post_1)
 <!-- DISCOURSE-LLVM:END -->
