@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lldb-server significant slowdown with 3000 threads](https://discourse.llvm.org/t/lldb-server-significant-slowdown-with-3000-threads/69413#post_3)
+- [Detecting GEPs embedded inside other instructions](https://discourse.llvm.org/t/detecting-geps-embedded-inside-other-instructions/69442#post_1)
 - [Polly&#39;s auto paralyser flag](https://discourse.llvm.org/t/pollys-auto-paralyser-flag/69307#post_5)
 - [[MLIR] Optimizing MLIR’s Presburger library](https://discourse.llvm.org/t/mlir-optimizing-mlir-s-presburger-library/68213#post_8)
 - [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_49)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_57)
-- [CIRCT ECO in the presence of transformations](https://discourse.llvm.org/t/circt-eco-in-the-presence-of-transformations/69322#post_8)
 <!-- DISCOURSE-LLVM:END -->
