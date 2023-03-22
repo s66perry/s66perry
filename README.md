@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_53)
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740?page=2#post_32)
-- [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_8)
-- [How to install LLVM utilities + possible OpenMP bug?](https://discourse.llvm.org/t/how-to-install-llvm-utilities-possible-openmp-bug/69449#post_3)
-- [How to install LLVM utilities + possible OpenMP bug?](https://discourse.llvm.org/t/how-to-install-llvm-utilities-possible-openmp-bug/69449#post_2)
+- [[RFC] Optimized Convolution for MLIR](https://discourse.llvm.org/t/rfc-optimized-convolution-for-mlir/69454#post_1)
+- [LLVM Lab is down due power outage](https://discourse.llvm.org/t/llvm-lab-is-down-due-power-outage/69450#post_2)
+- [LLVM 16.0.0-final has been tagged](https://discourse.llvm.org/t/llvm-16-0-0-final-has-been-tagged/69327#post_9)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_57)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
