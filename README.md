@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR] Optimizing MLIR’s Presburger library](https://discourse.llvm.org/t/mlir-optimizing-mlir-s-presburger-library/68213#post_8)
+- [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=3#post_49)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_57)
+- [CIRCT ECO in the presence of transformations](https://discourse.llvm.org/t/circt-eco-in-the-presence-of-transformations/69322#post_8)
 - [Why does TOSA use signless integer types?](https://discourse.llvm.org/t/why-does-tosa-use-signless-integer-types/67505#post_14)
-- [Variadic operands using the C API](https://discourse.llvm.org/t/variadic-operands-using-the-c-api/69430#post_3)
-- [Slow compilation](https://discourse.llvm.org/t/slow-compilation/69374#post_4)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_43)
-- [JITLink new backends](https://discourse.llvm.org/t/jitlink-new-backends/68223#post_15)
 <!-- DISCOURSE-LLVM:END -->
