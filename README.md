@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unreasonable branches](https://discourse.llvm.org/t/unreasonable-branches/69447#post_4)
-- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_10)
-- [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_5)
-- [Unreasonable branches](https://discourse.llvm.org/t/unreasonable-branches/69447#post_3)
-- [Unreasonable branches](https://discourse.llvm.org/t/unreasonable-branches/69447#post_2)
+- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740?page=2#post_31)
+- [Polly&#39;s auto paralyser flag](https://discourse.llvm.org/t/pollys-auto-paralyser-flag/69307#post_6)
+- [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_7)
+- [[PSA] Migrating `mlir-opt`-like tools to use `MlirOptMainConfig`](https://discourse.llvm.org/t/psa-migrating-mlir-opt-like-tools-to-use-mliroptmainconfig/68991#post_2)
+- [[PSA] `preloadDialectInContext` has been deprecated for &gt;1y and will be removed](https://discourse.llvm.org/t/psa-preloaddialectincontext-has-been-deprecated-for-1y-and-will-be-removed/68992#post_2)
 <!-- DISCOURSE-LLVM:END -->
