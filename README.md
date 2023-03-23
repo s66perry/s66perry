@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Not understanding why I am getting &quot;failed to legalize operation &#39;builtin.unrealized_conversion_cast&#39; that was explicitly marked illegal&quot;](https://discourse.llvm.org/t/not-understanding-why-i-am-getting-failed-to-legalize-operation-builtin-unrealized-conversion-cast-that-was-explicitly-marked-illegal/69434#post_5)
-- [2023 EuroLLVM - Student Travel Grant Applications now accepted](https://discourse.llvm.org/t/2023-eurollvm-student-travel-grant-applications-now-accepted/68310#post_6)
-- [Is there any options in clang/hipcc that allow to filter only IR from device kernels when using the `-emit-llvm -S` option?](https://discourse.llvm.org/t/is-there-any-options-in-clang-hipcc-that-allow-to-filter-only-ir-from-device-kernels-when-using-the-emit-llvm-s-option/69470#post_3)
-- [Is there any options in clang/hipcc that allow to filter only IR from device kernels when using the `-emit-llvm -S` option?](https://discourse.llvm.org/t/is-there-any-options-in-clang-hipcc-that-allow-to-filter-only-ir-from-device-kernels-when-using-the-emit-llvm-s-option/69470#post_2)
-- [Regarding using the MTE option for LLDB Testing](https://discourse.llvm.org/t/regarding-using-the-mte-option-for-lldb-testing/69463#post_4)
+- [Code size optimization flags in Flang](https://discourse.llvm.org/t/code-size-optimization-flags-in-flang/69482#post_1)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_48)
+- [Reviving rename flang-new to flang](https://discourse.llvm.org/t/reviving-rename-flang-new-to-flang/68130?page=3#post_58)
+- [LLDB hang at ::read&lpar;&rpar; function](https://discourse.llvm.org/t/lldb-hang-at-read-function/69472#post_3)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_7)
 <!-- DISCOURSE-LLVM:END -->
