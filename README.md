@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_4)
-- [Exposing transform mutation tracking and &quot;rollback&quot; capabilities](https://discourse.llvm.org/t/exposing-transform-mutation-tracking-and-rollback-capabilities/69460#post_3)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_49)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_15)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_14)
+- [LLVM bolt support for 32 bit systems](https://discourse.llvm.org/t/llvm-bolt-support-for-32-bit-systems/69410#post_2)
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_6)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_50)
+- [BOLT: Optimizing relocatable files](https://discourse.llvm.org/t/bolt-optimizing-relocatable-files/69424#post_5)
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_5)
 <!-- DISCOURSE-LLVM:END -->
