@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [When I use c++ to create memref::SubViewOp, I get garbled code](https://discourse.llvm.org/t/when-i-use-c-to-create-memref-subviewop-i-get-garbled-code/69471#post_3)
 - [LLDB hang at ::read&lpar;&rpar; function](https://discourse.llvm.org/t/lldb-hang-at-read-function/69472#post_2)
 - [When I use c++ to create memref::SubViewOp, I get garbled code](https://discourse.llvm.org/t/when-i-use-c-to-create-memref-subviewop-i-get-garbled-code/69471#post_2)
 - [The Value can&#39;t be converted to a specific Op?](https://discourse.llvm.org/t/the-value-cant-be-converted-to-a-specific-op/69468#post_2)
 - [LLDB hang at ::read&lpar;&rpar; function](https://discourse.llvm.org/t/lldb-hang-at-read-function/69472#post_1)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_6)
 <!-- DISCOURSE-LLVM:END -->
