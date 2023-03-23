@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve code-review process for clang-tidy](https://discourse.llvm.org/t/rfc-improve-code-review-process-for-clang-tidy/66740?page=2#post_40)
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920#post_17)
-- [[RFC] Running libc unit tests as integration tests](https://discourse.llvm.org/t/rfc-running-libc-unit-tests-as-integration-tests/69461#post_4)
-- [LLVM Lab is down due power outage](https://discourse.llvm.org/t/llvm-lab-is-down-due-power-outage/69450#post_7)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_47)
+- [Not understanding why I am getting &quot;failed to legalize operation &#39;builtin.unrealized_conversion_cast&#39; that was explicitly marked illegal&quot;](https://discourse.llvm.org/t/not-understanding-why-i-am-getting-failed-to-legalize-operation-builtin-unrealized-conversion-cast-that-was-explicitly-marked-illegal/69434#post_5)
+- [2023 EuroLLVM - Student Travel Grant Applications now accepted](https://discourse.llvm.org/t/2023-eurollvm-student-travel-grant-applications-now-accepted/68310#post_6)
+- [Is there any options in clang/hipcc that allow to filter only IR from device kernels when using the `-emit-llvm -S` option?](https://discourse.llvm.org/t/is-there-any-options-in-clang-hipcc-that-allow-to-filter-only-ir-from-device-kernels-when-using-the-emit-llvm-s-option/69470#post_3)
+- [Is there any options in clang/hipcc that allow to filter only IR from device kernels when using the `-emit-llvm -S` option?](https://discourse.llvm.org/t/is-there-any-options-in-clang-hipcc-that-allow-to-filter-only-ir-from-device-kernels-when-using-the-emit-llvm-s-option/69470#post_2)
+- [Regarding using the MTE option for LLDB Testing](https://discourse.llvm.org/t/regarding-using-the-mte-option-for-lldb-testing/69463#post_4)
 <!-- DISCOURSE-LLVM:END -->
