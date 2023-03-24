@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Some questions about memref.subview](https://discourse.llvm.org/t/some-questions-about-memref-subview/69497#post_2)
-- [[RFC] Optimized Convolution for MLIR](https://discourse.llvm.org/t/rfc-optimized-convolution-for-mlir/69454#post_2)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699?page=2#post_25)
-- [Improvements to `llvm` dialect exception-related operations](https://discourse.llvm.org/t/improvements-to-llvm-dialect-exception-related-operations/69503#post_2)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_54)
+- [CMake panics because is &quot;unable to detect platform&quot;. How can I tell it that I&#39;m on Un*x?](https://discourse.llvm.org/t/cmake-panics-because-is-unable-to-detect-platform-how-can-i-tell-it-that-im-on-un-x/69506#post_2)
+- [Some questions about memref.subview](https://discourse.llvm.org/t/some-questions-about-memref-subview/69497#post_5)
+- [How to extract loop condition from an abstract syntax tree in Clang?](https://discourse.llvm.org/t/how-to-extract-loop-condition-from-an-abstract-syntax-tree-in-clang/69507#post_1)
+- [CMake panics because is &quot;unable to detect platform&quot;. How can I tell it that I&#39;m on Un*x?](https://discourse.llvm.org/t/cmake-panics-because-is-unable-to-detect-platform-how-can-i-tell-it-that-im-on-un-x/69506#post_1)
+- [Some questions about memref.subview](https://discourse.llvm.org/t/some-questions-about-memref-subview/69497#post_4)
 <!-- DISCOURSE-LLVM:END -->
