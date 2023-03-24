@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Fusing polly passes into LLVM](https://discourse.llvm.org/t/fusing-polly-passes-into-llvm/69495#post_1)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_51)
+- [[RFC] Running libc unit tests as integration tests](https://discourse.llvm.org/t/rfc-running-libc-unit-tests-as-integration-tests/69461#post_8)
 - [LLDB hang at ::read&lpar;&rpar; function](https://discourse.llvm.org/t/lldb-hang-at-read-function/69472#post_4)
 - [LLVM bolt support for 32 bit systems](https://discourse.llvm.org/t/llvm-bolt-support-for-32-bit-systems/69410#post_3)
-- [[MLIR] Optimizing MLIR’s Presburger library](https://discourse.llvm.org/t/mlir-optimizing-mlir-s-presburger-library/68213#post_9)
-- [How can I set memref strided and offset?](https://discourse.llvm.org/t/how-can-i-set-memref-strided-and-offset/69492#post_1)
-- [How to identify malloc for specific structures](https://discourse.llvm.org/t/how-to-identify-malloc-for-specific-structures/69490#post_1)
 <!-- DISCOURSE-LLVM:END -->
