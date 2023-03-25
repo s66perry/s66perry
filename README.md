@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_16)
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_59)
+- [The 2023 EuroLLVM Program](https://discourse.llvm.org/t/the-2023-eurollvm-program/69514#post_1)
 - [Lower/upper_bound functions](https://discourse.llvm.org/t/lower-upper-bound-functions/69446#post_3)
 - [Is there a way to avoid creating instructions that are going to be CSE-ed anyway](https://discourse.llvm.org/t/is-there-a-way-to-avoid-creating-instructions-that-are-going-to-be-cse-ed-anyway/69508#post_4)
-- [How to print a shared pointer value at runtime](https://discourse.llvm.org/t/how-to-print-a-shared-pointer-value-at-runtime/69266#post_6)
-- [How to identify malloc for specific structures](https://discourse.llvm.org/t/how-to-identify-malloc-for-specific-structures/69490#post_2)
-- [CMake panics because is &quot;unable to detect platform&quot;. How can I tell it that I&#39;m on Un*x?](https://discourse.llvm.org/t/cmake-panics-because-is-unable-to-detect-platform-how-can-i-tell-it-that-im-on-un-x/69506#post_7)
 <!-- DISCOURSE-LLVM:END -->
