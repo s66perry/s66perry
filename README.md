@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to extract loop condition from an abstract syntax tree in Clang?](https://discourse.llvm.org/t/how-to-extract-loop-condition-from-an-abstract-syntax-tree-in-clang/69507#post_7)
+- [How to extract loop condition from an abstract syntax tree in Clang?](https://discourse.llvm.org/t/how-to-extract-loop-condition-from-an-abstract-syntax-tree-in-clang/69507#post_6)
+- [How to extract loop condition from an abstract syntax tree in Clang?](https://discourse.llvm.org/t/how-to-extract-loop-condition-from-an-abstract-syntax-tree-in-clang/69507#post_5)
 - [LLDB hang at ::read&lpar;&rpar; function](https://discourse.llvm.org/t/lldb-hang-at-read-function/69472#post_6)
 - [Is there a way to avoid creating instructions that are going to be CSE-ed anyway](https://discourse.llvm.org/t/is-there-a-way-to-avoid-creating-instructions-that-are-going-to-be-cse-ed-anyway/69508#post_5)
-- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_16)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_59)
-- [The 2023 EuroLLVM Program](https://discourse.llvm.org/t/the-2023-eurollvm-program/69514#post_1)
 <!-- DISCOURSE-LLVM:END -->
