@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-format, formatting inconsistent for &lpar;seemingly&rpar; incorrect user defined literals](https://discourse.llvm.org/t/clang-format-formatting-inconsistent-for-seemingly-incorrect-user-defined-literals/63962#post_4)
 - [Libc++ tests destroy HDD and RAM](https://discourse.llvm.org/t/libc-tests-destroy-hdd-and-ram/67114#post_4)
 - [Finding PC address of a given machine instruction](https://discourse.llvm.org/t/finding-pc-address-of-a-given-machine-instruction/69529#post_3)
 - [Finding PC address of a given machine instruction](https://discourse.llvm.org/t/finding-pc-address-of-a-given-machine-instruction/69529#post_2)
 - [How to specify the default runtime library for clang links?](https://discourse.llvm.org/t/how-to-specify-the-default-runtime-library-for-clang-links/69519#post_4)
-- [Libc++ tests destroy HDD and RAM](https://discourse.llvm.org/t/libc-tests-destroy-hdd-and-ram/67114#post_3)
 <!-- DISCOURSE-LLVM:END -->
