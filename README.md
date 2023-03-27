@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_10)
+- [Lldb-server significant slowdown with 3000 threads](https://discourse.llvm.org/t/lldb-server-significant-slowdown-with-3000-threads/69413#post_4)
+- [Where does the type legalization of MachineNodes take place?](https://discourse.llvm.org/t/where-does-the-type-legalization-of-machinenodes-take-place/69541#post_2)
 - [Override the type converter configuration &lpar;a pass option by conversion passes&rpar;](https://discourse.llvm.org/t/override-the-type-converter-configuration-a-pass-option-by-conversion-passes/69304#post_3)
 - [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_55)
-- [[RFC] Let MVT generated and restore MVT into llvm/CodeGen](https://discourse.llvm.org/t/rfc-let-mvt-generated-and-restore-mvt-into-llvm-codegen/69547#post_1)
-- [How to extract loop condition from an abstract syntax tree in Clang?](https://discourse.llvm.org/t/how-to-extract-loop-condition-from-an-abstract-syntax-tree-in-clang/69507#post_12)
-- [Why doesn&#39;t clang++ have a -static-libc++ option?](https://discourse.llvm.org/t/why-doesnt-clang-have-a-static-libc-option/69536#post_3)
 <!-- DISCOURSE-LLVM:END -->
