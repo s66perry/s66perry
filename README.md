@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Deprecate DivergenceAnalysis &amp; LegacyDivergenceAnalysis](https://discourse.llvm.org/t/rfc-deprecate-divergenceanalysis-legacydivergenceanalysis/69538#post_1)
+- [[RFC/PSA] Changing the shadow call stack register on RISC-V](https://discourse.llvm.org/t/rfc-psa-changing-the-shadow-call-stack-register-on-risc-v/69537#post_1)
 - [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_20)
 - [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_19)
 - [[clang] Out-of-process execution for clang-repl](https://discourse.llvm.org/t/clang-out-of-process-execution-for-clang-repl/68225#post_15)
-- [Why doesn&#39;t clang++ have a -static-libc++ option?](https://discourse.llvm.org/t/why-doesnt-clang-have-a-static-libc-option/69536#post_2)
-- [Why doesn&#39;t clang++ have a -static-libc++ option?](https://discourse.llvm.org/t/why-doesnt-clang-have-a-static-libc-option/69536#post_1)
 <!-- DISCOURSE-LLVM:END -->
