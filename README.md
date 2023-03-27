@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Social Darmstadt &lpar;Germany&rpar;, March 29th](https://discourse.llvm.org/t/llvm-social-darmstadt-germany-march-29th/68996#post_3)
+- [Is there a way to avoid creating instructions that are going to be CSE-ed anyway](https://discourse.llvm.org/t/is-there-a-way-to-avoid-creating-instructions-that-are-going-to-be-cse-ed-anyway/69508#post_7)
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_11)
 - [[RFC] Deprecate DivergenceAnalysis &amp; LegacyDivergenceAnalysis](https://discourse.llvm.org/t/rfc-deprecate-divergenceanalysis-legacydivergenceanalysis/69538#post_3)
 - [2023 EuroLLVM - Student Travel Grant Applications now accepted](https://discourse.llvm.org/t/2023-eurollvm-student-travel-grant-applications-now-accepted/68310#post_9)
-- [2023 EuroLLVM - Student Travel Grant Applications now accepted](https://discourse.llvm.org/t/2023-eurollvm-student-travel-grant-applications-now-accepted/68310#post_8)
-- [How to resolve the issue with the &#39;R_RISCV_ALIGN&#39; relocation in clang14.0.6?](https://discourse.llvm.org/t/how-to-resolve-the-issue-with-the-r-riscv-align-relocation-in-clang14-0-6/69544#post_2)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Mar 27 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-mar-27-23-6pm/69117#post_2)
 <!-- DISCOURSE-LLVM:END -->
