@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Social Darmstadt &lpar;Germany&rpar;, March 29th](https://discourse.llvm.org/t/llvm-social-darmstadt-germany-march-29th/68996#post_3)
-- [Is there a way to avoid creating instructions that are going to be CSE-ed anyway](https://discourse.llvm.org/t/is-there-a-way-to-avoid-creating-instructions-that-are-going-to-be-cse-ed-anyway/69508#post_7)
-- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_11)
-- [[RFC] Deprecate DivergenceAnalysis &amp; LegacyDivergenceAnalysis](https://discourse.llvm.org/t/rfc-deprecate-divergenceanalysis-legacydivergenceanalysis/69538#post_3)
-- [2023 EuroLLVM - Student Travel Grant Applications now accepted](https://discourse.llvm.org/t/2023-eurollvm-student-travel-grant-applications-now-accepted/68310#post_9)
+- [A pitch for future RFC that proposes Integrated Distributed ThinLTO concept](https://discourse.llvm.org/t/a-pitch-for-future-rfc-that-proposes-integrated-distributed-thinlto-concept/69553#post_1)
+- [LLVM Weekly - #482, March 27th 2023](https://discourse.llvm.org/t/llvm-weekly-482-march-27th-2023/69552#post_1)
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_14)
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_13)
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_12)
 <!-- DISCOURSE-LLVM:END -->
