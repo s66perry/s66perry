@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Deprecate DivergenceAnalysis &amp; LegacyDivergenceAnalysis](https://discourse.llvm.org/t/rfc-deprecate-divergenceanalysis-legacydivergenceanalysis/69538#post_1)
-- [[RFC/PSA] Changing the shadow call stack register on RISC-V](https://discourse.llvm.org/t/rfc-psa-changing-the-shadow-call-stack-register-on-risc-v/69537#post_1)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_20)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462#post_19)
-- [[clang] Out-of-process execution for clang-repl](https://discourse.llvm.org/t/clang-out-of-process-execution-for-clang-repl/68225#post_15)
+- [How to resolve the issue with the &#39;R_RISCV_ALIGN&#39; relocation in clang14.0.6?](https://discourse.llvm.org/t/how-to-resolve-the-issue-with-the-r-riscv-align-relocation-in-clang14-0-6/69544#post_1)
+- [EuroLLVM 2023 roundtable - targeting CPUs from ML frameworks](https://discourse.llvm.org/t/eurollvm-2023-roundtable-targeting-cpus-from-ml-frameworks/69542#post_1)
+- [How to extract loop condition from an abstract syntax tree in Clang?](https://discourse.llvm.org/t/how-to-extract-loop-condition-from-an-abstract-syntax-tree-in-clang/69507#post_11)
+- [Finding PC address of a given machine instruction](https://discourse.llvm.org/t/finding-pc-address-of-a-given-machine-instruction/69529#post_5)
+- [Where does the type legalization of MachineNodes take place?](https://discourse.llvm.org/t/where-does-the-type-legalization-of-machinenodes-take-place/69541#post_1)
 <!-- DISCOURSE-LLVM:END -->
