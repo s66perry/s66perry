@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ASCON S-box Pattern Matching for RISC-V](https://discourse.llvm.org/t/ascon-s-box-pattern-matching-for-risc-v/69578#post_1)
-- [Parse Error addOperations](https://discourse.llvm.org/t/parse-error-addoperations/69556#post_3)
-- [Status of OpenACC and OpenMP offloading](https://discourse.llvm.org/t/status-of-openacc-and-openmp-offloading/69575#post_3)
-- [CTAD is not working for class that didn’t declare any constructor](https://discourse.llvm.org/t/ctad-is-not-working-for-class-that-didn-t-declare-any-constructor/69570#post_4)
-- [RISC-V Zbb Extension ROR/ROL 32 bit Support](https://discourse.llvm.org/t/risc-v-zbb-extension-ror-rol-32-bit-support/69576#post_1)
+- [Adding a C++20 buildbot](https://discourse.llvm.org/t/adding-a-c-20-buildbot/67156#post_10)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_14)
+- [How to disable each passes of different optimization level with LLVM](https://discourse.llvm.org/t/how-to-disable-each-passes-of-different-optimization-level-with-llvm/69591#post_1)
+- [Adding a C++20 buildbot](https://discourse.llvm.org/t/adding-a-c-20-buildbot/67156#post_9)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
