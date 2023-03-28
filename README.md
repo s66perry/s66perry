@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Check-all when multiple targets are built](https://discourse.llvm.org/t/check-all-when-multiple-targets-are-built/69566#post_2)
+- [[RFC/PSA] Changing the shadow call stack register on RISC-V](https://discourse.llvm.org/t/rfc-psa-changing-the-shadow-call-stack-register-on-risc-v/69537#post_2)
+- [MLIR C/C++ Frontend Working Group [Monday, March 27th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-monday-march-27th/69511#post_3)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_12)
 - [Check-all when multiple targets are built](https://discourse.llvm.org/t/check-all-when-multiple-targets-are-built/69566#post_1)
-- [LLVM&#39;s loop unroller &amp; llvm.loop.parallel_accesses](https://discourse.llvm.org/t/llvms-loop-unroller-llvm-loop-parallel-accesses/55347#post_13)
-- [How to resolve the issue with the &#39;R_RISCV_ALIGN&#39; relocation in clang14.0.6?](https://discourse.llvm.org/t/how-to-resolve-the-issue-with-the-r-riscv-align-relocation-in-clang14-0-6/69544#post_5)
-- [How to resolve the issue with the &#39;R_RISCV_ALIGN&#39; relocation in clang14.0.6?](https://discourse.llvm.org/t/how-to-resolve-the-issue-with-the-r-riscv-align-relocation-in-clang14-0-6/69544#post_4)
 <!-- DISCOURSE-LLVM:END -->
