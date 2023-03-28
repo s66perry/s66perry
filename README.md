@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Check-all when multiple targets are built](https://discourse.llvm.org/t/check-all-when-multiple-targets-are-built/69566#post_4)
-- [Is it possible to recover the original vector element type during lowering?](https://discourse.llvm.org/t/is-it-possible-to-recover-the-original-vector-element-type-during-lowering/69594#post_1)
-- [[LLVM] Addressing Rust optimization failures in LLVM](https://discourse.llvm.org/t/llvm-addressing-rust-optimization-failures-in-llvm/68096#post_18)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Mar 27 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-mar-27-23-6pm/69117#post_3)
-- [Upstreaming an new LLVM backend for Renesas RL78](https://discourse.llvm.org/t/upstreaming-an-new-llvm-backend-for-renesas-rl78/69235#post_5)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_60)
+- [Retrieve address of the elements of a shared pointer?](https://discourse.llvm.org/t/retrieve-address-of-the-elements-of-a-shared-pointer/69403#post_4)
+- [How to print a shared pointer value at runtime](https://discourse.llvm.org/t/how-to-print-a-shared-pointer-value-at-runtime/69266#post_7)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_59)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_58)
 <!-- DISCOURSE-LLVM:END -->
