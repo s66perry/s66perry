@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [IPO for linkonce_odr functions](https://discourse.llvm.org/t/ipo-for-linkonce-odr-functions/69404#post_20)
-- [Using a custom LLVM IR metadata for prototyping purpose. Any caveats I should keep in mind?](https://discourse.llvm.org/t/using-a-custom-llvm-ir-metadata-for-prototyping-purpose-any-caveats-i-should-keep-in-mind/69561#post_1)
-- [[RFC] ValueBoundsOpInterface: Compute bounds of index values/dyn. dim. sizes](https://discourse.llvm.org/t/rfc-valueboundsopinterface-compute-bounds-of-index-values-dyn-dim-sizes/69174#post_8)
-- [[Clang][Flang][Driver] PSA : Moving Debug options to llvm/lib/Frontend](https://discourse.llvm.org/t/clang-flang-driver-psa-moving-debug-options-to-llvm-lib-frontend/69560#post_1)
-- [[clang-repl] Implement autocompletion in clang-repl](https://discourse.llvm.org/t/clang-repl-implement-autocompletion-in-clang-repl/60364#post_14)
+- [How to resolve the issue with the &#39;R_RISCV_ALIGN&#39; relocation in clang14.0.6?](https://discourse.llvm.org/t/how-to-resolve-the-issue-with-the-r-riscv-align-relocation-in-clang14-0-6/69544#post_5)
+- [How to resolve the issue with the &#39;R_RISCV_ALIGN&#39; relocation in clang14.0.6?](https://discourse.llvm.org/t/how-to-resolve-the-issue-with-the-r-riscv-align-relocation-in-clang14-0-6/69544#post_4)
+- [How to resolve the issue with the &#39;R_RISCV_ALIGN&#39; relocation in clang14.0.6?](https://discourse.llvm.org/t/how-to-resolve-the-issue-with-the-r-riscv-align-relocation-in-clang14-0-6/69544#post_3)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_11)
+- [LLVM Foundation Strategic Planning - Invitation to participate](https://discourse.llvm.org/t/llvm-foundation-strategic-planning-invitation-to-participate/68379#post_6)
 <!-- DISCOURSE-LLVM:END -->
