@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Coverage] Support a hierarchical directory structure in generated coverage html reports](https://discourse.llvm.org/t/coverage-support-a-hierarchical-directory-structure-in-generated-coverage-html-reports/68239#post_10)
+- [[Coverage] Support a hierarchical directory structure in generated coverage html reports](https://discourse.llvm.org/t/coverage-support-a-hierarchical-directory-structure-in-generated-coverage-html-reports/68239#post_9)
 - [How do I access definitions/instructions comprising llvm::Intrinsic operations?](https://discourse.llvm.org/t/how-do-i-access-definitions-instructions-comprising-llvm-intrinsic-operations/69559#post_2)
 - [Check-all when multiple targets are built](https://discourse.llvm.org/t/check-all-when-multiple-targets-are-built/69566#post_2)
 - [[RFC/PSA] Changing the shadow call stack register on RISC-V](https://discourse.llvm.org/t/rfc-psa-changing-the-shadow-call-stack-register-on-risc-v/69537#post_2)
-- [MLIR C/C++ Frontend Working Group [Monday, March 27th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-monday-march-27th/69511#post_3)
-- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_12)
 <!-- DISCOURSE-LLVM:END -->
