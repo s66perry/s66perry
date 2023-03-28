@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How do I access definitions/instructions comprising llvm::Intrinsic operations?](https://discourse.llvm.org/t/how-do-i-access-definitions-instructions-comprising-llvm-intrinsic-operations/69559#post_2)
 - [Check-all when multiple targets are built](https://discourse.llvm.org/t/check-all-when-multiple-targets-are-built/69566#post_2)
 - [[RFC/PSA] Changing the shadow call stack register on RISC-V](https://discourse.llvm.org/t/rfc-psa-changing-the-shadow-call-stack-register-on-risc-v/69537#post_2)
 - [MLIR C/C++ Frontend Working Group [Monday, March 27th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-monday-march-27th/69511#post_3)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_12)
-- [Check-all when multiple targets are built](https://discourse.llvm.org/t/check-all-when-multiple-targets-are-built/69566#post_1)
 <!-- DISCOURSE-LLVM:END -->
