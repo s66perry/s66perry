@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Upstreaming an new LLVM backend for Renesas RL78](https://discourse.llvm.org/t/upstreaming-an-new-llvm-backend-for-renesas-rl78/69235#post_5)
+- [How to disable each passes of different optimization level with LLVM](https://discourse.llvm.org/t/how-to-disable-each-passes-of-different-optimization-level-with-llvm/69591#post_2)
+- [Adding a C++20 buildbot](https://discourse.llvm.org/t/adding-a-c-20-buildbot/67156#post_11)
+- [A pitch for future RFC that proposes Integrated Distributed ThinLTO concept](https://discourse.llvm.org/t/a-pitch-for-future-rfc-that-proposes-integrated-distributed-thinlto-concept/69553#post_4)
 - [Adding a C++20 buildbot](https://discourse.llvm.org/t/adding-a-c-20-buildbot/67156#post_10)
-- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_14)
-- [How to disable each passes of different optimization level with LLVM](https://discourse.llvm.org/t/how-to-disable-each-passes-of-different-optimization-level-with-llvm/69591#post_1)
-- [Adding a C++20 buildbot](https://discourse.llvm.org/t/adding-a-c-20-buildbot/67156#post_9)
-- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
