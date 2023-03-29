@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][Debugify] False positives elimination](https://discourse.llvm.org/t/rfc-debugify-false-positives-elimination/69614#post_2)
-- [[Clang] ExtractAPI Objective-C categories](https://discourse.llvm.org/t/clang-extractapi-objective-c-categories/68370#post_5)
-- [[Clang] ExtractAPI Objective-C categories](https://discourse.llvm.org/t/clang-extractapi-objective-c-categories/68370#post_4)
-- [Lower/upper_bound functions](https://discourse.llvm.org/t/lower-upper-bound-functions/69446#post_6)
-- [[RFC][Debugify] False positives elimination](https://discourse.llvm.org/t/rfc-debugify-false-positives-elimination/69614#post_1)
+- [Support for GNU Fortran extensions](https://discourse.llvm.org/t/support-for-gnu-fortran-extensions/69630#post_1)
+- [How stable is ld64.lld?](https://discourse.llvm.org/t/how-stable-is-ld64-lld/69628#post_3)
+- [[Clang] ExtractAPI Objective-C categories](https://discourse.llvm.org/t/clang-extractapi-objective-c-categories/68370#post_6)
+- [How stable is ld64.lld?](https://discourse.llvm.org/t/how-stable-is-ld64-lld/69628#post_2)
+- [How stable is ld64.lld?](https://discourse.llvm.org/t/how-stable-is-ld64-lld/69628#post_1)
 <!-- DISCOURSE-LLVM:END -->
