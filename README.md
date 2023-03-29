@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_17)
 - [A pitch for future RFC that proposes Integrated Distributed ThinLTO concept](https://discourse.llvm.org/t/a-pitch-for-future-rfc-that-proposes-integrated-distributed-thinlto-concept/69553#post_7)
 - [A pitch for future RFC that proposes Integrated Distributed ThinLTO concept](https://discourse.llvm.org/t/a-pitch-for-future-rfc-that-proposes-integrated-distributed-thinlto-concept/69553#post_6)
 - [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_16)
 - [[LLVM] Improving compile times](https://discourse.llvm.org/t/llvm-improving-compile-times/68094#post_11)
-- [[Enzyme] Moving Instruction Rules to Tablegen](https://discourse.llvm.org/t/enzyme-moving-instruction-rules-to-tablegen/61176#post_4)
 <!-- DISCOURSE-LLVM:END -->
