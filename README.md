@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Compiler-rt is part of release clang?](https://discourse.llvm.org/t/compiler-rt-is-part-of-release-clang/69611#post_1)
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_14)
-- [Why doesn&#39;t clang++ have a -static-libc++ option?](https://discourse.llvm.org/t/why-doesnt-clang-have-a-static-libc-option/69536#post_5)
-- [[RFC][IR] Permit load/store/alloca for struct of the same scalable vector type](https://discourse.llvm.org/t/rfc-ir-permit-load-store-alloca-for-struct-of-the-same-scalable-vector-type/69527#post_2)
-- [Why doesn&#39;t clang++ have a -static-libc++ option?](https://discourse.llvm.org/t/why-doesnt-clang-have-a-static-libc-option/69536#post_4)
+- [Improve Clang diagnostics 2](https://discourse.llvm.org/t/improve-clang-diagnostics-2/68900#post_5)
+- [Improve Clang diagnostics 2](https://discourse.llvm.org/t/improve-clang-diagnostics-2/68900#post_4)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=4#post_61)
+- [[Clang] ExtractAPI Objective-C categories](https://discourse.llvm.org/t/clang-extractapi-objective-c-categories/68370#post_3)
+- [[RFC] Running libc unit tests as integration tests](https://discourse.llvm.org/t/rfc-running-libc-unit-tests-as-integration-tests/69461#post_10)
 <!-- DISCOURSE-LLVM:END -->
