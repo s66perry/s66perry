@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLVM] Improving compile times](https://discourse.llvm.org/t/llvm-improving-compile-times/68094#post_11)
+- [[Enzyme] Moving Instruction Rules to Tablegen](https://discourse.llvm.org/t/enzyme-moving-instruction-rules-to-tablegen/61176#post_4)
+- [RISC-V Zbb Extension ROR/ROL 32 bit Support](https://discourse.llvm.org/t/risc-v-zbb-extension-ror-rol-32-bit-support/69576#post_2)
 - [[RFC/PSA] Changing the shadow call stack register on RISC-V](https://discourse.llvm.org/t/rfc-psa-changing-the-shadow-call-stack-register-on-risc-v/69537#post_3)
 - [[GSoC] Proposal: Interactive MLIR query tool to make exploring the IR easier](https://discourse.llvm.org/t/gsoc-proposal-interactive-mlir-query-tool-to-make-exploring-the-ir-easier/69601#post_1)
-- [How to setup clang-change-namespace tool?](https://discourse.llvm.org/t/how-to-setup-clang-change-namespace-tool/69600#post_1)
-- [Lower/upper_bound functions](https://discourse.llvm.org/t/lower-upper-bound-functions/69446#post_5)
-- [Understanding the affine loop fusion pass](https://discourse.llvm.org/t/understanding-the-affine-loop-fusion-pass/69452#post_15)
 <!-- DISCOURSE-LLVM:END -->
