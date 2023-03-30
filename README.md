@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_60)
+- [Better performance models for MLGO training](https://discourse.llvm.org/t/better-performance-models-for-mlgo-training/68219#post_11)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_45)
+- [How do I access definitions/instructions comprising llvm::Intrinsic operations?](https://discourse.llvm.org/t/how-do-i-access-definitions-instructions-comprising-llvm-intrinsic-operations/69559#post_3)
 - [[RFC] Running libc unit tests as integration tests](https://discourse.llvm.org/t/rfc-running-libc-unit-tests-as-integration-tests/69461#post_14)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_25)
-- [[RFC] Running libc unit tests as integration tests](https://discourse.llvm.org/t/rfc-running-libc-unit-tests-as-integration-tests/69461#post_13)
-- [[RFC] Running libc unit tests as integration tests](https://discourse.llvm.org/t/rfc-running-libc-unit-tests-as-integration-tests/69461#post_12)
-- [How to compile C++ files under compiler-rt with -stdlib=libc++?](https://discourse.llvm.org/t/how-to-compile-c-files-under-compiler-rt-with-stdlib-libc/60482#post_11)
 <!-- DISCOURSE-LLVM:END -->
