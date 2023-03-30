@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&lpar;MLIR&rpar; Which one should I use among the following: [OpRewritePattern, RewritePattern, OpConversionPattern, ConversionPattern]?](https://discourse.llvm.org/t/mlir-which-one-should-i-use-among-the-following-oprewritepattern-rewritepattern-opconversionpattern-conversionpattern/69654#post_3)
-- [&lpar;MLIR&rpar; Which one should I use among the following: [OpRewritePattern, RewritePattern, OpConversionPattern, ConversionPattern]?](https://discourse.llvm.org/t/mlir-which-one-should-i-use-among-the-following-oprewritepattern-rewritepattern-opconversionpattern-conversionpattern/69654#post_2)
-- [&lpar;MLIR&rpar; Which one should I use among the following: [OpRewritePattern, RewritePattern, OpConversionPattern, ConversionPattern]?](https://discourse.llvm.org/t/mlir-which-one-should-i-use-among-the-following-oprewritepattern-rewritepattern-opconversionpattern-conversionpattern/69654#post_1)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_5)
-- [Disabling vector grouping for RVV](https://discourse.llvm.org/t/disabling-vector-grouping-for-rvv/69652#post_1)
+- [LLVM Blog: Adding a new target/object backend to LLVM JITLink](https://discourse.llvm.org/t/llvm-blog-adding-a-new-target-object-backend-to-llvm-jitlink/69660#post_1)
+- [RISC-V LLVM sync-up call 30th March 2023 &lpar;note daylight savings time impact&rpar;](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-30th-march-2023-note-daylight-savings-time-impact/69635#post_4)
+- [How to compile C++ files under compiler-rt with -stdlib=libc++?](https://discourse.llvm.org/t/how-to-compile-c-files-under-compiler-rt-with-stdlib-libc/60482#post_10)
+- [Add gfortran tests to llvm-test-suite](https://discourse.llvm.org/t/add-gfortran-tests-to-llvm-test-suite/69408#post_10)
+- [More Open Projects](https://discourse.llvm.org/t/more-open-projects/69639#post_4)
 <!-- DISCOURSE-LLVM:END -->
