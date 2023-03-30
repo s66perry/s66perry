@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RISC-V LLVM sync-up call 30th March 2023 &lpar;note daylight savings time impact&rpar;](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-30th-march-2023-note-daylight-savings-time-impact/69635#post_2)
+- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_2)
+- [[RFC/PSA] Changing the shadow call stack register on RISC-V](https://discourse.llvm.org/t/rfc-psa-changing-the-shadow-call-stack-register-on-risc-v/69537#post_4)
 - [[RFC] Introduce convergence control intrinsics](https://discourse.llvm.org/t/rfc-introduce-convergence-control-intrinsics/69613#post_4)
 - [More Open Projects](https://discourse.llvm.org/t/more-open-projects/69639#post_2)
-- [Passes of polly directly into llvm library?](https://discourse.llvm.org/t/passes-of-polly-directly-into-llvm-library/69642#post_1)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_1)
-- [[RFC][IR] Permit load/store/alloca for struct of the same scalable vector type](https://discourse.llvm.org/t/rfc-ir-permit-load-store-alloca-for-struct-of-the-same-scalable-vector-type/69527#post_3)
 <!-- DISCOURSE-LLVM:END -->
