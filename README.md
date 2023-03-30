@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [More Open Projects](https://discourse.llvm.org/t/more-open-projects/69639#post_1)
+- [ASCON S-box Pattern Matching for RISC-V](https://discourse.llvm.org/t/ascon-s-box-pattern-matching-for-risc-v/69578#post_2)
 - [Issues in llvm-tblgen -- High-parallelized build](https://discourse.llvm.org/t/issues-in-llvm-tblgen-high-parallelized-build/68037?page=2#post_32)
 - [RFC: Making explicit the relationship between modules, checks and check aliases](https://discourse.llvm.org/t/rfc-making-explicit-the-relationship-between-modules-checks-and-check-aliases/69637#post_1)
 - [Crossplatform: Linux/Windows --&gt; macOS](https://discourse.llvm.org/t/crossplatform-linux-windows-macos/69633#post_2)
-- [Declarative folding](https://discourse.llvm.org/t/declarative-folding/69636#post_1)
-- [How stable is ld64.lld?](https://discourse.llvm.org/t/how-stable-is-ld64-lld/69628#post_9)
 <!-- DISCOURSE-LLVM:END -->
