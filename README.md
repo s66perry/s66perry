@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [&lpar;MLIR&rpar; Which one should I use among the following: [OpRewritePattern, RewritePattern, OpConversionPattern, ConversionPattern]?](https://discourse.llvm.org/t/mlir-which-one-should-i-use-among-the-following-oprewritepattern-rewritepattern-opconversionpattern-conversionpattern/69654#post_3)
+- [&lpar;MLIR&rpar; Which one should I use among the following: [OpRewritePattern, RewritePattern, OpConversionPattern, ConversionPattern]?](https://discourse.llvm.org/t/mlir-which-one-should-i-use-among-the-following-oprewritepattern-rewritepattern-opconversionpattern-conversionpattern/69654#post_2)
+- [&lpar;MLIR&rpar; Which one should I use among the following: [OpRewritePattern, RewritePattern, OpConversionPattern, ConversionPattern]?](https://discourse.llvm.org/t/mlir-which-one-should-i-use-among-the-following-oprewritepattern-rewritepattern-opconversionpattern-conversionpattern/69654#post_1)
+- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_5)
 - [Disabling vector grouping for RVV](https://discourse.llvm.org/t/disabling-vector-grouping-for-rvv/69652#post_1)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_4)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_3)
-- [Emission of CFI directives, CFI_remember_state and CFI_restore state in the epilogue for RISC-V](https://discourse.llvm.org/t/emission-of-cfi-directives-cfi-remember-state-and-cfi-restore-state-in-the-epilogue-for-risc-v/69648#post_2)
-- [[RFC][Debugify] False positives elimination](https://discourse.llvm.org/t/rfc-debugify-false-positives-elimination/69614#post_3)
 <!-- DISCOURSE-LLVM:END -->
