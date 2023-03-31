@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][IR] Permit load/store/alloca for struct of the same scalable vector type](https://discourse.llvm.org/t/rfc-ir-permit-load-store-alloca-for-struct-of-the-same-scalable-vector-type/69527#post_4)
+- [Representing buffer descriptors in the AMDGPU target - call for suggestions](https://discourse.llvm.org/t/representing-buffer-descriptors-in-the-amdgpu-target-call-for-suggestions/68798?page=4#post_65)
+- [About Pointer Escape](https://discourse.llvm.org/t/about-pointer-escape/69678#post_1)
+- [Assertions and crashes in *test* passes](https://discourse.llvm.org/t/assertions-and-crashes-in-test-passes/69677#post_1)
 - [Recursion Depth in Static Analysis](https://discourse.llvm.org/t/recursion-depth-in-static-analysis/63832#post_7)
-- [[LLDB] How to Show zmm register? Help](https://discourse.llvm.org/t/lldb-how-to-show-zmm-register-help/69675#post_1)
-- [[LLVM] Addressing Rust optimization failures in LLVM](https://discourse.llvm.org/t/llvm-addressing-rust-optimization-failures-in-llvm/68096#post_19)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_9)
-- [Can I determine if an AST node is synthesised?](https://discourse.llvm.org/t/can-i-determine-if-an-ast-node-is-synthesised/69623#post_4)
 <!-- DISCOURSE-LLVM:END -->
