@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error with modules and &#39;function with deduced return type cannot be used before it is defined&#39;](https://discourse.llvm.org/t/error-with-modules-and-function-with-deduced-return-type-cannot-be-used-before-it-is-defined/69703#post_1)
 - [About custom mlir dialect lowing?](https://discourse.llvm.org/t/about-custom-mlir-dialect-lowing/69697#post_3)
 - [About custom mlir dialect lowing?](https://discourse.llvm.org/t/about-custom-mlir-dialect-lowing/69697#post_2)
 - [Assertions and crashes in *test* passes](https://discourse.llvm.org/t/assertions-and-crashes-in-test-passes/69677#post_2)
 - [[RFC] Introduce convergence control intrinsics](https://discourse.llvm.org/t/rfc-introduce-convergence-control-intrinsics/69613#post_6)
-- [About custom mlir dialect lowing?](https://discourse.llvm.org/t/about-custom-mlir-dialect-lowing/69697#post_1)
 <!-- DISCOURSE-LLVM:END -->
