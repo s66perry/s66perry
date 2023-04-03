@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Temporal Profiling Extension for IRPGO](https://discourse.llvm.org/t/rfc-temporal-profiling-extension-for-irpgo/68068#post_3)
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920#post_19)
-- [RFC: Temporal Profiling Extension for IRPGO](https://discourse.llvm.org/t/rfc-temporal-profiling-extension-for-irpgo/68068#post_2)
-- [Assertions and crashes in *test* passes](https://discourse.llvm.org/t/assertions-and-crashes-in-test-passes/69677#post_3)
-- [Improving Alias Analysis](https://discourse.llvm.org/t/improving-alias-analysis/69721#post_1)
+- [LLVM Global function declaration with non-const values](https://discourse.llvm.org/t/llvm-global-function-declaration-with-non-const-values/69720#post_2)
+- [GNU attributes for malloc and C++-modules](https://discourse.llvm.org/t/gnu-attributes-for-malloc-and-c-modules/69688#post_2)
+- [Problem with torch-mlir cmake](https://discourse.llvm.org/t/problem-with-torch-mlir-cmake/69727#post_1)
+- [Recursion Depth in Static Analysis](https://discourse.llvm.org/t/recursion-depth-in-static-analysis/63832#post_8)
+- [About Pointer Escape](https://discourse.llvm.org/t/about-pointer-escape/69678#post_2)
 <!-- DISCOURSE-LLVM:END -->
