@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How can I tell whether a `Function` is a HIP device kernel from LLVM `Module`&#39;s function list?](https://discourse.llvm.org/t/how-can-i-tell-whether-a-function-is-a-hip-device-kernel-from-llvm-module-s-function-list/69735#post_1)
+- [MLIR : Define Operation and Access C++ API](https://discourse.llvm.org/t/mlir-define-operation-and-access-c-api/69663#post_7)
 - [Predicated instruction in SSA](https://discourse.llvm.org/t/predicated-instruction-in-ssa/69732#post_2)
 - [[Coverage] Support a hierarchical directory structure in generated coverage html reports](https://discourse.llvm.org/t/coverage-support-a-hierarchical-directory-structure-in-generated-coverage-html-reports/68239#post_14)
 - [RFC: New loop distribution pass for software pipelining](https://discourse.llvm.org/t/rfc-new-loop-distribution-pass-for-software-pipelining/69733#post_1)
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920?page=2#post_21)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_13)
 <!-- DISCOURSE-LLVM:END -->
