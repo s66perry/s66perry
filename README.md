@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_16)
+- [Why is char type considered unsigned in ARM architecture?](https://discourse.llvm.org/t/why-is-char-type-considered-unsigned-in-arm-architecture/69763#post_1)
+- [Dealing with repeated poor quality code](https://discourse.llvm.org/t/dealing-with-repeated-poor-quality-code/69740#post_3)
 - [LLVM Tutorial](https://discourse.llvm.org/t/llvm-tutorial/69760#post_4)
 - [Can I turn off all checks except compiler warnings?](https://discourse.llvm.org/t/can-i-turn-off-all-checks-except-compiler-warnings/69755#post_6)
-- [[RFC] Diagnostics support in Disassembler](https://discourse.llvm.org/t/rfc-diagnostics-support-in-disassembler/69761#post_1)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_15)
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
