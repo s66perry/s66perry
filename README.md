@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Github host key changed?](https://discourse.llvm.org/t/github-host-key-changed/69746#post_2)
+- [Github host key changed?](https://discourse.llvm.org/t/github-host-key-changed/69746#post_1)
+- [Fast big project building without make](https://discourse.llvm.org/t/fast-big-project-building-without-make/69745#post_1)
 - [Where is the library documentation?](https://discourse.llvm.org/t/where-is-the-library-documentation/69741#post_5)
 - [Where is the library documentation?](https://discourse.llvm.org/t/where-is-the-library-documentation/69741#post_4)
-- [Where is the library documentation?](https://discourse.llvm.org/t/where-is-the-library-documentation/69741#post_3)
-- [Request for feedback on debug info issues](https://discourse.llvm.org/t/request-for-feedback-on-debug-info-issues/69744#post_1)
-- [Where is the library documentation?](https://discourse.llvm.org/t/where-is-the-library-documentation/69741#post_2)
 <!-- DISCOURSE-LLVM:END -->
