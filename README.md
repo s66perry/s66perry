@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920?page=2#post_24)
-- [LLVM Tutorial](https://discourse.llvm.org/t/llvm-tutorial/69760#post_3)
-- [LLVM Tutorial](https://discourse.llvm.org/t/llvm-tutorial/69760#post_2)
-- [Can I turn off all checks except compiler warnings?](https://discourse.llvm.org/t/can-i-turn-off-all-checks-except-compiler-warnings/69755#post_5)
-- [LLVM Tutorial](https://discourse.llvm.org/t/llvm-tutorial/69760#post_1)
+- [LLVM Tutorial](https://discourse.llvm.org/t/llvm-tutorial/69760#post_4)
+- [Can I turn off all checks except compiler warnings?](https://discourse.llvm.org/t/can-i-turn-off-all-checks-except-compiler-warnings/69755#post_6)
+- [[RFC] Diagnostics support in Disassembler](https://discourse.llvm.org/t/rfc-diagnostics-support-in-disassembler/69761#post_1)
+- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_15)
+- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
