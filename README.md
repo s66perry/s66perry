@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can i use the map declared in one pass from another pass?if yes,how?](https://discourse.llvm.org/t/can-i-use-the-map-declared-in-one-pass-from-another-pass-if-yes-how/69771#post_1)
-- [Dealing with repeated poor quality code](https://discourse.llvm.org/t/dealing-with-repeated-poor-quality-code/69740#post_6)
-- [What is the condition of &quot;safely removable instruction&quot; from the IR](https://discourse.llvm.org/t/what-is-the-condition-of-safely-removable-instruction-from-the-ir/69769#post_2)
-- [Dealing with repeated poor quality code](https://discourse.llvm.org/t/dealing-with-repeated-poor-quality-code/69740#post_5)
-- [Dealing with repeated poor quality code](https://discourse.llvm.org/t/dealing-with-repeated-poor-quality-code/69740#post_4)
+- [LLVM version support AMD Genoa CPU?](https://discourse.llvm.org/t/llvm-version-support-amd-genoa-cpu/69768#post_2)
+- [16.0.1 has been tagged](https://discourse.llvm.org/t/16-0-1-has-been-tagged/69775#post_1)
+- [LLVM 16.0.1 Release](https://discourse.llvm.org/t/llvm-16-0-1-release/69774#post_1)
+- [Can I turn off all checks except compiler warnings?](https://discourse.llvm.org/t/can-i-turn-off-all-checks-except-compiler-warnings/69755#post_7)
+- [Can i use the map declared in one pass from another pass?if yes,how?](https://discourse.llvm.org/t/can-i-use-the-map-declared-in-one-pass-from-another-pass-if-yes-how/69771#post_3)
 <!-- DISCOURSE-LLVM:END -->
