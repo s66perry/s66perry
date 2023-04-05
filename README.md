@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Stepping over a `brk` instruction on ARM64](https://discourse.llvm.org/t/stepping-over-a-brk-instruction-on-arm64/69766#post_1)
-- [Why this seg fault](https://discourse.llvm.org/t/why-this-seg-fault/69764#post_1)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_16)
-- [Why is char type considered unsigned in ARM architecture?](https://discourse.llvm.org/t/why-is-char-type-considered-unsigned-in-arm-architecture/69763#post_1)
-- [Dealing with repeated poor quality code](https://discourse.llvm.org/t/dealing-with-repeated-poor-quality-code/69740#post_3)
+- [What is the condition of &quot;safely removable instruction&quot; from the IR](https://discourse.llvm.org/t/what-is-the-condition-of-safely-removable-instruction-from-the-ir/69769#post_1)
+- [LLVM version support AMD Genoa CPU?](https://discourse.llvm.org/t/llvm-version-support-amd-genoa-cpu/69768#post_1)
+- [Why is char type considered unsigned in ARM architecture?](https://discourse.llvm.org/t/why-is-char-type-considered-unsigned-in-arm-architecture/69763#post_2)
+- [Stepping over a `brk` instruction on ARM64](https://discourse.llvm.org/t/stepping-over-a-brk-instruction-on-arm64/69766#post_3)
+- [Stepping over a `brk` instruction on ARM64](https://discourse.llvm.org/t/stepping-over-a-brk-instruction-on-arm64/69766#post_2)
 <!-- DISCOURSE-LLVM:END -->
