@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_1)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245#post_16)
+- [Can we create multiple IRBuilders on one BasicBlock?](https://discourse.llvm.org/t/can-we-create-multiple-irbuilders-on-one-basicblock/69781#post_2)
 - [What is the condition of &quot;safely removable instruction&quot; from the IR](https://discourse.llvm.org/t/what-is-the-condition-of-safely-removable-instruction-from-the-ir/69769#post_3)
 - [Stepping over a `brk` instruction on ARM64](https://discourse.llvm.org/t/stepping-over-a-brk-instruction-on-arm64/69766#post_4)
-- [How can I use the GCC sysroot for ARM when using Clang?](https://discourse.llvm.org/t/how-can-i-use-the-gcc-sysroot-for-arm-when-using-clang/69784#post_3)
-- [Sparse Compiler and GPU Code-Generation](https://discourse.llvm.org/t/sparse-compiler-and-gpu-code-generation/69786#post_1)
-- [How can I use the GCC sysroot for ARM when using Clang?](https://discourse.llvm.org/t/how-can-i-use-the-gcc-sysroot-for-arm-when-using-clang/69784#post_2)
 <!-- DISCOURSE-LLVM:END -->
