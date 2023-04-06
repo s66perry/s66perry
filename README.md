@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Memory annotations for llvm-exegesis](https://discourse.llvm.org/t/rfc-memory-annotations-for-llvm-exegesis/69554#post_4)
-- [Level of support for Transformer ML Models in torch MLIR](https://discourse.llvm.org/t/level-of-support-for-transformer-ml-models-in-torch-mlir/69822#post_1)
-- [Question about relocation type and dynamic library](https://discourse.llvm.org/t/question-about-relocation-type-and-dynamic-library/69794#post_4)
-- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_1)
-- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_4)
+- [[NewPM] Loop unswitch regression from legacy PM to new PM](https://discourse.llvm.org/t/newpm-loop-unswitch-regression-from-legacy-pm-to-new-pm/69823#post_2)
+- [[NewPM] Loop unswitch regression from legacy PM to new PM](https://discourse.llvm.org/t/newpm-loop-unswitch-regression-from-legacy-pm-to-new-pm/69823#post_1)
+- [Build llvm with torch-mlir &amp; mlir](https://discourse.llvm.org/t/build-llvm-with-torch-mlir-mlir/69812#post_2)
+- [LLVM GPU Working Group Meeting – Friday, April 14th, 2023](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-april-14th-2023/69819#post_3)
+- [LLVM GPU Working Group Meeting – Friday, April 14th, 2023](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-april-14th-2023/69819#post_2)
 <!-- DISCOURSE-LLVM:END -->
