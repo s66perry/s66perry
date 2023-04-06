@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_2)
+- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_1)
 - [Cross compiling compiler-rt to mips64el - wrong file name?](https://discourse.llvm.org/t/cross-compiling-compiler-rt-to-mips64el-wrong-file-name/69806#post_4)
 - [Build llvm with torch-mlir &amp; mlir](https://discourse.llvm.org/t/build-llvm-with-torch-mlir-mlir/69812#post_1)
 - [Cross compiling compiler-rt to mips64el - wrong file name?](https://discourse.llvm.org/t/cross-compiling-compiler-rt-to-mips64el-wrong-file-name/69806#post_3)
-- [Cross compiling compiler-rt to mips64el - wrong file name?](https://discourse.llvm.org/t/cross-compiling-compiler-rt-to-mips64el-wrong-file-name/69806#post_2)
-- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_3)
 <!-- DISCOURSE-LLVM:END -->
