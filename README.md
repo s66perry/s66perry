@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cross compiling compiler-rt to mips64el - wrong file name?](https://discourse.llvm.org/t/cross-compiling-compiler-rt-to-mips64el-wrong-file-name/69806#post_1)
+- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_2)
 - [Predicated instruction in SSA](https://discourse.llvm.org/t/predicated-instruction-in-ssa/69732#post_4)
 - [LLVM Tutorial](https://discourse.llvm.org/t/llvm-tutorial/69760#post_5)
 - [Can we create multiple IRBuilders on one BasicBlock?](https://discourse.llvm.org/t/can-we-create-multiple-irbuilders-on-one-basicblock/69781#post_3)
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920?page=2#post_29)
-- [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
