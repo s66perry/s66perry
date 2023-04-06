@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can a loop be created without a CreatePHI&lpar;&rpar;?](https://discourse.llvm.org/t/can-a-loop-be-created-without-a-createphi/69816#post_1)
-- [Cross compiling compiler-rt to mips64el - wrong file name?](https://discourse.llvm.org/t/cross-compiling-compiler-rt-to-mips64el-wrong-file-name/69806#post_6)
-- [Cross compiling compiler-rt to mips64el - wrong file name?](https://discourse.llvm.org/t/cross-compiling-compiler-rt-to-mips64el-wrong-file-name/69806#post_5)
-- [Clang-format ignoring LambdaBodyIndentation of Signature in assignment](https://discourse.llvm.org/t/clang-format-ignoring-lambdabodyindentation-of-signature-in-assignment/69815#post_1)
-- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_2)
+- [Possible call targets of indirect calls](https://discourse.llvm.org/t/possible-call-targets-of-indirect-calls/69808#post_5)
+- [16.0.1 has been tagged](https://discourse.llvm.org/t/16-0-1-has-been-tagged/69775#post_3)
+- [Possible call targets of indirect calls](https://discourse.llvm.org/t/possible-call-targets-of-indirect-calls/69808#post_4)
+- [Can a loop be created without a CreatePHI&lpar;&rpar;?](https://discourse.llvm.org/t/can-a-loop-be-created-without-a-createphi/69816#post_6)
+- [Can a loop be created without a CreatePHI&lpar;&rpar;?](https://discourse.llvm.org/t/can-a-loop-be-created-without-a-createphi/69816#post_5)
 <!-- DISCOURSE-LLVM:END -->
