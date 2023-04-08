@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there design doc around expression evaluation for C++ template?](https://discourse.llvm.org/t/is-there-design-doc-around-expression-evaluation-for-c-template/69846#post_2)
+- [How to get MCJIT to Not Use adrp When in Memory Addresses Over 2^33](https://discourse.llvm.org/t/how-to-get-mcjit-to-not-use-adrp-when-in-memory-addresses-over-2-33/69847#post_1)
+- [Is there design doc around expression evaluation for C++ template?](https://discourse.llvm.org/t/is-there-design-doc-around-expression-evaluation-for-c-template/69846#post_1)
 - [How to create an MIR file contains JAL instrutcion of RISCV](https://discourse.llvm.org/t/how-to-create-an-mir-file-contains-jal-instrutcion-of-riscv/69844#post_1)
 - [How to pass the information from LLVM IR to the backend Machine IR?](https://discourse.llvm.org/t/how-to-pass-the-information-from-llvm-ir-to-the-backend-machine-ir/69842#post_2)
-- [16.0.1 has been tagged](https://discourse.llvm.org/t/16-0-1-has-been-tagged/69775#post_6)
-- [How to pass the information from LLVM IR to the backend Machine IR?](https://discourse.llvm.org/t/how-to-pass-the-information-from-llvm-ir-to-the-backend-machine-ir/69842#post_1)
-- [Build llvm with torch-mlir &amp; mlir](https://discourse.llvm.org/t/build-llvm-with-torch-mlir-mlir/69812#post_4)
 <!-- DISCOURSE-LLVM:END -->
