@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to get MCJIT to Not Use adrp When in Memory Addresses Over 2^33](https://discourse.llvm.org/t/how-to-get-mcjit-to-not-use-adrp-when-in-memory-addresses-over-2-33/69847#post_2)
 - [Suppress warnings coming from LLVM](https://discourse.llvm.org/t/suppress-warnings-coming-from-llvm/69862#post_1)
 - [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=4#post_74)
 - [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=4#post_73)
 - [When will flang-new be capable of compiling simple fortran code out of the box?](https://discourse.llvm.org/t/when-will-flang-new-be-capable-of-compiling-simple-fortran-code-out-of-the-box/69860#post_2)
-- [When will flang-new be capable of compiling simple fortran code out of the box?](https://discourse.llvm.org/t/when-will-flang-new-be-capable-of-compiling-simple-fortran-code-out-of-the-box/69860#post_1)
 <!-- DISCOURSE-LLVM:END -->
