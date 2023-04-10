@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_12)
-- [How to get MCJIT to Not Use adrp When in Memory Addresses Over 2^33](https://discourse.llvm.org/t/how-to-get-mcjit-to-not-use-adrp-when-in-memory-addresses-over-2-33/69847#post_7)
-- [RFC: Support specifying checks as a list in the config file](https://discourse.llvm.org/t/rfc-support-specifying-checks-as-a-list-in-the-config-file/69856#post_2)
-- [RFC: Making explicit the relationship between modules, checks and check aliases](https://discourse.llvm.org/t/rfc-making-explicit-the-relationship-between-modules-checks-and-check-aliases/69637#post_6)
-- [Request for feedback on debug info issues](https://discourse.llvm.org/t/request-for-feedback-on-debug-info-issues/69744#post_5)
+- [How to get MCJIT to Not Use adrp When in Memory Addresses Over 2^33](https://discourse.llvm.org/t/how-to-get-mcjit-to-not-use-adrp-when-in-memory-addresses-over-2-33/69847#post_9)
+- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_1)
+- [How to get MCJIT to Not Use adrp When in Memory Addresses Over 2^33](https://discourse.llvm.org/t/how-to-get-mcjit-to-not-use-adrp-when-in-memory-addresses-over-2-33/69847#post_8)
+- [How to disable generation of .cfi directives in assembly file?](https://discourse.llvm.org/t/how-to-disable-generation-of-cfi-directives-in-assembly-file/69882#post_3)
+- [Sparse tensor lowering to GPU](https://discourse.llvm.org/t/sparse-tensor-lowering-to-gpu/69316#post_2)
 <!-- DISCOURSE-LLVM:END -->
