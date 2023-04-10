@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Registration for the 2023 Euro LLVM Developers&#39; Meeting is now open!](https://discourse.llvm.org/t/registration-for-the-2023-euro-llvm-developers-meeting-is-now-open/68556#post_3)
-- [How to reuse pre-generated ast files on different machines for Cross Translation Unit &lpar;CTU&rpar; Analysis](https://discourse.llvm.org/t/how-to-reuse-pre-generated-ast-files-on-different-machines-for-cross-translation-unit-ctu-analysis/69875#post_1)
-- [Problem with torch-mlir cmake](https://discourse.llvm.org/t/problem-with-torch-mlir-cmake/69727#post_2)
-- [Libunwind parseFDEInstructions segfaults at null pointer](https://discourse.llvm.org/t/libunwind-parsefdeinstructions-segfaults-at-null-pointer/69858#post_4)
-- [Libunwind parseFDEInstructions segfaults at null pointer](https://discourse.llvm.org/t/libunwind-parsefdeinstructions-segfaults-at-null-pointer/69858#post_3)
+- [Creating a Docker image with clang, llvm-config, and LLVM libs - help](https://discourse.llvm.org/t/creating-a-docker-image-with-clang-llvm-config-and-llvm-libs-help/63916#post_7)
+- [Level of support for Transformer ML Models in torch MLIR](https://discourse.llvm.org/t/level-of-support-for-transformer-ml-models-in-torch-mlir/69822#post_3)
+- [Loop unroller fails to unroll loop](https://discourse.llvm.org/t/loop-unroller-fails-to-unroll-loop/69834#post_5)
+- [Loop unroller fails to unroll loop](https://discourse.llvm.org/t/loop-unroller-fails-to-unroll-loop/69834#post_4)
+- [Level of support for Transformer ML Models in torch MLIR](https://discourse.llvm.org/t/level-of-support-for-transformer-ml-models-in-torch-mlir/69822#post_2)
 <!-- DISCOURSE-LLVM:END -->
