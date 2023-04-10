@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Creating a Docker image with clang, llvm-config, and LLVM libs - help](https://discourse.llvm.org/t/creating-a-docker-image-with-clang-llvm-config-and-llvm-libs-help/63916#post_6)
+- [Registration for the 2023 Euro LLVM Developers&#39; Meeting is now open!](https://discourse.llvm.org/t/registration-for-the-2023-euro-llvm-developers-meeting-is-now-open/68556#post_3)
+- [How to reuse pre-generated ast files on different machines for Cross Translation Unit &lpar;CTU&rpar; Analysis](https://discourse.llvm.org/t/how-to-reuse-pre-generated-ast-files-on-different-machines-for-cross-translation-unit-ctu-analysis/69875#post_1)
+- [Problem with torch-mlir cmake](https://discourse.llvm.org/t/problem-with-torch-mlir-cmake/69727#post_2)
 - [Libunwind parseFDEInstructions segfaults at null pointer](https://discourse.llvm.org/t/libunwind-parsefdeinstructions-segfaults-at-null-pointer/69858#post_4)
 - [Libunwind parseFDEInstructions segfaults at null pointer](https://discourse.llvm.org/t/libunwind-parsefdeinstructions-segfaults-at-null-pointer/69858#post_3)
-- [How to get MCJIT to Not Use adrp When in Memory Addresses Over 2^33](https://discourse.llvm.org/t/how-to-get-mcjit-to-not-use-adrp-when-in-memory-addresses-over-2-33/69847#post_3)
-- [Clang built kernel fails to generate coredump file SEGV signal](https://discourse.llvm.org/t/clang-built-kernel-fails-to-generate-coredump-file-segv-signal/69870#post_1)
 <!-- DISCOURSE-LLVM:END -->
