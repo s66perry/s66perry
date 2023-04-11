@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_1)
+- [Are the ENABLE_REMOVED_FEATURES going to remain supported?](https://discourse.llvm.org/t/are-the-enable-removed-features-going-to-remain-supported/69889#post_2)
+- [Investigating high register pressure &lpar;at the IR level?&rpar;](https://discourse.llvm.org/t/investigating-high-register-pressure-at-the-ir-level/69897#post_1)
+- [Order of matches in MatchFinder](https://discourse.llvm.org/t/order-of-matches-in-matchfinder/69896#post_1)
 - [DEFAULT_SYSROOT variable not used by the cmake](https://discourse.llvm.org/t/default-sysroot-variable-not-used-by-the-cmake/69839#post_2)
-- [Code Owner for the Flang Driver](https://discourse.llvm.org/t/code-owner-for-the-flang-driver/69895#post_1)
-- [Is there design doc around expression evaluation for C++ template?](https://discourse.llvm.org/t/is-there-design-doc-around-expression-evaluation-for-c-template/69846#post_7)
-- [Problems with &quot;can&#39;t create Attribute&quot;](https://discourse.llvm.org/t/problems-with-cant-create-attribute/69888#post_10)
-- [Problems with &quot;can&#39;t create Attribute&quot;](https://discourse.llvm.org/t/problems-with-cant-create-attribute/69888#post_9)
 <!-- DISCOURSE-LLVM:END -->
