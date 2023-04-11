@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Data Inspection Language](https://discourse.llvm.org/t/rfc-data-inspection-language/69893#post_3)
-- [Avoid inlining some functions using the func dialect?](https://discourse.llvm.org/t/avoid-inlining-some-functions-using-the-func-dialect/69830#post_14)
-- [How to construct custom attribute class in python](https://discourse.llvm.org/t/how-to-construct-custom-attribute-class-in-python/69911#post_1)
-- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;? &lpar;or: do not attempt to create LLVM objects without a basic block!&rpar;](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep-or-do-not-attempt-to-create-llvm-objects-without-a-basic-block/69905#post_13)
-- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;? &lpar;or: do not attempt to create LLVM objects without a basic block!&rpar;](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep-or-do-not-attempt-to-create-llvm-objects-without-a-basic-block/69905#post_12)
+- [How to construct custom attribute class in python](https://discourse.llvm.org/t/how-to-construct-custom-attribute-class-in-python/69911#post_9)
+- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_10)
+- [How to construct custom attribute class in python](https://discourse.llvm.org/t/how-to-construct-custom-attribute-class-in-python/69911#post_8)
+- [How to construct custom attribute class in python](https://discourse.llvm.org/t/how-to-construct-custom-attribute-class-in-python/69911#post_7)
+- [How to construct custom attribute class in python](https://discourse.llvm.org/t/how-to-construct-custom-attribute-class-in-python/69911#post_6)
 <!-- DISCOURSE-LLVM:END -->
