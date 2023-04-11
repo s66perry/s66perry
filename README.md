@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_1)
-- [Are the ENABLE_REMOVED_FEATURES going to remain supported?](https://discourse.llvm.org/t/are-the-enable-removed-features-going-to-remain-supported/69889#post_2)
-- [Investigating high register pressure &lpar;at the IR level?&rpar;](https://discourse.llvm.org/t/investigating-high-register-pressure-at-the-ir-level/69897#post_1)
-- [Order of matches in MatchFinder](https://discourse.llvm.org/t/order-of-matches-in-matchfinder/69896#post_1)
-- [DEFAULT_SYSROOT variable not used by the cmake](https://discourse.llvm.org/t/default-sysroot-variable-not-used-by-the-cmake/69839#post_2)
+- [Avoid inlining some functions using the func dialect?](https://discourse.llvm.org/t/avoid-inlining-some-functions-using-the-func-dialect/69830#post_7)
+- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_2)
+- [[RFC] Data Inspection Language](https://discourse.llvm.org/t/rfc-data-inspection-language/69893#post_2)
+- [[clang-repl] Add WebAssembly Support in clang-repl](https://discourse.llvm.org/t/clang-repl-add-webassembly-support-in-clang-repl/69419#post_12)
+- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_9)
 <!-- DISCOURSE-LLVM:END -->
