@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_7)
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_6)
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_5)
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_4)
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_3)
+- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;?](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep/69905#post_7)
+- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_10)
+- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;?](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep/69905#post_6)
+- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_9)
+- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_8)
 <!-- DISCOURSE-LLVM:END -->
