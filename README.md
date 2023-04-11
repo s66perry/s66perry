@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;?](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep/69905#post_7)
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_10)
-- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;?](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep/69905#post_6)
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_9)
-- [How to write C++ code for creating IR of a function returning a struct containing an array of real values?](https://discourse.llvm.org/t/how-to-write-c-code-for-creating-ir-of-a-function-returning-a-struct-containing-an-array-of-real-values/69788#post_8)
+- [Avoid inlining some functions using the func dialect?](https://discourse.llvm.org/t/avoid-inlining-some-functions-using-the-func-dialect/69830#post_14)
+- [How to construct custom attribute class in python](https://discourse.llvm.org/t/how-to-construct-custom-attribute-class-in-python/69911#post_1)
+- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;? &lpar;or: do not attempt to create LLVM objects without a basic block!&rpar;](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep-or-do-not-attempt-to-create-llvm-objects-without-a-basic-block/69905#post_13)
+- [What is the first parameter to IRBuilder::CreateGEP&lpar;&rpar;? &lpar;or: do not attempt to create LLVM objects without a basic block!&rpar;](https://discourse.llvm.org/t/what-is-the-first-parameter-to-irbuilder-creategep-or-do-not-attempt-to-create-llvm-objects-without-a-basic-block/69905#post_12)
+- [Avoid inlining some functions using the func dialect?](https://discourse.llvm.org/t/avoid-inlining-some-functions-using-the-func-dialect/69830#post_13)
 <!-- DISCOURSE-LLVM:END -->
