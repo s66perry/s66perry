@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Support for PRU](https://discourse.llvm.org/t/llvm-support-for-pru/69901#post_2)
-- [How to reuse pre-generated ast files on different machines for Cross Translation Unit &lpar;CTU&rpar; Analysis](https://discourse.llvm.org/t/how-to-reuse-pre-generated-ast-files-on-different-machines-for-cross-translation-unit-ctu-analysis/69875#post_6)
-- [Code Owner for the Flang Driver](https://discourse.llvm.org/t/code-owner-for-the-flang-driver/69895#post_2)
-- [Duplicated jump/branch instructions](https://discourse.llvm.org/t/duplicated-jump-branch-instructions/69902#post_1)
-- [LLVM Support for PRU](https://discourse.llvm.org/t/llvm-support-for-pru/69901#post_1)
+- [16.0.1 has been tagged](https://discourse.llvm.org/t/16-0-1-has-been-tagged/69775#post_7)
+- [[RFC] Do we want to move forward the auto outer loop vectorization?](https://discourse.llvm.org/t/rfc-do-we-want-to-move-forward-the-auto-outer-loop-vectorization/69903#post_1)
+- [Why do sub-byte loads on AArch64 not require masking?](https://discourse.llvm.org/t/why-do-sub-byte-loads-on-aarch64-not-require-masking/68309#post_13)
+- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_7)
+- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_6)
 <!-- DISCOURSE-LLVM:END -->
