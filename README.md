@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Avoid inlining some functions using the func dialect?](https://discourse.llvm.org/t/avoid-inlining-some-functions-using-the-func-dialect/69830#post_7)
-- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_2)
-- [[RFC] Data Inspection Language](https://discourse.llvm.org/t/rfc-data-inspection-language/69893#post_2)
-- [[clang-repl] Add WebAssembly Support in clang-repl](https://discourse.llvm.org/t/clang-repl-add-webassembly-support-in-clang-repl/69419#post_12)
-- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_9)
+- [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_13)
+- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900#post_1)
+- [Sparse tensor lowering to GPU](https://discourse.llvm.org/t/sparse-tensor-lowering-to-gpu/69316#post_4)
+- [LLVM CommandLine Library Grouping Flag](https://discourse.llvm.org/t/llvm-commandline-library-grouping-flag/69833#post_2)
+- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_3)
 <!-- DISCOURSE-LLVM:END -->
