@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_6)
-- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_1)
-- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815#post_18)
-- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_5)
-- [CANCELLED RISC-V LLVM sync-up call 13th April 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-13th-april-2023/69923#post_1)
+- [16.0.1 has been tagged](https://discourse.llvm.org/t/16-0-1-has-been-tagged/69775#post_8)
+- [Disabling vector grouping for RVV](https://discourse.llvm.org/t/disabling-vector-grouping-for-rvv/69652#post_2)
+- [RFC: Generic mem2reg in MLIR](https://discourse.llvm.org/t/rfc-generic-mem2reg-in-mlir/69926#post_1)
+- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_11)
+- [Crossplatform: Linux/Windows --&gt; macOS](https://discourse.llvm.org/t/crossplatform-linux-windows-macos/69633#post_4)
 <!-- DISCOURSE-LLVM:END -->
