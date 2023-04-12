@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [When will flang-new be capable of compiling simple fortran code out of the box?](https://discourse.llvm.org/t/when-will-flang-new-be-capable-of-compiling-simple-fortran-code-out-of-the-box/69860#post_3)
-- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_2)
-- [Suggestion for warning for C++ non-static functional cast](https://discourse.llvm.org/t/suggestion-for-warning-for-c-non-static-functional-cast/69920#post_4)
-- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_1)
-- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_1)
+- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900#post_4)
+- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_4)
+- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_3)
+- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_2)
+- [Should buildbots switch to ENABLE_RUNTIMES instead of ENABLE_PROJECTS for compiler-rt?](https://discourse.llvm.org/t/should-buildbots-switch-to-enable-runtimes-instead-of-enable-projects-for-compiler-rt/65042#post_14)
 <!-- DISCOURSE-LLVM:END -->
