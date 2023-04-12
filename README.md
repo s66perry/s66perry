@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_2)
+- [Suggestion for warning for C++ non-static functional cast](https://discourse.llvm.org/t/suggestion-for-warning-for-c-non-static-functional-cast/69920#post_4)
+- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_1)
+- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_1)
 - [16.0.1 has been tagged](https://discourse.llvm.org/t/16-0-1-has-been-tagged/69775#post_8)
-- [Disabling vector grouping for RVV](https://discourse.llvm.org/t/disabling-vector-grouping-for-rvv/69652#post_2)
-- [RFC: Generic mem2reg in MLIR](https://discourse.llvm.org/t/rfc-generic-mem2reg-in-mlir/69926#post_1)
-- [How to show all inherited data members on the same level in LLDB](https://discourse.llvm.org/t/how-to-show-all-inherited-data-members-on-the-same-level-in-lldb/69899#post_11)
-- [Crossplatform: Linux/Windows --&gt; macOS](https://discourse.llvm.org/t/crossplatform-linux-windows-macos/69633#post_4)
 <!-- DISCOURSE-LLVM:END -->
