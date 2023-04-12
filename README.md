@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900#post_4)
-- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_4)
-- [What does the IRBuilder::CreateFMulReduce&lpar;&rpar; operation accomplish?](https://discourse.llvm.org/t/what-does-the-irbuilder-createfmulreduce-operation-accomplish/69928#post_3)
-- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_2)
-- [Should buildbots switch to ENABLE_RUNTIMES instead of ENABLE_PROJECTS for compiler-rt?](https://discourse.llvm.org/t/should-buildbots-switch-to-enable-runtimes-instead-of-enable-projects-for-compiler-rt/65042#post_14)
+- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900#post_7)
+- [Place for fastmath attributes](https://discourse.llvm.org/t/place-for-fastmath-attributes/69933#post_1)
+- [Clang + libc++ installation issues on mac](https://discourse.llvm.org/t/clang-libc-installation-issues-on-mac/4537#post_3)
+- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_5)
+- [Clang + libc++ installation issues on mac](https://discourse.llvm.org/t/clang-libc-installation-issues-on-mac/4537#post_2)
 <!-- DISCOURSE-LLVM:END -->
