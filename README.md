@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_6)
+- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_1)
+- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815#post_18)
 - [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_5)
 - [CANCELLED RISC-V LLVM sync-up call 13th April 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-13th-april-2023/69923#post_1)
-- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_18)
-- [Loop unroller fails to unroll loop](https://discourse.llvm.org/t/loop-unroller-fails-to-unroll-loop/69834#post_6)
-- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900#post_3)
 <!-- DISCOURSE-LLVM:END -->
