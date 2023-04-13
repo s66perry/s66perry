@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_12)
+- [[RFC] Memory annotations for llvm-exegesis](https://discourse.llvm.org/t/rfc-memory-annotations-for-llvm-exegesis/69554#post_8)
 - [[RFC] Memory annotations for llvm-exegesis](https://discourse.llvm.org/t/rfc-memory-annotations-for-llvm-exegesis/69554#post_7)
 - [Suggestion for warning for C++ non-static functional cast](https://discourse.llvm.org/t/suggestion-for-warning-for-c-non-static-functional-cast/69920#post_8)
 - [[RFC] Memory annotations for llvm-exegesis](https://discourse.llvm.org/t/rfc-memory-annotations-for-llvm-exegesis/69554#post_6)
-- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900#post_9)
-- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900#post_8)
 <!-- DISCOURSE-LLVM:END -->
