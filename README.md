@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Predicated instruction in SSA](https://discourse.llvm.org/t/predicated-instruction-in-ssa/69732#post_5)
-- [Dyn_cast issue - type cannot be used prior to :: because it has no members](https://discourse.llvm.org/t/dyn-cast-issue-type-cannot-be-used-prior-to-because-it-has-no-members/69919#post_4)
-- [Dyn_cast issue - type cannot be used prior to :: because it has no members](https://discourse.llvm.org/t/dyn-cast-issue-type-cannot-be-used-prior-to-because-it-has-no-members/69919#post_3)
-- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_2)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_12)
+- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_10)
+- [Dyn_cast issue - type cannot be used prior to :: because it has no members](https://discourse.llvm.org/t/dyn-cast-issue-type-cannot-be-used-prior-to-because-it-has-no-members/69919#post_5)
+- [Suggestion for warning for C++ non-static functional cast](https://discourse.llvm.org/t/suggestion-for-warning-for-c-non-static-functional-cast/69920#post_9)
+- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_9)
+- [Cross compile against sysroot of older linux distribution](https://discourse.llvm.org/t/cross-compile-against-sysroot-of-older-linux-distribution/69927#post_8)
 <!-- DISCOURSE-LLVM:END -->
