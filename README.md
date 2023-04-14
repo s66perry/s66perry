@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR in-source build failure due to example test](https://discourse.llvm.org/t/mlir-in-source-build-failure-due-to-example-test/69967#post_1)
+- [Suppress warnings coming from LLVM](https://discourse.llvm.org/t/suppress-warnings-coming-from-llvm/69862#post_4)
 - [Opt ? anyone?](https://discourse.llvm.org/t/opt-anyone/69966#post_1)
 - [[RFC] Memory annotations for llvm-exegesis](https://discourse.llvm.org/t/rfc-memory-annotations-for-llvm-exegesis/69554#post_10)
 - [How to use memref calling convention at runtime for jitted code](https://discourse.llvm.org/t/how-to-use-memref-calling-convention-at-runtime-for-jitted-code/69963#post_3)
-- [How to use memref calling convention at runtime for jitted code](https://discourse.llvm.org/t/how-to-use-memref-calling-convention-at-runtime-for-jitted-code/69963#post_2)
-- [LLVM GPU Working Group Meeting – Friday, April 14th, 2023](https://discourse.llvm.org/t/llvm-gpu-working-group-meeting-friday-april-14th-2023/69819#post_4)
 <!-- DISCOURSE-LLVM:END -->
