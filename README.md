@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_9)
+- [Suggestion for warning for C++ non-static functional cast](https://discourse.llvm.org/t/suggestion-for-warning-for-c-non-static-functional-cast/69920#post_13)
+- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_7)
+- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_8)
 - [Missing pattern for abs?](https://discourse.llvm.org/t/missing-pattern-for-abs/70045#post_3)
-- [Refined controlling of options in distribution builds for Darwin](https://discourse.llvm.org/t/refined-controlling-of-options-in-distribution-builds-for-darwin/69976#post_11)
-- [`acc.loop` gaps with `omp.wsloop`](https://discourse.llvm.org/t/acc-loop-gaps-with-omp-wsloop/70039#post_3)
-- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_4)
-- [Refined controlling of options in distribution builds for Darwin](https://discourse.llvm.org/t/refined-controlling-of-options-in-distribution-builds-for-darwin/69976#post_10)
 <!-- DISCOURSE-LLVM:END -->
