@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ORC global ctor handling](https://discourse.llvm.org/t/orc-global-ctor-handling/70034#post_2)
-- [`acc.loop` gaps with `omp.wsloop`](https://discourse.llvm.org/t/acc-loop-gaps-with-omp-wsloop/70039#post_2)
-- [Machine Learning Guided Ordering of Compiler Optimization Passes](https://discourse.llvm.org/t/machine-learning-guided-ordering-of-compiler-optimization-passes/60415?page=3#post_61)
-- [RFC Loop Versioning for unit stride](https://discourse.llvm.org/t/rfc-loop-versioning-for-unit-stride/68605#post_4)
-- [Suggestion for warning for C++ non-static functional cast](https://discourse.llvm.org/t/suggestion-for-warning-for-c-non-static-functional-cast/69920#post_12)
+- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_6)
+- [Missing pattern for abs?](https://discourse.llvm.org/t/missing-pattern-for-abs/70045#post_2)
+- [How to run e2e_test](https://discourse.llvm.org/t/how-to-run-e2e-test/70047#post_1)
+- [Lowering custom dialect](https://discourse.llvm.org/t/lowering-custom-dialect/70046#post_2)
+- [Lowering custom dialect](https://discourse.llvm.org/t/lowering-custom-dialect/70046#post_1)
 <!-- DISCOURSE-LLVM:END -->
