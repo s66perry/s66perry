@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [ORC global ctor handling](https://discourse.llvm.org/t/orc-global-ctor-handling/70034#post_3)
+- [Place for fastmath attributes](https://discourse.llvm.org/t/place-for-fastmath-attributes/69933#post_10)
+- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_5)
 - [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_14)
 - [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_10)
-- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_12)
-- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_9)
-- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_8)
 <!-- DISCOURSE-LLVM:END -->
