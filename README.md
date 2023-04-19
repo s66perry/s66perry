@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Did Clang ever address the issue of spilling CFI-related values onto the stack?](https://discourse.llvm.org/t/did-clang-ever-address-the-issue-of-spilling-cfi-related-values-onto-the-stack/70059#post_1)
+- [Ast build is very long](https://discourse.llvm.org/t/ast-build-is-very-long/70058#post_1)
+- [Place for fastmath attributes](https://discourse.llvm.org/t/place-for-fastmath-attributes/69933#post_11)
 - [I have some questions about toy.print](https://discourse.llvm.org/t/i-have-some-questions-about-toy-print/70054#post_1)
 - [ORC global ctor handling](https://discourse.llvm.org/t/orc-global-ctor-handling/70034#post_7)
-- [ORC global ctor handling](https://discourse.llvm.org/t/orc-global-ctor-handling/70034#post_6)
-- [How to pass the information from LLVM IR to the backend Machine IR?](https://discourse.llvm.org/t/how-to-pass-the-information-from-llvm-ir-to-the-backend-machine-ir/69842#post_4)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
