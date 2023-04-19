@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Representing aliasd memref in MLIR](https://discourse.llvm.org/t/representing-aliasd-memref-in-mlir/4122#post_9)
+- [[RFC] Support --exclude-inputs](https://discourse.llvm.org/t/rfc-support-exclude-inputs/70070#post_1)
+- [Ast build is very long](https://discourse.llvm.org/t/ast-build-is-very-long/70058#post_5)
+- [RFC: New loop distribution pass for software pipelining](https://discourse.llvm.org/t/rfc-new-loop-distribution-pass-for-software-pipelining/69733#post_2)
 - [`acc.loop` gaps with `omp.wsloop`](https://discourse.llvm.org/t/acc-loop-gaps-with-omp-wsloop/70039#post_9)
-- [Place for fastmath attributes](https://discourse.llvm.org/t/place-for-fastmath-attributes/69933#post_12)
-- [[RFC] Adding support #pragma clang loop [no]prefetch&lpar;&rpar; for prefetch](https://discourse.llvm.org/t/rfc-adding-support-pragma-clang-loop-no-prefetch-for-prefetch/68597#post_13)
-- [How to run e2e_test](https://discourse.llvm.org/t/how-to-run-e2e-test/70047#post_2)
-- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_11)
 <!-- DISCOURSE-LLVM:END -->
