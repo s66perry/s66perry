@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_80)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=4#post_79)
+- [[RFC][dataflow] Treating value categories correctly in the dataflow framework](https://discourse.llvm.org/t/rfc-dataflow-treating-value-categories-correctly-in-the-dataflow-framework/70086#post_2)
+- [[RFC][dataflow] Treating value categories correctly in the dataflow framework](https://discourse.llvm.org/t/rfc-dataflow-treating-value-categories-correctly-in-the-dataflow-framework/70086#post_1)
 - [Generating compile_commands.json : use -MJ or not?](https://discourse.llvm.org/t/generating-compile-commands-json-use-mj-or-not/70062#post_2)
-- [Store branch offset in a register](https://discourse.llvm.org/t/store-branch-offset-in-a-register/70085#post_1)
-- [Created a pass that gives correct output with debug build but wrong with release build](https://discourse.llvm.org/t/created-a-pass-that-gives-correct-output-with-debug-build-but-wrong-with-release-build/70084#post_1)
-- [`acc.loop` gaps with `omp.wsloop`](https://discourse.llvm.org/t/acc-loop-gaps-with-omp-wsloop/70039#post_11)
-- [[DWARF]Why debug-location have been removed for function parameters in clang-trunk?](https://discourse.llvm.org/t/dwarf-why-debug-location-have-been-removed-for-function-parameters-in-clang-trunk/70080#post_1)
 <!-- DISCOURSE-LLVM:END -->
