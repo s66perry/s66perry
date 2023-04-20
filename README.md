@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [`acc.loop` gaps with `omp.wsloop`](https://discourse.llvm.org/t/acc-loop-gaps-with-omp-wsloop/70039#post_12)
+- [Needed compiler settings &lpar;disable exceptions, disable RTTI, -std=c++17&rpar;](https://discourse.llvm.org/t/needed-compiler-settings-disable-exceptions-disable-rtti-std-c-17/70089#post_1)
+- [[RFC] Support --exclude-inputs](https://discourse.llvm.org/t/rfc-support-exclude-inputs/70070#post_4)
+- [[RFC][dataflow] Treating value categories correctly in the dataflow framework](https://discourse.llvm.org/t/rfc-dataflow-treating-value-categories-correctly-in-the-dataflow-framework/70086#post_3)
 - [Guidance in contributing to the project](https://discourse.llvm.org/t/guidance-in-contributing-to-the-project/69008?page=4#post_77)
-- [Relation between LLVM IR BasicBlock and MachineBasicBlock](https://discourse.llvm.org/t/relation-between-llvm-ir-basicblock-and-machinebasicblock/70032#post_11)
-- [LLD: location counter inside objects](https://discourse.llvm.org/t/lld-location-counter-inside-objects/70087#post_1)
-- [RFC: Generic mem2reg in MLIR](https://discourse.llvm.org/t/rfc-generic-mem2reg-in-mlir/69926#post_5)
-- [Store branch offset in a register](https://discourse.llvm.org/t/store-branch-offset-in-a-register/70085#post_2)
 <!-- DISCOURSE-LLVM:END -->
