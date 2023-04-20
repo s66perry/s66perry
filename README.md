@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Code size optimization flags in Flang](https://discourse.llvm.org/t/code-size-optimization-flags-in-flang/69482#post_5)
-- [Buildkite pre-merge checks need a newer CMake?](https://discourse.llvm.org/t/buildkite-pre-merge-checks-need-a-newer-cmake/70002#post_5)
-- [Mapping between C++ Standard Version and libc++ Version](https://discourse.llvm.org/t/mapping-between-c-standard-version-and-libc-version/70073#post_11)
-- [Running default passes in LLVM](https://discourse.llvm.org/t/running-default-passes-in-llvm/70094#post_6)
-- [Running default passes in LLVM](https://discourse.llvm.org/t/running-default-passes-in-llvm/70094#post_5)
+- [Integrating polly with LLVM vectorizer](https://discourse.llvm.org/t/integrating-polly-with-llvm-vectorizer/69709#post_2)
+- [Running default passes in LLVM](https://discourse.llvm.org/t/running-default-passes-in-llvm/70094#post_7)
+- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_13)
+- [`acc.loop` gaps with `omp.wsloop`](https://discourse.llvm.org/t/acc-loop-gaps-with-omp-wsloop/70039#post_13)
+- [I have some questions about toy.print](https://discourse.llvm.org/t/i-have-some-questions-about-toy-print/70054#post_3)
 <!-- DISCOURSE-LLVM:END -->
