@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Create a vector from elements](https://discourse.llvm.org/t/create-a-vector-from-elements/70112#post_2)
+- [Plans to extend linalg optimization passes to memref operands](https://discourse.llvm.org/t/plans-to-extend-linalg-optimization-passes-to-memref-operands/70115#post_3)
+- [Pattern Matching in LLVM](https://discourse.llvm.org/t/pattern-matching-in-llvm/70041#post_4)
 - [Plans to extend linalg optimization passes to memref operands](https://discourse.llvm.org/t/plans-to-extend-linalg-optimization-passes-to-memref-operands/70115#post_2)
 - [Missing checks in isInductionPhi function](https://discourse.llvm.org/t/missing-checks-in-isinductionphi-function/70078#post_6)
-- [Traceability support in MLIR/iree?](https://discourse.llvm.org/t/traceability-support-in-mlir-iree/70109#post_3)
-- [Missing checks in isInductionPhi function](https://discourse.llvm.org/t/missing-checks-in-isinductionphi-function/70078#post_5)
-- [Adding a new pass to the new PM degrades vectorisation](https://discourse.llvm.org/t/adding-a-new-pass-to-the-new-pm-degrades-vectorisation/70105#post_4)
 <!-- DISCOURSE-LLVM:END -->
