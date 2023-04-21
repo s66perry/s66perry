@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Create a vector from elements](https://discourse.llvm.org/t/create-a-vector-from-elements/70112#post_2)
-- [Plans to extend linalg optimization passes to memref operands](https://discourse.llvm.org/t/plans-to-extend-linalg-optimization-passes-to-memref-operands/70115#post_3)
-- [Pattern Matching in LLVM](https://discourse.llvm.org/t/pattern-matching-in-llvm/70041#post_4)
-- [Plans to extend linalg optimization passes to memref operands](https://discourse.llvm.org/t/plans-to-extend-linalg-optimization-passes-to-memref-operands/70115#post_2)
-- [Missing checks in isInductionPhi function](https://discourse.llvm.org/t/missing-checks-in-isinductionphi-function/70078#post_6)
+- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_23)
+- [RFC: [C++23] P1467R9 - Extended floating-point types and standard names](https://discourse.llvm.org/t/rfc-c-23-p1467r9-extended-floating-point-types-and-standard-names/70033#post_3)
+- [[RFC] Packing for sub-byte types](https://discourse.llvm.org/t/rfc-packing-for-sub-byte-types/70119#post_3)
+- [Could I get one single bc file from multiple files？（which may have a real big amount of files including .c/.h/.hpp）](https://discourse.llvm.org/t/could-i-get-one-single-bc-file-from-multiple-files-which-may-have-a-real-big-amount-of-files-including-c-h-hpp/62072#post_9)
+- [Plans to extend linalg optimization passes to memref operands](https://discourse.llvm.org/t/plans-to-extend-linalg-optimization-passes-to-memref-operands/70115#post_5)
 <!-- DISCOURSE-LLVM:END -->
