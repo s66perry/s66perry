@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM IR for nested arrays](https://discourse.llvm.org/t/llvm-ir-for-nested-arrays/70131#post_3)
+- [Pattern Matching in LLVM](https://discourse.llvm.org/t/pattern-matching-in-llvm/70041#post_5)
+- [[DWARF]Why debug-location have been removed for function parameters in clang-trunk?](https://discourse.llvm.org/t/dwarf-why-debug-location-have-been-removed-for-function-parameters-in-clang-trunk/70080#post_2)
 - [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_14)
 - [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_13)
-- [Ast build is very long](https://discourse.llvm.org/t/ast-build-is-very-long/70058#post_6)
-- [RFC: [C++23] P1467R9 - Extended floating-point types and standard names](https://discourse.llvm.org/t/rfc-c-23-p1467r9-extended-floating-point-types-and-standard-names/70033#post_9)
-- [Where is `AsmVerbose` or `IsVerboseAsm` set?](https://discourse.llvm.org/t/where-is-asmverbose-or-isverboseasm-set/70138#post_1)
 <!-- DISCOURSE-LLVM:END -->
