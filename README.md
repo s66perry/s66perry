@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM IR crashes but not sure why](https://discourse.llvm.org/t/llvm-ir-crashes-but-not-sure-why/70128#post_3)
-- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_4)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_1)
-- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_3)
-- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_2)
+- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_10)
+- [LLVM IR for nested arrays](https://discourse.llvm.org/t/llvm-ir-for-nested-arrays/70131#post_2)
+- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_9)
+- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_8)
+- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_7)
 <!-- DISCOURSE-LLVM:END -->
