@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_12)
+- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_11)
 - [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_10)
 - [LLVM IR for nested arrays](https://discourse.llvm.org/t/llvm-ir-for-nested-arrays/70131#post_2)
 - [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_9)
-- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_8)
-- [Invoking the linker from the compiler directly](https://discourse.llvm.org/t/invoking-the-linker-from-the-compiler-directly/70133#post_7)
 <!-- DISCOURSE-LLVM:END -->
