@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_2)
-- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_6)
-- [The status of XML Representation of ASTs in clang](https://discourse.llvm.org/t/the-status-of-xml-representation-of-asts-in-clang/70130#post_4)
-- [Std::sort calls comparator with an invalid iterator](https://discourse.llvm.org/t/std-sort-calls-comparator-with-an-invalid-iterator/70156#post_1)
-- [Coverity Scan Stopped Running](https://discourse.llvm.org/t/coverity-scan-stopped-running/67856?page=2#post_36)
+- [Reporting phabricator spam](https://discourse.llvm.org/t/reporting-phabricator-spam/68204#post_8)
+- [Std::sort calls comparator with an invalid iterator](https://discourse.llvm.org/t/std-sort-calls-comparator-with-an-invalid-iterator/70156#post_2)
+- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_5)
+- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_4)
+- [[TableGen] Introduce function and lambda](https://discourse.llvm.org/t/tablegen-introduce-function-and-lambda/70160#post_1)
 <!-- DISCOURSE-LLVM:END -->
