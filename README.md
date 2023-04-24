@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_16)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_15)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_14)
-- [MLIR C/C++ Frontend Working Group [Friday, April 28th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-friday-april-28th/70177#post_1)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_13)
+- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_18)
+- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_17)
+- [Refreshing our Open Projects page](https://discourse.llvm.org/t/refreshing-our-open-projects-page/70171#post_6)
+- [Refreshing our Open Projects page](https://discourse.llvm.org/t/refreshing-our-open-projects-page/70171#post_5)
+- [Refreshing our Open Projects page](https://discourse.llvm.org/t/refreshing-our-open-projects-page/70171#post_4)
 <!-- DISCOURSE-LLVM:END -->
