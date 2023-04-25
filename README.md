@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Register promotion in linalg.generic lowering](https://discourse.llvm.org/t/register-promotion-in-linalg-generic-lowering/70213#post_2)
+- [Register promotion in linalg.generic lowering](https://discourse.llvm.org/t/register-promotion-in-linalg-generic-lowering/70213#post_1)
+- [User created Passes](https://discourse.llvm.org/t/user-created-passes/70212#post_1)
 - [How to strip off metadata &lpar;debugging information&rpar;?](https://discourse.llvm.org/t/how-to-strip-off-metadata-debugging-information/70201#post_3)
 - [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199#post_2)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=5#post_85)
-- [How to strip off metadata &lpar;debugging information&rpar;?](https://discourse.llvm.org/t/how-to-strip-off-metadata-debugging-information/70201#post_2)
-- [Wholeprogramdevirt pass not working as expected](https://discourse.llvm.org/t/wholeprogramdevirt-pass-not-working-as-expected/70210#post_1)
 <!-- DISCOURSE-LLVM:END -->
