@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Change the number of op results](https://discourse.llvm.org/t/change-the-number-of-op-results/70191#post_2)
+- [Change the number of op results](https://discourse.llvm.org/t/change-the-number-of-op-results/70191#post_1)
+- [Nim frontend](https://discourse.llvm.org/t/nim-frontend/70190#post_1)
+- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_8)
 - [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_56)
-- [[RFC][dataflow] Treating value categories correctly in the dataflow framework](https://discourse.llvm.org/t/rfc-dataflow-treating-value-categories-correctly-in-the-dataflow-framework/70086#post_5)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_19)
-- [Where can I find the code about the riscv auto vectorization part?](https://discourse.llvm.org/t/where-can-i-find-the-code-about-the-riscv-auto-vectorization-part/70188#post_1)
-- [Incorrect costing in PartialInliner if IR has unreachable basic blocks](https://discourse.llvm.org/t/incorrect-costing-in-partialinliner-if-ir-has-unreachable-basic-blocks/70163#post_2)
 <!-- DISCOURSE-LLVM:END -->
