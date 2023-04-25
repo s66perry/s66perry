@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why libMLIRMemRef cannot be found after installing MLIR](https://discourse.llvm.org/t/why-libmlirmemref-cannot-be-found-after-installing-mlir/70168#post_3)
-- [[TableGen] Introduce function and lambda](https://discourse.llvm.org/t/tablegen-introduce-function-and-lambda/70160#post_5)
-- [[TableGen] Introduce function and lambda](https://discourse.llvm.org/t/tablegen-introduce-function-and-lambda/70160#post_4)
-- [Does torch-mlir support input binary TorchScript model &lpar;*.pt&rpar; and convert it to Torch Dialect MLIR directly &lpar;not python&rpar;](https://discourse.llvm.org/t/does-torch-mlir-support-input-binary-torchscript-model-pt-and-convert-it-to-torch-dialect-mlir-directly-not-python/70182#post_1)
-- [RFC: [C++23] P1467R9 - Extended floating-point types and standard names](https://discourse.llvm.org/t/rfc-c-23-p1467r9-extended-floating-point-types-and-standard-names/70033#post_16)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=3#post_56)
+- [[RFC][dataflow] Treating value categories correctly in the dataflow framework](https://discourse.llvm.org/t/rfc-dataflow-treating-value-categories-correctly-in-the-dataflow-framework/70086#post_5)
+- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134#post_19)
+- [Where can I find the code about the riscv auto vectorization part?](https://discourse.llvm.org/t/where-can-i-find-the-code-about-the-riscv-auto-vectorization-part/70188#post_1)
+- [Incorrect costing in PartialInliner if IR has unreachable basic blocks](https://discourse.llvm.org/t/incorrect-costing-in-partialinliner-if-ir-has-unreachable-basic-blocks/70163#post_2)
 <!-- DISCOURSE-LLVM:END -->
