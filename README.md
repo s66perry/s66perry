@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Wholeprogramdevirt pass not working as expected](https://discourse.llvm.org/t/wholeprogramdevirt-pass-not-working-as-expected/70210#post_3)
+- [Wholeprogramdevirt pass not working as expected](https://discourse.llvm.org/t/wholeprogramdevirt-pass-not-working-as-expected/70210#post_2)
+- [What should I do to enable DWARF on a new backend?](https://discourse.llvm.org/t/what-should-i-do-to-enable-dwarf-on-a-new-backend/70029#post_7)
 - [[RFC] Packing for sub-byte types](https://discourse.llvm.org/t/rfc-packing-for-sub-byte-types/70119#post_9)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=2#post_23)
-- [[RFC] Memory annotations for llvm-exegesis](https://discourse.llvm.org/t/rfc-memory-annotations-for-llvm-exegesis/69554#post_11)
-- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=2#post_22)
-- [Register promotion in linalg.generic lowering](https://discourse.llvm.org/t/register-promotion-in-linalg-generic-lowering/70213#post_8)
 <!-- DISCOURSE-LLVM:END -->
