@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_14)
-- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_13)
-- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_12)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699?page=2#post_29)
-- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_11)
+- [Where can I find the code about the riscv auto vectorization part?](https://discourse.llvm.org/t/where-can-i-find-the-code-about-the-riscv-auto-vectorization-part/70188#post_3)
+- [Where can I find the code about the riscv auto vectorization part?](https://discourse.llvm.org/t/where-can-i-find-the-code-about-the-riscv-auto-vectorization-part/70188#post_2)
+- [Clarification on platform support for llvm-exegesis](https://discourse.llvm.org/t/clarification-on-platform-support-for-llvm-exegesis/70206#post_2)
+- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_16)
+- [Using LLDB to debug Rust/c++ on Windows](https://discourse.llvm.org/t/using-lldb-to-debug-rust-c-on-windows/70149#post_15)
 <!-- DISCOURSE-LLVM:END -->
