@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Moving jump tables sections on embedded systems?](https://discourse.llvm.org/t/moving-jump-tables-sections-on-embedded-systems/70226#post_1)
-- [Few basic questions about DBG_INSTR_REF](https://discourse.llvm.org/t/few-basic-questions-about-dbg-instr-ref/70203#post_3)
-- [[RFC] Let Intrinsics.td emit IIT_Info TypeSig](https://discourse.llvm.org/t/rfc-let-intrinsics-td-emit-iit-info-typesig/69186#post_6)
-- [BSET promotion too aggressive?](https://discourse.llvm.org/t/bset-promotion-too-aggressive/70223#post_1)
-- [Figure out which subprojects are enabled in downstream project](https://discourse.llvm.org/t/figure-out-which-subprojects-are-enabled-in-downstream-project/70222#post_1)
+- [BSET promotion too aggressive?](https://discourse.llvm.org/t/bset-promotion-too-aggressive/70223#post_3)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199#post_11)
+- [16.0.2 has been tagged](https://discourse.llvm.org/t/16-0-2-has-been-tagged/70108#post_6)
+- [RISC-V LLVM sync-up call 27th April 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-27th-april-2023/70228#post_1)
+- [BSET promotion too aggressive?](https://discourse.llvm.org/t/bset-promotion-too-aggressive/70223#post_2)
 <!-- DISCOURSE-LLVM:END -->
