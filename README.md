@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Too much shared data with -g flag to compile offload based program](https://discourse.llvm.org/t/too-much-shared-data-with-g-flag-to-compile-offload-based-program/70230#post_1)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199#post_12)
 - [BSET promotion too aggressive?](https://discourse.llvm.org/t/bset-promotion-too-aggressive/70223#post_3)
 - [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199#post_11)
 - [16.0.2 has been tagged](https://discourse.llvm.org/t/16-0-2-has-been-tagged/70108#post_6)
-- [RISC-V LLVM sync-up call 27th April 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-27th-april-2023/70228#post_1)
-- [BSET promotion too aggressive?](https://discourse.llvm.org/t/bset-promotion-too-aggressive/70223#post_2)
 <!-- DISCOURSE-LLVM:END -->
