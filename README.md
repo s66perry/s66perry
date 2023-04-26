@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_6)
+- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_5)
+- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_4)
+- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_3)
 - [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134?page=2#post_21)
-- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262?page=2#post_28)
-- [Clarification on platform support for llvm-exegesis](https://discourse.llvm.org/t/clarification-on-platform-support-for-llvm-exegesis/70206#post_3)
-- [Refreshing our Open Projects page](https://discourse.llvm.org/t/refreshing-our-open-projects-page/70171#post_11)
-- [Too much shared data with -g flag to compile offload based program](https://discourse.llvm.org/t/too-much-shared-data-with-g-flag-to-compile-offload-based-program/70230#post_1)
 <!-- DISCOURSE-LLVM:END -->
