@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD Linker Section Packing](https://discourse.llvm.org/t/lld-linker-section-packing/70234#post_1)
+- [Remove &#39;new_shape&#39; attribtue from tosa.reshape](https://discourse.llvm.org/t/remove-new-shape-attribtue-from-tosa-reshape/70125#post_2)
+- [Too much shared data with -g flag to compile offload based program](https://discourse.llvm.org/t/too-much-shared-data-with-g-flag-to-compile-offload-based-program/70230#post_3)
+- [Too much shared data with -g flag to compile offload based program](https://discourse.llvm.org/t/too-much-shared-data-with-g-flag-to-compile-offload-based-program/70230#post_2)
 - [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_6)
-- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_5)
-- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_4)
-- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_3)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
