@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_8)
-- [LLD Linker Section Packing](https://discourse.llvm.org/t/lld-linker-section-packing/70234#post_3)
-- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_7)
-- [Adding a JSON diff tool to Clang&#39;s CI](https://discourse.llvm.org/t/adding-a-json-diff-tool-to-clangs-ci/70174#post_7)
-- [Clarification on platform support for llvm-exegesis](https://discourse.llvm.org/t/clarification-on-platform-support-for-llvm-exegesis/70206#post_4)
+- [Ast build is very long](https://discourse.llvm.org/t/ast-build-is-very-long/70058#post_12)
+- [Ast build is very long](https://discourse.llvm.org/t/ast-build-is-very-long/70058#post_11)
+- [Code completion with clang gives wrong results](https://discourse.llvm.org/t/code-completion-with-clang-gives-wrong-results/70244#post_3)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199#post_13)
+- [Code completion with clang gives wrong results](https://discourse.llvm.org/t/code-completion-with-clang-gives-wrong-results/70244#post_2)
 <!-- DISCOURSE-LLVM:END -->
