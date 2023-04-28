@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] DefaultValueInterface for types to provide a default instance](https://discourse.llvm.org/t/rfc-defaultvalueinterface-for-types-to-provide-a-default-instance/70261#post_4)
 - [Few basic questions about DBG_INSTR_REF](https://discourse.llvm.org/t/few-basic-questions-about-dbg-instr-ref/70203#post_5)
 - [[RFC] DefaultValueInterface for types to provide a default instance](https://discourse.llvm.org/t/rfc-defaultvalueinterface-for-types-to-provide-a-default-instance/70261#post_3)
 - [[RFC] DefaultValueInterface for types to provide a default instance](https://discourse.llvm.org/t/rfc-defaultvalueinterface-for-types-to-provide-a-default-instance/70261#post_2)
 - [[RFC] DefaultValueInterface for types to provide a default instance](https://discourse.llvm.org/t/rfc-defaultvalueinterface-for-types-to-provide-a-default-instance/70261#post_1)
-- [Single LLDB &lpar;static linking&rpar;](https://discourse.llvm.org/t/single-lldb-static-linking/67719#post_15)
 <!-- DISCOURSE-LLVM:END -->
