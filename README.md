@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [`&lt;internal&gt;` sections](https://discourse.llvm.org/t/internal-sections/70266#post_1)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699?page=2#post_30)
-- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900?page=2#post_26)
-- [How to prevent registers from spilling?](https://discourse.llvm.org/t/how-to-prevent-registers-from-spilling/38786#post_8)
-- [Executable test infrastructure](https://discourse.llvm.org/t/executable-test-infrastructure/70255#post_3)
+- [`&lt;internal&gt;` sections](https://discourse.llvm.org/t/internal-sections/70266#post_2)
+- [[RFC] Proposing changes to the Code Owner for the LLVM Vectorizers](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-code-owner-for-the-llvm-vectorizers/70267#post_2)
+- [Code completion with clang gives wrong results](https://discourse.llvm.org/t/code-completion-with-clang-gives-wrong-results/70244#post_5)
+- [Runtime dynamic loader in LLVM-libc](https://discourse.llvm.org/t/runtime-dynamic-loader-in-llvm-libc/70259#post_2)
+- [Code completion with clang gives wrong results](https://discourse.llvm.org/t/code-completion-with-clang-gives-wrong-results/70244#post_4)
 <!-- DISCOURSE-LLVM:END -->
