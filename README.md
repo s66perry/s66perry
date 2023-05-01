@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Complex types and FPMathOperator](https://discourse.llvm.org/t/complex-types-and-fpmathoperator/70254#post_3)
+- [Complex types and FPMathOperator](https://discourse.llvm.org/t/complex-types-and-fpmathoperator/70254#post_2)
+- [LLVM assembler and Jump tables](https://discourse.llvm.org/t/llvm-assembler-and-jump-tables/70314#post_2)
+- [2023 Clang-Built Linux Meetup Dates](https://discourse.llvm.org/t/2023-clang-built-linux-meetup-dates/70316#post_1)
 - [Linalg dialect conversion to llvm dialect](https://discourse.llvm.org/t/linalg-dialect-conversion-to-llvm-dialect/69948#post_5)
-- [[RFC] Deprecating Compact Binary Sample Profile Format](https://discourse.llvm.org/t/rfc-deprecating-compact-binary-sample-profile-format/70252#post_2)
-- [LLVM assembler and Jump tables](https://discourse.llvm.org/t/llvm-assembler-and-jump-tables/70314#post_1)
-- [Segmentation Fault while retrieving values](https://discourse.llvm.org/t/segmentation-fault-while-retrieving-values/70313#post_1)
-- [[RFC] Strict weak ordering checks in the debug libc++](https://discourse.llvm.org/t/rfc-strict-weak-ordering-checks-in-the-debug-libc/70217#post_11)
 <!-- DISCOURSE-LLVM:END -->
