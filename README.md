@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Issues when building LLVM/clang from trunk](https://discourse.llvm.org/t/issues-when-building-llvm-clang-from-trunk/70323#post_5)
+- [Expand ABI Validation Tests to Libunwind and Libc++abi](https://discourse.llvm.org/t/expand-abi-validation-tests-to-libunwind-and-libc-abi/70324#post_2)
+- [Expand ABI Validation Tests to Libunwind and Libc++abi](https://discourse.llvm.org/t/expand-abi-validation-tests-to-libunwind-and-libc-abi/70324#post_1)
+- [Adding a JSON diff tool to Clang&#39;s CI](https://discourse.llvm.org/t/adding-a-json-diff-tool-to-clangs-ci/70174#post_16)
 - [Adding a JSON diff tool to Clang&#39;s CI](https://discourse.llvm.org/t/adding-a-json-diff-tool-to-clangs-ci/70174#post_15)
-- [Investigating CI workflow improvements and potential changes to arc](https://discourse.llvm.org/t/investigating-ci-workflow-improvements-and-potential-changes-to-arc/70309#post_8)
-- [Investigating CI workflow improvements and potential changes to arc](https://discourse.llvm.org/t/investigating-ci-workflow-improvements-and-potential-changes-to-arc/70309#post_7)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_22)
-- [Investigating CI workflow improvements and potential changes to arc](https://discourse.llvm.org/t/investigating-ci-workflow-improvements-and-potential-changes-to-arc/70309#post_6)
 <!-- DISCOURSE-LLVM:END -->
