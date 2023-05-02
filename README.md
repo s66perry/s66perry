@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Exclude issues from system headers as early as posible](https://discourse.llvm.org/t/rfc-exclude-issues-from-system-headers-as-early-as-posible/68483#post_4)
 - [[RFC] Exclude issues from system headers as early as posible](https://discourse.llvm.org/t/rfc-exclude-issues-from-system-headers-as-early-as-posible/68483#post_3)
 - [Investigating CI workflow improvements and potential changes to arc](https://discourse.llvm.org/t/investigating-ci-workflow-improvements-and-potential-changes-to-arc/70309#post_3)
 - [Should SSA values in Handshake always have implicit handshake semantics?](https://discourse.llvm.org/t/should-ssa-values-in-handshake-always-have-implicit-handshake-semantics/70321#post_1)
 - [Investigating CI workflow improvements and potential changes to arc](https://discourse.llvm.org/t/investigating-ci-workflow-improvements-and-potential-changes-to-arc/70309#post_2)
-- [A question about Intrinsic](https://discourse.llvm.org/t/a-question-about-intrinsic/70320#post_1)
 <!-- DISCOURSE-LLVM:END -->
