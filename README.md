@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [A question about Intrinsic](https://discourse.llvm.org/t/a-question-about-intrinsic/70320#post_8)
-- [Refreshing our Open Projects page](https://discourse.llvm.org/t/refreshing-our-open-projects-page/70171#post_15)
-- [A question about Intrinsic](https://discourse.llvm.org/t/a-question-about-intrinsic/70320#post_7)
-- [A question about Intrinsic](https://discourse.llvm.org/t/a-question-about-intrinsic/70320#post_6)
-- [A question about Intrinsic](https://discourse.llvm.org/t/a-question-about-intrinsic/70320#post_5)
+- [Complex types and FPMathOperator](https://discourse.llvm.org/t/complex-types-and-fpmathoperator/70254#post_10)
+- [IselDagtoDag Matching when an instruction updates more than one register [RISCV backend]](https://discourse.llvm.org/t/iseldagtodag-matching-when-an-instruction-updates-more-than-one-register-riscv-backend/70336#post_1)
+- [Pure-Python Torch FX to MLIR importer](https://discourse.llvm.org/t/pure-python-torch-fx-to-mlir-importer/70333#post_3)
+- [Pure-Python Torch FX to MLIR importer](https://discourse.llvm.org/t/pure-python-torch-fx-to-mlir-importer/70333#post_2)
+- [Pure-Python Torch FX to MLIR importer](https://discourse.llvm.org/t/pure-python-torch-fx-to-mlir-importer/70333#post_1)
 <!-- DISCOURSE-LLVM:END -->
