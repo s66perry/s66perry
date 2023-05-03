@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [16.0.3 has been tagged](https://discourse.llvm.org/t/16-0-3-has-been-tagged/70340#post_2)
+- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_26)
+- [A question about Intrinsic](https://discourse.llvm.org/t/a-question-about-intrinsic/70320#post_10)
 - [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641#post_20)
 - [MLIR Hackathon at Edinburgh in May &lpar;before EuroLLVM&rpar;](https://discourse.llvm.org/t/mlir-hackathon-at-edinburgh-in-may-before-eurollvm/69210#post_4)
-- [[RFC] Let MVT generated and restore MVT into llvm/CodeGen](https://discourse.llvm.org/t/rfc-let-mvt-generated-and-restore-mvt-into-llvm-codegen/69547#post_3)
-- [Complex types and FPMathOperator](https://discourse.llvm.org/t/complex-types-and-fpmathoperator/70254#post_12)
-- [MLIR Hackathon at Edinburgh in May &lpar;before EuroLLVM&rpar;](https://discourse.llvm.org/t/mlir-hackathon-at-edinburgh-in-may-before-eurollvm/69210#post_3)
 <!-- DISCOURSE-LLVM:END -->
