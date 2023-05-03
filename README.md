@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reading data using external cpp file](https://discourse.llvm.org/t/reading-data-using-external-cpp-file/70361#post_2)
+- [LLVM MLGO May 5th 2023](https://discourse.llvm.org/t/llvm-mlgo-may-5th-2023/70362#post_1)
+- [Reading data using external cpp file](https://discourse.llvm.org/t/reading-data-using-external-cpp-file/70361#post_1)
+- [Clang warnings on uninitialized variables](https://discourse.llvm.org/t/clang-warnings-on-uninitialized-variables/70353#post_11)
 - [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641?page=2#post_22)
-- [Complex types and FPMathOperator](https://discourse.llvm.org/t/complex-types-and-fpmathoperator/70254#post_14)
-- [Changing &quot;backend: &lt;foo&gt;&quot; labels on GitHub to not being backend specific?](https://discourse.llvm.org/t/changing-backend-foo-labels-on-github-to-not-being-backend-specific/70359#post_4)
-- [Pure-Python Torch FX to MLIR importer](https://discourse.llvm.org/t/pure-python-torch-fx-to-mlir-importer/70333#post_5)
-- [Complex types and FPMathOperator](https://discourse.llvm.org/t/complex-types-and-fpmathoperator/70254#post_13)
 <!-- DISCOURSE-LLVM:END -->
