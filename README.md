@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Let MVT generated and restore MVT into llvm/CodeGen](https://discourse.llvm.org/t/rfc-let-mvt-generated-and-restore-mvt-into-llvm-codegen/69547#post_4)
+- [How to read the value of callee saved register?](https://discourse.llvm.org/t/how-to-read-the-value-of-callee-saved-register/70363#post_5)
 - [How to read the value of callee saved register?](https://discourse.llvm.org/t/how-to-read-the-value-of-callee-saved-register/70363#post_4)
 - [Assertions and crashes in *test* passes](https://discourse.llvm.org/t/assertions-and-crashes-in-test-passes/69677#post_5)
 - [Assertions and crashes in *test* passes](https://discourse.llvm.org/t/assertions-and-crashes-in-test-passes/69677#post_4)
-- [Decomposing torch.aten.bmm](https://discourse.llvm.org/t/decomposing-torch-aten-bmm/70365#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_61)
 <!-- DISCOURSE-LLVM:END -->
