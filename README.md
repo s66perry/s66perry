@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to specify clang-tidy to completely not check non-user files](https://discourse.llvm.org/t/how-to-specify-clang-tidy-to-completely-not-check-non-user-files/70381#post_1)
-- [Is there any way to define custom calling convention without modifying llvm source code?](https://discourse.llvm.org/t/is-there-any-way-to-define-custom-calling-convention-without-modifying-llvm-source-code/70367#post_3)
-- [How to read the value of callee saved register?](https://discourse.llvm.org/t/how-to-read-the-value-of-callee-saved-register/70363#post_7)
-- [Opening up PRs experimentally for a subset of the LLVM project](https://discourse.llvm.org/t/opening-up-prs-experimentally-for-a-subset-of-the-llvm-project/70375#post_6)
-- [How to read the value of callee saved register?](https://discourse.llvm.org/t/how-to-read-the-value-of-callee-saved-register/70363#post_6)
+- [Changing &quot;backend: &lt;foo&gt;&quot; labels on GitHub to not being backend specific?](https://discourse.llvm.org/t/changing-backend-foo-labels-on-github-to-not-being-backend-specific/70359#post_6)
+- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_12)
+- [Changing &quot;backend: &lt;foo&gt;&quot; labels on GitHub to not being backend specific?](https://discourse.llvm.org/t/changing-backend-foo-labels-on-github-to-not-being-backend-specific/70359#post_5)
+- [Opening up PRs experimentally for a subset of the LLVM project](https://discourse.llvm.org/t/opening-up-prs-experimentally-for-a-subset-of-the-llvm-project/70375#post_8)
+- [Clang warnings on uninitialized variables](https://discourse.llvm.org/t/clang-warnings-on-uninitialized-variables/70353#post_14)
 <!-- DISCOURSE-LLVM:END -->
