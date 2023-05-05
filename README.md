@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to assemble x86 assembly code with clang?](https://discourse.llvm.org/t/how-to-assemble-x86-assembly-code-with-clang/70421#post_2)
-- [How to assemble x86 assembly code with clang?](https://discourse.llvm.org/t/how-to-assemble-x86-assembly-code-with-clang/70421#post_1)
-- [[RFC] Scalable Vectorisation in Linalg](https://discourse.llvm.org/t/rfc-scalable-vectorisation-in-linalg/70419#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_69)
-- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_14)
+- [How to assemble x86 assembly code with clang?](https://discourse.llvm.org/t/how-to-assemble-x86-assembly-code-with-clang/70421#post_5)
+- [How to assemble x86 assembly code with clang?](https://discourse.llvm.org/t/how-to-assemble-x86-assembly-code-with-clang/70421#post_4)
+- [[RFC] Restructure Clang&#39;s diagnostic objects to allow for nested diagnostics](https://discourse.llvm.org/t/rfc-restructure-clangs-diagnostic-objects-to-allow-for-nested-diagnostics/70249#post_9)
+- [[RFC] Restructure Clang&#39;s diagnostic objects to allow for nested diagnostics](https://discourse.llvm.org/t/rfc-restructure-clangs-diagnostic-objects-to-allow-for-nested-diagnostics/70249#post_8)
+- [How to assemble x86 assembly code with clang?](https://discourse.llvm.org/t/how-to-assemble-x86-assembly-code-with-clang/70421#post_3)
 <!-- DISCOURSE-LLVM:END -->
