@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_13)
+- [Can we solve equality constraint in `ConstraintElimination` pass](https://discourse.llvm.org/t/can-we-solve-equality-constraint-in-constraintelimination-pass/70405#post_1)
 - [16.0.3 has been tagged](https://discourse.llvm.org/t/16-0-3-has-been-tagged/70340#post_5)
 - [Changing &quot;backend: &lt;foo&gt;&quot; labels on GitHub to not being backend specific?](https://discourse.llvm.org/t/changing-backend-foo-labels-on-github-to-not-being-backend-specific/70359#post_8)
 - [Add serialized remarks blocks in bitcode produced](https://discourse.llvm.org/t/add-serialized-remarks-blocks-in-bitcode-produced/70402#post_1)
-- [Opening up PRs experimentally for a subset of the LLVM project](https://discourse.llvm.org/t/opening-up-prs-experimentally-for-a-subset-of-the-llvm-project/70375#post_10)
-- [&quot;isolated&quot; live interval segment with no defs in the predecessors: should the verifier have caught it?](https://discourse.llvm.org/t/isolated-live-interval-segment-with-no-defs-in-the-predecessors-should-the-verifier-have-caught-it/70376#post_3)
 <!-- DISCOURSE-LLVM:END -->
