@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to emit data to custom section](https://discourse.llvm.org/t/how-to-emit-data-to-custom-section/70417#post_1)
-- [[RFC] Refactor Triple-related classes](https://discourse.llvm.org/t/rfc-refactor-triple-related-classes/70410#post_5)
-- [16.0.3 has been tagged](https://discourse.llvm.org/t/16-0-3-has-been-tagged/70340#post_6)
-- [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_2)
-- [Clang-plugin. How to compile/link out of tree ? Linking error on some machines](https://discourse.llvm.org/t/clang-plugin-how-to-compile-link-out-of-tree-linking-error-on-some-machines/70408#post_4)
+- [Does MLIR supports CUDA source code generation?](https://discourse.llvm.org/t/does-mlir-supports-cuda-source-code-generation/70418#post_2)
+- [Opening up PRs experimentally for a subset of the LLVM project](https://discourse.llvm.org/t/opening-up-prs-experimentally-for-a-subset-of-the-llvm-project/70375#post_11)
+- [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_3)
+- [How to emit data to custom section](https://discourse.llvm.org/t/how-to-emit-data-to-custom-section/70417#post_3)
+- [Does MLIR supports CUDA source code generation?](https://discourse.llvm.org/t/does-mlir-supports-cuda-source-code-generation/70418#post_1)
 <!-- DISCOURSE-LLVM:END -->
