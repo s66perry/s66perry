@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_3)
+- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_2)
+- [Hack Backend &lpar;insert DAG node with Machine Instructions&rpar;](https://discourse.llvm.org/t/hack-backend-insert-dag-node-with-machine-instructions/70432#post_1)
 - [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_4)
 - [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_3)
-- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_2)
-- [[RFC] Restructure Clang&#39;s diagnostic objects to allow for nested diagnostics](https://discourse.llvm.org/t/rfc-restructure-clangs-diagnostic-objects-to-allow-for-nested-diagnostics/70249#post_10)
-- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212#post_17)
 <!-- DISCOURSE-LLVM:END -->
