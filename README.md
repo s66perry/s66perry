@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to handle pointer relocation in LLVM?](https://discourse.llvm.org/t/how-to-handle-pointer-relocation-in-llvm/70427#post_1)
+- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_1)
 - [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_2)
 - [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_1)
 - [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_1)
-- [Sparse Compiler and GPU Code-Generation](https://discourse.llvm.org/t/sparse-compiler-and-gpu-code-generation/69786#post_2)
-- [Failed to create arith::IndexCastOp -- a strange bug](https://discourse.llvm.org/t/failed-to-create-arith-indexcastop-a-strange-bug/70372#post_2)
 <!-- DISCOURSE-LLVM:END -->
