@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Hack Backend &lpar;insert DAG node with Machine Instructions&rpar;](https://discourse.llvm.org/t/hack-backend-insert-dag-node-with-machine-instructions/70432#post_2)
-- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_7)
-- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_6)
-- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_5)
-- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_3)
+- [[RFC] Refactor Triple-related classes](https://discourse.llvm.org/t/rfc-refactor-triple-related-classes/70410#post_9)
+- [Problem with library search paths and cmake and debian bullseye](https://discourse.llvm.org/t/problem-with-library-search-paths-and-cmake-and-debian-bullseye/67183#post_2)
+- [Hack Backend &lpar;Manipulate Machine Instructions before Assembly&rpar;](https://discourse.llvm.org/t/hack-backend-manipulate-machine-instructions-before-assembly/70432#post_3)
+- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_8)
+- [Hack Backend &lpar;Manipulate Machine Instructions before Assembly&rpar;](https://discourse.llvm.org/t/hack-backend-manipulate-machine-instructions-before-assembly/70432#post_2)
 <!-- DISCOURSE-LLVM:END -->
