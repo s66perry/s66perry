@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_1)
+- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_1)
 - [Sparse Compiler and GPU Code-Generation](https://discourse.llvm.org/t/sparse-compiler-and-gpu-code-generation/69786#post_2)
 - [Failed to create arith::IndexCastOp -- a strange bug](https://discourse.llvm.org/t/failed-to-create-arith-indexcastop-a-strange-bug/70372#post_2)
 - [A question about Intrinsic](https://discourse.llvm.org/t/a-question-about-intrinsic/70320#post_16)
-- [[Coverage] Support a hierarchical directory structure in generated coverage html reports](https://discourse.llvm.org/t/coverage-support-a-hierarchical-directory-structure-in-generated-coverage-html-reports/68239#post_16)
-- [When There Are No Bytes](https://discourse.llvm.org/t/when-there-are-no-bytes/70352#post_7)
 <!-- DISCOURSE-LLVM:END -->
