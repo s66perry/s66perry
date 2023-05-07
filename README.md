@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Replacing a result value with multiple values &lpar;Error&rpar;](https://discourse.llvm.org/t/replacing-a-result-value-with-multiple-values-error/3221#post_6)
+- [When There Are No Bytes](https://discourse.llvm.org/t/when-there-are-no-bytes/70352#post_9)
+- [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_5)
 - [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_9)
 - [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_4)
-- [Estimating shape bounds for tensors and using worst-case amount of memory](https://discourse.llvm.org/t/estimating-shape-bounds-for-tensors-and-using-worst-case-amount-of-memory/70428#post_2)
-- [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_3)
-- [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_2)
 <!-- DISCOURSE-LLVM:END -->
