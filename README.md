@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [When There Are No Bytes](https://discourse.llvm.org/t/when-there-are-no-bytes/70352#post_10)
 - [Estimating shape bounds for tensors and using worst-case amount of memory](https://discourse.llvm.org/t/estimating-shape-bounds-for-tensors-and-using-worst-case-amount-of-memory/70428#post_5)
 - [Estimating shape bounds for tensors and using worst-case amount of memory](https://discourse.llvm.org/t/estimating-shape-bounds-for-tensors-and-using-worst-case-amount-of-memory/70428#post_4)
 - [Confused about modularity](https://discourse.llvm.org/t/confused-about-modularity/64951#post_10)
 - [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_15)
-- [Under exceptions disabled, operator new returns null pointer for failed allocation instead of aborting](https://discourse.llvm.org/t/under-exceptions-disabled-operator-new-returns-null-pointer-for-failed-allocation-instead-of-aborting/70283#post_4)
 <!-- DISCOURSE-LLVM:END -->
