@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [When There Are No Bytes](https://discourse.llvm.org/t/when-there-are-no-bytes/70352#post_10)
-- [Estimating shape bounds for tensors and using worst-case amount of memory](https://discourse.llvm.org/t/estimating-shape-bounds-for-tensors-and-using-worst-case-amount-of-memory/70428#post_5)
-- [Estimating shape bounds for tensors and using worst-case amount of memory](https://discourse.llvm.org/t/estimating-shape-bounds-for-tensors-and-using-worst-case-amount-of-memory/70428#post_4)
-- [Confused about modularity](https://discourse.llvm.org/t/confused-about-modularity/64951#post_10)
-- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_15)
+- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_3)
+- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_2)
+- [How to map a MachineInstr to multiple MCInst?](https://discourse.llvm.org/t/how-to-map-a-machineinstr-to-multiple-mcinst/70450#post_2)
+- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_1)
+- [Can we solve equality constraint in `ConstraintElimination` pass](https://discourse.llvm.org/t/can-we-solve-equality-constraint-in-constraintelimination-pass/70405#post_3)
 <!-- DISCOURSE-LLVM:END -->
