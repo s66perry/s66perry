@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Estimating shape bounds for tensors and using worst-case amount of memory](https://discourse.llvm.org/t/estimating-shape-bounds-for-tensors-and-using-worst-case-amount-of-memory/70428#post_4)
+- [Confused about modularity](https://discourse.llvm.org/t/confused-about-modularity/64951#post_10)
+- [RFC: Use Attributes to Model Distinct LLVM Metadata Nodes](https://discourse.llvm.org/t/rfc-use-attributes-to-model-distinct-llvm-metadata-nodes/69924#post_15)
 - [Under exceptions disabled, operator new returns null pointer for failed allocation instead of aborting](https://discourse.llvm.org/t/under-exceptions-disabled-operator-new-returns-null-pointer-for-failed-allocation-instead-of-aborting/70283#post_4)
 - [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_7)
-- [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_6)
-- [Estimating shape bounds for tensors and using worst-case amount of memory](https://discourse.llvm.org/t/estimating-shape-bounds-for-tensors-and-using-worst-case-amount-of-memory/70428#post_3)
-- [How to map a MachineInstr to multiple MCInst?](https://discourse.llvm.org/t/how-to-map-a-machineinstr-to-multiple-mcinst/70450#post_1)
 <!-- DISCOURSE-LLVM:END -->
