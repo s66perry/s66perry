@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Bay Area Monthly Meetup &lpar;Mon May 29 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-29-23-6pm/70453#post_1)
 - [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_4)
 - [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_3)
 - [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_2)
 - [How to map a MachineInstr to multiple MCInst?](https://discourse.llvm.org/t/how-to-map-a-machineinstr-to-multiple-mcinst/70450#post_2)
-- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_1)
 <!-- DISCOURSE-LLVM:END -->
