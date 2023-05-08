@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #488, May 8th 2023](https://discourse.llvm.org/t/llvm-weekly-488-may-8th-2023/70467#post_1)
-- [[RFC] Vector math function loop idiom recognition](https://discourse.llvm.org/t/rfc-vector-math-function-loop-idiom-recognition/70465#post_1)
-- [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_5)
-- [Confused about modularity](https://discourse.llvm.org/t/confused-about-modularity/64951#post_11)
-- [When There Are No Bytes](https://discourse.llvm.org/t/when-there-are-no-bytes/70352#post_14)
+- [Adding a JSON diff tool to Clang&#39;s CI](https://discourse.llvm.org/t/adding-a-json-diff-tool-to-clangs-ci/70174?page=2#post_22)
+- [Reading data using external cpp file](https://discourse.llvm.org/t/reading-data-using-external-cpp-file/70361#post_11)
+- [Can we solve equality constraint in `ConstraintElimination` pass](https://discourse.llvm.org/t/can-we-solve-equality-constraint-in-constraintelimination-pass/70405#post_4)
+- [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_6)
+- [[RFC] Exclude issues from system headers as early as posible](https://discourse.llvm.org/t/rfc-exclude-issues-from-system-headers-as-early-as-posible/68483#post_10)
 <!-- DISCOURSE-LLVM:END -->
