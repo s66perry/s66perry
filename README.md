@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_82)
+- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_7)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon May 29 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-29-23-6pm/70453#post_3)
 - [[RFC] Proposing optimization for special kind of switches on enums](https://discourse.llvm.org/t/rfc-proposing-optimization-for-special-kind-of-switches-on-enums/70457#post_4)
 - [RFC: Lets just call it C++26 and forget about the C++2c business &lpar;at least, internally&rpar;](https://discourse.llvm.org/t/rfc-lets-just-call-it-c-26-and-forget-about-the-c-2c-business-at-least-internally/70383#post_10)
-- [How to reduce stack usage in PTX using opt](https://discourse.llvm.org/t/how-to-reduce-stack-usage-in-ptx-using-opt/70473#post_2)
-- [Public symbol for private llvm variables in LLC](https://discourse.llvm.org/t/public-symbol-for-private-llvm-variables-in-llc/70472#post_4)
-- [Is there a reason why optimization remarks aren&#39;t supported for full lto?](https://discourse.llvm.org/t/is-there-a-reason-why-optimization-remarks-arent-supported-for-full-lto/70471#post_2)
 <!-- DISCOURSE-LLVM:END -->
