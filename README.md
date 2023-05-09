@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question: Clang vs LLVM data layout](https://discourse.llvm.org/t/question-clang-vs-llvm-data-layout/68262#post_3)
+- [How to compile chisel to HW?](https://discourse.llvm.org/t/how-to-compile-chisel-to-hw/70478#post_3)
+- [How to compile chisel to HW?](https://discourse.llvm.org/t/how-to-compile-chisel-to-hw/70478#post_2)
+- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_8)
 - [Sparse Compiler and GPU Code-Generation](https://discourse.llvm.org/t/sparse-compiler-and-gpu-code-generation/69786#post_5)
-- [How to compile chisel to HW?](https://discourse.llvm.org/t/how-to-compile-chisel-to-hw/70478#post_1)
-- [Sparse Compiler and GPU Code-Generation](https://discourse.llvm.org/t/sparse-compiler-and-gpu-code-generation/69786#post_4)
-- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543#post_13)
-- [Any way to bug report a clangd memory leak?](https://discourse.llvm.org/t/any-way-to-bug-report-a-clangd-memory-leak/70477#post_1)
 <!-- DISCOURSE-LLVM:END -->
