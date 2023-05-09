@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Register alignment in RISCV](https://discourse.llvm.org/t/register-alignment-in-riscv/70502#post_2)
-- [16.0.3 has been tagged](https://discourse.llvm.org/t/16-0-3-has-been-tagged/70340#post_7)
-- [Compiling Kaleidoscope tutorial: error: incomplete type &#39;llvm::APFloat&#39;](https://discourse.llvm.org/t/compiling-kaleidoscope-tutorial-error-incomplete-type-llvm-apfloat/70512#post_1)
-- [Problems with code model large and relocations](https://discourse.llvm.org/t/problems-with-code-model-large-and-relocations/70511#post_1)
-- [Zero initialization for globals with common linkage](https://discourse.llvm.org/t/zero-initialization-for-globals-with-common-linkage/1762#post_7)
+- [Public symbol for private llvm variables in LLC](https://discourse.llvm.org/t/public-symbol-for-private-llvm-variables-in-llc/70472#post_7)
+- [Problems with code model large and relocations](https://discourse.llvm.org/t/problems-with-code-model-large-and-relocations/70511#post_2)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_70)
+- [Public symbol for private llvm variables in LLC](https://discourse.llvm.org/t/public-symbol-for-private-llvm-variables-in-llc/70472#post_6)
+- [Public symbol for private llvm variables in LLC](https://discourse.llvm.org/t/public-symbol-for-private-llvm-variables-in-llc/70472#post_5)
 <!-- DISCOURSE-LLVM:END -->
