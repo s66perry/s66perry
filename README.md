@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Scalable Vectorisation in Linalg](https://discourse.llvm.org/t/rfc-scalable-vectorisation-in-linalg/70419#post_6)
-- [Question: convert vector to mma ops](https://discourse.llvm.org/t/question-convert-vector-to-mma-ops/70498#post_2)
-- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_4)
-- [Question: convert vector to mma ops](https://discourse.llvm.org/t/question-convert-vector-to-mma-ops/70498#post_1)
-- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_5)
+- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_3)
+- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_2)
+- [Register alignment in RISCV](https://discourse.llvm.org/t/register-alignment-in-riscv/70502#post_1)
+- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_1)
+- [RFC: Lets just call it C++26 and forget about the C++2c business &lpar;at least, internally&rpar;](https://discourse.llvm.org/t/rfc-lets-just-call-it-c-26-and-forget-about-the-c-2c-business-at-least-internally/70383#post_12)
 <!-- DISCOURSE-LLVM:END -->
