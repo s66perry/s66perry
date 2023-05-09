@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_3)
-- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_2)
-- [Register alignment in RISCV](https://discourse.llvm.org/t/register-alignment-in-riscv/70502#post_1)
-- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_1)
-- [RFC: Lets just call it C++26 and forget about the C++2c business &lpar;at least, internally&rpar;](https://discourse.llvm.org/t/rfc-lets-just-call-it-c-26-and-forget-about-the-c-2c-business-at-least-internally/70383#post_12)
+- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_8)
+- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_7)
+- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_6)
+- [How to compile program with built-in __bf16 type?](https://discourse.llvm.org/t/how-to-compile-program-with-built-in-bf16-type/70501#post_5)
+- [Is there a reason why optimization remarks aren&#39;t supported for full lto?](https://discourse.llvm.org/t/is-there-a-reason-why-optimization-remarks-arent-supported-for-full-lto/70471#post_3)
 <!-- DISCOURSE-LLVM:END -->
