@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_5)
 - [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_4)
 - [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_3)
 - [Newbie question regarding addArgumentMaterialization function](https://discourse.llvm.org/t/newbie-question-regarding-addargumentmaterialization-function/70487#post_2)
 - [TableGen based backend development for custom architecture](https://discourse.llvm.org/t/tablegen-based-backend-development-for-custom-architecture/70488#post_5)
-- [TableGen based backend development for custom architecture](https://discourse.llvm.org/t/tablegen-based-backend-development-for-custom-architecture/70488#post_4)
 <!-- DISCOURSE-LLVM:END -->
