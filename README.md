@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_13)
+- [Design help for an array-based application with memrefs and affine maps](https://discourse.llvm.org/t/design-help-for-an-array-based-application-with-memrefs-and-affine-maps/70546#post_1)
+- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_12)
 - [Does clang support CUDA&#39;s dynamic parallelism feature?](https://discourse.llvm.org/t/does-clang-support-cudas-dynamic-parallelism-feature/68373#post_4)
 - [Tosa.reduce_sum with tuple axis](https://discourse.llvm.org/t/tosa-reduce-sum-with-tuple-axis/70518#post_3)
-- [How should I fix &quot;failed to legalize operation &#39;builtin.unrealized_conversion_cast&#39; that was explicitly marked illegal&quot;](https://discourse.llvm.org/t/how-should-i-fix-failed-to-legalize-operation-builtin-unrealized-conversion-cast-that-was-explicitly-marked-illegal/70529#post_3)
-- [How to get pthread pointer from lldb?](https://discourse.llvm.org/t/how-to-get-pthread-pointer-from-lldb/70542#post_1)
-- [Is it safe to erase the current operation in the callback of walk traversal?](https://discourse.llvm.org/t/is-it-safe-to-erase-the-current-operation-in-the-callback-of-walk-traversal/70523#post_3)
 <!-- DISCOURSE-LLVM:END -->
