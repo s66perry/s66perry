@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_84)
+- [Moving some `DefaultIgnore` warnings into on-by-default](https://discourse.llvm.org/t/moving-some-defaultignore-warnings-into-on-by-default/70540#post_3)
+- [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_14)
+- [Moving some `DefaultIgnore` warnings into on-by-default](https://discourse.llvm.org/t/moving-some-defaultignore-warnings-into-on-by-default/70540#post_2)
 - [Moving some `DefaultIgnore` warnings into on-by-default](https://discourse.llvm.org/t/moving-some-defaultignore-warnings-into-on-by-default/70540#post_1)
-- [Sunsetting the MLIR-HLO repository](https://discourse.llvm.org/t/sunsetting-the-mlir-hlo-repository/70536#post_2)
-- [Sunsetting the MLIR-HLO repository](https://discourse.llvm.org/t/sunsetting-the-mlir-hlo-repository/70536#post_1)
-- [Lowering of scatter operations](https://discourse.llvm.org/t/lowering-of-scatter-operations/70535#post_1)
-- [Tosa.reduce_sum with tuple axis](https://discourse.llvm.org/t/tosa-reduce-sum-with-tuple-axis/70518#post_2)
 <!-- DISCOURSE-LLVM:END -->
