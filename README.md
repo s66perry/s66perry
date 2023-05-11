@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Moving some `DefaultIgnore` warnings into on-by-default](https://discourse.llvm.org/t/moving-some-defaultignore-warnings-into-on-by-default/70540#post_10)
-- [C-API for NewPM](https://discourse.llvm.org/t/c-api-for-newpm/70561#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_72)
-- [Moving some `DefaultIgnore` warnings into on-by-default](https://discourse.llvm.org/t/moving-some-defaultignore-warnings-into-on-by-default/70540#post_9)
-- [[DWARF][dsymutil] Deduplication of types with incomplete typedefs](https://discourse.llvm.org/t/dwarf-dsymutil-deduplication-of-types-with-incomplete-typedefs/70392#post_7)
+- [RFC: Lets just call it C++26 and forget about the C++2c business &lpar;at least, internally&rpar;](https://discourse.llvm.org/t/rfc-lets-just-call-it-c-26-and-forget-about-the-c-2c-business-at-least-internally/70383#post_14)
+- [RFC: Introduce generic predicated COPY opcode](https://discourse.llvm.org/t/rfc-introduce-generic-predicated-copy-opcode/68494#post_11)
+- [RFC: Lets just call it C++26 and forget about the C++2c business &lpar;at least, internally&rpar;](https://discourse.llvm.org/t/rfc-lets-just-call-it-c-26-and-forget-about-the-c-2c-business-at-least-internally/70383#post_13)
+- [How to emit data to custom section](https://discourse.llvm.org/t/how-to-emit-data-to-custom-section/70417#post_6)
+- [Moving some `DefaultIgnore` warnings into on-by-default](https://discourse.llvm.org/t/moving-some-defaultignore-warnings-into-on-by-default/70540#post_11)
 <!-- DISCOURSE-LLVM:END -->
