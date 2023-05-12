@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Pre-merge checks updates May 2023](https://discourse.llvm.org/t/pre-merge-checks-updates-may-2023/70589#post_5)
-- [[RFC][premerge] Moving premerge CI scripts to https://github.com/llvm](https://discourse.llvm.org/t/rfc-premerge-moving-premerge-ci-scripts-to-https-github-com-llvm/70586#post_3)
-- [Pre-merge checks updates May 2023](https://discourse.llvm.org/t/pre-merge-checks-updates-may-2023/70589#post_4)
-- [[RFC][premerges] Disable Some Tests to Remove False Positives](https://discourse.llvm.org/t/rfc-premerges-disable-some-tests-to-remove-false-positives/70587#post_3)
-- [Pre-merge checks updates May 2023](https://discourse.llvm.org/t/pre-merge-checks-updates-may-2023/70589#post_3)
+- [Getting assert error due to 32/64-bit issues, but on a 64-bit OS in RuntimeDyldELF::resolveX86_64Relocation](https://discourse.llvm.org/t/getting-assert-error-due-to-32-64-bit-issues-but-on-a-64-bit-os-in-runtimedyldelf-resolvex86-64relocation/70595#post_2)
+- [Getting assert error due to 32/64-bit issues, but on a 64-bit OS in RuntimeDyldELF::resolveX86_64Relocation](https://discourse.llvm.org/t/getting-assert-error-due-to-32-64-bit-issues-but-on-a-64-bit-os-in-runtimedyldelf-resolvex86-64relocation/70595#post_1)
+- [Type information of a function from Opaque Pointer](https://discourse.llvm.org/t/type-information-of-a-function-from-opaque-pointer/70593#post_5)
+- [Type information of a function from Opaque Pointer](https://discourse.llvm.org/t/type-information-of-a-function-from-opaque-pointer/70593#post_4)
+- [Type information of a function from Opaque Pointer](https://discourse.llvm.org/t/type-information-of-a-function-from-opaque-pointer/70593#post_3)
 <!-- DISCOURSE-LLVM:END -->
