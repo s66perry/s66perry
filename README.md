@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Pre-merge checks updates May 2023](https://discourse.llvm.org/t/pre-merge-checks-updates-may-2023/70589#post_2)
+- [TableGen based backend development for custom architecture](https://discourse.llvm.org/t/tablegen-based-backend-development-for-custom-architecture/70488#post_8)
+- [Beyond the Kaleidoscope tutorial - books?](https://discourse.llvm.org/t/beyond-the-kaleidoscope-tutorial-books/70571#post_4)
+- [Type information of a function from Opaque Pointer](https://discourse.llvm.org/t/type-information-of-a-function-from-opaque-pointer/70593#post_1)
 - [[RFC] Introduce named constraints &lpar;aka IR concepts&rpar;](https://discourse.llvm.org/t/rfc-introduce-named-constraints-aka-ir-concepts/70591#post_1)
-- [RFC: Introduce generic predicated COPY opcode](https://discourse.llvm.org/t/rfc-introduce-generic-predicated-copy-opcode/68494#post_13)
-- [RFC: Lets just call it C++26 and forget about the C++2c business &lpar;at least, internally&rpar;](https://discourse.llvm.org/t/rfc-lets-just-call-it-c-26-and-forget-about-the-c-2c-business-at-least-internally/70383#post_15)
-- [[RFC][premerge] enabling pull-requests from a bot user](https://discourse.llvm.org/t/rfc-premerge-enabling-pull-requests-from-a-bot-user/70588#post_2)
-- [Pre-merge checks updates May 2023](https://discourse.llvm.org/t/pre-merge-checks-updates-may-2023/70589#post_1)
 <!-- DISCOURSE-LLVM:END -->
