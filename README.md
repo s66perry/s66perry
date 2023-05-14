@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Copyright notice for the repository?](https://discourse.llvm.org/t/copyright-notice-for-the-repository/70597#post_2)
 - [It is unclear how scan-build overrides the CC](https://discourse.llvm.org/t/it-is-unclear-how-scan-build-overrides-the-cc/70618#post_5)
 - [Type information of a function from Opaque Pointer](https://discourse.llvm.org/t/type-information-of-a-function-from-opaque-pointer/70593#post_12)
 - [Type information of a function from Opaque Pointer](https://discourse.llvm.org/t/type-information-of-a-function-from-opaque-pointer/70593#post_11)
 - [It is unclear how scan-build overrides the CC](https://discourse.llvm.org/t/it-is-unclear-how-scan-build-overrides-the-cc/70618#post_4)
-- [It is unclear how scan-build overrides the CC](https://discourse.llvm.org/t/it-is-unclear-how-scan-build-overrides-the-cc/70618#post_3)
 <!-- DISCOURSE-LLVM:END -->
