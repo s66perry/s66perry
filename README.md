@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_5)
-- [TableGen based backend development for custom architecture](https://discourse.llvm.org/t/tablegen-based-backend-development-for-custom-architecture/70488#post_10)
-- [LLVM IR parse error when the llvmlite dependency from 0.36.0 to 0.40.0 &lpar;llvm upgrade to 14&rpar;](https://discourse.llvm.org/t/llvm-ir-parse-error-when-the-llvmlite-dependency-from-0-36-0-to-0-40-0-llvm-upgrade-to-14/70636#post_1)
-- [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_4)
-- [How to get pthread pointer from lldb?](https://discourse.llvm.org/t/how-to-get-pthread-pointer-from-lldb/70542#post_2)
+- [Having the super-reg wrapper over the SPE registers in PPC](https://discourse.llvm.org/t/having-the-super-reg-wrapper-over-the-spe-registers-in-ppc/70640#post_1)
+- [Pre-merge checks updates May 2023](https://discourse.llvm.org/t/pre-merge-checks-updates-may-2023/70589#post_7)
+- [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_7)
+- [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_6)
+- [[RFC][premerges] Disable Some Tests to Remove False Positives](https://discourse.llvm.org/t/rfc-premerges-disable-some-tests-to-remove-false-positives/70587#post_4)
 <!-- DISCOURSE-LLVM:END -->
