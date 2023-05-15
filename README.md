@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM IR parse error when the llvmlite dependency from 0.36.0 to 0.40.0 &lpar;llvm upgrade to 14&rpar;](https://discourse.llvm.org/t/llvm-ir-parse-error-when-the-llvmlite-dependency-from-0-36-0-to-0-40-0-llvm-upgrade-to-14/70636#post_1)
+- [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_4)
 - [How to get pthread pointer from lldb?](https://discourse.llvm.org/t/how-to-get-pthread-pointer-from-lldb/70542#post_2)
 - [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_8)
 - [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_3)
-- [[RFC] Generic selection expression with a type operand](https://discourse.llvm.org/t/rfc-generic-selection-expression-with-a-type-operand/70388#post_6)
-- [Memref of vector type](https://discourse.llvm.org/t/memref-of-vector-type/70628#post_2)
 <!-- DISCOURSE-LLVM:END -->
