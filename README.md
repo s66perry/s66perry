@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RISCV Sign Extension Optimizations CorrelatedValuePropagation](https://discourse.llvm.org/t/riscv-sign-extension-optimizations-correlatedvaluepropagation/70647#post_2)
+- [RFH: -global-isel-abort=1|2](https://discourse.llvm.org/t/rfh-global-isel-abort-1-2/70607#post_3)
+- [RISCV Sign Extension Optimizations CorrelatedValuePropagation](https://discourse.llvm.org/t/riscv-sign-extension-optimizations-correlatedvaluepropagation/70647#post_1)
 - [Low level representation](https://discourse.llvm.org/t/low-level-representation/70547#post_8)
 - [RFH: -global-isel-abort=1|2](https://discourse.llvm.org/t/rfh-global-isel-abort-1-2/70607#post_2)
-- [Type annotations for libclang, Python bindings](https://discourse.llvm.org/t/type-annotations-for-libclang-python-bindings/70644#post_1)
-- [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_2)
-- [Semantictokens?](https://discourse.llvm.org/t/semantictokens/70574#post_2)
 <!-- DISCOURSE-LLVM:END -->
