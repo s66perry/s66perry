@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introduce named constraints &lpar;aka IR concepts&rpar;](https://discourse.llvm.org/t/rfc-introduce-named-constraints-aka-ir-concepts/70591#post_5)
-- [[Clang][OpenCL] Bug in handling non-extern inline function definition when optimization is disabled?](https://discourse.llvm.org/t/clang-opencl-bug-in-handling-non-extern-inline-function-definition-when-optimization-is-disabled/70671#post_2)
-- [[Clang][OpenCL] Bug in handling non-extern inline function definition when optimization is disabled?](https://discourse.llvm.org/t/clang-opencl-bug-in-handling-non-extern-inline-function-definition-when-optimization-is-disabled/70671#post_1)
-- [[RFC] Introduce the concept of IR listeners in MLIR](https://discourse.llvm.org/t/rfc-introduce-the-concept-of-ir-listeners-in-mlir/67854?page=2#post_33)
-- [Create a new dialect in toy example in mlir](https://discourse.llvm.org/t/create-a-new-dialect-in-toy-example-in-mlir/70651#post_4)
+- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_11)
+- [[PSA] Split Linalg vectoriser tests across multiple files](https://discourse.llvm.org/t/psa-split-linalg-vectoriser-tests-across-multiple-files/70677#post_1)
+- [Create a new dialect in toy example in mlir](https://discourse.llvm.org/t/create-a-new-dialect-in-toy-example-in-mlir/70651#post_5)
+- [Hardware requirements to build LLVM](https://discourse.llvm.org/t/hardware-requirements-to-build-llvm/70675#post_3)
+- [Hardware requirements to build LLVM](https://discourse.llvm.org/t/hardware-requirements-to-build-llvm/70675#post_2)
 <!-- DISCOURSE-LLVM:END -->
