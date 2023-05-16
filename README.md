@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_2)
-- [Apply for the ownership of the AVR backend](https://discourse.llvm.org/t/apply-for-the-ownership-of-the-avr-backend/70624#post_3)
-- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_1)
-- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422#post_11)
-- [[PSA] Split Linalg vectoriser tests across multiple files](https://discourse.llvm.org/t/psa-split-linalg-vectoriser-tests-across-multiple-files/70677#post_1)
+- [C-API for NewPM](https://discourse.llvm.org/t/c-api-for-newpm/70561#post_3)
+- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900?page=2#post_31)
+- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900?page=2#post_30)
+- [Loop Opt WG Meeting on May 17, 2023](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-may-17-2023/70681#post_1)
+- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
