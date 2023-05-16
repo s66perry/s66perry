@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_4)
-- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900?page=2#post_27)
-- [PSA: All structured &lpar;linalg&rpar; transform ops now require types](https://discourse.llvm.org/t/psa-all-structured-linalg-transform-ops-now-require-types/70663#post_1)
-- [Create a new dialect in toy example in mlir](https://discourse.llvm.org/t/create-a-new-dialect-in-toy-example-in-mlir/70651#post_3)
-- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_6)
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_55)
+- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900?page=2#post_28)
+- [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_7)
+- [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_6)
+- [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_5)
 <!-- DISCOURSE-LLVM:END -->
