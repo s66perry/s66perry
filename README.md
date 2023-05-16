@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The doubt to LLVM.org-How to add the new type?](https://discourse.llvm.org/t/the-doubt-to-llvm-org-how-to-add-the-new-type/45503#post_3)
 - [RFH: -global-isel-abort=1|2](https://discourse.llvm.org/t/rfh-global-isel-abort-1-2/70607#post_6)
 - [RFH: -global-isel-abort=1|2](https://discourse.llvm.org/t/rfh-global-isel-abort-1-2/70607#post_5)
 - [It is unclear how scan-build overrides the CC](https://discourse.llvm.org/t/it-is-unclear-how-scan-build-overrides-the-cc/70618#post_6)
 - [[RFC] Improving Clang&#39;s middle and back end diagnostics](https://discourse.llvm.org/t/rfc-improving-clangs-middle-and-back-end-diagnostics/69261#post_17)
-- [[RFC] Introduce named constraints &lpar;aka IR concepts&rpar;](https://discourse.llvm.org/t/rfc-introduce-named-constraints-aka-ir-concepts/70591#post_2)
 <!-- DISCOURSE-LLVM:END -->
