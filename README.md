@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [The latest version of llc generates an asm file that automatically adds zicsr2p0 to the .attribute](https://discourse.llvm.org/t/the-latest-version-of-llc-generates-an-asm-file-that-automatically-adds-zicsr2p0-to-the-attribute/70698#post_8)
-- [[RFC] Upgrading LLVM&#39;s minimum required CMake version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-cmake-version/66193#post_20)
-- [The latest version of llc generates an asm file that automatically adds zicsr2p0 to the .attribute](https://discourse.llvm.org/t/the-latest-version-of-llc-generates-an-asm-file-that-automatically-adds-zicsr2p0-to-the-attribute/70698#post_7)
-- [The latest version of llc generates an asm file that automatically adds zicsr2p0 to the .attribute](https://discourse.llvm.org/t/the-latest-version-of-llc-generates-an-asm-file-that-automatically-adds-zicsr2p0-to-the-attribute/70698#post_6)
-- [The latest version of llc generates an asm file that automatically adds zicsr2p0 to the .attribute](https://discourse.llvm.org/t/the-latest-version-of-llc-generates-an-asm-file-that-automatically-adds-zicsr2p0-to-the-attribute/70698#post_5)
+- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_16)
+- [[RFC] Vector math function loop idiom recognition](https://discourse.llvm.org/t/rfc-vector-math-function-loop-idiom-recognition/70465#post_4)
+- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_15)
+- [RFC: [C++23] P1467R9 - Extended floating-point types and standard names](https://discourse.llvm.org/t/rfc-c-23-p1467r9-extended-floating-point-types-and-standard-names/70033?page=2#post_31)
+- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_14)
 <!-- DISCOURSE-LLVM:END -->
