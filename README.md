@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_4)
+- [Does MLIR supports CUDA source code generation?](https://discourse.llvm.org/t/does-mlir-supports-cuda-source-code-generation/70418#post_4)
+- [16.0.4 has been tagged](https://discourse.llvm.org/t/16-0-4-has-been-tagged/70693#post_1)
+- [16.0.4 Release](https://discourse.llvm.org/t/16-0-4-release/70692#post_1)
 - [Is there a hub for plugins?](https://discourse.llvm.org/t/is-there-a-hub-for-plugins/70689#post_1)
-- [User questions](https://discourse.llvm.org/t/user-questions/70688#post_1)
-- [Emission of CFI directives, CFI_remember_state and CFI_restore state in the epilogue for RISC-V](https://discourse.llvm.org/t/emission-of-cfi-directives-cfi-remember-state-and-cfi-restore-state-in-the-epilogue-for-risc-v/69648#post_3)
-- [Type annotations for libclang, Python bindings](https://discourse.llvm.org/t/type-annotations-for-libclang-python-bindings/70644#post_6)
-- [[C++20] [Modules] Should the BMIs contain paths to their dependent BMIs?](https://discourse.llvm.org/t/c-20-modules-should-the-bmis-contain-paths-to-their-dependent-bmis/70422?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
