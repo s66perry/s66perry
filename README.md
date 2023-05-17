@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM IR parse error when the llvmlite dependency from 0.36.0 to 0.40.0 &lpar;llvm upgrade to 14&rpar;](https://discourse.llvm.org/t/llvm-ir-parse-error-when-the-llvmlite-dependency-from-0-36-0-to-0-40-0-llvm-upgrade-to-14/70636#post_3)
+- [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_10)
+- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_9)
+- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_8)
 - [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_9)
-- [16.0.4 has been tagged](https://discourse.llvm.org/t/16-0-4-has-been-tagged/70693#post_2)
-- [Hardware requirements to build LLVM](https://discourse.llvm.org/t/hardware-requirements-to-build-llvm/70675#post_4)
-- [C-API for NewPM](https://discourse.llvm.org/t/c-api-for-newpm/70561#post_6)
-- [Shutting down buildbot worker mlir-nvidia](https://discourse.llvm.org/t/shutting-down-buildbot-worker-mlir-nvidia/70697#post_1)
 <!-- DISCOURSE-LLVM:END -->
