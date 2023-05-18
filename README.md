@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][InstSimplify] Optimize compares with multiple selects as operands](https://discourse.llvm.org/t/rfc-instsimplify-optimize-compares-with-multiple-selects-as-operands/70720#post_1)
 - [User questions](https://discourse.llvm.org/t/user-questions/70688#post_6)
 - [User questions](https://discourse.llvm.org/t/user-questions/70688#post_5)
 - [User questions](https://discourse.llvm.org/t/user-questions/70688#post_4)
 - [[DWARF][dsymutil] Deduplication of types with incomplete typedefs](https://discourse.llvm.org/t/dwarf-dsymutil-deduplication-of-types-with-incomplete-typedefs/70392#post_11)
-- [RFC: Prototyping Pre-commit Testing Using Buildbot](https://discourse.llvm.org/t/rfc-prototyping-pre-commit-testing-using-buildbot/69900?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
