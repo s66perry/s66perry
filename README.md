@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_9)
-- [Regarding ELFObjectemiter](https://discourse.llvm.org/t/regarding-elfobjectemiter/70722#post_1)
-- [[RFC][InstSimplify] Optimize compares with multiple selects as operands](https://discourse.llvm.org/t/rfc-instsimplify-optimize-compares-with-multiple-selects-as-operands/70720#post_1)
-- [User questions](https://discourse.llvm.org/t/user-questions/70688#post_6)
-- [User questions](https://discourse.llvm.org/t/user-questions/70688#post_5)
+- [Getting &#39;error: operand #N does not dominate this use&#39; while writing a rewrite pattern](https://discourse.llvm.org/t/getting-error-operand-n-does-not-dominate-this-use-while-writing-a-rewrite-pattern/70695#post_3)
+- [Selecting a particular register for RISCV store instruction](https://discourse.llvm.org/t/selecting-a-particular-register-for-riscv-store-instruction/70452#post_10)
+- [Unable to reset my password of Phabricator](https://discourse.llvm.org/t/unable-to-reset-my-password-of-phabricator/70723#post_3)
+- [Unable to reset my password of Phabricator](https://discourse.llvm.org/t/unable-to-reset-my-password-of-phabricator/70723#post_2)
+- [Unable to reset my password of Phabricator](https://discourse.llvm.org/t/unable-to-reset-my-password-of-phabricator/70723#post_1)
 <!-- DISCOURSE-LLVM:END -->
