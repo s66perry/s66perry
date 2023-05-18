@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [16.0.4 has been tagged](https://discourse.llvm.org/t/16-0-4-has-been-tagged/70693#post_5)
-- [RFC Detecting uses of dangling references](https://discourse.llvm.org/t/rfc-detecting-uses-of-dangling-references/70731#post_3)
-- [RFC Detecting uses of dangling references](https://discourse.llvm.org/t/rfc-detecting-uses-of-dangling-references/70731#post_2)
-- [[RFC] Supporting Armv9 Scalable Matrix Extension &lpar;SME&rpar; Streaming SVE &lpar;SSVE&rpar; mode in MLIR](https://discourse.llvm.org/t/rfc-supporting-armv9-scalable-matrix-extension-sme-streaming-sve-ssve-mode-in-mlir/70678#post_20)
-- [RFC Detecting uses of dangling references](https://discourse.llvm.org/t/rfc-detecting-uses-of-dangling-references/70731#post_1)
+- [Require eval::Call handlers to always bind a return value if the function should return something](https://discourse.llvm.org/t/require-eval-call-handlers-to-always-bind-a-return-value-if-the-function-should-return-something/70727#post_4)
+- [RFC Detecting uses of dangling references](https://discourse.llvm.org/t/rfc-detecting-uses-of-dangling-references/70731#post_4)
+- [Code coverage options?](https://discourse.llvm.org/t/code-coverage-options/70733#post_2)
+- [Code coverage options?](https://discourse.llvm.org/t/code-coverage-options/70733#post_1)
+- [Assignment issue in MLIR inside loop](https://discourse.llvm.org/t/assignment-issue-in-mlir-inside-loop/70732#post_1)
 <!-- DISCOURSE-LLVM:END -->
