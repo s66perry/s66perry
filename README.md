@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_5)
+- [Getting &#39;error: operand #N does not dominate this use&#39; while writing a rewrite pattern](https://discourse.llvm.org/t/getting-error-operand-n-does-not-dominate-this-use-while-writing-a-rewrite-pattern/70695#post_7)
+- [Assignment issue in MLIR inside loop](https://discourse.llvm.org/t/assignment-issue-in-mlir-inside-loop/70732#post_2)
 - [RFC: [C++23] P1467R9 - Extended floating-point types and standard names](https://discourse.llvm.org/t/rfc-c-23-p1467r9-extended-floating-point-types-and-standard-names/70033?page=2#post_33)
 - [Code coverage options?](https://discourse.llvm.org/t/code-coverage-options/70733#post_4)
-- [Type annotations for libclang, Python bindings](https://discourse.llvm.org/t/type-annotations-for-libclang-python-bindings/70644#post_10)
-- [Code coverage options?](https://discourse.llvm.org/t/code-coverage-options/70733#post_3)
-- [Require eval::Call handlers to always bind a return value if the function should return something](https://discourse.llvm.org/t/require-eval-call-handlers-to-always-bind-a-return-value-if-the-function-should-return-something/70727#post_4)
 <!-- DISCOURSE-LLVM:END -->
