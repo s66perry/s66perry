@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [NVPTX problems with dynamic alloca](https://discourse.llvm.org/t/nvptx-problems-with-dynamic-alloca/70745#post_1)
-- [EuroLLVM 2023 roundtable - targeting CPUs from ML frameworks](https://discourse.llvm.org/t/eurollvm-2023-roundtable-targeting-cpus-from-ml-frameworks/69542#post_2)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_24)
-- [[RFC] Time to deprecate &amp; remove clang-rename?](https://discourse.llvm.org/t/rfc-time-to-deprecate-remove-clang-rename/70707#post_3)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_23)
+- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_14)
+- [NVPTX problems with dynamic alloca](https://discourse.llvm.org/t/nvptx-problems-with-dynamic-alloca/70745#post_2)
+- [LLVM Embedded Toolchains - EuroLLVM 2023 round table summary](https://discourse.llvm.org/t/llvm-embedded-toolchains-eurollvm-2023-round-table-summary/70700#post_2)
+- [[RFC] Allow to use &#39;#pragma once&#39; where possible](https://discourse.llvm.org/t/rfc-allow-to-use-pragma-once-where-possible/70425#post_13)
+- [Code coverage options?](https://discourse.llvm.org/t/code-coverage-options/70733#post_7)
 <!-- DISCOURSE-LLVM:END -->
