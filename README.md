@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_5)
 - [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_4)
 - [[RFC] OpenACC dialect data operation improvements](https://discourse.llvm.org/t/rfc-openacc-dialect-data-operation-improvements/69825#post_4)
 - [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_3)
 - [C++ class methods info in clang-indexer database](https://discourse.llvm.org/t/c-class-methods-info-in-clang-indexer-database/70764#post_3)
-- [Address of `extern global` assumed non-zero?](https://discourse.llvm.org/t/address-of-extern-global-assumed-non-zero/70761#post_4)
 <!-- DISCOURSE-LLVM:END -->
