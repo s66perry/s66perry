@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_5)
-- [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_4)
-- [[RFC] Generic selection expression with a type operand](https://discourse.llvm.org/t/rfc-generic-selection-expression-with-a-type-operand/70388#post_8)
-- [How to select a different runtime for linking with clang and ld.lld?](https://discourse.llvm.org/t/how-to-select-a-different-runtime-for-linking-with-clang-and-ld-lld/70780#post_3)
-- [Regarding ELFObjectemiter](https://discourse.llvm.org/t/regarding-elfobjectemiter/70722#post_3)
+- [Help lowering OpenMP dialect to LLVM](https://discourse.llvm.org/t/help-lowering-openmp-dialect-to-llvm/70784#post_1)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_30)
+- [RFC Detecting uses of dangling references](https://discourse.llvm.org/t/rfc-detecting-uses-of-dangling-references/70731#post_5)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_29)
+- [[RFC] Deprecating and removing -fmessage-length option from Clang](https://discourse.llvm.org/t/rfc-deprecating-and-removing-fmessage-length-option-from-clang/70759#post_5)
 <!-- DISCOURSE-LLVM:END -->
