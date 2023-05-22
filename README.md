@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Cost Modlel] Why the cost of vector extract cost so high?](https://discourse.llvm.org/t/cost-modlel-why-the-cost-of-vector-extract-cost-so-high/70778#post_3)
-- [[Cost Modlel] Why the cost of vector extract cost so high?](https://discourse.llvm.org/t/cost-modlel-why-the-cost-of-vector-extract-cost-so-high/70778#post_2)
-- [[Cost Modlel] Why the cost of vector extract cost so high?](https://discourse.llvm.org/t/cost-modlel-why-the-cost-of-vector-extract-cost-so-high/70778#post_1)
-- [Missed &lpar;Seemingly&rpar; Simple Loop Optimization](https://discourse.llvm.org/t/missed-seemingly-simple-loop-optimization/70777#post_1)
-- [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_3)
+- [[RFC] Opt-in way to make VerifyDiagnosticConsumer slightly less strict](https://discourse.llvm.org/t/rfc-opt-in-way-to-make-verifydiagnosticconsumer-slightly-less-strict/70747#post_2)
+- [Missed &lpar;Seemingly&rpar; Simple Loop Optimization](https://discourse.llvm.org/t/missed-seemingly-simple-loop-optimization/70777#post_3)
+- [Missed &lpar;Seemingly&rpar; Simple Loop Optimization](https://discourse.llvm.org/t/missed-seemingly-simple-loop-optimization/70777#post_2)
+- [How to select a different runtime for linking with clang and ld.lld?](https://discourse.llvm.org/t/how-to-select-a-different-runtime-for-linking-with-clang-and-ld-lld/70780#post_2)
+- [How to select a different runtime for linking with clang and ld.lld?](https://discourse.llvm.org/t/how-to-select-a-different-runtime-for-linking-with-clang-and-ld-lld/70780#post_1)
 <!-- DISCOURSE-LLVM:END -->
