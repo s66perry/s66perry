@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_14)
+- [Apply for the ownership of the AVR backend](https://discourse.llvm.org/t/apply-for-the-ownership-of-the-avr-backend/70624#post_5)
+- [How do we compare execution order of two operations?](https://discourse.llvm.org/t/how-do-we-compare-execution-order-of-two-operations/70769#post_1)
 - [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_13)
 - [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_12)
-- [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_11)
-- [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_10)
-- [When I cross compile the MLIR, llvm-min-tblgen: Exec format error](https://discourse.llvm.org/t/when-i-cross-compile-the-mlir-llvm-min-tblgen-exec-format-error/70762#post_9)
 <!-- DISCOURSE-LLVM:END -->
