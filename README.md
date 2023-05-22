@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Regarding ELFObjectemiter](https://discourse.llvm.org/t/regarding-elfobjectemiter/70722#post_2)
-- [How do we compare execution order of two operations?](https://discourse.llvm.org/t/how-do-we-compare-execution-order-of-two-operations/70769#post_10)
-- [How to get locations and names of headers in Clang](https://discourse.llvm.org/t/how-to-get-locations-and-names-of-headers-in-clang/70774#post_1)
-- [How do we compare execution order of two operations?](https://discourse.llvm.org/t/how-do-we-compare-execution-order-of-two-operations/70769#post_9)
-- [How do we compare execution order of two operations?](https://discourse.llvm.org/t/how-do-we-compare-execution-order-of-two-operations/70769#post_8)
+- [[Cost Modlel] Why the cost of vector extract cost so high?](https://discourse.llvm.org/t/cost-modlel-why-the-cost-of-vector-extract-cost-so-high/70778#post_3)
+- [[Cost Modlel] Why the cost of vector extract cost so high?](https://discourse.llvm.org/t/cost-modlel-why-the-cost-of-vector-extract-cost-so-high/70778#post_2)
+- [[Cost Modlel] Why the cost of vector extract cost so high?](https://discourse.llvm.org/t/cost-modlel-why-the-cost-of-vector-extract-cost-so-high/70778#post_1)
+- [Missed &lpar;Seemingly&rpar; Simple Loop Optimization](https://discourse.llvm.org/t/missed-seemingly-simple-loop-optimization/70777#post_1)
+- [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_3)
 <!-- DISCOURSE-LLVM:END -->
