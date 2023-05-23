@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add llvm.ldexp and llvm.frexp intrinsics](https://discourse.llvm.org/t/rfc-add-llvm-ldexp-and-llvm-frexp-intrinsics/70798#post_1)
+- [Why scf.forall op doesn&#39;t have RegionBranchOp interface?](https://discourse.llvm.org/t/why-scf-forall-op-doesnt-have-regionbranchop-interface/70789#post_4)
+- [Request for making a few Flang related project boards public](https://discourse.llvm.org/t/request-for-making-a-few-flang-related-project-boards-public/70794#post_4)
 - [Request for making a few Flang related project boards public](https://discourse.llvm.org/t/request-for-making-a-few-flang-related-project-boards-public/70794#post_3)
 - [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_7)
-- [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_6)
-- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_4)
-- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_3)
 <!-- DISCOURSE-LLVM:END -->
