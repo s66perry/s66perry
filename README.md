@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Vector math function loop idiom recognition](https://discourse.llvm.org/t/rfc-vector-math-function-loop-idiom-recognition/70465#post_8)
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_13)
-- [How to get locations and names of headers in Clang](https://discourse.llvm.org/t/how-to-get-locations-and-names-of-headers-in-clang/70774#post_2)
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_12)
-- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_13)
+- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_15)
+- [Help lowering OpenMP dialect to LLVM](https://discourse.llvm.org/t/help-lowering-openmp-dialect-to-llvm/70784#post_4)
+- [Shutting down buildbot worker mlir-nvidia](https://discourse.llvm.org/t/shutting-down-buildbot-worker-mlir-nvidia/70697#post_9)
+- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_14)
+- [How to run &quot;always-inline&quot; pass using new pass manager and opt](https://discourse.llvm.org/t/how-to-run-always-inline-pass-using-new-pass-manager-and-opt/70812#post_1)
 <!-- DISCOURSE-LLVM:END -->
