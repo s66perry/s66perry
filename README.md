@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_8)
-- [Request for making a few Flang related project boards public](https://discourse.llvm.org/t/request-for-making-a-few-flang-related-project-boards-public/70794#post_2)
-- [Request for making a few Flang related project boards public](https://discourse.llvm.org/t/request-for-making-a-few-flang-related-project-boards-public/70794#post_1)
-- [[RFC] Add preferred casting style to coding standards](https://discourse.llvm.org/t/rfc-add-preferred-casting-style-to-coding-standards/70793#post_1)
-- [Lowering of scatter operations](https://discourse.llvm.org/t/lowering-of-scatter-operations/70535#post_4)
+- [Request for making a few Flang related project boards public](https://discourse.llvm.org/t/request-for-making-a-few-flang-related-project-boards-public/70794#post_3)
+- [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_7)
+- [CFG structure for short-circuiting logical operators](https://discourse.llvm.org/t/cfg-structure-for-short-circuiting-logical-operators/70775#post_6)
+- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_4)
+- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_3)
 <!-- DISCOURSE-LLVM:END -->
