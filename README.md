@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How do we compare execution order of two operations?](https://discourse.llvm.org/t/how-do-we-compare-execution-order-of-two-operations/70769#post_11)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_31)
-- [Open MLIR Meeting 3/23/2023: Nelli - a Python embedded domain-specific language for emitting MLIR](https://discourse.llvm.org/t/open-mlir-meeting-3-23-2023-nelli-a-python-embedded-domain-specific-language-for-emitting-mlir/69465#post_3)
-- [Help lowering OpenMP dialect to LLVM](https://discourse.llvm.org/t/help-lowering-openmp-dialect-to-llvm/70784#post_3)
-- [Help lowering OpenMP dialect to LLVM](https://discourse.llvm.org/t/help-lowering-openmp-dialect-to-llvm/70784#post_2)
+- [[RFC] Opt-in way to make VerifyDiagnosticConsumer slightly less strict](https://discourse.llvm.org/t/rfc-opt-in-way-to-make-verifydiagnosticconsumer-slightly-less-strict/70747#post_4)
+- [D-Matrix MLIR Compiler Engineer Job Posting](https://discourse.llvm.org/t/d-matrix-mlir-compiler-engineer-job-posting/70788#post_1)
+- [Open MLIR Meeting 3/23/2023: Nelli - a Python embedded domain-specific language for emitting MLIR](https://discourse.llvm.org/t/open-mlir-meeting-3-23-2023-nelli-a-python-embedded-domain-specific-language-for-emitting-mlir/69465#post_4)
+- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_1)
+- [How do we compare execution order of two operations?](https://discourse.llvm.org/t/how-do-we-compare-execution-order-of-two-operations/70769#post_12)
 <!-- DISCOURSE-LLVM:END -->
