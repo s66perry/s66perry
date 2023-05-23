@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_11)
-- [How to run pass without opt tool in clang 16](https://discourse.llvm.org/t/how-to-run-pass-without-opt-tool-in-clang-16/70808#post_1)
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_10)
-- [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=4#post_66)
-- [Shutting down buildbot worker mlir-nvidia](https://discourse.llvm.org/t/shutting-down-buildbot-worker-mlir-nvidia/70697#post_8)
+- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_13)
+- [How to get locations and names of headers in Clang](https://discourse.llvm.org/t/how-to-get-locations-and-names-of-headers-in-clang/70774#post_2)
+- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_12)
+- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_13)
+- [Why scf.forall op doesn&#39;t have RegionBranchOp interface?](https://discourse.llvm.org/t/why-scf-forall-op-doesnt-have-regionbranchop-interface/70789#post_5)
 <!-- DISCOURSE-LLVM:END -->
