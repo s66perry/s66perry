@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_17)
+- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_16)
+- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_15)
+- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_14)
 - [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_13)
-- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_12)
-- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_11)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_50)
-- [Create FunOp in MLIR file，MLIR Parse BUG](https://discourse.llvm.org/t/create-funop-in-mlir-file-mlir-parse-bug/70423#post_10)
 <!-- DISCOURSE-LLVM:END -->
