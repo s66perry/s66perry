@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to disable few passes from O1 optimization](https://discourse.llvm.org/t/how-to-disable-few-passes-from-o1-optimization/70845#post_1)
+- [How to run pass without opt tool in clang 16](https://discourse.llvm.org/t/how-to-run-pass-without-opt-tool-in-clang-16/70808#post_7)
+- [Fused/callsite location information is now printed in a tree format unlike a single string format](https://discourse.llvm.org/t/fused-callsite-location-information-is-now-printed-in-a-tree-format-unlike-a-single-string-format/70821#post_4)
+- [What&#39;s the status of clang-doc?](https://discourse.llvm.org/t/whats-the-status-of-clang-doc/70844#post_1)
 - [Beginner Resources + Documentation](https://discourse.llvm.org/t/beginner-resources-documentation/5872#post_8)
-- [Question about filename output with building compiler-rt](https://discourse.llvm.org/t/question-about-filename-output-with-building-compiler-rt/70841#post_2)
-- [Myterious soft-float output in LTO cache](https://discourse.llvm.org/t/myterious-soft-float-output-in-lto-cache/70753#post_13)
-- [[RFC] Upgrading LLVM&#39;s minimum required CMake version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-cmake-version/66193?page=2#post_21)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
