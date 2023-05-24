@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Beginner Resources + Documentation](https://discourse.llvm.org/t/beginner-resources-documentation/5872#post_6)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_51)
-- [LLVM Embedded Toolchains - EuroLLVM 2023 round table summary](https://discourse.llvm.org/t/llvm-embedded-toolchains-eurollvm-2023-round-table-summary/70700#post_3)
-- [Collecting local values in function metadata, Module Verifier complains](https://discourse.llvm.org/t/collecting-local-values-in-function-metadata-module-verifier-complains/70842#post_1)
-- [Reporting phabricator spam](https://discourse.llvm.org/t/reporting-phabricator-spam/68204#post_9)
+- [Beginner Resources + Documentation](https://discourse.llvm.org/t/beginner-resources-documentation/5872#post_8)
+- [Question about filename output with building compiler-rt](https://discourse.llvm.org/t/question-about-filename-output-with-building-compiler-rt/70841#post_2)
+- [Myterious soft-float output in LTO cache](https://discourse.llvm.org/t/myterious-soft-float-output-in-lto-cache/70753#post_13)
+- [[RFC] Upgrading LLVM&#39;s minimum required CMake version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-cmake-version/66193?page=2#post_21)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
