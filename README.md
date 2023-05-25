@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212?page=2#post_30)
-- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212?page=2#post_29)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_9)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_8)
-- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212?page=2#post_28)
+- [Trouble getting symbols in current process linked to ORCJit](https://discourse.llvm.org/t/trouble-getting-symbols-in-current-process-linked-to-orcjit/70882#post_1)
+- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_2)
+- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212?page=2#post_31)
+- [[RFC] Add preferred casting style to coding standards](https://discourse.llvm.org/t/rfc-add-preferred-casting-style-to-coding-standards/70793#post_4)
+- [Out for vacation](https://discourse.llvm.org/t/out-for-vacation/70881#post_1)
 <!-- DISCOURSE-LLVM:END -->
