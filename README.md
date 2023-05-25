@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [-fprofile-list flag](https://discourse.llvm.org/t/fprofile-list-flag/70866#post_1)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_58)
-- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_14)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_57)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_5)
+- [Cannot build a debug version of LLVM due to libopenmptarget problem](https://discourse.llvm.org/t/cannot-build-a-debug-version-of-llvm-due-to-libopenmptarget-problem/70851#post_3)
+- [How to pass argument through clang](https://discourse.llvm.org/t/how-to-pass-argument-through-clang/70869#post_2)
+- [Cannot build a debug version of LLVM due to libopenmptarget problem](https://discourse.llvm.org/t/cannot-build-a-debug-version-of-llvm-due-to-libopenmptarget-problem/70851#post_2)
+- [How to pass argument through clang](https://discourse.llvm.org/t/how-to-pass-argument-through-clang/70869#post_1)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_59)
 <!-- DISCOURSE-LLVM:END -->
