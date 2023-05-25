@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_10)
-- [Fused/callsite location information is now printed in a tree format unlike a single string format](https://discourse.llvm.org/t/fused-callsite-location-information-is-now-printed-in-a-tree-format-unlike-a-single-string-format/70821#post_6)
-- [Fused/callsite location information is now printed in a tree format unlike a single string format](https://discourse.llvm.org/t/fused-callsite-location-information-is-now-printed-in-a-tree-format-unlike-a-single-string-format/70821#post_5)
-- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_9)
-- [RFC Detecting uses of dangling references](https://discourse.llvm.org/t/rfc-detecting-uses-of-dangling-references/70731#post_7)
+- [-fprofile-list flag](https://discourse.llvm.org/t/fprofile-list-flag/70866#post_1)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_58)
+- [On vectorization under RISC-V and its existing interface to control scalable vectorization width - vectorize_width&lpar;VF, scalable&rpar;](https://discourse.llvm.org/t/on-vectorization-under-risc-v-and-its-existing-interface-to-control-scalable-vectorization-width-vectorize-width-vf-scalable/66893#post_14)
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_57)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_5)
 <!-- DISCOURSE-LLVM:END -->
