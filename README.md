@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is it possible to cancel a lldb command once started?](https://discourse.llvm.org/t/is-it-possible-to-cancel-a-lldb-command-once-started/70847#post_4)
-- [LLVM Embedded Toolchains Working Group call this Thursday 25th of May](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-25th-of-may/70782#post_2)
-- [How to disable few passes from O1 optimization](https://discourse.llvm.org/t/how-to-disable-few-passes-from-o1-optimization/70845#post_5)
-- [Is it possible to cancel a lldb command once started?](https://discourse.llvm.org/t/is-it-possible-to-cancel-a-lldb-command-once-started/70847#post_3)
-- [Cannot build a debug version of LLVM due to libopenmptarget problem](https://discourse.llvm.org/t/cannot-build-a-debug-version-of-llvm-due-to-libopenmptarget-problem/70851#post_1)
+- [Open MLIR Meeting 5/24/2023: RFC Discussion about &quot;Distinct Attribute&quot; in MLIR](https://discourse.llvm.org/t/open-mlir-meeting-5-24-2023-rfc-discussion-about-distinct-attribute-in-mlir/70856#post_1)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_3)
+- [Cannot use &quot;H&quot; as loop variable](https://discourse.llvm.org/t/cannot-use-h-as-loop-variable/70855#post_4)
+- [Cannot use &quot;H&quot; as loop variable](https://discourse.llvm.org/t/cannot-use-h-as-loop-variable/70855#post_3)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_2)
 <!-- DISCOURSE-LLVM:END -->
