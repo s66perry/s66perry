@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_16)
-- [Open MLIR Meeting 5/24/2023: RFC Discussion about &quot;Distinct Attribute&quot; in MLIR](https://discourse.llvm.org/t/open-mlir-meeting-5-24-2023-rfc-discussion-about-distinct-attribute-in-mlir/70856#post_2)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_15)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_14)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_13)
+- [How to access an element inside a MLIR Value isntance?](https://discourse.llvm.org/t/how-to-access-an-element-inside-a-mlir-value-isntance/70872#post_7)
+- [MLIR GPU libdevice linking support](https://discourse.llvm.org/t/mlir-gpu-libdevice-linking-support/70888#post_10)
+- [How to access an element inside a MLIR Value isntance?](https://discourse.llvm.org/t/how-to-access-an-element-inside-a-mlir-value-isntance/70872#post_6)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_18)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854#post_17)
 <!-- DISCOURSE-LLVM:END -->
