@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Constructing pipeline lowering an affine parallel loop to NVIDIA GPU](https://discourse.llvm.org/t/constructing-pipeline-lowering-an-affine-parallel-loop-to-nvidia-gpu/70921#post_1)
-- [LLVM &#39;while&#39; statement IR seems correct but has segmentation fault](https://discourse.llvm.org/t/llvm-while-statement-ir-seems-correct-but-has-segmentation-fault/70917#post_3)
-- [Error when including &quot;llvm/ADT/APFloat.h&quot; in Kaleidoscope](https://discourse.llvm.org/t/error-when-including-llvm-adt-apfloat-h-in-kaleidoscope/70920#post_2)
-- [LLVM &#39;while&#39; statement IR seems correct but has segmentation fault](https://discourse.llvm.org/t/llvm-while-statement-ir-seems-correct-but-has-segmentation-fault/70917#post_2)
-- [LLVM for loop statement IR can be generated but there maybe some errors](https://discourse.llvm.org/t/llvm-for-loop-statement-ir-can-be-generated-but-there-maybe-some-errors/70916#post_4)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=2#post_30)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=2#post_29)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=2#post_28)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_27)
+- [LLVM for loop statement IR can be generated but there maybe some errors](https://discourse.llvm.org/t/llvm-for-loop-statement-ir-can-be-generated-but-there-maybe-some-errors/70916#post_5)
 <!-- DISCOURSE-LLVM:END -->
