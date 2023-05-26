@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_11)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_26)
 - [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_5)
 - [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_14)
 - [Collecting local values in function metadata, Module Verifier complains](https://discourse.llvm.org/t/collecting-local-values-in-function-metadata-module-verifier-complains/70842#post_5)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199#post_20)
-- [[PSA] Deprecating cast/isa methods in some classes](https://discourse.llvm.org/t/psa-deprecating-cast-isa-methods-in-some-classes/70909#post_1)
 <!-- DISCOURSE-LLVM:END -->
