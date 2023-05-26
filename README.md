@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [OpenMP project or runtime?](https://discourse.llvm.org/t/openmp-project-or-runtime/70886#post_6)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_25)
+- [OpenMP project or runtime?](https://discourse.llvm.org/t/openmp-project-or-runtime/70886#post_5)
+- [What&#39;s the status of clang-doc?](https://discourse.llvm.org/t/whats-the-status-of-clang-doc/70844#post_2)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_24)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_23)
-- [Python code-style and reformatting, status update](https://discourse.llvm.org/t/python-code-style-and-reformatting-status-update/70641#post_13)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199#post_19)
-- [Fused/callsite location information is now printed in a tree format unlike a single string format](https://discourse.llvm.org/t/fused-callsite-location-information-is-now-printed-in-a-tree-format-unlike-a-single-string-format/70821#post_7)
 <!-- DISCOURSE-LLVM:END -->
