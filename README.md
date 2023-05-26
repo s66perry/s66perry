@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Dead Code During Manual ISel](https://discourse.llvm.org/t/dead-code-during-manual-isel/70877#post_3)
-- [How to get a value type&#39;s encoding in python bindings?](https://discourse.llvm.org/t/how-to-get-a-value-types-encoding-in-python-bindings/70902#post_1)
-- [Cannot build a debug version of LLVM due to libopenmptarget problem](https://discourse.llvm.org/t/cannot-build-a-debug-version-of-llvm-due-to-libopenmptarget-problem/70851#post_5)
-- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_3)
-- [RFC: [X86][Intel] Remove all-end supports of Intel knl/knm/mic_avx512 targets](https://discourse.llvm.org/t/rfc-x86-intel-remove-all-end-supports-of-intel-knl-knm-mic-avx512-targets/70901#post_1)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_30)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_29)
+- [RFC: [X86][Intel] Remove all-end supports of Intel knl/knm/mic_avx512 targets](https://discourse.llvm.org/t/rfc-x86-intel-remove-all-end-supports-of-intel-knl-knm-mic-avx512-targets/70901#post_2)
+- [Zmm and ymm register usage in llvm generated assembly](https://discourse.llvm.org/t/zmm-and-ymm-register-usage-in-llvm-generated-assembly/70903#post_1)
+- [Myterious soft-float output in LTO cache](https://discourse.llvm.org/t/myterious-soft-float-output-in-lto-cache/70753#post_14)
 <!-- DISCOURSE-LLVM:END -->
