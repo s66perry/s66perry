@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Zmm and ymm register usage in llvm generated assembly](https://discourse.llvm.org/t/zmm-and-ymm-register-usage-in-llvm-generated-assembly/70903#post_2)
+- [Problems in the transformation from LLVM IR code to x86-64 executable file](https://discourse.llvm.org/t/problems-in-the-transformation-from-llvm-ir-code-to-x86-64-executable-file/70932#post_10)
 - [Changing Long Int to Int using AllocaInst](https://discourse.llvm.org/t/changing-long-int-to-int-using-allocainst/70939#post_1)
 - [Get IR after each extension point](https://discourse.llvm.org/t/get-ir-after-each-extension-point/70938#post_1)
 - [Problems in the transformation from LLVM IR code to x86-64 executable file](https://discourse.llvm.org/t/problems-in-the-transformation-from-llvm-ir-code-to-x86-64-executable-file/70932#post_9)
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_18)
-- [OpenMP project or runtime?](https://discourse.llvm.org/t/openmp-project-or-runtime/70886#post_10)
 <!-- DISCOURSE-LLVM:END -->
