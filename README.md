@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Alias Analysis and Full Restrict - EuroLLVM 2023 round-table summary](https://discourse.llvm.org/t/alias-analysis-and-full-restrict-eurollvm-2023-round-table-summary/70951#post_1)
 - [Affine loop fusion with structured branching](https://discourse.llvm.org/t/affine-loop-fusion-with-structured-branching/70685#post_3)
 - [Get IR after each extension point](https://discourse.llvm.org/t/get-ir-after-each-extension-point/70938#post_2)
 - [Calling functions on different modules](https://discourse.llvm.org/t/calling-functions-on-different-modules/3317#post_6)
 - [Calling functions on different modules](https://discourse.llvm.org/t/calling-functions-on-different-modules/3317#post_5)
-- [llvm::LoadInst* turn to int value in llvm-16](https://discourse.llvm.org/t/llvm-loadinst-turn-to-int-value-in-llvm-16/70941#post_3)
 <!-- DISCOURSE-LLVM:END -->
