@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Changing Long Int to Int using AllocaInst](https://discourse.llvm.org/t/changing-long-int-to-int-using-allocainst/70939#post_5)
-- [Changing Long Int to Int using AllocaInst](https://discourse.llvm.org/t/changing-long-int-to-int-using-allocainst/70939#post_4)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_27)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=2#post_37)
-- [Calling functions on different modules](https://discourse.llvm.org/t/calling-functions-on-different-modules/3317#post_7)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_35)
+- [How to build the MLIR documentation locally](https://discourse.llvm.org/t/how-to-build-the-mlir-documentation-locally/70957#post_4)
+- [How to build the MLIR documentation locally](https://discourse.llvm.org/t/how-to-build-the-mlir-documentation-locally/70957#post_3)
+- [How to build the MLIR documentation locally](https://discourse.llvm.org/t/how-to-build-the-mlir-documentation-locally/70957#post_2)
+- [Changing Long Int to Int using AllocaInst](https://discourse.llvm.org/t/changing-long-int-to-int-using-allocainst/70939#post_7)
 <!-- DISCOURSE-LLVM:END -->
