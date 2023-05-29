@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Sunsetting the MLIR-HLO repository](https://discourse.llvm.org/t/sunsetting-the-mlir-hlo-repository/70536#post_4)
-- [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_4)
-- [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_3)
-- [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_2)
-- [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_1)
+- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_12)
+- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_11)
+- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_10)
+- [How to get a value type&#39;s encoding in python bindings?](https://discourse.llvm.org/t/how-to-get-a-value-types-encoding-in-python-bindings/70902#post_7)
+- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_9)
 <!-- DISCOURSE-LLVM:END -->
