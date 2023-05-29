@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Sunsetting the MLIR-HLO repository](https://discourse.llvm.org/t/sunsetting-the-mlir-hlo-repository/70536#post_4)
 - [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_4)
 - [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_3)
 - [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_2)
 - [How to build a standalone Clang Tool?](https://discourse.llvm.org/t/how-to-build-a-standalone-clang-tool/70967#post_1)
-- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_7)
 <!-- DISCOURSE-LLVM:END -->
