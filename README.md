@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_28)
+- [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_2)
+- [RFC: [X86][Intel] Remove all-end supports of Intel knl/knm/mic_avx512 targets](https://discourse.llvm.org/t/rfc-x86-intel-remove-all-end-supports-of-intel-knl-knm-mic-avx512-targets/70901#post_6)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_45)
 - [Trying to understand alignment in raw pointer arithmetic in LLVM IR](https://discourse.llvm.org/t/trying-to-understand-alignment-in-raw-pointer-arithmetic-in-llvm-ir/71003#post_5)
-- [Trying to understand alignment in raw pointer arithmetic in LLVM IR](https://discourse.llvm.org/t/trying-to-understand-alignment-in-raw-pointer-arithmetic-in-llvm-ir/71003#post_4)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_44)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_43)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_42)
 <!-- DISCOURSE-LLVM:END -->
