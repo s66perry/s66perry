@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR GPU libdevice linking support](https://discourse.llvm.org/t/mlir-gpu-libdevice-linking-support/70888#post_11)
-- [How to get a value type&#39;s encoding in python bindings?](https://discourse.llvm.org/t/how-to-get-a-value-types-encoding-in-python-bindings/70902#post_8)
-- [Upstreaming an new LLVM backend for Renesas RL78](https://discourse.llvm.org/t/upstreaming-an-new-llvm-backend-for-renesas-rl78/69235#post_8)
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803?page=2#post_24)
-- [How to specify sanitizer library location with -fsanitize?](https://discourse.llvm.org/t/how-to-specify-sanitizer-library-location-with-fsanitize/70983#post_3)
+- [Trying to understand alignment in raw pointer arithmetic in LLVM IR](https://discourse.llvm.org/t/trying-to-understand-alignment-in-raw-pointer-arithmetic-in-llvm-ir/71003#post_3)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_41)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_40)
+- [How to save register in interrupt function？](https://discourse.llvm.org/t/how-to-save-register-in-interrupt-function/70985#post_2)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
