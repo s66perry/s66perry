@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Check-mlir test suite times: Sparse tensor integration tests](https://discourse.llvm.org/t/check-mlir-test-suite-times-sparse-tensor-integration-tests/70972#post_6)
-- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_13)
-- [A proper way to manually calculate the byte offset of GetElementPtr](https://discourse.llvm.org/t/a-proper-way-to-manually-calculate-the-byte-offset-of-getelementptr/70979#post_1)
-- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_12)
-- [[X86] Finalizing SVML support in LLVM](https://discourse.llvm.org/t/x86-finalizing-svml-support-in-llvm/70977#post_1)
+- [Does fsave-optimization-record flag gives correct results?](https://discourse.llvm.org/t/does-fsave-optimization-record-flag-gives-correct-results/70984#post_1)
+- [Check-mlir test suite times: Sparse tensor integration tests](https://discourse.llvm.org/t/check-mlir-test-suite-times-sparse-tensor-integration-tests/70972#post_7)
+- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_19)
+- [How to specify sanitizer library location with -fsanitize?](https://discourse.llvm.org/t/how-to-specify-sanitizer-library-location-with-fsanitize/70983#post_1)
+- [Question about the MLIR release life cycle](https://discourse.llvm.org/t/question-about-the-mlir-release-life-cycle/70981#post_2)
 <!-- DISCOURSE-LLVM:END -->
