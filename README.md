@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Does fsave-optimization-record flag gives correct results?](https://discourse.llvm.org/t/does-fsave-optimization-record-flag-gives-correct-results/70984#post_1)
-- [Check-mlir test suite times: Sparse tensor integration tests](https://discourse.llvm.org/t/check-mlir-test-suite-times-sparse-tensor-integration-tests/70972#post_7)
-- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_19)
-- [How to specify sanitizer library location with -fsanitize?](https://discourse.llvm.org/t/how-to-specify-sanitizer-library-location-with-fsanitize/70983#post_1)
-- [Question about the MLIR release life cycle](https://discourse.llvm.org/t/question-about-the-mlir-release-life-cycle/70981#post_2)
+- [How to save register in interrupt function？](https://discourse.llvm.org/t/how-to-save-register-in-interrupt-function/70985#post_1)
+- [Question about the MLIR release life cycle](https://discourse.llvm.org/t/question-about-the-mlir-release-life-cycle/70981#post_8)
+- [Question about the MLIR release life cycle](https://discourse.llvm.org/t/question-about-the-mlir-release-life-cycle/70981#post_7)
+- [Question about the MLIR release life cycle](https://discourse.llvm.org/t/question-about-the-mlir-release-life-cycle/70981#post_6)
+- [Question about the MLIR release life cycle](https://discourse.llvm.org/t/question-about-the-mlir-release-life-cycle/70981#post_5)
 <!-- DISCOURSE-LLVM:END -->
