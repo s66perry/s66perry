@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Implementing &quot;Partial Shared Virtual Memory&quot; for OpenMP Offload Target](https://discourse.llvm.org/t/implementing-partial-shared-virtual-memory-for-openmp-offload-target/70994#post_2)
-- [Memcpy nocapture?](https://discourse.llvm.org/t/memcpy-nocapture/70874#post_20)
-- [Reading data using external cpp file](https://discourse.llvm.org/t/reading-data-using-external-cpp-file/70361#post_15)
-- [Implementing &quot;Partial Shared Virtual Memory&quot; for OpenMP Offload Target](https://discourse.llvm.org/t/implementing-partial-shared-virtual-memory-for-openmp-offload-target/70994#post_1)
-- [LLVM Custom Backend: Is elf really required?](https://discourse.llvm.org/t/llvm-custom-backend-is-elf-really-required/70989#post_8)
+- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803#post_19)
+- [RFC: [X86][Intel] Remove all-end supports of Intel knl/knm/mic_avx512 targets](https://discourse.llvm.org/t/rfc-x86-intel-remove-all-end-supports-of-intel-knl-knm-mic-avx512-targets/70901#post_4)
+- [14.0.6-final has been tagged](https://discourse.llvm.org/t/14-0-6-final-has-been-tagged/63432?page=2#post_21)
+- [RFC: [X86][Intel] Remove all-end supports of Intel knl/knm/mic_avx512 targets](https://discourse.llvm.org/t/rfc-x86-intel-remove-all-end-supports-of-intel-knl-knm-mic-avx512-targets/70901#post_3)
+- [How to specify sanitizer library location with -fsanitize?](https://discourse.llvm.org/t/how-to-specify-sanitizer-library-location-with-fsanitize/70983#post_2)
 <!-- DISCOURSE-LLVM:END -->
