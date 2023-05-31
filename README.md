@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_60)
+- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803?page=2#post_25)
+- [How to create clangd the indexes from a script](https://discourse.llvm.org/t/how-to-create-clangd-the-indexes-from-a-script/70948#post_15)
 - [How to create clangd the indexes from a script](https://discourse.llvm.org/t/how-to-create-clangd-the-indexes-from-a-script/70948#post_14)
 - [How to create clangd the indexes from a script](https://discourse.llvm.org/t/how-to-create-clangd-the-indexes-from-a-script/70948#post_13)
-- [How to create clangd the indexes from a script](https://discourse.llvm.org/t/how-to-create-clangd-the-indexes-from-a-script/70948#post_12)
-- [How to create clangd the indexes from a script](https://discourse.llvm.org/t/how-to-create-clangd-the-indexes-from-a-script/70948#post_11)
-- [[AArch64] Missed FCCMP opportunity](https://discourse.llvm.org/t/aarch64-missed-fccmp-opportunity/71012#post_2)
 <!-- DISCOURSE-LLVM:END -->
