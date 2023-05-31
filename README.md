@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_32)
 - [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_31)
 - [Disable inlining in opt](https://discourse.llvm.org/t/disable-inlining-in-opt/66254#post_8)
 - [Disable inlining in opt](https://discourse.llvm.org/t/disable-inlining-in-opt/66254#post_7)
 - [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_17)
-- [MLIR News, 48th edition &lpar;6/11/2023 - 7/11/2023&rpar;](https://discourse.llvm.org/t/mlir-news-48th-edition-6-11-2023-7-11-2023/71015#post_1)
 <!-- DISCOURSE-LLVM:END -->
