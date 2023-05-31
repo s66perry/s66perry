@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Removing the legacy debug mode from libc++](https://discourse.llvm.org/t/rfc-removing-the-legacy-debug-mode-from-libc/71026#post_1)
-- [Token-based parsing? [RFC-ish]](https://discourse.llvm.org/t/token-based-parsing-rfc-ish/71021#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon May 29 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-29-23-6pm/70453#post_6)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon June 5 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-june-5-23-6pm/71024#post_1)
-- [Token-based parsing? [RFC-ish]](https://discourse.llvm.org/t/token-based-parsing-rfc-ish/71021#post_2)
+- [[libc] Exporting the RPC interface for the GPU libs](https://discourse.llvm.org/t/libc-exporting-the-rpc-interface-for-the-gpu-libs/71030#post_2)
+- [Upstreaming an new LLVM backend for Renesas RL78](https://discourse.llvm.org/t/upstreaming-an-new-llvm-backend-for-renesas-rl78/69235#post_9)
+- [[libc] Exporting the RPC interface for the GPU libs](https://discourse.llvm.org/t/libc-exporting-the-rpc-interface-for-the-gpu-libs/71030#post_1)
+- [What exactly are the libcxx ABI guarantees?](https://discourse.llvm.org/t/what-exactly-are-the-libcxx-abi-guarantees/71029#post_1)
+- [[RFC] Defining Undefined Behavior in Libc](https://discourse.llvm.org/t/rfc-defining-undefined-behavior-in-libc/71028#post_1)
 <!-- DISCOURSE-LLVM:END -->
