@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_2)
-- [[RFC] A Unified LTO Bitcode Frontend](https://discourse.llvm.org/t/rfc-a-unified-lto-bitcode-frontend/61774?page=3#post_60)
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803?page=2#post_25)
-- [How to create clangd the indexes from a script](https://discourse.llvm.org/t/how-to-create-clangd-the-indexes-from-a-script/70948#post_15)
-- [How to create clangd the indexes from a script](https://discourse.llvm.org/t/how-to-create-clangd-the-indexes-from-a-script/70948#post_14)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon May 29 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-29-23-6pm/70453#post_6)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon June 5 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-june-5-23-6pm/71024#post_1)
+- [Token-based parsing? [RFC-ish]](https://discourse.llvm.org/t/token-based-parsing-rfc-ish/71021#post_2)
+- [Create a new MachineBasicBlock in the LowerCall function](https://discourse.llvm.org/t/create-a-new-machinebasicblock-in-the-lowercall-function/71023#post_4)
+- [Create a new MachineBasicBlock in the LowerCall function](https://discourse.llvm.org/t/create-a-new-machinebasicblock-in-the-lowercall-function/71023#post_3)
 <!-- DISCOURSE-LLVM:END -->
