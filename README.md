@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_9)
-- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_8)
-- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_7)
-- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_6)
-- [Is there an option mapping generated assembly to IR?](https://discourse.llvm.org/t/is-there-an-option-mapping-generated-assembly-to-ir/71047#post_1)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_16)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_15)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_14)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_13)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_12)
 <!-- DISCOURSE-LLVM:END -->
