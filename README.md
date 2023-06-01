@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_52)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_51)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_50)
-- [16.0.5 release delay](https://discourse.llvm.org/t/16-0-5-release-delay/71010#post_2)
-- [CSRs defined in sstc extension](https://discourse.llvm.org/t/csrs-defined-in-sstc-extension/70824#post_4)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_4)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_3)
+- [LLVM Custom Backend: Is elf really required?](https://discourse.llvm.org/t/llvm-custom-backend-is-elf-really-required/70989#post_10)
+- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_2)
+- [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_3)
 <!-- DISCOURSE-LLVM:END -->
