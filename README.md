@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Seg fault error after calling llvm::DominatorTree::DominatorTree](https://discourse.llvm.org/t/seg-fault-error-after-calling-llvm-dominatortree/71055#post_1)
-- [How to restart same program when connected to iOS device?](https://discourse.llvm.org/t/how-to-restart-same-program-when-connected-to-ios-device/70291#post_3)
-- [Memory effects for `memref.assume_alignment`](https://discourse.llvm.org/t/memory-effects-for-memref-assume-alignment/71051#post_3)
-- [Memory effects for `memref.assume_alignment`](https://discourse.llvm.org/t/memory-effects-for-memref-assume-alignment/71051#post_2)
-- [Opaque pointer element type for pointer passed as function argument](https://discourse.llvm.org/t/opaque-pointer-element-type-for-pointer-passed-as-function-argument/71040#post_16)
+- [Ast build is very long](https://discourse.llvm.org/t/ast-build-is-very-long/70058#post_16)
+- [[RFC][libc] Exporting the RPC interface for the GPU libs](https://discourse.llvm.org/t/rfc-libc-exporting-the-rpc-interface-for-the-gpu-libs/71030#post_7)
+- [Seg fault error after calling llvm::DominatorTree::DominatorTree LLVM12](https://discourse.llvm.org/t/seg-fault-error-after-calling-llvm-dominatortree-llvm12/71055#post_3)
+- [Seg fault error after calling llvm::DominatorTree::DominatorTree LLVM12](https://discourse.llvm.org/t/seg-fault-error-after-calling-llvm-dominatortree-llvm12/71055#post_2)
+- [Disable inlining in opt](https://discourse.llvm.org/t/disable-inlining-in-opt/66254#post_10)
 <!-- DISCOURSE-LLVM:END -->
