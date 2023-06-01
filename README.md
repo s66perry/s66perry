@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_43)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_58)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_42)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_57)
-- [[RFC] MLIR Bytecode: a stable serialization format](https://discourse.llvm.org/t/rfc-mlir-bytecode-a-stable-serialization-format/71062#post_4)
+- [RFC: Removing the legacy debug mode from libc++](https://discourse.llvm.org/t/rfc-removing-the-legacy-debug-mode-from-libc/71026#post_4)
+- [[RFC][libc] Exporting the RPC interface for the GPU libc](https://discourse.llvm.org/t/rfc-libc-exporting-the-rpc-interface-for-the-gpu-libc/71030#post_16)
+- [[RFC][libc] Exporting the RPC interface for the GPU libc](https://discourse.llvm.org/t/rfc-libc-exporting-the-rpc-interface-for-the-gpu-libc/71030#post_15)
+- [RFC: Removing the legacy debug mode from libc++](https://discourse.llvm.org/t/rfc-removing-the-legacy-debug-mode-from-libc/71026#post_3)
+- [RFC: Removing the legacy debug mode from libc++](https://discourse.llvm.org/t/rfc-removing-the-legacy-debug-mode-from-libc/71026#post_2)
 <!-- DISCOURSE-LLVM:END -->
