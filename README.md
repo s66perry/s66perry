@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_51)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_50)
+- [16.0.5 release delay](https://discourse.llvm.org/t/16-0-5-release-delay/71010#post_2)
+- [CSRs defined in sstc extension](https://discourse.llvm.org/t/csrs-defined-in-sstc-extension/70824#post_4)
 - [LLVM buildbot will be restarted on May 31st, 2023 at 10:00 PM PDT](https://discourse.llvm.org/t/llvm-buildbot-will-be-restarted-on-may-31st-2023-at-10-00-pm-pdt/71036#post_1)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=2#post_39)
-- [CSRs defined in sstc extension](https://discourse.llvm.org/t/csrs-defined-in-sstc-extension/70824#post_3)
-- [What exactly are the libcxx ABI guarantees?](https://discourse.llvm.org/t/what-exactly-are-the-libcxx-abi-guarantees/71029#post_3)
-- [Can I dump SelectionDAG as texts?](https://discourse.llvm.org/t/can-i-dump-selectiondag-as-texts/71033#post_4)
 <!-- DISCOURSE-LLVM:END -->
