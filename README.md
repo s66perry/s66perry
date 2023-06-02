@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_1)
+- [Creating llvm::Function out of a std::function](https://discourse.llvm.org/t/creating-llvm-function-out-of-a-std-function/71079#post_1)
 - [Ld64.lld -T regression?](https://discourse.llvm.org/t/ld64-lld-t-regression/71076#post_2)
 - [Ld64.lld -T regression?](https://discourse.llvm.org/t/ld64-lld-t-regression/71076#post_1)
 - [Create a new MachineBasicBlock in the LowerCall function](https://discourse.llvm.org/t/create-a-new-machinebasicblock-in-the-lowercall-function/71023#post_5)
-- [Can we solve equality constraint in `ConstraintElimination` pass](https://discourse.llvm.org/t/can-we-solve-equality-constraint-in-constraintelimination-pass/70405#post_6)
-- [Can we solve equality constraint in `ConstraintElimination` pass](https://discourse.llvm.org/t/can-we-solve-equality-constraint-in-constraintelimination-pass/70405#post_5)
 <!-- DISCOURSE-LLVM:END -->
