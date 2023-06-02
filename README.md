@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Ld64.lld -T regression?](https://discourse.llvm.org/t/ld64-lld-t-regression/71076#post_1)
+- [Create a new MachineBasicBlock in the LowerCall function](https://discourse.llvm.org/t/create-a-new-machinebasicblock-in-the-lowercall-function/71023#post_5)
+- [Can we solve equality constraint in `ConstraintElimination` pass](https://discourse.llvm.org/t/can-we-solve-equality-constraint-in-constraintelimination-pass/70405#post_6)
+- [Can we solve equality constraint in `ConstraintElimination` pass](https://discourse.llvm.org/t/can-we-solve-equality-constraint-in-constraintelimination-pass/70405#post_5)
 - [Building Standalone OpenMP using pre-built binaries](https://discourse.llvm.org/t/building-standalone-openmp-using-pre-built-binaries/71042#post_3)
-- [[RFC] Defining Undefined Behavior in Libc](https://discourse.llvm.org/t/rfc-defining-undefined-behavior-in-libc/71028#post_2)
-- [Builtin instruction&lpar;without parameter&rpar; not work](https://discourse.llvm.org/t/builtin-instruction-without-parameter-not-work/71043#post_2)
-- [Does fsave-optimization-record flag gives correct results?](https://discourse.llvm.org/t/does-fsave-optimization-record-flag-gives-correct-results/70984#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon June 5 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-june-5-23-6pm/71024#post_2)
 <!-- DISCOURSE-LLVM:END -->
