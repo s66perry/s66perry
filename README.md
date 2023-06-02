@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building Standalone OpenMP using pre-built binaries](https://discourse.llvm.org/t/building-standalone-openmp-using-pre-built-binaries/71042#post_3)
+- [[RFC] Defining Undefined Behavior in Libc](https://discourse.llvm.org/t/rfc-defining-undefined-behavior-in-libc/71028#post_2)
+- [Builtin instruction&lpar;without parameter&rpar; not work](https://discourse.llvm.org/t/builtin-instruction-without-parameter-not-work/71043#post_2)
 - [Does fsave-optimization-record flag gives correct results?](https://discourse.llvm.org/t/does-fsave-optimization-record-flag-gives-correct-results/70984#post_3)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon June 5 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-june-5-23-6pm/71024#post_2)
-- [Is there an option mapping assembly to IR through debug info?](https://discourse.llvm.org/t/is-there-an-option-mapping-assembly-to-ir-through-debug-info/71071#post_1)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_59)
-- [[X86] Finalizing SVML support in LLVM](https://discourse.llvm.org/t/x86-finalizing-svml-support-in-llvm/70977#post_2)
 <!-- DISCOURSE-LLVM:END -->
