@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR Bytecode: a stable serialization format](https://discourse.llvm.org/t/rfc-mlir-bytecode-a-stable-serialization-format/71062#post_10)
-- [Learning attributor framework](https://discourse.llvm.org/t/learning-attributor-framework/71088#post_2)
-- [[RFC] MLIR Bytecode: a stable serialization format](https://discourse.llvm.org/t/rfc-mlir-bytecode-a-stable-serialization-format/71062#post_9)
-- [How to enumerate static class variables via SB API?](https://discourse.llvm.org/t/how-to-enumerate-static-class-variables-via-sb-api/71034#post_4)
-- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_3)
+- [Board Meeting Minutes - April 2023](https://discourse.llvm.org/t/board-meeting-minutes-april-2023/71090#post_1)
+- [Board Meeting Minutes - March 2023](https://discourse.llvm.org/t/board-meeting-minutes-march-2023/71089#post_1)
+- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_20)
+- [[RFC] OpenACC dialect data operation improvements](https://discourse.llvm.org/t/rfc-openacc-dialect-data-operation-improvements/69825#post_8)
+- [[RFC] OpenACC dialect data operation improvements](https://discourse.llvm.org/t/rfc-openacc-dialect-data-operation-improvements/69825#post_7)
 <!-- DISCOURSE-LLVM:END -->
