@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Request for advice: extending type conversion to 1:N conversion](https://discourse.llvm.org/t/request-for-advice-extending-type-conversion-to-1-n-conversion/67964#post_11)
+- [Ld64.lld -T regression?](https://discourse.llvm.org/t/ld64-lld-t-regression/71076#post_4)
+- [Should buildbots switch to ENABLE_RUNTIMES instead of ENABLE_PROJECTS for compiler-rt?](https://discourse.llvm.org/t/should-buildbots-switch-to-enable-runtimes-instead-of-enable-projects-for-compiler-rt/65042#post_16)
+- [[RFC][libc] Exporting the RPC interface for the GPU libc](https://discourse.llvm.org/t/rfc-libc-exporting-the-rpc-interface-for-the-gpu-libc/71030#post_18)
 - [[RFC] OpenACC dialect data operation improvements](https://discourse.llvm.org/t/rfc-openacc-dialect-data-operation-improvements/69825#post_5)
-- [Ld64.lld -T regression?](https://discourse.llvm.org/t/ld64-lld-t-regression/71076#post_3)
-- [How to enumerate static class variables via SB API?](https://discourse.llvm.org/t/how-to-enumerate-static-class-variables-via-sb-api/71034#post_3)
-- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_1)
-- [Creating llvm::Function out of a std::function](https://discourse.llvm.org/t/creating-llvm-function-out-of-a-std-function/71079#post_1)
 <!-- DISCOURSE-LLVM:END -->
