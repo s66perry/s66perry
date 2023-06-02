@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_52)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_51)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_50)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_49)
-- [How to save register in interrupt function？](https://discourse.llvm.org/t/how-to-save-register-in-interrupt-function/70985#post_4)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_9)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_8)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_7)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_6)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_5)
 <!-- DISCOURSE-LLVM:END -->
