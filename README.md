@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Crosscompiling with clang-8](https://discourse.llvm.org/t/crosscompiling-with-clang-8/71068#post_1)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_46)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_45)
-- [Memory effects for `memref.assume_alignment`](https://discourse.llvm.org/t/memory-effects-for-memref-assume-alignment/71051#post_4)
-- [[RFC] MLIR Bytecode: a stable serialization format](https://discourse.llvm.org/t/rfc-mlir-bytecode-a-stable-serialization-format/71062#post_6)
+- [[X86] Finalizing SVML support in LLVM](https://discourse.llvm.org/t/x86-finalizing-svml-support-in-llvm/70977#post_2)
+- [Crosscompiling with clang-8](https://discourse.llvm.org/t/crosscompiling-with-clang-8/71068#post_3)
+- [[RFC] MLIR Bytecode: a stable serialization format](https://discourse.llvm.org/t/rfc-mlir-bytecode-a-stable-serialization-format/71062#post_8)
+- [Crosscompiling with clang-8](https://discourse.llvm.org/t/crosscompiling-with-clang-8/71068#post_2)
+- [[RFC] MLIR Bytecode: a stable serialization format](https://discourse.llvm.org/t/rfc-mlir-bytecode-a-stable-serialization-format/71062#post_7)
 <!-- DISCOURSE-LLVM:END -->
