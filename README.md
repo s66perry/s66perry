@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Request for advice: extending type conversion to 1:N conversion](https://discourse.llvm.org/t/request-for-advice-extending-type-conversion-to-1-n-conversion/67964#post_11)
-- [Ld64.lld -T regression?](https://discourse.llvm.org/t/ld64-lld-t-regression/71076#post_4)
-- [Should buildbots switch to ENABLE_RUNTIMES instead of ENABLE_PROJECTS for compiler-rt?](https://discourse.llvm.org/t/should-buildbots-switch-to-enable-runtimes-instead-of-enable-projects-for-compiler-rt/65042#post_16)
-- [[RFC][libc] Exporting the RPC interface for the GPU libc](https://discourse.llvm.org/t/rfc-libc-exporting-the-rpc-interface-for-the-gpu-libc/71030#post_18)
-- [[RFC] OpenACC dialect data operation improvements](https://discourse.llvm.org/t/rfc-openacc-dialect-data-operation-improvements/69825#post_5)
+- [[RFC] Building Flang runtime for offload devices](https://discourse.llvm.org/t/rfc-building-flang-runtime-for-offload-devices/70787#post_19)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_2)
+- [[RFC][libc] Exporting the RPC interface for the GPU libc](https://discourse.llvm.org/t/rfc-libc-exporting-the-rpc-interface-for-the-gpu-libc/71030#post_19)
+- [Building Standalone OpenMP using pre-built binaries](https://discourse.llvm.org/t/building-standalone-openmp-using-pre-built-binaries/71042#post_4)
+- [Objcopy remove section doesn&#39;t work with PEI files](https://discourse.llvm.org/t/objcopy-remove-section-doesnt-work-with-pei-files/71086#post_1)
 <!-- DISCOURSE-LLVM:END -->
