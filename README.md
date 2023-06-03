@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_1)
+- [RFC: Adding visibility attributes to libclang-cpp symbols](https://discourse.llvm.org/t/rfc-adding-visibility-attributes-to-libclang-cpp-symbols/71094#post_1)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_61)
 - [LLVMBuildCall2 function type](https://discourse.llvm.org/t/llvmbuildcall2-function-type/71093#post_1)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=3#post_60)
-- [Volunteers needed for the 2023 LLVM Developers&#39; Meeting - Program &amp; Travel Grants](https://discourse.llvm.org/t/volunteers-needed-for-the-2023-llvm-developers-meeting-program-travel-grants/71092#post_1)
-- [Utilities for converting nested parallel loops &lpar;affine or scf&rpar; to multi-dimensional loops](https://discourse.llvm.org/t/utilities-for-converting-nested-parallel-loops-affine-or-scf-to-multi-dimensional-loops/71091#post_2)
 <!-- DISCOURSE-LLVM:END -->
