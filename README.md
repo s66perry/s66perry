@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_6)
+- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_5)
+- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_4)
 - [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_3)
 - [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_2)
-- [LLVMBuildCall2 function type](https://discourse.llvm.org/t/llvmbuildcall2-function-type/71093#post_2)
-- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_1)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_62)
 <!-- DISCOURSE-LLVM:END -->
