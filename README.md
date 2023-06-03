@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_11)
-- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_10)
-- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_10)
-- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_9)
-- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_8)
+- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_11)
+- [Bus Error in MLIR/LLVM Compiler Pipeline](https://discourse.llvm.org/t/bus-error-in-mlir-llvm-compiler-pipeline/71099#post_3)
+- [Utilities for converting nested parallel loops &lpar;affine or scf&rpar; to multi-dimensional loops](https://discourse.llvm.org/t/utilities-for-converting-nested-parallel-loops-affine-or-scf-to-multi-dimensional-loops/71091#post_4)
+- [Utilities for converting nested parallel loops &lpar;affine or scf&rpar; to multi-dimensional loops](https://discourse.llvm.org/t/utilities-for-converting-nested-parallel-loops-affine-or-scf-to-multi-dimensional-loops/71091#post_3)
+- [Cmake error with compiler-rt: string sub-command REPLACE requires at least four arguments](https://discourse.llvm.org/t/cmake-error-with-compiler-rt-string-sub-command-replace-requires-at-least-four-arguments/66017#post_2)
 <!-- DISCOURSE-LLVM:END -->
