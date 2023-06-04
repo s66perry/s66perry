@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error when attempting basic OpenMP configure &amp; build](https://discourse.llvm.org/t/error-when-attempting-basic-openmp-configure-build/62924#post_3)
+- [Reasoning for clang-scan-deps tool](https://discourse.llvm.org/t/reasoning-for-clang-scan-deps-tool/71112#post_5)
 - [Reasoning for clang-scan-deps tool](https://discourse.llvm.org/t/reasoning-for-clang-scan-deps-tool/71112#post_4)
 - [Reasoning for clang-scan-deps tool](https://discourse.llvm.org/t/reasoning-for-clang-scan-deps-tool/71112#post_3)
 - [Reasoning for clang-scan-deps tool](https://discourse.llvm.org/t/reasoning-for-clang-scan-deps-tool/71112#post_2)
-- [Reasoning for clang-scan-deps tool](https://discourse.llvm.org/t/reasoning-for-clang-scan-deps-tool/71112#post_1)
-- [RFC: Removing the legacy debug mode from libc++](https://discourse.llvm.org/t/rfc-removing-the-legacy-debug-mode-from-libc/71026#post_6)
 <!-- DISCOURSE-LLVM:END -->
