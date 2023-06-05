@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Open MLIR Meeting 6/8/2023: Update on Numba/MLIR](https://discourse.llvm.org/t/open-mlir-meeting-6-8-2023-update-on-numba-mlir/71132#post_1)
-- [Error when attempting basic OpenMP configure &amp; build](https://discourse.llvm.org/t/error-when-attempting-basic-openmp-configure-build/62924#post_5)
-- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_14)
-- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_13)
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_5)
+- [Is there a way to write a custom IR code generator with plugin or something like that?](https://discourse.llvm.org/t/is-there-a-way-to-write-a-custom-ir-code-generator-with-plugin-or-something-like-that/71134#post_3)
+- [Is there a way to write a custom IR code generator with plugin or something like that?](https://discourse.llvm.org/t/is-there-a-way-to-write-a-custom-ir-code-generator-with-plugin-or-something-like-that/71134#post_2)
+- [Constructing pipeline lowering an affine parallel loop to NVIDIA GPU](https://discourse.llvm.org/t/constructing-pipeline-lowering-an-affine-parallel-loop-to-nvidia-gpu/70921#post_2)
+- [Implementation of Disable passes from clang](https://discourse.llvm.org/t/implementation-of-disable-passes-from-clang/71135#post_1)
+- [Is there a way to write a custom IR code generator with plugin or something like that?](https://discourse.llvm.org/t/is-there-a-way-to-write-a-custom-ir-code-generator-with-plugin-or-something-like-that/71134#post_1)
 <!-- DISCOURSE-LLVM:END -->
