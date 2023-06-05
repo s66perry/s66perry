@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Open MLIR Meeting 6/8/2023: Update on Numba/MLIR](https://discourse.llvm.org/t/open-mlir-meeting-6-8-2023-update-on-numba-mlir/71132#post_1)
+- [Error when attempting basic OpenMP configure &amp; build](https://discourse.llvm.org/t/error-when-attempting-basic-openmp-configure-build/62924#post_5)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_14)
+- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_13)
 - [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_5)
-- [RFC: [X86][Intel] Remove all-end supports of Intel knl/knm/mic_avx512 targets](https://discourse.llvm.org/t/rfc-x86-intel-remove-all-end-supports-of-intel-knl-knm-mic-avx512-targets/70901#post_7)
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_4)
-- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_9)
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_3)
 <!-- DISCOURSE-LLVM:END -->
