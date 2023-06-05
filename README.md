@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_1)
-- [Get an LLVM IR with debuginfo from linux kernel](https://discourse.llvm.org/t/get-an-llvm-ir-with-debuginfo-from-linux-kernel/71081#post_12)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon June 5 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-june-5-23-6pm/71024#post_3)
-- [Is there an option mapping assembly to IR through debug info?](https://discourse.llvm.org/t/is-there-an-option-mapping-assembly-to-ir-through-debug-info/71071#post_3)
-- [Women in Compilers &amp; Tools Meetup - July 13](https://discourse.llvm.org/t/women-in-compilers-tools-meetup-july-13/71130#post_1)
+- [RFC: [X86][Intel] Remove all-end supports of Intel knl/knm/mic_avx512 targets](https://discourse.llvm.org/t/rfc-x86-intel-remove-all-end-supports-of-intel-knl-knm-mic-avx512-targets/70901#post_7)
+- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_4)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_9)
+- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_3)
+- [A question about MLIR](https://discourse.llvm.org/t/a-question-about-mlir/71124#post_4)
 <!-- DISCOURSE-LLVM:END -->
