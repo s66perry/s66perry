@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_1)
-- [A question about MLIR](https://discourse.llvm.org/t/a-question-about-mlir/71124#post_3)
-- [[RFC] OpenACC dialect data operation improvements](https://discourse.llvm.org/t/rfc-openacc-dialect-data-operation-improvements/69825#post_10)
-- [Error when attempting basic OpenMP configure &amp; build](https://discourse.llvm.org/t/error-when-attempting-basic-openmp-configure-build/62924#post_4)
-- [Reading data using external cpp file](https://discourse.llvm.org/t/reading-data-using-external-cpp-file/70361#post_18)
+- [In a ModuleOp pass how can I replace the top level ModuleOp?](https://discourse.llvm.org/t/in-a-moduleop-pass-how-can-i-replace-the-top-level-moduleop/71128#post_2)
+- [In a ModuleOp pass how can I replace the top level ModuleOp?](https://discourse.llvm.org/t/in-a-moduleop-pass-how-can-i-replace-the-top-level-moduleop/71128#post_1)
+- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627#post_17)
+- [RFC Loop Versioning for unit stride](https://discourse.llvm.org/t/rfc-loop-versioning-for-unit-stride/68605#post_5)
+- [[RFC] Generic selection expression with a type operand](https://discourse.llvm.org/t/rfc-generic-selection-expression-with-a-type-operand/70388#post_9)
 <!-- DISCOURSE-LLVM:END -->
