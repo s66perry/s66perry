@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_1)
+- [A question about MLIR](https://discourse.llvm.org/t/a-question-about-mlir/71124#post_3)
+- [[RFC] OpenACC dialect data operation improvements](https://discourse.llvm.org/t/rfc-openacc-dialect-data-operation-improvements/69825#post_10)
+- [Error when attempting basic OpenMP configure &amp; build](https://discourse.llvm.org/t/error-when-attempting-basic-openmp-configure-build/62924#post_4)
 - [Reading data using external cpp file](https://discourse.llvm.org/t/reading-data-using-external-cpp-file/70361#post_18)
-- [A question about MLIR](https://discourse.llvm.org/t/a-question-about-mlir/71124#post_2)
-- [A question about MLIR](https://discourse.llvm.org/t/a-question-about-mlir/71124#post_1)
-- [Basic question on using phi operation for if-then statements](https://discourse.llvm.org/t/basic-question-on-using-phi-operation-for-if-then-statements/71107#post_5)
-- [Minimizing the difference between `opt -OX` and `opt -passes=&quot;...&quot;`](https://discourse.llvm.org/t/minimizing-the-difference-between-opt-ox-and-opt-passes/71122#post_1)
 <!-- DISCOURSE-LLVM:END -->
