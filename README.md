@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Refactor Triple-related classes](https://discourse.llvm.org/t/rfc-refactor-triple-related-classes/70410#post_11)
+- [Mips &lpar;v2/32bit/le&rpar; instrprof.increment generating/lowering/something? to invalid 64 bit atomic operation](https://discourse.llvm.org/t/mips-v2-32bit-le-instrprof-increment-generating-lowering-something-to-invalid-64-bit-atomic-operation/71147#post_1)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_11)
 - [Connecting lldb-server to GDB](https://discourse.llvm.org/t/connecting-lldb-server-to-gdb/71145#post_2)
 - [Calling functions on different modules](https://discourse.llvm.org/t/calling-functions-on-different-modules/3317#post_9)
-- [Is there a way to write a custom IR code generator with plugin or something like that?](https://discourse.llvm.org/t/is-there-a-way-to-write-a-custom-ir-code-generator-with-plugin-or-something-like-that/71134#post_5)
-- [[RFC] Update to MLIR developer policy on recursion](https://discourse.llvm.org/t/rfc-update-to-mlir-developer-policy-on-recursion/62235?page=2#post_21)
-- [Connecting lldb-server to GDB](https://discourse.llvm.org/t/connecting-lldb-server-to-gdb/71145#post_1)
 <!-- DISCOURSE-LLVM:END -->
