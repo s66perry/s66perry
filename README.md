@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Types declaration in MLIR](https://discourse.llvm.org/t/types-declaration-in-mlir/71144#post_2)
+- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_13)
+- [Types declaration in MLIR](https://discourse.llvm.org/t/types-declaration-in-mlir/71144#post_1)
+- [Converting TF to MLIR: why are dimensions forgotten?](https://discourse.llvm.org/t/converting-tf-to-mlir-why-are-dimensions-forgotten/2875#post_3)
 - [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_7)
-- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_12)
-- [Minimizing the difference between `opt -OX` and `opt -passes=&quot;...&quot;`](https://discourse.llvm.org/t/minimizing-the-difference-between-opt-ox-and-opt-passes/71122#post_3)
-- [A question about MLIR](https://discourse.llvm.org/t/a-question-about-mlir/71124#post_11)
-- [A question about MLIR](https://discourse.llvm.org/t/a-question-about-mlir/71124#post_10)
 <!-- DISCOURSE-LLVM:END -->
