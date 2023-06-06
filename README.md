@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Emit LLVM Code Coverage Mapping](https://discourse.llvm.org/t/emit-llvm-code-coverage-mapping/71150#post_1)
+- [How to implement a disable-pass option](https://discourse.llvm.org/t/how-to-implement-a-disable-pass-option/71149#post_5)
 - [How to implement a disable-pass option](https://discourse.llvm.org/t/how-to-implement-a-disable-pass-option/71149#post_4)
 - [How to implement a disable-pass option](https://discourse.llvm.org/t/how-to-implement-a-disable-pass-option/71149#post_3)
 - [Mips &lpar;v2/32bit/le&rpar; instrprof.increment generating/lowering/something? to invalid 64 bit atomic operation](https://discourse.llvm.org/t/mips-v2-32bit-le-instrprof-increment-generating-lowering-something-to-invalid-64-bit-atomic-operation/71147#post_3)
-- [How to implement a disable-pass option](https://discourse.llvm.org/t/how-to-implement-a-disable-pass-option/71149#post_2)
-- [Programmatically Toggle Specific LLVM Optimizations](https://discourse.llvm.org/t/programmatically-toggle-specific-llvm-optimizations/48741#post_6)
 <!-- DISCOURSE-LLVM:END -->
