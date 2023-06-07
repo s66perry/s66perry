@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_8)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_76)
-- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_7)
-- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_6)
-- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_5)
+- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_2)
+- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_1)
+- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_5)
+- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_4)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_78)
 <!-- DISCOURSE-LLVM:END -->
