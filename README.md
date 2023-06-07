@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_2)
-- [[AArch64] Missed FCCMP opportunity](https://discourse.llvm.org/t/aarch64-missed-fccmp-opportunity/71012#post_5)
-- [How to implement a disable-pass option](https://discourse.llvm.org/t/how-to-implement-a-disable-pass-option/71149#post_7)
-- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_1)
-- [[AArch64] Missed FCCMP opportunity](https://discourse.llvm.org/t/aarch64-missed-fccmp-opportunity/71012#post_4)
+- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_8)
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_76)
+- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_7)
+- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_6)
+- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_5)
 <!-- DISCOURSE-LLVM:END -->
