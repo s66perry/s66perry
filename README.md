@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clangd diagnostics inside header file fails when type is defined inside a source file](https://discourse.llvm.org/t/clangd-diagnostics-inside-header-file-fails-when-type-is-defined-inside-a-source-file/71163#post_2)
+- [Learning attributor framework](https://discourse.llvm.org/t/learning-attributor-framework/71088#post_5)
+- [Learning attributor framework](https://discourse.llvm.org/t/learning-attributor-framework/71088#post_4)
 - [Types declaration in MLIR](https://discourse.llvm.org/t/types-declaration-in-mlir/71144#post_19)
 - [Types declaration in MLIR](https://discourse.llvm.org/t/types-declaration-in-mlir/71144#post_18)
-- [RFC: Adding visibility attributes to libclang-cpp symbols](https://discourse.llvm.org/t/rfc-adding-visibility-attributes-to-libclang-cpp-symbols/71094#post_3)
-- [Minimizing the difference between `opt -OX` and `opt -passes=&quot;...&quot;`](https://discourse.llvm.org/t/minimizing-the-difference-between-opt-ox-and-opt-passes/71122#post_4)
-- [Types declaration in MLIR](https://discourse.llvm.org/t/types-declaration-in-mlir/71144#post_17)
 <!-- DISCOURSE-LLVM:END -->
