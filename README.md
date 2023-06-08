@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_4)
-- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_4)
-- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_3)
-- [Understanding the semantics of reinterpret_cast](https://discourse.llvm.org/t/understanding-the-semantics-of-reinterpret-cast/71187#post_4)
-- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_2)
+- [About BSS section](https://discourse.llvm.org/t/about-bss-section/71205#post_2)
+- [Visualize MLIR interactively](https://discourse.llvm.org/t/visualize-mlir-interactively/71206#post_1)
+- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_5)
+- [About BSS section](https://discourse.llvm.org/t/about-bss-section/71205#post_1)
+- [Trying to understand Optimization / Remark Interface](https://discourse.llvm.org/t/trying-to-understand-optimization-remark-interface/71203#post_1)
 <!-- DISCOURSE-LLVM:END -->
