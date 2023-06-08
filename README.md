@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_14)
-- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_13)
-- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_12)
-- [[RFC]? time-trace and offloading](https://discourse.llvm.org/t/rfc-time-trace-and-offloading/71178#post_2)
-- [Using labels for flang issues](https://discourse.llvm.org/t/using-labels-for-flang-issues/71169#post_11)
+- [Understanding the semantics of reinterpret_cast](https://discourse.llvm.org/t/understanding-the-semantics-of-reinterpret-cast/71187#post_2)
+- [Understanding the semantics of reinterpret_cast](https://discourse.llvm.org/t/understanding-the-semantics-of-reinterpret-cast/71187#post_1)
+- [[AArch64] Missed FCCMP opportunity](https://discourse.llvm.org/t/aarch64-missed-fccmp-opportunity/71012#post_7)
+- [Parallelization of affine.for containing vector.transfer_write/read is not supported](https://discourse.llvm.org/t/parallelization-of-affine-for-containing-vector-transfer-write-read-is-not-supported/71185#post_1)
+- [Parallelization of affine.for containing vector.transfer_write/read is not supported](https://discourse.llvm.org/t/parallelization-of-affine-for-containing-vector-transfer-write-read-is-not-supported/71183#post_1)
 <!-- DISCOURSE-LLVM:END -->
