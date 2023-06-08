@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unable to get the RDF Copy propagation pass to work with even the unit-test cases](https://discourse.llvm.org/t/unable-to-get-the-rdf-copy-propagation-pass-to-work-with-even-the-unit-test-cases/71207#post_4)
-- [Unable to get the RDF Copy propagation pass to work with even the unit-test cases](https://discourse.llvm.org/t/unable-to-get-the-rdf-copy-propagation-pass-to-work-with-even-the-unit-test-cases/71207#post_3)
-- [Out For Vacation-](https://discourse.llvm.org/t/out-for-vacation/71214#post_1)
-- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_7)
-- [Unable to get the RDF Copy propagation pass to work with even the unit-test cases](https://discourse.llvm.org/t/unable-to-get-the-rdf-copy-propagation-pass-to-work-with-even-the-unit-test-cases/71207#post_2)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_14)
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_57)
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_56)
+- [Confused about modularity](https://discourse.llvm.org/t/confused-about-modularity/64951#post_13)
+- [Emit LLVM Code Coverage Mapping](https://discourse.llvm.org/t/emit-llvm-code-coverage-mapping/71150#post_2)
 <!-- DISCOURSE-LLVM:END -->
