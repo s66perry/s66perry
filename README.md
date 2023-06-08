@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_13)
-- [Some question about fsm dialect?](https://discourse.llvm.org/t/some-question-about-fsm-dialect/71161#post_2)
-- [[RFC]? time-trace and offloading](https://discourse.llvm.org/t/rfc-time-trace-and-offloading/71178#post_3)
-- [[AArch64] Missed FCCMP opportunity](https://discourse.llvm.org/t/aarch64-missed-fccmp-opportunity/71012#post_8)
-- [MLIR dialect names](https://discourse.llvm.org/t/mlir-dialect-names/70307#post_8)
+- [Some question about fsm dialect?](https://discourse.llvm.org/t/some-question-about-fsm-dialect/71161#post_4)
+- [Can we hint some virtual registers to the same physical registers](https://discourse.llvm.org/t/can-we-hint-some-virtual-registers-to-the-same-physical-registers/71194#post_1)
+- [AArch64 Big Endian ILP32 support in LLD](https://discourse.llvm.org/t/aarch64-big-endian-ilp32-support-in-lld/65845#post_7)
+- [Some question about fsm dialect?](https://discourse.llvm.org/t/some-question-about-fsm-dialect/71161#post_3)
+- [AArch64 Big Endian ILP32 support in LLD](https://discourse.llvm.org/t/aarch64-big-endian-ilp32-support-in-lld/65845#post_6)
 <!-- DISCOURSE-LLVM:END -->
