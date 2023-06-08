@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_4)
+- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_4)
 - [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_3)
 - [Understanding the semantics of reinterpret_cast](https://discourse.llvm.org/t/understanding-the-semantics-of-reinterpret-cast/71187#post_4)
 - [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_2)
-- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_2)
-- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_1)
 <!-- DISCOURSE-LLVM:END -->
