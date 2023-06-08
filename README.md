@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_1)
-- [16.0.4 has been tagged](https://discourse.llvm.org/t/16-0-4-has-been-tagged/70693#post_8)
-- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_9)
-- [Parallelization of affine.for containing vector.transfer_write/read is not supported](https://discourse.llvm.org/t/parallelization-of-affine-for-containing-vector-transfer-write-read-is-not-supported/71185#post_2)
-- [Some question about fsm dialect?](https://discourse.llvm.org/t/some-question-about-fsm-dialect/71161#post_4)
+- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_4)
+- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_3)
+- [Clang driver: can target wasm32 but can&#39;t look up symbols?](https://discourse.llvm.org/t/clang-driver-can-target-wasm32-but-cant-look-up-symbols/71198#post_1)
+- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_2)
+- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_1)
 <!-- DISCOURSE-LLVM:END -->
