@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_4)
-- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_3)
-- [Clang driver: can target wasm32 but can&#39;t look up symbols?](https://discourse.llvm.org/t/clang-driver-can-target-wasm32-but-cant-look-up-symbols/71198#post_1)
-- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_2)
-- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_1)
+- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_3)
+- [Understanding the semantics of reinterpret_cast](https://discourse.llvm.org/t/understanding-the-semantics-of-reinterpret-cast/71187#post_4)
+- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_2)
+- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_2)
+- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_1)
 <!-- DISCOURSE-LLVM:END -->
