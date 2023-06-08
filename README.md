@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Basic pointer questions](https://discourse.llvm.org/t/basic-pointer-questions/71196#post_1)
+- [16.0.4 has been tagged](https://discourse.llvm.org/t/16-0-4-has-been-tagged/70693#post_8)
+- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_9)
+- [Parallelization of affine.for containing vector.transfer_write/read is not supported](https://discourse.llvm.org/t/parallelization-of-affine-for-containing-vector-transfer-write-read-is-not-supported/71185#post_2)
 - [Some question about fsm dialect?](https://discourse.llvm.org/t/some-question-about-fsm-dialect/71161#post_4)
-- [Can we hint some virtual registers to the same physical registers](https://discourse.llvm.org/t/can-we-hint-some-virtual-registers-to-the-same-physical-registers/71194#post_1)
-- [AArch64 Big Endian ILP32 support in LLD](https://discourse.llvm.org/t/aarch64-big-endian-ilp32-support-in-lld/65845#post_7)
-- [Some question about fsm dialect?](https://discourse.llvm.org/t/some-question-about-fsm-dialect/71161#post_3)
-- [AArch64 Big Endian ILP32 support in LLD](https://discourse.llvm.org/t/aarch64-big-endian-ilp32-support-in-lld/65845#post_6)
 <!-- DISCOURSE-LLVM:END -->
