@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang driver: can target wasm32 but can&#39;t look up symbols?](https://discourse.llvm.org/t/clang-driver-can-target-wasm32-but-cant-look-up-symbols/71198#post_2)
-- [Lowering ::mlir::memref::TensorStoreOp to LLVM IR](https://discourse.llvm.org/t/lowering-tensorstoreop-to-llvm-ir/66425#post_5)
-- [Lowering Std, Affine, Vector Mix Operations to LLVM IR](https://discourse.llvm.org/t/lowering-std-affine-vector-mix-operations-to-llvm-ir/71223#post_1)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_79)
-- [Error: Opaque pointers are only supported in -opaque-pointers mode](https://discourse.llvm.org/t/error-opaque-pointers-are-only-supported-in-opaque-pointers-mode/71217#post_1)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_17)
+- [Trying to cross-compile with Asan for AAarch64; missing libraries](https://discourse.llvm.org/t/trying-to-cross-compile-with-asan-for-aaarch64-missing-libraries/71227#post_1)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_16)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126#post_15)
+- [Unable to get the RDF Copy propagation pass to work with even the unit-test cases](https://discourse.llvm.org/t/unable-to-get-the-rdf-copy-propagation-pass-to-work-with-even-the-unit-test-cases/71207#post_6)
 <!-- DISCOURSE-LLVM:END -->
