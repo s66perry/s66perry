@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Moving towards a singular pointer type](https://discourse.llvm.org/t/moving-towards-a-singular-pointer-type/35347?page=3#post_50)
+- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_6)
+- [[AArch64] Missed FCCMP opportunity](https://discourse.llvm.org/t/aarch64-missed-fccmp-opportunity/71012#post_10)
+- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_4)
 - [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=5#post_81)
-- [Can we hint some virtual registers to the same physical registers](https://discourse.llvm.org/t/can-we-hint-some-virtual-registers-to-the-same-physical-registers/71194#post_2)
-- [RFC: AArch64 Linux Scalable Matrix Extension &lpar;SME&rpar; support for LLDB](https://discourse.llvm.org/t/rfc-aarch64-linux-scalable-matrix-extension-sme-support-for-lldb/71249#post_1)
-- [Confusing Register Class values in a backend pass post-RA](https://discourse.llvm.org/t/confusing-register-class-values-in-a-backend-pass-post-ra/71246#post_2)
-- [Unable to get the RDF Copy propagation pass to work with even the unit-test cases](https://discourse.llvm.org/t/unable-to-get-the-rdf-copy-propagation-pass-to-work-with-even-the-unit-test-cases/71207#post_10)
 <!-- DISCOURSE-LLVM:END -->
