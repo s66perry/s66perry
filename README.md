@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_3)
-- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_9)
-- [[RFC] MLIR Pattern Matching for library and acceleration instruction rewriting](https://discourse.llvm.org/t/rfc-mlir-pattern-matching-for-library-and-acceleration-instruction-rewriting/71172#post_8)
-- [Visualize MLIR interactively](https://discourse.llvm.org/t/visualize-mlir-interactively/71206#post_2)
-- [Programmatically Toggle Specific LLVM Optimizations](https://discourse.llvm.org/t/programmatically-toggle-specific-llvm-optimizations/48741#post_9)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126?page=2#post_22)
+- [Error: Opaque pointers are only supported in -opaque-pointers mode](https://discourse.llvm.org/t/error-opaque-pointers-are-only-supported-in-opaque-pointers-mode/71217#post_3)
+- [Disabling optimizations in clang/llvm for specified regions in code](https://discourse.llvm.org/t/disabling-optimizations-in-clang-llvm-for-specified-regions-in-code/59044#post_4)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126?page=2#post_21)
+- [Unable to get the RDF Copy propagation pass to work with even the unit-test cases](https://discourse.llvm.org/t/unable-to-get-the-rdf-copy-propagation-pass-to-work-with-even-the-unit-test-cases/71207#post_9)
 <!-- DISCOURSE-LLVM:END -->
