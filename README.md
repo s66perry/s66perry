@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=4#post_80)
+- [Confusing Register Class values in a backend pass post-RA](https://discourse.llvm.org/t/confusing-register-class-values-in-a-backend-pass-post-ra/71246#post_1)
 - [Running Toy tutorial tests](https://discourse.llvm.org/t/running-toy-tutorial-tests/71242#post_6)
 - [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_9)
 - [Running Toy tutorial tests](https://discourse.llvm.org/t/running-toy-tutorial-tests/71242#post_5)
-- [Error: Opaque pointers are only supported in -opaque-pointers mode](https://discourse.llvm.org/t/error-opaque-pointers-are-only-supported-in-opaque-pointers-mode/71217#post_4)
-- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_8)
 <!-- DISCOURSE-LLVM:END -->
