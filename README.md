@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Moving towards a singular pointer type](https://discourse.llvm.org/t/moving-towards-a-singular-pointer-type/35347?page=3#post_50)
-- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_6)
-- [[AArch64] Missed FCCMP opportunity](https://discourse.llvm.org/t/aarch64-missed-fccmp-opportunity/71012#post_10)
-- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_4)
-- [[RFC] Creating a ArmSME Dialect](https://discourse.llvm.org/t/rfc-creating-a-armsme-dialect/67208?page=5#post_81)
+- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_7)
+- [[RFC] Splitting clang&#39;s TargetInfo.cpp](https://discourse.llvm.org/t/rfc-splitting-clangs-targetinfo-cpp/69883#post_17)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126?page=2#post_27)
+- [Default packages seem not to be upgraded to version 17 on arm64](https://discourse.llvm.org/t/default-packages-seem-not-to-be-upgraded-to-version-17-on-arm64/71192#post_2)
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
