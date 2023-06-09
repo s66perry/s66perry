@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_7)
-- [Running Toy tutorial tests](https://discourse.llvm.org/t/running-toy-tutorial-tests/71242#post_2)
-- [Running Toy tutorial tests](https://discourse.llvm.org/t/running-toy-tutorial-tests/71242#post_1)
-- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_6)
-- [Compiler Engineer at Guardsquare](https://discourse.llvm.org/t/compiler-engineer-at-guardsquare/71241#post_1)
+- [Running Toy tutorial tests](https://discourse.llvm.org/t/running-toy-tutorial-tests/71242#post_6)
+- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_9)
+- [Running Toy tutorial tests](https://discourse.llvm.org/t/running-toy-tutorial-tests/71242#post_5)
+- [Error: Opaque pointers are only supported in -opaque-pointers mode](https://discourse.llvm.org/t/error-opaque-pointers-are-only-supported-in-opaque-pointers-mode/71217#post_4)
+- [Parsing and printing new types mlir](https://discourse.llvm.org/t/parsing-and-printing-new-types-mlir/71200#post_8)
 <!-- DISCOURSE-LLVM:END -->
