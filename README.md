@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_14)
+- [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_2)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_65)
 - [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_10)
 - [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_9)
-- [Trailing return type](https://discourse.llvm.org/t/trailing-return-type/71253#post_1)
-- [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_1)
 <!-- DISCOURSE-LLVM:END -->
