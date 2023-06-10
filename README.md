@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM reordering blocks breaks ptxas divergence analysis](https://discourse.llvm.org/t/llvm-reordering-blocks-breaks-ptxas-divergence-analysis/71126?page=2#post_28)
+- [Can we hint some virtual registers to the same physical registers](https://discourse.llvm.org/t/can-we-hint-some-virtual-registers-to-the-same-physical-registers/71194#post_3)
+- [CIRCT install not working](https://discourse.llvm.org/t/circt-install-not-working/71260#post_2)
 - [CIRCT install not working](https://discourse.llvm.org/t/circt-install-not-working/71260#post_1)
 - [Glibc support policy?](https://discourse.llvm.org/t/glibc-support-policy/61209#post_3)
-- [Confusing Register Class values in a backend pass post-RA](https://discourse.llvm.org/t/confusing-register-class-values-in-a-backend-pass-post-ra/71246#post_3)
-- [[RFC] Scalable Vectorisation in Linalg](https://discourse.llvm.org/t/rfc-scalable-vectorisation-in-linalg/70419#post_12)
-- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_16)
 <!-- DISCOURSE-LLVM:END -->
