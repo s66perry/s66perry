@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_9)
+- [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_8)
 - [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_14)
 - [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_7)
 - [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_13)
-- [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_12)
-- [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_6)
 <!-- DISCOURSE-LLVM:END -->
