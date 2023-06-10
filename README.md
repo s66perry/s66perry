@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_12)
+- [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_6)
 - [C++ or RUST to VHDL](https://discourse.llvm.org/t/c-or-rust-to-vhdl/71262#post_4)
 - [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_5)
 - [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_11)
-- [C++ or RUST to VHDL](https://discourse.llvm.org/t/c-or-rust-to-vhdl/71262#post_3)
-- [[RFC] Tile Dialect and-or Dialect Reshuffle](https://discourse.llvm.org/t/rfc-tile-dialect-and-or-dialect-reshuffle/71252#post_4)
 <!-- DISCOURSE-LLVM:END -->
