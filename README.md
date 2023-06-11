@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Social Bangalore Meetup - June 17 &lpar;Saturday&rpar;](https://discourse.llvm.org/t/llvm-social-bangalore-meetup-june-17-saturday/71270#post_1)
 - [Trailing return type](https://discourse.llvm.org/t/trailing-return-type/71253#post_4)
 - [Trailing return type](https://discourse.llvm.org/t/trailing-return-type/71253#post_3)
 - [Get element in pointer to array](https://discourse.llvm.org/t/get-element-in-pointer-to-array/71265#post_7)
 - [Get element in pointer to array](https://discourse.llvm.org/t/get-element-in-pointer-to-array/71265#post_6)
-- [Get element in pointer to array](https://discourse.llvm.org/t/get-element-in-pointer-to-array/71265#post_5)
 <!-- DISCOURSE-LLVM:END -->
