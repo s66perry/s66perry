@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][PSA?] Remove `vector.extractelement` and `vector.insertelement` ops in favor of `vector.extract` and `vector.insert` ops](https://discourse.llvm.org/t/rfc-psa-remove-vector-extractelement-and-vector-insertelement-ops-in-favor-of-vector-extract-and-vector-insert-ops/71116#post_5)
 - [Support for different imm sizes](https://discourse.llvm.org/t/support-for-different-imm-sizes/71273#post_7)
 - [Support for different imm sizes](https://discourse.llvm.org/t/support-for-different-imm-sizes/71273#post_6)
 - [Support for different imm sizes](https://discourse.llvm.org/t/support-for-different-imm-sizes/71273#post_5)
 - [Support for different imm sizes](https://discourse.llvm.org/t/support-for-different-imm-sizes/71273#post_4)
-- [Support for different imm sizes](https://discourse.llvm.org/t/support-for-different-imm-sizes/71273#post_3)
 <!-- DISCOURSE-LLVM:END -->
