@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_19)
-- [[RFC] Allocators in the libc for the embedded use case](https://discourse.llvm.org/t/rfc-allocators-in-the-libc-for-the-embedded-use-case/71284#post_2)
-- [Copyright notice for the repository?](https://discourse.llvm.org/t/copyright-notice-for-the-repository/70597#post_6)
-- [[RFC] Draft Two-Level Line Tables Implementation](https://discourse.llvm.org/t/rfc-draft-two-level-line-tables-implementation/71289#post_1)
-- [[RFC] RegionStore++](https://discourse.llvm.org/t/rfc-regionstore/70954#post_18)
+- [Adding option to LLVM opt to disable a specific pass from command line](https://discourse.llvm.org/t/adding-option-to-llvm-opt-to-disable-a-specific-pass-from-command-line/21614#post_14)
+- [[RFC] Stop supporting extern instantiations with GCC](https://discourse.llvm.org/t/rfc-stop-supporting-extern-instantiations-with-gcc/71277#post_2)
+- [Spelling loc and expansion loc confusion](https://discourse.llvm.org/t/spelling-loc-and-expansion-loc-confusion/71279#post_2)
+- [Regarding the warning &quot;LLVM_CONFIG_PATH is deprecated, please use LLVM_CMAKE_DIR instead&quot;](https://discourse.llvm.org/t/regarding-the-warning-llvm-config-path-is-deprecated-please-use-llvm-cmake-dir-instead/71291#post_3)
+- [Regarding the warning &quot;LLVM_CONFIG_PATH is deprecated, please use LLVM_CMAKE_DIR instead&quot;](https://discourse.llvm.org/t/regarding-the-warning-llvm-config-path-is-deprecated-please-use-llvm-cmake-dir-instead/71291#post_2)
 <!-- DISCOURSE-LLVM:END -->
