@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[USC/ISI] Computer Scientist job opening](https://discourse.llvm.org/t/usc-isi-computer-scientist-job-opening/71325#post_1)
-- [[RFC] Allocators in the libc for the embedded use case](https://discourse.llvm.org/t/rfc-allocators-in-the-libc-for-the-embedded-use-case/71284#post_3)
-- [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_6)
-- [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_5)
-- [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_4)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_36)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_35)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_34)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_33)
+- [RVV Vector Predication IR Lowering Question](https://discourse.llvm.org/t/rvv-vector-predication-ir-lowering-question/71320#post_2)
 <!-- DISCOURSE-LLVM:END -->
