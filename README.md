@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[USC/ISI] Computer Scientist job opening](https://discourse.llvm.org/t/usc-isi-computer-scientist-job-opening/71325#post_1)
+- [[RFC] Allocators in the libc for the embedded use case](https://discourse.llvm.org/t/rfc-allocators-in-the-libc-for-the-embedded-use-case/71284#post_3)
+- [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_6)
 - [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_5)
 - [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_4)
-- [Github &quot;shields&quot; on LLVM project github home page?](https://discourse.llvm.org/t/github-shields-on-llvm-project-github-home-page/71314#post_3)
-- [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_3)
-- [Github &quot;shields&quot; on LLVM project github home page?](https://discourse.llvm.org/t/github-shields-on-llvm-project-github-home-page/71314#post_2)
 <!-- DISCOURSE-LLVM:END -->
