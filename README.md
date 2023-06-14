@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_37)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_36)
+- [Is there a way to query a runtime ordering of passes for a given source file?](https://discourse.llvm.org/t/is-there-a-way-to-query-a-runtime-ordering-of-passes-for-a-given-source-file/68970#post_4)
+- [I am New To Open Source But Knows C++ and C](https://discourse.llvm.org/t/i-am-new-to-open-source-but-knows-c-and-c/71331#post_2)
 - [Create new MachineBasicBlock](https://discourse.llvm.org/t/create-new-machinebasicblock/71346#post_3)
-- [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_8)
-- [How to apply a set of patterns *once*](https://discourse.llvm.org/t/how-to-apply-a-set-of-patterns-once/71321#post_7)
-- [Generic LLVM IR -&gt; Windows x64 argument passing issue in LLVM 11.0.0 and later](https://discourse.llvm.org/t/generic-llvm-ir-windows-x64-argument-passing-issue-in-llvm-11-0-0-and-later/71350#post_1)
-- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
