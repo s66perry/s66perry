@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Interleaving several C-style comments in the same inline assembly line](https://discourse.llvm.org/t/interleaving-several-c-style-comments-in-the-same-inline-assembly-line/71353#post_4)
-- [Interleaving several C-style comments in the same inline assembly line](https://discourse.llvm.org/t/interleaving-several-c-style-comments-in-the-same-inline-assembly-line/71353#post_3)
-- [Interleaving several C-style comments in the same inline assembly line](https://discourse.llvm.org/t/interleaving-several-c-style-comments-in-the-same-inline-assembly-line/71353#post_2)
-- [16.0.6 final has been tagged](https://discourse.llvm.org/t/16-0-6-final-has-been-tagged/71342#post_2)
-- [parseSourceFile in MLIR](https://discourse.llvm.org/t/parsesourcefile-in-mlir/71348#post_2)
+- [Pre-LLVM-DEV&#39;23 --- GPU/Offloading Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-gpu-offloading-workshop/71338#post_5)
+- [Loop Opt WG Meeting on Jun 14, 2023](https://discourse.llvm.org/t/loop-opt-wg-meeting-on-jun-14-2023/71358#post_1)
+- [Generic LLVM IR -&gt; Windows x64 argument passing issue in LLVM 11.0.0 and later](https://discourse.llvm.org/t/generic-llvm-ir-windows-x64-argument-passing-issue-in-llvm-11-0-0-and-later/71350#post_3)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281#post_19)
+- [Loading a dialect in MLIR](https://discourse.llvm.org/t/loading-a-dialect-in-mlir/71357#post_1)
 <!-- DISCOURSE-LLVM:END -->
