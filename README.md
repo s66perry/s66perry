@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding support for data member packs](https://discourse.llvm.org/t/adding-support-for-data-member-packs/71333#post_4)
-- [Assertion failed when lowering simple tensor dilect example](https://discourse.llvm.org/t/assertion-failed-when-lowering-simple-tensor-dilect-example/71336#post_2)
-- [Assertion failed when lowering simple tensor dilect example](https://discourse.llvm.org/t/assertion-failed-when-lowering-simple-tensor-dilect-example/71336#post_1)
-- [Ext_vector_type and C++ overloading](https://discourse.llvm.org/t/ext-vector-type-and-c-overloading/71274#post_3)
-- [Adding support for data member packs](https://discourse.llvm.org/t/adding-support-for-data-member-packs/71333#post_3)
+- [Advice on how to approach a checker](https://discourse.llvm.org/t/advice-on-how-to-approach-a-checker/71334#post_2)
+- [Pre-LLVM-DEV&#39;23 --- GPU/Offloading Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-gpu-offloading-workshop/71338#post_3)
+- [Pre-LLVM-DEV&#39;23 --- GPU/Offloading Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-gpu-offloading-workshop/71338#post_2)
+- [Pre-LLVM-DEV&#39;23 --- GPU/Offloading Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-gpu-offloading-workshop/71338#post_1)
+- [Assertion failed when lowering simple tensor dilect example](https://discourse.llvm.org/t/assertion-failed-when-lowering-simple-tensor-dilect-example/71336#post_3)
 <!-- DISCOURSE-LLVM:END -->
