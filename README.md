@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang produces individual memclr calls when setting large data structures](https://discourse.llvm.org/t/clang-produces-individual-memclr-calls-when-setting-large-data-structures/71337#post_3)
-- [Pre-LLVM-DEV&#39;23 --- GPU/Offloading Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-gpu-offloading-workshop/71338#post_6)
-- [Mangling difference between GCC and clang](https://discourse.llvm.org/t/mangling-difference-between-gcc-and-clang/71364#post_1)
-- [Create new MachineBasicBlock](https://discourse.llvm.org/t/create-new-machinebasicblock/71346#post_4)
-- [Open MLIR Meeting 6/8/2023: Update on Numba/MLIR](https://discourse.llvm.org/t/open-mlir-meeting-6-8-2023-update-on-numba-mlir/71132#post_3)
+- [Assertion failed when lowering simple tensor dilect example](https://discourse.llvm.org/t/assertion-failed-when-lowering-simple-tensor-dilect-example/71336#post_5)
+- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_1)
+- [[RFC] Stop supporting extern instantiations with GCC](https://discourse.llvm.org/t/rfc-stop-supporting-extern-instantiations-with-gcc/71277#post_8)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_33)
+- [Clang produces individual memclr calls when setting large data structures](https://discourse.llvm.org/t/clang-produces-individual-memclr-calls-when-setting-large-data-structures/71337#post_4)
 <!-- DISCOURSE-LLVM:END -->
