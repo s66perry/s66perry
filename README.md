@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_37)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_36)
-- [Is there a way to query a runtime ordering of passes for a given source file?](https://discourse.llvm.org/t/is-there-a-way-to-query-a-runtime-ordering-of-passes-for-a-given-source-file/68970#post_4)
-- [I am New To Open Source But Knows C++ and C](https://discourse.llvm.org/t/i-am-new-to-open-source-but-knows-c-and-c/71331#post_2)
-- [Create new MachineBasicBlock](https://discourse.llvm.org/t/create-new-machinebasicblock/71346#post_3)
+- [Interleaving several C-style comments in the same inline assembly line](https://discourse.llvm.org/t/interleaving-several-c-style-comments-in-the-same-inline-assembly-line/71353#post_3)
+- [Interleaving several C-style comments in the same inline assembly line](https://discourse.llvm.org/t/interleaving-several-c-style-comments-in-the-same-inline-assembly-line/71353#post_2)
+- [16.0.6 final has been tagged](https://discourse.llvm.org/t/16-0-6-final-has-been-tagged/71342#post_2)
+- [parseSourceFile in MLIR](https://discourse.llvm.org/t/parsesourcefile-in-mlir/71348#post_2)
+- [Interleaving several C-style comments in the same inline assembly line](https://discourse.llvm.org/t/interleaving-several-c-style-comments-in-the-same-inline-assembly-line/71353#post_1)
 <!-- DISCOURSE-LLVM:END -->
