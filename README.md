@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=3#post_52)
-- [16.0.5 final has been tagged](https://discourse.llvm.org/t/16-0-5-final-has-been-tagged/71095#post_10)
-- [`libm` --- Conformance and timing CI &lpar;for GPUs&rpar;](https://discourse.llvm.org/t/libm-conformance-and-timing-ci-for-gpus/71362#post_4)
-- [`libm` --- Conformance and timing CI &lpar;for GPUs&rpar;](https://discourse.llvm.org/t/libm-conformance-and-timing-ci-for-gpus/71362#post_3)
-- [`libm` --- Conformance and timing CI &lpar;for GPUs&rpar;](https://discourse.llvm.org/t/libm-conformance-and-timing-ci-for-gpus/71362#post_2)
+- [Open MLIR Meeting 6/8/2023: Update on Numba/MLIR](https://discourse.llvm.org/t/open-mlir-meeting-6-8-2023-update-on-numba-mlir/71132#post_3)
+- [Llvm-cxxfilt alternate renderings for particularly large demanglings](https://discourse.llvm.org/t/llvm-cxxfilt-alternate-renderings-for-particularly-large-demanglings/71303#post_4)
+- [[RFC] Stop supporting extern instantiations with GCC](https://discourse.llvm.org/t/rfc-stop-supporting-extern-instantiations-with-gcc/71277#post_7)
+- [RFC: Temporal Profiling Extension for IRPGO](https://discourse.llvm.org/t/rfc-temporal-profiling-extension-for-irpgo/68068#post_7)
+- [[RFC] Stop supporting extern instantiations with GCC](https://discourse.llvm.org/t/rfc-stop-supporting-extern-instantiations-with-gcc/71277#post_6)
 <!-- DISCOURSE-LLVM:END -->
