@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Create new MachineBasicBlock](https://discourse.llvm.org/t/create-new-machinebasicblock/71346#post_2)
-- [Create new MachineBasicBlock](https://discourse.llvm.org/t/create-new-machinebasicblock/71346#post_1)
-- [16.0.6 Release](https://discourse.llvm.org/t/16-0-6-release/71344#post_1)
-- [16.0.6 final has been tagged](https://discourse.llvm.org/t/16-0-6-final-has-been-tagged/71342#post_1)
-- [Clang-Tidy doesn&#39;t find standard C++ modules, despite providing compilation database and prebuilt modules path](https://discourse.llvm.org/t/clang-tidy-doesnt-find-standard-c-modules-despite-providing-compilation-database-and-prebuilt-modules-path/71326#post_5)
+- [Regarding the warning &quot;LLVM_CONFIG_PATH is deprecated, please use LLVM_CMAKE_DIR instead&quot;](https://discourse.llvm.org/t/regarding-the-warning-llvm-config-path-is-deprecated-please-use-llvm-cmake-dir-instead/71291#post_5)
+- [parseSourceFile in MLIR](https://discourse.llvm.org/t/parsesourcefile-in-mlir/71348#post_1)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_35)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_34)
+- [Assertion failed when lowering simple tensor dilect example](https://discourse.llvm.org/t/assertion-failed-when-lowering-simple-tensor-dilect-example/71336#post_4)
 <!-- DISCOURSE-LLVM:END -->
