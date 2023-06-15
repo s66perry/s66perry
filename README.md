@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_9)
-- [Berlin LLVM Meetup Reboot](https://discourse.llvm.org/t/berlin-llvm-meetup-reboot/63396#post_6)
-- [Improve autolinking of compiler-rt and libc++ on windows with lld-link](https://discourse.llvm.org/t/improve-autolinking-of-compiler-rt-and-libc-on-windows-with-lld-link/71392#post_4)
-- [Improve autolinking of compiler-rt and libc++ on windows with lld-link](https://discourse.llvm.org/t/improve-autolinking-of-compiler-rt-and-libc-on-windows-with-lld-link/71392#post_3)
-- [Improve autolinking of compiler-rt and libc++ on windows with lld-link](https://discourse.llvm.org/t/improve-autolinking-of-compiler-rt-and-libc-on-windows-with-lld-link/71392#post_2)
+- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_5)
+- [Unable to compile and run C/C++ program for RISC-V](https://discourse.llvm.org/t/unable-to-compile-and-run-c-c-program-for-risc-v/71396#post_1)
+- [Generic LLVM IR -&gt; Windows x64 argument passing issue in LLVM 11.0.0 and later](https://discourse.llvm.org/t/generic-llvm-ir-windows-x64-argument-passing-issue-in-llvm-11-0-0-and-later/71350#post_7)
+- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_4)
+- [How to run the backend module of LLVM independently?](https://discourse.llvm.org/t/how-to-run-the-backend-module-of-llvm-independently/71390#post_5)
 <!-- DISCOURSE-LLVM:END -->
