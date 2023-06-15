@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clustering source files to work around long clangd indexing time](https://discourse.llvm.org/t/clustering-source-files-to-work-around-long-clangd-indexing-time/71378#post_2)
+- [Clustering source files to work around long clangd indexing time](https://discourse.llvm.org/t/clustering-source-files-to-work-around-long-clangd-indexing-time/71378#post_1)
+- [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_5)
 - [Cross compiling benchmarks](https://discourse.llvm.org/t/cross-compiling-benchmarks/71376#post_1)
 - [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=2#post_21)
-- [Can I create custom LocationAttrs?](https://discourse.llvm.org/t/can-i-create-custom-locationattrs/71372#post_1)
-- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_18)
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_1)
 <!-- DISCOURSE-LLVM:END -->
