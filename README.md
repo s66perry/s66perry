@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_3)
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_8)
-- [PSA: Transform Dialect tutorial is now available](https://discourse.llvm.org/t/psa-transform-dialect-tutorial-is-now-available/71013#post_4)
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_7)
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_6)
+- [Interleaving several C-style comments in the same inline assembly line](https://discourse.llvm.org/t/interleaving-several-c-style-comments-in-the-same-inline-assembly-line/71353#post_9)
+- [How to run the backend module of LLVM independently?](https://discourse.llvm.org/t/how-to-run-the-backend-module-of-llvm-independently/71390#post_3)
+- [How to run the backend module of LLVM independently?](https://discourse.llvm.org/t/how-to-run-the-backend-module-of-llvm-independently/71390#post_2)
+- [How to run the backend module of LLVM independently?](https://discourse.llvm.org/t/how-to-run-the-backend-module-of-llvm-independently/71390#post_1)
+- [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_8)
 <!-- DISCOURSE-LLVM:END -->
