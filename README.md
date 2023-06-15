@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=2#post_38)
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_2)
-- [Open MLIR Meeting 6/8/2023: Update on Numba/MLIR](https://discourse.llvm.org/t/open-mlir-meeting-6-8-2023-update-on-numba-mlir/71132#post_6)
-- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_2)
-- [Open MLIR Meeting 6/8/2023: Update on Numba/MLIR](https://discourse.llvm.org/t/open-mlir-meeting-6-8-2023-update-on-numba-mlir/71132#post_5)
+- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_5)
+- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_4)
+- [[SROA] some wrong when dealing with undef variable](https://discourse.llvm.org/t/sroa-some-wrong-when-dealing-with-undef-variable/71386#post_1)
+- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_3)
+- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_2)
 <!-- DISCOURSE-LLVM:END -->
