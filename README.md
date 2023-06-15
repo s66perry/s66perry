@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Open MLIR Meeting 6/8/2023: Update on Numba/MLIR](https://discourse.llvm.org/t/open-mlir-meeting-6-8-2023-update-on-numba-mlir/71132#post_4)
+- [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_6)
 - [Clustering source files to work around long clangd indexing time](https://discourse.llvm.org/t/clustering-source-files-to-work-around-long-clangd-indexing-time/71378#post_2)
 - [Clustering source files to work around long clangd indexing time](https://discourse.llvm.org/t/clustering-source-files-to-work-around-long-clangd-indexing-time/71378#post_1)
 - [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_5)
-- [Cross compiling benchmarks](https://discourse.llvm.org/t/cross-compiling-benchmarks/71376#post_1)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
