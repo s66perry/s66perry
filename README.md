@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [16.0.6 final has been tagged](https://discourse.llvm.org/t/16-0-6-final-has-been-tagged/71342#post_3)
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_10)
-- [Call for Workshops at the 2023 LLVM Developers&#39; Meeting](https://discourse.llvm.org/t/call-for-workshops-at-the-2023-llvm-developers-meeting/71335#post_3)
-- [[RFC] Prevent optimization/analysis across omp.target region boundaries](https://discourse.llvm.org/t/rfc-prevent-optimization-analysis-across-omp-target-region-boundaries/71402#post_1)
-- [Removing debug locations from ConstantSDNodes](https://discourse.llvm.org/t/removing-debug-locations-from-constantsdnodes/71401#post_1)
+- [[RFC] Prevent optimization/analysis across omp.target region boundaries](https://discourse.llvm.org/t/rfc-prevent-optimization-analysis-across-omp-target-region-boundaries/71402#post_2)
+- [I broke lit on exotic architectures, what can I do?](https://discourse.llvm.org/t/i-broke-lit-on-exotic-architectures-what-can-i-do/71403#post_4)
+- [CFP: Toolchains Track at Linux Plumbers Conf &#39;23](https://discourse.llvm.org/t/cfp-toolchains-track-at-linux-plumbers-conf-23/71404#post_1)
+- [I broke lit on exotic architectures, what can I do?](https://discourse.llvm.org/t/i-broke-lit-on-exotic-architectures-what-can-i-do/71403#post_3)
+- [I broke lit on exotic architectures, what can I do?](https://discourse.llvm.org/t/i-broke-lit-on-exotic-architectures-what-can-i-do/71403#post_2)
 <!-- DISCOURSE-LLVM:END -->
