@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_5)
-- [Unable to compile and run C/C++ program for RISC-V](https://discourse.llvm.org/t/unable-to-compile-and-run-c-c-program-for-risc-v/71396#post_1)
-- [Generic LLVM IR -&gt; Windows x64 argument passing issue in LLVM 11.0.0 and later](https://discourse.llvm.org/t/generic-llvm-ir-windows-x64-argument-passing-issue-in-llvm-11-0-0-and-later/71350#post_7)
-- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_4)
-- [How to run the backend module of LLVM independently?](https://discourse.llvm.org/t/how-to-run-the-backend-module-of-llvm-independently/71390#post_5)
+- [16.0.6 final has been tagged](https://discourse.llvm.org/t/16-0-6-final-has-been-tagged/71342#post_3)
+- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_10)
+- [Call for Workshops at the 2023 LLVM Developers&#39; Meeting](https://discourse.llvm.org/t/call-for-workshops-at-the-2023-llvm-developers-meeting/71335#post_3)
+- [[RFC] Prevent optimization/analysis across omp.target region boundaries](https://discourse.llvm.org/t/rfc-prevent-optimization-analysis-across-omp-target-region-boundaries/71402#post_1)
+- [Removing debug locations from ConstantSDNodes](https://discourse.llvm.org/t/removing-debug-locations-from-constantsdnodes/71401#post_1)
 <!-- DISCOURSE-LLVM:END -->
