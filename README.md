@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_5)
-- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_4)
-- [[SROA] some wrong when dealing with undef variable](https://discourse.llvm.org/t/sroa-some-wrong-when-dealing-with-undef-variable/71386#post_1)
-- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_3)
-- [Failed to satisfy constraint: flat symbol reference attribut](https://discourse.llvm.org/t/failed-to-satisfy-constraint-flat-symbol-reference-attribut/71385#post_2)
+- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_7)
+- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_6)
+- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_5)
+- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_4)
+- [[RFC] Allocators in the libc for the embedded use case](https://discourse.llvm.org/t/rfc-allocators-in-the-libc-for-the-embedded-use-case/71284#post_5)
 <!-- DISCOURSE-LLVM:END -->
