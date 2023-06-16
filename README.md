@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_11)
+- [Generic LLVM IR -&gt; Windows x64 argument passing issue in LLVM 11.0.0 and later](https://discourse.llvm.org/t/generic-llvm-ir-windows-x64-argument-passing-issue-in-llvm-11-0-0-and-later/71350#post_8)
+- [Parse custom attribute in python bindings](https://discourse.llvm.org/t/parse-custom-attribute-in-python-bindings/71410#post_2)
 - [[RFC] Allocators in the libc for the embedded use case](https://discourse.llvm.org/t/rfc-allocators-in-the-libc-for-the-embedded-use-case/71284#post_8)
 - [I broke lit on exotic architectures, what can I do?](https://discourse.llvm.org/t/i-broke-lit-on-exotic-architectures-what-can-i-do/71403#post_6)
-- [Unable to compile and run C/C++ program for RISC-V](https://discourse.llvm.org/t/unable-to-compile-and-run-c-c-program-for-risc-v/71396#post_4)
-- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_8)
-- [[RFC] Allocators in the libc for the embedded use case](https://discourse.llvm.org/t/rfc-allocators-in-the-libc-for-the-embedded-use-case/71284#post_7)
 <!-- DISCOURSE-LLVM:END -->
