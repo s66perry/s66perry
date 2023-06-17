@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Parse custom attribute in python bindings](https://discourse.llvm.org/t/parse-custom-attribute-in-python-bindings/71410#post_4)
 - [Pre-LLVM-DEV&#39;23 - ML-Guided Compiler Optimization Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-ml-guided-compiler-optimization-workshop/71431#post_4)
 - [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_14)
 - [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_13)
 - [General trouble building clang](https://discourse.llvm.org/t/general-trouble-building-clang/71329#post_12)
-- [RFC: Standardize Clang Resource Directory as /usr/lib/clang/${version}](https://discourse.llvm.org/t/rfc-standardize-clang-resource-directory-as-usr-lib-clang-version/71433#post_2)
 <!-- DISCOURSE-LLVM:END -->
