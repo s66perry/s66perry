@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How do get Loop Info object, Inside InlineCost.cpp?](https://discourse.llvm.org/t/how-do-get-loop-info-object-inside-inlinecost-cpp/71424#post_2)
-- [[RFC] Flang - improve debug information, user error messages and fix OpenMP function mismatch for -save-temps flag](https://discourse.llvm.org/t/rfc-flang-improve-debug-information-user-error-messages-and-fix-openmp-function-mismatch-for-save-temps-flag/71417#post_5)
-- [[RFC] Flang - improve debug information, user error messages and fix OpenMP function mismatch for -save-temps flag](https://discourse.llvm.org/t/rfc-flang-improve-debug-information-user-error-messages-and-fix-openmp-function-mismatch-for-save-temps-flag/71417#post_4)
-- [[RFC] Flang - improve debug information, user error messages and fix OpenMP function mismatch for -save-temps flag](https://discourse.llvm.org/t/rfc-flang-improve-debug-information-user-error-messages-and-fix-openmp-function-mismatch-for-save-temps-flag/71417#post_3)
-- [[SROA] some wrong when dealing with undef variable](https://discourse.llvm.org/t/sroa-some-wrong-when-dealing-with-undef-variable/71386#post_2)
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_11)
+- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_27)
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_10)
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_9)
+- [What is PseudoVADD in RISC-V tablegen?](https://discourse.llvm.org/t/what-is-pseudovadd-in-risc-v-tablegen/71464#post_1)
 <!-- DISCOURSE-LLVM:END -->
