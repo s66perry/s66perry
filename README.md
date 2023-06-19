@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_13)
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_12)
 - [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_11)
 - [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_27)
 - [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_10)
-- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_9)
-- [What is PseudoVADD in RISC-V tablegen?](https://discourse.llvm.org/t/what-is-pseudovadd-in-risc-v-tablegen/71464#post_1)
 <!-- DISCOURSE-LLVM:END -->
