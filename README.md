@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_2)
-- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_1)
-- [IR Direct call emitted to asm indirect call](https://discourse.llvm.org/t/ir-direct-call-emitted-to-asm-indirect-call/71422#post_3)
-- [Reporting phabricator spam](https://discourse.llvm.org/t/reporting-phabricator-spam/68204#post_11)
-- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_9)
+- [SCFToGPU convertion -convert-parallel-loops-to-gpu](https://discourse.llvm.org/t/scftogpu-convertion-convert-parallel-loops-to-gpu/61472#post_4)
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_8)
+- [[RFC] Correct implementation of memcpy with metadata](https://discourse.llvm.org/t/rfc-correct-implementation-of-memcpy-with-metadata/71429#post_3)
+- [LLVM Embedded Toolchains Working Group call this Thursday 22nd of June](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-22nd-of-june/71461#post_1)
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_7)
 <!-- DISCOURSE-LLVM:END -->
