@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_2)
+- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_1)
+- [IR Direct call emitted to asm indirect call](https://discourse.llvm.org/t/ir-direct-call-emitted-to-asm-indirect-call/71422#post_3)
 - [Reporting phabricator spam](https://discourse.llvm.org/t/reporting-phabricator-spam/68204#post_11)
 - [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_9)
-- [[RFC] MatchTable-based GlobalISel Combiners](https://discourse.llvm.org/t/rfc-matchtable-based-globalisel-combiners/71457#post_1)
-- [How to use `compiler-rt` on 32-bit ARM?](https://discourse.llvm.org/t/how-to-use-compiler-rt-on-32-bit-arm/71447#post_3)
-- [Building LLVM runtimes as part of larger CMake project](https://discourse.llvm.org/t/building-llvm-runtimes-as-part-of-larger-cmake-project/71456#post_2)
 <!-- DISCOURSE-LLVM:END -->
