@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to use `compiler-rt` on 32-bit ARM?](https://discourse.llvm.org/t/how-to-use-compiler-rt-on-32-bit-arm/71447#post_3)
+- [Building LLVM runtimes as part of larger CMake project](https://discourse.llvm.org/t/building-llvm-runtimes-as-part-of-larger-cmake-project/71456#post_2)
 - [[RFC] Correct implementation of memcpy with metadata](https://discourse.llvm.org/t/rfc-correct-implementation-of-memcpy-with-metadata/71429#post_2)
 - [Questions on String initialization and usage](https://discourse.llvm.org/t/questions-on-string-initialization-and-usage/71448#post_4)
 - [[RFC] memfill and memtransfer intrinsics for generalized memset/memcpy](https://discourse.llvm.org/t/rfc-memfill-and-memtransfer-intrinsics-for-generalized-memset-memcpy/71440#post_6)
-- [Call for Workshops at the 2023 LLVM Developers&#39; Meeting](https://discourse.llvm.org/t/call-for-workshops-at-the-2023-llvm-developers-meeting/71335#post_4)
-- [Finer grained output directory?](https://discourse.llvm.org/t/finer-grained-output-directory/71455#post_2)
 <!-- DISCOURSE-LLVM:END -->
