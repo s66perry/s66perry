@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Flang - improve debug information, user error messages and fix OpenMP function mismatch for -save-temps flag](https://discourse.llvm.org/t/rfc-flang-improve-debug-information-user-error-messages-and-fix-openmp-function-mismatch-for-save-temps-flag/71417#post_3)
+- [[SROA] some wrong when dealing with undef variable](https://discourse.llvm.org/t/sroa-some-wrong-when-dealing-with-undef-variable/71386#post_2)
+- [Pre-LLVM-DEV&#39;23 - ML-Guided Compiler Optimization Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-ml-guided-compiler-optimization-workshop/71431#post_5)
 - [SCFToGPU convertion -convert-parallel-loops-to-gpu](https://discourse.llvm.org/t/scftogpu-convertion-convert-parallel-loops-to-gpu/61472#post_4)
 - [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_8)
-- [[RFC] Correct implementation of memcpy with metadata](https://discourse.llvm.org/t/rfc-correct-implementation-of-memcpy-with-metadata/71429#post_3)
-- [LLVM Embedded Toolchains Working Group call this Thursday 22nd of June](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-22nd-of-june/71461#post_1)
-- [SumTypes Implementation with MLIR](https://discourse.llvm.org/t/sumtypes-implementation-with-mlir/71460#post_7)
 <!-- DISCOURSE-LLVM:END -->
