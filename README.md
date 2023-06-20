@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How do get Loop Info object, Inside InlineCost.cpp?](https://discourse.llvm.org/t/how-do-get-loop-info-object-inside-inlinecost-cpp/71424#post_4)
+- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_12)
 - [Clang17.0 can not find headers after building from source and installing it on macOS 10.15](https://discourse.llvm.org/t/clang17-0-can-not-find-headers-after-building-from-source-and-installing-it-on-macos-10-15/71487#post_4)
 - [Clang17.0 can not find headers after building from source and installing it on macOS 10.15](https://discourse.llvm.org/t/clang17-0-can-not-find-headers-after-building-from-source-and-installing-it-on-macos-10-15/71487#post_3)
 - [Clang17.0 can not find headers after building from source and installing it on macOS 10.15](https://discourse.llvm.org/t/clang17-0-can-not-find-headers-after-building-from-source-and-installing-it-on-macos-10-15/71487#post_2)
-- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_13)
-- [How I disabled a single LLVM pass from Clang](https://discourse.llvm.org/t/how-i-disabled-a-single-llvm-pass-from-clang/71481#post_7)
 <!-- DISCOURSE-LLVM:END -->
