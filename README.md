@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[llvm-test-suite] Test failure due to &quot;fpcmp cannot find test output &quot; in MultiSource/Benchmarks](https://discourse.llvm.org/t/llvm-test-suite-test-failure-due-to-fpcmp-cannot-find-test-output-in-multisource-benchmarks/71507#post_1)
+- [Lookig for reviewers for MachineLICM + WinEH](https://discourse.llvm.org/t/lookig-for-reviewers-for-machinelicm-wineh/71506#post_1)
+- [[RFC] MatchTable-based GlobalISel Combiners](https://discourse.llvm.org/t/rfc-matchtable-based-globalisel-combiners/71457#post_4)
+- [Convert toy.constant to memref.global](https://discourse.llvm.org/t/convert-toy-constant-to-memref-global/71484#post_4)
 - [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_14)
-- [Convert toy.constant to memref.global](https://discourse.llvm.org/t/convert-toy-constant-to-memref-global/71484#post_3)
-- [How do get Loop Info object, Inside InlineCost.cpp?](https://discourse.llvm.org/t/how-do-get-loop-info-object-inside-inlinecost-cpp/71424#post_5)
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_17)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
