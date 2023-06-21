@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issue in Kaleidoscope compilation in chapter 4](https://discourse.llvm.org/t/issue-in-kaleidoscope-compilation-in-chapter-4/71499#post_4)
-- [Minimizing the difference between `opt -OX` and `opt -passes=&quot;...&quot;`](https://discourse.llvm.org/t/minimizing-the-difference-between-opt-ox-and-opt-passes/71122#post_6)
-- [Open MLIR Meeting 6/22/2023: RFC on ArmSME Dialect](https://discourse.llvm.org/t/open-mlir-meeting-6-22-2023-rfc-on-armsme-dialect/71515#post_1)
-- [[RFC] Proposing a code owner for the experimental constexpr interpreter](https://discourse.llvm.org/t/rfc-proposing-a-code-owner-for-the-experimental-constexpr-interpreter/71514#post_3)
-- [[RFC] Adding AllRanksMatchIfKnown trait to TOSA broadcastable Operators](https://discourse.llvm.org/t/rfc-adding-allranksmatchifknown-trait-to-tosa-broadcastable-operators/71500#post_2)
+- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144?page=2#post_21)
+- [[Question] TypesMatchWith fails to verify type match](https://discourse.llvm.org/t/question-typesmatchwith-fails-to-verify-type-match/71516#post_3)
+- [[Question] TypesMatchWith fails to verify type match](https://discourse.llvm.org/t/question-typesmatchwith-fails-to-verify-type-match/71516#post_2)
+- [[llvm-test-suite] Test failure due to &quot;fpcmp cannot find test output &quot; in MultiSource/Benchmarks](https://discourse.llvm.org/t/llvm-test-suite-test-failure-due-to-fpcmp-cannot-find-test-output-in-multisource-benchmarks/71507#post_5)
+- [[Question] TypesMatchWith fails to verify type match](https://discourse.llvm.org/t/question-typesmatchwith-fails-to-verify-type-match/71516#post_1)
 <!-- DISCOURSE-LLVM:END -->
