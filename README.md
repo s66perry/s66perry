@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issue in Kaleidoscope compilation in chapter 4](https://discourse.llvm.org/t/issue-in-kaleidoscope-compilation-in-chapter-4/71499#post_3)
-- [[GlobalISel] how to enable -global-isel-abort=0 default](https://discourse.llvm.org/t/globalisel-how-to-enable-global-isel-abort-0-default/71509#post_2)
-- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_12)
-- [When compiling C++ `__has_attribute` returns `1` for attributes declared as `COnly` in Attr.td](https://discourse.llvm.org/t/when-compiling-c-has-attribute-returns-1-for-attributes-declared-as-conly-in-attr-td/71430#post_4)
-- [When compiling C++ `__has_attribute` returns `1` for attributes declared as `COnly` in Attr.td](https://discourse.llvm.org/t/when-compiling-c-has-attribute-returns-1-for-attributes-declared-as-conly-in-attr-td/71430#post_3)
+- [Return i1 in EFLAGS](https://discourse.llvm.org/t/return-i1-in-eflags/71399#post_2)
+- [How to compare IR/object files statically for predicting better performance for machine learning based cost models](https://discourse.llvm.org/t/how-to-compare-ir-object-files-statically-for-predicting-better-performance-for-machine-learning-based-cost-models/71513#post_1)
+- [[RFC] Adding a CharSet Converter to the LLVM Support Library](https://discourse.llvm.org/t/rfc-adding-a-charset-converter-to-the-llvm-support-library/69795#post_17)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512#post_1)
+- [[RFC] MatchTable-based GlobalISel Combiners](https://discourse.llvm.org/t/rfc-matchtable-based-globalisel-combiners/71457#post_6)
 <!-- DISCOURSE-LLVM:END -->
