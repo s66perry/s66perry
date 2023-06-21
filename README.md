@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_14)
+- [Convert toy.constant to memref.global](https://discourse.llvm.org/t/convert-toy-constant-to-memref-global/71484#post_3)
+- [How do get Loop Info object, Inside InlineCost.cpp?](https://discourse.llvm.org/t/how-do-get-loop-info-object-inside-inlinecost-cpp/71424#post_5)
+- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371#post_17)
 - [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=3#post_43)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_37)
-- [[RFC] llvm-cm: Cost Model Evaluation for Object Files/Machine Code](https://discourse.llvm.org/t/rfc-llvm-cm-cost-model-evaluation-for-object-files-machine-code/71502#post_2)
-- [Sparse Compiler and GPU Code-Generation](https://discourse.llvm.org/t/sparse-compiler-and-gpu-code-generation/69786#post_6)
-- [[RFC] MatchTable-based GlobalISel Combiners](https://discourse.llvm.org/t/rfc-matchtable-based-globalisel-combiners/71457#post_3)
 <!-- DISCOURSE-LLVM:END -->
