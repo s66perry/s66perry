@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=3#post_45)
-- [RFC: lldb-vscode startDebugging reverse requests](https://discourse.llvm.org/t/rfc-lldb-vscode-startdebugging-reverse-requests/71518#post_1)
-- [Issue in Kaleidoscope compilation in chapter 4](https://discourse.llvm.org/t/issue-in-kaleidoscope-compilation-in-chapter-4/71499#post_5)
-- [__cxa_get_globals&lpar;&rpar; problem on mingw](https://discourse.llvm.org/t/cxa-get-globals-problem-on-mingw/71511#post_2)
-- [Lookig for reviewers for MachineLICM + WinEH](https://discourse.llvm.org/t/lookig-for-reviewers-for-machinelicm-wineh/71506#post_2)
+- [[RFC] Developing a policy for diagnostic updates](https://discourse.llvm.org/t/rfc-developing-a-policy-for-diagnostic-updates/71519#post_1)
+- [Working in a new language](https://discourse.llvm.org/t/working-in-a-new-language/71476#post_6)
+- [Push some operations dynamically in module](https://discourse.llvm.org/t/push-some-operations-dynamically-in-module/71517#post_4)
+- [Push some operations dynamically in module](https://discourse.llvm.org/t/push-some-operations-dynamically-in-module/71517#post_3)
+- [Working in a new language](https://discourse.llvm.org/t/working-in-a-new-language/71476#post_5)
 <!-- DISCOURSE-LLVM:END -->
