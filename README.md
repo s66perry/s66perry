@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Flang - improve debug information, user error messages and fix OpenMP function mismatch for -save-temps flag](https://discourse.llvm.org/t/rfc-flang-improve-debug-information-user-error-messages-and-fix-openmp-function-mismatch-for-save-temps-flag/71417#post_9)
+- [&quot;Preserve none&quot; calling convention](https://discourse.llvm.org/t/preserve-none-calling-convention/60276#post_2)
+- [Issue in Kaleidoscope compilation in chapter 4](https://discourse.llvm.org/t/issue-in-kaleidoscope-compilation-in-chapter-4/71499#post_2)
+- [Operation in MLIR](https://discourse.llvm.org/t/operation-in-mlir/71508#post_1)
 - [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_15)
-- [[llvm-test-suite] Test failure due to &quot;fpcmp cannot find test output &quot; in MultiSource/Benchmarks](https://discourse.llvm.org/t/llvm-test-suite-test-failure-due-to-fpcmp-cannot-find-test-output-in-multisource-benchmarks/71507#post_4)
-- [[llvm-test-suite] Test failure due to &quot;fpcmp cannot find test output &quot; in MultiSource/Benchmarks](https://discourse.llvm.org/t/llvm-test-suite-test-failure-due-to-fpcmp-cannot-find-test-output-in-multisource-benchmarks/71507#post_3)
-- [[llvm-test-suite] Test failure due to &quot;fpcmp cannot find test output &quot; in MultiSource/Benchmarks](https://discourse.llvm.org/t/llvm-test-suite-test-failure-due-to-fpcmp-cannot-find-test-output-in-multisource-benchmarks/71507#post_2)
-- [[llvm-test-suite] Test failure due to &quot;fpcmp cannot find test output &quot; in MultiSource/Benchmarks](https://discourse.llvm.org/t/llvm-test-suite-test-failure-due-to-fpcmp-cannot-find-test-output-in-multisource-benchmarks/71507#post_1)
 <!-- DISCOURSE-LLVM:END -->
