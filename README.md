@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144?page=2#post_21)
-- [[Question] TypesMatchWith fails to verify type match](https://discourse.llvm.org/t/question-typesmatchwith-fails-to-verify-type-match/71516#post_3)
-- [[Question] TypesMatchWith fails to verify type match](https://discourse.llvm.org/t/question-typesmatchwith-fails-to-verify-type-match/71516#post_2)
-- [[llvm-test-suite] Test failure due to &quot;fpcmp cannot find test output &quot; in MultiSource/Benchmarks](https://discourse.llvm.org/t/llvm-test-suite-test-failure-due-to-fpcmp-cannot-find-test-output-in-multisource-benchmarks/71507#post_5)
-- [[Question] TypesMatchWith fails to verify type match](https://discourse.llvm.org/t/question-typesmatchwith-fails-to-verify-type-match/71516#post_1)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=3#post_45)
+- [RFC: lldb-vscode startDebugging reverse requests](https://discourse.llvm.org/t/rfc-lldb-vscode-startdebugging-reverse-requests/71518#post_1)
+- [Issue in Kaleidoscope compilation in chapter 4](https://discourse.llvm.org/t/issue-in-kaleidoscope-compilation-in-chapter-4/71499#post_5)
+- [__cxa_get_globals&lpar;&rpar; problem on mingw](https://discourse.llvm.org/t/cxa-get-globals-problem-on-mingw/71511#post_2)
+- [Lookig for reviewers for MachineLICM + WinEH](https://discourse.llvm.org/t/lookig-for-reviewers-for-machinelicm-wineh/71506#post_2)
 <!-- DISCOURSE-LLVM:END -->
