@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposing a code owner for the experimental constexpr interpreter](https://discourse.llvm.org/t/rfc-proposing-a-code-owner-for-the-experimental-constexpr-interpreter/71514#post_2)
-- [[RFC] Proposing a code owner for the experimental constexpr interpreter](https://discourse.llvm.org/t/rfc-proposing-a-code-owner-for-the-experimental-constexpr-interpreter/71514#post_1)
-- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144#post_20)
-- [Return i1 in EFLAGS](https://discourse.llvm.org/t/return-i1-in-eflags/71399#post_2)
-- [How to compare IR/object files statically for predicting better performance for machine learning based cost models](https://discourse.llvm.org/t/how-to-compare-ir-object-files-statically-for-predicting-better-performance-for-machine-learning-based-cost-models/71513#post_1)
+- [Issue in Kaleidoscope compilation in chapter 4](https://discourse.llvm.org/t/issue-in-kaleidoscope-compilation-in-chapter-4/71499#post_4)
+- [Minimizing the difference between `opt -OX` and `opt -passes=&quot;...&quot;`](https://discourse.llvm.org/t/minimizing-the-difference-between-opt-ox-and-opt-passes/71122#post_6)
+- [Open MLIR Meeting 6/22/2023: RFC on ArmSME Dialect](https://discourse.llvm.org/t/open-mlir-meeting-6-22-2023-rfc-on-armsme-dialect/71515#post_1)
+- [[RFC] Proposing a code owner for the experimental constexpr interpreter](https://discourse.llvm.org/t/rfc-proposing-a-code-owner-for-the-experimental-constexpr-interpreter/71514#post_3)
+- [[RFC] Adding AllRanksMatchIfKnown trait to TOSA broadcastable Operators](https://discourse.llvm.org/t/rfc-adding-allranksmatchifknown-trait-to-tosa-broadcastable-operators/71500#post_2)
 <!-- DISCOURSE-LLVM:END -->
