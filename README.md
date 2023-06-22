@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Failure converting `scf.yield` operation](https://discourse.llvm.org/t/failure-converting-scf-yield-operation/71510#post_8)
-- [Clang, LLVM general questions](https://discourse.llvm.org/t/clang-llvm-general-questions/71533#post_9)
-- [Clang, LLVM general questions](https://discourse.llvm.org/t/clang-llvm-general-questions/71533#post_8)
-- [Clang, LLVM general questions](https://discourse.llvm.org/t/clang-llvm-general-questions/71533#post_7)
-- [ELF error : Expected top level entity](https://discourse.llvm.org/t/elf-error-expected-top-level-entity/71531#post_2)
+- [Thought on strictfp support](https://discourse.llvm.org/t/thought-on-strictfp-support/71453#post_4)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=2#post_38)
+- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365#post_16)
+- [[Flang] Could you quickly add hexademical literals support?](https://discourse.llvm.org/t/flang-could-you-quickly-add-hexademical-literals-support/71528#post_3)
+- [[Flang] Could you quickly add hexademical literals support?](https://discourse.llvm.org/t/flang-could-you-quickly-add-hexademical-literals-support/71528#post_2)
 <!-- DISCOURSE-LLVM:END -->
