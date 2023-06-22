@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Sv.wire and hw.wire](https://discourse.llvm.org/t/sv-wire-and-hw-wire/71485#post_3)
-- [Pre-LLVM-DEV&#39;23 - ML-Guided Compiler Optimization Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-ml-guided-compiler-optimization-workshop/71431#post_9)
-- [Build runtimes for the same archs as LLVM](https://discourse.llvm.org/t/build-runtimes-for-the-same-archs-as-llvm/71522#post_3)
-- [Pre-LLVM-DEV&#39;23 - ML-Guided Compiler Optimization Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-ml-guided-compiler-optimization-workshop/71431#post_8)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524#post_2)
+- [Undefined reference to `typeinfo for llvm::cl::GenericOptionValue&#39;](https://discourse.llvm.org/t/undefined-reference-to-typeinfo-for-llvm-genericoptionvalue/71526#post_5)
+- [Undefined reference to `typeinfo for llvm::cl::GenericOptionValue&#39;](https://discourse.llvm.org/t/undefined-reference-to-typeinfo-for-llvm-genericoptionvalue/71526#post_4)
+- [Reuse Components of one dialect &lpar;Type, Attrs, Enums&rpar; from another Dialect](https://discourse.llvm.org/t/reuse-components-of-one-dialect-type-attrs-enums-from-another-dialect/71473#post_3)
+- [Undefined reference to `typeinfo for llvm::cl::GenericOptionValue&#39;](https://discourse.llvm.org/t/undefined-reference-to-typeinfo-for-llvm-genericoptionvalue/71526#post_3)
+- [[RFC] Structured data for extensibility in LLVM IR](https://discourse.llvm.org/t/rfc-structured-data-for-extensibility-in-llvm-ir/71527#post_1)
 <!-- DISCOURSE-LLVM:END -->
