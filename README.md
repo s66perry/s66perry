@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Prevent optimization/analysis across omp.target region boundaries](https://discourse.llvm.org/t/rfc-prevent-optimization-analysis-across-omp-target-region-boundaries/71402?page=2#post_37)
+- [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_5)
 - [[Flang] Could you quickly add hexademical literals support?](https://discourse.llvm.org/t/flang-could-you-quickly-add-hexademical-literals-support/71528#post_6)
 - [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_4)
 - [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_3)
-- [[RFC] memfill and memtransfer intrinsics for generalized memset/memcpy](https://discourse.llvm.org/t/rfc-memfill-and-memtransfer-intrinsics-for-generalized-memset-memcpy/71440#post_12)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_71)
 <!-- DISCOURSE-LLVM:END -->
