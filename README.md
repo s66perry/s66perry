@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Build runtimes for the same archs as LLVM](https://discourse.llvm.org/t/build-runtimes-for-the-same-archs-as-llvm/71522#post_5)
-- [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_2)
-- [How to add new content to extraClassDeclaration in subclasses?](https://discourse.llvm.org/t/how-to-add-new-content-to-extraclassdeclaration-in-subclasses/71537#post_1)
-- [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_1)
-- [Thought on strictfp support](https://discourse.llvm.org/t/thought-on-strictfp-support/71453#post_7)
+- [[Flang] Could you quickly add hexademical literals support?](https://discourse.llvm.org/t/flang-could-you-quickly-add-hexademical-literals-support/71528#post_6)
+- [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_4)
+- [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_3)
+- [[RFC] memfill and memtransfer intrinsics for generalized memset/memcpy](https://discourse.llvm.org/t/rfc-memfill-and-memtransfer-intrinsics-for-generalized-memset-memcpy/71440#post_12)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_71)
 <!-- DISCOURSE-LLVM:END -->
