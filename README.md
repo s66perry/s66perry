@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to add new content to extraClassDeclaration in subclasses?](https://discourse.llvm.org/t/how-to-add-new-content-to-extraclassdeclaration-in-subclasses/71537#post_3)
-- [Adding support for data member packs](https://discourse.llvm.org/t/adding-support-for-data-member-packs/71333#post_8)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524#post_11)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524#post_10)
-- [[RFC] Prevent optimization/analysis across omp.target region boundaries](https://discourse.llvm.org/t/rfc-prevent-optimization-analysis-across-omp-target-region-boundaries/71402?page=2#post_40)
+- [LLVM dialect function attributes in MLIR](https://discourse.llvm.org/t/llvm-dialect-function-attributes-in-mlir/1250#post_6)
+- [[BUG?] &quot;error: &#39;func.call&#39; op requires attribute &#39;callee&#39;&quot; will be arised when the &#39;func.call&#39; op is used for indirect call](https://discourse.llvm.org/t/bug-error-func-call-op-requires-attribute-callee-will-be-arised-when-the-func-call-op-is-used-for-indirect-call/71549#post_2)
+- [[BUG?] &quot;error: &#39;func.call&#39; op requires attribute &#39;callee&#39;&quot; will be arised when the &#39;func.call&#39; op is used for indirect call](https://discourse.llvm.org/t/bug-error-func-call-op-requires-attribute-callee-will-be-arised-when-the-func-call-op-is-used-for-indirect-call/71549#post_1)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512#post_6)
+- [How many acceptable failures from &quot;make check-all&quot; for production use?](https://discourse.llvm.org/t/how-many-acceptable-failures-from-make-check-all-for-production-use/71548#post_1)
 <!-- DISCOURSE-LLVM:END -->
