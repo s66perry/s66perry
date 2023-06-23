@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Weird the clang&#39;s codegen behavior?](https://discourse.llvm.org/t/weird-the-clangs-codegen-behavior/71561#post_1)
-- [How has moving from Bugzilla affected LLVM?](https://discourse.llvm.org/t/how-has-moving-from-bugzilla-affected-llvm/71553#post_4)
-- [[RFC] llvm-cm: Cost Model Evaluation for Object Files/Machine Code](https://discourse.llvm.org/t/rfc-llvm-cm-cost-model-evaluation-for-object-files-machine-code/71502#post_3)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_72)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540#post_7)
+- [Weird the clang&#39;s codegen behavior?](https://discourse.llvm.org/t/weird-the-clangs-codegen-behavior/71561#post_4)
+- [Confused about Function vs FunctionCallee, etc](https://discourse.llvm.org/t/confused-about-function-vs-functioncallee-etc/71562#post_1)
+- [Weird the clang&#39;s codegen behavior?](https://discourse.llvm.org/t/weird-the-clangs-codegen-behavior/71561#post_3)
+- [Weird the clang&#39;s codegen behavior?](https://discourse.llvm.org/t/weird-the-clangs-codegen-behavior/71561#post_2)
+- [Open MLIR Meeting 6/22/2023: RFC on ArmSME Dialect](https://discourse.llvm.org/t/open-mlir-meeting-6-22-2023-rfc-on-armsme-dialect/71515#post_2)
 <!-- DISCOURSE-LLVM:END -->
