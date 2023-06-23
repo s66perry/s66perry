@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Dialect Extensions and &quot;Promised&quot; Interfaces](https://discourse.llvm.org/t/rfc-dialect-extensions-and-promised-interfaces/60451#post_9)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_32)
-- [Operation in MLIR](https://discourse.llvm.org/t/operation-in-mlir/71508#post_3)
-- [Operation in MLIR](https://discourse.llvm.org/t/operation-in-mlir/71508#post_2)
-- [[RFC] Implementing GPU headers in the LLVM C library](https://discourse.llvm.org/t/rfc-implementing-gpu-headers-in-the-llvm-c-library/71523#post_3)
+- [[RFC] Split ConvertExpr.cpp](https://discourse.llvm.org/t/rfc-split-convertexpr-cpp/71554#post_2)
+- [How to add new content to extraClassDeclaration in subclasses?](https://discourse.llvm.org/t/how-to-add-new-content-to-extraclassdeclaration-in-subclasses/71537#post_6)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512#post_8)
+- [[RFC] Split ConvertExpr.cpp](https://discourse.llvm.org/t/rfc-split-convertexpr-cpp/71554#post_1)
+- [How to add new content to extraClassDeclaration in subclasses?](https://discourse.llvm.org/t/how-to-add-new-content-to-extraclassdeclaration-in-subclasses/71537#post_5)
 <!-- DISCOURSE-LLVM:END -->
