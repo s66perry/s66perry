@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Sharing defines between modules](https://discourse.llvm.org/t/sharing-defines-between-modules/71577#post_3)
-- [IR Direct call emitted to asm indirect call](https://discourse.llvm.org/t/ir-direct-call-emitted-to-asm-indirect-call/71422#post_6)
-- [Phabricator: Unhandled Exception &lpar;&quot;AphrontQueryException&quot;&rpar;](https://discourse.llvm.org/t/phabricator-unhandled-exception-aphrontqueryexception/71570#post_6)
-- [Review: CLion: a great way to develop on clang](https://discourse.llvm.org/t/review-clion-a-great-way-to-develop-on-clang/35427#post_6)
-- [Question on getObjectSize function for pointer Types](https://discourse.llvm.org/t/question-on-getobjectsize-function-for-pointer-types/71572#post_2)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=2#post_23)
+- [Reuse Components of one dialect &lpar;Type, Attrs, Enums&rpar; from another Dialect](https://discourse.llvm.org/t/reuse-components-of-one-dialect-type-attrs-enums-from-another-dialect/71473#post_4)
+- [RFC: Python callback for Target get module](https://discourse.llvm.org/t/rfc-python-callback-for-target-get-module/71580#post_2)
+- [Sharing defines between modules](https://discourse.llvm.org/t/sharing-defines-between-modules/71577#post_4)
+- [RFC: Python callback for Target get module](https://discourse.llvm.org/t/rfc-python-callback-for-target-get-module/71580#post_1)
 <!-- DISCOURSE-LLVM:END -->
