@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Flang - improve debug information, user error messages and fix OpenMP function mismatch for -save-temps flag](https://discourse.llvm.org/t/rfc-flang-improve-debug-information-user-error-messages-and-fix-openmp-function-mismatch-for-save-temps-flag/71417#post_16)
-- [Improve autolinking of compiler-rt and libc++ on windows with lld-link](https://discourse.llvm.org/t/improve-autolinking-of-compiler-rt-and-libc-on-windows-with-lld-link/71392#post_12)
-- [Vectorization plan &lpar;Vplan&rpar;](https://discourse.llvm.org/t/vectorization-plan-vplan/71552#post_6)
-- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_1)
-- [Triaging old Clang bugs](https://discourse.llvm.org/t/triaging-old-clang-bugs/71590#post_20)
+- [Improve autolinking of compiler-rt and libc++ on windows with lld-link](https://discourse.llvm.org/t/improve-autolinking-of-compiler-rt-and-libc-on-windows-with-lld-link/71392#post_14)
+- [LLVM Meetup in Munich – January 20th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-20th-2023/67384#post_8)
+- [LLVM Meetup in Munich – July 17th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-july-17th-2023/71614#post_1)
+- [Improve autolinking of compiler-rt and libc++ on windows with lld-link](https://discourse.llvm.org/t/improve-autolinking-of-compiler-rt-and-libc-on-windows-with-lld-link/71392#post_13)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_73)
 <!-- DISCOURSE-LLVM:END -->
