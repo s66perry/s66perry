@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_8)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_23)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_22)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_21)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540#post_20)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540#post_19)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540#post_18)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524#post_15)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_7)
 <!-- DISCOURSE-LLVM:END -->
