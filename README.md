@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Implementing GPU headers in the LLVM C library](https://discourse.llvm.org/t/rfc-implementing-gpu-headers-in-the-llvm-c-library/71523#post_10)
-- [Taking pointer of array parameter](https://discourse.llvm.org/t/taking-pointer-of-array-parameter/71650#post_6)
-- [[PSA] VectorType - scalable dimensions](https://discourse.llvm.org/t/psa-vectortype-scalable-dimensions/71658#post_1)
-- [Taking pointer of array parameter](https://discourse.llvm.org/t/taking-pointer-of-array-parameter/71650#post_5)
-- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_14)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_17)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_16)
+- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_14)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_15)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
