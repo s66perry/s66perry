@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Thought on strictfp support](https://discourse.llvm.org/t/thought-on-strictfp-support/71453#post_9)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_25)
-- [Instcombine and instsimplify have similar optimizations , may I copy optmization from instcombine to instsimplify?](https://discourse.llvm.org/t/instcombine-and-instsimplify-have-similar-optimizations-may-i-copy-optmization-from-instcombine-to-instsimplify/71640#post_1)
-- [Data layout of global struct variables aligned 64](https://discourse.llvm.org/t/data-layout-of-global-struct-variables-aligned-64/71620#post_2)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524#post_17)
+- [[RFC] Add support for SerenityOS](https://discourse.llvm.org/t/rfc-add-support-for-serenityos/71641#post_1)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_26)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524#post_18)
+- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_10)
+- [Instcombine and instsimplify have similar optimizations , may I copy optmization from instcombine to instsimplify?](https://discourse.llvm.org/t/instcombine-and-instsimplify-have-similar-optimizations-may-i-copy-optmization-from-instcombine-to-instsimplify/71640#post_2)
 <!-- DISCOURSE-LLVM:END -->
