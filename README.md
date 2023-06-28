@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [IR Direct call emitted to asm indirect call](https://discourse.llvm.org/t/ir-direct-call-emitted-to-asm-indirect-call/71422#post_7)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_24)
+- [Llvm17 memref op error](https://discourse.llvm.org/t/llvm17-memref-op-error/71651#post_1)
+- [Taking pointer of array parameter](https://discourse.llvm.org/t/taking-pointer-of-array-parameter/71650#post_2)
 - [Taking pointer of array parameter](https://discourse.llvm.org/t/taking-pointer-of-array-parameter/71650#post_1)
-- [[SROA] some wrong when dealing with undef variable](https://discourse.llvm.org/t/sroa-some-wrong-when-dealing-with-undef-variable/71386#post_7)
-- [Vectorization plan &lpar;Vplan&rpar;](https://discourse.llvm.org/t/vectorization-plan-vplan/71552#post_10)
-- [Vectorization plan &lpar;Vplan&rpar;](https://discourse.llvm.org/t/vectorization-plan-vplan/71552#post_9)
-- [mlir::LLVM::AddressOfOp cannot used for mlir::func::funcOp](https://discourse.llvm.org/t/mlir-addressofop-cannot-used-for-mlir-funcop/71634#post_2)
 <!-- DISCOURSE-LLVM:END -->
