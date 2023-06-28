@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_31)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_30)
-- [Llvm pass build failed](https://discourse.llvm.org/t/llvm-pass-build-failed/71657#post_1)
-- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_11)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_29)
+- [[RFC] Implementing GPU headers in the LLVM C library](https://discourse.llvm.org/t/rfc-implementing-gpu-headers-in-the-llvm-c-library/71523#post_10)
+- [Taking pointer of array parameter](https://discourse.llvm.org/t/taking-pointer-of-array-parameter/71650#post_6)
+- [[PSA] VectorType - scalable dimensions](https://discourse.llvm.org/t/psa-vectortype-scalable-dimensions/71658#post_1)
+- [Taking pointer of array parameter](https://discourse.llvm.org/t/taking-pointer-of-array-parameter/71650#post_5)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_14)
 <!-- DISCOURSE-LLVM:END -->
