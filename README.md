@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_33)
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602#post_11)
-- [Instcombine and instsimplify have similar optimizations , may I copy optmization from instcombine to instsimplify?](https://discourse.llvm.org/t/instcombine-and-instsimplify-have-similar-optimizations-may-i-copy-optmization-from-instcombine-to-instsimplify/71640#post_5)
-- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_16)
-- [Add custom executable &lpar;output object&rpar; format](https://discourse.llvm.org/t/add-custom-executable-output-object-format/68552#post_8)
+- [Install LLVM OpenMP with GPU offloading](https://discourse.llvm.org/t/install-llvm-openmp-with-gpu-offloading/71661#post_5)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_19)
+- [Install LLVM OpenMP with GPU offloading](https://discourse.llvm.org/t/install-llvm-openmp-with-gpu-offloading/71661#post_4)
+- [Install LLVM OpenMP with GPU offloading](https://discourse.llvm.org/t/install-llvm-openmp-with-gpu-offloading/71661#post_3)
+- [Reducing overhead of compressed_pair](https://discourse.llvm.org/t/reducing-overhead-of-compressed-pair/71660#post_2)
 <!-- DISCOURSE-LLVM:END -->
