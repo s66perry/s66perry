@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_16)
+- [Add custom executable &lpar;output object&rpar; format](https://discourse.llvm.org/t/add-custom-executable-output-object-format/68552#post_8)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=2#post_21)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602#post_10)
 - [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_18)
-- [Pre-LLVM-DEV&#39;23 -- Embedded Toolchains Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop/71360#post_7)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_32)
-- [Instcombine and instsimplify have similar optimizations , may I copy optmization from instcombine to instsimplify?](https://discourse.llvm.org/t/instcombine-and-instsimplify-have-similar-optimizations-may-i-copy-optmization-from-instcombine-to-instsimplify/71640#post_4)
-- [RFH: GlobalIsel Legalization Rules](https://discourse.llvm.org/t/rfh-globalisel-legalization-rules/71098#post_15)
 <!-- DISCOURSE-LLVM:END -->
