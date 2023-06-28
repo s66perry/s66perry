@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Sample PGO] Which optimizations currently use sample PGO in llvm?](https://discourse.llvm.org/t/sample-pgo-which-optimizations-currently-use-sample-pgo-in-llvm/71644#post_1)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_9)
 - [How to implement vectorloadStore pass for a new GPU backend?](https://discourse.llvm.org/t/how-to-implement-vectorloadstore-pass-for-a-new-gpu-backend/71642#post_1)
 - [Sharing defines between modules](https://discourse.llvm.org/t/sharing-defines-between-modules/71577#post_5)
 - [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_8)
-- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609#post_7)
-- [[RFC] Add support for SerenityOS](https://discourse.llvm.org/t/rfc-add-support-for-serenityos/71641#post_1)
 <!-- DISCOURSE-LLVM:END -->
