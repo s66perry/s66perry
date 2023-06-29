@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [llvm::isPotentiallyReachable&lpar;&rpar; returned an incorrect result](https://discourse.llvm.org/t/llvm-ispotentiallyreachable-returned-an-incorrect-result/71673#post_2)
-- [Reducing overhead of compressed_pair](https://discourse.llvm.org/t/reducing-overhead-of-compressed-pair/71660#post_11)
-- [[SROA] some wrong when dealing with undef variable](https://discourse.llvm.org/t/sroa-some-wrong-when-dealing-with-undef-variable/71386#post_8)
-- [Llvm17 memref op error](https://discourse.llvm.org/t/llvm17-memref-op-error/71651#post_2)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_27)
+- [Reducing overhead of compressed_pair](https://discourse.llvm.org/t/reducing-overhead-of-compressed-pair/71660#post_12)
+- [How to use `byval` with C API](https://discourse.llvm.org/t/how-to-use-byval-with-c-api/71670#post_4)
+- [Instcombine and instsimplify have similar optimizations , may I copy optmization from instcombine to instsimplify?](https://discourse.llvm.org/t/instcombine-and-instsimplify-have-similar-optimizations-may-i-copy-optmization-from-instcombine-to-instsimplify/71640#post_7)
+- [How to use `byval` with C API](https://discourse.llvm.org/t/how-to-use-byval-with-c-api/71670#post_3)
+- [How to use `byval` with C API](https://discourse.llvm.org/t/how-to-use-byval-with-c-api/71670#post_2)
 <!-- DISCOURSE-LLVM:END -->
