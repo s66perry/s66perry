@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Flang - improve debug information, user error messages and fix OpenMP function mismatch for -save-temps flag](https://discourse.llvm.org/t/rfc-flang-improve-debug-information-user-error-messages-and-fix-openmp-function-mismatch-for-save-temps-flag/71417#post_18)
-- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_7)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_35)
-- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_6)
-- [[RFC] Compress arbitrary sections with ld.lld --compress-sections](https://discourse.llvm.org/t/rfc-compress-arbitrary-sections-with-ld-lld-compress-sections/71674#post_2)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_29)
+- [[RFC] Cleaning up the NVIDIA &lpar;and potentially AMD&rpar; GPU backend](https://discourse.llvm.org/t/rfc-cleaning-up-the-nvidia-and-potentially-amd-gpu-backend/71680#post_2)
+- [Is the loop structure always in a canonicalized form &lpar; by this I mean one header and one exit block &rpar;?](https://discourse.llvm.org/t/is-the-loop-structure-always-in-a-canonicalized-form-by-this-i-mean-one-header-and-one-exit-block/71655#post_2)
+- [Using optimization passes in the codegen pipeline](https://discourse.llvm.org/t/using-optimization-passes-in-the-codegen-pipeline/71662#post_2)
+- [Reducing overhead of compressed_pair](https://discourse.llvm.org/t/reducing-overhead-of-compressed-pair/71660#post_14)
 <!-- DISCOURSE-LLVM:END -->
