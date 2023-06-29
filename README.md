@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Taking pointer of array parameter](https://discourse.llvm.org/t/taking-pointer-of-array-parameter/71650#post_7)
+- [[RFC] Compress arbitrary sections with ld.lld --compress-sections](https://discourse.llvm.org/t/rfc-compress-arbitrary-sections-with-ld-lld-compress-sections/71674#post_1)
+- [RFC: Inline expansion of memcmp vs call to standard library](https://discourse.llvm.org/t/rfc-inline-expansion-of-memcmp-vs-call-to-standard-library/43525#post_6)
+- [llvm::isPotentiallyReachable&lpar;&rpar; returned an incorrect result](https://discourse.llvm.org/t/llvm-ispotentiallyreachable-returned-an-incorrect-result/71673#post_1)
 - [How to use `byval` with C API](https://discourse.llvm.org/t/how-to-use-byval-with-c-api/71670#post_1)
-- [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_1)
-- [Instcombine and instsimplify have similar optimizations , may I copy optmization from instcombine to instsimplify?](https://discourse.llvm.org/t/instcombine-and-instsimplify-have-similar-optimizations-may-i-copy-optmization-from-instcombine-to-instsimplify/71640#post_6)
-- [How to implement vectorloadStore pass for a new GPU backend?](https://discourse.llvm.org/t/how-to-implement-vectorloadstore-pass-for-a-new-gpu-backend/71642#post_3)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
