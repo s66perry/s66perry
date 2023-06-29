@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_1)
-- [Vectorization plan &lpar;Vplan&rpar;](https://discourse.llvm.org/t/vectorization-plan-vplan/71552#post_12)
-- [Vectorization plan &lpar;Vplan&rpar;](https://discourse.llvm.org/t/vectorization-plan-vplan/71552#post_11)
-- [Compiler diagnostics versioning](https://discourse.llvm.org/t/compiler-diagnostics-versioning/71677#post_1)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_28)
+- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_6)
+- [[RFC] Compress arbitrary sections with ld.lld --compress-sections](https://discourse.llvm.org/t/rfc-compress-arbitrary-sections-with-ld-lld-compress-sections/71674#post_2)
+- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_5)
+- [Reducing overhead of compressed_pair](https://discourse.llvm.org/t/reducing-overhead-of-compressed-pair/71660#post_13)
+- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_4)
 <!-- DISCOURSE-LLVM:END -->
