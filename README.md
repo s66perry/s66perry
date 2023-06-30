@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TableGen: use of &quot;add&quot; keyword while creating Registers](https://discourse.llvm.org/t/tablegen-use-of-add-keyword-while-creating-registers/71699#post_1)
-- [[RFC] Introduce convergence control intrinsics](https://discourse.llvm.org/t/rfc-introduce-convergence-control-intrinsics/69613#post_15)
-- [Use glob instead of regex for SpecialCaseLists](https://discourse.llvm.org/t/use-glob-instead-of-regex-for-specialcaselists/71666#post_2)
-- [There seems to be a issue with optimization to wasm](https://discourse.llvm.org/t/there-seems-to-be-a-issue-with-optimization-to-wasm/71697#post_5)
-- [There seems to be a issue with optimization to wasm](https://discourse.llvm.org/t/there-seems-to-be-a-issue-with-optimization-to-wasm/71697#post_4)
+- [TableGen: use of &quot;add&quot; keyword while creating Registers](https://discourse.llvm.org/t/tablegen-use-of-add-keyword-while-creating-registers/71699#post_2)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_37)
+- [[RFC] Compress arbitrary sections with ld.lld --compress-sections](https://discourse.llvm.org/t/rfc-compress-arbitrary-sections-with-ld-lld-compress-sections/71674#post_7)
+- [Vectorization and IR detail](https://discourse.llvm.org/t/vectorization-and-ir-detail/71702#post_2)
+- [Registers xmm6 to xmm15 are not saved in Clang16 with -march = skylake-avx512 and -march = x86-64-v4](https://discourse.llvm.org/t/registers-xmm6-to-xmm15-are-not-saved-in-clang16-with-march-skylake-avx512-and-march-x86-64-v4/71622#post_6)
 <!-- DISCOURSE-LLVM:END -->
