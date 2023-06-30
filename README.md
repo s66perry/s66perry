@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Auto-generated checks with inexact FP results](https://discourse.llvm.org/t/auto-generated-checks-with-inexact-fp-results/71713#post_1)
-- [Zero length function pointer equality](https://discourse.llvm.org/t/zero-length-function-pointer-equality/55984?page=2#post_28)
-- [Compiling load/store IR instructions to named register operations](https://discourse.llvm.org/t/compiling-load-store-ir-instructions-to-named-register-operations/71707#post_3)
-- [Compiler diagnostics versioning](https://discourse.llvm.org/t/compiler-diagnostics-versioning/71677#post_8)
-- [TableGen: use of &quot;add&quot; keyword while creating Registers](https://discourse.llvm.org/t/tablegen-use-of-add-keyword-while-creating-registers/71699#post_5)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=2#post_34)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=2#post_26)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=2#post_33)
+- [Llvmbot on github doesn&#39;t actually ping anyone](https://discourse.llvm.org/t/llvmbot-on-github-doesnt-actually-ping-anyone/71687#post_4)
+- [Auto-generated checks with inexact FP results](https://discourse.llvm.org/t/auto-generated-checks-with-inexact-fp-results/71713#post_3)
 <!-- DISCOURSE-LLVM:END -->
