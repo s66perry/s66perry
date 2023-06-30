@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to place a value on the fixed position on the stack?](https://discourse.llvm.org/t/how-to-place-a-value-on-the-fixed-position-on-the-stack/71706#post_1)
-- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=2#post_25)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=2#post_39)
-- [Compiler diagnostics versioning](https://discourse.llvm.org/t/compiler-diagnostics-versioning/71677#post_6)
-- [Question about getelementptr inbounds with offset 0](https://discourse.llvm.org/t/question-about-getelementptr-inbounds-with-offset-0/62533#post_17)
+- [Call for Papers! - LLVM-HPC2023 at SC23](https://discourse.llvm.org/t/call-for-papers-llvm-hpc2023-at-sc23/71686#post_3)
+- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_12)
+- [Out For Vacation-](https://discourse.llvm.org/t/out-for-vacation/71214#post_3)
+- [Out For Vacation-](https://discourse.llvm.org/t/out-for-vacation/71214#post_2)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_41)
 <!-- DISCOURSE-LLVM:END -->
