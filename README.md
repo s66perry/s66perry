@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Auto-generated checks with inexact FP results](https://discourse.llvm.org/t/auto-generated-checks-with-inexact-fp-results/71713#post_1)
+- [Zero length function pointer equality](https://discourse.llvm.org/t/zero-length-function-pointer-equality/55984?page=2#post_28)
+- [Compiling load/store IR instructions to named register operations](https://discourse.llvm.org/t/compiling-load-store-ir-instructions-to-named-register-operations/71707#post_3)
+- [Compiler diagnostics versioning](https://discourse.llvm.org/t/compiler-diagnostics-versioning/71677#post_8)
 - [TableGen: use of &quot;add&quot; keyword while creating Registers](https://discourse.llvm.org/t/tablegen-use-of-add-keyword-while-creating-registers/71699#post_5)
-- [Registers xmm6 to xmm15 are not saved in Clang16 with -march = skylake-avx512 and -march = x86-64-v4](https://discourse.llvm.org/t/registers-xmm6-to-xmm15-are-not-saved-in-clang16-with-march-skylake-avx512-and-march-x86-64-v4/71622#post_8)
-- [TableGen: use of &quot;add&quot; keyword while creating Registers](https://discourse.llvm.org/t/tablegen-use-of-add-keyword-while-creating-registers/71699#post_4)
-- [Pre-LLVM-DEV&#39;23 -- Embedded Toolchains Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop/71360#post_11)
-- [Compiling load/store IR instructions to named register operations](https://discourse.llvm.org/t/compiling-load-store-ir-instructions-to-named-register-operations/71707#post_2)
 <!-- DISCOURSE-LLVM:END -->
