@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [FunctionPass deprecated in favor of OperationPass&lt;FuncOp&gt;](https://discourse.llvm.org/t/functionpass-deprecated-in-favor-of-operationpass-funcop/5808#post_4)
-- [FunctionPass deprecated in favor of OperationPass&lt;FuncOp&gt;](https://discourse.llvm.org/t/functionpass-deprecated-in-favor-of-operationpass-funcop/5808#post_3)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_38)
-- [FunctionPass deprecated in favor of OperationPass&lt;FuncOp&gt;](https://discourse.llvm.org/t/functionpass-deprecated-in-favor-of-operationpass-funcop/5808#post_2)
-- [Porting an oddball assembler](https://discourse.llvm.org/t/porting-an-oddball-assembler/71715#post_1)
+- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_14)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=3#post_42)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=3#post_41)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_40)
+- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
