@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_75)
+- [[RFC] Opt-in way to make VerifyDiagnosticConsumer slightly less strict](https://discourse.llvm.org/t/rfc-opt-in-way-to-make-verifydiagnosticconsumer-slightly-less-strict/70747#post_10)
+- [[RFC] Opt-in way to make VerifyDiagnosticConsumer slightly less strict](https://discourse.llvm.org/t/rfc-opt-in-way-to-make-verifydiagnosticconsumer-slightly-less-strict/70747#post_9)
 - [Difference between `byref` and passing pointer?](https://discourse.llvm.org/t/difference-between-byref-and-passing-pointer/71720#post_1)
 - [High build time of distribution builds](https://discourse.llvm.org/t/high-build-time-of-distribution-builds/71591#post_4)
-- [Type based escape analysis](https://discourse.llvm.org/t/type-based-escape-analysis/70803?page=2#post_28)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_74)
-- [Llc and LLVMVerifyFunction give different errors, who&#39;s right?](https://discourse.llvm.org/t/llc-and-llvmverifyfunction-give-different-errors-whos-right/71678#post_16)
 <!-- DISCOURSE-LLVM:END -->
