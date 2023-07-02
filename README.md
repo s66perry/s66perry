@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_77)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_76)
+- [How to Represent PyTorch&#39;s var_mean and getitem Operators with MLIR&#39;s Builtin Dialect?](https://discourse.llvm.org/t/how-to-represent-pytorchs-var-mean-and-getitem-operators-with-mlirs-builtin-dialect/71732#post_1)
 - [Implementing the constrained FP intrinsics for the x87](https://discourse.llvm.org/t/implementing-the-constrained-fp-intrinsics-for-the-x87/71722#post_3)
 - [Is there some easy way of doing a front-end transition to opaque pointers?](https://discourse.llvm.org/t/is-there-some-easy-way-of-doing-a-front-end-transition-to-opaque-pointers/71727#post_3)
-- [I have two *.ll files, How inline them when the clang compiling and the lli running?](https://discourse.llvm.org/t/i-have-two-ll-files-how-inline-them-when-the-clang-compiling-and-the-lli-running/71730#post_1)
-- [[RFC] The Natural Intersection of MLIR and C](https://discourse.llvm.org/t/rfc-the-natural-intersection-of-mlir-and-c/68708#post_7)
-- [Is there some easy way of doing a front-end transition to opaque pointers?](https://discourse.llvm.org/t/is-there-some-easy-way-of-doing-a-front-end-transition-to-opaque-pointers/71727#post_2)
 <!-- DISCOURSE-LLVM:END -->
