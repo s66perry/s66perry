@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Implementing the constrained FP intrinsics for the x87](https://discourse.llvm.org/t/implementing-the-constrained-fp-intrinsics-for-the-x87/71722#post_4)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_78)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_77)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=4#post_76)
-- [How to Represent PyTorch&#39;s var_mean and getitem Operators with MLIR&#39;s Builtin Dialect?](https://discourse.llvm.org/t/how-to-represent-pytorchs-var-mean-and-getitem-operators-with-mlirs-builtin-dialect/71732#post_1)
+- [[RFC] Add support for SerenityOS](https://discourse.llvm.org/t/rfc-add-support-for-serenityos/71641#post_4)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=2#post_27)
+- [[RFC] Add support for SerenityOS](https://discourse.llvm.org/t/rfc-add-support-for-serenityos/71641#post_3)
+- [A question about changing mlir Operation result types](https://discourse.llvm.org/t/a-question-about-changing-mlir-operation-result-types/71734#post_2)
+- [Implementing the constrained FP intrinsics for the x87](https://discourse.llvm.org/t/implementing-the-constrained-fp-intrinsics-for-the-x87/71722#post_5)
 <!-- DISCOURSE-LLVM:END -->
