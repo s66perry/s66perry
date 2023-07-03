@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-tidy 17: Reviewers Wanted](https://discourse.llvm.org/t/clang-tidy-17-reviewers-wanted/71741#post_1)
+- [There seems to be a issue with optimization to wasm](https://discourse.llvm.org/t/there-seems-to-be-a-issue-with-optimization-to-wasm/71697#post_7)
+- [About the plan for CUDA Fortran support in Flang](https://discourse.llvm.org/t/about-the-plan-for-cuda-fortran-support-in-flang/71739#post_1)
+- [A question about changing mlir Operation result types](https://discourse.llvm.org/t/a-question-about-changing-mlir-operation-result-types/71734#post_3)
 - [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_2)
-- [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_1)
-- [Implementing the constrained FP intrinsics for the x87](https://discourse.llvm.org/t/implementing-the-constrained-fp-intrinsics-for-the-x87/71722#post_10)
-- [Clang-Tidy doesn&#39;t find standard C++ modules, despite providing compilation database and prebuilt modules path](https://discourse.llvm.org/t/clang-tidy-doesnt-find-standard-c-modules-despite-providing-compilation-database-and-prebuilt-modules-path/71326?page=2#post_21)
-- [Implementing the constrained FP intrinsics for the x87](https://discourse.llvm.org/t/implementing-the-constrained-fp-intrinsics-for-the-x87/71722#post_9)
 <!-- DISCOURSE-LLVM:END -->
