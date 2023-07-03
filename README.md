@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Question] Handshake dialect doc](https://discourse.llvm.org/t/question-handshake-dialect-doc/71752#post_2)
+- [[RFC] Adding AllRanksMatchIfKnown trait to TOSA broadcastable Operators](https://discourse.llvm.org/t/rfc-adding-allranksmatchifknown-trait-to-tosa-broadcastable-operators/71500#post_5)
 - [LLVM Weekly - #496, July 3rd 2023](https://discourse.llvm.org/t/llvm-weekly-496-july-3rd-2023/71758#post_1)
 - [Auto-generated checks with inexact FP results](https://discourse.llvm.org/t/auto-generated-checks-with-inexact-fp-results/71713#post_8)
 - [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_4)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_12)
-- [Problem in registering a custom register allocator](https://discourse.llvm.org/t/problem-in-registering-a-custom-register-allocator/71756#post_1)
 <!-- DISCOURSE-LLVM:END -->
