@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to get ValueRange from a FunctionalType](https://discourse.llvm.org/t/how-to-get-valuerange-from-a-functionaltype/71751#post_1)
-- [Support for func calls with SVE fixed length vector argument](https://discourse.llvm.org/t/support-for-func-calls-with-sve-fixed-length-vector-argument/71749#post_1)
-- [RFC: New loop distribution pass for software pipelining](https://discourse.llvm.org/t/rfc-new-loop-distribution-pass-for-software-pipelining/69733#post_3)
-- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_1)
-- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_3)
+- [mlir::LLVM::AddressOfOp cannot used for mlir::func::funcOp](https://discourse.llvm.org/t/mlir-addressofop-cannot-used-for-mlir-funcop/71634#post_7)
+- [[RFC] Stop supporting extern instantiations with GCC](https://discourse.llvm.org/t/rfc-stop-supporting-extern-instantiations-with-gcc/71277?page=2#post_22)
+- [How to get ValueRange from a FunctionalType](https://discourse.llvm.org/t/how-to-get-valuerange-from-a-functionaltype/71751#post_7)
+- [How to get ValueRange from a FunctionalType](https://discourse.llvm.org/t/how-to-get-valuerange-from-a-functionaltype/71751#post_6)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
