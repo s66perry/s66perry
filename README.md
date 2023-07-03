@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-tidy 17: Reviewers Wanted](https://discourse.llvm.org/t/clang-tidy-17-reviewers-wanted/71741#post_1)
-- [There seems to be a issue with optimization to wasm](https://discourse.llvm.org/t/there-seems-to-be-a-issue-with-optimization-to-wasm/71697#post_7)
-- [About the plan for CUDA Fortran support in Flang](https://discourse.llvm.org/t/about-the-plan-for-cuda-fortran-support-in-flang/71739#post_1)
-- [A question about changing mlir Operation result types](https://discourse.llvm.org/t/a-question-about-changing-mlir-operation-result-types/71734#post_3)
-- [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_2)
+- [How to Represent PyTorch&#39;s var_mean and getitem Operators with MLIR&#39;s Builtin Dialect?](https://discourse.llvm.org/t/how-to-represent-pytorchs-var-mean-and-getitem-operators-with-mlirs-builtin-dialect/71732#post_2)
+- [Pre-LLVM-DEV&#39;23 -- Embedded Toolchains Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop/71360#post_13)
+- [Implementing the constrained FP intrinsics for the x87](https://discourse.llvm.org/t/implementing-the-constrained-fp-intrinsics-for-the-x87/71722#post_12)
+- [There seems to be a issue with optimization to wasm](https://discourse.llvm.org/t/there-seems-to-be-a-issue-with-optimization-to-wasm/71697#post_8)
+- [Implementing the constrained FP intrinsics for the x87](https://discourse.llvm.org/t/implementing-the-constrained-fp-intrinsics-for-the-x87/71722#post_11)
 <!-- DISCOURSE-LLVM:END -->
