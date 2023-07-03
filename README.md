@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TableGen: the playground .ipynb file is not working as expected](https://discourse.llvm.org/t/tablegen-the-playground-ipynb-file-is-not-working-as-expected/71745#post_5)
+- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_2)
+- [TableGen: the playground .ipynb file is not working as expected](https://discourse.llvm.org/t/tablegen-the-playground-ipynb-file-is-not-working-as-expected/71745#post_4)
+- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_1)
 - [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_3)
-- [TableGen: the playground .ipynb file is not working as expected](https://discourse.llvm.org/t/tablegen-the-playground-ipynb-file-is-not-working-as-expected/71745#post_3)
-- [mlir::LLVM::AddressOfOp cannot used for mlir::func::funcOp](https://discourse.llvm.org/t/mlir-addressofop-cannot-used-for-mlir-funcop/71634#post_3)
-- [TableGen: the playground .ipynb file is not working as expected](https://discourse.llvm.org/t/tablegen-the-playground-ipynb-file-is-not-working-as-expected/71745#post_2)
-- [TableGen: the playground .ipynb file is not working as expected](https://discourse.llvm.org/t/tablegen-the-playground-ipynb-file-is-not-working-as-expected/71745#post_1)
 <!-- DISCOURSE-LLVM:END -->
