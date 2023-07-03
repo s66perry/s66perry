@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TableGen: the playground .ipynb file is not working as expected](https://discourse.llvm.org/t/tablegen-the-playground-ipynb-file-is-not-working-as-expected/71745#post_5)
-- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_2)
-- [TableGen: the playground .ipynb file is not working as expected](https://discourse.llvm.org/t/tablegen-the-playground-ipynb-file-is-not-working-as-expected/71745#post_4)
-- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_1)
-- [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_3)
+- [How to get ValueRange from a FunctionalType](https://discourse.llvm.org/t/how-to-get-valuerange-from-a-functionaltype/71751#post_1)
+- [Support for func calls with SVE fixed length vector argument](https://discourse.llvm.org/t/support-for-func-calls-with-sve-fixed-length-vector-argument/71749#post_1)
+- [RFC: New loop distribution pass for software pipelining](https://discourse.llvm.org/t/rfc-new-loop-distribution-pass-for-software-pipelining/69733#post_3)
+- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_1)
+- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_3)
 <!-- DISCOURSE-LLVM:END -->
