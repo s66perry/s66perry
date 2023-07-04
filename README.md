@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_57)
-- [How do I know that a Thread has exited?](https://discourse.llvm.org/t/how-do-i-know-that-a-thread-has-exited/71781#post_3)
-- [G_INTRINSIC and convergent operations](https://discourse.llvm.org/t/g-intrinsic-and-convergent-operations/71768#post_3)
-- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_5)
-- [How to correctly store value to pointer and then dereference](https://discourse.llvm.org/t/how-to-correctly-store-value-to-pointer-and-then-dereference/71780#post_2)
+- [Crash calling back into a C function on a Mac M1](https://discourse.llvm.org/t/crash-calling-back-into-a-c-function-on-a-mac-m1/71784#post_1)
+- [[Modules] Faster compilation speed or better diagnostic messages?](https://discourse.llvm.org/t/modules-faster-compilation-speed-or-better-diagnostic-messages/71769#post_11)
+- [How to understand the block concept in MLIR?](https://discourse.llvm.org/t/how-to-understand-the-block-concept-in-mlir/71783#post_3)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=2#post_38)
+- [How to correctly store value to pointer and then dereference](https://discourse.llvm.org/t/how-to-correctly-store-value-to-pointer-and-then-dereference/71780#post_3)
 <!-- DISCOURSE-LLVM:END -->
