@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] DialectInterface for CSE](https://discourse.llvm.org/t/rfc-dialectinterface-for-cse/71831#post_8)
+- [[RFC] DialectInterface for CSE](https://discourse.llvm.org/t/rfc-dialectinterface-for-cse/71831#post_7)
+- [How to best implement code model overriding for certain values?](https://discourse.llvm.org/t/how-to-best-implement-code-model-overriding-for-certain-values/71816#post_3)
+- [How to best implement code model overriding for certain values?](https://discourse.llvm.org/t/how-to-best-implement-code-model-overriding-for-certain-values/71816#post_2)
 - [[RFC] Callback for type and attribute bytecode encodings](https://discourse.llvm.org/t/rfc-callback-for-type-and-attribute-bytecode-encodings/71837#post_1)
-- [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_11)
-- [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_10)
-- [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_9)
-- [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_8)
 <!-- DISCOURSE-LLVM:END -->
