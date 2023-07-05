@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Tips for debugging ThinLTO crashes](https://discourse.llvm.org/t/tips-for-debugging-thinlto-crashes/71848#post_3)
+- [Tips for debugging ThinLTO crashes](https://discourse.llvm.org/t/tips-for-debugging-thinlto-crashes/71848#post_2)
 - [Tips for debugging ThinLTO crashes](https://discourse.llvm.org/t/tips-for-debugging-thinlto-crashes/71848#post_1)
 - [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_1)
 - [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=3#post_41)
-- [How to use alias analysis results in a ModulePass?](https://discourse.llvm.org/t/how-to-use-alias-analysis-results-in-a-modulepass/71839#post_11)
-- [How to use alias analysis results in a ModulePass?](https://discourse.llvm.org/t/how-to-use-alias-analysis-results-in-a-modulepass/71839#post_10)
 <!-- DISCOURSE-LLVM:END -->
