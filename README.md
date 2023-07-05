@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Callback for type and attribute bytecode encodings](https://discourse.llvm.org/t/rfc-callback-for-type-and-attribute-bytecode-encodings/71837#post_1)
+- [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_11)
 - [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_10)
 - [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_9)
 - [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_8)
-- [[RFC] lldb-vscode evaluate repl behavior and improvements](https://discourse.llvm.org/t/rfc-lldb-vscode-evaluate-repl-behavior-and-improvements/71667#post_7)
-- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
