@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Triaging old Clang bugs](https://discourse.llvm.org/t/triaging-old-clang-bugs/71590?page=2#post_21)
-- [Crash on running Kaleidoscope-Ch5 on Windows](https://discourse.llvm.org/t/crash-on-running-kaleidoscope-ch5-on-windows/71827#post_1)
-- [How to iterate over all functions at Link Time Optimization?](https://discourse.llvm.org/t/how-to-iterate-over-all-functions-at-link-time-optimization/71820#post_4)
-- [How to iterate over all functions at Link Time Optimization?](https://discourse.llvm.org/t/how-to-iterate-over-all-functions-at-link-time-optimization/71820#post_3)
-- [How to iterate over all functions at Link Time Optimization?](https://discourse.llvm.org/t/how-to-iterate-over-all-functions-at-link-time-optimization/71820#post_2)
+- [[RFC] DialectInterface for CSE](https://discourse.llvm.org/t/rfc-dialectinterface-for-cse/71831#post_3)
+- [RISCV Clang cant find c++config.h](https://discourse.llvm.org/t/riscv-clang-cant-find-c-config-h/71834#post_1)
+- [Optimizing for size - licm](https://discourse.llvm.org/t/optimizing-for-size-licm/71592#post_8)
+- [[RFC] DialectInterface for CSE](https://discourse.llvm.org/t/rfc-dialectinterface-for-cse/71831#post_2)
+- [Optimizing for size - licm](https://discourse.llvm.org/t/optimizing-for-size-licm/71592#post_7)
 <!-- DISCOURSE-LLVM:END -->
