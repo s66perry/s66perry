@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_7)
-- [How codeing can make an i64 VLA&lpar;variable length array&rpar; to be optimized for SIMD?](https://discourse.llvm.org/t/how-codeing-can-make-an-i64-vla-variable-length-array-to-be-optimized-for-simd/71863#post_6)
-- [Need help in better understanding SCF to SPIR-V lowering](https://discourse.llvm.org/t/need-help-in-better-understanding-scf-to-spir-v-lowering/71639#post_3)
-- [Modules increased build times](https://discourse.llvm.org/t/modules-increased-build-times/68755#post_17)
-- [Need help in better understanding SCF to SPIR-V lowering](https://discourse.llvm.org/t/need-help-in-better-understanding-scf-to-spir-v-lowering/71639#post_2)
+- [Extensible Standalone CAPI](https://discourse.llvm.org/t/extensible-standalone-capi/71865#post_2)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_10)
+- [Request for input on a fix for a bug utilizing omp.TargetOp in conjunction with mlir-translate&#39;s -split-input-file](https://discourse.llvm.org/t/request-for-input-on-a-fix-for-a-bug-utilizing-omp-targetop-in-conjunction-with-mlir-translates-split-input-file/71785#post_7)
+- [Clang_rt.crtbegin-riscv64.o: No such file or directory](https://discourse.llvm.org/t/clang-rt-crtbegin-riscv64-o-no-such-file-or-directory/71868#post_1)
+- [How to compare IR/object files statically for predicting better performance for machine learning based cost models](https://discourse.llvm.org/t/how-to-compare-ir-object-files-statically-for-predicting-better-performance-for-machine-learning-based-cost-models/71513#post_16)
 <!-- DISCOURSE-LLVM:END -->
