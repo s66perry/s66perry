@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MLIR] Lower memref.view to spirv](https://discourse.llvm.org/t/mlir-lower-memref-view-to-spirv/71857#post_5)
-- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_4)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_12)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_11)
-- [LLVM 17.0.0 Release Planning and Update](https://discourse.llvm.org/t/llvm-17-0-0-release-planning-and-update/71762#post_2)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_14)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_13)
+- [[MLIR] Lower memref.view to spirv](https://discourse.llvm.org/t/mlir-lower-memref-view-to-spirv/71857#post_6)
+- [Can&#39;t easily show a std::string in LLDB?](https://discourse.llvm.org/t/cant-easily-show-a-std-string-in-lldb/71846#post_5)
+- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_6)
 <!-- DISCOURSE-LLVM:END -->
