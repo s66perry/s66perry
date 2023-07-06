@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_18)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_17)
-- [Comparisons between signed integers](https://discourse.llvm.org/t/comparisons-between-signed-integers/71872#post_1)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847#post_16)
-- [[MLIR] Lower memref.view to spirv](https://discourse.llvm.org/t/mlir-lower-memref-view-to-spirv/71857#post_7)
+- [Can&#39;t easily show a std::string in LLDB?](https://discourse.llvm.org/t/cant-easily-show-a-std-string-in-lldb/71846#post_6)
+- [How do I know that a Thread has exited?](https://discourse.llvm.org/t/how-do-i-know-that-a-thread-has-exited/71781#post_4)
+- [Comparisons between signed integers](https://discourse.llvm.org/t/comparisons-between-signed-integers/71872#post_4)
+- [[RFC] Compress arbitrary sections with ld.lld --compress-sections](https://discourse.llvm.org/t/rfc-compress-arbitrary-sections-with-ld-lld-compress-sections/71674#post_8)
+- [Comparisons between signed integers](https://discourse.llvm.org/t/comparisons-between-signed-integers/71872#post_3)
 <!-- DISCOURSE-LLVM:END -->
