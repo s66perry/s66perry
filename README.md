@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Get the SSA name of Value](https://discourse.llvm.org/t/get-the-ssa-name-of-value/60025#post_4)
-- [Clang-tidy eliminate unused parts of headers](https://discourse.llvm.org/t/clang-tidy-eliminate-unused-parts-of-headers/66424#post_5)
-- [How to get number of elements of the array from AllocaInst?](https://discourse.llvm.org/t/how-to-get-number-of-elements-of-the-array-from-allocainst/71882#post_4)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=2#post_23)
-- [Low-level C++ Linking - Consultation needed](https://discourse.llvm.org/t/low-level-c-linking-consultation-needed/71884#post_1)
+- [Function finalization section](https://discourse.llvm.org/t/function-finalization-section/71888#post_2)
+- [Function finalization section](https://discourse.llvm.org/t/function-finalization-section/71888#post_1)
+- [Get the SSA name of Value](https://discourse.llvm.org/t/get-the-ssa-name-of-value/60025#post_6)
+- [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_1)
+- [Get the SSA name of Value](https://discourse.llvm.org/t/get-the-ssa-name-of-value/60025#post_5)
 <!-- DISCOURSE-LLVM:END -->
