@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lowering an HLL to a specific dialect in mlir](https://discourse.llvm.org/t/lowering-an-hll-to-a-specific-dialect-in-mlir/66718#post_6)
+- [[RFC] The Natural Intersection of MLIR and C](https://discourse.llvm.org/t/rfc-the-natural-intersection-of-mlir-and-c/68708#post_8)
+- [Lowering an HLL to a specific dialect in mlir](https://discourse.llvm.org/t/lowering-an-hll-to-a-specific-dialect-in-mlir/66718#post_5)
 - [--print-gc-sections outputs to stdout instead of stderr?](https://discourse.llvm.org/t/print-gc-sections-outputs-to-stdout-instead-of-stderr/71761#post_3)
 - [Function renaming not working when definition in separate file](https://discourse.llvm.org/t/function-renaming-not-working-when-definition-in-separate-file/71917#post_4)
-- [Function renaming not working when definition in separate file](https://discourse.llvm.org/t/function-renaming-not-working-when-definition-in-separate-file/71917#post_3)
-- [[Modules] Faster compilation speed or better diagnostic messages?](https://discourse.llvm.org/t/modules-faster-compilation-speed-or-better-diagnostic-messages/71769?page=2#post_24)
-- [Function renaming not working when definition in separate file](https://discourse.llvm.org/t/function-renaming-not-working-when-definition-in-separate-file/71917#post_2)
 <!-- DISCOURSE-LLVM:END -->
