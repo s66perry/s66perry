@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602#post_15)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=5#post_96)
-- [libcxx Bazel rules](https://discourse.llvm.org/t/libcxx-bazel-rules/59339#post_5)
-- [Get the SSA name of Value](https://discourse.llvm.org/t/get-the-ssa-name-of-value/60025#post_9)
-- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_1)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=5#post_97)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602#post_20)
+- [When checkPostCall will be skipped?](https://discourse.llvm.org/t/when-checkpostcall-will-be-skipped/71879#post_6)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602#post_19)
+- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
