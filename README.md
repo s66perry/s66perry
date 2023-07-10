@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Use language extensions from future standards in libc++](https://discourse.llvm.org/t/rfc-use-language-extensions-from-future-standards-in-libc/71898#post_2)
-- [Pliron: An extensible compiler IR framework, inspired by MLIR and written in safe Rust](https://discourse.llvm.org/t/pliron-an-extensible-compiler-ir-framework-inspired-by-mlir-and-written-in-safe-rust/71906#post_12)
-- [How to lower linalg.map?](https://discourse.llvm.org/t/how-to-lower-linalg-map/70448#post_4)
-- [How to lower linalg.map?](https://discourse.llvm.org/t/how-to-lower-linalg-map/70448#post_3)
-- [Lld linker script file incorrectly parsing default definition](https://discourse.llvm.org/t/lld-linker-script-file-incorrectly-parsing-default-definition/71936#post_1)
+- [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_6)
+- [Error: ‘char* __llvm_libc::strcpy&lpar;char*, const char*&rpar;’ aliased to external symbol ‘strcpy’](https://discourse.llvm.org/t/error-char-llvm-libc-strcpy-char-const-char-aliased-to-external-symbol-strcpy/71938#post_2)
+- [Pliron: An extensible compiler IR framework, inspired by MLIR and written in safe Rust](https://discourse.llvm.org/t/pliron-an-extensible-compiler-ir-framework-inspired-by-mlir-and-written-in-safe-rust/71906#post_14)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=5#post_94)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=5#post_93)
 <!-- DISCOURSE-LLVM:END -->
