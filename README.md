@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding attribute to an argument in CallInst](https://discourse.llvm.org/t/adding-attribute-to-an-argument-in-callinst/71934#post_1)
+- [Generating omp failed](https://discourse.llvm.org/t/generating-omp-failed/71932#post_1)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=2#post_33)
+- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_8)
 - [How to make a Debug Build](https://discourse.llvm.org/t/how-to-make-a-debug-build/71929#post_6)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=2#post_32)
-- [[GISel] how to add the regbank for a const value](https://discourse.llvm.org/t/gisel-how-to-add-the-regbank-for-a-const-value/71899#post_5)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_13)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
