@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Alternatives to the implementation of std modules](https://discourse.llvm.org/t/alternatives-to-the-implementation-of-std-modules/71958#post_3)
-- [Alternatives to the implementation of std modules](https://discourse.llvm.org/t/alternatives-to-the-implementation-of-std-modules/71958#post_2)
-- [[Modules] Faster compilation speed or better diagnostic messages?](https://discourse.llvm.org/t/modules-faster-compilation-speed-or-better-diagnostic-messages/71769?page=2#post_33)
-- [Clang-tidy Recursively Traverse the Nodes](https://discourse.llvm.org/t/clang-tidy-recursively-traverse-the-nodes/71935#post_4)
-- [[Modules] Faster compilation speed or better diagnostic messages?](https://discourse.llvm.org/t/modules-faster-compilation-speed-or-better-diagnostic-messages/71769?page=2#post_32)
+- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_6)
+- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_16)
+- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_5)
+- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_5)
+- [MLIR C API Hello World Example](https://discourse.llvm.org/t/mlir-c-api-hello-world-example/71965#post_1)
 <!-- DISCOURSE-LLVM:END -->
