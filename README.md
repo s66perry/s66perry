@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_4)
-- [Toy to Linalg dialect](https://discourse.llvm.org/t/toy-to-linalg-dialect/71959#post_2)
-- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_4)
-- [Differ complex from {double, double} or {float, float}](https://discourse.llvm.org/t/differ-complex-from-double-double-or-float-float/71961#post_1)
-- [[RFC] Memref of custom types](https://discourse.llvm.org/t/rfc-memref-of-custom-types/3558#post_8)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=2#post_36)
+- [[RFC] Memref of custom types](https://discourse.llvm.org/t/rfc-memref-of-custom-types/3558#post_9)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=3#post_42)
+- [[RFC] Target type classes for extensibility of LLVM IR](https://discourse.llvm.org/t/rfc-target-type-classes-for-extensibility-of-llvm-ir/69813#post_15)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
