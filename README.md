@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_10)
-- [[Modules] Faster compilation speed or better diagnostic messages?](https://discourse.llvm.org/t/modules-faster-compilation-speed-or-better-diagnostic-messages/71769?page=2#post_30)
-- [How to lower linalg.map?](https://discourse.llvm.org/t/how-to-lower-linalg-map/70448#post_8)
-- [[Modules] Faster compilation speed or better diagnostic messages?](https://discourse.llvm.org/t/modules-faster-compilation-speed-or-better-diagnostic-messages/71769?page=2#post_29)
-- [Toy to Linalg dialect](https://discourse.llvm.org/t/toy-to-linalg-dialect/71959#post_1)
+- [[RFC] Memref of custom types](https://discourse.llvm.org/t/rfc-memref-of-custom-types/3558#post_8)
+- [Get the SSA name of Value](https://discourse.llvm.org/t/get-the-ssa-name-of-value/60025#post_10)
+- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_15)
+- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_3)
+- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_2)
 <!-- DISCOURSE-LLVM:END -->
