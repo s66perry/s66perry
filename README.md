@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [libcxx Bazel rules](https://discourse.llvm.org/t/libcxx-bazel-rules/59339#post_6)
+- [Alternatives to the implementation of std modules](https://discourse.llvm.org/t/alternatives-to-the-implementation-of-std-modules/71958#post_4)
 - [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_5)
 - [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_4)
 - [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_3)
-- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_2)
-- [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_19)
 <!-- DISCOURSE-LLVM:END -->
