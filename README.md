@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_6)
-- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_16)
-- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_5)
-- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_5)
-- [MLIR C API Hello World Example](https://discourse.llvm.org/t/mlir-c-api-hello-world-example/71965#post_1)
+- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_3)
+- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_2)
+- [RFC: Permanently fixing the missing Tablegen dependency issue](https://discourse.llvm.org/t/rfc-permanently-fixing-the-missing-tablegen-dependency-issue/70442#post_19)
+- [How llvm-mc assembler works](https://discourse.llvm.org/t/how-llvm-mc-assembler-works/71969#post_1)
+- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_1)
 <!-- DISCOURSE-LLVM:END -->
