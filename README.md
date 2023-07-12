@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_8)
+- [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_2)
+- [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_1)
+- [How to make a Debug Build](https://discourse.llvm.org/t/how-to-make-a-debug-build/71929#post_11)
 - [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_16)
-- [Where to look for profiling runtime initialization hooks?](https://discourse.llvm.org/t/where-to-look-for-profiling-runtime-initialization-hooks/71943#post_4)
-- [Function renaming not working when definition in separate file](https://discourse.llvm.org/t/function-renaming-not-working-when-definition-in-separate-file/71917#post_6)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_15)
-- [Open MLIR Meeting 7/13/2023: mlir-query: Tool to query MLIR IR dynamically](https://discourse.llvm.org/t/open-mlir-meeting-7-13-2023-mlir-query-tool-to-query-mlir-ir-dynamically/71993#post_1)
 <!-- DISCOURSE-LLVM:END -->
