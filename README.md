@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815?page=2#post_27)
-- [Unable to build standalone examples](https://discourse.llvm.org/t/unable-to-build-standalone-examples/71949#post_3)
-- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_2)
-- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_3)
-- [What are Optimization Steps in LLVM](https://discourse.llvm.org/t/what-are-optimization-steps-in-llvm/71940#post_7)
+- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_8)
+- [When checkPostCall will be skipped?](https://discourse.llvm.org/t/when-checkpostcall-will-be-skipped/71879#post_9)
+- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_14)
+- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_7)
+- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_6)
 <!-- DISCOURSE-LLVM:END -->
