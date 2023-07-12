@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_8)
-- [When checkPostCall will be skipped?](https://discourse.llvm.org/t/when-checkpostcall-will-be-skipped/71879#post_9)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_14)
-- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_7)
-- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_6)
+- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_16)
+- [Where to look for profiling runtime initialization hooks?](https://discourse.llvm.org/t/where-to-look-for-profiling-runtime-initialization-hooks/71943#post_4)
+- [Function renaming not working when definition in separate file](https://discourse.llvm.org/t/function-renaming-not-working-when-definition-in-separate-file/71917#post_6)
+- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_15)
+- [Open MLIR Meeting 7/13/2023: mlir-query: Tool to query MLIR IR dynamically](https://discourse.llvm.org/t/open-mlir-meeting-7-13-2023-mlir-query-tool-to-query-mlir-ir-dynamically/71993#post_1)
 <!-- DISCOURSE-LLVM:END -->
