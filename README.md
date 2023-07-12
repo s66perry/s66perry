@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=3#post_42)
-- [Some shortcoming about MLIR Visualization with graphviz](https://discourse.llvm.org/t/some-shortcoming-about-mlir-visualization-with-graphviz/71990#post_1)
-- [[RFC] Introduce convergence control intrinsics](https://discourse.llvm.org/t/rfc-introduce-convergence-control-intrinsics/69613#post_16)
-- [Where to look for profiling runtime initialization hooks?](https://discourse.llvm.org/t/where-to-look-for-profiling-runtime-initialization-hooks/71943#post_3)
-- [Toy to Linalg dialect](https://discourse.llvm.org/t/toy-to-linalg-dialect/71959#post_5)
+- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815?page=2#post_26)
+- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815?page=2#post_25)
+- [[RFC][Clang] Improving debugging and AST dump with global ids](https://discourse.llvm.org/t/rfc-clang-improving-debugging-and-ast-dump-with-global-ids/71988#post_2)
+- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_7)
+- [Toy to Linalg dialect](https://discourse.llvm.org/t/toy-to-linalg-dialect/71959#post_6)
 <!-- DISCOURSE-LLVM:END -->
