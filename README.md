@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_6)
+- [Sv.reg names](https://discourse.llvm.org/t/sv-reg-names/71983#post_3)
 - [Sv.reg names](https://discourse.llvm.org/t/sv-reg-names/71983#post_2)
 - [Sv.reg names](https://discourse.llvm.org/t/sv-reg-names/71983#post_1)
 - [Toy to Linalg dialect](https://discourse.llvm.org/t/toy-to-linalg-dialect/71959#post_4)
-- [[RFC] FastMath flags support in complex dialect](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-complex-dialect/71981#post_1)
-- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_17)
 <!-- DISCOURSE-LLVM:END -->
