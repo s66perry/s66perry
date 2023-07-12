@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Aggressive Loop Deletion](https://discourse.llvm.org/t/aggressive-loop-deletion/71984#post_2)
+- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815?page=2#post_24)
+- [Aggressive Loop Deletion](https://discourse.llvm.org/t/aggressive-loop-deletion/71984#post_1)
 - [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_6)
 - [Sv.reg names](https://discourse.llvm.org/t/sv-reg-names/71983#post_3)
-- [Sv.reg names](https://discourse.llvm.org/t/sv-reg-names/71983#post_2)
-- [Sv.reg names](https://discourse.llvm.org/t/sv-reg-names/71983#post_1)
-- [Toy to Linalg dialect](https://discourse.llvm.org/t/toy-to-linalg-dialect/71959#post_4)
 <!-- DISCOURSE-LLVM:END -->
