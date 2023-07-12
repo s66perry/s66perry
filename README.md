@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_6)
+- [RFC: Python callback for Target get module](https://discourse.llvm.org/t/rfc-python-callback-for-target-get-module/71580#post_6)
+- [When checkPostCall will be skipped?](https://discourse.llvm.org/t/when-checkpostcall-will-be-skipped/71879#post_10)
 - [Matching power of 2 constants](https://discourse.llvm.org/t/matching-power-of-2-constants/71996#post_1)
 - [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_3)
-- [Tips for debugging ThinLTO crashes](https://discourse.llvm.org/t/tips-for-debugging-thinlto-crashes/71848#post_4)
-- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_8)
-- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_8)
 <!-- DISCOURSE-LLVM:END -->
