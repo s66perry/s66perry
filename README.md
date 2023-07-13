@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Use language extensions from future standards in libc++](https://discourse.llvm.org/t/rfc-use-language-extensions-from-future-standards-in-libc/71898#post_3)
-- [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_7)
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602#post_21)
-- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_5)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_18)
+- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_6)
+- [[RFC] Safer Whole Program Class Hierarchy Analysis](https://discourse.llvm.org/t/rfc-safer-whole-program-class-hierarchy-analysis/65144?page=2#post_24)
+- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_19)
+- [Use template classes as user defined storage classes](https://discourse.llvm.org/t/use-template-classes-as-user-defined-storage-classes/72015#post_2)
+- [Problem building standalone OpenMP libraries](https://discourse.llvm.org/t/problem-building-standalone-openmp-libraries/72017#post_2)
 <!-- DISCOURSE-LLVM:END -->
