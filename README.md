@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Inline variable behaviour using c++17 across shared libraries differ for gcc and clang](https://discourse.llvm.org/t/inline-variable-behaviour-using-c-17-across-shared-libraries-differ-for-gcc-and-clang/72009#post_1)
+- [What is Order dependency in class SDep](https://discourse.llvm.org/t/what-is-order-dependency-in-class-sdep/72007#post_1)
 - [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_3)
 - [Clang fails to link in LIT test scripts for x64 windows premerge checks](https://discourse.llvm.org/t/clang-fails-to-link-in-lit-test-scripts-for-x64-windows-premerge-checks/72004#post_1)
 - [Connecting lldb-server to GDB](https://discourse.llvm.org/t/connecting-lldb-server-to-gdb/71145#post_5)
-- [How can I rewrite the changed function in BOLT](https://discourse.llvm.org/t/how-can-i-rewrite-the-changed-function-in-bolt/72002#post_1)
-- [[RFC] Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules](https://discourse.llvm.org/t/rfc-modules-build-daemon-build-system-agnostic-support-for-explicitly-built-modules/71524?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
