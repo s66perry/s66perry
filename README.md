@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Inline variable behaviour using c++17 across shared libraries differ for gcc and clang](https://discourse.llvm.org/t/inline-variable-behaviour-using-c-17-across-shared-libraries-differ-for-gcc-and-clang/72009#post_1)
-- [What is Order dependency in class SDep](https://discourse.llvm.org/t/what-is-order-dependency-in-class-sdep/72007#post_1)
-- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_3)
-- [Clang fails to link in LIT test scripts for x64 windows premerge checks](https://discourse.llvm.org/t/clang-fails-to-link-in-lit-test-scripts-for-x64-windows-premerge-checks/72004#post_1)
-- [Connecting lldb-server to GDB](https://discourse.llvm.org/t/connecting-lldb-server-to-gdb/71145#post_5)
+- [__cxa_get_globals&lpar;&rpar; problem on mingw](https://discourse.llvm.org/t/cxa-get-globals-problem-on-mingw/71511#post_3)
+- [[RFC] Moving some translation between DXIL and standard LLVM constructs from the DirectX backend to a Transforms library](https://discourse.llvm.org/t/rfc-moving-some-translation-between-dxil-and-standard-llvm-constructs-from-the-directx-backend-to-a-transforms-library/71997#post_4)
+- [Is it possible to run part of code to NVIDIA gpu and part to AMD gpu?](https://discourse.llvm.org/t/is-it-possible-to-run-part-of-code-to-nvidia-gpu-and-part-to-amd-gpu/71860#post_18)
+- [Suggested recent version of gcc to build?](https://discourse.llvm.org/t/suggested-recent-version-of-gcc-to-build/71986#post_5)
+- [Clang fails to link in LIT test scripts for x64 windows premerge checks](https://discourse.llvm.org/t/clang-fails-to-link-in-lit-test-scripts-for-x64-windows-premerge-checks/72004#post_2)
 <!-- DISCOURSE-LLVM:END -->
