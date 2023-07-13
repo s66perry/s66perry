@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_4)
-- [Clang Cannot find crt1.o](https://discourse.llvm.org/t/clang-cannot-find-crt1-o/72020#post_1)
-- [How can I model an instruction that gets broken down into two µ-ops?](https://discourse.llvm.org/t/how-can-i-model-an-instruction-that-gets-broken-down-into-two-ops/72012#post_4)
-- [Tips for debugging ThinLTO crashes](https://discourse.llvm.org/t/tips-for-debugging-thinlto-crashes/71848#post_5)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_17)
+- [[RFC] Use language extensions from future standards in libc++](https://discourse.llvm.org/t/rfc-use-language-extensions-from-future-standards-in-libc/71898#post_3)
+- [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_7)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602#post_21)
+- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_5)
+- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_18)
 <!-- DISCOURSE-LLVM:END -->
