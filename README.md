@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Missing stdio.h?](https://discourse.llvm.org/t/missing-stdio-h/72011#post_3)
-- [Missing stdio.h?](https://discourse.llvm.org/t/missing-stdio-h/72011#post_2)
-- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_9)
-- [Missing stdio.h?](https://discourse.llvm.org/t/missing-stdio-h/72011#post_1)
-- [__cxa_get_globals&lpar;&rpar; problem on mingw](https://discourse.llvm.org/t/cxa-get-globals-problem-on-mingw/71511#post_3)
+- [Sv.reg names](https://discourse.llvm.org/t/sv-reg-names/71983#post_5)
+- [How can I model an instruction that gets broken down into two µ-ops?](https://discourse.llvm.org/t/how-can-i-model-an-instruction-that-gets-broken-down-into-two-ops/72012#post_3)
+- [How can I model an instruction that gets broken down into two µ-ops?](https://discourse.llvm.org/t/how-can-i-model-an-instruction-that-gets-broken-down-into-two-ops/72012#post_2)
+- [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_6)
+- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_7)
 <!-- DISCOURSE-LLVM:END -->
