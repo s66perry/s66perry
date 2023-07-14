@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_24)
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_23)
-- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_20)
-- [Documentation for the code](https://discourse.llvm.org/t/documentation-for-the-code/72047#post_2)
-- [Documentation for the code](https://discourse.llvm.org/t/documentation-for-the-code/72047#post_1)
+- [An update on ArmSME dialect and proposed next steps](https://discourse.llvm.org/t/an-update-on-armsme-dialect-and-proposed-next-steps/72036#post_2)
+- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_11)
+- [CIRCT supported type problems](https://discourse.llvm.org/t/circt-supported-type-problems/72050#post_1)
+- [Confused by inconsistencies in GPU magic constants](https://discourse.llvm.org/t/confused-by-inconsistencies-in-gpu-magic-constants/72041#post_4)
+- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_10)
 <!-- DISCOURSE-LLVM:END -->
