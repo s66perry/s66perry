@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How can I model an instruction that gets broken down into two µ-ops?](https://discourse.llvm.org/t/how-can-i-model-an-instruction-that-gets-broken-down-into-two-ops/72012#post_8)
+- [__cxa_get_globals&lpar;&rpar; problem on mingw](https://discourse.llvm.org/t/cxa-get-globals-problem-on-mingw/71511#post_4)
+- [How can I model an instruction that gets broken down into two µ-ops?](https://discourse.llvm.org/t/how-can-i-model-an-instruction-that-gets-broken-down-into-two-ops/72012#post_7)
+- [How can I model an instruction that gets broken down into two µ-ops?](https://discourse.llvm.org/t/how-can-i-model-an-instruction-that-gets-broken-down-into-two-ops/72012#post_6)
 - [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_58)
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_22)
-- [Vector to ArmSME](https://discourse.llvm.org/t/vector-to-armsme/71836#post_4)
-- [An update on ArmSME dialect and proposed next steps](https://discourse.llvm.org/t/an-update-on-armsme-dialect-and-proposed-next-steps/72036#post_1)
-- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_15)
 <!-- DISCOURSE-LLVM:END -->
