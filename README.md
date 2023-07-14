@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What tutorials do you want to see at the LLVM Dev Meeting?](https://discourse.llvm.org/t/what-tutorials-do-you-want-to-see-at-the-llvm-dev-meeting/71371?page=2#post_25)
-- [[RFC] Moving some translation between DXIL and standard LLVM constructs from the DirectX backend to a Transforms library](https://discourse.llvm.org/t/rfc-moving-some-translation-between-dxil-and-standard-llvm-constructs-from-the-directx-backend-to-a-transforms-library/71997#post_9)
-- [Problem building standalone OpenMP libraries](https://discourse.llvm.org/t/problem-building-standalone-openmp-libraries/72017#post_3)
-- [Beginner Resources + Documentation](https://discourse.llvm.org/t/beginner-resources-documentation/5872#post_12)
-- [Beginner Resources + Documentation](https://discourse.llvm.org/t/beginner-resources-documentation/5872#post_11)
+- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_14)
+- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_13)
+- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_9)
+- [Some shortcoming about MLIR Visualization with graphviz](https://discourse.llvm.org/t/some-shortcoming-about-mlir-visualization-with-graphviz/71990#post_3)
+- [Some shortcoming about MLIR Visualization with graphviz](https://discourse.llvm.org/t/some-shortcoming-about-mlir-visualization-with-graphviz/71990#post_2)
 <!-- DISCOURSE-LLVM:END -->
