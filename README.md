@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_14)
-- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_13)
-- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_9)
-- [Some shortcoming about MLIR Visualization with graphviz](https://discourse.llvm.org/t/some-shortcoming-about-mlir-visualization-with-graphviz/71990#post_3)
-- [Some shortcoming about MLIR Visualization with graphviz](https://discourse.llvm.org/t/some-shortcoming-about-mlir-visualization-with-graphviz/71990#post_2)
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=3#post_58)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_22)
+- [Vector to ArmSME](https://discourse.llvm.org/t/vector-to-armsme/71836#post_4)
+- [An update on ArmSME dialect and proposed next steps](https://discourse.llvm.org/t/an-update-on-armsme-dialect-and-proposed-next-steps/72036#post_1)
+- [Number of opened LLVM tickets on https://github.com/llvm/llvm-project/issues is +5k](https://discourse.llvm.org/t/number-of-opened-llvm-tickets-on-https-github-com-llvm-llvm-project-issues-is-5k/72021#post_15)
 <!-- DISCOURSE-LLVM:END -->
