@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to register for thread events using a listener that is not the primary debugger listener?](https://discourse.llvm.org/t/how-to-register-for-thread-events-using-a-listener-that-is-not-the-primary-debugger-listener/71665#post_4)
-- [DWARFExpression and DW_OP_addrx](https://discourse.llvm.org/t/dwarfexpression-and-dw-op-addrx/71627#post_19)
-- [Using fastcc with ZFINX](https://discourse.llvm.org/t/using-fastcc-with-zfinx/72102#post_3)
-- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_12)
-- [Pliron: An extensible compiler IR framework, inspired by MLIR and written in safe Rust](https://discourse.llvm.org/t/pliron-an-extensible-compiler-ir-framework-inspired-by-mlir-and-written-in-safe-rust/71906#post_18)
+- [Does this ASTImporter bug concern the static analyzer?](https://discourse.llvm.org/t/does-this-astimporter-bug-concern-the-static-analyzer/72109#post_1)
+- [Pliron: An extensible compiler IR framework, inspired by MLIR and written in safe Rust](https://discourse.llvm.org/t/pliron-an-extensible-compiler-ir-framework-inspired-by-mlir-and-written-in-safe-rust/71906#post_19)
+- [LLVM Internals](https://discourse.llvm.org/t/llvm-internals/72101#post_3)
+- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_9)
+- [LLVM Dialect GlobalOp String](https://discourse.llvm.org/t/llvm-dialect-globalop-string/72106#post_1)
 <!-- DISCOURSE-LLVM:END -->
