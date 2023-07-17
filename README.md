@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [A new branch](https://discourse.llvm.org/t/a-new-branch/72113#post_1)
-- [Does IR lightweight instrumentation work on source code coverage?](https://discourse.llvm.org/t/does-ir-lightweight-instrumentation-work-on-source-code-coverage/72112#post_1)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=3#post_45)
-- [Exposing disassembler functionality in a DLL/so](https://discourse.llvm.org/t/exposing-disassembler-functionality-in-a-dll-so/70555#post_6)
-- [LLVM Dialect GlobalOp String](https://discourse.llvm.org/t/llvm-dialect-globalop-string/72106#post_2)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=3#post_50)
+- [LLVM Weekly - #498, July 17th 2023](https://discourse.llvm.org/t/llvm-weekly-498-july-17th-2023/72114#post_1)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=3#post_49)
+- [Does IR lightweight instrumentation work on source code coverage?](https://discourse.llvm.org/t/does-ir-lightweight-instrumentation-work-on-source-code-coverage/72112#post_2)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=3#post_48)
 <!-- DISCOURSE-LLVM:END -->
