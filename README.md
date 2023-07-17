@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_4)
+- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_6)
+- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_3)
 - [Confused by inconsistencies in GPU magic constants](https://discourse.llvm.org/t/confused-by-inconsistencies-in-gpu-magic-constants/72041#post_10)
 - [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_2)
-- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_1)
-- [Why does Clang not initialize struct padding before C++20?](https://discourse.llvm.org/t/why-does-clang-not-initialize-struct-padding-before-c-20/72091#post_1)
-- [Where i can find out how implement such features?](https://discourse.llvm.org/t/where-i-can-find-out-how-implement-such-features/72075#post_8)
 <!-- DISCOURSE-LLVM:END -->
