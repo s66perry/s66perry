@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Custom Attribute printing hook in Python bindings](https://discourse.llvm.org/t/custom-attribute-printing-hook-in-python-bindings/72031#post_6)
-- [LLVM Embedded Toolchains Working Group call this Thursday 20th of July](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-20th-of-july/72131#post_1)
-- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_16)
-- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_15)
-- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_14)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=4#post_63)
+- [[RFC] DialectInterface for CSE](https://discourse.llvm.org/t/rfc-dialectinterface-for-cse/71831#post_11)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=4#post_62)
+- [Why do the SLP pass place before the front of the LV pass?](https://discourse.llvm.org/t/why-do-the-slp-pass-place-before-the-front-of-the-lv-pass/72118#post_2)
+- [Can I convert MCInst to MachineInstr?](https://discourse.llvm.org/t/can-i-convert-mcinst-to-machineinstr/72129#post_2)
 <!-- DISCOURSE-LLVM:END -->
