@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=3#post_60)
-- [LLVM Weekly - #498, July 17th 2023](https://discourse.llvm.org/t/llvm-weekly-498-july-17th-2023/72114#post_3)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=3#post_59)
-- [RFC: Large watchpoint support in lldb](https://discourse.llvm.org/t/rfc-large-watchpoint-support-in-lldb/72116#post_2)
-- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=3#post_44)
+- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_12)
+- [Why do the SLP pass place before the front of the LV pass?](https://discourse.llvm.org/t/why-do-the-slp-pass-place-before-the-front-of-the-lv-pass/72118#post_1)
+- [FreeRTOS queue much slower on RISCV when compiled with llvm rather than gcc](https://discourse.llvm.org/t/freertos-queue-much-slower-on-riscv-when-compiled-with-llvm-rather-than-gcc/72093#post_11)
+- [The value of a constant global variable is random after linking for AMDGPU](https://discourse.llvm.org/t/the-value-of-a-constant-global-variable-is-random-after-linking-for-amdgpu/72117#post_1)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=4#post_61)
 <!-- DISCOURSE-LLVM:END -->
