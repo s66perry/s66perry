@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Use Existing Operation as new](https://discourse.llvm.org/t/use-existing-operation-as-new/72137#post_3)
-- [Analyze the code after the state machine in the loop](https://discourse.llvm.org/t/analyze-the-code-after-the-state-machine-in-the-loop/72078#post_3)
-- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543#post_15)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=4#post_71)
-- [Cleaning up headers and dependencies](https://discourse.llvm.org/t/cleaning-up-headers-and-dependencies/72139#post_2)
+- [Redirect clang-analyzer.llvm.org to clang documentation for CSA?](https://discourse.llvm.org/t/redirect-clang-analyzer-llvm-org-to-clang-documentation-for-csa/72032#post_4)
+- [Cleaning up headers and dependencies](https://discourse.llvm.org/t/cleaning-up-headers-and-dependencies/72139#post_6)
+- [Redirect clang-analyzer.llvm.org to clang documentation for CSA?](https://discourse.llvm.org/t/redirect-clang-analyzer-llvm-org-to-clang-documentation-for-csa/72032#post_3)
+- [[RFC] Poison semantics for MLIR](https://discourse.llvm.org/t/rfc-poison-semantics-for-mlir/66245?page=3#post_53)
+- [Cleaning up headers and dependencies](https://discourse.llvm.org/t/cleaning-up-headers-and-dependencies/72139#post_5)
 <!-- DISCOURSE-LLVM:END -->
