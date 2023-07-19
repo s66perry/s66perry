@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][PSA?] Remove `vector.extractelement` and `vector.insertelement` ops in favor of `vector.extract` and `vector.insert` ops](https://discourse.llvm.org/t/rfc-psa-remove-vector-extractelement-and-vector-insertelement-ops-in-favor-of-vector-extract-and-vector-insert-ops/71116#post_7)
+- [RFC: Large watchpoint support in lldb](https://discourse.llvm.org/t/rfc-large-watchpoint-support-in-lldb/72116#post_3)
+- [Custom Attribute printing hook in Python bindings](https://discourse.llvm.org/t/custom-attribute-printing-hook-in-python-bindings/72031#post_12)
+- [Deduce Bool and BoolAttr value from optional keyword in assembly format](https://discourse.llvm.org/t/deduce-bool-and-boolattr-value-from-optional-keyword-in-assembly-format/72152#post_1)
 - [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=4#post_80)
-- [Today&#39;s &lpar;7/19&rpar; Clang Language WG meeting is canceled](https://discourse.llvm.org/t/todays-7-19-clang-language-wg-meeting-is-canceled/72151#post_1)
-- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_5)
-- [Best practices for op types in the transform dialect](https://discourse.llvm.org/t/best-practices-for-op-types-in-the-transform-dialect/72148#post_3)
-- [[RFC] Proposal for complex math intrinsic lowering through the MLIR complex dialect](https://discourse.llvm.org/t/rfc-proposal-for-complex-math-intrinsic-lowering-through-the-mlir-complex-dialect/65420#post_2)
 <!-- DISCOURSE-LLVM:END -->
