@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Slot index numbering why use InstrDist = 4 * Slot_Count as the default dist?](https://discourse.llvm.org/t/slot-index-numbering-why-use-instrdist-4-slot-count-as-the-default-dist/72094#post_8)
-- [Slot index numbering why use InstrDist = 4 * Slot_Count as the default dist?](https://discourse.llvm.org/t/slot-index-numbering-why-use-instrdist-4-slot-count-as-the-default-dist/72094#post_7)
-- [How to speed up tests &lpar;`check-mlir`&rpar; on Mac?](https://discourse.llvm.org/t/how-to-speed-up-tests-check-mlir-on-mac/72154#post_1)
-- [Driver: Adding a different file extention for assembler source](https://discourse.llvm.org/t/driver-adding-a-different-file-extention-for-assembler-source/72153#post_2)
-- [Deduce Bool and BoolAttr value from optional keyword in assembly format](https://discourse.llvm.org/t/deduce-bool-and-boolattr-value-from-optional-keyword-in-assembly-format/72152#post_3)
+- [Use Existing Operation as new](https://discourse.llvm.org/t/use-existing-operation-as-new/72137#post_7)
+- [[RFC][PSA?] Remove `vector.extractelement` and `vector.insertelement` ops in favor of `vector.extract` and `vector.insert` ops](https://discourse.llvm.org/t/rfc-psa-remove-vector-extractelement-and-vector-insertelement-ops-in-favor-of-vector-extract-and-vector-insert-ops/71116#post_8)
+- [Use Existing Operation as new](https://discourse.llvm.org/t/use-existing-operation-as-new/72137#post_6)
+- [Driver: Adding a different file extention for assembler source](https://discourse.llvm.org/t/driver-adding-a-different-file-extention-for-assembler-source/72153#post_3)
+- [Deduce Bool and BoolAttr value from optional keyword in assembly format](https://discourse.llvm.org/t/deduce-bool-and-boolattr-value-from-optional-keyword-in-assembly-format/72152#post_5)
 <!-- DISCOURSE-LLVM:END -->
