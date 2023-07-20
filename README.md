@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_8)
+- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_7)
+- [FIFO channel in CIRCT](https://discourse.llvm.org/t/fifo-channel-in-circt/71813#post_14)
+- [How to speed up tests &lpar;`check-mlir`&rpar; on Mac?](https://discourse.llvm.org/t/how-to-speed-up-tests-check-mlir-on-mac/72154#post_3)
 - [Custom Attribute printing hook in Python bindings](https://discourse.llvm.org/t/custom-attribute-printing-hook-in-python-bindings/72031#post_13)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_6)
-- [Building and testing compiler-rt builtins for riscv64-unknown-elf](https://discourse.llvm.org/t/building-and-testing-compiler-rt-builtins-for-riscv64-unknown-elf/72141#post_3)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_5)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_4)
 <!-- DISCOURSE-LLVM:END -->
