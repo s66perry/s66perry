@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Use Existing Operation as new](https://discourse.llvm.org/t/use-existing-operation-as-new/72137#post_10)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165#post_4)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165#post_3)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165#post_2)
-- [RISC-V LLVM sync-up call July 20th 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-july-20th-2023/72173#post_1)
+- [[GlobalISel] how to enable -global-isel-abort=0 default](https://discourse.llvm.org/t/globalisel-how-to-enable-global-isel-abort-0-default/71509#post_6)
+- [Clarify HostAddress/LoadAddress logic](https://discourse.llvm.org/t/clarify-hostaddress-loadaddress-logic/72175#post_1)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=5#post_85)
+- [Vectorize Linalg generic Op](https://discourse.llvm.org/t/vectorize-linalg-generic-op/72149#post_4)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165#post_6)
 <!-- DISCOURSE-LLVM:END -->
