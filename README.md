@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does the LLD support linking of XCOFF format object files?](https://discourse.llvm.org/t/does-the-lld-support-linking-of-xcoff-format-object-files/72188#post_1)
+- [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_8)
+- [MLIR build with Dialects](https://discourse.llvm.org/t/mlir-build-with-dialects/72187#post_2)
 - [MLIR build with Dialects](https://discourse.llvm.org/t/mlir-build-with-dialects/72187#post_1)
 - [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_13)
-- [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_12)
-- [Exploring alternative object file formats](https://discourse.llvm.org/t/exploring-alternative-object-file-formats/71536#post_11)
-- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=5#post_86)
 <!-- DISCOURSE-LLVM:END -->
