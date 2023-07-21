@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_20)
-- [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_19)
-- [Some ideas about organizing dialects](https://discourse.llvm.org/t/some-ideas-about-organizing-dialects/71968#post_13)
-- [Pre-LLVM-DEV&#39;23 -- Embedded Toolchains Workshop](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop/71360#post_14)
-- [Clarifying GEP semantics](https://discourse.llvm.org/t/clarifying-gep-semantics/70415#post_18)
+- [[RFC] Propose David Blaikie as a code owner for Clang debug info](https://discourse.llvm.org/t/rfc-propose-david-blaikie-as-a-code-owner-for-clang-debug-info/72156#post_14)
+- [[Code Review] Reminder about links in code &amp; commit messages](https://discourse.llvm.org/t/code-review-reminder-about-links-in-code-commit-messages/71847?page=5#post_87)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_1)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon July 24 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-july-24-23-6pm/71942#post_2)
+- [[RFC] Propose David Blaikie as a code owner for Clang debug info](https://discourse.llvm.org/t/rfc-propose-david-blaikie-as-a-code-owner-for-clang-debug-info/72156#post_13)
 <!-- DISCOURSE-LLVM:END -->
