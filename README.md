@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_33)
+- [Confused by inconsistencies in GPU magic constants](https://discourse.llvm.org/t/confused-by-inconsistencies-in-gpu-magic-constants/72041#post_15)
+- [Deduce Bool and BoolAttr value from optional keyword in assembly format](https://discourse.llvm.org/t/deduce-bool-and-boolattr-value-from-optional-keyword-in-assembly-format/72152#post_8)
 - [MLIR build with Dialects](https://discourse.llvm.org/t/mlir-build-with-dialects/72187#post_5)
 - [Target Triples for Hardware Compilers](https://discourse.llvm.org/t/target-triples-for-hardware-compilers/4125#post_8)
-- [How can I model an instruction that gets broken down into two µ-ops?](https://discourse.llvm.org/t/how-can-i-model-an-instruction-that-gets-broken-down-into-two-ops/72012#post_11)
-- [Lower TensorFlow compute graph to MLIR at train time](https://discourse.llvm.org/t/lower-tensorflow-compute-graph-to-mlir-at-train-time/72194#post_1)
-- [Func.call support for nested references](https://discourse.llvm.org/t/func-call-support-for-nested-references/72193#post_1)
 <!-- DISCOURSE-LLVM:END -->
