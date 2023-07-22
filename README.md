@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Func.call support for nested references](https://discourse.llvm.org/t/func-call-support-for-nested-references/72193#post_2)
+- [Inquiry about Function Inlining in Clang/LLVM](https://discourse.llvm.org/t/inquiry-about-function-inlining-in-clang-llvm/72220#post_2)
 - [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_13)
 - [Inquiry about Function Inlining in Clang/LLVM](https://discourse.llvm.org/t/inquiry-about-function-inlining-in-clang-llvm/72220#post_1)
 - [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_12)
-- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_11)
-- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_10)
 <!-- DISCOURSE-LLVM:END -->
