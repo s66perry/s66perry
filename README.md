@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Parser in PYBIND and C++ library](https://discourse.llvm.org/t/parser-in-pybind-and-c-library/72201#post_4)
+- [Parser in PYBIND and C++ library](https://discourse.llvm.org/t/parser-in-pybind-and-c-library/72201#post_3)
+- [Parser in PYBIND and C++ library](https://discourse.llvm.org/t/parser-in-pybind-and-c-library/72201#post_2)
 - [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165#post_17)
 - [Deduce Bool and BoolAttr value from optional keyword in assembly format](https://discourse.llvm.org/t/deduce-bool-and-boolattr-value-from-optional-keyword-in-assembly-format/72152#post_10)
-- [Deduce Bool and BoolAttr value from optional keyword in assembly format](https://discourse.llvm.org/t/deduce-bool-and-boolattr-value-from-optional-keyword-in-assembly-format/72152#post_9)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165#post_16)
-- [[UB or not UB] What&#39;s a legal call?](https://discourse.llvm.org/t/ub-or-not-ub-whats-a-legal-call/72186#post_10)
 <!-- DISCOURSE-LLVM:END -->
