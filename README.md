@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_12)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_11)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_10)
 - [Proposal to add stream/queue as an optional argument to few GPU dialect ops](https://discourse.llvm.org/t/proposal-to-add-stream-queue-as-an-optional-argument-to-few-gpu-dialect-ops/67920?page=2#post_35)
 - [Create tablegen file of Q extension for RISCV](https://discourse.llvm.org/t/create-tablegen-file-of-q-extension-for-riscv/72216#post_1)
-- [Parser in PYBIND and C++ library](https://discourse.llvm.org/t/parser-in-pybind-and-c-library/72201#post_5)
-- [2023 US LLVM Dev Mtg - Student Travel Grants, Call for Papers and other updates](https://discourse.llvm.org/t/2023-us-llvm-dev-mtg-student-travel-grants-call-for-papers-and-other-updates/72203#post_2)
-- [Parser in PYBIND and C++ library](https://discourse.llvm.org/t/parser-in-pybind-and-c-library/72201#post_4)
 <!-- DISCOURSE-LLVM:END -->
