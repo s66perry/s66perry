@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Func.call support for nested references](https://discourse.llvm.org/t/func-call-support-for-nested-references/72193#post_3)
-- [Inquiry about Function Inlining in Clang/LLVM](https://discourse.llvm.org/t/inquiry-about-function-inlining-in-clang-llvm/72220#post_5)
-- [Inquiry about Function Inlining in Clang/LLVM](https://discourse.llvm.org/t/inquiry-about-function-inlining-in-clang-llvm/72220#post_4)
-- [Identify that a linalg.GenericOp imlpements tosa.ReduceSum](https://discourse.llvm.org/t/identify-that-a-linalg-genericop-imlpements-tosa-reducesum/72142#post_8)
-- [Reverse iteration bots](https://discourse.llvm.org/t/reverse-iteration-bots/72224#post_1)
+- [Func.call support for nested references](https://discourse.llvm.org/t/func-call-support-for-nested-references/72193#post_7)
+- [Confused by inconsistencies in GPU magic constants](https://discourse.llvm.org/t/confused-by-inconsistencies-in-gpu-magic-constants/72041#post_16)
+- [Func.call support for nested references](https://discourse.llvm.org/t/func-call-support-for-nested-references/72193#post_6)
+- [Func.call support for nested references](https://discourse.llvm.org/t/func-call-support-for-nested-references/72193#post_5)
+- [Func.call support for nested references](https://discourse.llvm.org/t/func-call-support-for-nested-references/72193#post_4)
 <!-- DISCOURSE-LLVM:END -->
