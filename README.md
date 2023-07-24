@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reverse iteration bots](https://discourse.llvm.org/t/reverse-iteration-bots/72224#post_2)
+- [[RFC] Add effect index in memroy effect](https://discourse.llvm.org/t/rfc-add-effect-index-in-memroy-effect/72235#post_1)
+- [I couldn&#39;t even register my own target](https://discourse.llvm.org/t/i-couldnt-even-register-my-own-target/72197#post_3)
 - [[RFC] Loop vectorization for __builtin_prefetch](https://discourse.llvm.org/t/rfc-loop-vectorization-for-builtin-prefetch/72234#post_1)
 - [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_10)
-- [How to dump scalar evolution information](https://discourse.llvm.org/t/how-to-dump-scalar-evolution-information/72230#post_4)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_21)
-- [Linking two modules with @llvm.global_ctors arrays causes a linker error to occur](https://discourse.llvm.org/t/linking-two-modules-with-llvm-global-ctors-arrays-causes-a-linker-error-to-occur/72226#post_2)
 <!-- DISCOURSE-LLVM:END -->
