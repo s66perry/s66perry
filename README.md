@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_24)
-- [[GlobalISel] Why is the return types of G_ICMP not &lt;n x s1&gt;?](https://discourse.llvm.org/t/globalisel-why-is-the-return-types-of-g-icmp-not-n-x-s1/72240#post_3)
-- [[RFC][TableGen] New llvm-tblgen backend to print records/classes hierarchy as a dot graph](https://discourse.llvm.org/t/rfc-tablegen-new-llvm-tblgen-backend-to-print-records-classes-hierarchy-as-a-dot-graph/72229#post_4)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_23)
-- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_18)
+- [Triaging old Clang bugs](https://discourse.llvm.org/t/triaging-old-clang-bugs/71590?page=2#post_24)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_25)
+- [MLIR C/C++ Frontend Working Group [Mon, Jul 24th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jul-24th/72243#post_4)
+- [MLIR C/C++ Frontend Working Group [Mon, Jul 24th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jul-24th/72243#post_3)
+- [MLIR C/C++ Frontend Working Group [Mon, Jul 24th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jul-24th/72243#post_2)
 <!-- DISCOURSE-LLVM:END -->
