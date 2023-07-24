@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][TableGen] New llvm-tblgen backend to print records/classes hierarchy as a dot graph](https://discourse.llvm.org/t/rfc-tablegen-new-llvm-tblgen-backend-to-print-records-classes-hierarchy-as-a-dot-graph/72229#post_2)
-- [Reverse iteration bots](https://discourse.llvm.org/t/reverse-iteration-bots/72224#post_4)
-- [[RFC] Add effect index in memroy effect](https://discourse.llvm.org/t/rfc-add-effect-index-in-memroy-effect/72235#post_3)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_22)
-- [Firtool - removing unused definitions from every .sv file](https://discourse.llvm.org/t/firtool-removing-unused-definitions-from-every-sv-file/69353#post_4)
+- [[GlobalISel] Why is the return types of G_ICMP not &lt;n x s1&gt;?](https://discourse.llvm.org/t/globalisel-why-is-the-return-types-of-g-icmp-not-n-x-s1/72240#post_3)
+- [[RFC][TableGen] New llvm-tblgen backend to print records/classes hierarchy as a dot graph](https://discourse.llvm.org/t/rfc-tablegen-new-llvm-tblgen-backend-to-print-records-classes-hierarchy-as-a-dot-graph/72229#post_4)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_23)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_18)
+- [[RFC][TableGen] New llvm-tblgen backend to print records/classes hierarchy as a dot graph](https://discourse.llvm.org/t/rfc-tablegen-new-llvm-tblgen-backend-to-print-records-classes-hierarchy-as-a-dot-graph/72229#post_3)
 <!-- DISCOURSE-LLVM:END -->
