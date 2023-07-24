@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[GlobalISel] Why is the return types of G_ICMP not &lt;n x s1&gt;?](https://discourse.llvm.org/t/globalisel-why-is-the-return-types-of-g-icmp-not-n-x-s1/72240#post_2)
-- [[GlobalISel] Why is the return types of G_ICMP not &lt;n x s1&gt;?](https://discourse.llvm.org/t/globalisel-why-is-the-return-types-of-g-icmp-not-n-x-s1/72240#post_1)
-- [Nested Functions?](https://discourse.llvm.org/t/nested-functions/72239#post_1)
-- [Triaging old Clang bugs](https://discourse.llvm.org/t/triaging-old-clang-bugs/71590?page=2#post_22)
-- [[AliasAnalysis] Why do we not use EarliestEscapeInfo in multiple passes?](https://discourse.llvm.org/t/aliasanalysis-why-do-we-not-use-earliestescapeinfo-in-multiple-passes/72237#post_2)
+- [[RFC] Add effect index in memroy effect](https://discourse.llvm.org/t/rfc-add-effect-index-in-memroy-effect/72235#post_3)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_22)
+- [Firtool - removing unused definitions from every .sv file](https://discourse.llvm.org/t/firtool-removing-unused-definitions-from-every-sv-file/69353#post_4)
+- [NVIDIA is hiring CPU Compiler engineers](https://discourse.llvm.org/t/nvidia-is-hiring-cpu-compiler-engineers/72242#post_1)
+- [[AliasAnalysis] Why do we not use EarliestEscapeInfo in multiple passes?](https://discourse.llvm.org/t/aliasanalysis-why-do-we-not-use-earliestescapeinfo-in-multiple-passes/72237#post_3)
 <!-- DISCOURSE-LLVM:END -->
