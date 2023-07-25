@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_10)
-- [[RFC] Modernizing and formalizing the File abstraction interface](https://discourse.llvm.org/t/rfc-modernizing-and-formalizing-the-file-abstraction-interface/70605#post_5)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_16)
-- [SUBREG_TO_REG semantics &lpar;or x86&#39;s zext implementation is broken&rpar;](https://discourse.llvm.org/t/subreg-to-reg-semantics-or-x86s-zext-implementation-is-broken/72250#post_8)
-- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_9)
+- [Segmentation fault when adding a new RISCV Intrinsic](https://discourse.llvm.org/t/segmentation-fault-when-adding-a-new-riscv-intrinsic/72301#post_2)
+- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_11)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=6#post_108)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=6#post_107)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208#post_19)
 <!-- DISCOURSE-LLVM:END -->
