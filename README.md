@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_3)
-- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_2)
-- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_1)
-- [Pass skip by lamdba function](https://discourse.llvm.org/t/pass-skip-by-lamdba-function/72258#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 14 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-14-23-6pm/72295#post_1)
+- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_6)
+- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_5)
+- [[PSA] MLIR Binary footprint](https://discourse.llvm.org/t/psa-mlir-binary-footprint/72298#post_1)
+- [TOSA lower to Linalg/Tensor/Arith failed&lpar;tosa.reshape/Conv2d&rpar;](https://discourse.llvm.org/t/tosa-lower-to-linalg-tensor-arith-failed-tosa-reshape-conv2d/72281#post_2)
+- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_4)
 <!-- DISCOURSE-LLVM:END -->
