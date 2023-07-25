@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_8)
-- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543?page=2#post_25)
-- [Challenges with Inserting Scalar Instructions into Vectorized Loops](https://discourse.llvm.org/t/challenges-with-inserting-scalar-instructions-into-vectorized-loops/72294#post_1)
-- [LLVM 17.x Release Notes update](https://discourse.llvm.org/t/llvm-17-x-release-notes-update/72292#post_1)
-- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543?page=2#post_24)
+- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_3)
+- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_2)
+- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_1)
+- [Pass skip by lamdba function](https://discourse.llvm.org/t/pass-skip-by-lamdba-function/72258#post_3)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 14 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-14-23-6pm/72295#post_1)
 <!-- DISCOURSE-LLVM:END -->
