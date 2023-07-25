@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253#post_9)
+- [Pass skip by lamdba function](https://discourse.llvm.org/t/pass-skip-by-lamdba-function/72258#post_1)
+- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257#post_1)
 - [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253#post_8)
 - [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_18)
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_17)
-- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253#post_7)
-- [How to add &quot;__attribute__&lpar;&lpar;interrupt&rpar;&rpar;&quot; to a new Target?](https://discourse.llvm.org/t/how-to-add-attribute-interrupt-to-a-new-target/72255#post_1)
 <!-- DISCOURSE-LLVM:END -->
