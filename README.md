@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clarify HostAddress/LoadAddress logic](https://discourse.llvm.org/t/clarify-hostaddress-loadaddress-logic/72175#post_6)
+- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_10)
+- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_9)
+- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_8)
 - [Clang not always detects return-stack-address error depending on context](https://discourse.llvm.org/t/clang-not-always-detects-return-stack-address-error-depending-on-context/72323#post_1)
-- [Ld.lld: error: mb1:&lpar;.ARM.exidx+0x0&rpar;: relocation R_ARM_PREL31 out of range: -1119573288 is not in [-1073741824, 1073741823]](https://discourse.llvm.org/t/ld-lld-error-mb1-arm-exidx-0x0-relocation-r-arm-prel31-out-of-range-1119573288-is-not-in-1073741824-1073741823/72320#post_2)
-- [Order of host + device flags created by clang-linker-wrapper](https://discourse.llvm.org/t/order-of-host-device-flags-created-by-clang-linker-wrapper/72262#post_4)
-- [[RFC] Overhauled MIR Patterns for GlobalISel Combiners](https://discourse.llvm.org/t/rfc-overhauled-mir-patterns-for-globalisel-combiners/72264#post_2)
-- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253#post_17)
 <!-- DISCOURSE-LLVM:END -->
