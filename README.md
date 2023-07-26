@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253#post_16)
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_6)
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_5)
-- [Slot index numbering why use InstrDist = 4 * Slot_Count as the default dist?](https://discourse.llvm.org/t/slot-index-numbering-why-use-instrdist-4-slot-count-as-the-default-dist/72094#post_10)
-- [Technologies Enabled by LLVM | Introduction to Common Compiler Tools #2 | Online Only](https://discourse.llvm.org/t/technologies-enabled-by-llvm-introduction-to-common-compiler-tools-2-online-only/72314#post_1)
+- [Invoking `InitLLVM` cause `applyPassManagerCLOptions` fail](https://discourse.llvm.org/t/invoking-initllvm-cause-applypassmanagercloptions-fail/72315#post_1)
+- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_20)
+- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_19)
+- [Order of host + device flags created by clang-linker-wrapper](https://discourse.llvm.org/t/order-of-host-device-flags-created-by-clang-linker-wrapper/72262#post_3)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
