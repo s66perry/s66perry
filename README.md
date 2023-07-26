@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_6)
-- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253#post_20)
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310?page=2#post_25)
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310?page=2#post_24)
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310?page=2#post_23)
+- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253?page=2#post_21)
+- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm 16.x or main](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm-16-x-or-main/72310?page=2#post_27)
+- [Modifying the AST](https://discourse.llvm.org/t/modifying-the-ast/72327#post_3)
+- [Modifying the AST](https://discourse.llvm.org/t/modifying-the-ast/72327#post_2)
+- [Modifying the AST](https://discourse.llvm.org/t/modifying-the-ast/72327#post_1)
 <!-- DISCOURSE-LLVM:END -->
