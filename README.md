@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Invoking `InitLLVM` cause `applyPassManagerCLOptions` fail](https://discourse.llvm.org/t/invoking-initllvm-cause-applypassmanagercloptions-fail/72315#post_1)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_20)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159#post_19)
-- [Order of host + device flags created by clang-linker-wrapper](https://discourse.llvm.org/t/order-of-host-device-flags-created-by-clang-linker-wrapper/72262#post_3)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_34)
+- [[RFC][TableGen] New llvm-tblgen backend to print records/classes hierarchy as a dot graph](https://discourse.llvm.org/t/rfc-tablegen-new-llvm-tblgen-backend-to-print-records-classes-hierarchy-as-a-dot-graph/72229#post_5)
+- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_7)
+- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_9)
+- [AArch64_be generate diff code for int8_t with AArch64_le?](https://discourse.llvm.org/t/aarch64-be-generate-diff-code-for-int8-t-with-aarch64-le/72309#post_7)
+- [AArch64_be generate diff code for int8_t with AArch64_le?](https://discourse.llvm.org/t/aarch64-be-generate-diff-code-for-int8-t-with-aarch64-le/72309#post_6)
 <!-- DISCOURSE-LLVM:END -->
