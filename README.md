@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543?page=2#post_27)
+- [[PSA] MLIR Binary footprint](https://discourse.llvm.org/t/psa-mlir-binary-footprint/72298#post_3)
+- [How Should AA Handle This?](https://discourse.llvm.org/t/how-should-aa-handle-this/72300#post_2)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=2#post_36)
 - [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253?page=2#post_21)
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm 16.x or main](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm-16-x-or-main/72310?page=2#post_27)
-- [Modifying the AST](https://discourse.llvm.org/t/modifying-the-ast/72327#post_3)
-- [Modifying the AST](https://discourse.llvm.org/t/modifying-the-ast/72327#post_2)
-- [Modifying the AST](https://discourse.llvm.org/t/modifying-the-ast/72327#post_1)
 <!-- DISCOURSE-LLVM:END -->
