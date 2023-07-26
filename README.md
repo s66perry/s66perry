@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_3)
-- [[PSA] MLIR Binary footprint](https://discourse.llvm.org/t/psa-mlir-binary-footprint/72298#post_2)
-- [AArch64_be generate diff code for int8_t with AArch64_le?](https://discourse.llvm.org/t/aarch64-be-generate-diff-code-for-int8-t-with-aarch64-le/72309#post_5)
-- [AArch64_be generate diff code for int8_t with AArch64_le?](https://discourse.llvm.org/t/aarch64-be-generate-diff-code-for-int8-t-with-aarch64-le/72309#post_4)
-- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_2)
+- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253#post_16)
+- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_6)
+- [Require GCC&gt;=7.5 as GCC 7.3 cannot build llvm](https://discourse.llvm.org/t/require-gcc-7-5-as-gcc-7-3-cannot-build-llvm/72310#post_5)
+- [Slot index numbering why use InstrDist = 4 * Slot_Count as the default dist?](https://discourse.llvm.org/t/slot-index-numbering-why-use-instrdist-4-slot-count-as-the-default-dist/72094#post_10)
+- [Technologies Enabled by LLVM | Introduction to Common Compiler Tools #2 | Online Only](https://discourse.llvm.org/t/technologies-enabled-by-llvm-introduction-to-common-compiler-tools-2-online-only/72314#post_1)
 <!-- DISCOURSE-LLVM:END -->
