@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [-convert-fsm-to-sv Pass Fail](https://discourse.llvm.org/t/convert-fsm-to-sv-pass-fail/72318#post_2)
+- [Defining custom Attributes with tablegen](https://discourse.llvm.org/t/defining-custom-attributes-with-tablegen/72343#post_3)
+- [Reverse iteration bots](https://discourse.llvm.org/t/reverse-iteration-bots/72224#post_5)
+- [Defining custom Attributes with tablegen](https://discourse.llvm.org/t/defining-custom-attributes-with-tablegen/72343#post_2)
 - [Defining custom Attributes with tablegen](https://discourse.llvm.org/t/defining-custom-attributes-with-tablegen/72343#post_1)
-- [[RFC] Deprecate old key-value format in CheckOptions](https://discourse.llvm.org/t/rfc-deprecate-old-key-value-format-in-checkoptions/72233#post_3)
-- [[RFC] Deprecate old key-value format in CheckOptions](https://discourse.llvm.org/t/rfc-deprecate-old-key-value-format-in-checkoptions/72233#post_2)
-- [[RFC] FastMath flags support in complex dialect](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-complex-dialect/71981#post_2)
-- [Using ccache to cache clang-tidy results](https://discourse.llvm.org/t/using-ccache-to-cache-clang-tidy-results/72338#post_3)
 <!-- DISCOURSE-LLVM:END -->
