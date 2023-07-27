@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TOSA lower to Linalg/Tensor/Arith failed&lpar;tosa.reshape/Conv2d&rpar;](https://discourse.llvm.org/t/tosa-lower-to-linalg-tensor-arith-failed-tosa-reshape-conv2d/72281#post_4)
-- [Fail to recongize func.return as a block terminator in ParseSourceFile&lpar;&rpar;](https://discourse.llvm.org/t/fail-to-recongize-func-return-as-a-block-terminator-in-parsesourcefile/72350#post_2)
-- [Fail to recongize func.return as a block terminator in ParseSourceFile&lpar;&rpar;](https://discourse.llvm.org/t/fail-to-recongize-func-return-as-a-block-terminator-in-parsesourcefile/72350#post_1)
-- [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_2)
-- [[RFC][HLFIR] Optimized Bufferization for elemental array updates](https://discourse.llvm.org/t/rfc-hlfir-optimized-bufferization-for-elemental-array-updates/72348#post_1)
+- [Restricting direct pushes to release branches](https://discourse.llvm.org/t/restricting-direct-pushes-to-release-branches/72353#post_1)
+- [AArch64_be generate diff code for int8_t with AArch64_le?](https://discourse.llvm.org/t/aarch64-be-generate-diff-code-for-int8-t-with-aarch64-le/72309#post_11)
+- [AArch64_be generate diff code for int8_t with AArch64_le?](https://discourse.llvm.org/t/aarch64-be-generate-diff-code-for-int8-t-with-aarch64-le/72309#post_10)
+- [Emit FCCMP for AND of two float compares](https://discourse.llvm.org/t/emit-fccmp-for-and-of-two-float-compares/72352#post_1)
+- [Missing LLVM lowering for math::Atan2Op](https://discourse.llvm.org/t/missing-llvm-lowering-for-math-atan2op/64096#post_9)
 <!-- DISCOURSE-LLVM:END -->
