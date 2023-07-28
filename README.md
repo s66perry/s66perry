@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Create func.CallOp failed](https://discourse.llvm.org/t/create-func-callop-failed/72372#post_2)
+- [[RFC] FastMath flags support in complex dialect](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-complex-dialect/71981#post_7)
+- [Possibility of Obtaining Array Length in Clang AST Phase](https://discourse.llvm.org/t/possibility-of-obtaining-array-length-in-clang-ast-phase/72335#post_4)
+- [Create func.CallOp failed](https://discourse.llvm.org/t/create-func-callop-failed/72372#post_1)
 - [Possibility of Obtaining Array Length in Clang AST Phase](https://discourse.llvm.org/t/possibility-of-obtaining-array-length-in-clang-ast-phase/72335#post_3)
-- [[RFC] FastMath flags support in complex dialect](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-complex-dialect/71981#post_6)
-- [[RFC] FastMath flags support in complex dialect](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-complex-dialect/71981#post_5)
-- [[RFC] FastMath flags support in complex dialect](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-complex-dialect/71981#post_4)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=3#post_46)
 <!-- DISCOURSE-LLVM:END -->
