@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=3#post_47)
-- [Emit FCCMP for AND of two float compares](https://discourse.llvm.org/t/emit-fccmp-for-and-of-two-float-compares/72352#post_10)
-- [Order of host + device flags created by clang-linker-wrapper](https://discourse.llvm.org/t/order-of-host-device-flags-created-by-clang-linker-wrapper/72262#post_7)
-- [Emit FCCMP for AND of two float compares](https://discourse.llvm.org/t/emit-fccmp-for-and-of-two-float-compares/72352#post_9)
-- [Golang support](https://discourse.llvm.org/t/golang-support/72384#post_1)
+- [[MLIR] How to make ElementsAttr into a Property?](https://discourse.llvm.org/t/mlir-how-to-make-elementsattr-into-a-property/72389#post_1)
+- [RFC: add a flag to Clang 17 to disable coroutines in C++20](https://discourse.llvm.org/t/rfc-add-a-flag-to-clang-17-to-disable-coroutines-in-c-20/72388#post_2)
+- [RFC: add a flag to Clang 17 to disable coroutines in C++20](https://discourse.llvm.org/t/rfc-add-a-flag-to-clang-17-to-disable-coroutines-in-c-20/72388#post_1)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=3#post_49)
+- [Golang support](https://discourse.llvm.org/t/golang-support/72384#post_2)
 <!-- DISCOURSE-LLVM:END -->
