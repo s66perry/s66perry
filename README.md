@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MLIR] How to make ElementsAttr into a Property?](https://discourse.llvm.org/t/mlir-how-to-make-elementsattr-into-a-property/72389#post_1)
-- [RFC: add a flag to Clang 17 to disable coroutines in C++20](https://discourse.llvm.org/t/rfc-add-a-flag-to-clang-17-to-disable-coroutines-in-c-20/72388#post_2)
-- [RFC: add a flag to Clang 17 to disable coroutines in C++20](https://discourse.llvm.org/t/rfc-add-a-flag-to-clang-17-to-disable-coroutines-in-c-20/72388#post_1)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=3#post_49)
-- [Golang support](https://discourse.llvm.org/t/golang-support/72384#post_2)
+- [RFC: add a flag to Clang 17 to disable coroutines in C++20](https://discourse.llvm.org/t/rfc-add-a-flag-to-clang-17-to-disable-coroutines-in-c-20/72388#post_4)
+- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253?page=2#post_27)
+- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253?page=2#post_26)
+- [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253?page=2#post_25)
+- [RFC: add a flag to Clang 17 to disable coroutines in C++20](https://discourse.llvm.org/t/rfc-add-a-flag-to-clang-17-to-disable-coroutines-in-c-20/72388#post_3)
 <!-- DISCOURSE-LLVM:END -->
