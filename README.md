@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Supporting LLVM_BUILD_LLVM_DYLIB on Windows](https://discourse.llvm.org/t/supporting-llvm-build-llvm-dylib-on-windows/58891?page=2#post_22)
-- [[RFC] A new AAPass for coroutines or a simple workaround?](https://discourse.llvm.org/t/rfc-a-new-aapass-for-coroutines-or-a-simple-workaround/72336#post_7)
-- [Supporting LLVM_BUILD_LLVM_DYLIB on Windows](https://discourse.llvm.org/t/supporting-llvm-build-llvm-dylib-on-windows/58891?page=2#post_21)
-- [Supporting LLVM_BUILD_LLVM_DYLIB on Windows](https://discourse.llvm.org/t/supporting-llvm-build-llvm-dylib-on-windows/58891#post_20)
-- [Supporting LLVM_BUILD_LLVM_DYLIB on Windows](https://discourse.llvm.org/t/supporting-llvm-build-llvm-dylib-on-windows/58891#post_19)
+- [[RFC] FastMath flags support in complex dialect](https://discourse.llvm.org/t/rfc-fastmath-flags-support-in-complex-dialect/71981#post_3)
+- [Fail to recognize func.return as a block terminator in ParseSourceFile&lpar;&rpar;](https://discourse.llvm.org/t/fail-to-recognize-func-return-as-a-block-terminator-in-parsesourcefile/72350#post_3)
+- [Supporting LLVM_BUILD_LLVM_DYLIB on Windows](https://discourse.llvm.org/t/supporting-llvm-build-llvm-dylib-on-windows/58891?page=2#post_24)
+- [Supporting LLVM_BUILD_LLVM_DYLIB on Windows](https://discourse.llvm.org/t/supporting-llvm-build-llvm-dylib-on-windows/58891?page=2#post_23)
+- [Order of host + device flags created by clang-linker-wrapper](https://discourse.llvm.org/t/order-of-host-device-flags-created-by-clang-linker-wrapper/72262#post_6)
 <!-- DISCOURSE-LLVM:END -->
