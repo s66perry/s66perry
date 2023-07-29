@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 17.0.0-rc1 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc1-tagged/72404#post_1)
+- [Triaging old Clang bugs](https://discourse.llvm.org/t/triaging-old-clang-bugs/71590?page=2#post_27)
+- [[RFC][TableGen] New llvm-tblgen backend to print records/classes hierarchy as a dot graph](https://discourse.llvm.org/t/rfc-tablegen-new-llvm-tblgen-backend-to-print-records-classes-hierarchy-as-a-dot-graph/72229#post_8)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=2#post_38)
 - [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=2#post_37)
-- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208?page=2#post_22)
-- [How can I set a section to a variable using clang?](https://discourse.llvm.org/t/how-can-i-set-a-section-to-a-variable-using-clang/72403#post_1)
-- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=2#post_36)
-- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_4)
 <!-- DISCOURSE-LLVM:END -->
