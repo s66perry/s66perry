@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 17.0.0-rc1 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc1-tagged/72404#post_2)
+- [How can I set a section to a variable using clang?](https://discourse.llvm.org/t/how-can-i-set-a-section-to-a-variable-using-clang/72403#post_3)
 - [How can I set a section to a variable using clang?](https://discourse.llvm.org/t/how-can-i-set-a-section-to-a-variable-using-clang/72403#post_2)
 - [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_4)
 - [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_3)
-- [[Python Bindings] How to create a `tensor.extract_slice` operation with only static offsets, static sizes and static strides?](https://discourse.llvm.org/t/python-bindings-how-to-create-a-tensor-extract-slice-operation-with-only-static-offsets-static-sizes-and-static-strides/72410#post_7)
-- [Llvm-symbolizer has gotten extremely slow](https://discourse.llvm.org/t/llvm-symbolizer-has-gotten-extremely-slow/67262?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
