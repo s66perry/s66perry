@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Force default rpath in LLVM-compiled binaries](https://discourse.llvm.org/t/force-default-rpath-in-llvm-compiled-binaries/72420#post_6)
+- [Force default rpath in LLVM-compiled binaries](https://discourse.llvm.org/t/force-default-rpath-in-llvm-compiled-binaries/72420#post_5)
 - [IR parser &amp; AutoUpdate of &#39;@llvm.memcpy&#39;](https://discourse.llvm.org/t/ir-parser-autoupdate-of-llvm-memcpy/72412#post_3)
 - [Force default rpath in LLVM-compiled binaries](https://discourse.llvm.org/t/force-default-rpath-in-llvm-compiled-binaries/72420#post_4)
 - [Force default rpath in LLVM-compiled binaries](https://discourse.llvm.org/t/force-default-rpath-in-llvm-compiled-binaries/72420#post_3)
-- [How can I debug cc1?](https://discourse.llvm.org/t/how-can-i-debug-cc1/72423#post_2)
-- [Adding if-else statement](https://discourse.llvm.org/t/adding-if-else-statement/72297#post_12)
 <!-- DISCOURSE-LLVM:END -->
