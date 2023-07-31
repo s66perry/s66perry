@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC/PSA: confusing error messages](https://discourse.llvm.org/t/rfc-psa-confusing-error-messages/72415#post_2)
+- [Describe instruction set of a VLIW architecture with TableGen](https://discourse.llvm.org/t/describe-instruction-set-of-a-vliw-architecture-with-tablegen/72378#post_2)
 - [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_9)
 - [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_8)
 - [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_7)
-- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_6)
-- [Golang support](https://discourse.llvm.org/t/golang-support/72384#post_4)
 <!-- DISCOURSE-LLVM:END -->
