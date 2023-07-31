@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Learning how to add a new block](https://discourse.llvm.org/t/learning-how-to-add-a-new-block/72431#post_1)
+- [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_6)
+- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_10)
+- [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_5)
 - [RFC/PSA: confusing error messages](https://discourse.llvm.org/t/rfc-psa-confusing-error-messages/72415#post_2)
-- [Describe instruction set of a VLIW architecture with TableGen](https://discourse.llvm.org/t/describe-instruction-set-of-a-vliw-architecture-with-tablegen/72378#post_2)
-- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_9)
-- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_8)
-- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_7)
 <!-- DISCOURSE-LLVM:END -->
