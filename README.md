@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Which version of LLVM I have to choose to get the latest update of MLIR?](https://discourse.llvm.org/t/which-version-of-llvm-i-have-to-choose-to-get-the-latest-update-of-mlir/72438#post_4)
-- [Replacement for LTO of the legacy pass manager in LLVM 15?](https://discourse.llvm.org/t/replacement-for-lto-of-the-legacy-pass-manager-in-llvm-15/72439#post_2)
-- [Which version of LLVM I have to choose to get the latest update of MLIR?](https://discourse.llvm.org/t/which-version-of-llvm-i-have-to-choose-to-get-the-latest-update-of-mlir/72438#post_3)
-- [Replacement for LTO of the legacy pass manager in LLVM 15?](https://discourse.llvm.org/t/replacement-for-lto-of-the-legacy-pass-manager-in-llvm-15/72439#post_1)
-- [[AArch64] Target-specific loop idiom recognition](https://discourse.llvm.org/t/aarch64-target-specific-loop-idiom-recognition/72383#post_5)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208?page=2#post_28)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208?page=2#post_27)
+- [[RFC] Specify a community policy for use of private links](https://discourse.llvm.org/t/rfc-specify-a-community-policy-for-use-of-private-links/72208?page=2#post_26)
+- [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_1)
+- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=3#post_58)
 <!-- DISCOURSE-LLVM:END -->
