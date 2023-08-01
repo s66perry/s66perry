@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_7)
+- [[RFC] Deprecate old key-value format in CheckOptions](https://discourse.llvm.org/t/rfc-deprecate-old-key-value-format-in-checkoptions/72233#post_5)
+- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_15)
+- [[RFC][HLFIR] Optimized Bufferization for elemental array updates](https://discourse.llvm.org/t/rfc-hlfir-optimized-bufferization-for-elemental-array-updates/72348#post_4)
 - [[RFC] Deprecate old key-value format in CheckOptions](https://discourse.llvm.org/t/rfc-deprecate-old-key-value-format-in-checkoptions/72233#post_4)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_44)
-- [Lower gpu dialect failed](https://discourse.llvm.org/t/lower-gpu-dialect-failed/72426#post_2)
-- [Request from a complete noob who is coming to LLVM/MLIR world. Asking for advice/suggestions](https://discourse.llvm.org/t/request-from-a-complete-noob-who-is-coming-to-llvm-mlir-world-asking-for-advice-suggestions/72396#post_5)
-- [[PSA] MLIR Binary footprint](https://discourse.llvm.org/t/psa-mlir-binary-footprint/72298#post_5)
 <!-- DISCOURSE-LLVM:END -->
