@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Inlining basics](https://discourse.llvm.org/t/inlining-basics/72418#post_6)
-- [Libomptarget&#39;s libLLVMSupport dependency for bare metal RISCV32 target](https://discourse.llvm.org/t/libomptargets-libllvmsupport-dependency-for-bare-metal-riscv32-target/72467#post_3)
-- [[Non-DoD Source] Re: [llvm-dev] llvm OpenMP support for Apple Silicon](https://discourse.llvm.org/t/non-dod-source-re-llvm-dev-llvm-openmp-support-for-apple-silicon/59120#post_4)
-- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_9)
-- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_8)
+- [Require GCC&gt;=7.4 as GCC 7.3 cannot build llvm 16.x or main](https://discourse.llvm.org/t/require-gcc-7-4-as-gcc-7-3-cannot-build-llvm-16-x-or-main/72310?page=2#post_38)
+- [Require GCC&gt;=7.4 as GCC 7.3 cannot build llvm 16.x or main](https://discourse.llvm.org/t/require-gcc-7-4-as-gcc-7-3-cannot-build-llvm-16-x-or-main/72310?page=2#post_37)
+- [Require GCC&gt;=7.4 as GCC 7.3 cannot build llvm 16.x or main](https://discourse.llvm.org/t/require-gcc-7-4-as-gcc-7-3-cannot-build-llvm-16-x-or-main/72310?page=2#post_36)
+- [llvm::EnableABIBreakingChecks](https://discourse.llvm.org/t/llvm-enableabibreakingchecks/72443#post_3)
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_11)
 <!-- DISCOURSE-LLVM:END -->
