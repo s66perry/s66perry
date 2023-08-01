@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ObjectLinkingLayer Plugin on windows](https://discourse.llvm.org/t/objectlinkinglayer-plugin-on-windows/72448#post_2)
-- [Golang support](https://discourse.llvm.org/t/golang-support/72384#post_5)
-- [LLVM Weekly - #500, July 31st 2023](https://discourse.llvm.org/t/llvm-weekly-500-july-31st-2023/72440#post_2)
-- [ObjectLinkingLayer Plugin on windows](https://discourse.llvm.org/t/objectlinkinglayer-plugin-on-windows/72448#post_1)
-- [When adding intrinsic in riscv，the command line option -target-feature fails to set the corresponding feature of subtarget to true, resulting in an error, so how to enable the feature correctly?](https://discourse.llvm.org/t/when-adding-intrinsic-in-riscv-the-command-line-option-target-feature-fails-to-set-the-corresponding-feature-of-subtarget-to-true-resulting-in-an-error-so-how-to-enable-the-feature-correctly/72428#post_2)
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_5)
+- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_14)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=3#post_53)
+- [Clang option -export-dynamic parse to -e xport-dynamic error](https://discourse.llvm.org/t/clang-option-export-dynamic-parse-to-e-xport-dynamic-error/72454#post_1)
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_4)
 <!-- DISCOURSE-LLVM:END -->
