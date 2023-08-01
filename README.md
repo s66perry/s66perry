@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_4)
-- [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_11)
-- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_6)
-- [LLVM 17.0.0-rc1 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc1-tagged/72404#post_5)
-- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_4)
+- [[RFC] Deprecate old key-value format in CheckOptions](https://discourse.llvm.org/t/rfc-deprecate-old-key-value-format-in-checkoptions/72233#post_4)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_44)
+- [Lower gpu dialect failed](https://discourse.llvm.org/t/lower-gpu-dialect-failed/72426#post_2)
+- [Request from a complete noob who is coming to LLVM/MLIR world. Asking for advice/suggestions](https://discourse.llvm.org/t/request-from-a-complete-noob-who-is-coming-to-llvm-mlir-world-asking-for-advice-suggestions/72396#post_5)
+- [[PSA] MLIR Binary footprint](https://discourse.llvm.org/t/psa-mlir-binary-footprint/72298#post_5)
 <!-- DISCOURSE-LLVM:END -->
