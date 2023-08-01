@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Creation of inline assembly labels across assembly blocks](https://discourse.llvm.org/t/creation-of-inline-assembly-labels-across-assembly-blocks/72458#post_1)
-- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_5)
-- [Issues with memref operations](https://discourse.llvm.org/t/issues-with-memref-operations/72376#post_14)
-- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=3#post_53)
-- [Clang option -export-dynamic parse to -e xport-dynamic error](https://discourse.llvm.org/t/clang-option-export-dynamic-parse-to-e-xport-dynamic-error/72454#post_1)
+- [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_4)
+- [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_11)
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_6)
+- [LLVM 17.0.0-rc1 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc1-tagged/72404#post_5)
+- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_4)
 <!-- DISCOURSE-LLVM:END -->
