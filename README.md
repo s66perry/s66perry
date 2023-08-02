@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_9)
-- [[RFC] Deprecate old key-value format in CheckOptions](https://discourse.llvm.org/t/rfc-deprecate-old-key-value-format-in-checkoptions/72233#post_7)
-- [Libomptarget&#39;s libLLVMSupport dependency for bare metal RISCV32 target](https://discourse.llvm.org/t/libomptargets-libllvmsupport-dependency-for-bare-metal-riscv32-target/72467#post_5)
-- [Libomptarget&#39;s libLLVMSupport dependency for bare metal RISCV32 target](https://discourse.llvm.org/t/libomptargets-libllvmsupport-dependency-for-bare-metal-riscv32-target/72467#post_4)
-- [Creation of inline assembly labels across assembly blocks](https://discourse.llvm.org/t/creation-of-inline-assembly-labels-across-assembly-blocks/72458#post_4)
+- [&quot;ld.lld: error: undefined symbol: ...&quot; while building MLIR standalone template](https://discourse.llvm.org/t/ld-lld-error-undefined-symbol-while-building-mlir-standalone-template/72490#post_2)
+- [&quot;ld.lld: error: undefined symbol: ...&quot; while building MLIR standalone template](https://discourse.llvm.org/t/ld-lld-error-undefined-symbol-while-building-mlir-standalone-template/72490#post_1)
+- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_3)
+- [Stand-alone build llvm in Debug mode failed](https://discourse.llvm.org/t/stand-alone-build-llvm-in-debug-mode-failed/72487#post_3)
+- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_10)
 <!-- DISCOURSE-LLVM:END -->
