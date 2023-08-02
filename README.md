@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_16)
-- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_15)
-- [Alternatives to the implementation of std modules](https://discourse.llvm.org/t/alternatives-to-the-implementation-of-std-modules/71958#post_10)
-- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609?page=2#post_23)
-- [llvm::EnableABIBreakingChecks](https://discourse.llvm.org/t/llvm-enableabibreakingchecks/72443#post_6)
+- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442#post_16)
+- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442#post_15)
+- [Segmentation fault when adding a new RISCV Intrinsic](https://discourse.llvm.org/t/segmentation-fault-when-adding-a-new-riscv-intrinsic/72301#post_10)
+- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442#post_14)
+- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442#post_13)
 <!-- DISCOURSE-LLVM:END -->
