@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_9)
-- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_11)
-- [Objective-C and Distributed ThinLTO](https://discourse.llvm.org/t/objective-c-and-distributed-thinlto/72482#post_1)
-- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_10)
-- [[RFC][HLFIR] Optimized Bufferization for elemental array updates](https://discourse.llvm.org/t/rfc-hlfir-optimized-bufferization-for-elemental-array-updates/72348#post_8)
+- [Understanding Behavior of `clang -cc1 -verify`](https://discourse.llvm.org/t/understanding-behavior-of-clang-cc1-verify/72484#post_3)
+- [Stand-alone build llvm in Debug mode failed](https://discourse.llvm.org/t/stand-alone-build-llvm-in-debug-mode-failed/72487#post_1)
+- [Exact commands to replicate Clang 3.9.1 binary compilation release](https://discourse.llvm.org/t/exact-commands-to-replicate-clang-3-9-1-binary-compilation-release/72486#post_3)
+- [Exact commands to replicate Clang 3.9.1 binary compilation release](https://discourse.llvm.org/t/exact-commands-to-replicate-clang-3-9-1-binary-compilation-release/72486#post_2)
+- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442#post_10)
 <!-- DISCOURSE-LLVM:END -->
