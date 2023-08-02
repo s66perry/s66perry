@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_5)
-- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_4)
-- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_3)
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_4)
-- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_2)
+- [When adding intrinsic in riscv，the command line option -target-feature fails to set the corresponding feature of subtarget to true, resulting in an error, so how to enable the feature correctly?](https://discourse.llvm.org/t/when-adding-intrinsic-in-riscv-the-command-line-option-target-feature-fails-to-set-the-corresponding-feature-of-subtarget-to-true-resulting-in-an-error-so-how-to-enable-the-feature-correctly/72428#post_3)
+- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_9)
+- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_8)
+- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_7)
+- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_6)
 <!-- DISCOURSE-LLVM:END -->
