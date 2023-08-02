@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_2)
+- [How can I debug cc1?](https://discourse.llvm.org/t/how-can-i-debug-cc1/72423#post_4)
+- [Clangd won&#39;t find all references when invoked from header](https://discourse.llvm.org/t/clangd-wont-find-all-references-when-invoked-from-header/72478#post_1)
 - [Is it possible to use the result of an IR analysis pass in a MIR pass?](https://discourse.llvm.org/t/is-it-possible-to-use-the-result-of-an-ir-analysis-pass-in-a-mir-pass/72470#post_2)
 - [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_3)
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_2)
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_1)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=3#post_49)
 <!-- DISCOURSE-LLVM:END -->
