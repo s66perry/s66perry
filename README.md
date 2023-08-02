@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;ld.lld: error: undefined symbol: ...&quot; while building MLIR standalone template](https://discourse.llvm.org/t/ld-lld-error-undefined-symbol-while-building-mlir-standalone-template/72490#post_2)
-- [&quot;ld.lld: error: undefined symbol: ...&quot; while building MLIR standalone template](https://discourse.llvm.org/t/ld-lld-error-undefined-symbol-while-building-mlir-standalone-template/72490#post_1)
-- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_3)
-- [Stand-alone build llvm in Debug mode failed](https://discourse.llvm.org/t/stand-alone-build-llvm-in-debug-mode-failed/72487#post_3)
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_10)
+- [Building signed integer constants](https://discourse.llvm.org/t/building-signed-integer-constants/72491#post_2)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_89)
+- [Building signed integer constants](https://discourse.llvm.org/t/building-signed-integer-constants/72491#post_1)
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_16)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_88)
 <!-- DISCOURSE-LLVM:END -->
