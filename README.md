@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building signed integer constants](https://discourse.llvm.org/t/building-signed-integer-constants/72491#post_3)
+- [&quot;ld.lld: error: undefined symbol: ...&quot; while building MLIR standalone template](https://discourse.llvm.org/t/ld-lld-error-undefined-symbol-while-building-mlir-standalone-template/72490#post_3)
+- [Vectorization failure](https://discourse.llvm.org/t/vectorization-failure/72492#post_1)
+- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_90)
 - [Building signed integer constants](https://discourse.llvm.org/t/building-signed-integer-constants/72491#post_2)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_89)
-- [Building signed integer constants](https://discourse.llvm.org/t/building-signed-integer-constants/72491#post_1)
-- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_16)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_88)
 <!-- DISCOURSE-LLVM:END -->
