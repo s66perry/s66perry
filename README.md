@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Request from a complete noob who is coming to LLVM/MLIR world. Asking for advice/suggestions](https://discourse.llvm.org/t/request-from-a-complete-noob-who-is-coming-to-llvm-mlir-world-asking-for-advice-suggestions/72396#post_7)
-- [[AArch64] Target-specific loop idiom recognition](https://discourse.llvm.org/t/aarch64-target-specific-loop-idiom-recognition/72383#post_7)
-- [Request from a complete noob who is coming to LLVM/MLIR world. Asking for advice/suggestions](https://discourse.llvm.org/t/request-from-a-complete-noob-who-is-coming-to-llvm-mlir-world-asking-for-advice-suggestions/72396#post_6)
-- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442#post_12)
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_11)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609?page=2#post_22)
+- [ILP32 support with Aarch64](https://discourse.llvm.org/t/ilp32-support-with-aarch64/72096#post_7)
+- [Require GCC&gt;=7.4 as GCC 7.3 cannot build llvm 16.x or main](https://discourse.llvm.org/t/require-gcc-7-4-as-gcc-7-3-cannot-build-llvm-16-x-or-main/72310?page=3#post_45)
+- [AArch64 Big Endian ILP32 support in LLD](https://discourse.llvm.org/t/aarch64-big-endian-ilp32-support-in-lld/65845#post_8)
+- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_12)
 <!-- DISCOURSE-LLVM:END -->
