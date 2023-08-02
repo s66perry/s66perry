@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Building signed integer constants](https://discourse.llvm.org/t/building-signed-integer-constants/72491#post_3)
-- [&quot;ld.lld: error: undefined symbol: ...&quot; while building MLIR standalone template](https://discourse.llvm.org/t/ld-lld-error-undefined-symbol-while-building-mlir-standalone-template/72490#post_3)
-- [Vectorization failure](https://discourse.llvm.org/t/vectorization-failure/72492#post_1)
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_90)
-- [Building signed integer constants](https://discourse.llvm.org/t/building-signed-integer-constants/72491#post_2)
+- [Request from a complete noob who is coming to LLVM/MLIR world. Asking for advice/suggestions](https://discourse.llvm.org/t/request-from-a-complete-noob-who-is-coming-to-llvm-mlir-world-asking-for-advice-suggestions/72396#post_7)
+- [[AArch64] Target-specific loop idiom recognition](https://discourse.llvm.org/t/aarch64-target-specific-loop-idiom-recognition/72383#post_7)
+- [Request from a complete noob who is coming to LLVM/MLIR world. Asking for advice/suggestions](https://discourse.llvm.org/t/request-from-a-complete-noob-who-is-coming-to-llvm-mlir-world-asking-for-advice-suggestions/72396#post_6)
+- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442#post_12)
+- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_11)
 <!-- DISCOURSE-LLVM:END -->
