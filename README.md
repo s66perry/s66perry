@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_14)
+- [16.0.6 Release](https://discourse.llvm.org/t/16-0-6-release/71344#post_3)
+- [16.0.6 Release](https://discourse.llvm.org/t/16-0-6-release/71344#post_2)
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_18)
 - [Loop Tiling Pass](https://discourse.llvm.org/t/loop-tiling-pass/72507#post_2)
-- [[AArch64] Target-specific loop idiom recognition](https://discourse.llvm.org/t/aarch64-target-specific-loop-idiom-recognition/72383#post_8)
-- [RISC-V LLVM sync-up call August 3rd 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-august-3rd-2023/72511#post_1)
-- [LLVM 17.0.0-rc1 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc1-tagged/72404#post_6)
-- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_1)
 <!-- DISCOURSE-LLVM:END -->
