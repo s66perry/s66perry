@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Passing array as function argument](https://discourse.llvm.org/t/passing-array-as-function-argument/72544#post_2)
-- [Passing array as function argument](https://discourse.llvm.org/t/passing-array-as-function-argument/72544#post_1)
-- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_14)
-- [16.0.6 Release](https://discourse.llvm.org/t/16-0-6-release/71344#post_3)
-- [16.0.6 Release](https://discourse.llvm.org/t/16-0-6-release/71344#post_2)
+- [LLDB Windows: strange symbol offset of 0x1000?](https://discourse.llvm.org/t/lldb-windows-strange-symbol-offset-of-0x1000/72509#post_2)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=3#post_60)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=3#post_59)
+- [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609?page=2#post_26)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=3#post_58)
 <!-- DISCOURSE-LLVM:END -->
