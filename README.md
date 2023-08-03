@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] arithmetic vs llvm dialect](https://discourse.llvm.org/t/rfc-arithmetic-vs-llvm-dialect/72477#post_13)
+- [[RFC] A new AAPass for coroutines or a simple workaround?](https://discourse.llvm.org/t/rfc-a-new-aapass-for-coroutines-or-a-simple-workaround/72336#post_8)
 - [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159?page=2#post_23)
 - [[RFC] Update LLDB Code Ownership](https://discourse.llvm.org/t/rfc-update-lldb-code-ownership/72253?page=2#post_31)
 - [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159?page=2#post_22)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159?page=2#post_21)
-- [Undeterministic thin index file](https://discourse.llvm.org/t/undeterministic-thin-index-file/69985#post_17)
 <!-- DISCOURSE-LLVM:END -->
