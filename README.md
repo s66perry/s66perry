@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_4)
+- [Upstreaming the Microsoft asan-on-MSVC changes](https://discourse.llvm.org/t/upstreaming-the-microsoft-asan-on-msvc-changes/72584#post_1)
+- [Expressing dependency to a ModulePass from a FunctionPass](https://discourse.llvm.org/t/expressing-dependency-to-a-modulepass-from-a-functionpass/72547#post_5)
 - [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_4)
 - [RFC: Add &quot;call unwindabort&quot; to LLVM IR](https://discourse.llvm.org/t/rfc-add-call-unwindabort-to-llvm-ir/62543?page=2#post_30)
-- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_3)
-- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_2)
-- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_3)
 <!-- DISCOURSE-LLVM:END -->
