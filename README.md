@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Failed to compile clangSema](https://discourse.llvm.org/t/failed-to-compile-clangsema/72556#post_6)
-- [Type template-like parametrization in MLIR-text](https://discourse.llvm.org/t/type-template-like-parametrization-in-mlir-text/72571#post_1)
-- [Require GCC&gt;=7.4 as GCC 7.3 cannot build llvm 16.x or main](https://discourse.llvm.org/t/require-gcc-7-4-as-gcc-7-3-cannot-build-llvm-16-x-or-main/72310?page=3#post_47)
-- [Questions about build infrastructure](https://discourse.llvm.org/t/questions-about-build-infrastructure/72567#post_3)
-- [Looking for aarch64 build scripts](https://discourse.llvm.org/t/looking-for-aarch64-build-scripts/72568#post_1)
+- [[AArch64] Target-specific loop idiom recognition](https://discourse.llvm.org/t/aarch64-target-specific-loop-idiom-recognition/72383#post_10)
+- [Type template-like parametrization in MLIR-text](https://discourse.llvm.org/t/type-template-like-parametrization-in-mlir-text/72571#post_3)
+- [2023 LLVM Dev Mtg - Call for Speakers Deadline EXTENDED](https://discourse.llvm.org/t/2023-llvm-dev-mtg-call-for-speakers-deadline-extended/72422#post_2)
+- [[AArch64] Target-specific loop idiom recognition](https://discourse.llvm.org/t/aarch64-target-specific-loop-idiom-recognition/72383#post_9)
+- [Type template-like parametrization in MLIR-text](https://discourse.llvm.org/t/type-template-like-parametrization-in-mlir-text/72571#post_2)
 <!-- DISCOURSE-LLVM:END -->
