@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Allow to use GUID as include guard](https://discourse.llvm.org/t/rfc-allow-to-use-guid-as-include-guard/72594#post_1)
+- [Looking for aarch64 build scripts](https://discourse.llvm.org/t/looking-for-aarch64-build-scripts/72568#post_4)
+- [Avoid SLP vectorization for some instructions](https://discourse.llvm.org/t/avoid-slp-vectorization-for-some-instructions/72588#post_4)
+- [Exact commands to replicate Clang 3.9.1 binary compilation release](https://discourse.llvm.org/t/exact-commands-to-replicate-clang-3-9-1-binary-compilation-release/72486#post_6)
 - [@llvm.assume blocks optimization](https://discourse.llvm.org/t/llvm-assume-blocks-optimization/71609?page=2#post_33)
-- [Looking for aarch64 build scripts](https://discourse.llvm.org/t/looking-for-aarch64-build-scripts/72568#post_3)
-- [Avoid SLP vectorization for some instructions](https://discourse.llvm.org/t/avoid-slp-vectorization-for-some-instructions/72588#post_3)
-- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_5)
-- [Avoid SLP vectorization for some instructions](https://discourse.llvm.org/t/avoid-slp-vectorization-for-some-instructions/72588#post_2)
 <!-- DISCOURSE-LLVM:END -->
