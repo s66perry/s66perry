@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Avoid SLP vectorization for some instructions](https://discourse.llvm.org/t/avoid-slp-vectorization-for-some-instructions/72588#post_3)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_5)
+- [Avoid SLP vectorization for some instructions](https://discourse.llvm.org/t/avoid-slp-vectorization-for-some-instructions/72588#post_2)
+- [Avoid SLP vectorization for some instructions](https://discourse.llvm.org/t/avoid-slp-vectorization-for-some-instructions/72588#post_1)
 - [Suggestion for third party libraries](https://discourse.llvm.org/t/suggestion-for-third-party-libraries/72585#post_1)
-- [Failed to compile clangSema](https://discourse.llvm.org/t/failed-to-compile-clangsema/72556#post_8)
-- [Why don&#39;t we define RISCV calling conventions in TableGen way just like other targets?](https://discourse.llvm.org/t/why-dont-we-define-riscv-calling-conventions-in-tablegen-way-just-like-other-targets/72545#post_12)
-- [Why don&#39;t we define RISCV calling conventions in TableGen way just like other targets?](https://discourse.llvm.org/t/why-dont-we-define-riscv-calling-conventions-in-tablegen-way-just-like-other-targets/72545#post_11)
-- [Failed to compile clangSema](https://discourse.llvm.org/t/failed-to-compile-clangsema/72556#post_7)
 <!-- DISCOURSE-LLVM:END -->
