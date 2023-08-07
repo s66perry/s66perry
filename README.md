@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_6)
+- [Suppose we introduce a platform-independent, architecture-independent unified dialect, and a conversion dialect](https://discourse.llvm.org/t/suppose-we-introduce-a-platform-independent-architecture-independent-unified-dialect-and-a-conversion-dialect/72611#post_5)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_6)
 - [Disassembly files showing no instructions being executed](https://discourse.llvm.org/t/disassembly-files-showing-no-instructions-being-executed/72618#post_5)
 - [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_5)
-- [[RFC][TableGen] New llvm-tblgen backend to print records/classes hierarchy as a dot graph](https://discourse.llvm.org/t/rfc-tablegen-new-llvm-tblgen-backend-to-print-records-classes-hierarchy-as-a-dot-graph/72229#post_13)
-- [Looking for aarch64 build scripts](https://discourse.llvm.org/t/looking-for-aarch64-build-scripts/72568#post_5)
-- [Disassembly files showing no instructions being executed](https://discourse.llvm.org/t/disassembly-files-showing-no-instructions-being-executed/72618#post_4)
 <!-- DISCOURSE-LLVM:END -->
