@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Add custom executable &lpar;output object&rpar; format](https://discourse.llvm.org/t/add-custom-executable-output-object-format/68552#post_11)
+- [[RFC] Allow to use GUID as include guard](https://discourse.llvm.org/t/rfc-allow-to-use-guid-as-include-guard/72594#post_3)
 - [Omp.h not found](https://discourse.llvm.org/t/omp-h-not-found/72630#post_4)
 - [Omp.h not found](https://discourse.llvm.org/t/omp-h-not-found/72630#post_3)
 - [Omp.h not found](https://discourse.llvm.org/t/omp-h-not-found/72630#post_2)
-- [Omp.h not found](https://discourse.llvm.org/t/omp-h-not-found/72630#post_1)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=4#post_61)
 <!-- DISCOURSE-LLVM:END -->
