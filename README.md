@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661#post_20)
 - [Port BOLT inline to aarch64](https://discourse.llvm.org/t/port-bolt-inline-to-aarch64/72615#post_1)
 - [How to print cfg in LLVM-16?](https://discourse.llvm.org/t/how-to-print-cfg-in-llvm-16/72613#post_1)
 - [Suppose we introduce a platform-independent, architecture-independent unified dialect, and a conversion dialect similar to a transform dialect](https://discourse.llvm.org/t/suppose-we-introduce-a-platform-independent-architecture-independent-unified-dialect-and-a-conversion-dialect-similar-to-a-transform-dialect/72611#post_3)
 - [Suppose we introduce a platform-independent, architecture-independent unified dialect, and a conversion dialect similar to a transform dialect](https://discourse.llvm.org/t/suppose-we-introduce-a-platform-independent-architecture-independent-unified-dialect-and-a-conversion-dialect-similar-to-a-transform-dialect/72611#post_2)
-- [Replacing instruction with multiple substitute instructions](https://discourse.llvm.org/t/replacing-instruction-with-multiple-substitute-instructions/72612#post_3)
 <!-- DISCOURSE-LLVM:END -->
