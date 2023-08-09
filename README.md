@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[vectorization ] Equivalent source conversion is used to reduce optimization difficulty](https://discourse.llvm.org/t/vectorization-equivalent-source-conversion-is-used-to-reduce-optimization-difficulty/72662#post_1)
-- [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_1)
-- [CHERI LLVM/Rust public sync-ups](https://discourse.llvm.org/t/cheri-llvm-rust-public-sync-ups/62815?page=2#post_28)
-- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_8)
-- [LLVM 17.0.0-rc2 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc2-tagged/72643#post_6)
+- [Enabling Loop Distribution Pass as default in the pipeline of new pass manager](https://discourse.llvm.org/t/enabling-loop-distribution-pass-as-default-in-the-pipeline-of-new-pass-manager/58477#post_20)
+- [Golang support](https://discourse.llvm.org/t/golang-support/72384#post_9)
+- [Why should CalledValuePropagationPass be called after IPSCCPPass](https://discourse.llvm.org/t/why-should-calledvaluepropagationpass-be-called-after-ipsccppass/72444#post_2)
+- [Golang support](https://discourse.llvm.org/t/golang-support/72384#post_8)
+- [Clang InsertBefore not working for CUDA __global__ function](https://discourse.llvm.org/t/clang-insertbefore-not-working-for-cuda-global-function/72664#post_1)
 <!-- DISCOURSE-LLVM:END -->
