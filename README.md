@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 17.0.0-rc1 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc1-tagged/72404#post_11)
-- [RuntimeDyldChecker/jitlink-check Thumb Support](https://discourse.llvm.org/t/runtimedyldchecker-jitlink-check-thumb-support/72581#post_7)
-- [Does the LLVM command line support specifying the range of option?](https://discourse.llvm.org/t/does-the-llvm-command-line-support-specifying-the-range-of-option/72659#post_2)
-- [Running a pass from within a another pass](https://discourse.llvm.org/t/running-a-pass-from-within-a-another-pass/72560#post_2)
-- [CloneFunctionInto: what is non-identity GlobalValue mappings?](https://discourse.llvm.org/t/clonefunctioninto-what-is-non-identity-globalvalue-mappings/72654#post_3)
+- [[RFC] Fix floating-point `max` and `min` operations in MLIR](https://discourse.llvm.org/t/rfc-fix-floating-point-max-and-min-operations-in-mlir/72671#post_1)
+- [Enabling Loop Distribution Pass as default in the pipeline of new pass manager](https://discourse.llvm.org/t/enabling-loop-distribution-pass-as-default-in-the-pipeline-of-new-pass-manager/58477?page=2#post_22)
+- [Is this a bug? &quot;+multivalue&quot; attribute contaminates non-multivalue functions](https://discourse.llvm.org/t/is-this-a-bug-multivalue-attribute-contaminates-non-multivalue-functions/72668#post_2)
+- [Running a pass from within a another pass](https://discourse.llvm.org/t/running-a-pass-from-within-a-another-pass/72560#post_3)
+- [Extracing constant values from calling functions](https://discourse.llvm.org/t/extracing-constant-values-from-calling-functions/72655#post_3)
 <!-- DISCOURSE-LLVM:END -->
