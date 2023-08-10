@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 17.0.0-rc2 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc2-tagged/72643#post_8)
+- [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_7)
+- [[RFC] Almost all uses of TypeConverter should be const](https://discourse.llvm.org/t/rfc-almost-all-uses-of-typeconverter-should-be-const/72689#post_2)
 - [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_6)
 - [[RFC] Fix floating-point `max` and `min` operations in MLIR](https://discourse.llvm.org/t/rfc-fix-floating-point-max-and-min-operations-in-mlir/72671#post_3)
-- [How to compile the C file that uses LLVM on Windows?](https://discourse.llvm.org/t/how-to-compile-the-c-file-that-uses-llvm-on-windows/72642#post_4)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159?page=2#post_27)
-- [`affine-super-vectorize=virtual-vector-size=2` is not working](https://discourse.llvm.org/t/affine-super-vectorize-virtual-vector-size-2-is-not-working/72622#post_2)
 <!-- DISCOURSE-LLVM:END -->
