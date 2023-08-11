@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_15)
-- [How to do demanded bits analysis in instcombine pass?](https://discourse.llvm.org/t/how-to-do-demanded-bits-analysis-in-instcombine-pass/72721#post_1)
-- [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697#post_5)
-- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_14)
-- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_13)
+- [Connecting lldb-server to GDB](https://discourse.llvm.org/t/connecting-lldb-server-to-gdb/71145#post_6)
+- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_18)
+- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_17)
+- [We are below 20k open issues now!](https://discourse.llvm.org/t/we-are-below-20k-open-issues-now/72707#post_4)
+- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579#post_16)
 <!-- DISCOURSE-LLVM:END -->
