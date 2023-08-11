@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [We are below 20k open issues now!](https://discourse.llvm.org/t/we-are-below-20k-open-issues-now/72707#post_6)
+- [LLDB Ada support on Apple M2 &lpar;Could not find type system for language ada83&rpar;](https://discourse.llvm.org/t/lldb-ada-support-on-apple-m2-could-not-find-type-system-for-language-ada83/72725#post_3)
+- [Any Tool for creating Editable Diagrams in LLVM/Clang-REPL Documentation? &lpar;similar to Mermaid inGithub&rpar;](https://discourse.llvm.org/t/any-tool-for-creating-editable-diagrams-in-llvm-clang-repl-documentation-similar-to-mermaid-ingithub/72729#post_1)
+- [We are below 20k open issues now!](https://discourse.llvm.org/t/we-are-below-20k-open-issues-now/72707#post_5)
 - [`fp128` math functions: strange results](https://discourse.llvm.org/t/fp128-math-functions-strange-results/72708#post_2)
-- [`checkLocation` vs `checkBind` when `isLoad=false`](https://discourse.llvm.org/t/checklocation-vs-checkbind-when-isload-false/72728#post_1)
-- [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=4#post_63)
-- [How to do demanded bits analysis in instcombine pass?](https://discourse.llvm.org/t/how-to-do-demanded-bits-analysis-in-instcombine-pass/72721#post_2)
-- [How to create and initialize a GlobalVariable](https://discourse.llvm.org/t/how-to-create-and-initialize-a-globalvariable/72727#post_1)
 <!-- DISCOURSE-LLVM:END -->
