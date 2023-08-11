@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [We are below 20k open issues now!](https://discourse.llvm.org/t/we-are-below-20k-open-issues-now/72707#post_2)
+- [We are below 20k open issues now!](https://discourse.llvm.org/t/we-are-below-20k-open-issues-now/72707#post_1)
+- [LLVMCAS Upstreaming](https://discourse.llvm.org/t/llvmcas-upstreaming/72696#post_3)
+- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_4)
 - [LLVMCAS Upstreaming](https://discourse.llvm.org/t/llvmcas-upstreaming/72696#post_2)
-- [Confused about Clang vs GCC handling of _GLOBAL_OFFSET_TABLE_](https://discourse.llvm.org/t/confused-about-clang-vs-gcc-handling-of-global-offset-table/72706#post_1)
-- [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_11)
-- [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_10)
-- [RuntimeDyldChecker/jitlink-check Thumb Support](https://discourse.llvm.org/t/runtimedyldchecker-jitlink-check-thumb-support/72581#post_9)
 <!-- DISCOURSE-LLVM:END -->
