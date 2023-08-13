@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang link error for OpenMP target for NVPTX using LLVM@15.0.2 from spack](https://discourse.llvm.org/t/clang-link-error-for-openmp-target-for-nvptx-using-llvm-15-0-2-from-spack/66157#post_6)
 - [Any Tool for creating Editable Diagrams in LLVM/Clang-REPL Documentation? &lpar;similar to Mermaid inGithub&rpar;](https://discourse.llvm.org/t/any-tool-for-creating-editable-diagrams-in-llvm-clang-repl-documentation-similar-to-mermaid-ingithub/72729#post_3)
 - [Linking issues on Linux, but not on Windows](https://discourse.llvm.org/t/linking-issues-on-linux-but-not-on-windows/72738#post_2)
 - [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697#post_7)
 - [LLDB Ada support on Apple M2 &lpar;Could not find type system for language ada83&rpar;](https://discourse.llvm.org/t/lldb-ada-support-on-apple-m2-could-not-find-type-system-for-language-ada83/72725#post_8)
-- [Linking issues on Linux, but not on Windows](https://discourse.llvm.org/t/linking-issues-on-linux-but-not-on-windows/72738#post_1)
 <!-- DISCOURSE-LLVM:END -->
