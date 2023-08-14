@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_21)
-- [In MLIR, How to create a basic block for linalg.generic in python binding?](https://discourse.llvm.org/t/in-mlir-how-to-create-a-basic-block-for-linalg-generic-in-python-binding/72758#post_2)
-- [Setting Memref Elements in Python Callback](https://discourse.llvm.org/t/setting-memref-elements-in-python-callback/72759#post_4)
-- [Cast i8 to Double](https://discourse.llvm.org/t/cast-i8-to-double/72744#post_3)
-- [How to use `-debug` in clang](https://discourse.llvm.org/t/how-to-use-debug-in-clang/72755#post_3)
+- [Help lowering GPU modules to LLVM](https://discourse.llvm.org/t/help-lowering-gpu-modules-to-llvm/72676#post_4)
+- [Extracing constant values from calling functions](https://discourse.llvm.org/t/extracing-constant-values-from-calling-functions/72655#post_4)
+- [[bug][clang] with optimization -O1 will get wrong result](https://discourse.llvm.org/t/bug-clang-with-optimization-o1-will-get-wrong-result/72762#post_6)
+- [LLVM Embedded Toolchains Working Group next sync this Thursday, 17th July](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-next-sync-this-thursday-17th-july/72767#post_1)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 14 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-14-23-6pm/72295#post_2)
 <!-- DISCOURSE-LLVM:END -->
