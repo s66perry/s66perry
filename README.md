@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help lowering GPU modules to LLVM](https://discourse.llvm.org/t/help-lowering-gpu-modules-to-llvm/72676#post_6)
 - [LLVM Weekly - #502, August 14th 2023](https://discourse.llvm.org/t/llvm-weekly-502-august-14th-2023/72770#post_1)
 - [Help lowering GPU modules to LLVM](https://discourse.llvm.org/t/help-lowering-gpu-modules-to-llvm/72676#post_5)
 - [LLDB Ada support on Apple M2 &lpar;Could not find type system for language ada83&rpar;](https://discourse.llvm.org/t/lldb-ada-support-on-apple-m2-could-not-find-type-system-for-language-ada83/72725#post_10)
 - [Help lowering GPU modules to LLVM](https://discourse.llvm.org/t/help-lowering-gpu-modules-to-llvm/72676#post_4)
-- [Extracing constant values from calling functions](https://discourse.llvm.org/t/extracing-constant-values-from-calling-functions/72655#post_4)
 <!-- DISCOURSE-LLVM:END -->
