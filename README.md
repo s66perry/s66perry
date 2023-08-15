@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB Ada support on Apple M2 &lpar;Could not find type system for language ada83&rpar;](https://discourse.llvm.org/t/lldb-ada-support-on-apple-m2-could-not-find-type-system-for-language-ada83/72725#post_11)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_25)
+- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641?page=2#post_30)
+- [[RFC] Spill2Reg: Selectively replace spills to stack with spills to vector registers](https://discourse.llvm.org/t/rfc-spill2reg-selectively-replace-spills-to-stack-with-spills-to-vector-registers/59630#post_18)
 - [ObjectLinkingLayer Plugin on windows](https://discourse.llvm.org/t/objectlinkinglayer-plugin-on-windows/72448#post_3)
-- [How dose Sched&lt;[WriteVFMovV_UpperBound, ReadVFMovF_UpperBound]&gt; work?](https://discourse.llvm.org/t/how-dose-sched-writevfmovv-upperbound-readvfmovf-upperbound-work/72782#post_2)
-- [[RFC] Enabling the HLFIR lowering by default](https://discourse.llvm.org/t/rfc-enabling-the-hlfir-lowering-by-default/72778#post_4)
-- [Catching unwanted exception at throw site](https://discourse.llvm.org/t/catching-unwanted-exception-at-throw-site/72784#post_4)
-- [MLIR omp.target for gpu offloading](https://discourse.llvm.org/t/mlir-omp-target-for-gpu-offloading/72579?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
