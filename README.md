@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to cross-compile with Asan for AAarch64; missing libraries](https://discourse.llvm.org/t/trying-to-cross-compile-with-asan-for-aaarch64-missing-libraries/71227#post_3)
+- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641?page=2#post_31)
 - [Debug info correlation expects debug info for intrinsic functions](https://discourse.llvm.org/t/debug-info-correlation-expects-debug-info-for-intrinsic-functions/72790#post_3)
 - [Debug info correlation expects debug info for intrinsic functions](https://discourse.llvm.org/t/debug-info-correlation-expects-debug-info-for-intrinsic-functions/72790#post_2)
 - [Debug info correlation expects debug info for intrinsic functions](https://discourse.llvm.org/t/debug-info-correlation-expects-debug-info-for-intrinsic-functions/72790#post_1)
-- [RFC: A top level monorepo CMake file](https://discourse.llvm.org/t/rfc-a-top-level-monorepo-cmake-file/55664?page=2#post_27)
-- [Heads-up: Clang&#39;s Options.td is being refactored and risks conflicts for downstream clients](https://discourse.llvm.org/t/heads-up-clangs-options-td-is-being-refactored-and-risks-conflicts-for-downstream-clients/72789#post_1)
 <!-- DISCOURSE-LLVM:END -->
