@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang OpenMP offload unified shared memory](https://discourse.llvm.org/t/clang-openmp-offload-unified-shared-memory/72798#post_1)
-- [Alternatives to the implementation of std modules](https://discourse.llvm.org/t/alternatives-to-the-implementation-of-std-modules/71958#post_11)
-- [How to lower the combination of async gpu ops in `gpu` Dialect](https://discourse.llvm.org/t/how-to-lower-the-combination-of-async-gpu-ops-in-gpu-dialect/72796#post_1)
-- [Not printing large resource blobs with mlir-print-ir*](https://discourse.llvm.org/t/not-printing-large-resource-blobs-with-mlir-print-ir/72795#post_3)
-- [Not printing large resource blobs with mlir-print-ir*](https://discourse.llvm.org/t/not-printing-large-resource-blobs-with-mlir-print-ir/72795#post_2)
+- [Clang OpenMP offload unified shared memory](https://discourse.llvm.org/t/clang-openmp-offload-unified-shared-memory/72798#post_4)
+- [Clang OpenMP offload unified shared memory](https://discourse.llvm.org/t/clang-openmp-offload-unified-shared-memory/72798#post_3)
+- [Clang OpenMP offload unified shared memory](https://discourse.llvm.org/t/clang-openmp-offload-unified-shared-memory/72798#post_2)
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_13)
+- [Setting Memref Elements in Python Callback](https://discourse.llvm.org/t/setting-memref-elements-in-python-callback/72759#post_5)
 <!-- DISCOURSE-LLVM:END -->
