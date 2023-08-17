@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Almost all uses of TypeConverter should be const](https://discourse.llvm.org/t/rfc-almost-all-uses-of-typeconverter-should-be-const/72689#post_4)
+- [[RFC] Almost all uses of TypeConverter should be const](https://discourse.llvm.org/t/rfc-almost-all-uses-of-typeconverter-should-be-const/72689#post_3)
+- [[PSA] Unsupported Clang options in flang-new](https://discourse.llvm.org/t/psa-unsupported-clang-options-in-flang-new/72838#post_1)
 - [[RFC] f32 to bf16 truncation harmonization](https://discourse.llvm.org/t/rfc-f32-to-bf16-truncation-harmonization/72837#post_1)
 - [LLVM 17.0.0-rc2 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc2-tagged/72643#post_13)
-- [Problematic behavior of pass --convert-affine-to-loopschedule](https://discourse.llvm.org/t/problematic-behavior-of-pass-convert-affine-to-loopschedule/72834#post_5)
-- [Correct CMAKE parameters for building clang and lld for riscv](https://discourse.llvm.org/t/correct-cmake-parameters-for-building-clang-and-lld-for-riscv/72833#post_2)
-- [Problematic behavior of pass --convert-affine-to-loopschedule](https://discourse.llvm.org/t/problematic-behavior-of-pass-convert-affine-to-loopschedule/72834#post_4)
 <!-- DISCOURSE-LLVM:END -->
