@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Problematic behavior of pass --convert-affine-to-loopschedule](https://discourse.llvm.org/t/problematic-behavior-of-pass-convert-affine-to-loopschedule/72834#post_1)
-- [Correct CMAKE parameters for building clang and lld for riscv](https://discourse.llvm.org/t/correct-cmake-parameters-for-building-clang-and-lld-for-riscv/72833#post_1)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_34)
-- [Extracing constant values from calling functions](https://discourse.llvm.org/t/extracing-constant-values-from-calling-functions/72655#post_7)
-- [TargetInfo for unaligned load capability](https://discourse.llvm.org/t/targetinfo-for-unaligned-load-capability/72832#post_1)
+- [[RFC] f32 to bf16 truncation harmonization](https://discourse.llvm.org/t/rfc-f32-to-bf16-truncation-harmonization/72837#post_1)
+- [LLVM 17.0.0-rc2 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc2-tagged/72643#post_13)
+- [Problematic behavior of pass --convert-affine-to-loopschedule](https://discourse.llvm.org/t/problematic-behavior-of-pass-convert-affine-to-loopschedule/72834#post_5)
+- [Correct CMAKE parameters for building clang and lld for riscv](https://discourse.llvm.org/t/correct-cmake-parameters-for-building-clang-and-lld-for-riscv/72833#post_2)
+- [Problematic behavior of pass --convert-affine-to-loopschedule](https://discourse.llvm.org/t/problematic-behavior-of-pass-convert-affine-to-loopschedule/72834#post_4)
 <!-- DISCOURSE-LLVM:END -->
