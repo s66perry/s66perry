@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Almost all uses of TypeConverter should be const](https://discourse.llvm.org/t/rfc-almost-all-uses-of-typeconverter-should-be-const/72689#post_4)
-- [[RFC] Almost all uses of TypeConverter should be const](https://discourse.llvm.org/t/rfc-almost-all-uses-of-typeconverter-should-be-const/72689#post_3)
-- [[PSA] Unsupported Clang options in flang-new](https://discourse.llvm.org/t/psa-unsupported-clang-options-in-flang-new/72838#post_1)
-- [[RFC] f32 to bf16 truncation harmonization](https://discourse.llvm.org/t/rfc-f32-to-bf16-truncation-harmonization/72837#post_1)
-- [LLVM 17.0.0-rc2 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc2-tagged/72643#post_13)
+- [Building LLVM out of per subproject tar balls still is not working](https://discourse.llvm.org/t/building-llvm-out-of-per-subproject-tar-balls-still-is-not-working/72829#post_4)
+- [Building LLVM out of per subproject tar balls still is not working](https://discourse.llvm.org/t/building-llvm-out-of-per-subproject-tar-balls-still-is-not-working/72829#post_3)
+- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839#post_5)
+- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839#post_4)
+- [Correct CMAKE parameters for building clang and lld for riscv](https://discourse.llvm.org/t/correct-cmake-parameters-for-building-clang-and-lld-for-riscv/72833#post_3)
 <!-- DISCOURSE-LLVM:END -->
