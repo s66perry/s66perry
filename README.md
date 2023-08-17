@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Builder and OpBuilder distinction](https://discourse.llvm.org/t/builder-and-opbuilder-distinction/72842#post_2)
+- [Builder and OpBuilder distinction](https://discourse.llvm.org/t/builder-and-opbuilder-distinction/72842#post_1)
+- [Dynamically castable opaque references](https://discourse.llvm.org/t/dynamically-castable-opaque-references/72473#post_4)
 - [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839#post_12)
 - [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839#post_11)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839#post_10)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839#post_9)
-- [Building LLVM out of per subproject tar balls still is not working](https://discourse.llvm.org/t/building-llvm-out-of-per-subproject-tar-balls-still-is-not-working/72829#post_5)
 <!-- DISCOURSE-LLVM:END -->
