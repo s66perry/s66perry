@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_1)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839#post_18)
-- [Tablegen: undefined reference to build.. while linking](https://discourse.llvm.org/t/tablegen-undefined-reference-to-build-while-linking/72843#post_2)
-- [Tablegen: undefined reference to build.. while linking](https://discourse.llvm.org/t/tablegen-undefined-reference-to-build-while-linking/72843#post_1)
-- [Problematic behavior of pass --convert-affine-to-loopschedule](https://discourse.llvm.org/t/problematic-behavior-of-pass-convert-affine-to-loopschedule/72834#post_6)
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_6)
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_5)
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_4)
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_3)
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_2)
 <!-- DISCOURSE-LLVM:END -->
