@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_2)
-- [CMake: __config_site install location when using multilibs](https://discourse.llvm.org/t/cmake-config-site-install-location-when-using-multilibs/72895#post_1)
-- [LLDB Ada support on Apple M2 &lpar;Could not find type system for language ada83&rpar;](https://discourse.llvm.org/t/lldb-ada-support-on-apple-m2-could-not-find-type-system-for-language-ada83/72725#post_13)
-- [What is compilation option &quot;-resource-dir&quot; used for?](https://discourse.llvm.org/t/what-is-compilation-option-resource-dir-used-for/72885#post_4)
-- [LLDB Ada support on Apple M2 &lpar;Could not find type system for language ada83&rpar;](https://discourse.llvm.org/t/lldb-ada-support-on-apple-m2-could-not-find-type-system-for-language-ada83/72725#post_12)
+- [[MLIR][CodeGen] Native, JIT focused &lpar;x86&rpar; Code Generation for MLIR without the `llvm` dialect](https://discourse.llvm.org/t/mlir-codegen-native-jit-focused-x86-code-generation-for-mlir-without-the-llvm-dialect/72870#post_3)
+- [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697#post_19)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_15)
+- [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697#post_18)
+- [CMake: __config_site install location when using multilibs](https://discourse.llvm.org/t/cmake-config-site-install-location-when-using-multilibs/72895#post_2)
 <!-- DISCOURSE-LLVM:END -->
