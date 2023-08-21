@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MLIR][CodeGen] Native, JIT focused &lpar;x86&rpar; Code Generation for MLIR without the `llvm` dialect](https://discourse.llvm.org/t/mlir-codegen-native-jit-focused-x86-code-generation-for-mlir-without-the-llvm-dialect/72870#post_3)
-- [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697#post_19)
-- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_15)
-- [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697#post_18)
-- [CMake: __config_site install location when using multilibs](https://discourse.llvm.org/t/cmake-config-site-install-location-when-using-multilibs/72895#post_2)
+- [[RISCV][CLANG][CODEGEN] Possible bug in clang](https://discourse.llvm.org/t/riscv-clang-codegen-possible-bug-in-clang/72867#post_5)
+- [How to build minimal build of MLIR?](https://discourse.llvm.org/t/how-to-build-minimal-build-of-mlir/72901#post_1)
+- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_1)
+- [Is this a bug? &quot;+multivalue&quot; attribute contaminates non-multivalue functions](https://discourse.llvm.org/t/is-this-a-bug-multivalue-attribute-contaminates-non-multivalue-functions/72668#post_6)
+- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159?page=3#post_41)
 <!-- DISCOURSE-LLVM:END -->
