@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RISCV][CLANG][CODEGEN] Possible bug in clang](https://discourse.llvm.org/t/riscv-clang-codegen-possible-bug-in-clang/72867#post_5)
-- [How to build minimal build of MLIR?](https://discourse.llvm.org/t/how-to-build-minimal-build-of-mlir/72901#post_1)
-- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_1)
-- [Is this a bug? &quot;+multivalue&quot; attribute contaminates non-multivalue functions](https://discourse.llvm.org/t/is-this-a-bug-multivalue-attribute-contaminates-non-multivalue-functions/72668#post_6)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159?page=3#post_41)
+- [Out For Vacation-](https://discourse.llvm.org/t/out-for-vacation/71214#post_4)
+- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_17)
+- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_16)
+- [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_10)
+- [How to lower the combination of async gpu ops in `gpu` Dialect](https://discourse.llvm.org/t/how-to-lower-the-combination-of-async-gpu-ops-in-gpu-dialect/72796#post_5)
 <!-- DISCOURSE-LLVM:END -->
