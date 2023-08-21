@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #503, August 21st 2023](https://discourse.llvm.org/t/llvm-weekly-503-august-21st-2023/72877#post_1)
-- [Is this a bug? &quot;+multivalue&quot; attribute contaminates non-multivalue functions](https://discourse.llvm.org/t/is-this-a-bug-multivalue-attribute-contaminates-non-multivalue-functions/72668#post_3)
-- [RTTI name generated for classes in anonymous namespaces do not begin with the prefix asterisk&lpar;*&rpar;](https://discourse.llvm.org/t/rtti-name-generated-for-classes-in-anonymous-namespaces-do-not-begin-with-the-prefix-asterisk/72876#post_1)
-- [Trying to build clang and runtimes but linking fails, need help](https://discourse.llvm.org/t/trying-to-build-clang-and-runtimes-but-linking-fails-need-help/72851#post_16)
-- [Trying to build clang and runtimes but linking fails, need help](https://discourse.llvm.org/t/trying-to-build-clang-and-runtimes-but-linking-fails-need-help/72851#post_15)
+- [Libclang_rt.builtins.a is not being built](https://discourse.llvm.org/t/libclang-rt-builtins-a-is-not-being-built/72862#post_2)
+- [Failed to compile RNBRemote.cpp](https://discourse.llvm.org/t/failed-to-compile-rnbremote-cpp/72866#post_4)
+- [Failed to compile RNBRemote.cpp](https://discourse.llvm.org/t/failed-to-compile-rnbremote-cpp/72866#post_3)
+- [Pre-LLVM-DEV&#39;23 - Embedded Toolchains Workshop Agenda and Who&#39;s Coming?](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop-agenda-and-whos-coming/72852#post_5)
+- [Failed to compile RNBRemote.cpp](https://discourse.llvm.org/t/failed-to-compile-rnbremote-cpp/72866#post_2)
 <!-- DISCOURSE-LLVM:END -->
