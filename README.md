@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_13)
-- [What is the correct position of &quot;lib/clang/16/include&quot; in the include path sequence on Windows?](https://discourse.llvm.org/t/what-is-the-correct-position-of-lib-clang-16-include-in-the-include-path-sequence-on-windows/72886#post_2)
-- [What is compilation option &quot;-resource-dir&quot; used for?](https://discourse.llvm.org/t/what-is-compilation-option-resource-dir-used-for/72885#post_2)
-- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_12)
-- [What is the correct position of &quot;lib/clang/16/include&quot; in the include path sequence on Windows?](https://discourse.llvm.org/t/what-is-the-correct-position-of-lib-clang-16-include-in-the-include-path-sequence-on-windows/72886#post_1)
+- [&quot;/usr/bin/clang++&quot; is not able to compile a simple test program](https://discourse.llvm.org/t/usr-bin-clang-is-not-able-to-compile-a-simple-test-program/72889#post_1)
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_7)
+- [RDF enbale fail in computePhiInfo](https://discourse.llvm.org/t/rdf-enbale-fail-in-computephiinfo/72888#post_1)
+- [BufferDeallocationInternal&#39;s canonicalization-of-the-target-buffer-of-the-clone-operation](https://discourse.llvm.org/t/bufferdeallocationinternals-canonicalization-of-the-target-buffer-of-the-clone-operation/72820#post_4)
+- [Copying dependency chains](https://discourse.llvm.org/t/copying-dependency-chains/72880#post_2)
 <!-- DISCOURSE-LLVM:END -->
