@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Any open source projects currently available to work on](https://discourse.llvm.org/t/any-open-source-projects-currently-available-to-work-on/72931#post_1)
+- [The flag -mguard=none seems to be ignored or only works partially](https://discourse.llvm.org/t/the-flag-mguard-none-seems-to-be-ignored-or-only-works-partially/72929#post_1)
+- [What is the correct position of &quot;lib/clang/16/include&quot; in the include path sequence on Windows?](https://discourse.llvm.org/t/what-is-the-correct-position-of-lib-clang-16-include-in-the-include-path-sequence-on-windows/72886#post_3)
+- [Out For Vacation-](https://discourse.llvm.org/t/out-for-vacation/71214#post_5)
 - [Assignment Tracking and CodeExtractor](https://discourse.llvm.org/t/assignment-tracking-and-codeextractor/72917#post_2)
-- [Struct [[abc]] A{...};how to get that &quot;abc&quot;?](https://discourse.llvm.org/t/struct-abc-a-how-to-get-that-abc/72927#post_1)
-- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_4)
-- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_3)
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_8)
 <!-- DISCOURSE-LLVM:END -->
