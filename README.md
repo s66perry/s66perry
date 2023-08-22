@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_9)
-- [How To Call / Debug properly llc for RISC-V](https://discourse.llvm.org/t/how-to-call-debug-properly-llc-for-risc-v/72938#post_3)
-- [How To Call / Debug properly llc for RISC-V](https://discourse.llvm.org/t/how-to-call-debug-properly-llc-for-risc-v/72938#post_2)
-- [How To Call / Debug properly llc for RISC-V](https://discourse.llvm.org/t/how-to-call-debug-properly-llc-for-risc-v/72938#post_1)
-- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_20)
+- [Question about @llvm.used global variable](https://discourse.llvm.org/t/question-about-llvm-used-global-variable/72907#post_4)
+- [[RFC] Revamping LLDB&#39;s website](https://discourse.llvm.org/t/rfc-revamping-lldbs-website/72899#post_6)
+- [How to tell semantic node from lexical node using libClang?](https://discourse.llvm.org/t/how-to-tell-semantic-node-from-lexical-node-using-libclang/72940#post_1)
+- [[RFC] Revamping LLDB&#39;s website](https://discourse.llvm.org/t/rfc-revamping-lldbs-website/72899#post_5)
+- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_4)
 <!-- DISCOURSE-LLVM:END -->
