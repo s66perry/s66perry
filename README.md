@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Struct [[abc]] A{...};how to get that &quot;abc&quot;?](https://discourse.llvm.org/t/struct-abc-a-how-to-get-that-abc/72927#post_4)
-- [Struct [[abc]] A{...};how to get that &quot;abc&quot;?](https://discourse.llvm.org/t/struct-abc-a-how-to-get-that-abc/72927#post_3)
-- [Copying dependency chains](https://discourse.llvm.org/t/copying-dependency-chains/72880#post_6)
-- [Struct [[abc]] A{...};how to get that &quot;abc&quot;?](https://discourse.llvm.org/t/struct-abc-a-how-to-get-that-abc/72927#post_2)
-- [Any open source projects currently available to work on](https://discourse.llvm.org/t/any-open-source-projects-currently-available-to-work-on/72931#post_1)
+- [[RFC] Enable arrays of scalable vector types](https://discourse.llvm.org/t/rfc-enable-arrays-of-scalable-vector-types/72935#post_1)
+- [How to build minimal build of MLIR?](https://discourse.llvm.org/t/how-to-build-minimal-build-of-mlir/72901#post_5)
+- [Copying dependency chains](https://discourse.llvm.org/t/copying-dependency-chains/72880#post_8)
+- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_3)
+- [Copying dependency chains](https://discourse.llvm.org/t/copying-dependency-chains/72880#post_7)
 <!-- DISCOURSE-LLVM:END -->
