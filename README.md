@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Systematic way to introduce and use libc config options](https://discourse.llvm.org/t/rfc-systematic-way-to-introduce-and-use-libc-config-options/72943#post_1)
 - [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_17)
 - [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_16)
 - [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_15)
 - [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_14)
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_13)
 <!-- DISCOURSE-LLVM:END -->
