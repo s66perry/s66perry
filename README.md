@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_9)
+- [How To Call / Debug properly llc for RISC-V](https://discourse.llvm.org/t/how-to-call-debug-properly-llc-for-risc-v/72938#post_3)
+- [How To Call / Debug properly llc for RISC-V](https://discourse.llvm.org/t/how-to-call-debug-properly-llc-for-risc-v/72938#post_2)
+- [How To Call / Debug properly llc for RISC-V](https://discourse.llvm.org/t/how-to-call-debug-properly-llc-for-risc-v/72938#post_1)
 - [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979#post_20)
-- [[RFC] Enable arrays of scalable vector types](https://discourse.llvm.org/t/rfc-enable-arrays-of-scalable-vector-types/72935#post_2)
-- [Copying dependency chains](https://discourse.llvm.org/t/copying-dependency-chains/72880#post_10)
-- [Copying dependency chains](https://discourse.llvm.org/t/copying-dependency-chains/72880#post_9)
-- [[RFC] Enable arrays of scalable vector types](https://discourse.llvm.org/t/rfc-enable-arrays-of-scalable-vector-types/72935#post_1)
 <!-- DISCOURSE-LLVM:END -->
