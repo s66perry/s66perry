@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Expensive checks AArch64 builder](https://discourse.llvm.org/t/expensive-checks-aarch64-builder/72956#post_2)
-- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910#post_9)
-- [[RFC] Enable arrays of scalable vector types](https://discourse.llvm.org/t/rfc-enable-arrays-of-scalable-vector-types/72935#post_4)
-- [Expensive checks AArch64 builder](https://discourse.llvm.org/t/expensive-checks-aarch64-builder/72956#post_1)
-- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_6)
+- [Any open source projects available?](https://discourse.llvm.org/t/any-open-source-projects-available/72950#post_3)
+- [No member named &#39;split&#39; in namespace &#39;std::ranges::views&#39;](https://discourse.llvm.org/t/no-member-named-split-in-namespace-std-views/72955#post_2)
+- [Any open source projects available?](https://discourse.llvm.org/t/any-open-source-projects-available/72950#post_2)
+- [RTTI name generated for classes in anonymous namespaces do not begin with the prefix asterisk&lpar;*&rpar;](https://discourse.llvm.org/t/rtti-name-generated-for-classes-in-anonymous-namespaces-do-not-begin-with-the-prefix-asterisk/72876#post_3)
+- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910#post_10)
 <!-- DISCOURSE-LLVM:END -->
