@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Lifetime annotations for C++](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377?page=5#post_91)
-- [Any open source projects available?](https://discourse.llvm.org/t/any-open-source-projects-available/72950#post_4)
-- [Any available projects for JIT](https://discourse.llvm.org/t/any-available-projects-for-jit/72961#post_1)
-- [Any open source projects available?](https://discourse.llvm.org/t/any-open-source-projects-available/72950#post_3)
-- [No member named &#39;split&#39; in namespace &#39;std::ranges::views&#39;](https://discourse.llvm.org/t/no-member-named-split-in-namespace-std-views/72955#post_2)
+- [Expensive checks AArch64 builder](https://discourse.llvm.org/t/expensive-checks-aarch64-builder/72956#post_4)
+- [LLDB experince with pull requests in GitHub](https://discourse.llvm.org/t/lldb-experince-with-pull-requests-in-github/72966#post_3)
+- [LLDB experince with pull requests in GitHub](https://discourse.llvm.org/t/lldb-experince-with-pull-requests-in-github/72966#post_2)
+- [Pull requests in GitHub](https://discourse.llvm.org/t/pull-requests-in-github/72967#post_1)
+- [LLDB experince with pull requests in GitHub](https://discourse.llvm.org/t/lldb-experince-with-pull-requests-in-github/72966#post_1)
 <!-- DISCOURSE-LLVM:END -->
