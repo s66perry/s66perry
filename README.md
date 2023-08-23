@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [WiCT Virtual Meetup - August 31](https://discourse.llvm.org/t/wict-virtual-meetup-august-31/72976#post_1)
-- [Lowering non-branch instruction to branch instruction](https://discourse.llvm.org/t/lowering-non-branch-instruction-to-branch-instruction/72775#post_3)
-- [Request from a complete noob who is coming to LLVM/MLIR world. Asking for advice/suggestions](https://discourse.llvm.org/t/request-from-a-complete-noob-who-is-coming-to-llvm-mlir-world-asking-for-advice-suggestions/72396#post_10)
-- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641?page=2#post_35)
-- [[RFC] Adding C++ Parallel Algorithm Offload Support To Clang &amp; LLVM](https://discourse.llvm.org/t/rfc-adding-c-parallel-algorithm-offload-support-to-clang-llvm/72159?page=3#post_44)
+- [Using CIRCT dialect with MLIR dialect](https://discourse.llvm.org/t/using-circt-dialect-with-mlir-dialect/72971#post_2)
+- [What logs are kept when bulding clang?](https://discourse.llvm.org/t/what-logs-are-kept-when-bulding-clang/72980#post_1)
+- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_6)
+- [Installation Issue with Coverage](https://discourse.llvm.org/t/installation-issue-with-coverage/72979#post_1)
+- [PSA: Python bindings &lpar;`EnumAttr`s&rpar;](https://discourse.llvm.org/t/psa-python-bindings-enumattr-s/72978#post_1)
 <!-- DISCOURSE-LLVM:END -->
