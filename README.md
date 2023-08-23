@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Any open source projects which are available to work on](https://discourse.llvm.org/t/any-open-source-projects-which-are-available-to-work-on/72949#post_1)
+- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910#post_7)
+- [[RFC] Integrated Distributed ThinLTO](https://discourse.llvm.org/t/rfc-integrated-distributed-thinlto/69641?page=2#post_34)
+- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_5)
 - [[RFC] Enable arrays of scalable vector types](https://discourse.llvm.org/t/rfc-enable-arrays-of-scalable-vector-types/72935#post_3)
-- [What does the set in the dag of the td file in tablegen refer to, &lpar;set a, b&rpar;, where is the set defined?](https://discourse.llvm.org/t/what-does-the-set-in-the-dag-of-the-td-file-in-tablegen-refer-to-set-a-b-where-is-the-set-defined/72882#post_6)
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_14)
-- [LLVM 17.0.0-rc3 Released!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-released/72946#post_1)
-- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
