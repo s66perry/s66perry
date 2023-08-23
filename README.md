@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using CIRCT dialect with MLIR dialect](https://discourse.llvm.org/t/using-circt-dialect-with-mlir-dialect/72971#post_2)
-- [What logs are kept when bulding clang?](https://discourse.llvm.org/t/what-logs-are-kept-when-bulding-clang/72980#post_1)
-- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_6)
-- [Installation Issue with Coverage](https://discourse.llvm.org/t/installation-issue-with-coverage/72979#post_1)
-- [PSA: Python bindings &lpar;`EnumAttr`s&rpar;](https://discourse.llvm.org/t/psa-python-bindings-enumattr-s/72978#post_1)
+- [Using Type Converter with Generated Conversion Patterns](https://discourse.llvm.org/t/using-type-converter-with-generated-conversion-patterns/72981#post_1)
+- [Installation Issue with Coverage](https://discourse.llvm.org/t/installation-issue-with-coverage/72979#post_4)
+- [Pull requests in GitHub](https://discourse.llvm.org/t/pull-requests-in-github/72967#post_2)
+- [Installation Issue with Coverage](https://discourse.llvm.org/t/installation-issue-with-coverage/72979#post_3)
+- [Installation Issue with Coverage](https://discourse.llvm.org/t/installation-issue-with-coverage/72979#post_2)
 <!-- DISCOURSE-LLVM:END -->
