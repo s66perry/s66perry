@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_5)
-- [Shortage of Mips reviewers](https://discourse.llvm.org/t/shortage-of-mips-reviewers/72986#post_1)
-- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910#post_11)
-- [Help lowering GPU modules to LLVM](https://discourse.llvm.org/t/help-lowering-gpu-modules-to-llvm/72676#post_10)
-- [Help lowering GPU modules to LLVM](https://discourse.llvm.org/t/help-lowering-gpu-modules-to-llvm/72676#post_9)
+- [How to analyse and optimize JIT performance?](https://discourse.llvm.org/t/how-to-analyse-and-optimize-jit-performance/72989#post_1)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510?page=2#post_23)
+- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_7)
+- [Shortage of Mips reviewers](https://discourse.llvm.org/t/shortage-of-mips-reviewers/72986#post_4)
+- [Shortage of Mips reviewers](https://discourse.llvm.org/t/shortage-of-mips-reviewers/72986#post_3)
 <!-- DISCOURSE-LLVM:END -->
