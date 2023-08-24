@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upstreaming DSO Instrumentation Support for XRay](https://discourse.llvm.org/t/rfc-upstreaming-dso-instrumentation-support-for-xray/73000#post_1)
+- [Adding a function type attribute](https://discourse.llvm.org/t/adding-a-function-type-attribute/72999#post_1)
 - [[RFC] Enable arrays of scalable vector types](https://discourse.llvm.org/t/rfc-enable-arrays-of-scalable-vector-types/72935#post_5)
 - [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_18)
 - [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_4)
-- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_3)
-- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910#post_13)
 <!-- DISCOURSE-LLVM:END -->
