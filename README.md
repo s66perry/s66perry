@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_10)
-- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_9)
-- [[MLIR][CodeGen] Native, JIT focused &lpar;x86&rpar; Code Generation for MLIR without the `llvm` dialect](https://discourse.llvm.org/t/mlir-codegen-native-jit-focused-x86-code-generation-for-mlir-without-the-llvm-dialect/72870#post_5)
-- [VPlan Progress Update August 2023](https://discourse.llvm.org/t/vplan-progress-update-august-2023/73003#post_1)
-- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_8)
+- [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_19)
+- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_11)
+- [[RFC] Systematic way to introduce and use libc config options](https://discourse.llvm.org/t/rfc-systematic-way-to-introduce-and-use-libc-config-options/72943#post_4)
+- [Pull requests in GitHub](https://discourse.llvm.org/t/pull-requests-in-github/72967#post_4)
+- [How to tell semantic node from lexical node using libClang?](https://discourse.llvm.org/t/how-to-tell-semantic-node-from-lexical-node-using-libclang/72940#post_2)
 <!-- DISCOURSE-LLVM:END -->
