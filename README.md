@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Expensive checks AArch64 builder](https://discourse.llvm.org/t/expensive-checks-aarch64-builder/72956#post_7)
-- [[MLIR][CodeGen] Native, JIT focused &lpar;x86&rpar; Code Generation for MLIR without the `llvm` dialect](https://discourse.llvm.org/t/mlir-codegen-native-jit-focused-x86-code-generation-for-mlir-without-the-llvm-dialect/72870#post_4)
-- [Using CIRCT dialect with MLIR dialect](https://discourse.llvm.org/t/using-circt-dialect-with-mlir-dialect/72971#post_3)
-- [Main=native still not working on m1 pro](https://discourse.llvm.org/t/main-native-still-not-working-on-m1-pro/72994#post_1)
-- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910#post_12)
+- [[RFC] Enable arrays of scalable vector types](https://discourse.llvm.org/t/rfc-enable-arrays-of-scalable-vector-types/72935#post_5)
+- [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814#post_18)
+- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_4)
+- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_3)
+- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910#post_13)
 <!-- DISCOURSE-LLVM:END -->
