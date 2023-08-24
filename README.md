@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_7)
-- [Help lowering GPU modules to LLVM](https://discourse.llvm.org/t/help-lowering-gpu-modules-to-llvm/72676#post_8)
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_2)
-- [Using Type Converter with Generated Conversion Patterns](https://discourse.llvm.org/t/using-type-converter-with-generated-conversion-patterns/72981#post_1)
-- [Installation Issue with Coverage](https://discourse.llvm.org/t/installation-issue-with-coverage/72979#post_4)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=6#post_115)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_20)
+- [What logs are kept when bulding clang?](https://discourse.llvm.org/t/what-logs-are-kept-when-bulding-clang/72980#post_3)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510#post_19)
+- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_3)
 <!-- DISCOURSE-LLVM:END -->
