@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_5)
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_6)
-- [[RFC] Revamping LLDB&#39;s website](https://discourse.llvm.org/t/rfc-revamping-lldbs-website/72899#post_8)
-- [Better process for documentation contributions?](https://discourse.llvm.org/t/better-process-for-documentation-contributions/73001#post_1)
-- [[RFC] Upstreaming DSO Instrumentation Support for XRay](https://discourse.llvm.org/t/rfc-upstreaming-dso-instrumentation-support-for-xray/73000#post_1)
+- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_10)
+- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_9)
+- [[MLIR][CodeGen] Native, JIT focused &lpar;x86&rpar; Code Generation for MLIR without the `llvm` dialect](https://discourse.llvm.org/t/mlir-codegen-native-jit-focused-x86-code-generation-for-mlir-without-the-llvm-dialect/72870#post_5)
+- [VPlan Progress Update August 2023](https://discourse.llvm.org/t/vplan-progress-update-august-2023/73003#post_1)
+- [Offloading structure with dynamic arrays to target](https://discourse.llvm.org/t/offloading-structure-with-dynamic-arrays-to-target/72983#post_8)
 <!-- DISCOURSE-LLVM:END -->
