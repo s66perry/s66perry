@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Openmp support on apple silicon](https://discourse.llvm.org/t/openmp-support-on-apple-silicon/73042#post_1)
+- [Lower gpu dialect failed](https://discourse.llvm.org/t/lower-gpu-dialect-failed/72426#post_5)
+- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_15)
 - [[RFC] Systematic way to introduce and use libc config options](https://discourse.llvm.org/t/rfc-systematic-way-to-introduce-and-use-libc-config-options/72943#post_5)
 - [What is the idiomatic way to manipulate tensors during the pass itself?](https://discourse.llvm.org/t/what-is-the-idiomatic-way-to-manipulate-tensors-during-the-pass-itself/73039#post_1)
-- [Using Clang 16 with LLVM 15 to emit IR](https://discourse.llvm.org/t/using-clang-16-with-llvm-15-to-emit-ir/73037#post_2)
-- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_9)
-- [[RFC] Vectorization of loops with Data Dependent Exits](https://discourse.llvm.org/t/rfc-vectorization-of-loops-with-data-dependent-exits/72198#post_2)
 <!-- DISCOURSE-LLVM:END -->
