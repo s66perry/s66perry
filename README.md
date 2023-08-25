@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Openmp support on apple silicon](https://discourse.llvm.org/t/openmp-support-on-apple-silicon/73042#post_1)
-- [Lower gpu dialect failed](https://discourse.llvm.org/t/lower-gpu-dialect-failed/72426#post_5)
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_15)
-- [[RFC] Systematic way to introduce and use libc config options](https://discourse.llvm.org/t/rfc-systematic-way-to-introduce-and-use-libc-config-options/72943#post_5)
-- [What is the idiomatic way to manipulate tensors during the pass itself?](https://discourse.llvm.org/t/what-is-the-idiomatic-way-to-manipulate-tensors-during-the-pass-itself/73039#post_1)
+- [Shortage of Mips reviewers](https://discourse.llvm.org/t/shortage-of-mips-reviewers/72986#post_5)
+- [Openmp support on apple silicon](https://discourse.llvm.org/t/openmp-support-on-apple-silicon/73042#post_3)
+- [Pull Request Migration Reminder: Sept 1 - Oct 1](https://discourse.llvm.org/t/pull-request-migration-reminder-sept-1-oct-1/73043#post_1)
+- [Compiler-rt binary distribution](https://discourse.llvm.org/t/compiler-rt-binary-distribution/73023#post_2)
+- [Any Tool for creating Editable Diagrams in LLVM/Clang-REPL Documentation? &lpar;similar to Mermaid inGithub&rpar;](https://discourse.llvm.org/t/any-tool-for-creating-editable-diagrams-in-llvm-clang-repl-documentation-similar-to-mermaid-ingithub/72729#post_5)
 <!-- DISCOURSE-LLVM:END -->
