@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979?page=2#post_22)
-- [Interaction of noalias and dereferenceable](https://discourse.llvm.org/t/interaction-of-noalias-and-dereferenceable/66979?page=2#post_21)
-- [[RFC] Design for APX feature EGPR and NDD support](https://discourse.llvm.org/t/rfc-design-for-apx-feature-egpr-and-ndd-support/73031#post_1)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=3#post_44)
-- [2023 US LLVM Dev Mtg Progam](https://discourse.llvm.org/t/2023-us-llvm-dev-mtg-progam/73029#post_1)
+- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_9)
+- [[RFC] Vectorization of loops with Data Dependent Exits](https://discourse.llvm.org/t/rfc-vectorization-of-loops-with-data-dependent-exits/72198#post_2)
+- [Using Clang 16 with LLVM 15 to emit IR](https://discourse.llvm.org/t/using-clang-16-with-llvm-15-to-emit-ir/73037#post_1)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=3#post_45)
+- [What does the set in the dag of the td file in tablegen refer to, &lpar;set a, b&rpar;, where is the set defined?](https://discourse.llvm.org/t/what-does-the-set-in-the-dag-of-the-td-file-in-tablegen-refer-to-set-a-b-where-is-the-set-defined/72882#post_8)
 <!-- DISCOURSE-LLVM:END -->
