@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Draft[ MLIR News, 54th edition &lpar;30th August 2023&rpar;](https://discourse.llvm.org/t/draft-mlir-news-54th-edition-30th-august-2023/73049#post_1)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_51)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_50)
 - [Any available projects for JIT](https://discourse.llvm.org/t/any-available-projects-for-jit/72961#post_4)
 - [Any available projects for JIT](https://discourse.llvm.org/t/any-available-projects-for-jit/72961#post_3)
-- [Any available projects for JIT](https://discourse.llvm.org/t/any-available-projects-for-jit/72961#post_2)
 <!-- DISCOURSE-LLVM:END -->
