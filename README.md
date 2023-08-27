@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][CodeGen] Native, JIT focused &lpar;x86&rpar; Code Generation for MLIR without the `llvm` dialect](https://discourse.llvm.org/t/mlir-codegen-native-jit-focused-x86-code-generation-for-mlir-without-the-llvm-dialect/72870#post_9)
+- [Compiler-rt built using MSVC is missing __chkstk](https://discourse.llvm.org/t/compiler-rt-built-using-msvc-is-missing-chkstk/73059#post_6)
+- [Compiler-rt built using MSVC is missing __chkstk](https://discourse.llvm.org/t/compiler-rt-built-using-msvc-is-missing-chkstk/73059#post_5)
 - [Kernel launch error using amdclang++ targeting to amdgpu](https://discourse.llvm.org/t/kernel-launch-error-using-amdclang-targeting-to-amdgpu/73064#post_1)
-- [I cannot find __chkstk in compiler-rt artifacts for Windows x86-64](https://discourse.llvm.org/t/i-cannot-find-chkstk-in-compiler-rt-artifacts-for-windows-x86-64/73059#post_4)
-- [I cannot find __chkstk in compiler-rt artifacts for Windows x86-64](https://discourse.llvm.org/t/i-cannot-find-chkstk-in-compiler-rt-artifacts-for-windows-x86-64/73059#post_3)
-- [I cannot find __chkstk in compiler-rt artifacts for Windows x86-64](https://discourse.llvm.org/t/i-cannot-find-chkstk-in-compiler-rt-artifacts-for-windows-x86-64/73059#post_2)
-- [I cannot find __chkstk in compiler-rt artifacts for Windows x86-64](https://discourse.llvm.org/t/i-cannot-find-chkstk-in-compiler-rt-artifacts-for-windows-x86-64/73059#post_1)
+- [Compiler-rt built using MSVC is missing __chkstk](https://discourse.llvm.org/t/compiler-rt-built-using-msvc-is-missing-chkstk/73059#post_4)
 <!-- DISCOURSE-LLVM:END -->
