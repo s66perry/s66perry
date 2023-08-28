@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Design for APX feature EGPR and NDD support](https://discourse.llvm.org/t/rfc-design-for-apx-feature-egpr-and-ndd-support/73031#post_4)
+- [How to lower the combination of async gpu ops in `gpu` Dialect](https://discourse.llvm.org/t/how-to-lower-the-combination-of-async-gpu-ops-in-gpu-dialect/72796#post_7)
 - [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910?page=2#post_23)
 - [A question on type inference for operands](https://discourse.llvm.org/t/a-question-on-type-inference-for-operands/73072#post_1)
 - [Noinline, no-opt method loses call to other method -O3](https://discourse.llvm.org/t/noinline-no-opt-method-loses-call-to-other-method-o3/73068#post_4)
-- [Compiler-rt built using MSVC is missing __chkstk](https://discourse.llvm.org/t/compiler-rt-built-using-msvc-is-missing-chkstk/73059#post_9)
-- [Compiler-rt built using MSVC is missing __chkstk](https://discourse.llvm.org/t/compiler-rt-built-using-msvc-is-missing-chkstk/73059#post_8)
 <!-- DISCOURSE-LLVM:END -->
