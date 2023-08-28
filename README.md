@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Exposing the diagnostic engine to C++](https://discourse.llvm.org/t/exposing-the-diagnostic-engine-to-c/73092#post_5)
-- [A question on type inference for operands](https://discourse.llvm.org/t/a-question-on-type-inference-for-operands/73072#post_5)
-- [Sunsetting the MLIR-HLO repository](https://discourse.llvm.org/t/sunsetting-the-mlir-hlo-repository/70536#post_7)
-- [AnyAttr and AnyAttrOf in a type &lpar;&quot;assertion _M_is_engaged failed&quot;&rpar;](https://discourse.llvm.org/t/anyattr-and-anyattrof-in-a-type-assertion-m-is-engaged-failed/73044#post_13)
-- [AnyAttr and AnyAttrOf in a type &lpar;&quot;assertion _M_is_engaged failed&quot;&rpar;](https://discourse.llvm.org/t/anyattr-and-anyattrof-in-a-type-assertion-m-is-engaged-failed/73044#post_12)
+- [LLVMCAS Upstreaming](https://discourse.llvm.org/t/llvmcas-upstreaming/72696#post_4)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510?page=2#post_28)
+- [LLVM 17.0.0-rc2 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc2-tagged/72643#post_14)
+- [LLVM 17.0.0-rc1 tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc1-tagged/72404#post_14)
+- [LLVM 17.0.0-rc3 Tagged!](https://discourse.llvm.org/t/llvm-17-0-0-rc3-tagged/72920#post_11)
 <!-- DISCOURSE-LLVM:END -->
