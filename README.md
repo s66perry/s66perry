@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Plans to archive/maintain Phabricator instance?](https://discourse.llvm.org/t/plans-to-archive-maintain-phabricator-instance/72897#post_3)
-- [Always inline with O0](https://discourse.llvm.org/t/always-inline-with-o0/73088#post_2)
-- [How to check if it is valid to create an op](https://discourse.llvm.org/t/how-to-check-if-it-is-valid-to-create-an-op/73082#post_2)
-- [[RFC] Systematic way to introduce and use libc config options](https://discourse.llvm.org/t/rfc-systematic-way-to-introduce-and-use-libc-config-options/72943#post_6)
-- [Always inline with O0](https://discourse.llvm.org/t/always-inline-with-o0/73088#post_1)
+- [Clang link error for OpenMP target for NVPTX using LLVM@15.0.2 from spack](https://discourse.llvm.org/t/clang-link-error-for-openmp-target-for-nvptx-using-llvm-15-0-2-from-spack/66157#post_7)
+- [Plans to archive/maintain Phabricator instance?](https://discourse.llvm.org/t/plans-to-archive-maintain-phabricator-instance/72897#post_4)
+- [[LLVM-DEV&#39;23] ML-Guided Compiler Optimization in LLVM Workshop](https://discourse.llvm.org/t/llvm-dev23-ml-guided-compiler-optimization-in-llvm-workshop/73090#post_1)
+- [Helper script for analyzing mir dumps](https://discourse.llvm.org/t/helper-script-for-analyzing-mir-dumps/73080#post_2)
+- [A question on type inference for operands](https://discourse.llvm.org/t/a-question-on-type-inference-for-operands/73072#post_3)
 <!-- DISCOURSE-LLVM:END -->
