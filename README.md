@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reverse iteration bots](https://discourse.llvm.org/t/reverse-iteration-bots/72224#post_7)
+- [[RFC] More OpFoldResult and &quot;mixed indices&quot; in ops that deal with Shaped Values](https://discourse.llvm.org/t/rfc-more-opfoldresult-and-mixed-indices-in-ops-that-deal-with-shaped-values/72510?page=2#post_29)
+- [Exposing the diagnostic engine to C++](https://discourse.llvm.org/t/exposing-the-diagnostic-engine-to-c/73092#post_7)
+- [`checkLocation` vs `checkBind` when `isLoad=false`](https://discourse.llvm.org/t/checklocation-vs-checkbind-when-isload-false/72728#post_2)
 - [Building &lpar;parts of&rpar; LLVM for bare metal RISCV32](https://discourse.llvm.org/t/building-parts-of-llvm-for-bare-metal-riscv32/73102#post_1)
-- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_6)
-- [Pull Request Migration Reminder: Sept 1 - Oct 1](https://discourse.llvm.org/t/pull-request-migration-reminder-sept-1-oct-1/73043#post_2)
-- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_5)
-- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_4)
 <!-- DISCOURSE-LLVM:END -->
