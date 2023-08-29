@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [OpTrait Inheritance should be discouraged?](https://discourse.llvm.org/t/optrait-inheritance-should-be-discouraged/73100#post_2)
-- [OpTrait Inheritance should be discouraged?](https://discourse.llvm.org/t/optrait-inheritance-should-be-discouraged/73100#post_1)
-- [PerfJITEventListener needs perf-&lt;pid&gt;.map?](https://discourse.llvm.org/t/perfjiteventlistener-needs-perf-pid-map/55114#post_4)
-- [Sized deallocation has been enabled by default in C++14 onwards](https://discourse.llvm.org/t/sized-deallocation-has-been-enabled-by-default-in-c-14-onwards/73099#post_1)
-- [Exposing the diagnostic engine to C++](https://discourse.llvm.org/t/exposing-the-diagnostic-engine-to-c/73092#post_6)
+- [Building &lpar;parts of&rpar; LLVM for bare metal RISCV32](https://discourse.llvm.org/t/building-parts-of-llvm-for-bare-metal-riscv32/73102#post_1)
+- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_6)
+- [Pull Request Migration Reminder: Sept 1 - Oct 1](https://discourse.llvm.org/t/pull-request-migration-reminder-sept-1-oct-1/73043#post_2)
+- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_5)
+- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_4)
 <!-- DISCOURSE-LLVM:END -->
