@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_1)
-- [`checkLocation` vs `checkBind` when `isLoad=false`](https://discourse.llvm.org/t/checklocation-vs-checkbind-when-isload-false/72728#post_3)
-- [Variadic using TypeConstraints](https://discourse.llvm.org/t/variadic-using-typeconstraints/73108#post_1)
-- [Clang link error for OpenMP target for NVPTX using LLVM@15.0.2 from spack](https://discourse.llvm.org/t/clang-link-error-for-openmp-target-for-nvptx-using-llvm-15-0-2-from-spack/66157#post_8)
-- [[RFC] Customizable namespace to allow testing the libc when the system-libc is also LLVM&#39;s libc](https://discourse.llvm.org/t/rfc-customizable-namespace-to-allow-testing-the-libc-when-the-system-libc-is-also-llvms-libc/73079#post_2)
+- [Exposing the diagnostic engine to C++](https://discourse.llvm.org/t/exposing-the-diagnostic-engine-to-c/73092#post_8)
+- [-Wunused-command-line-argument for assembly files](https://discourse.llvm.org/t/wunused-command-line-argument-for-assembly-files/73111#post_1)
+- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_8)
+- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_7)
+- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_2)
 <!-- DISCOURSE-LLVM:END -->
