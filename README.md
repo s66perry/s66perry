@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Exposing the diagnostic engine to C++](https://discourse.llvm.org/t/exposing-the-diagnostic-engine-to-c/73092#post_9)
+- [Why does -fsanitize=enum not work in C?](https://discourse.llvm.org/t/why-does-fsanitize-enum-not-work-in-c/73112#post_2)
+- [Why does -fsanitize=enum not work in C?](https://discourse.llvm.org/t/why-does-fsanitize-enum-not-work-in-c/73112#post_1)
 - [Exposing the diagnostic engine to C++](https://discourse.llvm.org/t/exposing-the-diagnostic-engine-to-c/73092#post_8)
 - [-Wunused-command-line-argument for assembly files](https://discourse.llvm.org/t/wunused-command-line-argument-for-assembly-files/73111#post_1)
-- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_8)
-- [How can I get the name in pass that corresponds to the ssa value of a previously created op?](https://discourse.llvm.org/t/how-can-i-get-the-name-in-pass-that-corresponds-to-the-ssa-value-of-a-previously-created-op/72896#post_7)
-- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_2)
 <!-- DISCOURSE-LLVM:END -->
