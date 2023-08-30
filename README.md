@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][CodeGen] Native, JIT focused &lpar;x86&rpar; Code Generation for MLIR without the `llvm` dialect](https://discourse.llvm.org/t/mlir-codegen-native-jit-focused-x86-code-generation-for-mlir-without-the-llvm-dialect/72870#post_12)
+- [X86 Code Generation Sign Extension or Register usage](https://discourse.llvm.org/t/x86-code-generation-sign-extension-or-register-usage/73124#post_3)
+- [X86 Code Generation Sign Extension or Register usage](https://discourse.llvm.org/t/x86-code-generation-sign-extension-or-register-usage/73124#post_2)
+- [Reverse iteration bots](https://discourse.llvm.org/t/reverse-iteration-bots/72224#post_9)
 - [X86 Code Generation Sign Extension or Register usage](https://discourse.llvm.org/t/x86-code-generation-sign-extension-or-register-usage/73124#post_1)
-- [Running passes in transform ops + dealing with dependent dialects of those passes](https://discourse.llvm.org/t/running-passes-in-transform-ops-dealing-with-dependent-dialects-of-those-passes/69139#post_5)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116#post_19)
-- [-Wunused-command-line-argument for assembly files](https://discourse.llvm.org/t/wunused-command-line-argument-for-assembly-files/73111#post_3)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116#post_18)
 <!-- DISCOURSE-LLVM:END -->
