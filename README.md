@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_30)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_29)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_28)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_27)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_26)
+- [[RFC] Systematic way to introduce and use libc config options](https://discourse.llvm.org/t/rfc-systematic-way-to-introduce-and-use-libc-config-options/72943#post_7)
+- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_4)
+- [Zero Copy openmp offload](https://discourse.llvm.org/t/zero-copy-openmp-offload/73120#post_8)
+- [Zero Copy openmp offload](https://discourse.llvm.org/t/zero-copy-openmp-offload/73120#post_7)
+- [Zero Copy openmp offload](https://discourse.llvm.org/t/zero-copy-openmp-offload/73120#post_6)
 <!-- DISCOURSE-LLVM:END -->
