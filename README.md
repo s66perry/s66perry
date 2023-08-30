@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Variadic using TypeConstraints](https://discourse.llvm.org/t/variadic-using-typeconstraints/73108#post_3)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_5)
-- [Zero initialization for globals with common linkage](https://discourse.llvm.org/t/zero-initialization-for-globals-with-common-linkage/1762#post_13)
-- [Variadic using TypeConstraints](https://discourse.llvm.org/t/variadic-using-typeconstraints/73108#post_2)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_4)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_28)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_27)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_26)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_25)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
