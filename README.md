@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116#post_20)
-- [How to Debug LLVM Code in Vscode](https://discourse.llvm.org/t/how-to-debug-llvm-code-in-vscode/73127#post_1)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_2)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_1)
-- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_3)
+- [I am new to the MLIR Community](https://discourse.llvm.org/t/i-am-new-to-the-mlir-community/73114#post_2)
+- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_3)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_22)
+- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910?page=2#post_24)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
