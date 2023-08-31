@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Potential bug in CombToArith Pass?](https://discourse.llvm.org/t/potential-bug-in-combtoarith-pass/73143#post_2)
-- [Mac OS. command - &quot;process attach -p 123&quot; always stops app without any breakpoints](https://discourse.llvm.org/t/mac-os-command-process-attach-p-123-always-stops-app-without-any-breakpoints/73144#post_1)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_6)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_48)
-- [Potential bug in CombToArith Pass?](https://discourse.llvm.org/t/potential-bug-in-combtoarith-pass/73143#post_1)
+- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_8)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_53)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_52)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_49)
+- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_7)
 <!-- DISCOURSE-LLVM:END -->
