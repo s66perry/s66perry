@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Improved VPlan-native Path](https://discourse.llvm.org/t/improved-vplan-native-path/73152#post_1)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_53)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=2#post_37)
-- [Zero Copy openmp offload](https://discourse.llvm.org/t/zero-copy-openmp-offload/73120#post_19)
-- [[RFC] MLIR with respect to LLVM releases](https://discourse.llvm.org/t/rfc-mlir-with-respect-to-llvm-releases/72305#post_3)
+- [[RFC] Prevent CSE from removing expressions inside some non-`IsolatedFromAbove` operation regions](https://discourse.llvm.org/t/rfc-prevent-cse-from-removing-expressions-inside-some-non-isolatedfromabove-operation-regions/73150#post_2)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_56)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_55)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_54)
+- [Kernel launch error using amdclang++ targeting to amdgpu](https://discourse.llvm.org/t/kernel-launch-error-using-amdclang-targeting-to-amdgpu/73064#post_6)
 <!-- DISCOURSE-LLVM:END -->
