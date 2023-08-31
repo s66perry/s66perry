@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Questions about build infrastructure](https://discourse.llvm.org/t/questions-about-build-infrastructure/72567#post_4)
-- [[Firtool] chisel for loop to verilog](https://discourse.llvm.org/t/firtool-chisel-for-loop-to-verilog/73146#post_1)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_11)
-- [Office Hour / Helpline for GitHub Pull Requests](https://discourse.llvm.org/t/office-hour-helpline-for-github-pull-requests/73145#post_1)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_10)
+- [InferAddrSpace] The operand with non-FLAT-address-space got Undefined when rewriting its user to new address space](https://discourse.llvm.org/t/inferaddrspace-the-operand-with-non-flat-address-space-got-undefined-when-rewriting-its-user-to-new-address-space/72910?page=2#post_26)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_58)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_57)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_56)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_55)
 <!-- DISCOURSE-LLVM:END -->
