@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Prevent CSE from removing expressions inside some non-`IsolatedFromAbove` operation regions](https://discourse.llvm.org/t/rfc-prevent-cse-from-removing-expressions-inside-some-non-isolatedfromabove-operation-regions/73150#post_2)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_56)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_55)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_54)
-- [Kernel launch error using amdclang++ targeting to amdgpu](https://discourse.llvm.org/t/kernel-launch-error-using-amdclang-targeting-to-amdgpu/73064#post_6)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_62)
+- [[Firtool] chisel for loop to verilog](https://discourse.llvm.org/t/firtool-chisel-for-loop-to-verilog/73146#post_2)
+- [Patches inspired by the Juliet benchmark](https://discourse.llvm.org/t/patches-inspired-by-the-juliet-benchmark/73106#post_3)
+- [Pre-merge testing and transition to PRs](https://discourse.llvm.org/t/pre-merge-testing-and-transition-to-prs/73155#post_1)
+- [Logistics of the transition to GitHub PRs for libc++/libc++abi/libunwind](https://discourse.llvm.org/t/logistics-of-the-transition-to-github-prs-for-libc-libc-abi-libunwind/73130#post_3)
 <!-- DISCOURSE-LLVM:END -->
