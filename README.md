@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR with respect to LLVM releases](https://discourse.llvm.org/t/rfc-mlir-with-respect-to-llvm-releases/72305#post_2)
-- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_4)
-- [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_16)
-- [Static Analysis: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/static-analysis-teams-for-pull-request-subscriptions/73136#post_2)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_45)
+- [Potential bug in CombToArith Pass?](https://discourse.llvm.org/t/potential-bug-in-combtoarith-pass/73143#post_2)
+- [Mac OS. command - &quot;process attach -p 123&quot; always stops app without any breakpoints](https://discourse.llvm.org/t/mac-os-command-process-attach-p-123-always-stops-app-without-any-breakpoints/73144#post_1)
+- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_6)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_48)
+- [Potential bug in CombToArith Pass?](https://discourse.llvm.org/t/potential-bug-in-combtoarith-pass/73143#post_1)
 <!-- DISCOURSE-LLVM:END -->
