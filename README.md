@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_8)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_53)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=3#post_52)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=3#post_49)
-- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_7)
+- [Questions about build infrastructure](https://discourse.llvm.org/t/questions-about-build-infrastructure/72567#post_4)
+- [[Firtool] chisel for loop to verilog](https://discourse.llvm.org/t/firtool-chisel-for-loop-to-verilog/73146#post_1)
+- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_11)
+- [Office Hour / Helpline for GitHub Pull Requests](https://discourse.llvm.org/t/office-hour-helpline-for-github-pull-requests/73145#post_1)
+- [How to call MLIR function by c++?](https://discourse.llvm.org/t/how-to-call-mlir-function-by-c/73126#post_10)
 <!-- DISCOURSE-LLVM:END -->
