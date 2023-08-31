@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Zero Copy openmp offload](https://discourse.llvm.org/t/zero-copy-openmp-offload/73120#post_20)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=2#post_39)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=2#post_38)
-- [CFP: MLIR workshop at the LLVM developer meeting &lpar;Oct 10, 2023&rpar;](https://discourse.llvm.org/t/cfp-mlir-workshop-at-the-llvm-developer-meeting-oct-10-2023/73164#post_1)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=4#post_61)
+- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_5)
+- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_42)
+- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_17)
+- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_41)
+- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=2#post_40)
 <!-- DISCOURSE-LLVM:END -->
