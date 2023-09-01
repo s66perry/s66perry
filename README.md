@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=4#post_68)
+- [X86 Code Generation Sign Extension or Register usage](https://discourse.llvm.org/t/x86-code-generation-sign-extension-or-register-usage/73124#post_4)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_67)
+- [Use glob instead of regex for SpecialCaseLists](https://discourse.llvm.org/t/use-glob-instead-of-regex-for-specialcaselists/71666#post_3)
 - [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178#post_11)
-- [`checkLocation` vs `checkBind` when `isLoad=false`](https://discourse.llvm.org/t/checklocation-vs-checkbind-when-isload-false/72728#post_6)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_44)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178#post_10)
-- [`checkLocation` vs `checkBind` when `isLoad=false`](https://discourse.llvm.org/t/checklocation-vs-checkbind-when-isload-false/72728#post_5)
 <!-- DISCOURSE-LLVM:END -->
