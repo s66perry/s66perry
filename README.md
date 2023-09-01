@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_5)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_42)
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_17)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_41)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=2#post_40)
+- [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138#post_10)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=4#post_64)
+- [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138#post_9)
+- [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138#post_8)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=4#post_63)
 <!-- DISCOURSE-LLVM:END -->
