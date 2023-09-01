@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_20)
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_19)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_66)
-- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850#post_18)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_43)
+- [Patches inspired by the Juliet benchmark](https://discourse.llvm.org/t/patches-inspired-by-the-juliet-benchmark/73106#post_6)
+- [[RFC] Redefine Og/O1 and add a new level of Og](https://discourse.llvm.org/t/rfc-redefine-og-o1-and-add-a-new-level-of-og/72850?page=2#post_21)
+- [Questions about build infrastructure](https://discourse.llvm.org/t/questions-about-build-infrastructure/72567#post_6)
+- [&quot;/usr/bin/clang++&quot; is not able to compile a simple test program](https://discourse.llvm.org/t/usr-bin-clang-is-not-able-to-compile-a-simple-test-program/72889#post_3)
+- [Questions about build infrastructure](https://discourse.llvm.org/t/questions-about-build-infrastructure/72567#post_5)
 <!-- DISCOURSE-LLVM:END -->
