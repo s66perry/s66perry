@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_72)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_71)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_70)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_69)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_68)
+- [Lld automatically hide symbols with __ prefix?](https://discourse.llvm.org/t/lld-automatically-hide-symbols-with-prefix/73192#post_3)
+- [Logistics of the transition to GitHub PRs for libc++/libc++abi/libunwind](https://discourse.llvm.org/t/logistics-of-the-transition-to-github-prs-for-libc-libc-abi-libunwind/73130#post_5)
+- [Lld automatically hide symbols with __ prefix?](https://discourse.llvm.org/t/lld-automatically-hide-symbols-with-prefix/73192#post_2)
+- [Logistics of the transition to GitHub PRs for libc++/libc++abi/libunwind](https://discourse.llvm.org/t/logistics-of-the-transition-to-github-prs-for-libc-libc-abi-libunwind/73130#post_4)
+- [Lld automatically hide symbols with __ prefix?](https://discourse.llvm.org/t/lld-automatically-hide-symbols-with-prefix/73192#post_1)
 <!-- DISCOURSE-LLVM:END -->
