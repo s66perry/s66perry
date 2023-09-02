@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_45)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_5)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_4)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_3)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_2)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_72)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_71)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_70)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_69)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=4#post_68)
 <!-- DISCOURSE-LLVM:END -->
