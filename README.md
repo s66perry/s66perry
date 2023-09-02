@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_2)
+- [Office Hour / Helpline for GitHub Pull Requests](https://discourse.llvm.org/t/office-hour-helpline-for-github-pull-requests/73145#post_9)
+- [[RFC] TableGen: Include What You Use &lpar;IWYU&rpar;](https://discourse.llvm.org/t/rfc-tablegen-include-what-you-use-iwyu/73168#post_9)
 - [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=4#post_77)
 - [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=4#post_76)
-- [[RFC] Prevent CSE from removing expressions inside some non-`IsolatedFromAbove` operation regions](https://discourse.llvm.org/t/rfc-prevent-cse-from-removing-expressions-inside-some-non-isolatedfromabove-operation-regions/73150#post_7)
-- [[NVPTX] Plans to support s16x2/u16x2 instructions for sm_90](https://discourse.llvm.org/t/nvptx-plans-to-support-s16x2-u16x2-instructions-for-sm-90/73189#post_1)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_1)
 <!-- DISCOURSE-LLVM:END -->
