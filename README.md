@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_46)
+- [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138#post_14)
 - [How to cast i32 to f32 in mlir?](https://discourse.llvm.org/t/how-to-cast-i32-to-f32-in-mlir/73203#post_2)
 - [How to cast i32 to f32 in mlir?](https://discourse.llvm.org/t/how-to-cast-i32-to-f32-in-mlir/73203#post_1)
 - [Has anyone developed pass plugin on windows?](https://discourse.llvm.org/t/has-anyone-developed-pass-plugin-on-windows/73201#post_1)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=4#post_79)
-- [Iterator Invalidation in LLVM](https://discourse.llvm.org/t/iterator-invalidation-in-llvm/73194#post_4)
 <!-- DISCOURSE-LLVM:END -->
