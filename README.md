@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_1)
-- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_1)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_49)
-- [Intermittent LLVM fatal error &lpar;abort in resolveRelocation&lpar;&rpar;&rpar; when used from OSL](https://discourse.llvm.org/t/intermittent-llvm-fatal-error-abort-in-resolverelocation-when-used-from-osl/73225#post_1)
-- [Sized deallocation has been enabled by default in C++14 onwards](https://discourse.llvm.org/t/sized-deallocation-has-been-enabled-by-default-in-c-14-onwards/73099#post_2)
+- [LLD Code coverage issue](https://discourse.llvm.org/t/lld-code-coverage-issue/73232#post_1)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_29)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_28)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_27)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
