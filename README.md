@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_23)
-- [Lowering to FIRRTL dialect](https://discourse.llvm.org/t/lowering-to-firrtl-dialect/73219#post_1)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_22)
-- [How to add the Visibility Style and DLL Storage Class to FuncOp?](https://discourse.llvm.org/t/how-to-add-the-visibility-style-and-dll-storage-class-to-funcop/71566#post_4)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_21)
+- [[RFC] Upstreaming DSO Instrumentation Support for XRay](https://discourse.llvm.org/t/rfc-upstreaming-dso-instrumentation-support-for-xray/73000#post_2)
+- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_11)
+- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_6)
+- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_10)
+- [LLVM Social Stockholm, Sweden: 27 September 2023](https://discourse.llvm.org/t/llvm-social-stockholm-sweden-27-september-2023/73222#post_1)
 <!-- DISCOURSE-LLVM:END -->
