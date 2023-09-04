@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178#post_18)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178#post_17)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178#post_16)
-- [LLVM Tablegen Error while executing](https://discourse.llvm.org/t/llvm-tablegen-error-while-executing/73208#post_3)
-- [Break in gdb](https://discourse.llvm.org/t/break-in-gdb/73210#post_1)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178#post_20)
+- [Break in gdb](https://discourse.llvm.org/t/break-in-gdb/73210#post_5)
+- [Break in gdb](https://discourse.llvm.org/t/break-in-gdb/73210#post_4)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178#post_19)
+- [Break in gdb](https://discourse.llvm.org/t/break-in-gdb/73210#post_3)
 <!-- DISCOURSE-LLVM:END -->
