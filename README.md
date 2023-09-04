@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Intermittent LLVM fatal error &lpar;abort in resolveRelocation&lpar;&rpar;&rpar; when used from OSL](https://discourse.llvm.org/t/intermittent-llvm-fatal-error-abort-in-resolverelocation-when-used-from-osl/73225#post_1)
+- [Sized deallocation has been enabled by default in C++14 onwards](https://discourse.llvm.org/t/sized-deallocation-has-been-enabled-by-default-in-c-14-onwards/73099#post_2)
+- [Zero initialization for globals with common linkage](https://discourse.llvm.org/t/zero-initialization-for-globals-with-common-linkage/1762#post_15)
+- [[RFC] Prevent CSE from removing expressions inside some non-`IsolatedFromAbove` operation regions](https://discourse.llvm.org/t/rfc-prevent-cse-from-removing-expressions-inside-some-non-isolatedfromabove-operation-regions/73150#post_8)
 - [[RFC] Upstreaming DSO Instrumentation Support for XRay](https://discourse.llvm.org/t/rfc-upstreaming-dso-instrumentation-support-for-xray/73000#post_2)
-- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_11)
-- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_6)
-- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_10)
-- [LLVM Social Stockholm, Sweden: 27 September 2023](https://discourse.llvm.org/t/llvm-social-stockholm-sweden-27-september-2023/73222#post_1)
 <!-- DISCOURSE-LLVM:END -->
