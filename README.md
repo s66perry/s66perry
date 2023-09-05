@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Split Symbol lookup on remote target](https://discourse.llvm.org/t/split-symbol-lookup-on-remote-target/73258#post_4)
-- [Split Symbol lookup on remote target](https://discourse.llvm.org/t/split-symbol-lookup-on-remote-target/73258#post_3)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_7)
-- [Logistics of the transition to GitHub PRs for libc++/libc++abi/libunwind](https://discourse.llvm.org/t/logistics-of-the-transition-to-github-prs-for-libc-libc-abi-libunwind/73130#post_6)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_6)
+- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_14)
+- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_20)
+- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_13)
+- [Changing __attribute__ AST printing location for GCC compatibility](https://discourse.llvm.org/t/changing-attribute-ast-printing-location-for-gcc-compatibility/73215#post_2)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=5#post_82)
 <!-- DISCOURSE-LLVM:END -->
