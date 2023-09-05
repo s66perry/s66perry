@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_12)
-- [Lowering to FIRRTL dialect](https://discourse.llvm.org/t/lowering-to-firrtl-dialect/73219#post_3)
-- [Hand-written in assembly in libc, setjmp+longjmp](https://discourse.llvm.org/t/hand-written-in-assembly-in-libc-setjmp-longjmp/73249#post_3)
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_11)
-- [Hand-written in assembly in libc, setjmp+longjmp](https://discourse.llvm.org/t/hand-written-in-assembly-in-libc-setjmp-longjmp/73249#post_2)
+- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_6)
+- [Split Symbol lookup on remote target](https://discourse.llvm.org/t/split-symbol-lookup-on-remote-target/73258#post_2)
+- [Split Symbol lookup on remote target](https://discourse.llvm.org/t/split-symbol-lookup-on-remote-target/73258#post_1)
+- [RFC: Improved VPlan-native Path](https://discourse.llvm.org/t/rfc-improved-vplan-native-path/73152#post_3)
+- [LLVM 17.0.0-rc4 released!](https://discourse.llvm.org/t/llvm-17-0-0-rc4-released/73257#post_1)
 <!-- DISCOURSE-LLVM:END -->
