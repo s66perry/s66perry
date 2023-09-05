@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_8)
+- [[RFC] Upstreaming DSO Instrumentation Support for XRay](https://discourse.llvm.org/t/rfc-upstreaming-dso-instrumentation-support-for-xray/73000#post_3)
+- [[analyzer] Bugzilla Database Cleanup Policy](https://discourse.llvm.org/t/analyzer-bugzilla-database-cleanup-policy/57287#post_9)
+- [RFC: Support specifying checks as a list in the config file](https://discourse.llvm.org/t/rfc-support-specifying-checks-as-a-list-in-the-config-file/69856#post_9)
 - [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_8)
-- [Hand-written in assembly in libc, setjmp+longjmp](https://discourse.llvm.org/t/hand-written-in-assembly-in-libc-setjmp-longjmp/73249#post_4)
-- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_7)
-- [[RFC][UEFI][Driver] Support UEFI target](https://discourse.llvm.org/t/rfc-uefi-driver-support-uefi-target/73261#post_1)
-- [LLVMCAS Upstreaming](https://discourse.llvm.org/t/llvmcas-upstreaming/72696#post_8)
 <!-- DISCOURSE-LLVM:END -->
