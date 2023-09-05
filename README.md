@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can I define 21-bit long instructions with TableGen?](https://discourse.llvm.org/t/can-i-define-21-bit-long-instructions-with-tablegen/73246#post_1)
-- [Named Location and Fused Location](https://discourse.llvm.org/t/named-location-and-fused-location/73243#post_1)
-- [Is installing llvm through exe better than biulding it for making compilers?](https://discourse.llvm.org/t/is-installing-llvm-through-exe-better-than-biulding-it-for-making-compilers/73238#post_2)
-- [LLD Code coverage issue](https://discourse.llvm.org/t/lld-code-coverage-issue/73232#post_3)
-- [PerfJITEventListener needs perf-&lt;pid&gt;.map?](https://discourse.llvm.org/t/perfjiteventlistener-needs-perf-pid-map/55114#post_6)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_32)
+- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_6)
+- [AMD Cologne is hiring - LLVM Compiler Engineers](https://discourse.llvm.org/t/amd-cologne-is-hiring-llvm-compiler-engineers/73248#post_1)
+- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_2)
+- [[Ask LLVM] Who&#39;s Hiring? &lpar;Jan &#39;23&rpar;](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
