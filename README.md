@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_14)
-- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453#post_20)
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_13)
-- [Changing __attribute__ AST printing location for GCC compatibility](https://discourse.llvm.org/t/changing-attribute-ast-printing-location-for-gcc-compatibility/73215#post_2)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=5#post_82)
+- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_2)
+- [Split Symbol lookup on remote target](https://discourse.llvm.org/t/split-symbol-lookup-on-remote-target/73258#post_5)
+- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_1)
+- [Why two variants of every constructor are created by the compiler?](https://discourse.llvm.org/t/why-two-variants-of-every-constructor-are-created-by-the-compiler/73255#post_3)
+- [Why two variants of every constructor are created by the compiler?](https://discourse.llvm.org/t/why-two-variants-of-every-constructor-are-created-by-the-compiler/73255#post_2)
 <!-- DISCOURSE-LLVM:END -->
