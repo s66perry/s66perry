@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_7)
-- [Clang-format streaming operators &lpar;&lt;&lt;&rpar;](https://discourse.llvm.org/t/clang-format-streaming-operators/73252#post_1)
-- [RFC: Improved VPlan-native Path](https://discourse.llvm.org/t/rfc-improved-vplan-native-path/73152#post_2)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_33)
-- [Handshake FuncOp creation](https://discourse.llvm.org/t/handshake-funcop-creation/73250#post_1)
+- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_12)
+- [Lowering to FIRRTL dialect](https://discourse.llvm.org/t/lowering-to-firrtl-dialect/73219#post_3)
+- [Hand-written in assembly in libc, setjmp+longjmp](https://discourse.llvm.org/t/hand-written-in-assembly-in-libc-setjmp-longjmp/73249#post_3)
+- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973#post_11)
+- [Hand-written in assembly in libc, setjmp+longjmp](https://discourse.llvm.org/t/hand-written-in-assembly-in-libc-setjmp-longjmp/73249#post_2)
 <!-- DISCOURSE-LLVM:END -->
