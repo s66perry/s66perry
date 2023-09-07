@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_91)
+- [Reviews.llvm.org read-only mode](https://discourse.llvm.org/t/reviews-llvm-org-read-only-mode/73289#post_6)
 - [Reviews.llvm.org read-only mode](https://discourse.llvm.org/t/reviews-llvm-org-read-only-mode/73289#post_5)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_90)
 - [Break in gdb](https://discourse.llvm.org/t/break-in-gdb/73210#post_9)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_89)
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_11)
 <!-- DISCOURSE-LLVM:END -->
