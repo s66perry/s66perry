@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_7)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_56)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_86)
-- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_4)
-- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_3)
+- [Reviews.llvm.org read-only mode](https://discourse.llvm.org/t/reviews-llvm-org-read-only-mode/73289#post_5)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_90)
+- [Break in gdb](https://discourse.llvm.org/t/break-in-gdb/73210#post_9)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_89)
+- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_11)
 <!-- DISCOURSE-LLVM:END -->
