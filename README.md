@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_8)
-- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_19)
-- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_6)
-- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_18)
-- [SLP vectorize not working](https://discourse.llvm.org/t/slp-vectorize-not-working/73309#post_1)
+- [Use, user, value](https://discourse.llvm.org/t/use-user-value/73298#post_3)
+- [[IR] value name &amp; AsmPrinter](https://discourse.llvm.org/t/ir-value-name-asmprinter/73297#post_3)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_84)
+- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_54)
+- [Link to the PR in commit messages](https://discourse.llvm.org/t/link-to-the-pr-in-commit-messages/73310#post_1)
 <!-- DISCOURSE-LLVM:END -->
