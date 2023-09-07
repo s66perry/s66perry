@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_83)
+- [Use, user, value](https://discourse.llvm.org/t/use-user-value/73298#post_2)
 - [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_52)
 - [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_4)
 - [__builtin_assume with complex condition not working](https://discourse.llvm.org/t/builtin-assume-with-complex-condition-not-working/73267#post_9)
-- [Use, user, value](https://discourse.llvm.org/t/use-user-value/73298#post_1)
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_3)
 <!-- DISCOURSE-LLVM:END -->
