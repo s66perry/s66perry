@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Building the Compiler-RT Builtins for the New X86 half float ABI on Windows](https://discourse.llvm.org/t/building-the-compiler-rt-builtins-for-the-new-x86-half-float-abi-on-windows/73292#post_4)
-- [Building the Compiler-RT Builtins for the New X86 half float ABI on Windows](https://discourse.llvm.org/t/building-the-compiler-rt-builtins-for-the-new-x86-half-float-abi-on-windows/73292#post_3)
-- [Building the Compiler-RT Builtins for the New X86 half float ABI on Windows](https://discourse.llvm.org/t/building-the-compiler-rt-builtins-for-the-new-x86-half-float-abi-on-windows/73292#post_2)
-- [Usage of `DependenceAnalysis` pass](https://discourse.llvm.org/t/usage-of-dependenceanalysis-pass/73306#post_1)
-- [LLVM 17.0.0-rc4 tagged](https://discourse.llvm.org/t/llvm-17-0-0-rc4-tagged/73256#post_6)
+- [Implementing modulo variable expansion for MachinePipeliner](https://discourse.llvm.org/t/implementing-modulo-variable-expansion-for-machinepipeliner/71748#post_8)
+- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_19)
+- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_6)
+- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_18)
+- [SLP vectorize not working](https://discourse.llvm.org/t/slp-vectorize-not-working/73309#post_1)
 <!-- DISCOURSE-LLVM:END -->
