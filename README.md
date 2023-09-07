@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_17)
-- [How to Generate Non-Coherent Loads on a GPU Backend?](https://discourse.llvm.org/t/how-to-generate-non-coherent-loads-on-a-gpu-backend/73275#post_3)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_83)
-- [Use, user, value](https://discourse.llvm.org/t/use-user-value/73298#post_2)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_52)
+- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_8)
+- [Lowering to FIRRTL dialect: lowering to FModuleOp from an Op that does not have clock and reset ports](https://discourse.llvm.org/t/lowering-to-firrtl-dialect-lowering-to-fmoduleop-from-an-op-that-does-not-have-clock-and-reset-ports/73285#post_3)
+- [LLVM 17.0.0-rc4 tagged](https://discourse.llvm.org/t/llvm-17-0-0-rc4-tagged/73256#post_5)
+- [Office Hour / Helpline for GitHub Pull Requests](https://discourse.llvm.org/t/office-hour-helpline-for-github-pull-requests/73145#post_12)
+- [Firtool creates empty .sv files when it is passed &quot;-o=.&quot;](https://discourse.llvm.org/t/firtool-creates-empty-sv-files-when-it-is-passed-o/73302#post_1)
 <!-- DISCOURSE-LLVM:END -->
