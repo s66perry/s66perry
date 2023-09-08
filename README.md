@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_11)
-- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_10)
-- [LLVM semantics vs mmap/munmap](https://discourse.llvm.org/t/llvm-semantics-vs-mmap-munmap/73330#post_1)
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_14)
-- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260#post_20)
+- [Convention for merging outside contributions with GitHub PRs?](https://discourse.llvm.org/t/convention-for-merging-outside-contributions-with-github-prs/73333#post_2)
+- [Why is the pass for loop dominant in SCF/transform?](https://discourse.llvm.org/t/why-is-the-pass-for-loop-dominant-in-scf-transform/73334#post_1)
+- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_10)
+- [Convention for merging outside contributions with GitHub PRs?](https://discourse.llvm.org/t/convention-for-merging-outside-contributions-with-github-prs/73333#post_1)
+- [Break in gdb](https://discourse.llvm.org/t/break-in-gdb/73210#post_10)
 <!-- DISCOURSE-LLVM:END -->
