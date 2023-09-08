@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can lld work with msvc?](https://discourse.llvm.org/t/can-lld-work-with-msvc/73317#post_1)
-- [Traverse order of Operations](https://discourse.llvm.org/t/traverse-order-of-operations/73312#post_2)
-- [Link to the PR in commit messages](https://discourse.llvm.org/t/link-to-the-pr-in-commit-messages/73310#post_3)
-- [Link to the PR in commit messages](https://discourse.llvm.org/t/link-to-the-pr-in-commit-messages/73310#post_2)
-- [Preventing bidirectional scheduler from only scheduling in one direction](https://discourse.llvm.org/t/preventing-bidirectional-scheduler-from-only-scheduling-in-one-direction/73314#post_1)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_103)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_102)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_101)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_100)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=5#post_99)
 <!-- DISCOURSE-LLVM:END -->
