@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [how to compile libs?](https://discourse.llvm.org/t/how-to-compile-libs/73323#post_1)
 - [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138?page=2#post_23)
 - [SLP vectorize not working](https://discourse.llvm.org/t/slp-vectorize-not-working/73309#post_5)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_104)
 - [SLP vectorize not working](https://discourse.llvm.org/t/slp-vectorize-not-working/73309#post_4)
-- [Link to the PR in commit messages](https://discourse.llvm.org/t/link-to-the-pr-in-commit-messages/73310#post_4)
 <!-- DISCOURSE-LLVM:END -->
