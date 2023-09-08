@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Preventing bidirectional scheduler from only scheduling in one direction](https://discourse.llvm.org/t/preventing-bidirectional-scheduler-from-only-scheduling-in-one-direction/73314#post_2)
-- [Commits by author not shown](https://discourse.llvm.org/t/commits-by-author-not-shown/73335#post_1)
-- [Convention for merging outside contributions with GitHub PRs?](https://discourse.llvm.org/t/convention-for-merging-outside-contributions-with-github-prs/73333#post_4)
-- [Convention for merging outside contributions with GitHub PRs?](https://discourse.llvm.org/t/convention-for-merging-outside-contributions-with-github-prs/73333#post_3)
-- [Convention for merging outside contributions with GitHub PRs?](https://discourse.llvm.org/t/convention-for-merging-outside-contributions-with-github-prs/73333#post_2)
+- [Traverse order of Operations](https://discourse.llvm.org/t/traverse-order-of-operations/73312#post_3)
+- [how to compile libs?](https://discourse.llvm.org/t/how-to-compile-libs/73323#post_3)
+- [how to compile libs?](https://discourse.llvm.org/t/how-to-compile-libs/73323#post_2)
+- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_7)
+- [Llvm test - lit](https://discourse.llvm.org/t/llvm-test-lit/73337#post_1)
 <!-- DISCOURSE-LLVM:END -->
