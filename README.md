@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_120)
-- [Splitting #github channel](https://discourse.llvm.org/t/splitting-github-channel/73346#post_5)
-- [Seeking Guidance on Resolving Issues with Custom MLIR Frontend and Dialect Registration](https://discourse.llvm.org/t/seeking-guidance-on-resolving-issues-with-custom-mlir-frontend-and-dialect-registration/73347#post_1)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_119)
-- [Splitting #github channel](https://discourse.llvm.org/t/splitting-github-channel/73346#post_4)
+- [Seeking Guidance on Resolving Issues with Custom MLIR Frontend and Dialect Registration](https://discourse.llvm.org/t/seeking-guidance-on-resolving-issues-with-custom-mlir-frontend-and-dialect-registration/73347#post_7)
+- [Seeking Guidance on Resolving Issues with Custom MLIR Frontend and Dialect Registration](https://discourse.llvm.org/t/seeking-guidance-on-resolving-issues-with-custom-mlir-frontend-and-dialect-registration/73347#post_6)
+- [Seeking Guidance on Resolving Issues with Custom MLIR Frontend and Dialect Registration](https://discourse.llvm.org/t/seeking-guidance-on-resolving-issues-with-custom-mlir-frontend-and-dialect-registration/73347#post_5)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_122)
+- [Create an Intrinsic that is not removed during SelectionDAG process](https://discourse.llvm.org/t/create-an-intrinsic-that-is-not-removed-during-selectiondag-process/73344#post_3)
 <!-- DISCOURSE-LLVM:END -->
