@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Firtool - how do I remove the header?](https://discourse.llvm.org/t/firtool-how-do-i-remove-the-header/73339#post_1)
+- [SLP vectorize not working](https://discourse.llvm.org/t/slp-vectorize-not-working/73309#post_6)
 - [Traverse order of Operations](https://discourse.llvm.org/t/traverse-order-of-operations/73312#post_3)
 - [how to compile libs?](https://discourse.llvm.org/t/how-to-compile-libs/73323#post_3)
 - [how to compile libs?](https://discourse.llvm.org/t/how-to-compile-libs/73323#post_2)
-- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_7)
-- [Llvm test - lit](https://discourse.llvm.org/t/llvm-test-lit/73337#post_1)
 <!-- DISCOURSE-LLVM:END -->
