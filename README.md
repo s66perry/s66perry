@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Prevent CSE from removing expressions inside some non-`IsolatedFromAbove` operation regions](https://discourse.llvm.org/t/rfc-prevent-cse-from-removing-expressions-inside-some-non-isolatedfromabove-operation-regions/73150#post_20)
-- [Hand-written in assembly in libc, setjmp+longjmp](https://discourse.llvm.org/t/hand-written-in-assembly-in-libc-setjmp-longjmp/73249#post_19)
-- [[RFC] Prevent CSE from removing expressions inside some non-`IsolatedFromAbove` operation regions](https://discourse.llvm.org/t/rfc-prevent-cse-from-removing-expressions-inside-some-non-isolatedfromabove-operation-regions/73150#post_19)
-- [Splitting #github channel](https://discourse.llvm.org/t/splitting-github-channel/73346#post_2)
-- [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138?page=2#post_24)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_120)
+- [Splitting #github channel](https://discourse.llvm.org/t/splitting-github-channel/73346#post_5)
+- [Seeking Guidance on Resolving Issues with Custom MLIR Frontend and Dialect Registration](https://discourse.llvm.org/t/seeking-guidance-on-resolving-issues-with-custom-mlir-frontend-and-dialect-registration/73347#post_1)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=6#post_119)
+- [Splitting #github channel](https://discourse.llvm.org/t/splitting-github-channel/73346#post_4)
 <!-- DISCOURSE-LLVM:END -->
