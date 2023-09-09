@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Renaming Arith&#39;s `maxf` and `minf` Operations](https://discourse.llvm.org/t/psa-renaming-ariths-maxf-and-minf-operations/73353#post_1)
 - [Use, user, value](https://discourse.llvm.org/t/use-user-value/73298#post_7)
 - [Usage of `DependenceAnalysis` pass](https://discourse.llvm.org/t/usage-of-dependenceanalysis-pass/73306#post_2)
 - [Use, user, value](https://discourse.llvm.org/t/use-user-value/73298#post_6)
 - [Use, user, value](https://discourse.llvm.org/t/use-user-value/73298#post_5)
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_15)
 <!-- DISCOURSE-LLVM:END -->
