@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_3)
-- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_2)
-- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_1)
-- [Help with issues labeling](https://discourse.llvm.org/t/help-with-issues-labeling/73356#post_2)
-- [LLVM semantics vs mmap/munmap](https://discourse.llvm.org/t/llvm-semantics-vs-mmap-munmap/73330#post_5)
+- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_6)
+- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_5)
+- [[RFC] Diagnosing use of VLAs in C++](https://discourse.llvm.org/t/rfc-diagnosing-use-of-vlas-in-c/73109#post_7)
+- [Tosa.reciprocal&#39; op operand #0 must be tensor of number values, but got &#39;tensor&lt;f64&gt;&#39;](https://discourse.llvm.org/t/tosa-reciprocal-op-operand-0-must-be-tensor-of-number-values-but-got-tensor-f64/73358#post_1)
+- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_4)
 <!-- DISCOURSE-LLVM:END -->
