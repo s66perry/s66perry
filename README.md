@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Low-bit LLVM logo](https://discourse.llvm.org/t/low-bit-llvm-logo/73217#post_3)
+- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357?page=2#post_25)
+- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357?page=2#post_24)
 - [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357?page=2#post_23)
 - [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357?page=2#post_22)
-- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357?page=2#post_21)
-- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_20)
-- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357#post_19)
 <!-- DISCOURSE-LLVM:END -->
