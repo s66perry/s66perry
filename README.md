@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Phabricator not working for at least one review](https://discourse.llvm.org/t/phabricator-not-working-for-at-least-one-review/73368#post_3)
+- [Phabricator not working for at least one review](https://discourse.llvm.org/t/phabricator-not-working-for-at-least-one-review/73368#post_2)
+- [How to Generate Non-Coherent Loads on a GPU Backend?](https://discourse.llvm.org/t/how-to-generate-non-coherent-loads-on-a-gpu-backend/73275#post_6)
+- [Phabricator not working for at least one review](https://discourse.llvm.org/t/phabricator-not-working-for-at-least-one-review/73368#post_1)
 - [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_16)
-- [Splitting #github channel](https://discourse.llvm.org/t/splitting-github-channel/73346#post_6)
-- [Issue with adding 72 bit registers](https://discourse.llvm.org/t/issue-with-adding-72-bit-registers/73364#post_1)
-- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257#post_20)
-- [Unable to use memory sanitizer](https://discourse.llvm.org/t/unable-to-use-memory-sanitizer/73360#post_3)
 <!-- DISCOURSE-LLVM:END -->
