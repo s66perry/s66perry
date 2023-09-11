@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Phabricator not working for at least one review](https://discourse.llvm.org/t/phabricator-not-working-for-at-least-one-review/73368#post_3)
-- [Phabricator not working for at least one review](https://discourse.llvm.org/t/phabricator-not-working-for-at-least-one-review/73368#post_2)
-- [How to Generate Non-Coherent Loads on a GPU Backend?](https://discourse.llvm.org/t/how-to-generate-non-coherent-loads-on-a-gpu-backend/73275#post_6)
-- [Phabricator not working for at least one review](https://discourse.llvm.org/t/phabricator-not-working-for-at-least-one-review/73368#post_1)
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_16)
+- [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_2)
+- [Tosa.reciprocal&#39; op operand #0 must be tensor of number values, but got &#39;tensor&lt;f64&gt;&#39;](https://discourse.llvm.org/t/tosa-reciprocal-op-operand-0-must-be-tensor-of-number-values-but-got-tensor-f64/73358#post_5)
+- [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138?page=2#post_29)
+- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_10)
+- [Tosa.reciprocal&#39; op operand #0 must be tensor of number values, but got &#39;tensor&lt;f64&gt;&#39;](https://discourse.llvm.org/t/tosa-reciprocal-op-operand-0-must-be-tensor-of-number-values-but-got-tensor-f64/73358#post_4)
 <!-- DISCOURSE-LLVM:END -->
