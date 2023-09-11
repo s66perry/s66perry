@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_2)
-- [Tosa.reciprocal&#39; op operand #0 must be tensor of number values, but got &#39;tensor&lt;f64&gt;&#39;](https://discourse.llvm.org/t/tosa-reciprocal-op-operand-0-must-be-tensor-of-number-values-but-got-tensor-f64/73358#post_5)
-- [[FP] Constant folding of floating-point operations](https://discourse.llvm.org/t/fp-constant-folding-of-floating-point-operations/73138?page=2#post_29)
-- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_10)
-- [Tosa.reciprocal&#39; op operand #0 must be tensor of number values, but got &#39;tensor&lt;f64&gt;&#39;](https://discourse.llvm.org/t/tosa-reciprocal-op-operand-0-must-be-tensor-of-number-values-but-got-tensor-f64/73358#post_4)
+- [Phabricator not working for at least one review](https://discourse.llvm.org/t/phabricator-not-working-for-at-least-one-review/73368#post_4)
+- [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_4)
+- [LLVM Embedded Toolchains Working Group call this Thursday 14th of September](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-14th-of-september/73373#post_1)
+- [TableGen machine code emitter backend](https://discourse.llvm.org/t/tablegen-machine-code-emitter-backend/57052#post_4)
+- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
