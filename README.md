@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issue with adding 72 bit registers](https://discourse.llvm.org/t/issue-with-adding-72-bit-registers/73364#post_3)
-- [Preventing bidirectional scheduler from only scheduling in one direction](https://discourse.llvm.org/t/preventing-bidirectional-scheduler-from-only-scheduling-in-one-direction/73314#post_4)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=3#post_60)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_14)
-- [LLVM semantics vs mmap/munmap](https://discourse.llvm.org/t/llvm-semantics-vs-mmap-munmap/73330#post_10)
+- [[PSA] Deprecattion of gpu::Serialization* passes](https://discourse.llvm.org/t/psa-deprecattion-of-gpu-serialization-passes/73383#post_1)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=4#post_62)
+- [How to add a custom LTO &lpar;Link Time Optimization&rpar; Pass &lpar;for WebAssembly&rpar;?](https://discourse.llvm.org/t/how-to-add-a-custom-lto-link-time-optimization-pass-for-webassembly/73357?page=2#post_31)
+- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=4#post_61)
+- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
