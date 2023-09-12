@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_18)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_17)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_47)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_16)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_15)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_126)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_125)
+- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296?page=2#post_28)
+- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391?page=2#post_24)
+- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
