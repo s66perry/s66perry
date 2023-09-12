@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_39)
+- [RFC: Decomposing deref&lpar;N&rpar; into deref&lpar;N&rpar; + nofree](https://discourse.llvm.org/t/rfc-decomposing-deref-n-into-deref-n-nofree/57873#post_12)
 - [LLVM semantics vs mmap/munmap](https://discourse.llvm.org/t/llvm-semantics-vs-mmap-munmap/73330#post_13)
 - [LLVM semantics vs mmap/munmap](https://discourse.llvm.org/t/llvm-semantics-vs-mmap-munmap/73330#post_12)
 - [LLVM semantics vs mmap/munmap](https://discourse.llvm.org/t/llvm-semantics-vs-mmap-munmap/73330#post_11)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_38)
-- [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_5)
 <!-- DISCOURSE-LLVM:END -->
