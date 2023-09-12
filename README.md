@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401#post_1)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_43)
+- [Clang++ for wasm32 and the basic C++ libs](https://discourse.llvm.org/t/clang-for-wasm32-and-the-basic-c-libs/73394#post_3)
+- [Clang++ for wasm32 and the basic C++ libs](https://discourse.llvm.org/t/clang-for-wasm32-and-the-basic-c-libs/73394#post_2)
 - [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296?page=2#post_22)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_11)
-- [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697?page=2#post_21)
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296?page=2#post_21)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_124)
 <!-- DISCOURSE-LLVM:END -->
