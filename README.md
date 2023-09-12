@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Some Tips for Me](https://discourse.llvm.org/t/some-tips-for-me/2676#post_13)
 - [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973?page=2#post_29)
 - [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_8)
 - [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973?page=2#post_28)
 - [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_7)
-- [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_6)
 <!-- DISCOURSE-LLVM:END -->
