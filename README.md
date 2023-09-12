@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[IR] value name &amp; AsmPrinter](https://discourse.llvm.org/t/ir-value-name-asmprinter/73297#post_6)
-- [[RFC] Prevent CSE from removing expressions inside some non-`IsolatedFromAbove` operation regions](https://discourse.llvm.org/t/rfc-prevent-cse-from-removing-expressions-inside-some-non-isolatedfromabove-operation-regions/73150?page=2#post_23)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_8)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_7)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_6)
+- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296?page=2#post_22)
+- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391#post_11)
+- [[RFC] Lifetime Annotations of Memory Within MLIR](https://discourse.llvm.org/t/rfc-lifetime-annotations-of-memory-within-mlir/72697?page=2#post_21)
+- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296?page=2#post_21)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_124)
 <!-- DISCOURSE-LLVM:END -->
