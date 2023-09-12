@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Updating GoogleTest to v1.14.0?](https://discourse.llvm.org/t/updating-googletest-to-v1-14-0/72973?page=2#post_28)
+- [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_7)
+- [What&#39;s the purpose of PDL pattern?](https://discourse.llvm.org/t/whats-the-purpose-of-pdl-pattern/73369#post_6)
+- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296#post_18)
 - [Thread affinity in affine.parallel](https://discourse.llvm.org/t/thread-affinity-in-affine-parallel/73386#post_1)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_15)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=2#post_39)
-- [RFC: Decomposing deref&lpar;N&rpar; into deref&lpar;N&rpar; + nofree](https://discourse.llvm.org/t/rfc-decomposing-deref-n-into-deref-n-nofree/57873#post_12)
-- [LLVM semantics vs mmap/munmap](https://discourse.llvm.org/t/llvm-semantics-vs-mmap-munmap/73330#post_13)
 <!-- DISCOURSE-LLVM:END -->
