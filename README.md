@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Decomposing deref&lpar;N&rpar; into deref&lpar;N&rpar; + nofree](https://discourse.llvm.org/t/rfc-decomposing-deref-n-into-deref-n-nofree/57873#post_14)
+- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_12)
+- [SparseDataFlowAnalysis don&#39;t visit linalg.generic operation](https://discourse.llvm.org/t/sparsedataflowanalysis-dont-visit-linalg-generic-operation/73421#post_5)
 - [SparseDataFlowAnalysis don&#39;t visit linalg.generic operation](https://discourse.llvm.org/t/sparsedataflowanalysis-dont-visit-linalg-generic-operation/73421#post_4)
 - [SparseDataFlowAnalysis don&#39;t visit linalg.generic operation](https://discourse.llvm.org/t/sparsedataflowanalysis-dont-visit-linalg-generic-operation/73421#post_3)
-- [SparseDataFlowAnalysis don&#39;t visit linalg.generic operation](https://discourse.llvm.org/t/sparsedataflowanalysis-dont-visit-linalg-generic-operation/73421#post_2)
-- [SparseDataFlowAnalysis don&#39;t visit linalg.generic operation](https://discourse.llvm.org/t/sparsedataflowanalysis-dont-visit-linalg-generic-operation/73421#post_1)
-- [OpTrait Inheritance should be discouraged?](https://discourse.llvm.org/t/optrait-inheritance-should-be-discouraged/73100#post_7)
 <!-- DISCOURSE-LLVM:END -->
