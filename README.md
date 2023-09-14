@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_3)
+- [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_2)
+- [How to debug getUserCost function](https://discourse.llvm.org/t/how-to-debug-getusercost-function/73438#post_4)
 - [How to debug getUserCost function](https://discourse.llvm.org/t/how-to-debug-getusercost-function/73438#post_3)
 - [Issue with adding 72 bit registers](https://discourse.llvm.org/t/issue-with-adding-72-bit-registers/73364#post_16)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_35)
-- [How to debug getUserCost function](https://discourse.llvm.org/t/how-to-debug-getusercost-function/73438#post_2)
-- [Changes to Pull Request Subscription System](https://discourse.llvm.org/t/changes-to-pull-request-subscription-system/73296?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
