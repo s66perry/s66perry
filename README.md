@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to run openmp in mlir?](https://discourse.llvm.org/t/how-to-run-openmp-in-mlir/73471#post_3)
-- [How to run openmp in mlir?](https://discourse.llvm.org/t/how-to-run-openmp-in-mlir/73471#post_2)
-- [How to run openmp in mlir?](https://discourse.llvm.org/t/how-to-run-openmp-in-mlir/73471#post_1)
-- [Cache modelling while creating an LLVM backend](https://discourse.llvm.org/t/cache-modelling-while-creating-an-llvm-backend/73469#post_1)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_3)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_8)
+- [Indirect calls with type mismatch](https://discourse.llvm.org/t/indirect-calls-with-type-mismatch/73446#post_6)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_7)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_36)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_6)
 <!-- DISCOURSE-LLVM:END -->
