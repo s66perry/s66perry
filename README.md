@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_25)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_24)
+- [Preventing bidirectional scheduler from only scheduling in one direction](https://discourse.llvm.org/t/preventing-bidirectional-scheduler-from-only-scheduling-in-one-direction/73314#post_8)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_23)
 - [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_22)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_21)
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_4)
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_3)
-- [Is there any specification on the symbol ordering file](https://discourse.llvm.org/t/is-there-any-specification-on-the-symbol-ordering-file/1184#post_3)
 <!-- DISCOURSE-LLVM:END -->
