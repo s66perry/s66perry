@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401#post_7)
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401#post_6)
-- [Move return value to pointer argument](https://discourse.llvm.org/t/move-return-value-to-pointer-argument/73483#post_1)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_10)
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401#post_5)
+- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_16)
+- [Looking to build compiler-rt with ASSERTS](https://discourse.llvm.org/t/looking-to-build-compiler-rt-with-asserts/73485#post_2)
+- [Handshake FuncOp creation](https://discourse.llvm.org/t/handshake-funcop-creation/73250#post_2)
+- [Looking to build compiler-rt with ASSERTS](https://discourse.llvm.org/t/looking-to-build-compiler-rt-with-asserts/73485#post_1)
+- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_3)
 <!-- DISCOURSE-LLVM:END -->
