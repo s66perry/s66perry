@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to run openmp in mlir?](https://discourse.llvm.org/t/how-to-run-openmp-in-mlir/73471#post_3)
+- [How to run openmp in mlir?](https://discourse.llvm.org/t/how-to-run-openmp-in-mlir/73471#post_2)
+- [How to run openmp in mlir?](https://discourse.llvm.org/t/how-to-run-openmp-in-mlir/73471#post_1)
 - [Cache modelling while creating an LLVM backend](https://discourse.llvm.org/t/cache-modelling-while-creating-an-llvm-backend/73469#post_1)
 - [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_3)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_2)
-- [[RFC] OpenMP Offloading Backend for C++ Parallel Algorithms](https://discourse.llvm.org/t/rfc-openmp-offloading-backend-for-c-parallel-algorithms/73468#post_1)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_1)
 <!-- DISCOURSE-LLVM:END -->
