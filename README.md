@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_16)
-- [Looking to build compiler-rt with ASSERTS](https://discourse.llvm.org/t/looking-to-build-compiler-rt-with-asserts/73485#post_2)
-- [Handshake FuncOp creation](https://discourse.llvm.org/t/handshake-funcop-creation/73250#post_2)
-- [Looking to build compiler-rt with ASSERTS](https://discourse.llvm.org/t/looking-to-build-compiler-rt-with-asserts/73485#post_1)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_3)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_14)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_13)
+- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401#post_10)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467#post_12)
+- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_2)
 <!-- DISCOURSE-LLVM:END -->
