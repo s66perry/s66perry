@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to avoid duplicate code in gpu.launch](https://discourse.llvm.org/t/how-to-avoid-duplicate-code-in-gpu-launch/73503#post_1)
 - [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_5)
 - [Stronger floating-point NaN guarantees](https://discourse.llvm.org/t/stronger-floating-point-nan-guarantees/72165?page=4#post_66)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_134)
 - [InstanceOp vs. HWInstanceOp - CIRCT &lpar;fsm dialect&rpar;](https://discourse.llvm.org/t/instanceop-vs-hwinstanceop-circt-fsm-dialect/73500#post_1)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
