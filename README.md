@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error with LLVM Module Generation from C input file](https://discourse.llvm.org/t/error-with-llvm-module-generation-from-c-input-file/73519#post_1)
+- [Can&#39;t compile a basic C++ example after building successfully LLVM on Apple M1 architecture](https://discourse.llvm.org/t/cant-compile-a-basic-c-example-after-building-successfully-llvm-on-apple-m1-architecture/73517#post_1)
 - [Indirect calls with type mismatch](https://discourse.llvm.org/t/indirect-calls-with-type-mismatch/73446#post_7)
 - [Zero Copy openmp offload](https://discourse.llvm.org/t/zero-copy-openmp-offload/73120?page=2#post_27)
 - [How to avoid duplicate code in gpu.launch](https://discourse.llvm.org/t/how-to-avoid-duplicate-code-in-gpu-launch/73503#post_2)
-- [Kaleidoscope Tutorial Chapter 4 compile fails](https://discourse.llvm.org/t/kaleidoscope-tutorial-chapter-4-compile-fails/73514#post_1)
-- [Does Swift&#39;s ARC Utilize Objective-C ARC Intrinsics in LLVM?](https://discourse.llvm.org/t/does-swifts-arc-utilize-objective-c-arc-intrinsics-in-llvm/73509#post_1)
 <!-- DISCOURSE-LLVM:END -->
