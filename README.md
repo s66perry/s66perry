@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_9)
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_8)
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_7)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_28)
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_6)
+- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_18)
+- [How to get struct member name](https://discourse.llvm.org/t/how-to-get-struct-member-name/73522#post_4)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_10)
+- [How to get struct member name](https://discourse.llvm.org/t/how-to-get-struct-member-name/73522#post_3)
+- [How to get struct member name](https://discourse.llvm.org/t/how-to-get-struct-member-name/73522#post_2)
 <!-- DISCOURSE-LLVM:END -->
