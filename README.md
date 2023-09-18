@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391?page=2#post_32)
-- [Phabricator is very slow](https://discourse.llvm.org/t/phabricator-is-very-slow/73132#post_12)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391?page=2#post_31)
-- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391?page=2#post_30)
-- [How to avoid duplicate code in gpu.launch](https://discourse.llvm.org/t/how-to-avoid-duplicate-code-in-gpu-launch/73503#post_3)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_2)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_1)
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_2)
+- [Move return value to pointer argument](https://discourse.llvm.org/t/move-return-value-to-pointer-argument/73483#post_2)
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_1)
 <!-- DISCOURSE-LLVM:END -->
