@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_2)
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_1)
-- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_2)
-- [Move return value to pointer argument](https://discourse.llvm.org/t/move-return-value-to-pointer-argument/73483#post_2)
-- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_1)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_9)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_8)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_7)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_28)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_6)
 <!-- DISCOURSE-LLVM:END -->
