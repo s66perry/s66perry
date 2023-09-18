@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_9)
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_8)
-- [LLVM Weekly - #507, September 18th 2023](https://discourse.llvm.org/t/llvm-weekly-507-september-18th-2023/73530#post_1)
-- [Copy to/from volatile structure](https://discourse.llvm.org/t/copy-to-from-volatile-structure/72278#post_9)
-- [[RFC] Supporting aliases in cyclic types and attributes](https://discourse.llvm.org/t/rfc-supporting-aliases-in-cyclic-types-and-attributes/73236#post_3)
+- [RFC: clang-format github action](https://discourse.llvm.org/t/rfc-clang-format-github-action/73391?page=2#post_33)
+- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_12)
+- [Clang coverage marks ctor as uninstrumented](https://discourse.llvm.org/t/clang-coverage-marks-ctor-as-uninstrumented/73286#post_6)
+- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_11)
+- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_10)
 <!-- DISCOURSE-LLVM:END -->
