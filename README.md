@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_10)
+- [[RFC] Add effect index in memroy effect](https://discourse.llvm.org/t/rfc-add-effect-index-in-memroy-effect/72235#post_7)
+- [LLVM 17.0.1 released!](https://discourse.llvm.org/t/llvm-17-0-1-released/73549#post_4)
+- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_11)
 - [[RFC] Add effect index in memroy effect](https://discourse.llvm.org/t/rfc-add-effect-index-in-memroy-effect/72235#post_6)
-- [Crash when using Pattern Rewriter to update function arguments](https://discourse.llvm.org/t/crash-when-using-pattern-rewriter-to-update-function-arguments/73538#post_4)
-- [Crash when using Pattern Rewriter to update function arguments](https://discourse.llvm.org/t/crash-when-using-pattern-rewriter-to-update-function-arguments/73538#post_3)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=3#post_48)
-- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_20)
 <!-- DISCOURSE-LLVM:END -->
