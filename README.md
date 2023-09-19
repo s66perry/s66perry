@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_38)
-- [How to Rerun buildkite/github-pull-requests](https://discourse.llvm.org/t/how-to-rerun-buildkite-github-pull-requests/73402#post_5)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=2#post_37)
-- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_5)
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_13)
+- [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_8)
+- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_6)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=3#post_41)
+- [[MLIR] Optimizing MLIR’s Presburger library](https://discourse.llvm.org/t/mlir-optimizing-mlir-s-presburger-library/68213#post_10)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533#post_1)
 <!-- DISCOURSE-LLVM:END -->
