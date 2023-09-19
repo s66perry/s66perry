@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_19)
+- [[RFC] OpenMP Offloading Backend for C++ Parallel Algorithms](https://discourse.llvm.org/t/rfc-openmp-offloading-backend-for-c-parallel-algorithms/73468#post_5)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533#post_9)
+- [[RFC] OpenMP Offloading Backend for C++ Parallel Algorithms](https://discourse.llvm.org/t/rfc-openmp-offloading-backend-for-c-parallel-algorithms/73468#post_4)
 - [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_11)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533#post_8)
-- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_7)
-- [Add conversion from memref.alloc to gpu.alloc](https://discourse.llvm.org/t/add-conversion-from-memref-alloc-to-gpu-alloc/73535#post_3)
-- [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_10)
 <!-- DISCOURSE-LLVM:END -->
