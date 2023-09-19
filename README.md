@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=3#post_49)
-- [How to get struct member name](https://discourse.llvm.org/t/how-to-get-struct-member-name/73522#post_6)
-- [CMake error when configuring with CMake](https://discourse.llvm.org/t/cmake-error-when-configuring-with-cmake/73553#post_3)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=3#post_48)
-- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_10)
+- [Updating contribution docs to refer to Gtihub not Phabricator](https://discourse.llvm.org/t/updating-contribution-docs-to-refer-to-gtihub-not-phabricator/73561#post_1)
+- [Llvmbot appears to be spamming the issues with errors](https://discourse.llvm.org/t/llvmbot-appears-to-be-spamming-the-issues-with-errors/73448#post_7)
+- [[RFC] OpenMP Offloading Backend for C++ Parallel Algorithms](https://discourse.llvm.org/t/rfc-openmp-offloading-backend-for-c-parallel-algorithms/73468#post_2)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=3#post_53)
+- [CMake error when configuring with CMake](https://discourse.llvm.org/t/cmake-error-when-configuring-with-cmake/73553#post_4)
 <!-- DISCOURSE-LLVM:END -->
