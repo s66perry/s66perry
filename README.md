@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Build failure on Linux with CMake 3.22 &lpar;libc++.so RPATH_CHANGE&rpar;](https://discourse.llvm.org/t/build-failure-on-linux-with-cmake-3-22-libc-so-rpath-change/59349#post_3)
+- [[RFC] Add effect index in memroy effect](https://discourse.llvm.org/t/rfc-add-effect-index-in-memroy-effect/72235#post_8)
+- [RFC: Deprecating obsolete ObjC features](https://discourse.llvm.org/t/rfc-deprecating-obsolete-objc-features/73560#post_4)
 - [[RFC] New function attribute, optdebug, for prioritizing debuggability in LLVM passes](https://discourse.llvm.org/t/rfc-new-function-attribute-optdebug-for-prioritizing-debuggability-in-llvm-passes/73552#post_8)
 - [Updating contribution docs to refer to Gtihub not Phabricator](https://discourse.llvm.org/t/updating-contribution-docs-to-refer-to-gtihub-not-phabricator/73561#post_2)
-- [[RFC] New function attribute, optdebug, for prioritizing debuggability in LLVM passes](https://discourse.llvm.org/t/rfc-new-function-attribute-optdebug-for-prioritizing-debuggability-in-llvm-passes/73552#post_7)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533#post_7)
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_13)
 <!-- DISCOURSE-LLVM:END -->
