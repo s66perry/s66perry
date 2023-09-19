@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_9)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=3#post_42)
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_6)
 - [[RFC] Design for AVX10 feature support](https://discourse.llvm.org/t/rfc-design-for-avx10-feature-support/72661#post_17)
 - [Compile 128bit custom riscv instructions](https://discourse.llvm.org/t/compile-128bit-custom-riscv-instructions/73418#post_5)
-- [[instcombine] delete the instruction in common branch when the condition is undef](https://discourse.llvm.org/t/instcombine-delete-the-instruction-in-common-branch-when-the-condition-is-undef/73536#post_1)
-- [How to build linalg.BatchMatmulOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-batchmatmulop-in-mlir-pybind/73494#post_2)
-- [How to get struct member name](https://discourse.llvm.org/t/how-to-get-struct-member-name/73522#post_5)
 <!-- DISCOURSE-LLVM:END -->
