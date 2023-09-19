@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Move return value to pointer argument](https://discourse.llvm.org/t/move-return-value-to-pointer-argument/73483#post_4)
-- [CMake error when configuring with CMake](https://discourse.llvm.org/t/cmake-error-when-configuring-with-cmake/73553#post_2)
-- [CMake error when configuring with CMake](https://discourse.llvm.org/t/cmake-error-when-configuring-with-cmake/73553#post_1)
-- [[RFC] New function attribute, optdebug, for prioritizing debuggability in LLVM passes](https://discourse.llvm.org/t/rfc-new-function-attribute-optdebug-for-prioritizing-debuggability-in-llvm-passes/73552#post_1)
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_14)
+- [[RFC] Add effect index in memroy effect](https://discourse.llvm.org/t/rfc-add-effect-index-in-memroy-effect/72235#post_6)
+- [Crash when using Pattern Rewriter to update function arguments](https://discourse.llvm.org/t/crash-when-using-pattern-rewriter-to-update-function-arguments/73538#post_4)
+- [Crash when using Pattern Rewriter to update function arguments](https://discourse.llvm.org/t/crash-when-using-pattern-rewriter-to-update-function-arguments/73538#post_3)
+- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=3#post_48)
+- [[RFC][OpenMP] Adding `omp.structured_region`](https://discourse.llvm.org/t/rfc-openmp-adding-omp-structured-region/73228#post_20)
 <!-- DISCOURSE-LLVM:END -->
