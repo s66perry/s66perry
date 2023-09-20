@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] tblgen-to-irdl tool](https://discourse.llvm.org/t/rfc-tblgen-to-irdl-tool/73578#post_7)
-- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_8)
-- [Help with buildsystem](https://discourse.llvm.org/t/help-with-buildsystem/73546#post_8)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_136)
-- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_17)
+- [2023 LLVM Developers&#39; Meeting - Round tables and Registration Updates](https://discourse.llvm.org/t/2023-llvm-developers-meeting-round-tables-and-registration-updates/73601#post_1)
+- [Tutorial: testing libc in riscv32 qemu](https://discourse.llvm.org/t/tutorial-testing-libc-in-riscv32-qemu/70356#post_4)
+- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_19)
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_14)
+- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_18)
 <!-- DISCOURSE-LLVM:END -->
