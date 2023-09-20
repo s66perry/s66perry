@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to choose the dialects to compile which is used in python](https://discourse.llvm.org/t/how-to-choose-the-dialects-to-compile-which-is-used-in-python/73575#post_1)
+- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_4)
 - [Help with buildsystem](https://discourse.llvm.org/t/help-with-buildsystem/73546#post_7)
 - [Help with buildsystem](https://discourse.llvm.org/t/help-with-buildsystem/73546#post_6)
 - [How to get struct member name](https://discourse.llvm.org/t/how-to-get-struct-member-name/73522#post_7)
-- [Fixing CRT Allocator Support on Windows?](https://discourse.llvm.org/t/fixing-crt-allocator-support-on-windows/73525#post_14)
-- [Help with buildsystem](https://discourse.llvm.org/t/help-with-buildsystem/73546#post_5)
 <!-- DISCOURSE-LLVM:END -->
