@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Create an Intrinsic that is not removed during SelectionDAG process](https://discourse.llvm.org/t/create-an-intrinsic-that-is-not-removed-during-selectiondag-process/73344#post_10)
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_20)
-- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_19)
-- [[RFC] tblgen-to-irdl tool](https://discourse.llvm.org/t/rfc-tblgen-to-irdl-tool/73578#post_6)
-- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_12)
+- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_15)
+- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_14)
+- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_13)
+- [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545#post_12)
+- [LLVM 17.0.1 released!](https://discourse.llvm.org/t/llvm-17-0-1-released/73549#post_6)
 <!-- DISCOURSE-LLVM:END -->
