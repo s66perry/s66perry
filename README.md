@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_1)
-- [RFC: Improving lit&#39;s debug output](https://discourse.llvm.org/t/rfc-improving-lits-debug-output/72839?page=3#post_58)
-- [[RFC] tblgen-to-irdl tool](https://discourse.llvm.org/t/rfc-tblgen-to-irdl-tool/73578#post_4)
-- [[RFC] tblgen-to-irdl tool](https://discourse.llvm.org/t/rfc-tblgen-to-irdl-tool/73578#post_3)
-- [[RFC] MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409?page=3#post_52)
+- [Create an Intrinsic that is not removed during SelectionDAG process](https://discourse.llvm.org/t/create-an-intrinsic-that-is-not-removed-during-selectiondag-process/73344#post_10)
+- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_20)
+- [Documentation for triaging Github issues?](https://discourse.llvm.org/t/documentation-for-triaging-github-issues/73487#post_19)
+- [[RFC] tblgen-to-irdl tool](https://discourse.llvm.org/t/rfc-tblgen-to-irdl-tool/73578#post_6)
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_12)
 <!-- DISCOURSE-LLVM:END -->
