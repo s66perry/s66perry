@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=7#post_123)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=4#post_64)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=7#post_122)
+- [RFC: Deprecating obsolete ObjC features](https://discourse.llvm.org/t/rfc-deprecating-obsolete-objc-features/73560#post_5)
 - [How to choose the dialects to compile which is used in python](https://discourse.llvm.org/t/how-to-choose-the-dialects-to-compile-which-is-used-in-python/73575#post_1)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_4)
-- [Help with buildsystem](https://discourse.llvm.org/t/help-with-buildsystem/73546#post_7)
-- [Help with buildsystem](https://discourse.llvm.org/t/help-with-buildsystem/73546#post_6)
-- [How to get struct member name](https://discourse.llvm.org/t/how-to-get-struct-member-name/73522#post_7)
 <!-- DISCOURSE-LLVM:END -->
