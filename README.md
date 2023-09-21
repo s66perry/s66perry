@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Bufferization: New Buffer Deallocation Pipeline](https://discourse.llvm.org/t/psa-bufferization-new-buffer-deallocation-pipeline/73375#post_6)
+- [LLVM 17.0.1 woa64 build](https://discourse.llvm.org/t/llvm-17-0-1-woa64-build/73602#post_2)
+- [Clang Intermediate Language](https://discourse.llvm.org/t/clang-intermediate-language/51268#post_6)
 - [Keywords and language standard](https://discourse.llvm.org/t/keywords-and-language-standard/73609#post_2)
 - [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_1)
-- [Clang Intermediate Language](https://discourse.llvm.org/t/clang-intermediate-language/51268#post_5)
-- [Clang Intermediate Language](https://discourse.llvm.org/t/clang-intermediate-language/51268#post_4)
-- [How to get debug location at MCCodeEmitter when source file is a C file or bitcode file?](https://discourse.llvm.org/t/how-to-get-debug-location-at-mccodeemitter-when-source-file-is-a-c-file-or-bitcode-file/73611#post_1)
 <!-- DISCOURSE-LLVM:END -->
