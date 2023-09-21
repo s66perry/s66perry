@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to test register pressure](https://discourse.llvm.org/t/how-to-test-register-pressure/73624#post_2)
+- [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_11)
 - [How to get all struct and it&#39;s location](https://discourse.llvm.org/t/how-to-get-all-struct-and-its-location/73586#post_2)
 - [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_17)
 - [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_9)
-- [[ThinLTO] Dealing with injected symbols](https://discourse.llvm.org/t/thinlto-dealing-with-injected-symbols/73626#post_1)
-- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_8)
 <!-- DISCOURSE-LLVM:END -->
