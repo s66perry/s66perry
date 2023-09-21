@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533#post_19)
-- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_4)
-- [Tutorial: testing libc in riscv32 qemu](https://discourse.llvm.org/t/tutorial-testing-libc-in-riscv32-qemu/70356#post_7)
-- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_3)
-- [Tutorial: testing libc in riscv32 qemu](https://discourse.llvm.org/t/tutorial-testing-libc-in-riscv32-qemu/70356#post_6)
+- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_8)
+- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_7)
+- [How does clang-cl decide not to emitting SEH __try/__except block?](https://discourse.llvm.org/t/how-does-clang-cl-decide-not-to-emitting-seh-try-except-block/73599#post_6)
+- [How does clang-cl decide not to emitting SEH __try/__except block?](https://discourse.llvm.org/t/how-does-clang-cl-decide-not-to-emitting-seh-try-except-block/73599#post_5)
+- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_6)
 <!-- DISCOURSE-LLVM:END -->
