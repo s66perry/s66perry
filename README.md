@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_19)
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_18)
 - [[PSA] Bufferization: New Buffer Deallocation Pipeline](https://discourse.llvm.org/t/psa-bufferization-new-buffer-deallocation-pipeline/73375#post_13)
 - [How to test register pressure](https://discourse.llvm.org/t/how-to-test-register-pressure/73624#post_2)
 - [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_11)
-- [How to get all struct and it&#39;s location](https://discourse.llvm.org/t/how-to-get-all-struct-and-its-location/73586#post_2)
-- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524#post_17)
 <!-- DISCOURSE-LLVM:END -->
