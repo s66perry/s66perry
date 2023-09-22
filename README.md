@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[ThinLTO] Dealing with injected symbols](https://discourse.llvm.org/t/thinlto-dealing-with-injected-symbols/73626#post_3)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_22)
+- [Unexpected branching behaviour when creating new basic blocks](https://discourse.llvm.org/t/unexpected-branching-behaviour-when-creating-new-basic-blocks/73637#post_1)
+- [Exposing the diagnostic engine to C++](https://discourse.llvm.org/t/exposing-the-diagnostic-engine-to-c/73092#post_10)
 - [[IR] type disappeared](https://discourse.llvm.org/t/ir-type-disappeared/73631#post_5)
-- [LLDB new command contribution](https://discourse.llvm.org/t/lldb-new-command-contribution/73619#post_9)
-- [Clang header and library search list](https://discourse.llvm.org/t/clang-header-and-library-search-list/73636#post_1)
-- [[RFC] Profile Information Propagation Unittesting](https://discourse.llvm.org/t/rfc-profile-information-propagation-unittesting/73595#post_9)
-- [[RFC] Support scalable dimensions in ShapedTypes](https://discourse.llvm.org/t/rfc-support-scalable-dimensions-in-shapedtypes/73260?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
