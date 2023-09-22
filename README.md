@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unexpected branching behaviour when creating new basic blocks](https://discourse.llvm.org/t/unexpected-branching-behaviour-when-creating-new-basic-blocks/73637#post_4)
-- [Unexpected branching behaviour when creating new basic blocks](https://discourse.llvm.org/t/unexpected-branching-behaviour-when-creating-new-basic-blocks/73637#post_3)
-- [Splitting #github channel](https://discourse.llvm.org/t/splitting-github-channel/73346#post_7)
-- [Unexpected branching behaviour when creating new basic blocks](https://discourse.llvm.org/t/unexpected-branching-behaviour-when-creating-new-basic-blocks/73637#post_2)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_23)
+- [Locally built LLVM works from command line, but not cmake](https://discourse.llvm.org/t/locally-built-llvm-works-from-command-line-but-not-cmake/73640#post_1)
+- [Tutorial: testing libc in riscv32 qemu](https://discourse.llvm.org/t/tutorial-testing-libc-in-riscv32-qemu/70356#post_10)
+- [Tutorial: testing libc in riscv32 qemu](https://discourse.llvm.org/t/tutorial-testing-libc-in-riscv32-qemu/70356#post_9)
+- [Tutorial: testing libc in riscv32 qemu](https://discourse.llvm.org/t/tutorial-testing-libc-in-riscv32-qemu/70356#post_8)
+- [How to test register pressure](https://discourse.llvm.org/t/how-to-test-register-pressure/73624#post_4)
 <!-- DISCOURSE-LLVM:END -->
