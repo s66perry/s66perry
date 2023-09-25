@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_35)
+- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_10)
 - [CMake error when configuring with CMake](https://discourse.llvm.org/t/cmake-error-when-configuring-with-cmake/73553#post_10)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_34)
 - [Pre-LLVM-DEV&#39;23 - Embedded Toolchains Workshop Agenda and Who&#39;s Coming?](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop-agenda-and-whos-coming/72852#post_9)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_33)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
