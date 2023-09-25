@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to add a new mode to llvm raw profile version?](https://discourse.llvm.org/t/how-to-add-a-new-mode-to-llvm-raw-profile-version/73688#post_1)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_31)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Sep 25 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-sep-25-23-6pm/73431#post_2)
-- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=4#post_66)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_30)
+- [CMake error when configuring with CMake](https://discourse.llvm.org/t/cmake-error-when-configuring-with-cmake/73553#post_10)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_34)
+- [Pre-LLVM-DEV&#39;23 - Embedded Toolchains Workshop Agenda and Who&#39;s Coming?](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop-agenda-and-whos-coming/72852#post_9)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_33)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
