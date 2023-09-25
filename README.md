@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to parse llvm.assume intrinsic?](https://discourse.llvm.org/t/how-to-parse-llvm-assume-intrinsic/73654#post_2)
-- [[PSA] Cleanup of structured.tile* transform ops](https://discourse.llvm.org/t/psa-cleanup-of-structured-tile-transform-ops/73683#post_1)
-- [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_2)
-- [Bind type to python](https://discourse.llvm.org/t/bind-type-to-python/73649#post_2)
-- [How to generate the content of “module @patterns” and &quot;module @ir &quot; in &quot;mlir/test/Rewrite/pdl-bytecode.mlir&quot; file?](https://discourse.llvm.org/t/how-to-generate-the-content-of-module-patterns-and-module-ir-in-mlir-test-rewrite-pdl-bytecode-mlir-file/73680#post_1)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Sep 25 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-sep-25-23-6pm/73431#post_2)
+- [How&#39;s it going with pull requests?](https://discourse.llvm.org/t/hows-it-going-with-pull-requests/73467?page=4#post_66)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_30)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=2#post_29)
+- [if Clang has a pipeline specifically optimized for #pragma](https://discourse.llvm.org/t/if-clang-has-a-pipeline-specifically-optimized-for-pragma/73660#post_2)
 <!-- DISCOURSE-LLVM:END -->
