@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is this missed case worth adding? &quot;int i=-i&quot;](https://discourse.llvm.org/t/is-this-missed-case-worth-adding-int-i-i/73701#post_1)
 - [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_5)
 - [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_4)
 - [The question about union of rvalue](https://discourse.llvm.org/t/the-question-about-union-of-rvalue/73700#post_1)
 - [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_3)
-- [Shouldn&#39;t this be deterministic?](https://discourse.llvm.org/t/shouldnt-this-be-deterministic/73698#post_1)
 <!-- DISCOURSE-LLVM:END -->
