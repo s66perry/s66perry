@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] OpenMP Offloading Backend for C++ Parallel Algorithms](https://discourse.llvm.org/t/rfc-openmp-offloading-backend-for-c-parallel-algorithms/73468#post_9)
+- [Source built LLVM&#39;s opt does not load passes](https://discourse.llvm.org/t/source-built-llvms-opt-does-not-load-passes/73728#post_3)
+- [RFC: -E mode to preserve system includes](https://discourse.llvm.org/t/rfc-e-mode-to-preserve-system-includes/73726#post_18)
 - [RFC: -E mode to preserve system includes](https://discourse.llvm.org/t/rfc-e-mode-to-preserve-system-includes/73726#post_17)
 - [RFC: -E mode to preserve system includes](https://discourse.llvm.org/t/rfc-e-mode-to-preserve-system-includes/73726#post_16)
-- [RFC: -E mode to preserve system includes](https://discourse.llvm.org/t/rfc-e-mode-to-preserve-system-includes/73726#post_15)
-- [Derive loop bounds from accesses](https://discourse.llvm.org/t/derive-loop-bounds-from-accesses/73722#post_4)
-- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_12)
 <!-- DISCOURSE-LLVM:END -->
