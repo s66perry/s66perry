@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there any way to check if metadata has been correctly set?](https://discourse.llvm.org/t/is-there-any-way-to-check-if-metadata-has-been-correctly-set/73710#post_5)
+- [Clang header and library search list](https://discourse.llvm.org/t/clang-header-and-library-search-list/73636#post_2)
+- [Clang search path](https://discourse.llvm.org/t/clang-search-path/73622#post_2)
 - [TOSA Community meeting 28 September 2023](https://discourse.llvm.org/t/tosa-community-meeting-28-september-2023/73745#post_1)
 - [RFC: -E mode to preserve system includes](https://discourse.llvm.org/t/rfc-e-mode-to-preserve-system-includes/73726#post_19)
-- [[RFC] OpenMP Offloading Backend for C++ Parallel Algorithms](https://discourse.llvm.org/t/rfc-openmp-offloading-backend-for-c-parallel-algorithms/73468#post_9)
-- [Source built LLVM&#39;s opt does not load passes](https://discourse.llvm.org/t/source-built-llvms-opt-does-not-load-passes/73728#post_3)
-- [RFC: -E mode to preserve system includes](https://discourse.llvm.org/t/rfc-e-mode-to-preserve-system-includes/73726#post_18)
 <!-- DISCOURSE-LLVM:END -->
