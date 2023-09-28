@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DisableRuntimeUnroll during loop vectorization](https://discourse.llvm.org/t/disableruntimeunroll-during-loop-vectorization/73751#post_2)
+- [An option to disable formatting for macro definitions](https://discourse.llvm.org/t/an-option-to-disable-formatting-for-macro-definitions/73752#post_1)
+- [File filter in clang format configuration](https://discourse.llvm.org/t/file-filter-in-clang-format-configuration/73706#post_3)
+- [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_3)
 - [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_2)
-- [[RFC] CFIFixup handling of prologues which span more than one basic block](https://discourse.llvm.org/t/rfc-cfifixup-handling-of-prologues-which-span-more-than-one-basic-block/73737#post_3)
-- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_13)
-- [DisableRuntimeUnroll during loop vectorization](https://discourse.llvm.org/t/disableruntimeunroll-during-loop-vectorization/73751#post_1)
-- [RISC-V LLVM sync-up call September 28th 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-september-28th-2023/73750#post_1)
 <!-- DISCOURSE-LLVM:END -->
