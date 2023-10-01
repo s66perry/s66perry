@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Better performance models for MLGO training](https://discourse.llvm.org/t/better-performance-models-for-mlgo-training/68219#post_15)
 - [Pre-LLVM-DEV&#39;23 - Embedded Toolchains Workshop Agenda and Who&#39;s Coming?](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop-agenda-and-whos-coming/72852#post_10)
 - [Writing an LLVM Pass&lpar;question about .ll file &rpar;](https://discourse.llvm.org/t/writing-an-llvm-pass-question-about-ll-file/73793#post_3)
 - [Writing an LLVM Pass&lpar;question about .ll file &rpar;](https://discourse.llvm.org/t/writing-an-llvm-pass-question-about-ll-file/73793#post_2)
 - [LLVM IR to Machine code&lpar;Arm&rpar;](https://discourse.llvm.org/t/llvm-ir-to-machine-code-arm/73795#post_1)
-- [Writing an LLVM Pass&lpar;question about .ll file &rpar;](https://discourse.llvm.org/t/writing-an-llvm-pass-question-about-ll-file/73793#post_1)
 <!-- DISCOURSE-LLVM:END -->
