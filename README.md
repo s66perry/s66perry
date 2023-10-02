@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Tablegen: a new def based on existing one](https://discourse.llvm.org/t/tablegen-a-new-def-based-on-existing-one/73768#post_4)
+- [How can I control Soften Float Type?](https://discourse.llvm.org/t/how-can-i-control-soften-float-type/73829#post_1)
+- [Substitute `SP` register with `R7` in Cortex-M code generation for memory efficiency](https://discourse.llvm.org/t/substitute-sp-register-with-r7-in-cortex-m-code-generation-for-memory-efficiency/73828#post_1)
 - [[RFC] Running LLVM Verifier right out of CodeGen](https://discourse.llvm.org/t/rfc-running-llvm-verifier-right-out-of-codegen/73823#post_3)
 - [[RFC] Running LLVM Verifier right out of CodeGen](https://discourse.llvm.org/t/rfc-running-llvm-verifier-right-out-of-codegen/73823#post_2)
-- [[RFC] Running LLVM Verifier right out of CodeGen](https://discourse.llvm.org/t/rfc-running-llvm-verifier-right-out-of-codegen/73823#post_1)
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_21)
-- [LLDB Alaises](https://discourse.llvm.org/t/lldb-alaises/73804#post_4)
 <!-- DISCOURSE-LLVM:END -->
