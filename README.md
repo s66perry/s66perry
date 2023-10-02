@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Memref dialect: volatile and atomic accesses](https://discourse.llvm.org/t/memref-dialect-volatile-and-atomic-accesses/73805#post_1)
 - [Integrating New Commands in lldb](https://discourse.llvm.org/t/integrating-new-commands-in-lldb/73476#post_5)
 - [LLDB Alaises](https://discourse.llvm.org/t/lldb-alaises/73804#post_2)
 - [LLDB Alaises](https://discourse.llvm.org/t/lldb-alaises/73804#post_1)
 - [Memref.atomic_rmw documentation clarification](https://discourse.llvm.org/t/memref-atomic-rmw-documentation-clarification/73802#post_1)
-- [Compiling a simple example](https://discourse.llvm.org/t/compiling-a-simple-example/73801#post_1)
 <!-- DISCOURSE-LLVM:END -->
