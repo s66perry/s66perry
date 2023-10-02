@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [The target `X86&#39; is not a core tier target](https://discourse.llvm.org/t/the-target-x86-is-not-a-core-tier-target/73784#post_2)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=3#post_46)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_137)
-- [RFC for moving Swift’s merge-function pass to llvm](https://discourse.llvm.org/t/rfc-for-moving-swift-s-merge-function-pass-to-llvm/73778#post_9)
-- [Libc++-vendors and clang-vendors](https://discourse.llvm.org/t/libc-vendors-and-clang-vendors/73188#post_18)
+- [Can&#39;t build clang the way I need without getting errors about scudo_standalone](https://discourse.llvm.org/t/cant-build-clang-the-way-i-need-without-getting-errors-about-scudo-standalone/71498#post_3)
+- [RFC for moving Swift’s merge-function pass to llvm](https://discourse.llvm.org/t/rfc-for-moving-swift-s-merge-function-pass-to-llvm/73778#post_10)
+- [Compiling a simple example](https://discourse.llvm.org/t/compiling-a-simple-example/73801#post_6)
+- [No x86 darwin release binaries?](https://discourse.llvm.org/t/no-x86-darwin-release-binaries/73818#post_1)
+- [[X86] Finalizing SVML support in LLVM](https://discourse.llvm.org/t/x86-finalizing-svml-support-in-llvm/70977#post_3)
 <!-- DISCOURSE-LLVM:END -->
