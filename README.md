@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Tablegen: a new def based on existing one](https://discourse.llvm.org/t/tablegen-a-new-def-based-on-existing-one/73768#post_3)
-- [[Clang] ExtractAPI while building](https://discourse.llvm.org/t/clang-extractapi-while-building/68372#post_7)
-- [All &quot;new issue&quot; issues are triaged](https://discourse.llvm.org/t/all-new-issue-issues-are-triaged/73808#post_2)
-- [Memref.atomic_rmw documentation clarification](https://discourse.llvm.org/t/memref-atomic-rmw-documentation-clarification/73802#post_4)
-- [Memref dialect: volatile and atomic accesses](https://discourse.llvm.org/t/memref-dialect-volatile-and-atomic-accesses/73805#post_2)
+- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_14)
+- [An option to disable formatting for macro definitions](https://discourse.llvm.org/t/an-option-to-disable-formatting-for-macro-definitions/73752#post_3)
+- [Clang CI running for MLIR-only changes](https://discourse.llvm.org/t/clang-ci-running-for-mlir-only-changes/73814#post_3)
+- [Clang CI running for MLIR-only changes](https://discourse.llvm.org/t/clang-ci-running-for-mlir-only-changes/73814#post_2)
+- [Clang CI running for MLIR-only changes](https://discourse.llvm.org/t/clang-ci-running-for-mlir-only-changes/73814#post_1)
 <!-- DISCOURSE-LLVM:END -->
