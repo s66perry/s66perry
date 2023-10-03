@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC for moving Swift’s merge-function pass to llvm](https://discourse.llvm.org/t/rfc-for-moving-swift-s-merge-function-pass-to-llvm/73778#post_12)
+- [RFC: Switch source and release tarballs from .xz to .zstd](https://discourse.llvm.org/t/rfc-switch-source-and-release-tarballs-from-xz-to-zstd/73838#post_17)
+- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_15)
 - [LLVM 17.0.0 tagged, but with a mistake](https://discourse.llvm.org/t/llvm-17-0-0-tagged-but-with-a-mistake/73545?page=2#post_24)
 - [RFC: Switch source and release tarballs from .xz to .zstd](https://discourse.llvm.org/t/rfc-switch-source-and-release-tarballs-from-xz-to-zstd/73838#post_16)
-- [RFC: Switch source and release tarballs from .xz to .zstd](https://discourse.llvm.org/t/rfc-switch-source-and-release-tarballs-from-xz-to-zstd/73838#post_15)
-- [Compiler-rt tests check compile and link](https://discourse.llvm.org/t/compiler-rt-tests-check-compile-and-link/73848#post_1)
-- [Preventing bidirectional scheduler from only scheduling in one direction](https://discourse.llvm.org/t/preventing-bidirectional-scheduler-from-only-scheduling-in-one-direction/73314#post_10)
 <!-- DISCOURSE-LLVM:END -->
