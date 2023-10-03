@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [New intrinsic to get number of lanes in SIMD vectors](https://discourse.llvm.org/t/new-intrinsic-to-get-number-of-lanes-in-simd-vectors/73721#post_3)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_3)
-- [[RFC] TOSA-to-Linalg lowering of element-wise ops](https://discourse.llvm.org/t/rfc-tosa-to-linalg-lowering-of-element-wise-ops/71559#post_10)
-- [Preventing bidirectional scheduler from only scheduling in one direction](https://discourse.llvm.org/t/preventing-bidirectional-scheduler-from-only-scheduling-in-one-direction/73314#post_11)
-- [RFC for moving Swift’s merge-function pass to llvm](https://discourse.llvm.org/t/rfc-for-moving-swift-s-merge-function-pass-to-llvm/73778#post_12)
+- [Program for the 3rd MLIR Workshop @ LLVM Dev Meeting 2023](https://discourse.llvm.org/t/program-for-the-3rd-mlir-workshop-llvm-dev-meeting-2023/73854#post_1)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_6)
+- [RFC for moving Swift’s merge-function pass to llvm](https://discourse.llvm.org/t/rfc-for-moving-swift-s-merge-function-pass-to-llvm/73778#post_13)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_5)
+- [[RFC] Running LLVM Verifier right out of CodeGen](https://discourse.llvm.org/t/rfc-running-llvm-verifier-right-out-of-codegen/73823#post_10)
 <!-- DISCOURSE-LLVM:END -->
