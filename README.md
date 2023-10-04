@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_15)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_14)
-- [Writing an new LLVM Pass qustion](https://discourse.llvm.org/t/writing-an-new-llvm-pass-qustion/73857#post_1)
-- [Does debug info correlation works when a profile file contains multiple raw profiles?](https://discourse.llvm.org/t/does-debug-info-correlation-works-when-a-profile-file-contains-multiple-raw-profiles/73856#post_1)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_13)
+- [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_3)
+- [Split the live range of a pseudo instruction like MOV32r0](https://discourse.llvm.org/t/split-the-live-range-of-a-pseudo-instruction-like-mov32r0/73859#post_1)
+- [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_2)
+- [How to create a atomic store/load with LLVM IR from C++?](https://discourse.llvm.org/t/how-to-create-a-atomic-store-load-with-llvm-ir-from-c/73858#post_1)
+- [The target `X86&#39; is not a core tier target](https://discourse.llvm.org/t/the-target-x86-is-not-a-core-tier-target/73784#post_3)
 <!-- DISCOURSE-LLVM:END -->
