@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Floating-point working group](https://discourse.llvm.org/t/rfc-floating-point-working-group/73830#post_2)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_20)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_19)
-- [New Community Meeting / Developer Hour Schedule](https://discourse.llvm.org/t/new-community-meeting-developer-hour-schedule/73868#post_1)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_18)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736?page=2#post_27)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736?page=2#post_26)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736?page=2#post_25)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736?page=2#post_24)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
