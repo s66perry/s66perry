@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can&#39;t add team reviewers to PRs](https://discourse.llvm.org/t/cant-add-team-reviewers-to-prs/73862#post_6)
-- [Can&#39;t add team reviewers to PRs](https://discourse.llvm.org/t/cant-add-team-reviewers-to-prs/73862#post_5)
-- [Issue converting unsized to sized types](https://discourse.llvm.org/t/issue-converting-unsized-to-sized-types/73730#post_7)
-- [Issue converting unsized to sized types](https://discourse.llvm.org/t/issue-converting-unsized-to-sized-types/73730#post_6)
-- [Can&#39;t add team reviewers to PRs](https://discourse.llvm.org/t/cant-add-team-reviewers-to-prs/73862#post_4)
+- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_10)
+- [ATTENDEE LIST OF Bakersfield Comic Con](https://discourse.llvm.org/t/attendee-list-of-bakersfield-comic-con/73867#post_1)
+- [Issue converting unsized to sized types](https://discourse.llvm.org/t/issue-converting-unsized-to-sized-types/73730#post_8)
+- [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_3)
+- [RFC: Switch source and release tarballs from .xz to .zstd](https://discourse.llvm.org/t/rfc-switch-source-and-release-tarballs-from-xz-to-zstd/73838#post_18)
 <!-- DISCOURSE-LLVM:END -->
