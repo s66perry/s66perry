@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Does debug info correlation works when a profile file contains multiple raw profiles?](https://discourse.llvm.org/t/does-debug-info-correlation-works-when-a-profile-file-contains-multiple-raw-profiles/73856#post_2)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_17)
-- [How to create a atomic store/load with LLVM IR from C++?](https://discourse.llvm.org/t/how-to-create-a-atomic-store-load-with-llvm-ir-from-c/73858#post_3)
-- [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_4)
-- [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_4)
+- [[RFC] Floating-point working group](https://discourse.llvm.org/t/rfc-floating-point-working-group/73830#post_2)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_20)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_19)
+- [New Community Meeting / Developer Hour Schedule](https://discourse.llvm.org/t/new-community-meeting-developer-hour-schedule/73868#post_1)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736#post_18)
 <!-- DISCOURSE-LLVM:END -->
