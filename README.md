@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can&#39;t add team reviewers to PRs](https://discourse.llvm.org/t/cant-add-team-reviewers-to-prs/73862#post_2)
+- [LLVM Embedded Toolchain for Arm based on LLVM 17 release is available](https://discourse.llvm.org/t/llvm-embedded-toolchain-for-arm-based-on-llvm-17-release-is-available/73863#post_1)
+- [Can&#39;t add team reviewers to PRs](https://discourse.llvm.org/t/cant-add-team-reviewers-to-prs/73862#post_1)
+- [Casting MemRef to a different element type and shape](https://discourse.llvm.org/t/casting-memref-to-a-different-element-type-and-shape/73861#post_1)
 - [How to create a atomic store/load with LLVM IR from C++?](https://discourse.llvm.org/t/how-to-create-a-atomic-store-load-with-llvm-ir-from-c/73858#post_2)
-- [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_3)
-- [Split the live range of a pseudo instruction like MOV32r0](https://discourse.llvm.org/t/split-the-live-range-of-a-pseudo-instruction-like-mov32r0/73859#post_1)
-- [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_2)
-- [How to create a atomic store/load with LLVM IR from C++?](https://discourse.llvm.org/t/how-to-create-a-atomic-store-load-with-llvm-ir-from-c/73858#post_1)
 <!-- DISCOURSE-LLVM:END -->
