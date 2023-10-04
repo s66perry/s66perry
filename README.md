@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to create a atomic store/load with LLVM IR from C++?](https://discourse.llvm.org/t/how-to-create-a-atomic-store-load-with-llvm-ir-from-c/73858#post_2)
 - [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_3)
 - [Split the live range of a pseudo instruction like MOV32r0](https://discourse.llvm.org/t/split-the-live-range-of-a-pseudo-instruction-like-mov32r0/73859#post_1)
 - [Create a Discord channel for Polygeist](https://discourse.llvm.org/t/create-a-discord-channel-for-polygeist/71886#post_2)
 - [How to create a atomic store/load with LLVM IR from C++?](https://discourse.llvm.org/t/how-to-create-a-atomic-store-load-with-llvm-ir-from-c/73858#post_1)
-- [The target `X86&#39; is not a core tier target](https://discourse.llvm.org/t/the-target-x86-is-not-a-core-tier-target/73784#post_3)
 <!-- DISCOURSE-LLVM:END -->
