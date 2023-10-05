@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 17.0.2 tagged!](https://discourse.llvm.org/t/llvm-17-0-2-tagged/73839#post_5)
+- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_21)
+- [Implementing References without Pointers](https://discourse.llvm.org/t/implementing-references-without-pointers/73878#post_2)
+- [Create a memory operand &lpar;PC relative or base register addressing&rpar; from FrameIndex](https://discourse.llvm.org/t/create-a-memory-operand-pc-relative-or-base-register-addressing-from-frameindex/73847#post_3)
 - [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395#post_20)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395#post_19)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395#post_18)
-- [Apple&#39;s libc++ now provides std::__type_descriptor_t functionality not found in upstream libc++?](https://discourse.llvm.org/t/apples-libc-now-provides-std-type-descriptor-t-functionality-not-found-in-upstream-libc/73881#post_1)
-- [LLVM 17.0.2 tagged!](https://discourse.llvm.org/t/llvm-17-0-2-tagged/73839#post_4)
 <!-- DISCOURSE-LLVM:END -->
