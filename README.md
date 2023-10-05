@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_27)
+- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_26)
+- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_25)
 - [Issue converting unsized to sized types](https://discourse.llvm.org/t/issue-converting-unsized-to-sized-types/73730#post_10)
 - [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_24)
-- [Implementing References without Pointers](https://discourse.llvm.org/t/implementing-references-without-pointers/73878#post_3)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_23)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
