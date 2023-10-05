@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_138)
+- [Discourse limits](https://discourse.llvm.org/t/discourse-limits/73875#post_3)
 - [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_8)
 - [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_7)
 - [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_6)
-- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736?page=2#post_32)
-- [Implementing References without Pointers](https://discourse.llvm.org/t/implementing-references-without-pointers/73878#post_1)
 <!-- DISCOURSE-LLVM:END -->
