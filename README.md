@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Creating an archive &lpar;libcxx.a&rpar; when building cxx_shared](https://discourse.llvm.org/t/creating-an-archive-libcxx-a-when-building-cxx-shared/73897#post_2)
+- [[RFC] Floating-point working group](https://discourse.llvm.org/t/rfc-floating-point-working-group/73830#post_4)
 - [[RFC] Floating-point working group](https://discourse.llvm.org/t/rfc-floating-point-working-group/73830#post_3)
 - [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_10)
 - [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_29)
-- [Vectorization on complex numbers in linalg dialect](https://discourse.llvm.org/t/vectorization-on-complex-numbers-in-linalg-dialect/73898#post_1)
-- [Creating an archive &lpar;libcxx.a&rpar; when building cxx_shared](https://discourse.llvm.org/t/creating-an-archive-libcxx-a-when-building-cxx-shared/73897#post_1)
 <!-- DISCOURSE-LLVM:END -->
