@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Promote Result Type of Operation](https://discourse.llvm.org/t/promote-result-type-of-operation/73899#post_2)
-- [How to exclude list of functions](https://discourse.llvm.org/t/how-to-exclude-list-of-functions/73913#post_2)
-- [How to exclude list of functions](https://discourse.llvm.org/t/how-to-exclude-list-of-functions/73913#post_1)
-- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524?page=2#post_29)
-- [New builtin function to get number of lanes in SIMD vectors](https://discourse.llvm.org/t/new-builtin-function-to-get-number-of-lanes-in-simd-vectors/73911#post_2)
+- [[RFC] Making the pass manager aware of function-level optimization attributes](https://discourse.llvm.org/t/rfc-making-the-pass-manager-aware-of-function-level-optimization-attributes/73736?page=3#post_43)
+- [Pre-LLVM-DEV&#39;23 - Embedded Toolchains Workshop Agenda and Who&#39;s Coming?](https://discourse.llvm.org/t/pre-llvm-dev23-embedded-toolchains-workshop-agenda-and-whos-coming/72852#post_12)
+- [[RFC] Add zext nneg flag](https://discourse.llvm.org/t/rfc-add-zext-nneg-flag/73914#post_2)
+- [How to change a pointers address?](https://discourse.llvm.org/t/how-to-change-a-pointers-address/73915#post_1)
+- [[RFC] Add zext nneg flag](https://discourse.llvm.org/t/rfc-add-zext-nneg-flag/73914#post_1)
 <!-- DISCOURSE-LLVM:END -->
