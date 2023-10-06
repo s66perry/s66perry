@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Promote Result Type of Operation](https://discourse.llvm.org/t/promote-result-type-of-operation/73899#post_2)
+- [How to exclude list of functions](https://discourse.llvm.org/t/how-to-exclude-list-of-functions/73913#post_2)
+- [How to exclude list of functions](https://discourse.llvm.org/t/how-to-exclude-list-of-functions/73913#post_1)
+- [Usage of CODEOWNERS file](https://discourse.llvm.org/t/usage-of-codeowners-file/73524?page=2#post_29)
 - [New builtin function to get number of lanes in SIMD vectors](https://discourse.llvm.org/t/new-builtin-function-to-get-number-of-lanes-in-simd-vectors/73911#post_2)
-- [Trying to understand a crash in BitcodeWriterPass](https://discourse.llvm.org/t/trying-to-understand-a-crash-in-bitcodewriterpass/73907#post_5)
-- [[RFC] Memref bitcasting](https://discourse.llvm.org/t/rfc-memref-bitcasting/66395?page=2#post_33)
-- [Trying to understand a crash in BitcodeWriterPass](https://discourse.llvm.org/t/trying-to-understand-a-crash-in-bitcodewriterpass/73907#post_4)
-- [[RFC] Propagate FIR Alias Analysis Information using TBAA](https://discourse.llvm.org/t/rfc-propagate-fir-alias-analysis-information-using-tbaa/73755#post_4)
 <!-- DISCOURSE-LLVM:END -->
