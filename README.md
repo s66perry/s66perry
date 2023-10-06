@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to get Opaque Pointers from the C++ API of LLVM?](https://discourse.llvm.org/t/how-to-get-opaque-pointers-from-the-c-api-of-llvm/73888#post_2)
-- [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_11)
-- [Clang-format github action cannot find merge base](https://discourse.llvm.org/t/clang-format-github-action-cannot-find-merge-base/73894#post_3)
-- [Clang-format github action cannot find merge base](https://discourse.llvm.org/t/clang-format-github-action-cannot-find-merge-base/73894#post_2)
-- [Clang17 lost search dir](https://discourse.llvm.org/t/clang17-lost-search-dir/73919#post_1)
+- [Vectorization on complex numbers in linalg dialect](https://discourse.llvm.org/t/vectorization-on-complex-numbers-in-linalg-dialect/73898#post_2)
+- [How to change a pointers address?](https://discourse.llvm.org/t/how-to-change-a-pointers-address/73915#post_2)
+- [Board Meeting Minutes - October 2023](https://discourse.llvm.org/t/board-meeting-minutes-october-2023/73926#post_1)
+- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_1)
+- [Board Meeting Minutes - September 2023](https://discourse.llvm.org/t/board-meeting-minutes-september-2023/73924#post_1)
 <!-- DISCOURSE-LLVM:END -->
