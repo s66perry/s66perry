@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to change a pointers address?](https://discourse.llvm.org/t/how-to-change-a-pointers-address/73915#post_4)
 - [LLVMCAS Upstreaming](https://discourse.llvm.org/t/llvmcas-upstreaming/72696#post_12)
 - [How to change a pointers address?](https://discourse.llvm.org/t/how-to-change-a-pointers-address/73915#post_3)
 - [Should we enable TBAA by default in clang cl mode?](https://discourse.llvm.org/t/should-we-enable-tbaa-by-default-in-clang-cl-mode/73903#post_3)
 - [Flow Sensitive Alias Analysis in LLVM](https://discourse.llvm.org/t/flow-sensitive-alias-analysis-in-llvm/73900#post_2)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=3#post_54)
 <!-- DISCOURSE-LLVM:END -->
