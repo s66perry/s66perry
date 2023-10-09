@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [CANCELLED RISC-V LLVM sync-up call October 12th 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-october-12th-2023/73966#post_1)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=2#post_37)
-- [Integrating New Commands in lldb](https://discourse.llvm.org/t/integrating-new-commands-in-lldb/73476#post_8)
-- [Error: conversion from StringRef to string](https://discourse.llvm.org/t/error-conversion-from-stringref-to-string/73965#post_1)
-- [Overflows during folding of basic `arith` ops](https://discourse.llvm.org/t/overflows-during-folding-of-basic-arith-ops/73952#post_6)
+- [Debugging: viewing DIType](https://discourse.llvm.org/t/debugging-viewing-ditype/73936#post_3)
+- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165#post_16)
+- [Is it worthwhile and possible to add flag like nsw,nuw to Use instead of def or inst?](https://discourse.llvm.org/t/is-it-worthwhile-and-possible-to-add-flag-like-nsw-nuw-to-use-instead-of-def-or-inst/73967#post_1)
+- [Error: conversion from StringRef to string](https://discourse.llvm.org/t/error-conversion-from-stringref-to-string/73965#post_2)
+- [Integrating New Commands in lldb](https://discourse.llvm.org/t/integrating-new-commands-in-lldb/73476#post_9)
 <!-- DISCOURSE-LLVM:END -->
