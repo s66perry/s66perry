@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Propagate FIR Alias Analysis Information using TBAA](https://discourse.llvm.org/t/rfc-propagate-fir-alias-analysis-information-using-tbaa/73755#post_5)
+- [Overflows during folding of basic `arith` ops](https://discourse.llvm.org/t/overflows-during-folding-of-basic-arith-ops/73952#post_7)
+- [How to get Opaque Pointers from the C++ API of LLVM?](https://discourse.llvm.org/t/how-to-get-opaque-pointers-from-the-c-api-of-llvm/73888#post_4)
 - [Is it worthwhile and possible to add flag like nsw,nuw to Use instead of def or inst?](https://discourse.llvm.org/t/is-it-worthwhile-and-possible-to-add-flag-like-nsw-nuw-to-use-instead-of-def-or-inst/73967#post_3)
 - [Is it worthwhile and possible to add flag like nsw,nuw to Use instead of def or inst?](https://discourse.llvm.org/t/is-it-worthwhile-and-possible-to-add-flag-like-nsw-nuw-to-use-instead-of-def-or-inst/73967#post_2)
-- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165#post_17)
-- [Help debugging CIRCT - LLDB doesn&#39;t find half the names](https://discourse.llvm.org/t/help-debugging-circt-lldb-doesnt-find-half-the-names/73584#post_4)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=7#post_140)
 <!-- DISCOURSE-LLVM:END -->
