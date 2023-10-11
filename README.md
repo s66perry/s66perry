@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_8)
+- [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_3)
 - [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_4)
 - [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_3)
 - [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_2)
-- [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_1)
-- [Round Table about Profiling &amp; Coverage in 2023 LLVM Dev Meeting](https://discourse.llvm.org/t/round-table-about-profiling-coverage-in-2023-llvm-dev-meeting/73982#post_4)
 <!-- DISCOURSE-LLVM:END -->
