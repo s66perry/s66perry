@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_10)
+- [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_9)
 - [Error Adding Intrinsics](https://discourse.llvm.org/t/error-adding-intrinsics/74005#post_2)
 - [Error Adding Intrinsics](https://discourse.llvm.org/t/error-adding-intrinsics/74005#post_1)
 - [TableGen: &lpar;backend&rpar; Why bit patterns are stored in reverse?](https://discourse.llvm.org/t/tablegen-backend-why-bit-patterns-are-stored-in-reverse/72844#post_8)
-- [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_3)
-- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_4)
 <!-- DISCOURSE-LLVM:END -->
