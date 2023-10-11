@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISCV Clang cant find c++config.h](https://discourse.llvm.org/t/riscv-clang-cant-find-c-config-h/71834#post_3)
-- [Build clang using github actions](https://discourse.llvm.org/t/build-clang-using-github-actions/74013#post_2)
-- [Build clang using github actions](https://discourse.llvm.org/t/build-clang-using-github-actions/74013#post_1)
-- [Error Adding Intrinsics](https://discourse.llvm.org/t/error-adding-intrinsics/74005#post_3)
-- [How to Rerun buildkite/github-pull-requests](https://discourse.llvm.org/t/how-to-rerun-buildkite-github-pull-requests/73402#post_8)
+- [How to get the rewritten code string in Clang AST?](https://discourse.llvm.org/t/how-to-get-the-rewritten-code-string-in-clang-ast/73939#post_6)
+- [How to Rerun buildkite/github-pull-requests](https://discourse.llvm.org/t/how-to-rerun-buildkite-github-pull-requests/73402#post_9)
+- [How to get the rewritten code string in Clang AST?](https://discourse.llvm.org/t/how-to-get-the-rewritten-code-string-in-clang-ast/73939#post_5)
+- [Persisting values of global variables across modules in a REPL context](https://discourse.llvm.org/t/persisting-values-of-global-variables-across-modules-in-a-repl-context/73474#post_2)
+- [Build clang using github actions](https://discourse.llvm.org/t/build-clang-using-github-actions/74013#post_3)
 <!-- DISCOURSE-LLVM:END -->
