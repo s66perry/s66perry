@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [New Defects reported by Coverity Scan for llvm](https://discourse.llvm.org/t/new-defects-reported-by-coverity-scan-for-llvm/74043#post_1)
+- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716#post_12)
+- [Add check-mlir-python to the MLIR pre-commit tests](https://discourse.llvm.org/t/add-check-mlir-python-to-the-mlir-pre-commit-tests/74041#post_2)
+- [Add check-mlir-python to the MLIR pre-commit tests](https://discourse.llvm.org/t/add-check-mlir-python-to-the-mlir-pre-commit-tests/74041#post_1)
 - [Instructions Selection not in XXXGenDAGISel.inc](https://discourse.llvm.org/t/instructions-selection-not-in-xxxgendagisel-inc/74040#post_1)
-- [LTO temp commands](https://discourse.llvm.org/t/lto-temp-commands/74035#post_2)
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_22)
-- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_6)
-- [TypeSystem::DeclContextIsContainedInLookup guarantees](https://discourse.llvm.org/t/typesystem-declcontextiscontainedinlookup-guarantees/74034#post_2)
 <!-- DISCOURSE-LLVM:END -->
