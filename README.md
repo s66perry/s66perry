@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to reproduce the bug and get the exact IR before crash during bootstrapping?](https://discourse.llvm.org/t/how-to-reproduce-the-bug-and-get-the-exact-ir-before-crash-during-bootstrapping/74032#post_4)
+- [How to reproduce the bug and get the exact IR before crash during bootstrapping?](https://discourse.llvm.org/t/how-to-reproduce-the-bug-and-get-the-exact-ir-before-crash-during-bootstrapping/74032#post_3)
+- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_10)
+- [Cache modelling while creating an LLVM backend](https://discourse.llvm.org/t/cache-modelling-while-creating-an-llvm-backend/73469#post_2)
 - [LTO temp commands](https://discourse.llvm.org/t/lto-temp-commands/74035#post_1)
-- [Tablegen: a new def based on existing one](https://discourse.llvm.org/t/tablegen-a-new-def-based-on-existing-one/73768#post_6)
-- [How to reproduce the bug and get the exact IR before crash during bootstrapping?](https://discourse.llvm.org/t/how-to-reproduce-the-bug-and-get-the-exact-ir-before-crash-during-bootstrapping/74032#post_2)
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_27)
-- [TableGen: Apart from registers, do we also model internal memory?](https://discourse.llvm.org/t/tablegen-apart-from-registers-do-we-also-model-internal-memory/73392#post_6)
 <!-- DISCOURSE-LLVM:END -->
