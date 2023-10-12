@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_8)
+- [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_7)
+- [Can ROP Mitigation Measures Be Improved? [-fzero-call-used-regs=all]](https://discourse.llvm.org/t/can-rop-mitigation-measures-be-improved-fzero-call-used-regs-all/73950#post_2)
+- [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_6)
 - [tensor::dimOp have inferReturnTypes&lpar;&rpar;](https://discourse.llvm.org/t/tensor-dimop-have-inferreturntypes/74002#post_5)
-- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_2)
-- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_1)
-- [Copy to/from volatile structure](https://discourse.llvm.org/t/copy-to-from-volatile-structure/72278#post_10)
-- [Complete beginner for gsoc](https://discourse.llvm.org/t/complete-beginner-for-gsoc/74026#post_1)
 <!-- DISCOURSE-LLVM:END -->
