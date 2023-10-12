@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_6)
 - [TypeSystem::DeclContextIsContainedInLookup guarantees](https://discourse.llvm.org/t/typesystem-declcontextiscontainedinlookup-guarantees/74034#post_2)
 - [Clang failed to scan compile_commands.json generated from Windows](https://discourse.llvm.org/t/clang-failed-to-scan-compile-commands-json-generated-from-windows/74039#post_1)
 - [Custom Load/Store instruction with Custom type](https://discourse.llvm.org/t/custom-load-store-instruction-with-custom-type/74037#post_1)
 - [How to reproduce the bug and get the exact IR before crash during bootstrapping?](https://discourse.llvm.org/t/how-to-reproduce-the-bug-and-get-the-exact-ir-before-crash-during-bootstrapping/74032#post_5)
-- [How to reproduce the bug and get the exact IR before crash during bootstrapping?](https://discourse.llvm.org/t/how-to-reproduce-the-bug-and-get-the-exact-ir-before-crash-during-bootstrapping/74032#post_4)
 <!-- DISCOURSE-LLVM:END -->
