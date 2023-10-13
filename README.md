@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_3)
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_2)
-- [Copy to/from volatile structure](https://discourse.llvm.org/t/copy-to-from-volatile-structure/72278#post_11)
-- [Instructions Selection not in XXXGenDAGISel.inc](https://discourse.llvm.org/t/instructions-selection-not-in-xxxgendagisel-inc/74040#post_2)
-- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_11)
+- [Clang warning argument unused during compilation for -fsanitize-address-outline-instrumentation](https://discourse.llvm.org/t/clang-warning-argument-unused-during-compilation-for-fsanitize-address-outline-instrumentation/74070#post_3)
+- [Community.o Workshop @ US LLVM Dev Meeting 2023](https://discourse.llvm.org/t/community-o-workshop-us-llvm-dev-meeting-2023/73994#post_5)
+- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_27)
+- [LLVM 17.0.2 tagged!](https://discourse.llvm.org/t/llvm-17-0-2-tagged/73839#post_9)
+- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_5)
 <!-- DISCOURSE-LLVM:END -->
