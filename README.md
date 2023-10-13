@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLVM-DEV&#39;23] ML-Guided Compiler Optimization in LLVM Workshop](https://discourse.llvm.org/t/llvm-dev23-ml-guided-compiler-optimization-in-llvm-workshop/73090#post_2)
+- [Beginner Question: Build-in Dialect](https://discourse.llvm.org/t/beginner-question-build-in-dialect/74054#post_1)
 - [Add ThreadSanitizer check to prevent coroutine suspending while holding a lock &lpar;potential deadlock&rpar;?](https://discourse.llvm.org/t/add-threadsanitizer-check-to-prevent-coroutine-suspending-while-holding-a-lock-potential-deadlock/74051#post_2)
 - [Add ThreadSanitizer check to prevent coroutine suspending while holding a lock &lpar;potential deadlock&rpar;?](https://discourse.llvm.org/t/add-threadsanitizer-check-to-prevent-coroutine-suspending-while-holding-a-lock-potential-deadlock/74051#post_1)
 - [Not member Error in MLIR Dialect Type definition and usage in Dialect operations](https://discourse.llvm.org/t/not-member-error-in-mlir-dialect-type-definition-and-usage-in-dialect-operations/74046#post_4)
-- [Not member Error in MLIR Dialect Type definition and usage in Dialect operations](https://discourse.llvm.org/t/not-member-error-in-mlir-dialect-type-definition-and-usage-in-dialect-operations/74046#post_3)
-- [One question about Iree: can build an AI model target mcu](https://discourse.llvm.org/t/one-question-about-iree-can-build-an-ai-model-target-mcu/74049#post_1)
 <!-- DISCOURSE-LLVM:END -->
