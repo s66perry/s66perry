@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang warning argument unused during compilation for -fsanitize-address-outline-instrumentation](https://discourse.llvm.org/t/clang-warning-argument-unused-during-compilation-for-fsanitize-address-outline-instrumentation/74070#post_3)
-- [Community.o Workshop @ US LLVM Dev Meeting 2023](https://discourse.llvm.org/t/community-o-workshop-us-llvm-dev-meeting-2023/73994#post_5)
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_27)
-- [LLVM 17.0.2 tagged!](https://discourse.llvm.org/t/llvm-17-0-2-tagged/73839#post_9)
-- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_5)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081#post_2)
+- [[RFC] SYCL Kernel Lowering](https://discourse.llvm.org/t/rfc-sycl-kernel-lowering/74082#post_1)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081#post_1)
+- [[RFC] Add Full Support for the SYCL Programming Model](https://discourse.llvm.org/t/rfc-add-full-support-for-the-sycl-programming-model/74080#post_1)
+- [Memory Prefetching Support in LLVM](https://discourse.llvm.org/t/memory-prefetching-support-in-llvm/74078#post_2)
 <!-- DISCOURSE-LLVM:END -->
