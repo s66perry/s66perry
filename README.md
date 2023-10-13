@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_26)
 - [Do we have infer type in mlir](https://discourse.llvm.org/t/do-we-have-infer-type-in-mlir/74059#post_9)
 - [Do we have infer type in mlir](https://discourse.llvm.org/t/do-we-have-infer-type-in-mlir/74059#post_8)
 - [Clang warning argument unused during compilation for -fsanitize-address-outline-instrumentation](https://discourse.llvm.org/t/clang-warning-argument-unused-during-compilation-for-fsanitize-address-outline-instrumentation/74070#post_1)
 - [Do we have infer type in mlir](https://discourse.llvm.org/t/do-we-have-infer-type-in-mlir/74059#post_7)
-- [Add ThreadSanitizer check to prevent coroutine suspending while holding a lock &lpar;potential deadlock&rpar;?](https://discourse.llvm.org/t/add-threadsanitizer-check-to-prevent-coroutine-suspending-while-holding-a-lock-potential-deadlock/74051#post_6)
 <!-- DISCOURSE-LLVM:END -->
