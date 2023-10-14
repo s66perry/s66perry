@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why does tablegen not provide the #undef keyword, how do I invalidate the defined macro in *.td file?](https://discourse.llvm.org/t/why-does-tablegen-not-provide-the-undef-keyword-how-do-i-invalidate-the-defined-macro-in-td-file/74063#post_3)
+- [Clang warning argument unused during compilation for -fsanitize-address-outline-instrumentation](https://discourse.llvm.org/t/clang-warning-argument-unused-during-compilation-for-fsanitize-address-outline-instrumentation/74070#post_5)
 - [New Defects reported by Coverity Scan for llvm](https://discourse.llvm.org/t/new-defects-reported-by-coverity-scan-for-llvm/74100#post_1)
 - [TEST &#39;CIRCT :: firtool/firtool.fir&#39; FAILED](https://discourse.llvm.org/t/test-circt-firtool-firtool-fir-failed/74099#post_1)
 - [Clang warning argument unused during compilation for -fsanitize-address-outline-instrumentation](https://discourse.llvm.org/t/clang-warning-argument-unused-during-compilation-for-fsanitize-address-outline-instrumentation/74070#post_4)
-- [Help support hermetic clang tools builds with Bazel](https://discourse.llvm.org/t/help-support-hermetic-clang-tools-builds-with-bazel/74096#post_1)
-- [[RFC] SYCL Driver enhancements](https://discourse.llvm.org/t/rfc-sycl-driver-enhancements/74092#post_2)
 <!-- DISCOURSE-LLVM:END -->
