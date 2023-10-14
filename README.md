@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_7)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_3)
 - [Memory Prefetching Support in LLVM](https://discourse.llvm.org/t/memory-prefetching-support-in-llvm/74078#post_4)
 - [How to enable CustomAssemblyFormat in dump&lpar;&rpar;?](https://discourse.llvm.org/t/how-to-enable-customassemblyformat-in-dump/74107#post_1)
 - [Clang tooling preprocess file](https://discourse.llvm.org/t/clang-tooling-preprocess-file/74104#post_1)
-- [Clang warning argument unused during compilation for -fsanitize-address-outline-instrumentation](https://discourse.llvm.org/t/clang-warning-argument-unused-during-compilation-for-fsanitize-address-outline-instrumentation/74070#post_9)
-- [[RFC] Offloading design for SYCL offload kind and SPIR targets](https://discourse.llvm.org/t/rfc-offloading-design-for-sycl-offload-kind-and-spir-targets/74088#post_5)
 <!-- DISCOURSE-LLVM:END -->
