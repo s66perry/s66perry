@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_7)
+- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_6)
+- [Storage uniquer isn&#39;t initialized: the dialect was likely not loaded, or the type wasn&#39;t added with addTypes&lt;...&gt;&lpar;&rpar; in the Dialect::initialize&lpar;&rpar; method](https://discourse.llvm.org/t/storage-uniquer-isnt-initialized-the-dialect-was-likely-not-loaded-or-the-type-wasnt-added-with-addtypes-in-the-dialect-initialize-method/73606#post_2)
 - [LTO temp commands](https://discourse.llvm.org/t/lto-temp-commands/74035#post_5)
 - [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_1)
-- [Complete beginner for gsoc](https://discourse.llvm.org/t/complete-beginner-for-gsoc/74026#post_2)
-- [One question about Iree: can build an AI model target mcu](https://discourse.llvm.org/t/one-question-about-iree-can-build-an-ai-model-target-mcu/74049#post_4)
-- [One question about Iree: can build an AI model target mcu](https://discourse.llvm.org/t/one-question-about-iree-can-build-an-ai-model-target-mcu/74049#post_3)
 <!-- DISCOURSE-LLVM:END -->
