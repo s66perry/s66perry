@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=2#post_23)
-- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_2)
-- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_1)
-- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_5)
-- [[LLVM-DEV&#39;23] ML-Guided Compiler Optimization in LLVM Workshop](https://discourse.llvm.org/t/llvm-dev23-ml-guided-compiler-optimization-in-llvm-workshop/73090#post_3)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=2#post_24)
+- [LLVM crashing while trying to build SPEC with Clang](https://discourse.llvm.org/t/llvm-crashing-while-trying-to-build-spec-with-clang/52744#post_4)
+- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_5)
+- [Disabling offloading, openmp, GPU, NVPTX, cuda by default](https://discourse.llvm.org/t/disabling-offloading-openmp-gpu-nvptx-cuda-by-default/74103#post_2)
+- [Disable warnings of code when running runToolOnCode&lpar;&rpar;?](https://discourse.llvm.org/t/disable-warnings-of-code-when-running-runtooloncode/74110#post_4)
 <!-- DISCOURSE-LLVM:END -->
