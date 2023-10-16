@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Force push and rebase](https://discourse.llvm.org/t/force-push-and-rebase/73766#post_9)
-- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_4)
-- [Issue With Instruction Selection Pattern using intrinsics](https://discourse.llvm.org/t/issue-with-instruction-selection-pattern-using-intrinsics/74139#post_2)
-- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_10)
-- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165#post_19)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=2#post_23)
+- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_2)
+- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_1)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_5)
+- [[LLVM-DEV&#39;23] ML-Guided Compiler Optimization in LLVM Workshop](https://discourse.llvm.org/t/llvm-dev23-ml-guided-compiler-optimization-in-llvm-workshop/73090#post_3)
 <!-- DISCOURSE-LLVM:END -->
