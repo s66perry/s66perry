@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM-Backend] [TableGen] [01] : Meaning of various Register classes in Target.td](https://discourse.llvm.org/t/llvm-backend-tablegen-01-meaning-of-various-register-classes-in-target-td/74136#post_2)
-- [[LLVM-Backend] [TableGen] [01] : Meaning of various Register classes in Target.td](https://discourse.llvm.org/t/llvm-backend-tablegen-01-meaning-of-various-register-classes-in-target-td/74136#post_1)
-- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165#post_18)
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_7)
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_6)
+- [Why does tablegen not provide the #undef keyword, how do I invalidate the defined macro in *.td file?](https://discourse.llvm.org/t/why-does-tablegen-not-provide-the-undef-keyword-how-do-i-invalidate-the-defined-macro-in-td-file/74063#post_4)
+- [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_5)
+- [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_4)
+- [WG14 &lpar;C&rpar; meetings this week](https://discourse.llvm.org/t/wg14-c-meetings-this-week/74140#post_1)
+- [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_3)
 <!-- DISCOURSE-LLVM:END -->
