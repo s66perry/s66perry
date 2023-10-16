@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LTO temp commands](https://discourse.llvm.org/t/lto-temp-commands/74035#post_5)
 - [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_1)
 - [Complete beginner for gsoc](https://discourse.llvm.org/t/complete-beginner-for-gsoc/74026#post_2)
 - [One question about Iree: can build an AI model target mcu](https://discourse.llvm.org/t/one-question-about-iree-can-build-an-ai-model-target-mcu/74049#post_4)
 - [One question about Iree: can build an AI model target mcu](https://discourse.llvm.org/t/one-question-about-iree-can-build-an-ai-model-target-mcu/74049#post_3)
-- [Undefined reference when linking against LLVM libraries with CMake](https://discourse.llvm.org/t/undefined-reference-when-linking-against-llvm-libraries-with-cmake/74127#post_1)
 <!-- DISCOURSE-LLVM:END -->
