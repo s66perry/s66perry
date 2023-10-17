@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LTO temp commands](https://discourse.llvm.org/t/lto-temp-commands/74035#post_6)
 - [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716#post_18)
 - [OpenCL example](https://discourse.llvm.org/t/opencl-example/74187#post_1)
 - [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716#post_17)
 - [AArch64 Sync-up](https://discourse.llvm.org/t/aarch64-sync-up/74186#post_1)
-- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716#post_16)
 <!-- DISCOURSE-LLVM:END -->
