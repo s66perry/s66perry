@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TableGen: how to run llvm-tblgen tool with pre-defined .td files?](https://discourse.llvm.org/t/tablegen-how-to-run-llvm-tblgen-tool-with-pre-defined-td-files/74177#post_3)
-- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_5)
-- [TableGen: how to run llvm-tblgen tool with pre-defined .td files?](https://discourse.llvm.org/t/tablegen-how-to-run-llvm-tblgen-tool-with-pre-defined-td-files/74177#post_2)
-- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_4)
-- [TableGen: how to run llvm-tblgen tool with pre-defined .td files?](https://discourse.llvm.org/t/tablegen-how-to-run-llvm-tblgen-tool-with-pre-defined-td-files/74177#post_1)
+- [Why some OpenMP ops only interoperate with llvm dialect?](https://discourse.llvm.org/t/why-some-openmp-ops-only-interoperate-with-llvm-dialect/74181#post_2)
+- [Disabling offloading, openmp, GPU, NVPTX, cuda by default](https://discourse.llvm.org/t/disabling-offloading-openmp-gpu-nvptx-cuda-by-default/74103#post_5)
+- [Why some OpenMP ops only interoperate with llvm dialect?](https://discourse.llvm.org/t/why-some-openmp-ops-only-interoperate-with-llvm-dialect/74181#post_1)
+- [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_7)
+- [[RFC] &quot;SIMD within a register&quot; &lpar;SWAR&rpar; loop vectorization](https://discourse.llvm.org/t/rfc-simd-within-a-register-swar-loop-vectorization/74179#post_1)
 <!-- DISCOURSE-LLVM:END -->
