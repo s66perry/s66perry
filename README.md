@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=3#post_49)
-- [Flang Liaison Report to J3](https://discourse.llvm.org/t/flang-liaison-report-to-j3/68468#post_4)
-- [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_6)
-- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=3#post_48)
-- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_8)
+- [Issues with XRay Instrumentation of Nginx using Clang-14 on Ubuntu](https://discourse.llvm.org/t/issues-with-xray-instrumentation-of-nginx-using-clang-14-on-ubuntu/74163#post_1)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=3#post_50)
+- [New GlobalISel office hours and sync up meetings](https://discourse.llvm.org/t/new-globalisel-office-hours-and-sync-up-meetings/74162#post_1)
+- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_11)
+- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_10)
 <!-- DISCOURSE-LLVM:END -->
