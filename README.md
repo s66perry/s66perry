@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issues with XRay Instrumentation of Nginx using Clang-14 on Ubuntu](https://discourse.llvm.org/t/issues-with-xray-instrumentation-of-nginx-using-clang-14-on-ubuntu/74163#post_1)
-- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=3#post_50)
-- [New GlobalISel office hours and sync up meetings](https://discourse.llvm.org/t/new-globalisel-office-hours-and-sync-up-meetings/74162#post_1)
-- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_11)
-- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_10)
+- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_3)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=3#post_53)
+- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_11)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=3#post_52)
+- [Disabling offloading, openmp, GPU, NVPTX, cuda by default](https://discourse.llvm.org/t/disabling-offloading-openmp-gpu-nvptx-cuda-by-default/74103#post_4)
 <!-- DISCOURSE-LLVM:END -->
