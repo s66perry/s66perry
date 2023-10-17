@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716#post_20)
+- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_4)
+- [Add ThreadSanitizer check to prevent coroutine suspending while holding a lock &lpar;potential deadlock&rpar;?](https://discourse.llvm.org/t/add-threadsanitizer-check-to-prevent-coroutine-suspending-while-holding-a-lock-potential-deadlock/74051#post_9)
+- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716#post_19)
 - [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_19)
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_18)
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_17)
-- [Disabling offloading, openmp, GPU, NVPTX, cuda by default](https://discourse.llvm.org/t/disabling-offloading-openmp-gpu-nvptx-cuda-by-default/74103#post_6)
-- [Expressing the Darwin/MacOS target build command in LLVM IR](https://discourse.llvm.org/t/expressing-the-darwin-macos-target-build-command-in-llvm-ir/74198#post_1)
 <!-- DISCOURSE-LLVM:END -->
