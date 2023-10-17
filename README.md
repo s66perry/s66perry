@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 17.0.3 Released](https://discourse.llvm.org/t/llvm-17-0-3-released/74172#post_1)
-- [LLVM 17.0.3 tagged](https://discourse.llvm.org/t/llvm-17-0-3-tagged/74171#post_1)
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_15)
-- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165#post_20)
-- [[RFC] Rename lldb-vscode to lldb-dap](https://discourse.llvm.org/t/rfc-rename-lldb-vscode-to-lldb-dap/74075#post_14)
+- [How does it find the host data to transfer it to target using IR instead of JIT?](https://discourse.llvm.org/t/how-does-it-find-the-host-data-to-transfer-it-to-target-using-ir-instead-of-jit/74175#post_4)
+- [How does it find the host data to transfer it to target using IR instead of JIT?](https://discourse.llvm.org/t/how-does-it-find-the-host-data-to-transfer-it-to-target-using-ir-instead-of-jit/74175#post_3)
+- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716#post_13)
+- [How does it find the host data to transfer it to target using IR instead of JIT?](https://discourse.llvm.org/t/how-does-it-find-the-host-data-to-transfer-it-to-target-using-ir-instead-of-jit/74175#post_2)
+- [How does it find the host data to transfer it to target using IR instead of JIT?](https://discourse.llvm.org/t/how-does-it-find-the-host-data-to-transfer-it-to-target-using-ir-instead-of-jit/74175#post_1)
 <!-- DISCOURSE-LLVM:END -->
