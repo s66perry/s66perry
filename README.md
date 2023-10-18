@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716?page=2#post_22)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479?page=2#post_24)
-- [[RFC] New function attribute, optdebug, for prioritizing debuggability in LLVM passes](https://discourse.llvm.org/t/rfc-new-function-attribute-optdebug-for-prioritizing-debuggability-in-llvm-passes/73552#post_10)
-- [LLVM-Clang-Build Mozart2](https://discourse.llvm.org/t/llvm-clang-build-mozart2/74222#post_1)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479?page=2#post_23)
+- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_9)
+- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_8)
+- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216#post_9)
+- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216#post_8)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_1)
 <!-- DISCOURSE-LLVM:END -->
