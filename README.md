@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_8)
+- [Purpose of `cf` dialect](https://discourse.llvm.org/t/purpose-of-cf-dialect/74211#post_1)
 - [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_15)
 - [Register alignment in RISCV](https://discourse.llvm.org/t/register-alignment-in-riscv/70502#post_5)
 - [Register alignment in RISCV](https://discourse.llvm.org/t/register-alignment-in-riscv/70502#post_4)
-- [Why some OpenMP ops only interoperate with llvm dialect?](https://discourse.llvm.org/t/why-some-openmp-ops-only-interoperate-with-llvm-dialect/74181#post_3)
-- [Disabling offloading, openmp, GPU, NVPTX, cuda by default](https://discourse.llvm.org/t/disabling-offloading-openmp-gpu-nvptx-cuda-by-default/74103#post_8)
 <!-- DISCOURSE-LLVM:END -->
