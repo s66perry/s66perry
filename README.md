@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_15)
+- [Register alignment in RISCV](https://discourse.llvm.org/t/register-alignment-in-riscv/70502#post_5)
+- [Register alignment in RISCV](https://discourse.llvm.org/t/register-alignment-in-riscv/70502#post_4)
+- [Why some OpenMP ops only interoperate with llvm dialect?](https://discourse.llvm.org/t/why-some-openmp-ops-only-interoperate-with-llvm-dialect/74181#post_3)
 - [Disabling offloading, openmp, GPU, NVPTX, cuda by default](https://discourse.llvm.org/t/disabling-offloading-openmp-gpu-nvptx-cuda-by-default/74103#post_8)
-- [Why does tablegen not provide the #undef keyword, how do I invalidate the defined macro in *.td file?](https://discourse.llvm.org/t/why-does-tablegen-not-provide-the-undef-keyword-how-do-i-invalidate-the-defined-macro-in-td-file/74063#post_5)
-- [AArch64 Sync-up](https://discourse.llvm.org/t/aarch64-sync-up/74186#post_6)
-- [AArch64 Sync-up](https://discourse.llvm.org/t/aarch64-sync-up/74186#post_5)
-- [AArch64 Sync-up](https://discourse.llvm.org/t/aarch64-sync-up/74186#post_4)
 <!-- DISCOURSE-LLVM:END -->
