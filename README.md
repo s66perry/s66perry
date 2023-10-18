@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_15)
-- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_14)
-- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_13)
-- [[RFC] New function attribute, optdebug, for prioritizing debuggability in LLVM passes](https://discourse.llvm.org/t/rfc-new-function-attribute-optdebug-for-prioritizing-debuggability-in-llvm-passes/73552#post_9)
-- [LTO temp commands](https://discourse.llvm.org/t/lto-temp-commands/74035#post_7)
+- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216#post_6)
+- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216#post_5)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=3#post_60)
+- [Is `cf.assert` a compile-time or runtime assertion?](https://discourse.llvm.org/t/is-cf-assert-a-compile-time-or-runtime-assertion/74211#post_3)
+- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087#post_16)
 <!-- DISCOURSE-LLVM:END -->
