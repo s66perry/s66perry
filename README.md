@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_12)
-- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=4#post_68)
-- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864?page=3#post_48)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=3#post_55)
-- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087?page=2#post_22)
+- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_13)
+- [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_9)
+- [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_8)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_5)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_4)
 <!-- DISCOURSE-LLVM:END -->
