@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_9)
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_8)
-- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_9)
-- [[RFC] For better call-graph sort, build a more complete call-graph by adding more indirect call edges](https://discourse.llvm.org/t/rfc-for-better-call-graph-sort-build-a-more-complete-call-graph-by-adding-more-indirect-call-edges/74029#post_8)
-- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216#post_9)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_12)
+- [Custom walk and replace for non tablegen types](https://discourse.llvm.org/t/custom-walk-and-replace-for-non-tablegen-types/74229#post_1)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_11)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_10)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_9)
 <!-- DISCOURSE-LLVM:END -->
