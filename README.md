@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_13)
-- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216#post_10)
-- [Optimize out opposite function calls](https://discourse.llvm.org/t/optimize-out-opposite-function-calls/74250#post_1)
-- [Lowering Matrix multiplication](https://discourse.llvm.org/t/lowering-matrix-multiplication/74249#post_1)
-- [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_2)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_6)
+- [Splitting TileOp with two tile sizes into two TileOps](https://discourse.llvm.org/t/splitting-tileop-with-two-tile-sizes-into-two-tileops/74246#post_2)
+- [Writing Custom FIRRTL Passes](https://discourse.llvm.org/t/writing-custom-firrtl-passes/62216#post_5)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_5)
+- [How can I get the size of function](https://discourse.llvm.org/t/how-can-i-get-the-size-of-function/74236#post_2)
 <!-- DISCOURSE-LLVM:END -->
