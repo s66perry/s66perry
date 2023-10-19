@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=4#post_65)
-- [[RFC] OpenMP reduction support](https://discourse.llvm.org/t/rfc-openmp-reduction-support/3367#post_10)
-- [How to get an Integer from llvm::TypeSize instance?](https://discourse.llvm.org/t/how-to-get-an-integer-from-llvm-typesize-instance/74245#post_1)
-- [New builtin function to get number of lanes in SIMD vectors](https://discourse.llvm.org/t/new-builtin-function-to-get-number-of-lanes-in-simd-vectors/73911#post_4)
-- [MLIR &quot;--convert-linalg-to-affine&quot; pass file outputs unchanged](https://discourse.llvm.org/t/mlir-convert-linalg-to-affine-pass-file-outputs-unchanged/74237#post_5)
+- [ATTENDEE LIST OF Bakersfield Comic Con](https://discourse.llvm.org/t/attendee-list-of-bakersfield-comic-con/74248#post_1)
+- [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_2)
+- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442?page=2#post_21)
+- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_4)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_1)
 <!-- DISCOURSE-LLVM:END -->
