@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_1)
-- [Type independent load/store](https://discourse.llvm.org/t/type-independent-load-store/74240#post_1)
-- [How to find if call to an llvm intrinsic or C standard library function won&#39;t write to the memory?](https://discourse.llvm.org/t/how-to-find-if-call-to-an-llvm-intrinsic-or-c-standard-library-function-wont-write-to-the-memory/74239#post_2)
-- [How to find if call to an llvm intrinsic or C standard library function won&#39;t write to the memory?](https://discourse.llvm.org/t/how-to-find-if-call-to-an-llvm-intrinsic-or-c-standard-library-function-wont-write-to-the-memory/74239#post_1)
-- [MLIR &quot;--convert-linalg-to-affine&quot; pass file outputs unchanged](https://discourse.llvm.org/t/mlir-convert-linalg-to-affine-pass-file-outputs-unchanged/74237#post_1)
+- [New builtin function to get number of lanes in SIMD vectors](https://discourse.llvm.org/t/new-builtin-function-to-get-number-of-lanes-in-simd-vectors/73911#post_4)
+- [MLIR &quot;--convert-linalg-to-affine&quot; pass file outputs unchanged](https://discourse.llvm.org/t/mlir-convert-linalg-to-affine-pass-file-outputs-unchanged/74237#post_5)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=3#post_42)
+- [MLIR &quot;--convert-linalg-to-affine&quot; pass file outputs unchanged](https://discourse.llvm.org/t/mlir-convert-linalg-to-affine-pass-file-outputs-unchanged/74237#post_4)
+- [MLIR &quot;--convert-linalg-to-affine&quot; pass file outputs unchanged](https://discourse.llvm.org/t/mlir-convert-linalg-to-affine-pass-file-outputs-unchanged/74237#post_3)
 <!-- DISCOURSE-LLVM:END -->
