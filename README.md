@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ATTENDEE LIST OF Bakersfield Comic Con](https://discourse.llvm.org/t/attendee-list-of-bakersfield-comic-con/74248#post_1)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_13)
+- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216#post_10)
+- [Optimize out opposite function calls](https://discourse.llvm.org/t/optimize-out-opposite-function-calls/74250#post_1)
+- [Lowering Matrix multiplication](https://discourse.llvm.org/t/lowering-matrix-multiplication/74249#post_1)
 - [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_2)
-- [Adding flang-specific header files to clang](https://discourse.llvm.org/t/adding-flang-specific-header-files-to-clang/72442?page=2#post_21)
-- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_4)
-- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_1)
 <!-- DISCOURSE-LLVM:END -->
