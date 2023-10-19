@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_10)
-- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=4#post_67)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_9)
-- [PSA: Breaking change for Python bindings `OpView` extensions](https://discourse.llvm.org/t/psa-breaking-change-for-python-bindings-opview-extensions/74254#post_1)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_8)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_3)
+- [MLIR lowering](https://discourse.llvm.org/t/mlir-lowering/74218#post_5)
+- [MLIR lowering](https://discourse.llvm.org/t/mlir-lowering/74218#post_4)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_2)
+- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
