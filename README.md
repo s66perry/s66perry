@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Does anyone here cross compile the run-times?](https://discourse.llvm.org/t/does-anyone-here-cross-compile-the-run-times/74272#post_1)
+- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087?page=2#post_23)
+- [[RFC] OpenMP reduction support](https://discourse.llvm.org/t/rfc-openmp-reduction-support/3367#post_13)
+- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716?page=2#post_26)
+- [Does anyone here cross compile the run-times using CMAKE_SYSTEM_NAME=&quot;Generic&quot;?](https://discourse.llvm.org/t/does-anyone-here-cross-compile-the-run-times-using-cmake-system-name-generic/74272#post_1)
 - [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_6)
-- [Bufferization of func dialect](https://discourse.llvm.org/t/bufferization-of-func-dialect/74265#post_2)
-- [[RFC] OpenMP reduction support](https://discourse.llvm.org/t/rfc-openmp-reduction-support/3367#post_12)
-- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
