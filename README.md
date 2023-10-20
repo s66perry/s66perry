@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_13)
-- [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_9)
-- [Maintenance required on sphinx build bots](https://discourse.llvm.org/t/maintenance-required-on-sphinx-build-bots/73612#post_8)
-- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_5)
-- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_4)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_7)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_6)
+- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_12)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259#post_1)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
