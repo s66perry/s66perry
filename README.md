@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [SME in MLIR status &lpar;20/10/2023&rpar;](https://discourse.llvm.org/t/sme-in-mlir-status-20-10-2023/74273#post_1)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_15)
+- [Disabling offloading, openmp, GPU, NVPTX, cuda by default](https://discourse.llvm.org/t/disabling-offloading-openmp-gpu-nvptx-cuda-by-default/74103#post_11)
 - [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087?page=2#post_23)
 - [[RFC] OpenMP reduction support](https://discourse.llvm.org/t/rfc-openmp-reduction-support/3367#post_13)
-- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716?page=2#post_26)
-- [Does anyone here cross compile the run-times using CMAKE_SYSTEM_NAME=&quot;Generic&quot;?](https://discourse.llvm.org/t/does-anyone-here-cross-compile-the-run-times-using-cmake-system-name-generic/74272#post_1)
-- [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_6)
 <!-- DISCOURSE-LLVM:END -->
