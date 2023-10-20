@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does anyone here cross compile the run-times?](https://discourse.llvm.org/t/does-anyone-here-cross-compile-the-run-times/74272#post_1)
+- [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_6)
+- [Bufferization of func dialect](https://discourse.llvm.org/t/bufferization-of-func-dialect/74265#post_2)
 - [[RFC] OpenMP reduction support](https://discourse.llvm.org/t/rfc-openmp-reduction-support/3367#post_12)
 - [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716?page=2#post_25)
-- [&quot;undefined reference to `llvm::raw_&quot; when using ninja](https://discourse.llvm.org/t/undefined-reference-to-llvm-raw-when-using-ninja/74263#post_3)
-- [Submitting code or review comments on someone else&#39;s behalf](https://discourse.llvm.org/t/submitting-code-or-review-comments-on-someone-elses-behalf/74269#post_1)
-- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_14)
 <!-- DISCOURSE-LLVM:END -->
