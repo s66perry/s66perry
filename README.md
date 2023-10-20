@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_9)
-- [Question about ModuleOp&#39;s SymbolOpInterface](https://discourse.llvm.org/t/question-about-moduleops-symbolopinterface/74267#post_2)
-- [[RFC][dataflow] Treating value categories correctly in the dataflow framework](https://discourse.llvm.org/t/rfc-dataflow-treating-value-categories-correctly-in-the-dataflow-framework/70086#post_6)
-- [Splitting TileOp with two tile sizes into two TileOps](https://discourse.llvm.org/t/splitting-tileop-with-two-tile-sizes-into-two-tileops/74246#post_3)
-- [Question about ModuleOp&#39;s SymbolOpInterface](https://discourse.llvm.org/t/question-about-moduleops-symbolopinterface/74267#post_1)
+- [&quot;undefined reference to `llvm::raw_&quot; when using ninja](https://discourse.llvm.org/t/undefined-reference-to-llvm-raw-when-using-ninja/74263#post_3)
+- [Submitting code or review comments on someone else&#39;s behalf](https://discourse.llvm.org/t/submitting-code-or-review-comments-on-someone-elses-behalf/74269#post_1)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_14)
+- [AArch64 Round table](https://discourse.llvm.org/t/aarch64-round-table/73716?page=2#post_24)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_13)
 <!-- DISCOURSE-LLVM:END -->
