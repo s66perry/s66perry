@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [&quot;undefined reference to `llvm::raw_&quot; when using ninja](https://discourse.llvm.org/t/undefined-reference-to-llvm-raw-when-using-ninja/74263#post_2)
 - [&quot;undefined reference to `llvm::raw_&quot; when using ninja](https://discourse.llvm.org/t/undefined-reference-to-llvm-raw-when-using-ninja/74263#post_1)
 - [How can I get the size of function](https://discourse.llvm.org/t/how-can-i-get-the-size-of-function/74236#post_4)
 - [Problem with Kaliedoscope examples under Linux](https://discourse.llvm.org/t/problem-with-kaliedoscope-examples-under-linux/74130#post_8)
 - [How can I get the size of function](https://discourse.llvm.org/t/how-can-i-get-the-size-of-function/74236#post_3)
-- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_11)
 <!-- DISCOURSE-LLVM:END -->
