@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_5)
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_34)
-- [Gcc 11 segfault / internal compiler error while building LLVM](https://discourse.llvm.org/t/gcc-11-segfault-internal-compiler-error-while-building-llvm/74264#post_4)
-- [Gcc 11 segfault / internal compiler error while building LLVM](https://discourse.llvm.org/t/gcc-11-segfault-internal-compiler-error-while-building-llvm/74264#post_3)
-- [Bufferization of func dialect](https://discourse.llvm.org/t/bufferization-of-func-dialect/74265#post_1)
+- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_9)
+- [Question about ModuleOp&#39;s SymbolOpInterface](https://discourse.llvm.org/t/question-about-moduleops-symbolopinterface/74267#post_2)
+- [[RFC][dataflow] Treating value categories correctly in the dataflow framework](https://discourse.llvm.org/t/rfc-dataflow-treating-value-categories-correctly-in-the-dataflow-framework/70086#post_6)
+- [Splitting TileOp with two tile sizes into two TileOps](https://discourse.llvm.org/t/splitting-tileop-with-two-tile-sizes-into-two-tileops/74246#post_3)
+- [Question about ModuleOp&#39;s SymbolOpInterface](https://discourse.llvm.org/t/question-about-moduleops-symbolopinterface/74267#post_1)
 <!-- DISCOURSE-LLVM:END -->
