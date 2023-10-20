@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ERROR in building Source Code](https://discourse.llvm.org/t/error-in-building-source-code/74264#post_3)
+- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_5)
+- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=2#post_34)
+- [Gcc 11 segfault / internal compiler error while building LLVM](https://discourse.llvm.org/t/gcc-11-segfault-internal-compiler-error-while-building-llvm/74264#post_4)
+- [Gcc 11 segfault / internal compiler error while building LLVM](https://discourse.llvm.org/t/gcc-11-segfault-internal-compiler-error-while-building-llvm/74264#post_3)
 - [Bufferization of func dialect](https://discourse.llvm.org/t/bufferization-of-func-dialect/74265#post_1)
-- [ERROR in building Source Code](https://discourse.llvm.org/t/error-in-building-source-code/74264#post_2)
-- [ERROR in building Source Code](https://discourse.llvm.org/t/error-in-building-source-code/74264#post_1)
-- [&quot;undefined reference to `llvm::raw_&quot; when using ninja](https://discourse.llvm.org/t/undefined-reference-to-llvm-raw-when-using-ninja/74263#post_2)
 <!-- DISCOURSE-LLVM:END -->
