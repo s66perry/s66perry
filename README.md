@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_9)
+- [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_8)
 - [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_7)
 - [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_6)
 - [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_5)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_48)
-- [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_4)
 <!-- DISCOURSE-LLVM:END -->
