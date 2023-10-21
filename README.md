@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_3)
+- [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_2)
+- [LLDB prints strange escape sequences when attaching to PID &lpar;Emacs&rpar;](https://discourse.llvm.org/t/lldb-prints-strange-escape-sequences-when-attaching-to-pid-emacs/74285#post_1)
 - [Raising issues for using &lpar;soft-&rpar;deprecated functionality](https://discourse.llvm.org/t/raising-issues-for-using-soft-deprecated-functionality/74283#post_4)
 - [Raising issues for using &lpar;soft-&rpar;deprecated functionality](https://discourse.llvm.org/t/raising-issues-for-using-soft-deprecated-functionality/74283#post_3)
-- [Raising issues for using &lpar;soft-&rpar;deprecated functionality](https://discourse.llvm.org/t/raising-issues-for-using-soft-deprecated-functionality/74283#post_2)
-- [Raising issues for using &lpar;soft-&rpar;deprecated functionality](https://discourse.llvm.org/t/raising-issues-for-using-soft-deprecated-functionality/74283#post_1)
-- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_6)
 <!-- DISCOURSE-LLVM:END -->
