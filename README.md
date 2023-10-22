@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_1)
 - [Getting ScalarEvolution info inside a custom pass](https://discourse.llvm.org/t/getting-scalarevolution-info-inside-a-custom-pass/74299#post_4)
 - [Getting ScalarEvolution info inside a custom pass](https://discourse.llvm.org/t/getting-scalarevolution-info-inside-a-custom-pass/74299#post_3)
 - [Getting ScalarEvolution info inside a custom pass](https://discourse.llvm.org/t/getting-scalarevolution-info-inside-a-custom-pass/74299#post_2)
 - [Getting ScalarEvolution info inside a custom pass](https://discourse.llvm.org/t/getting-scalarevolution-info-inside-a-custom-pass/74299#post_1)
-- [How can I get info about `CXCursor_UnaryExpr`](https://discourse.llvm.org/t/how-can-i-get-info-about-cxcursor-unaryexpr/74298#post_1)
 <!-- DISCOURSE-LLVM:END -->
