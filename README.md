@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_51)
 - [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_50)
 - [Segmentation fault when adding a new RISCV Intrinsic](https://discourse.llvm.org/t/segmentation-fault-when-adding-a-new-riscv-intrinsic/72301#post_11)
 - [LLVM 17.0.3 tagged](https://discourse.llvm.org/t/llvm-17-0-3-tagged/74171#post_4)
 - [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_9)
-- [PSA: Breaking change for Python bindings `OpView` extensions](https://discourse.llvm.org/t/psa-breaking-change-for-python-bindings-opview-extensions/74254#post_2)
 <!-- DISCOURSE-LLVM:END -->
