@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Running individual test cases for LLDB gives error](https://discourse.llvm.org/t/running-individual-test-cases-for-lldb-gives-error/74343#post_1)
-- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479?page=2#post_25)
-- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_6)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_14)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_13)
+- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_8)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_13)
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_15)
+- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_7)
+- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_15)
 <!-- DISCOURSE-LLVM:END -->
