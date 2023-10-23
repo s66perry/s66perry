@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR C/C++ Frontend Working Group [Mon, Oct 23rd]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-oct-23rd/74309#post_1)
-- [[RFC] Introducing `llvm/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-offload/74302#post_3)
-- [Practical Compiler Optimizations for WSC Workshop @ US LLVM Dev Meeting 2023](https://discourse.llvm.org/t/practical-compiler-optimizations-for-wsc-workshop-us-llvm-dev-meeting-2023/73998#post_6)
-- [Practical Compiler Optimizations for WSC Workshop @ US LLVM Dev Meeting 2023](https://discourse.llvm.org/t/practical-compiler-optimizations-for-wsc-workshop-us-llvm-dev-meeting-2023/73998#post_5)
-- [MLIR gpu-module-to-binary using the CAPI](https://discourse.llvm.org/t/mlir-gpu-module-to-binary-using-the-capi/74297#post_3)
+- [How can I change clang to compile a.ll file in a language that I specify &lpar;not one that clang can compile now&rpar;?](https://discourse.llvm.org/t/how-can-i-change-clang-to-compile-a-ll-file-in-a-language-that-i-specify-not-one-that-clang-can-compile-now/74311#post_1)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247?page=2#post_21)
+- [New GlobalISel office hours and sync up meetings](https://discourse.llvm.org/t/new-globalisel-office-hours-and-sync-up-meetings/74162#post_5)
+- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247#post_20)
+- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_7)
 <!-- DISCOURSE-LLVM:END -->
