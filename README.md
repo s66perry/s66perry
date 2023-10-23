@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_4)
-- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_5)
-- [[RFC] Introducing `llvm/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-offload/74302#post_7)
-- [How can I change clang to compile a.ll file in a language that I specify &lpar;not one that clang can compile now&rpar;?](https://discourse.llvm.org/t/how-can-i-change-clang-to-compile-a-ll-file-in-a-language-that-i-specify-not-one-that-clang-can-compile-now/74311#post_3)
-- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_2)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_14)
+- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_4)
+- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_3)
+- [Expressing the Darwin/MacOS target build command in LLVM IR](https://discourse.llvm.org/t/expressing-the-darwin-macos-target-build-command-in-llvm-ir/74198#post_2)
+- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_6)
 <!-- DISCOURSE-LLVM:END -->
