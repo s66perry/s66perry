@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Running individual test cases for LLDB gives error](https://discourse.llvm.org/t/running-individual-test-cases-for-lldb-gives-error/74343#post_1)
+- [MLIR Sparse Compiler Progress](https://discourse.llvm.org/t/mlir-sparse-compiler-progress/60479?page=2#post_25)
+- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_6)
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_14)
 - [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_13)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_12)
-- [Why does LLVM not perform range analysis on integer values?](https://discourse.llvm.org/t/why-does-llvm-not-perform-range-analysis-on-integer-values/74341#post_1)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_11)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_10)
 <!-- DISCOURSE-LLVM:END -->
