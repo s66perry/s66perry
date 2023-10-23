@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_9)
-- [Cannot Find Libc++](https://discourse.llvm.org/t/cannot-find-libc/74336#post_3)
-- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_8)
-- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_13)
-- [Cannot Find Libc++](https://discourse.llvm.org/t/cannot-find-libc/74336#post_2)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_11)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_10)
+- [Force optimizations even when optnone is present](https://discourse.llvm.org/t/force-optimizations-even-when-optnone-is-present/74216?page=2#post_22)
+- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_17)
+- [[CFP] Eighth LLVM Performance Workshop at CGO-2024](https://discourse.llvm.org/t/cfp-eighth-llvm-performance-workshop-at-cgo-2024/74338#post_1)
 <!-- DISCOURSE-LLVM:END -->
