@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_12)
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_11)
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_10)
-- [Properties in core dialects](https://discourse.llvm.org/t/properties-in-core-dialects/74332#post_2)
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_9)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_9)
+- [Cannot Find Libc++](https://discourse.llvm.org/t/cannot-find-libc/74336#post_3)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_8)
+- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_13)
+- [Cannot Find Libc++](https://discourse.llvm.org/t/cannot-find-libc/74336#post_2)
 <!-- DISCOURSE-LLVM:END -->
