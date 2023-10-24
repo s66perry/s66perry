@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Ninja can now check for missing CMake dependencies on generated files](https://discourse.llvm.org/t/ninja-can-now-check-for-missing-cmake-dependencies-on-generated-files/74344#post_4)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_18)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365#post_4)
-- [Moving the omp.parallel when converting scf to OpenMP](https://discourse.llvm.org/t/moving-the-omp-parallel-when-converting-scf-to-openmp/74360#post_2)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365#post_3)
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_21)
+- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365#post_12)
+- [Open MLIR Meeting 10/26/2023: A Polynomial Dialect Proposal](https://discourse.llvm.org/t/open-mlir-meeting-10-26-2023-a-polynomial-dialect-proposal/74372#post_1)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_10)
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_20)
 <!-- DISCOURSE-LLVM:END -->
