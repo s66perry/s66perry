@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_21)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365#post_12)
-- [Open MLIR Meeting 10/26/2023: A Polynomial Dialect Proposal](https://discourse.llvm.org/t/open-mlir-meeting-10-26-2023-a-polynomial-dialect-proposal/74372#post_1)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_10)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_20)
+- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365#post_13)
+- [Copy to/from volatile structure](https://discourse.llvm.org/t/copy-to-from-volatile-structure/72278#post_12)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=3#post_60)
+- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_9)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_11)
 <!-- DISCOURSE-LLVM:END -->
