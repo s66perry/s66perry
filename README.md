@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_3)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_2)
-- [LLVM Meetup in Munich – October 25th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-october-25th-2023/73738#post_2)
-- [After Lingalg tiling can&#39;t lower to llvm](https://discourse.llvm.org/t/after-lingalg-tiling-cant-lower-to-llvm/74356#post_2)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_1)
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_2)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_14)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_5)
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_1)
+- [Ninja can now check for missing CMake dependencies on generated files](https://discourse.llvm.org/t/ninja-can-now-check-for-missing-cmake-dependencies-on-generated-files/74344#post_3)
 <!-- DISCOURSE-LLVM:END -->
