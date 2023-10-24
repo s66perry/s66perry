@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_3)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_2)
+- [LLVM Meetup in Munich – October 25th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-october-25th-2023/73738#post_2)
+- [After Lingalg tiling can&#39;t lower to llvm](https://discourse.llvm.org/t/after-lingalg-tiling-cant-lower-to-llvm/74356#post_2)
 - [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_1)
-- [After Lingalg tiling can&#39;t lower to llvm](https://discourse.llvm.org/t/after-lingalg-tiling-cant-lower-to-llvm/74356#post_1)
-- [`gpu.set_default_device` does not work when specified multiple times](https://discourse.llvm.org/t/gpu-set-default-device-does-not-work-when-specified-multiple-times/74317#post_5)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_17)
-- [[RFC] tensor.pack and tensor.unpack](https://discourse.llvm.org/t/rfc-tensor-pack-and-tensor-unpack/66408?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
