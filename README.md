@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_2)
-- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_14)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_5)
-- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_1)
-- [Ninja can now check for missing CMake dependencies on generated files](https://discourse.llvm.org/t/ninja-can-now-check-for-missing-cmake-dependencies-on-generated-files/74344#post_3)
+- [Moving the omp.parallel when converting scf to OpenMP](https://discourse.llvm.org/t/moving-the-omp-parallel-when-converting-scf-to-openmp/74360#post_1)
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_5)
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_4)
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_3)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902#post_15)
 <!-- DISCOURSE-LLVM:END -->
