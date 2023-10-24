@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why does LLVM not perform range analysis on integer values?](https://discourse.llvm.org/t/why-does-llvm-not-perform-range-analysis-on-integer-values/74341#post_2)
 - [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_16)
 - [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_8)
 - [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_13)
 - [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302#post_15)
-- [Querying loop invariance on a per-level basis](https://discourse.llvm.org/t/querying-loop-invariance-on-a-per-level-basis/74300#post_7)
 <!-- DISCOURSE-LLVM:END -->
