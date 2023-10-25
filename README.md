@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Properties in core dialects](https://discourse.llvm.org/t/properties-in-core-dialects/74332#post_6)
-- [`gpu.set_default_device` does not work when specified multiple times](https://discourse.llvm.org/t/gpu-set-default-device-does-not-work-when-specified-multiple-times/74317#post_6)
-- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_2)
-- [The order of attribute classes in tablegen-generated file](https://discourse.llvm.org/t/the-order-of-attribute-classes-in-tablegen-generated-file/74387#post_2)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_13)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_18)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_17)
+- [Relocatable file definitions shared with DSO](https://discourse.llvm.org/t/relocatable-file-definitions-shared-with-dso/74391#post_1)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_16)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_15)
 <!-- DISCOURSE-LLVM:END -->
