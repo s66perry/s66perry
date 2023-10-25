@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Large watchpoint support in lldb](https://discourse.llvm.org/t/rfc-large-watchpoint-support-in-lldb/72116#post_14)
+- [Inconsistency between GCC and LLVM in mcmodel=large](https://discourse.llvm.org/t/inconsistency-between-gcc-and-llvm-in-mcmodel-large/74385#post_2)
+- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_15)
+- [`gpu.set_default_device` does not work when specified multiple times](https://discourse.llvm.org/t/gpu-set-default-device-does-not-work-when-specified-multiple-times/74317#post_8)
 - [[RFC] Implementation of OpenACC 3.3 for Offload in Clang](https://discourse.llvm.org/t/rfc-implementation-of-openacc-3-3-for-offload-in-clang/74405#post_13)
-- [Possible to avoid llvm.dbg.value intrinsics?](https://discourse.llvm.org/t/possible-to-avoid-llvm-dbg-value-intrinsics/74393#post_3)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365#post_15)
-- [Noipa continues](https://discourse.llvm.org/t/noipa-continues/74411#post_3)
-- [Noipa continues](https://discourse.llvm.org/t/noipa-continues/74411#post_2)
 <!-- DISCOURSE-LLVM:END -->
