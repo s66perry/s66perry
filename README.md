@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Distinct code generation with -fPIE and mcmodel=large](https://discourse.llvm.org/t/distinct-code-generation-with-fpie-and-mcmodel-large/74386#post_1)
+- [Inconsistency between GCC and LLVM in mcmodel=large](https://discourse.llvm.org/t/inconsistency-between-gcc-and-llvm-in-mcmodel-large/74385#post_1)
 - [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_10)
 - [After Lingalg tiling can&#39;t lower to llvm](https://discourse.llvm.org/t/after-lingalg-tiling-cant-lower-to-llvm/74356#post_3)
 - [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_10)
-- [Ld: error: undefined symbol:](https://discourse.llvm.org/t/ld-error-undefined-symbol/74378#post_3)
-- [Ld: error: undefined symbol:](https://discourse.llvm.org/t/ld-error-undefined-symbol/74378#post_2)
 <!-- DISCOURSE-LLVM:END -->
