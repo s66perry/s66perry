@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_18)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_17)
-- [Relocatable file definitions shared with DSO](https://discourse.llvm.org/t/relocatable-file-definitions-shared-with-dso/74391#post_1)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_16)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357#post_15)
+- [Possible to avoid llvm.dbg.value intrinsics?](https://discourse.llvm.org/t/possible-to-avoid-llvm-dbg-value-intrinsics/74393#post_1)
+- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_7)
+- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_6)
+- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_5)
+- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_4)
 <!-- DISCOURSE-LLVM:END -->
