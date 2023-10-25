@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=2#post_23)
 - [[AArch64][ABI] should we add more fixed vector type wider than 128-bit?](https://discourse.llvm.org/t/aarch64-abi-should-we-add-more-fixed-vector-type-wider-than-128-bit/74395#post_1)
 - [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304#post_20)
 - [After Lingalg tiling can&#39;t lower to llvm](https://discourse.llvm.org/t/after-lingalg-tiling-cant-lower-to-llvm/74356#post_4)
 - [Distinct code generation with -fPIE and mcmodel=large](https://discourse.llvm.org/t/distinct-code-generation-with-fpie-and-mcmodel-large/74386#post_3)
-- [`gpu.set_default_device` does not work when specified multiple times](https://discourse.llvm.org/t/gpu-set-default-device-does-not-work-when-specified-multiple-times/74317#post_7)
 <!-- DISCOURSE-LLVM:END -->
