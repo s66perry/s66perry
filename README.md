@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_22)
-- [Relocatable file definitions shared with DSO](https://discourse.llvm.org/t/relocatable-file-definitions-shared-with-dso/74391#post_2)
-- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_4)
-- [[AArch64][ABI] should we add more fixed vector type wider than 128-bit?](https://discourse.llvm.org/t/aarch64-abi-should-we-add-more-fixed-vector-type-wider-than-128-bit/74395#post_2)
-- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253#post_2)
+- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_11)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=2#post_25)
+- [Ninja can now check for missing CMake dependencies on generated files](https://discourse.llvm.org/t/ninja-can-now-check-for-missing-cmake-dependencies-on-generated-files/74344#post_5)
+- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_4)
+- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253#post_3)
 <!-- DISCOURSE-LLVM:END -->
