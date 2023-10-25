@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Possible to avoid llvm.dbg.value intrinsics?](https://discourse.llvm.org/t/possible-to-avoid-llvm-dbg-value-intrinsics/74393#post_1)
-- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_7)
-- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_6)
-- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_5)
-- [MLIR Beginner: toyc-ch* files didn&#39;t generate automatically](https://discourse.llvm.org/t/mlir-beginner-toyc-ch-files-didnt-generate-automatically/74370#post_4)
+- [`gpu.set_default_device` does not work when specified multiple times](https://discourse.llvm.org/t/gpu-set-default-device-does-not-work-when-specified-multiple-times/74317#post_7)
+- [Catching foreign C++ exception from JIT runtime](https://discourse.llvm.org/t/catching-foreign-c-exception-from-jit-runtime/74394#post_1)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=3#post_50)
+- [[RFC]: A &quot;poly&quot; dialect for polynomial arithmetic](https://discourse.llvm.org/t/rfc-a-poly-dialect-for-polynomial-arithmetic/73891#post_9)
+- [Distinct code generation with -fPIE and mcmodel=large](https://discourse.llvm.org/t/distinct-code-generation-with-fpie-and-mcmodel-large/74386#post_2)
 <!-- DISCOURSE-LLVM:END -->
