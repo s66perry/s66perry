@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_12)
-- [Possible to avoid llvm.dbg.value intrinsics?](https://discourse.llvm.org/t/possible-to-avoid-llvm-dbg-value-intrinsics/74393#post_2)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=2#post_26)
-- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247?page=2#post_23)
-- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_11)
+- [[RFC] Implementation of OpenACC 3.3 for Offload in Clang](https://discourse.llvm.org/t/rfc-implementation-of-openacc-3-3-for-offload-in-clang/74405#post_2)
+- [Ninja can now check for missing CMake dependencies on generated files](https://discourse.llvm.org/t/ninja-can-now-check-for-missing-cmake-dependencies-on-generated-files/74344#post_6)
+- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_7)
+- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_6)
+- [[RFC] Implementation of OpenACC 3.3 for Offload in Clang](https://discourse.llvm.org/t/rfc-implementation-of-openacc-3-3-for-offload-in-clang/74405#post_1)
 <!-- DISCOURSE-LLVM:END -->
