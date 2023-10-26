@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_29)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_28)
-- [LLVM tests cause OOM hangs](https://discourse.llvm.org/t/llvm-tests-cause-oom-hangs/74432#post_4)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365#post_16)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=2#post_29)
+- [Possible to avoid llvm.dbg.value intrinsics?](https://discourse.llvm.org/t/possible-to-avoid-llvm-dbg-value-intrinsics/74393#post_6)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=2#post_31)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_65)
+- [Should IndexType be parameterized?](https://discourse.llvm.org/t/should-indextype-be-parameterized/74413#post_6)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_64)
 <!-- DISCOURSE-LLVM:END -->
