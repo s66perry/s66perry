@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[AArch64][ABI] should we add more fixed vector type wider than 128-bit?](https://discourse.llvm.org/t/aarch64-abi-should-we-add-more-fixed-vector-type-wider-than-128-bit/74395#post_3)
-- [Is the purpose of DPS&lpar;DestinationStype&rpar; for to reduce the memref.copy when one-shot-bufferization?](https://discourse.llvm.org/t/is-the-purpose-of-dps-destinationstype-for-to-reduce-the-memref-copy-when-one-shot-bufferization/74396#post_5)
-- [Should IndexType be parameterized?](https://discourse.llvm.org/t/should-indextype-be-parameterized/74413#post_3)
-- [Is the purpose of DPS&lpar;DestinationStype&rpar; for to reduce the memref.copy when one-shot-bufferization?](https://discourse.llvm.org/t/is-the-purpose-of-dps-destinationstype-for-to-reduce-the-memref-copy-when-one-shot-bufferization/74396#post_4)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_61)
+- [Prototype Assembly support for Clangd](https://discourse.llvm.org/t/prototype-assembly-support-for-clangd/74417#post_4)
+- [Should IndexType be parameterized?](https://discourse.llvm.org/t/should-indextype-be-parameterized/74413#post_5)
+- [At the llvm or mlir, the code : &lpar;false&rpar; ? ::mlir::Builder&lpar;&lpar;*this&rpar;-&gt;getContext&lpar;&rpar;&rpar;.getUnitAttr&lpar;&rpar; : nullptr](https://discourse.llvm.org/t/at-the-llvm-or-mlir-the-code-false-builder-this-getcontext-getunitattr-nullptr/74419#post_2)
+- [At the llvm or mlir, the code : &lpar;false&rpar; ? ::mlir::Builder&lpar;&lpar;*this&rpar;-&gt;getContext&lpar;&rpar;&rpar;.getUnitAttr&lpar;&rpar; : nullptr](https://discourse.llvm.org/t/at-the-llvm-or-mlir-the-code-false-builder-this-getcontext-getunitattr-nullptr/74419#post_1)
+- [Prototype Assembly support for Clangd](https://discourse.llvm.org/t/prototype-assembly-support-for-clangd/74417#post_3)
 <!-- DISCOURSE-LLVM:END -->
