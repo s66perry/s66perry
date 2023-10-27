@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Catching foreign C++ exception from JIT runtime](https://discourse.llvm.org/t/catching-foreign-c-exception-from-jit-runtime/74394#post_3)
+- [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_6)
+- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_18)
+- [Should IndexType be parameterized?](https://discourse.llvm.org/t/should-indextype-be-parameterized/74413#post_7)
 - [Confusion about one-shot-bufferization dealloc memory](https://discourse.llvm.org/t/confusion-about-one-shot-bufferization-dealloc-memory/74457#post_3)
-- [Optimize Global variables in C++](https://discourse.llvm.org/t/optimize-global-variables-in-c/74465#post_1)
-- [How to write my own pass](https://discourse.llvm.org/t/how-to-write-my-own-pass/74455#post_4)
-- [Proposal for a new NT_X86_CPUID core dump note](https://discourse.llvm.org/t/proposal-for-a-new-nt-x86-cpuid-core-dump-note/74458#post_2)
-- [How to write my own pass](https://discourse.llvm.org/t/how-to-write-my-own-pass/74455#post_3)
 <!-- DISCOURSE-LLVM:END -->
