@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_16)
-- [Does check-openmp run with buildbots?](https://discourse.llvm.org/t/does-check-openmp-run-with-buildbots/74447#post_2)
-- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_15)
-- [Does check-openmp run with buildbots?](https://discourse.llvm.org/t/does-check-openmp-run-with-buildbots/74447#post_1)
-- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_14)
+- [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_2)
+- [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_1)
+- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321#post_17)
+- [How to construct DenseElementsAttr with custom float type?](https://discourse.llvm.org/t/how-to-construct-denseelementsattr-with-custom-float-type/74451#post_1)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
