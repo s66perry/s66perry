@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Confusion about one-shot-bufferization dealloc memory](https://discourse.llvm.org/t/confusion-about-one-shot-bufferization-dealloc-memory/74457#post_1)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_69)
+- [How to write my own pass](https://discourse.llvm.org/t/how-to-write-my-own-pass/74455#post_1)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_68)
 - [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_5)
-- [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_4)
-- [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_3)
-- [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_2)
 <!-- DISCOURSE-LLVM:END -->
