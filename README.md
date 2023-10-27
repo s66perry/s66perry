@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_72)
+- [Add DAGNode After Load](https://discourse.llvm.org/t/add-dagnode-after-load/74481#post_1)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_71)
+- [Bug report warning message duplicated as a note by most checkers](https://discourse.llvm.org/t/bug-report-warning-message-duplicated-as-a-note-by-most-checkers/74480#post_1)
 - [[RFC] SYCL runtime upstreaming](https://discourse.llvm.org/t/rfc-sycl-runtime-upstreaming/74479#post_1)
-- [Proposal for a new NT_X86_CPUID core dump note](https://discourse.llvm.org/t/proposal-for-a-new-nt-x86-cpuid-core-dump-note/74458#post_3)
-- [CodeLite and llvm clang on windows x64, can&#39;t figure out debugger](https://discourse.llvm.org/t/codelite-and-llvm-clang-on-windows-x64-cant-figure-out-debugger/74478#post_4)
-- [Confusion about one-shot-bufferization dealloc memory](https://discourse.llvm.org/t/confusion-about-one-shot-bufferization-dealloc-memory/74457#post_4)
-- [CodeLite and llvm clang on windows x64, can&#39;t figure out debugger](https://discourse.llvm.org/t/codelite-and-llvm-clang-on-windows-x64-cant-figure-out-debugger/74478#post_3)
 <!-- DISCOURSE-LLVM:END -->
