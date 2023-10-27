@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_72)
-- [Add DAGNode After Load](https://discourse.llvm.org/t/add-dagnode-after-load/74481#post_1)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_71)
-- [Bug report warning message duplicated as a note by most checkers](https://discourse.llvm.org/t/bug-report-warning-message-duplicated-as-a-note-by-most-checkers/74480#post_1)
-- [[RFC] SYCL runtime upstreaming](https://discourse.llvm.org/t/rfc-sycl-runtime-upstreaming/74479#post_1)
+- [Should IndexType be parameterized?](https://discourse.llvm.org/t/should-indextype-be-parameterized/74413#post_8)
+- [-O2 Over-optimization](https://discourse.llvm.org/t/o2-over-optimization/74452#post_7)
+- [[RFC]: Strengthen Relaxed Atomics Implementation behind `-mstrict-rlx-atomics` Flag](https://discourse.llvm.org/t/rfc-strengthen-relaxed-atomics-implementation-behind-mstrict-rlx-atomics-flag/74473#post_4)
+- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087?page=2#post_25)
+- [[RFC] SYCL Host Compiler Integration Header and Footer](https://discourse.llvm.org/t/rfc-sycl-host-compiler-integration-header-and-footer/74081?page=4#post_70)
 <!-- DISCOURSE-LLVM:END -->
