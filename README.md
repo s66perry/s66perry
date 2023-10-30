@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 30 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-30-23-6pm/74436#post_3)
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_16)
-- [Project build error: DWARF error: invalid or unhandled FORM value: 0x23](https://discourse.llvm.org/t/project-build-error-dwarf-error-invalid-or-unhandled-form-value-0x23/74506#post_3)
-- [LLVM 17.0.3 tagged](https://discourse.llvm.org/t/llvm-17-0-3-tagged/74171#post_5)
-- [CodeLite and llvm clang on windows x64, can&#39;t figure out debugger](https://discourse.llvm.org/t/codelite-and-llvm-clang-on-windows-x64-cant-figure-out-debugger/74478#post_9)
+- [Bug report warning message duplicated as a note by most checkers](https://discourse.llvm.org/t/bug-report-warning-message-duplicated-as-a-note-by-most-checkers/74480#post_5)
+- [Forced Atomics](https://discourse.llvm.org/t/forced-atomics/74524#post_5)
+- [.debug_names tombstoning for local type units](https://discourse.llvm.org/t/debug-names-tombstoning-for-local-type-units/74410#post_5)
+- [C++20 attribute support with arguments](https://discourse.llvm.org/t/c-20-attribute-support-with-arguments/74472#post_10)
+- [Forced Atomics](https://discourse.llvm.org/t/forced-atomics/74524#post_4)
 <!-- DISCOURSE-LLVM:END -->
