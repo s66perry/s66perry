@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Program cannot run when specify `-zcommon-page-size=2097152` option to lld](https://discourse.llvm.org/t/program-cannot-run-when-specify-zcommon-page-size-2097152-option-to-lld/74510#post_3)
 - [CodeLite and llvm clang on windows x64, can&#39;t figure out debugger](https://discourse.llvm.org/t/codelite-and-llvm-clang-on-windows-x64-cant-figure-out-debugger/74478#post_7)
 - [CodeLite and llvm clang on windows x64, can&#39;t figure out debugger](https://discourse.llvm.org/t/codelite-and-llvm-clang-on-windows-x64-cant-figure-out-debugger/74478#post_6)
 - [CodeLite and llvm clang on windows x64, can&#39;t figure out debugger](https://discourse.llvm.org/t/codelite-and-llvm-clang-on-windows-x64-cant-figure-out-debugger/74478#post_5)
 - [[RFC] TableGen support for RegisterBankInfo](https://discourse.llvm.org/t/rfc-tablegen-support-for-registerbankinfo/74459#post_7)
-- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_16)
 <!-- DISCOURSE-LLVM:END -->
