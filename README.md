@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_6)
+- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_19)
+- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_18)
+- [Using AI-generated code in PR](https://discourse.llvm.org/t/using-ai-generated-code-in-pr/74513#post_1)
 - [Lowering of scatter operations](https://discourse.llvm.org/t/lowering-of-scatter-operations/70535#post_5)
-- [.debug_names tombstoning for local type units](https://discourse.llvm.org/t/debug-names-tombstoning-for-local-type-units/74410#post_4)
-- [Program cannot run when specify `-zcommon-page-size=2097152` option to lld](https://discourse.llvm.org/t/program-cannot-run-when-specify-zcommon-page-size-2097152-option-to-lld/74510#post_2)
-- [Program cannot run when specify `-zcommon-page-size=2097152` option to lld](https://discourse.llvm.org/t/program-cannot-run-when-specify-zcommon-page-size-2097152-option-to-lld/74510#post_1)
-- [[RFC] TableGen support for RegisterBankInfo](https://discourse.llvm.org/t/rfc-tablegen-support-for-registerbankinfo/74459#post_6)
 <!-- DISCOURSE-LLVM:END -->
