@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Parsed commands in Python](https://discourse.llvm.org/t/rfc-parsed-commands-in-python/74532#post_1)
+- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_18)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_74)
+- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365?page=2#post_22)
 - [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_17)
-- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_16)
-- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_15)
-- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_14)
-- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_13)
 <!-- DISCOURSE-LLVM:END -->
