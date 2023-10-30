@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC]: Strengthen Relaxed Atomics Implementation behind `-mstrict-rlx-atomics` Flag](https://discourse.llvm.org/t/rfc-strengthen-relaxed-atomics-implementation-behind-mstrict-rlx-atomics-flag/74473#post_14)
-- [Out of memory error when building llvm on windows](https://discourse.llvm.org/t/out-of-memory-error-when-building-llvm-on-windows/68560#post_7)
-- [[RFC] Extending MLIR GPU device codegen pipeline](https://discourse.llvm.org/t/rfc-extending-mlir-gpu-device-codegen-pipeline/70199?page=4#post_64)
-- [C++ Annex K safe C11 functions](https://discourse.llvm.org/t/c-annex-k-safe-c11-functions/50737#post_17)
-- [Program cannot run when specify `-zcommon-page-size=2097152` option to lld](https://discourse.llvm.org/t/program-cannot-run-when-specify-zcommon-page-size-2097152-option-to-lld/74510#post_3)
+- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321?page=2#post_22)
+- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_10)
+- [RFC: SYCL support for unnamed SYCL kernel functions](https://discourse.llvm.org/t/rfc-sycl-support-for-unnamed-sycl-kernel-functions/74087?page=2#post_29)
+- [[RFC]: Strengthen Relaxed Atomics Implementation behind `-mstrict-rlx-atomics` Flag](https://discourse.llvm.org/t/rfc-strengthen-relaxed-atomics-implementation-behind-mstrict-rlx-atomics-flag/74473#post_15)
+- [Unaligned load of unsupported type](https://discourse.llvm.org/t/unaligned-load-of-unsupported-type/74321?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
