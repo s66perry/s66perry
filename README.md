@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587#post_16)
+- [Project build error: DWARF error: invalid or unhandled FORM value: 0x23](https://discourse.llvm.org/t/project-build-error-dwarf-error-invalid-or-unhandled-form-value-0x23/74506#post_2)
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_7)
 - [[RFC] Proprosition of coarray implementation in LLVMFLang](https://discourse.llvm.org/t/rfc-proprosition-of-coarray-implementation-in-llvmflang/74514#post_1)
 - [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_6)
-- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_19)
-- [How to build linalg.TransposeOp in mlir pybind?](https://discourse.llvm.org/t/how-to-build-linalg-transposeop-in-mlir-pybind/73989#post_18)
-- [Using AI-generated code in PR](https://discourse.llvm.org/t/using-ai-generated-code-in-pr/74513#post_1)
 <!-- DISCOURSE-LLVM:END -->
