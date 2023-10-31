@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC]: Strengthen Relaxed Atomics Implementation behind `-mstrict-rlx-atomics` Flag](https://discourse.llvm.org/t/rfc-strengthen-relaxed-atomics-implementation-behind-mstrict-rlx-atomics-flag/74473#post_17)
+- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483?page=2#post_21)
+- [Relocatable file definitions shared with DSO](https://discourse.llvm.org/t/relocatable-file-definitions-shared-with-dso/74391#post_7)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_78)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_77)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365?page=2#post_24)
-- [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_16)
-- [[RFC] Parsed commands in Python](https://discourse.llvm.org/t/rfc-parsed-commands-in-python/74532#post_3)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
