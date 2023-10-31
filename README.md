@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What is the suggested way to convert Int1 to Int32](https://discourse.llvm.org/t/what-is-the-suggested-way-to-convert-int1-to-int32/74549#post_3)
-- [What is the suggested way to convert Int1 to Int32](https://discourse.llvm.org/t/what-is-the-suggested-way-to-convert-int1-to-int32/74549#post_2)
-- [What is the suggested way to convert Int1 to Int32](https://discourse.llvm.org/t/what-is-the-suggested-way-to-convert-int1-to-int32/74549#post_1)
-- [LLVM 17.0.4 Released](https://discourse.llvm.org/t/llvm-17-0-4-released/74548#post_1)
-- [LLVM Meetup Darmstadt &lpar;Germany&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-germany/71878#post_13)
+- [Is there a way to get the contents of the DefaultValueAttr in the MLIR Python binding?](https://discourse.llvm.org/t/is-there-a-way-to-get-the-contents-of-the-defaultvalueattr-in-the-mlir-python-binding/74544#post_3)
+- [Forced Atomics](https://discourse.llvm.org/t/forced-atomics/74524#post_9)
+- [Is there a way to get the contents of the DefaultValueAttr in the MLIR Python binding?](https://discourse.llvm.org/t/is-there-a-way-to-get-the-contents-of-the-defaultvalueattr-in-the-mlir-python-binding/74544#post_2)
+- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253#post_5)
+- [How to generate some tree like graph describing the IRs?](https://discourse.llvm.org/t/how-to-generate-some-tree-like-graph-describing-the-irs/74543#post_2)
 <!-- DISCOURSE-LLVM:END -->
