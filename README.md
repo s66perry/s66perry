@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to use dynamic library libLTO.so?!](https://discourse.llvm.org/t/how-to-use-dynamic-library-liblto-so/74541#post_2)
-- [Is there a way to get the contents of the DefaultValueAttr in the MLIR Python binding?](https://discourse.llvm.org/t/is-there-a-way-to-get-the-contents-of-the-defaultvalueattr-in-the-mlir-python-binding/74544#post_4)
-- [Can I question for patch `[InstSimplify] Fold &lpar;a != 0&rpar; ? abs&lpar;a&rpar; : 0`?](https://discourse.llvm.org/t/can-i-question-for-patch-instsimplify-fold-a-0-abs-a-0/74557#post_1)
-- [Debug info for module-level inline assembly?](https://discourse.llvm.org/t/debug-info-for-module-level-inline-assembly/74556#post_1)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365?page=2#post_23)
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_32)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 30 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-30-23-6pm/74436#post_4)
+- [ABI break in libc++ for a 17.x - guidance requested](https://discourse.llvm.org/t/abi-break-in-libc-for-a-17-x-guidance-requested/74483#post_20)
+- [[RFC] Proprosition of coarray implementation in LLVMFLang](https://discourse.llvm.org/t/rfc-proprosition-of-coarray-implementation-in-llvmflang/74514#post_6)
+- [[RFC] Proprosition of coarray implementation in LLVMFLang](https://discourse.llvm.org/t/rfc-proprosition-of-coarray-implementation-in-llvmflang/74514#post_5)
 <!-- DISCOURSE-LLVM:END -->
