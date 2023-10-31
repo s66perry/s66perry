@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151#post_17)
-- [[RFC] TableGen support for RegisterBankInfo](https://discourse.llvm.org/t/rfc-tablegen-support-for-registerbankinfo/74459#post_12)
-- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_33)
-- [[RFC] TableGen support for RegisterBankInfo](https://discourse.llvm.org/t/rfc-tablegen-support-for-registerbankinfo/74459#post_11)
-- [[RFC] Implementation of OpenACC 3.3 for Offload in Clang](https://discourse.llvm.org/t/rfc-implementation-of-openacc-3-3-for-offload-in-clang/74405#post_14)
+- [Ninja can now check for missing CMake dependencies on generated files](https://discourse.llvm.org/t/ninja-can-now-check-for-missing-cmake-dependencies-on-generated-files/74344#post_7)
+- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000#post_14)
+- [[RFC] Add binary profile correlation to offload profile metadata at runtime](https://discourse.llvm.org/t/rfc-add-binary-profile-correlation-to-offload-profile-metadata-at-runtime/74565#post_2)
+- [[RFC] Add binary profile correlation to offload profile metadata at runtime](https://discourse.llvm.org/t/rfc-add-binary-profile-correlation-to-offload-profile-metadata-at-runtime/74565#post_1)
+- [Can an implicit constructor/destructor create COMDAT?](https://discourse.llvm.org/t/can-an-implicit-constructor-destructor-create-comdat/74564#post_1)
 <!-- DISCOURSE-LLVM:END -->
