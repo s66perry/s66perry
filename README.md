@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there a way to get the contents of the DefaultValueAttr in the MLIR Python binding?](https://discourse.llvm.org/t/is-there-a-way-to-get-the-contents-of-the-defaultvalueattr-in-the-mlir-python-binding/74544#post_1)
+- [How to generate some tree like graph describing the IRs?](https://discourse.llvm.org/t/how-to-generate-some-tree-like-graph-describing-the-irs/74543#post_1)
+- [RISC-V disassembly doesn&#39;t show compressed instructions](https://discourse.llvm.org/t/risc-v-disassembly-doesnt-show-compressed-instructions/74542#post_2)
+- [RISC-V disassembly doesn&#39;t show compressed instructions](https://discourse.llvm.org/t/risc-v-disassembly-doesnt-show-compressed-instructions/74542#post_1)
 - [Relocatable file definitions shared with DSO](https://discourse.llvm.org/t/relocatable-file-definitions-shared-with-dso/74391#post_6)
-- [How to use dynamic library libLTO.so?!](https://discourse.llvm.org/t/how-to-use-dynamic-library-liblto-so/74541#post_1)
-- [How to use dynamic library libLTO.so?](https://discourse.llvm.org/t/how-to-use-dynamic-library-liblto-so/74539#post_1)
-- [[RFC] Proprosition of coarray implementation in LLVMFLang](https://discourse.llvm.org/t/rfc-proprosition-of-coarray-implementation-in-llvmflang/74514#post_3)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=4#post_75)
 <!-- DISCOURSE-LLVM:END -->
