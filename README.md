@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Gather coverage across processes](https://discourse.llvm.org/t/gather-coverage-across-processes/74587#post_1)
+- [How to get multiple output in mlir?](https://discourse.llvm.org/t/how-to-get-multiple-output-in-mlir/74586#post_1)
 - [[RFC] Add binary profile correlation to offload profile metadata at runtime](https://discourse.llvm.org/t/rfc-add-binary-profile-correlation-to-offload-profile-metadata-at-runtime/74565#post_4)
 - [Error when performing complex number addition](https://discourse.llvm.org/t/error-when-performing-complex-number-addition/74585#post_1)
 - [Questions about C Calling conventions](https://discourse.llvm.org/t/questions-about-c-calling-conventions/72414#post_6)
-- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_8)
-- [[Instruction selection] SelectionDAG::LealizeTyps&lpar;&rpar;](https://discourse.llvm.org/t/instruction-selection-selectiondag-lealizetyps/74582#post_2)
 <!-- DISCOURSE-LLVM:END -->
