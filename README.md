@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD output section flag assignment behavior](https://discourse.llvm.org/t/lld-output-section-flag-assignment-behavior/74359#post_8)
 - [[Instruction selection] SelectionDAG::LealizeTyps&lpar;&rpar;](https://discourse.llvm.org/t/instruction-selection-selectiondag-lealizetyps/74582#post_2)
 - [[Instruction selection] SelectionDAG::LealizeTyps&lpar;&rpar;](https://discourse.llvm.org/t/instruction-selection-selectiondag-lealizetyps/74582#post_1)
 - [[RFC] Proprosition of coarray implementation in LLVMFLang](https://discourse.llvm.org/t/rfc-proprosition-of-coarray-implementation-in-llvmflang/74514#post_10)
 - [[RFC] Proprosition of coarray implementation in LLVMFLang](https://discourse.llvm.org/t/rfc-proprosition-of-coarray-implementation-in-llvmflang/74514#post_9)
-- [How to use dynamic library libLTO.so?!](https://discourse.llvm.org/t/how-to-use-dynamic-library-liblto-so/74541#post_4)
 <!-- DISCOURSE-LLVM:END -->
