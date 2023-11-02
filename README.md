@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559#post_6)
 - [How to get multiple output in mlir?](https://discourse.llvm.org/t/how-to-get-multiple-output-in-mlir/74586#post_4)
 - [C++20 attribute support with arguments](https://discourse.llvm.org/t/c-20-attribute-support-with-arguments/74472#post_11)
 - [Can I question for patch `[InstSimplify] Fold &lpar;a != 0&rpar; ? abs&lpar;a&rpar; : 0`?](https://discourse.llvm.org/t/can-i-question-for-patch-instsimplify-fold-a-0-abs-a-0/74557#post_3)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=8#post_151)
-- [Can I question for patch `[InstSimplify] Fold &lpar;a != 0&rpar; ? abs&lpar;a&rpar; : 0`?](https://discourse.llvm.org/t/can-i-question-for-patch-instsimplify-fold-a-0-abs-a-0/74557#post_2)
 <!-- DISCOURSE-LLVM:END -->
