@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559#post_7)
 - [Cpp front-end Polygeist complex type operation conversion fail](https://discourse.llvm.org/t/cpp-front-end-polygeist-complex-type-operation-conversion-fail/74606#post_4)
 - [Organizing Security Support for LLVM - Discussion](https://discourse.llvm.org/t/organizing-security-support-for-llvm-discussion/74593#post_9)
 - [Can I question for patch `[InstSimplify] Fold &lpar;a != 0&rpar; ? abs&lpar;a&rpar; : 0`?](https://discourse.llvm.org/t/can-i-question-for-patch-instsimplify-fold-a-0-abs-a-0/74557#post_4)
 - [Cpp front-end Polygeist complex type operation conversion fail](https://discourse.llvm.org/t/cpp-front-end-polygeist-complex-type-operation-conversion-fail/74606#post_3)
-- [Cpp front-end Polygeist complex type operation conversion fail](https://discourse.llvm.org/t/cpp-front-end-polygeist-complex-type-operation-conversion-fail/74606#post_2)
 <!-- DISCOURSE-LLVM:END -->
