@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TableGen grammar](https://discourse.llvm.org/t/tablegen-grammar/74625#post_1)
-- [Opt syntax for callgraph with new pass manager](https://discourse.llvm.org/t/opt-syntax-for-callgraph-with-new-pass-manager/74623#post_2)
-- [Call Hierarchy result is incomplete when using remote index](https://discourse.llvm.org/t/call-hierarchy-result-is-incomplete-when-using-remote-index/65372#post_2)
-- [Opt syntax for callgraph with new pass manager](https://discourse.llvm.org/t/opt-syntax-for-callgraph-with-new-pass-manager/74623#post_1)
-- [MPI / SPMD dialect?](https://discourse.llvm.org/t/mpi-spmd-dialect/72347#post_18)
+- [Opt syntax for callgraph with new pass manager](https://discourse.llvm.org/t/opt-syntax-for-callgraph-with-new-pass-manager/74623#post_3)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559#post_10)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_82)
+- [Avoiding deadcode elimination on a U type instruction in RISCV](https://discourse.llvm.org/t/avoiding-deadcode-elimination-on-a-u-type-instruction-in-riscv/74605#post_3)
+- [TableGen grammar](https://discourse.llvm.org/t/tablegen-grammar/74625#post_2)
 <!-- DISCOURSE-LLVM:END -->
