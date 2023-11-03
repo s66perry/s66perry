@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_5)
+- [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_4)
+- [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_3)
 - [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_2)
 - [[ADT] Potential SmallVectorImpl memory leak](https://discourse.llvm.org/t/adt-potential-smallvectorimpl-memory-leak/74657#post_5)
-- [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_1)
-- [[ADT] Potential SmallVectorImpl memory leak](https://discourse.llvm.org/t/adt-potential-smallvectorimpl-memory-leak/74657#post_4)
-- [[ADT] Potential SmallVectorImpl memory leak](https://discourse.llvm.org/t/adt-potential-smallvectorimpl-memory-leak/74657#post_3)
 <!-- DISCOURSE-LLVM:END -->
