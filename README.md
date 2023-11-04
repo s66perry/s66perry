@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [After create FuncOp at the front block of moduleOp, can&#39;t see it at the mlir file](https://discourse.llvm.org/t/after-create-funcop-at-the-front-block-of-moduleop-cant-see-it-at-the-mlir-file/74663#post_2)
+- [After create FuncOp at the front block of moduleOp, can&#39;t see it at the mlir file](https://discourse.llvm.org/t/after-create-funcop-at-the-front-block-of-moduleop-cant-see-it-at-the-mlir-file/74663#post_1)
 - [Flang name mangling for enabling OpenMP NVPTX backend](https://discourse.llvm.org/t/flang-name-mangling-for-enabling-openmp-nvptx-backend/74662#post_3)
 - [Flang name mangling for enabling OpenMP NVPTX backend](https://discourse.llvm.org/t/flang-name-mangling-for-enabling-openmp-nvptx-backend/74662#post_2)
 - [Flang name mangling for enabling OpenMP NVPTX backend](https://discourse.llvm.org/t/flang-name-mangling-for-enabling-openmp-nvptx-backend/74662#post_1)
-- [Open MLIR Meeting 11/2/2023: Proposal for a MPI Dialect](https://discourse.llvm.org/t/open-mlir-meeting-11-2-2023-proposal-for-a-mpi-dialect/74602#post_5)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
