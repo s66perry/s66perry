@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Signless &quot;semantics&quot;; `IntegerAttr` vs. `SignlessIntegerAttr`](https://discourse.llvm.org/t/signless-semantics-integerattr-vs-signlessintegerattr/74697#post_1)
+- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_7)
+- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_6)
+- [LLVM CMake find include and library for libpfm](https://discourse.llvm.org/t/llvm-cmake-find-include-and-library-for-libpfm/74696#post_1)
 - [Llvm-symbolizer is broken for kernel modules](https://discourse.llvm.org/t/llvm-symbolizer-is-broken-for-kernel-modules/71998#post_4)
-- [[RFC] TableGen support for RegisterBankInfo](https://discourse.llvm.org/t/rfc-tablegen-support-for-registerbankinfo/74459#post_19)
-- [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_7)
-- [Would be be possible to do what the Circle compiler does in Clang?](https://discourse.llvm.org/t/would-be-be-possible-to-do-what-the-circle-compiler-does-in-clang/74694#post_2)
-- [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_6)
 <!-- DISCOURSE-LLVM:END -->
