@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Signless &quot;semantics&quot;; `IntegerAttr` vs. `SignlessIntegerAttr`](https://discourse.llvm.org/t/signless-semantics-integerattr-vs-signlessintegerattr/74697#post_1)
-- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_7)
-- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_6)
-- [LLVM CMake find include and library for libpfm](https://discourse.llvm.org/t/llvm-cmake-find-include-and-library-for-libpfm/74696#post_1)
-- [Llvm-symbolizer is broken for kernel modules](https://discourse.llvm.org/t/llvm-symbolizer-is-broken-for-kernel-modules/71998#post_4)
+- [[ADT] Potential SmallVectorImpl memory leak](https://discourse.llvm.org/t/adt-potential-smallvectorimpl-memory-leak/74657#post_7)
+- [Flang name mangling for enabling OpenMP NVPTX backend](https://discourse.llvm.org/t/flang-name-mangling-for-enabling-openmp-nvptx-backend/74662#post_9)
+- [Flang name mangling for enabling OpenMP NVPTX backend](https://discourse.llvm.org/t/flang-name-mangling-for-enabling-openmp-nvptx-backend/74662#post_8)
+- [LLVM CMake find include and library for libpfm](https://discourse.llvm.org/t/llvm-cmake-find-include-and-library-for-libpfm/74696#post_2)
+- [Flang name mangling for enabling OpenMP NVPTX backend](https://discourse.llvm.org/t/flang-name-mangling-for-enabling-openmp-nvptx-backend/74662#post_7)
 <!-- DISCOURSE-LLVM:END -->
