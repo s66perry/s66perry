@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to add conditional branch instruction without else option?](https://discourse.llvm.org/t/how-to-add-conditional-branch-instruction-without-else-option/74688#post_2)
-- [-Wstrict-aliasing](https://discourse.llvm.org/t/wstrict-aliasing/74242#post_7)
-- [Very conservative memory check in ShrinkWrap pass causing bad placement of prolog/Epilog](https://discourse.llvm.org/t/very-conservative-memory-check-in-shrinkwrap-pass-causing-bad-placement-of-prolog-epilog/74687#post_2)
-- [How to add conditional branch instruction without else option?](https://discourse.llvm.org/t/how-to-add-conditional-branch-instruction-without-else-option/74688#post_1)
-- [LLVM JIT emitting vbroadcastss on a machine that doesn&#39;t support it](https://discourse.llvm.org/t/llvm-jit-emitting-vbroadcastss-on-a-machine-that-doesnt-support-it/74674#post_5)
+- [Opt syntax for callgraph with new pass manager](https://discourse.llvm.org/t/opt-syntax-for-callgraph-with-new-pass-manager/74623#post_8)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_35)
+- [Opt syntax for callgraph with new pass manager](https://discourse.llvm.org/t/opt-syntax-for-callgraph-with-new-pass-manager/74623#post_7)
+- [Very conservative memory check in ShrinkWrap pass causing bad placement of prolog/Epilog](https://discourse.llvm.org/t/very-conservative-memory-check-in-shrinkwrap-pass-causing-bad-placement-of-prolog-epilog/74687#post_4)
+- [LLVM Embedded Toolchains Working Group call this Thursday 9th of November](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-9th-of-november/74690#post_1)
 <!-- DISCOURSE-LLVM:END -->
