@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[One-Shot Bufferizer] Bufferization fails in the presence of `tensor.empty&lpar;&rpar;`](https://discourse.llvm.org/t/one-shot-bufferizer-bufferization-fails-in-the-presence-of-tensor-empty/74669#post_7)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=5#post_95)
-- [How to suggest a very simple patch?](https://discourse.llvm.org/t/how-to-suggest-a-very-simple-patch/74681#post_3)
-- [How to suggest a very simple patch?](https://discourse.llvm.org/t/how-to-suggest-a-very-simple-patch/74681#post_2)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_31)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_33)
+- [HW dialect support for parameterizable module](https://discourse.llvm.org/t/hw-dialect-support-for-parameterizable-module/74683#post_2)
+- [How to add custom annotations to assembly or disassembly files](https://discourse.llvm.org/t/how-to-add-custom-annotations-to-assembly-or-disassembly-files/74684#post_1)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_32)
+- [[RFC] TableGen support for RegisterBankInfo](https://discourse.llvm.org/t/rfc-tablegen-support-for-registerbankinfo/74459#post_18)
 <!-- DISCOURSE-LLVM:END -->
