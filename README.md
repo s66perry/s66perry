@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=3#post_42)
-- [How to reorder elements in memref](https://discourse.llvm.org/t/how-to-reorder-elements-in-memref/74723#post_1)
-- [[Debug info] Is there any way to only print debug info about RAGreedy pass?](https://discourse.llvm.org/t/debug-info-is-there-any-way-to-only-print-debug-info-about-ragreedy-pass/74722#post_2)
-- [[Debug info] Is there any way to only print debug info about RAGreedy pass?](https://discourse.llvm.org/t/debug-info-is-there-any-way-to-only-print-debug-info-about-ragreedy-pass/74722#post_1)
-- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_3)
+- [How to reorder elements in memref](https://discourse.llvm.org/t/how-to-reorder-elements-in-memref/74723#post_2)
+- [Considering register pressure when deciding Initiation Interval in MachinePipeliner](https://discourse.llvm.org/t/considering-register-pressure-when-deciding-initiation-interval-in-machinepipeliner/74725#post_1)
+- [AArch64 Sync-up](https://discourse.llvm.org/t/aarch64-sync-up/74186#post_8)
+- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705#post_10)
+- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705#post_9)
 <!-- DISCOURSE-LLVM:END -->
