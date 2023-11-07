@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Instruction Enumeration Explosion and Operation To Instruction Mapping](https://discourse.llvm.org/t/instruction-enumeration-explosion-and-operation-to-instruction-mapping/74740#post_1)
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=2#post_22)
-- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_6)
-- [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_3)
-- [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_2)
+- [[RFC] Add binary profile correlation to not load profile metadata sections into memory at runtime](https://discourse.llvm.org/t/rfc-add-binary-profile-correlation-to-not-load-profile-metadata-sections-into-memory-at-runtime/74565#post_6)
+- [[RFC] Target CPU and features for module-level inline assembly](https://discourse.llvm.org/t/rfc-target-cpu-and-features-for-module-level-inline-assembly/74713#post_4)
+- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=2#post_23)
+- [[RFC] Target CPU and features for module-level inline assembly](https://discourse.llvm.org/t/rfc-target-cpu-and-features-for-module-level-inline-assembly/74713#post_3)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_86)
 <!-- DISCOURSE-LLVM:END -->
