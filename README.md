@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MemRefDataFlowOpt](https://discourse.llvm.org/t/rfc-memrefdataflowopt/74711#post_2)
-- [Signless &quot;semantics&quot;; `IntegerAttr` vs. `SignlessIntegerAttr`](https://discourse.llvm.org/t/signless-semantics-integerattr-vs-signlessintegerattr/74697#post_4)
-- [How to use distributed thin lto？](https://discourse.llvm.org/t/how-to-use-distributed-thin-lto/74639#post_3)
-- [[RFC] Add -build-id flag to lld-link](https://discourse.llvm.org/t/rfc-add-build-id-flag-to-lld-link/74661#post_8)
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705#post_8)
+- [LLVM CMake find include and library for libpfm](https://discourse.llvm.org/t/llvm-cmake-find-include-and-library-for-libpfm/74696#post_3)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_85)
+- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=3#post_41)
+- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_3)
+- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_2)
 <!-- DISCOURSE-LLVM:END -->
