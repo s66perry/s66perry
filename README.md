@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM CMake find include and library for libpfm](https://discourse.llvm.org/t/llvm-cmake-find-include-and-library-for-libpfm/74696#post_3)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_85)
-- [[RFC] Allow recursive macros as extension](https://discourse.llvm.org/t/rfc-allow-recursive-macros-as-extension/73401?page=3#post_41)
-- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_3)
-- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_2)
+- [Opt syntax for callgraph with new pass manager](https://discourse.llvm.org/t/opt-syntax-for-callgraph-with-new-pass-manager/74623#post_9)
+- [Would be be possible to do what the Circle compiler does in Clang?](https://discourse.llvm.org/t/would-be-be-possible-to-do-what-the-circle-compiler-does-in-clang/74694#post_3)
+- [[RFC] Target CPU and features for module-level inline assembly](https://discourse.llvm.org/t/rfc-target-cpu-and-features-for-module-level-inline-assembly/74713#post_2)
+- [Signless &quot;semantics&quot;; `IntegerAttr` vs. `SignlessIntegerAttr`](https://discourse.llvm.org/t/signless-semantics-integerattr-vs-signlessintegerattr/74697#post_6)
+- [Signless &quot;semantics&quot;; `IntegerAttr` vs. `SignlessIntegerAttr`](https://discourse.llvm.org/t/signless-semantics-integerattr-vs-signlessintegerattr/74697#post_5)
 <!-- DISCOURSE-LLVM:END -->
