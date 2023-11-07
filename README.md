@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_14)
+- [Very conservative memory check in ShrinkWrap pass causing bad placement of prolog/Epilog](https://discourse.llvm.org/t/very-conservative-memory-check-in-shrinkwrap-pass-causing-bad-placement-of-prolog-epilog/74687#post_5)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_37)
+- [Extract the output of Clang&#39;s lexical analyzer in JSON format](https://discourse.llvm.org/t/extract-the-output-of-clangs-lexical-analyzer-in-json-format/74731#post_1)
 - [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705#post_15)
-- [Notes from the Presubmit Testing roundtable 11 October 2023](https://discourse.llvm.org/t/notes-from-the-presubmit-testing-roundtable-11-october-2023/74247?page=2#post_29)
-- [Freeze prevents selection of sign-extending subword load](https://discourse.llvm.org/t/freeze-prevents-selection-of-sign-extending-subword-load/74729#post_1)
-- [How to use distributed thin lto？](https://discourse.llvm.org/t/how-to-use-distributed-thin-lto/74639#post_6)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_36)
 <!-- DISCOURSE-LLVM:END -->
