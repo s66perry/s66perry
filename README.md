@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Range-based solver and eager symbol garbage-collection](https://discourse.llvm.org/t/range-based-solver-and-eager-symbol-garbage-collection/74670#post_7)
+- [How to reorder elements in memref](https://discourse.llvm.org/t/how-to-reorder-elements-in-memref/74723#post_5)
 - [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_18)
 - [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_17)
 - [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_5)
-- [Slow build with Clang 17.0.2](https://discourse.llvm.org/t/slow-build-with-clang-17-0-2/74747#post_5)
-- [Slow build with Clang 17.0.2](https://discourse.llvm.org/t/slow-build-with-clang-17-0-2/74747#post_4)
 <!-- DISCOURSE-LLVM:END -->
