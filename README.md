@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_19)
+- [[RFC] Add llvm.target_features attribute](https://discourse.llvm.org/t/rfc-add-llvm-target-features-attribute/74757#post_2)
+- [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_8)
+- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_12)
 - [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_14)
-- [Freeze prevents selection of sign-extending subword load](https://discourse.llvm.org/t/freeze-prevents-selection-of-sign-extending-subword-load/74729#post_2)
-- [Formatters and downcasts](https://discourse.llvm.org/t/formatters-and-downcasts/74743#post_3)
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_21)
-- [Integration with ABC optimizer](https://discourse.llvm.org/t/integration-with-abc-optimizer/65264#post_9)
 <!-- DISCOURSE-LLVM:END -->
