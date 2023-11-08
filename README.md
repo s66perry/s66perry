@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add llvm.target_features attribute](https://discourse.llvm.org/t/rfc-add-llvm-target-features-attribute/74757#post_1)
-- [Integration with ABC optimizer](https://discourse.llvm.org/t/integration-with-abc-optimizer/65264#post_5)
-- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755#post_1)
-- [How to use distributed thin lto？](https://discourse.llvm.org/t/how-to-use-distributed-thin-lto/74639#post_8)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_39)
+- [Bug report warning message duplicated as a note by most checkers](https://discourse.llvm.org/t/bug-report-warning-message-duplicated-as-a-note-by-most-checkers/74480#post_9)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755#post_3)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755#post_2)
+- [Would be be possible to do what the Circle compiler does in Clang?](https://discourse.llvm.org/t/would-be-be-possible-to-do-what-the-circle-compiler-does-in-clang/74694#post_5)
+- [Formatters and downcasts](https://discourse.llvm.org/t/formatters-and-downcasts/74743#post_2)
 <!-- DISCOURSE-LLVM:END -->
