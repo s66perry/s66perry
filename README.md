@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_39)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_38)
 - [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_7)
 - [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_6)
 - [New Test Suite For LNT](https://discourse.llvm.org/t/new-test-suite-for-lnt/74659#post_3)
-- [Where to announce projects using llvm as library, but outside of llvm project?](https://discourse.llvm.org/t/where-to-announce-projects-using-llvm-as-library-but-outside-of-llvm-project/74752#post_1)
-- [How to suggest a very simple patch?](https://discourse.llvm.org/t/how-to-suggest-a-very-simple-patch/74681#post_5)
 <!-- DISCOURSE-LLVM:END -->
