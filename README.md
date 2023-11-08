@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705#post_18)
-- [[RFC] Add binary profile correlation to not load profile metadata sections into memory at runtime](https://discourse.llvm.org/t/rfc-add-binary-profile-correlation-to-not-load-profile-metadata-sections-into-memory-at-runtime/74565#post_7)
-- [Codechecker and converting reports](https://discourse.llvm.org/t/codechecker-and-converting-reports/74742#post_2)
-- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_16)
-- [[RFC] Target CPU and features for module-level inline assembly](https://discourse.llvm.org/t/rfc-target-cpu-and-features-for-module-level-inline-assembly/74713#post_5)
+- [Slow build with Clang 17.0.2](https://discourse.llvm.org/t/slow-build-with-clang-17-0-2/74747#post_3)
+- [Slow build with Clang 17.0.2](https://discourse.llvm.org/t/slow-build-with-clang-17-0-2/74747#post_2)
+- [Slow build with Clang 17.0.2](https://discourse.llvm.org/t/slow-build-with-clang-17-0-2/74747#post_1)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=8#post_152)
+- [[RFC] Target CPU and features for module-level inline assembly](https://discourse.llvm.org/t/rfc-target-cpu-and-features-for-module-level-inline-assembly/74713#post_6)
 <!-- DISCOURSE-LLVM:END -->
