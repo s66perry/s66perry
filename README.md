@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678#post_19)
-- [[RFC] Add llvm.target_features attribute](https://discourse.llvm.org/t/rfc-add-llvm-target-features-attribute/74757#post_2)
-- [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_8)
-- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_12)
-- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_14)
+- [The &quot;you&quot; in eucatastrophe - the story of building SciPy with Flang](https://discourse.llvm.org/t/the-you-in-eucatastrophe-the-story-of-building-scipy-with-flang/74768#post_1)
+- [Clang-extdef-mapping : Any documentation for it? What does it actually do?](https://discourse.llvm.org/t/clang-extdef-mapping-any-documentation-for-it-what-does-it-actually-do/74628#post_3)
+- [Trying CTU: error: multiple definitions are found for the same key in index](https://discourse.llvm.org/t/trying-ctu-error-multiple-definitions-are-found-for-the-same-key-in-index/74608#post_2)
+- [Save the date for EuroLLVM 2024 in Vienna, Austria](https://discourse.llvm.org/t/save-the-date-for-eurollvm-2024-in-vienna-austria/74767#post_1)
+- [Seeking Volunteers for EuroLLVM 2024 PC Committee and Student Travel Grants Committee](https://discourse.llvm.org/t/seeking-volunteers-for-eurollvm-2024-pc-committee-and-student-travel-grants-committee/74766#post_1)
 <!-- DISCOURSE-LLVM:END -->
