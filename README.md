@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_28)
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_27)
-- [How to find reviewers?](https://discourse.llvm.org/t/how-to-find-reviewers/74803#post_1)
-- [Issue with PyTorch to MLIR Compilation using torch-mlir: Missing Input Representation](https://discourse.llvm.org/t/issue-with-pytorch-to-mlir-compilation-using-torch-mlir-missing-input-representation/74801#post_3)
-- [[RFC] Implementation of OpenACC 3.3 for Offload in Clang](https://discourse.llvm.org/t/rfc-implementation-of-openacc-3-3-for-offload-in-clang/74405?page=2#post_23)
+- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_3)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_28)
+- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_2)
+- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_1)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755#post_15)
 <!-- DISCOURSE-LLVM:END -->
