@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253#post_8)
+- [[RFC] Add llvm.target_features attribute](https://discourse.llvm.org/t/rfc-add-llvm-target-features-attribute/74757#post_3)
+- [The &quot;you&quot; in eucatastrophe - the story of building SciPy with Flang](https://discourse.llvm.org/t/the-you-in-eucatastrophe-the-story-of-building-scipy-with-flang/74768#post_8)
+- [Seeking Volunteers for EuroLLVM 2024 PC Committee and Student Travel Grants Committee](https://discourse.llvm.org/t/seeking-volunteers-for-eurollvm-2024-pc-committee-and-student-travel-grants-committee/74766#post_2)
 - [RISC-V LLVM sync-up call November 9th 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-november-9th-2023/74781#post_1)
-- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_10)
-- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_9)
-- [Trying CTU: error: multiple definitions are found for the same key in index](https://discourse.llvm.org/t/trying-ctu-error-multiple-definitions-are-found-for-the-same-key-in-index/74608#post_3)
-- [How to suggest a very simple patch?](https://discourse.llvm.org/t/how-to-suggest-a-very-simple-patch/74681#post_6)
 <!-- DISCOURSE-LLVM:END -->
