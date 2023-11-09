@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_3)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_28)
-- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_2)
-- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_1)
-- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755#post_15)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755#post_16)
+- [How to use distributed thin lto？](https://discourse.llvm.org/t/how-to-use-distributed-thin-lto/74639#post_10)
+- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_5)
+- [Freeze prevents selection of sign-extending subword load](https://discourse.llvm.org/t/freeze-prevents-selection-of-sign-extending-subword-load/74729#post_5)
+- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_4)
 <!-- DISCOURSE-LLVM:END -->
