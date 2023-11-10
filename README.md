@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Open projects in LLVM 2023](https://discourse.llvm.org/t/open-projects-in-llvm-2023/74825#post_1)
+- [CFP FOSDEM 2024 LLVM dev room](https://discourse.llvm.org/t/cfp-fosdem-2024-llvm-dev-room/74823#post_1)
+- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_11)
 - [Force push and rebase](https://discourse.llvm.org/t/force-push-and-rebase/73766#post_10)
 - [WasmGC implementation status?](https://discourse.llvm.org/t/wasmgc-implementation-status/74821#post_1)
-- [Firtool verilog instead of systemverilog](https://discourse.llvm.org/t/firtool-verilog-instead-of-systemverilog/74805#post_6)
-- [Firtool verilog instead of systemverilog](https://discourse.llvm.org/t/firtool-verilog-instead-of-systemverilog/74805#post_5)
-- [Firtool verilog instead of systemverilog](https://discourse.llvm.org/t/firtool-verilog-instead-of-systemverilog/74805#post_4)
 <!-- DISCOURSE-LLVM:END -->
