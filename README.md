@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_43)
-- [Force push and rebase](https://discourse.llvm.org/t/force-push-and-rebase/73766#post_11)
-- [Inquiry regarding accurate calculation of maximum constant backedge count in SCEV](https://discourse.llvm.org/t/inquiry-regarding-accurate-calculation-of-maximum-constant-backedge-count-in-scev/74682#post_2)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=2#post_40)
-- [[RFC] Adding Register Field Information to lldb-server](https://discourse.llvm.org/t/rfc-adding-register-field-information-to-lldb-server/74143#post_14)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_43)
+- [Open projects in LLVM 2023](https://discourse.llvm.org/t/open-projects-in-llvm-2023/74825#post_2)
+- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_4)
+- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_20)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_42)
 <!-- DISCOURSE-LLVM:END -->
