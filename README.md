@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Floating-point working group](https://discourse.llvm.org/t/rfc-floating-point-working-group/73830#post_6)
-- [Options.get and store](https://discourse.llvm.org/t/options-get-and-store/74819#post_1)
-- [Formatters and downcasts](https://discourse.llvm.org/t/formatters-and-downcasts/74743#post_4)
-- [Code compiles in MSVC but not in Clang. Why?](https://discourse.llvm.org/t/code-compiles-in-msvc-but-not-in-clang-why/74816#post_3)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365?page=2#post_25)
+- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_29)
+- [How to use distributed thin lto？](https://discourse.llvm.org/t/how-to-use-distributed-thin-lto/74639#post_12)
+- [Version check failing when back porting commits](https://discourse.llvm.org/t/version-check-failing-when-back-porting-commits/74818#post_2)
+- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253#post_12)
+- [Firtool verilog instead of systemverilog](https://discourse.llvm.org/t/firtool-verilog-instead-of-systemverilog/74805#post_3)
 <!-- DISCOURSE-LLVM:END -->
