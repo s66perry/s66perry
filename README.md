@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[FOSDEM] [CfP] Call for participation: Libre-SOC, FPGA and VLSI at FOSDEM 2024](https://discourse.llvm.org/t/fosdem-cfp-call-for-participation-libre-soc-fpga-and-vlsi-at-fosdem-2024/74839#post_1)
+- [Code compiles in MSVC but not in Clang. Why?](https://discourse.llvm.org/t/code-compiles-in-msvc-but-not-in-clang-why/74816#post_4)
 - [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_7)
 - [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_20)
 - [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_19)
-- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_16)
-- [Force push and rebase](https://discourse.llvm.org/t/force-push-and-rebase/73766#post_14)
 <!-- DISCOURSE-LLVM:END -->
