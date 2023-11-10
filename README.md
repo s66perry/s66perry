@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Sparsifier Website and Logo](https://discourse.llvm.org/t/mlir-sparsifier-website-and-logo/74837#post_1)
-- [Firtool verilog instead of systemverilog](https://discourse.llvm.org/t/firtool-verilog-instead-of-systemverilog/74805#post_8)
-- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_5)
-- [Formatters and downcasts](https://discourse.llvm.org/t/formatters-and-downcasts/74743#post_6)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_88)
+- [How to exclude the basic blocks ending with unreachable instructions when calculating the post dominator tree?](https://discourse.llvm.org/t/how-to-exclude-the-basic-blocks-ending-with-unreachable-instructions-when-calculating-the-post-dominator-tree/74810#post_7)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_20)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233#post_19)
+- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_16)
+- [Force push and rebase](https://discourse.llvm.org/t/force-push-and-rebase/73766#post_14)
 <!-- DISCOURSE-LLVM:END -->
