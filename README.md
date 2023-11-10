@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_43)
-- [Open projects in LLVM 2023](https://discourse.llvm.org/t/open-projects-in-llvm-2023/74825#post_2)
-- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_4)
-- [[RFC] Showing register fields in LLDB](https://discourse.llvm.org/t/rfc-showing-register-fields-in-lldb/64676#post_20)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_42)
+- [Seeking Volunteers for EuroLLVM 2024 PC Committee and Student Travel Grants Committee](https://discourse.llvm.org/t/seeking-volunteers-for-eurollvm-2024-pc-committee-and-student-travel-grants-committee/74766#post_7)
+- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_33)
+- [Seeking Volunteers for EuroLLVM 2024 PC Committee and Student Travel Grants Committee](https://discourse.llvm.org/t/seeking-volunteers-for-eurollvm-2024-pc-committee-and-student-travel-grants-committee/74766#post_6)
+- [Linalg matmul -&gt; ArmSME update](https://discourse.llvm.org/t/linalg-matmul-armsme-update/74830#post_2)
+- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253#post_13)
 <!-- DISCOURSE-LLVM:END -->
