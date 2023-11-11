@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_48)
+- [Calling functions on different modules](https://discourse.llvm.org/t/calling-functions-on-different-modules/3317#post_10)
 - [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_47)
 - [Seeking Volunteers for EuroLLVM 2024 PC Committee and Student Travel Grants Committee](https://discourse.llvm.org/t/seeking-volunteers-for-eurollvm-2024-pc-committee-and-student-travel-grants-committee/74766#post_10)
 - [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_46)
-- [Can base binaries be optimized using optimized binary perf data?](https://discourse.llvm.org/t/can-base-binaries-be-optimized-using-optimized-binary-perf-data/74424#post_4)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
