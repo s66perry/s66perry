@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][Tensor] Add a `tensor.concatenate` operation](https://discourse.llvm.org/t/rfc-tensor-add-a-tensor-concatenate-operation/74858#post_1)
+- [Snapdragon And Hexagon LLVM](https://discourse.llvm.org/t/snapdragon-and-hexagon-llvm/74856#post_2)
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=2#post_38)
 - [Snapdragon And Hexagon LLVM](https://discourse.llvm.org/t/snapdragon-and-hexagon-llvm/74856#post_1)
 - [Support for more hardware intrinsics on ARMNeon dialect](https://discourse.llvm.org/t/support-for-more-hardware-intrinsics-on-armneon-dialect/74851#post_2)
-- [What means &quot;potential regression&quot;?](https://discourse.llvm.org/t/what-means-potential-regression/74848#post_7)
-- [What means &quot;potential regression&quot;?](https://discourse.llvm.org/t/what-means-potential-regression/74848#post_6)
-- [Enhancements in toy tutorial of MLIR](https://discourse.llvm.org/t/enhancements-in-toy-tutorial-of-mlir/74850#post_4)
 <!-- DISCOURSE-LLVM:END -->
