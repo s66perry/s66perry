@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_9)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_44)
+- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_8)
+- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_7)
 - [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_7)
-- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_11)
-- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_6)
-- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_10)
-- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_5)
 <!-- DISCOURSE-LLVM:END -->
