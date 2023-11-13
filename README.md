@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_26)
-- [[RFC][Flang] New directory for adding end-to-end tests for lowering to llvm IR in Flang](https://discourse.llvm.org/t/rfc-flang-new-directory-for-adding-end-to-end-tests-for-lowering-to-llvm-ir-in-flang/74872#post_10)
-- [GCC 14 adds -Wreturn-mismatch](https://discourse.llvm.org/t/gcc-14-adds-wreturn-mismatch/74868#post_2)
-- [[RFC][Flang] New directory for adding end-to-end tests for lowering to llvm IR in Flang](https://discourse.llvm.org/t/rfc-flang-new-directory-for-adding-end-to-end-tests-for-lowering-to-llvm-ir-in-flang/74872#post_9)
-- [[RFC][Flang] New directory for adding end-to-end tests for lowering to llvm IR in Flang](https://discourse.llvm.org/t/rfc-flang-new-directory-for-adding-end-to-end-tests-for-lowering-to-llvm-ir-in-flang/74872#post_8)
+- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_4)
+- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_18)
+- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_1)
+- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_13)
+- [[RFC] Add binary profile correlation to not load profile metadata sections into memory at runtime](https://discourse.llvm.org/t/rfc-add-binary-profile-correlation-to-not-load-profile-metadata-sections-into-memory-at-runtime/74565#post_10)
 <!-- DISCOURSE-LLVM:END -->
