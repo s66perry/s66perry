@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_9)
-- [Why doesn&#39;t this LLVM IR code optimize away?](https://discourse.llvm.org/t/why-doesnt-this-llvm-ir-code-optimize-away/74885#post_3)
-- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_8)
-- [Why doesn&#39;t this LLVM IR code optimize away?](https://discourse.llvm.org/t/why-doesnt-this-llvm-ir-code-optimize-away/74885#post_2)
-- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_20)
+- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_7)
+- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_11)
+- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_6)
+- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_10)
+- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_5)
 <!-- DISCOURSE-LLVM:END -->
