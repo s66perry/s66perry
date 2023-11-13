@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_6)
-- [Trying CTU: error: multiple definitions are found for the same key in index](https://discourse.llvm.org/t/trying-ctu-error-multiple-definitions-are-found-for-the-same-key-in-index/74608#post_5)
-- [Stop pre-merge checks for phabricator &lpar;?&rpar;](https://discourse.llvm.org/t/stop-pre-merge-checks-for-phabricator/74871#post_2)
-- [Stop pre-merge checks for phabricator &lpar;?&rpar;](https://discourse.llvm.org/t/stop-pre-merge-checks-for-phabricator/74871#post_1)
-- [Periodic build of main on buildkite is disabled](https://discourse.llvm.org/t/periodic-build-of-main-on-buildkite-is-disabled/74870#post_1)
+- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_1)
+- [[RFC][Flang] New directory for adding end-to-end tests for lowering to llvm IR in Flang](https://discourse.llvm.org/t/rfc-flang-new-directory-for-adding-end-to-end-tests-for-lowering-to-llvm-ir-in-flang/74872#post_3)
+- [[RFC][Flang] New directory for adding end-to-end tests for lowering to llvm IR in Flang](https://discourse.llvm.org/t/rfc-flang-new-directory-for-adding-end-to-end-tests-for-lowering-to-llvm-ir-in-flang/74872#post_2)
+- [[RFC][Flang] New directory for adding end-to-end tests for lowering to llvm IR in Flang](https://discourse.llvm.org/t/rfc-flang-new-directory-for-adding-end-to-end-tests-for-lowering-to-llvm-ir-in-flang/74872#post_1)
+- [LLVM-17 optimization levels comparison](https://discourse.llvm.org/t/llvm-17-optimization-levels-comparison/74474#post_2)
 <!-- DISCOURSE-LLVM:END -->
