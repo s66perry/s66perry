@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_52)
-- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_11)
-- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445#post_19)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_51)
-- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_10)
+- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_4)
+- [Heads up: sparse-compiler -&gt; sparsifier flag renaming](https://discourse.llvm.org/t/heads-up-sparse-compiler-sparsifier-flag-renaming/74882#post_1)
+- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_3)
+- [RFC: Add optional attribute to VectorType](https://discourse.llvm.org/t/rfc-add-optional-attribute-to-vectortype/74881#post_2)
+- [AArch64 LLVM Sync-up Call 14 November 2023](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-14-november-2023/74867#post_2)
 <!-- DISCOURSE-LLVM:END -->
