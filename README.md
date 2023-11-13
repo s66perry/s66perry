@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_4)
-- [Heads up: sparse-compiler -&gt; sparsifier flag renaming](https://discourse.llvm.org/t/heads-up-sparse-compiler-sparsifier-flag-renaming/74882#post_1)
-- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_3)
-- [RFC: Add optional attribute to VectorType](https://discourse.llvm.org/t/rfc-add-optional-attribute-to-vectortype/74881#post_2)
-- [AArch64 LLVM Sync-up Call 14 November 2023](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-14-november-2023/74867#post_2)
+- [Open projects in LLVM 2023](https://discourse.llvm.org/t/open-projects-in-llvm-2023/74825#post_3)
+- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_7)
+- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_6)
+- [Running compiler-rt tests when using `LLVM_ENABLE_RUNTIMES`](https://discourse.llvm.org/t/running-compiler-rt-tests-when-using-llvm-enable-runtimes/64716#post_2)
+- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_5)
 <!-- DISCOURSE-LLVM:END -->
