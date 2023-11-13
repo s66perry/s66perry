@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_4)
 - [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_21)
 - [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755#post_20)
 - [Snapdragon And Hexagon LLVM](https://discourse.llvm.org/t/snapdragon-and-hexagon-llvm/74856#post_4)
 - [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_3)
-- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_2)
 <!-- DISCOURSE-LLVM:END -->
