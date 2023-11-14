@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_9)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_44)
-- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_8)
-- [Run custom optimization pass with LIT](https://discourse.llvm.org/t/run-custom-optimization-pass-with-lit/74877#post_7)
-- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_7)
+- [RFC: clang-format option to include another configuration file](https://discourse.llvm.org/t/rfc-clang-format-option-to-include-another-configuration-file/74891#post_1)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_28)
+- [[RFC] Consistent branches support in LLVM](https://discourse.llvm.org/t/rfc-consistent-branches-support-in-llvm/74889#post_1)
+- [RFC: Representing register data layout explicitly in the IR](https://discourse.llvm.org/t/rfc-representing-register-data-layout-explicitly-in-the-ir/74881#post_3)
+- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_14)
 <!-- DISCOURSE-LLVM:END -->
