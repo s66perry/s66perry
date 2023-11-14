@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TwoAddressInstructionPass::runOnMachineFunction, a core dump occurs and the disk logs are full. Will the core dump occur because the disk logs are full?](https://discourse.llvm.org/t/twoaddressinstructionpass-runonmachinefunction-a-core-dump-occurs-and-the-disk-logs-are-full-will-the-core-dump-occur-because-the-disk-logs-are-full/74908#post_2)
-- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_12)
-- [Function sharing in MLIR](https://discourse.llvm.org/t/function-sharing-in-mlir/74910#post_1)
-- [TwoAddressInstructionPass::runOnMachineFunction, a core dump occurs and the disk logs are full. Will the core dump occur because the disk logs are full?](https://discourse.llvm.org/t/twoaddressinstructionpass-runonmachinefunction-a-core-dump-occurs-and-the-disk-logs-are-full-will-the-core-dump-occur-because-the-disk-logs-are-full/74908#post_1)
-- [LLVM 17.0.5 tagged!](https://discourse.llvm.org/t/llvm-17-0-5-tagged/74907#post_1)
+- [[RFC] TableGen-driven MacroFusion predicators generator](https://discourse.llvm.org/t/rfc-tablegen-driven-macrofusion-predicators-generator/74912#post_2)
+- [RFC: Exposing type and attribute names in C++](https://discourse.llvm.org/t/rfc-exposing-type-and-attribute-names-in-c/74896#post_3)
+- [Problems with code model large and relocations](https://discourse.llvm.org/t/problems-with-code-model-large-and-relocations/70511#post_5)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_42)
+- [[One-Shot Bufferizer] Bufferization fails in the presence of `tensor.empty&lpar;&rpar;`](https://discourse.llvm.org/t/one-shot-bufferizer-bufferization-fails-in-the-presence-of-tensor-empty/74669#post_9)
 <!-- DISCOURSE-LLVM:END -->
