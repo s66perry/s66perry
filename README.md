@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Flang homepage is broken](https://discourse.llvm.org/t/flang-homepage-is-broken/73603#post_5)
-- [Flang homepage is broken](https://discourse.llvm.org/t/flang-homepage-is-broken/73603#post_4)
-- [Flang homepage is broken](https://discourse.llvm.org/t/flang-homepage-is-broken/73603#post_3)
-- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_6)
-- [Clang-format and checkpatch BLOCK_COMMENT_STYLE](https://discourse.llvm.org/t/clang-format-and-checkpatch-block-comment-style/74917#post_1)
+- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_13)
+- [Surprising TBAA result with struct access tag](https://discourse.llvm.org/t/surprising-tbaa-result-with-struct-access-tag/74920#post_1)
+- [[One-Shot Bufferizer] Bufferization fails in the presence of `tensor.empty&lpar;&rpar;`](https://discourse.llvm.org/t/one-shot-bufferizer-bufferization-fails-in-the-presence-of-tensor-empty/74669#post_10)
+- [AArch64 LLVM Sync-up Call 14 November 2023](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-14-november-2023/74867#post_4)
+- [AArch64 LLVM Sync-up Call 14 November 2023](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-14-november-2023/74867#post_3)
 <!-- DISCOURSE-LLVM:END -->
