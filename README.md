@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] TableGen-driven MacroFusion predicators generator](https://discourse.llvm.org/t/rfc-tablegen-driven-macrofusion-predicators-generator/74912#post_2)
-- [RFC: Exposing type and attribute names in C++](https://discourse.llvm.org/t/rfc-exposing-type-and-attribute-names-in-c/74896#post_3)
-- [Problems with code model large and relocations](https://discourse.llvm.org/t/problems-with-code-model-large-and-relocations/70511#post_5)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_42)
-- [[One-Shot Bufferizer] Bufferization fails in the presence of `tensor.empty&lpar;&rpar;`](https://discourse.llvm.org/t/one-shot-bufferizer-bufferization-fails-in-the-presence-of-tensor-empty/74669#post_9)
+- [Flang homepage is broken](https://discourse.llvm.org/t/flang-homepage-is-broken/73603#post_5)
+- [Flang homepage is broken](https://discourse.llvm.org/t/flang-homepage-is-broken/73603#post_4)
+- [Flang homepage is broken](https://discourse.llvm.org/t/flang-homepage-is-broken/73603#post_3)
+- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_6)
+- [Clang-format and checkpatch BLOCK_COMMENT_STYLE](https://discourse.llvm.org/t/clang-format-and-checkpatch-block-comment-style/74917#post_1)
 <!-- DISCOURSE-LLVM:END -->
