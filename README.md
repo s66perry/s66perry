@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format option to include another configuration file](https://discourse.llvm.org/t/rfc-clang-format-option-to-include-another-configuration-file/74891#post_1)
-- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_28)
-- [[RFC] Consistent branches support in LLVM](https://discourse.llvm.org/t/rfc-consistent-branches-support-in-llvm/74889#post_1)
-- [RFC: Representing register data layout explicitly in the IR](https://discourse.llvm.org/t/rfc-representing-register-data-layout-explicitly-in-the-ir/74881#post_3)
-- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_14)
+- [[RFC][Tensor] Add a `tensor.concatenate` operation](https://discourse.llvm.org/t/rfc-tensor-add-a-tensor-concatenate-operation/74858#post_4)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_40)
+- [Support for Bazel Build System](https://discourse.llvm.org/t/support-for-bazel-build-system/74895#post_3)
+- [RFC: Exposing type and attribute names in C++](https://discourse.llvm.org/t/rfc-exposing-type-and-attribute-names-in-c/74896#post_1)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
