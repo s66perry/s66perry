@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Read from modport](https://discourse.llvm.org/t/read-from-modport/74927#post_1)
-- [[RFC] Consistent branches support in LLVM](https://discourse.llvm.org/t/rfc-consistent-branches-support-in-llvm/74889#post_4)
-- [Cross compiling fails with linker errors when using pthreads](https://discourse.llvm.org/t/cross-compiling-fails-with-linker-errors-when-using-pthreads/74926#post_1)
-- [How to pass list for O1,O2 and O3 separately](https://discourse.llvm.org/t/how-to-pass-list-for-o1-o2-and-o3-separately/74925#post_2)
-- [How to copy propagate physical register introduced before RA](https://discourse.llvm.org/t/how-to-copy-propagate-physical-register-introduced-before-ra/74828#post_2)
+- [[RFC] Consistent branches support in LLVM](https://discourse.llvm.org/t/rfc-consistent-branches-support-in-llvm/74889#post_5)
+- [[RFC][Tensor] Add a `tensor.concatenate` operation](https://discourse.llvm.org/t/rfc-tensor-add-a-tensor-concatenate-operation/74858#post_7)
+- [[RFC] Scalable Vector Constants Splats](https://discourse.llvm.org/t/rfc-scalable-vector-constants-splats/74789#post_5)
+- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_14)
+- [AArch64 calling convention for small vectors?](https://discourse.llvm.org/t/aarch64-calling-convention-for-small-vectors/74880#post_13)
 <!-- DISCOURSE-LLVM:END -->
