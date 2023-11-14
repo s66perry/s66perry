@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_5)
-- [Support for Bazel Build System](https://discourse.llvm.org/t/support-for-bazel-build-system/74895#post_4)
-- [New Defects reported by Coverity Scan for llvm](https://discourse.llvm.org/t/new-defects-reported-by-coverity-scan-for-llvm/74898#post_1)
-- [[RFC][Tensor] Add a `tensor.concatenate` operation](https://discourse.llvm.org/t/rfc-tensor-add-a-tensor-concatenate-operation/74858#post_4)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=2#post_40)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_57)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_56)
+- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=5#post_96)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_55)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_54)
 <!-- DISCOURSE-LLVM:END -->
