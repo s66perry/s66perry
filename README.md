@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can&#39;t compile a basic C++ example after building successfully LLVM on Apple M1 architecture](https://discourse.llvm.org/t/cant-compile-a-basic-c-example-after-building-successfully-llvm-on-apple-m1-architecture/73517#post_2)
+- [How to use llvm-tblgen?](https://discourse.llvm.org/t/how-to-use-llvm-tblgen/74901#post_1)
 - [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=2#post_28)
 - [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=3#post_59)
 - [RFC: Representing register data layout explicitly in the IR](https://discourse.llvm.org/t/rfc-representing-register-data-layout-explicitly-in-the-ir/74881#post_5)
-- [Mapping results of converted operation into operands of users of original result](https://discourse.llvm.org/t/mapping-results-of-converted-operation-into-operands-of-users-of-original-result/74847#post_3)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_41)
 <!-- DISCOURSE-LLVM:END -->
