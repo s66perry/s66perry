@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Fast math SPEC 2017 FP failure for povray](https://discourse.llvm.org/t/fast-math-spec-2017-fp-failure-for-povray/74959#post_2)
+- [Where can i get llvm-mca](https://discourse.llvm.org/t/where-can-i-get-llvm-mca/74962#post_1)
+- [[RFC] how can i find the different dialect after using a pass](https://discourse.llvm.org/t/rfc-how-can-i-find-the-different-dialect-after-using-a-pass/74960#post_1)
+- [Fast math SPEC 2017 FP failure for povray](https://discourse.llvm.org/t/fast-math-spec-2017-fp-failure-for-povray/74959#post_1)
 - [[RFC] Is a more expressive way to represent reductions useful?](https://discourse.llvm.org/t/rfc-is-a-more-expressive-way-to-represent-reductions-useful/74929#post_2)
-- [MLIR PDL example?](https://discourse.llvm.org/t/mlir-pdl-example/74958#post_1)
-- [LLVM 17.0.5 tagged!](https://discourse.llvm.org/t/llvm-17-0-5-tagged/74907#post_4)
-- [Exceptions catch lead to segv when binary compile with no-pie](https://discourse.llvm.org/t/exceptions-catch-lead-to-segv-when-binary-compile-with-no-pie/74955#post_2)
-- [LLVM 17.0.5 tagged!](https://discourse.llvm.org/t/llvm-17-0-5-tagged/74907#post_3)
 <!-- DISCOURSE-LLVM:END -->
