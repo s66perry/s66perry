@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Guide/tutorial for adding a new type to C in Clang?](https://discourse.llvm.org/t/guide-tutorial-for-adding-a-new-type-to-c-in-clang/64978#post_2)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_48)
-- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937#post_13)
-- [Function sharing in MLIR](https://discourse.llvm.org/t/function-sharing-in-mlir/74910#post_2)
-- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937#post_12)
+- [Exceptions catch lead to segv when binary compile with no-pie](https://discourse.llvm.org/t/exceptions-catch-lead-to-segv-when-binary-compile-with-no-pie/74955#post_2)
+- [LLVM 17.0.5 tagged!](https://discourse.llvm.org/t/llvm-17-0-5-tagged/74907#post_3)
+- [[One-Shot Bufferizer] Bufferization fails in the presence of `tensor.empty&lpar;&rpar;`](https://discourse.llvm.org/t/one-shot-bufferizer-bufferization-fails-in-the-presence-of-tensor-empty/74669#post_12)
+- [Exceptions catch lead to segv when binary compile with no-pie](https://discourse.llvm.org/t/exceptions-catch-lead-to-segv-when-binary-compile-with-no-pie/74955#post_1)
+- [[RFC][Tensor] Add a `tensor.concatenate` operation](https://discourse.llvm.org/t/rfc-tensor-add-a-tensor-concatenate-operation/74858#post_9)
 <!-- DISCOURSE-LLVM:END -->
