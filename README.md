@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937#post_6)
-- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937#post_5)
-- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=4#post_61)
-- [AArch64 LLVM Sync-up Call 14 November 2023](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-14-november-2023/74867#post_6)
-- [LLVM 17.0.5 tagged!](https://discourse.llvm.org/t/llvm-17-0-5-tagged/74907#post_2)
+- [[RFC] Consistent branches support in LLVM](https://discourse.llvm.org/t/rfc-consistent-branches-support-in-llvm/74889#post_6)
+- [Building libomp + libomptarget for riscv32](https://discourse.llvm.org/t/building-libomp-libomptarget-for-riscv32/63687#post_6)
+- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937#post_9)
+- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937#post_8)
+- [RFC: attribute&lpar;&lpar;no_sizeof&rpar;&rpar;](https://discourse.llvm.org/t/rfc-attribute-no-sizeof/74695#post_17)
 <!-- DISCOURSE-LLVM:END -->
