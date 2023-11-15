@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_11)
+- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678?page=2#post_21)
 - [How to run mlir-cpu-runner with cluster_dim?](https://discourse.llvm.org/t/how-to-run-mlir-cpu-runner-with-cluster-dim/74778#post_2)
 - [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_15)
 - [Exceptions catch lead to segv when binary compile with no-pie](https://discourse.llvm.org/t/exceptions-catch-lead-to-segv-when-binary-compile-with-no-pie/74955#post_3)
-- [The &quot;you&quot; in eucatastrophe - the story of building SciPy with Flang](https://discourse.llvm.org/t/the-you-in-eucatastrophe-the-story-of-building-scipy-with-flang/74768#post_9)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_50)
 <!-- DISCOURSE-LLVM:END -->
