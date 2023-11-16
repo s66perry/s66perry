@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_25)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_24)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_23)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_22)
-- [[RFC][Flang] New directory for adding end-to-end tests for lowering to llvm IR in Flang](https://discourse.llvm.org/t/rfc-flang-new-directory-for-adding-end-to-end-tests-for-lowering-to-llvm-ir-in-flang/74872#post_12)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233?page=2#post_21)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902?page=2#post_22)
+- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678?page=2#post_24)
+- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994#post_10)
+- [External func/call lowering in FuncToLLVM with BarePtrCallConv](https://discourse.llvm.org/t/external-func-call-lowering-in-functollvm-with-bareptrcallconv/75010#post_1)
 <!-- DISCOURSE-LLVM:END -->
