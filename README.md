@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_11)
-- [How to allocate memory inside gpu kernel function](https://discourse.llvm.org/t/how-to-allocate-memory-inside-gpu-kernel-function/74678?page=2#post_21)
-- [How to run mlir-cpu-runner with cluster_dim?](https://discourse.llvm.org/t/how-to-run-mlir-cpu-runner-with-cluster-dim/74778#post_2)
-- [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_15)
-- [Exceptions catch lead to segv when binary compile with no-pie](https://discourse.llvm.org/t/exceptions-catch-lead-to-segv-when-binary-compile-with-no-pie/74955#post_3)
+- [Support for more hardware intrinsics on ARMNeon dialect](https://discourse.llvm.org/t/support-for-more-hardware-intrinsics-on-armneon-dialect/74851#post_4)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_15)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_14)
+- [About the Intrinsic&lpar;builtin&rpar;, where is it&#39;s definition?](https://discourse.llvm.org/t/about-the-intrinsic-builtin-where-is-its-definition/74974#post_1)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_13)
 <!-- DISCOURSE-LLVM:END -->
