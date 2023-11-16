@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937?page=2#post_21)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_19)
-- [[RFC] `address` dialect](https://discourse.llvm.org/t/rfc-address-dialect/74937#post_20)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_18)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223#post_17)
+- [How can I determine if the llvm function has been compiled?](https://discourse.llvm.org/t/how-can-i-determine-if-the-llvm-function-has-been-compiled/74982#post_4)
+- [How can I determine if the llvm function has been compiled?](https://discourse.llvm.org/t/how-can-i-determine-if-the-llvm-function-has-been-compiled/74982#post_3)
+- [How llvm do constantfolding?](https://discourse.llvm.org/t/how-llvm-do-constantfolding/74980#post_2)
+- [How to mapping Intrinsic function to multiple riscv instruction?](https://discourse.llvm.org/t/how-to-mapping-intrinsic-function-to-multiple-riscv-instruction/74987#post_4)
+- [Trapping math for RISC-V](https://discourse.llvm.org/t/trapping-math-for-risc-v/72168#post_6)
 <!-- DISCOURSE-LLVM:END -->
