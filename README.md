@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994#post_1)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_53)
+- [Where can i get llvm-mca](https://discourse.llvm.org/t/where-can-i-get-llvm-mca/74962#post_3)
+- [Commit descriptions do not have most recent description from PR](https://discourse.llvm.org/t/commit-descriptions-do-not-have-most-recent-description-from-pr/74978#post_4)
 - [RFC: Error handling in release builds aka &quot;can I use lldbassert or not?&quot;](https://discourse.llvm.org/t/rfc-error-handling-in-release-builds-aka-can-i-use-lldbassert-or-not/74738#post_10)
-- [About tile+fuse for DSA&lpar;such as npu&rpar;, pls give me some suggestion](https://discourse.llvm.org/t/about-tile-fuse-for-dsa-such-as-npu-pls-give-me-some-suggestion/74992#post_1)
-- [How can I determine if the llvm function has been compiled?](https://discourse.llvm.org/t/how-can-i-determine-if-the-llvm-function-has-been-compiled/74982#post_5)
-- [How to pass list for O1,O2 and O3 separately](https://discourse.llvm.org/t/how-to-pass-list-for-o1-o2-and-o3-separately/74925#post_4)
-- [Cross compiling fails with linker errors when using pthreads](https://discourse.llvm.org/t/cross-compiling-fails-with-linker-errors-when-using-pthreads/74926#post_2)
 <!-- DISCOURSE-LLVM:END -->
