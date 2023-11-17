@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_5)
+- [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_6)
+- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_4)
+- [Does binary id work with shared libraries?](https://discourse.llvm.org/t/does-binary-id-work-with-shared-libraries/75041#post_3)
 - [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_3)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=8#post_156)
-- [Does binary id work with shared libraries?](https://discourse.llvm.org/t/does-binary-id-work-with-shared-libraries/75041#post_2)
-- [Does binary id work with shared libraries?](https://discourse.llvm.org/t/does-binary-id-work-with-shared-libraries/75041#post_1)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=8#post_155)
 <!-- DISCOURSE-LLVM:END -->
