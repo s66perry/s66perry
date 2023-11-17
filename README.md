@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=8#post_154)
-- [Fast math SPEC 2017 FP failure for povray](https://discourse.llvm.org/t/fast-math-spec-2017-fp-failure-for-povray/74959#post_13)
-- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_57)
-- [Strange ISel Bug](https://discourse.llvm.org/t/strange-isel-bug/75030#post_1)
-- [RFC: Exposing type and attribute names in C++](https://discourse.llvm.org/t/rfc-exposing-type-and-attribute-names-in-c/74896#post_5)
+- [Use LLVM analyzer outside of a pass](https://discourse.llvm.org/t/use-llvm-analyzer-outside-of-a-pass/75038#post_1)
+- [[RFC] Add or disjoint flag](https://discourse.llvm.org/t/rfc-add-or-disjoint-flag/75036#post_1)
+- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_2)
+- [How allocate a multi-dimensional array](https://discourse.llvm.org/t/how-allocate-a-multi-dimensional-array/75034#post_1)
+- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_1)
 <!-- DISCOURSE-LLVM:END -->
