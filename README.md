@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_3)
+- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_2)
+- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_1)
 - [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_5)
 - [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_6)
-- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_4)
-- [Does binary id work with shared libraries?](https://discourse.llvm.org/t/does-binary-id-work-with-shared-libraries/75041#post_3)
-- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_3)
 <!-- DISCOURSE-LLVM:END -->
