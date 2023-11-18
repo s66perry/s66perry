@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=4#post_61)
+- [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_60)
 - [[RFC] Simplifying Dynamic Shared Memory Access in GPU](https://discourse.llvm.org/t/rfc-simplifying-dynamic-shared-memory-access-in-gpu/74559?page=3#post_59)
 - [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994#post_16)
 - [Unique Topological Sort Utility](https://discourse.llvm.org/t/unique-topological-sort-utility/75047#post_1)
-- [Trapping math for RISC-V](https://discourse.llvm.org/t/trapping-math-for-risc-v/72168#post_7)
-- [Stop pre-merge checks for phabricator &lpar;?&rpar;](https://discourse.llvm.org/t/stop-pre-merge-checks-for-phabricator/74871#post_7)
 <!-- DISCOURSE-LLVM:END -->
