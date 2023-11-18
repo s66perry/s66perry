@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trapping math for RISC-V](https://discourse.llvm.org/t/trapping-math-for-risc-v/72168#post_7)
+- [Stop pre-merge checks for phabricator &lpar;?&rpar;](https://discourse.llvm.org/t/stop-pre-merge-checks-for-phabricator/74871#post_7)
 - [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_3)
 - [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_2)
 - [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_1)
-- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_5)
-- [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_6)
 <!-- DISCOURSE-LLVM:END -->
