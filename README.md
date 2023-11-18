@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unique Topological Sort Utility](https://discourse.llvm.org/t/unique-topological-sort-utility/75047#post_1)
 - [Trapping math for RISC-V](https://discourse.llvm.org/t/trapping-math-for-risc-v/72168#post_7)
 - [Stop pre-merge checks for phabricator &lpar;?&rpar;](https://discourse.llvm.org/t/stop-pre-merge-checks-for-phabricator/74871#post_7)
 - [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_3)
 - [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_2)
-- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_1)
 <!-- DISCOURSE-LLVM:END -->
