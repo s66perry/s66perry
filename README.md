@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_12)
-- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925#post_18)
-- [[RFC][GlobalISel] Encoding type information into FP operations](https://discourse.llvm.org/t/rfc-globalisel-encoding-type-information-into-fp-operations/75107#post_1)
-- [How to get mangled function names from type information with LLVM?](https://discourse.llvm.org/t/how-to-get-mangled-function-names-from-type-information-with-llvm/75104#post_1)
-- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_11)
+- [Building LLVM out of per subproject tar balls still is not working](https://discourse.llvm.org/t/building-llvm-out-of-per-subproject-tar-balls-still-is-not-working/72829#post_12)
+- [Building LLVM out of per subproject tar balls still is not working](https://discourse.llvm.org/t/building-llvm-out-of-per-subproject-tar-balls-still-is-not-working/72829#post_11)
+- [The way to inspect c++ interfaces for certain operations](https://discourse.llvm.org/t/the-way-to-inspect-c-interfaces-for-certain-operations/75061#post_4)
+- [Type inference C API](https://discourse.llvm.org/t/type-inference-c-api/75112#post_1)
+- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_13)
 <!-- DISCOURSE-LLVM:END -->
