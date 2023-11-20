@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_33)
-- [Stop pre-merge checks for phabricator &lpar;?&rpar;](https://discourse.llvm.org/t/stop-pre-merge-checks-for-phabricator/74871#post_8)
-- [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_32)
-- [The way to inspect c++ interfaces for certain operations](https://discourse.llvm.org/t/the-way-to-inspect-c-interfaces-for-certain-operations/75061#post_3)
-- [Potentially incorrect calculation of widest type in loop vectorizer](https://discourse.llvm.org/t/potentially-incorrect-calculation-of-widest-type-in-loop-vectorizer/75097#post_1)
+- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_5)
+- [MLIR Sparsifier Website and Logo](https://discourse.llvm.org/t/mlir-sparsifier-website-and-logo/74837#post_2)
+- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_4)
+- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_3)
+- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_2)
 <!-- DISCOURSE-LLVM:END -->
