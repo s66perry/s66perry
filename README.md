@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Periodic build of main on buildkite is disabled](https://discourse.llvm.org/t/periodic-build-of-main-on-buildkite-is-disabled/74870#post_2)
 - [PrintOp lowering for f32 and other datatypes in Toy examples](https://discourse.llvm.org/t/printop-lowering-for-f32-and-other-datatypes-in-toy-examples/75074#post_1)
 - [Promote for floating-point types?](https://discourse.llvm.org/t/promote-for-floating-point-types/75063#post_3)
 - [[llvm-rtdyld] AArch64 ABI Relocation Restrictions](https://discourse.llvm.org/t/llvm-rtdyld-aarch64-abi-relocation-restrictions/74616#post_16)
 - [Promote for floating-point types?](https://discourse.llvm.org/t/promote-for-floating-point-types/75063#post_2)
-- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_4)
 <!-- DISCOURSE-LLVM:END -->
