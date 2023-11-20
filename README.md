@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Instrumented versions of libc++ for different sanitizers](https://discourse.llvm.org/t/rfc-instrumented-versions-of-libc-for-different-sanitizers/71653#post_16)
+- [How do I compile LLVM 17.x?](https://discourse.llvm.org/t/how-do-i-compile-llvm-17-x/75088#post_1)
+- [External func/call lowering in FuncToLLVM with BarePtrCallConv](https://discourse.llvm.org/t/external-func-call-lowering-in-functollvm-with-bareptrcallconv/75010#post_4)
+- [LLVM Social Bangalore Offline Meetup @ AMD Whitefield | In-Person Only](https://discourse.llvm.org/t/llvm-social-bangalore-offline-meetup-amd-whitefield-in-person-only/75086#post_1)
 - [AArch64 LLVM Sync-up Call 14 November 2023](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-14-november-2023/74867#post_7)
-- [CANCELLED RISC-V LLVM sync-up call November 23rd 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-november-23rd-2023/75084#post_1)
-- [[RFC] Vectorization support for histogram count operations](https://discourse.llvm.org/t/rfc-vectorization-support-for-histogram-count-operations/74788#post_3)
-- [How to use different out-of-tree Python bindings](https://discourse.llvm.org/t/how-to-use-different-out-of-tree-python-bindings/75082#post_1)
-- [Compiling newlib fails](https://discourse.llvm.org/t/compiling-newlib-fails/75040#post_4)
 <!-- DISCOURSE-LLVM:END -->
