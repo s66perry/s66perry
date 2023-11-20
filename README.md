@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How do I compile LLVM 17.x?](https://discourse.llvm.org/t/how-do-i-compile-llvm-17-x/75088#post_2)
-- [Troubles running build in pass with opt](https://discourse.llvm.org/t/troubles-running-build-in-pass-with-opt/75089#post_1)
-- [[RFC] Instrumented versions of libc++ for different sanitizers](https://discourse.llvm.org/t/rfc-instrumented-versions-of-libc-for-different-sanitizers/71653#post_16)
-- [How do I compile LLVM 17.x?](https://discourse.llvm.org/t/how-do-i-compile-llvm-17-x/75088#post_1)
-- [External func/call lowering in FuncToLLVM with BarePtrCallConv](https://discourse.llvm.org/t/external-func-call-lowering-in-functollvm-with-bareptrcallconv/75010#post_4)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902?page=2#post_23)
+- [Code review availability this week](https://discourse.llvm.org/t/code-review-availability-this-week/75094#post_2)
+- [Code review availability this week](https://discourse.llvm.org/t/code-review-availability-this-week/75094#post_1)
+- [LLVM Weekly - #516, November 20th 2023](https://discourse.llvm.org/t/llvm-weekly-516-november-20th-2023/75093#post_1)
+- [Clang use ld default rather than use lld to link objects](https://discourse.llvm.org/t/clang-use-ld-default-rather-than-use-lld-to-link-objects/70665#post_8)
 <!-- DISCOURSE-LLVM:END -->
