@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Generating graph matchers for pure analysis purpose &lpar;without rewrite&rpar;](https://discourse.llvm.org/t/generating-graph-matchers-for-pure-analysis-purpose-without-rewrite/75125#post_1)
-- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_4)
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_24)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=2#post_34)
-- [Handling Tied Operands in backend code generator](https://discourse.llvm.org/t/handling-tied-operands-in-backend-code-generator/75115#post_2)
+- [[RFC] Instrumented versions of libc++ for different sanitizers](https://discourse.llvm.org/t/rfc-instrumented-versions-of-libc-for-different-sanitizers/71653#post_17)
+- [Support for more hardware intrinsics on ARMNeon dialect](https://discourse.llvm.org/t/support-for-more-hardware-intrinsics-on-armneon-dialect/74851#post_5)
+- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_5)
+- [Question about linalg matmul tile method](https://discourse.llvm.org/t/question-about-linalg-matmul-tile-method/75126#post_4)
+- [Question about linalg matmul tile method](https://discourse.llvm.org/t/question-about-linalg-matmul-tile-method/75126#post_3)
 <!-- DISCOURSE-LLVM:END -->
