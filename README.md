@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Handling Tied Operands in backend code generator](https://discourse.llvm.org/t/handling-tied-operands-in-backend-code-generator/75115#post_2)
+- [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868?page=2#post_22)
+- [Intrinsic ID for riscv_clmul](https://discourse.llvm.org/t/intrinsic-id-for-riscv-clmul/75119#post_1)
 - [How to use different out-of-tree Python bindings](https://discourse.llvm.org/t/how-to-use-different-out-of-tree-python-bindings/75082#post_4)
 - [How to use different out-of-tree Python bindings](https://discourse.llvm.org/t/how-to-use-different-out-of-tree-python-bindings/75082#post_3)
-- [How to use different out-of-tree Python bindings](https://discourse.llvm.org/t/how-to-use-different-out-of-tree-python-bindings/75082#post_2)
-- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_3)
-- [Outdated Coroutine Exception Handling in Initial Suspend `await_resume&lpar;&rpar;`?](https://discourse.llvm.org/t/outdated-coroutine-exception-handling-in-initial-suspend-await-resume/75116#post_1)
 <!-- DISCOURSE-LLVM:END -->
