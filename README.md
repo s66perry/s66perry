@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Instrumented versions of libc++ for different sanitizers](https://discourse.llvm.org/t/rfc-instrumented-versions-of-libc-for-different-sanitizers/71653#post_17)
-- [Support for more hardware intrinsics on ARMNeon dialect](https://discourse.llvm.org/t/support-for-more-hardware-intrinsics-on-armneon-dialect/74851#post_5)
-- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_5)
-- [Question about linalg matmul tile method](https://discourse.llvm.org/t/question-about-linalg-matmul-tile-method/75126#post_4)
-- [Question about linalg matmul tile method](https://discourse.llvm.org/t/question-about-linalg-matmul-tile-method/75126#post_3)
+- [[InstCombine] Simplify `Select i1 &lpar;binop %x %y&rpar;, i32 &lpar;binop %x %y&rpar;, i32 &lpar;binop %x, %y&rpar;`](https://discourse.llvm.org/t/instcombine-simplify-select-i1-binop-x-y-i32-binop-x-y-i32-binop-x-y/75129#post_1)
+- [External func/call lowering in FuncToLLVM with BarePtrCallConv](https://discourse.llvm.org/t/external-func-call-lowering-in-functollvm-with-bareptrcallconv/75010#post_5)
+- [[RFC] DialectInterface for CSE](https://discourse.llvm.org/t/rfc-dialectinterface-for-cse/71831#post_14)
+- [Question about linalg matmul tile method](https://discourse.llvm.org/t/question-about-linalg-matmul-tile-method/75126#post_5)
+- [Support for more hardware intrinsics on ARMNeon dialect](https://discourse.llvm.org/t/support-for-more-hardware-intrinsics-on-armneon-dialect/74851#post_6)
 <!-- DISCOURSE-LLVM:END -->
