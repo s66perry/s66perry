@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Fast math SPEC 2017 FP failure for povray](https://discourse.llvm.org/t/fast-math-spec-2017-fp-failure-for-povray/74959#post_14)
+- [Checking whether a variable&#39;s type is a template parameter](https://discourse.llvm.org/t/checking-whether-a-variables-type-is-a-template-parameter/75137#post_1)
+- [[RFC] Add a test dependency on SPIRV-Tools](https://discourse.llvm.org/t/rfc-add-a-test-dependency-on-spirv-tools/75135#post_1)
 - [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_27)
 - [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_26)
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_25)
-- [Continuation lines in @str string literal constants in LLVM IR](https://discourse.llvm.org/t/continuation-lines-in-str-string-literal-constants-in-llvm-ir/75133#post_1)
-- [[RFC] Vectorization support for histogram count operations](https://discourse.llvm.org/t/rfc-vectorization-support-for-histogram-count-operations/74788#post_4)
 <!-- DISCOURSE-LLVM:END -->
