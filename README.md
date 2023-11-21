@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Building LLVM out of per subproject tar balls still is not working](https://discourse.llvm.org/t/building-llvm-out-of-per-subproject-tar-balls-still-is-not-working/72829#post_12)
-- [Building LLVM out of per subproject tar balls still is not working](https://discourse.llvm.org/t/building-llvm-out-of-per-subproject-tar-balls-still-is-not-working/72829#post_11)
-- [The way to inspect c++ interfaces for certain operations](https://discourse.llvm.org/t/the-way-to-inspect-c-interfaces-for-certain-operations/75061#post_4)
-- [Type inference C API](https://discourse.llvm.org/t/type-inference-c-api/75112#post_1)
-- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_13)
+- [The way to inspect c++ interfaces for certain operations](https://discourse.llvm.org/t/the-way-to-inspect-c-interfaces-for-certain-operations/75061#post_6)
+- [[RFC] PGO Accuracy Metrics: Emitting and Evaluating Branch and Block Analysis](https://discourse.llvm.org/t/rfc-pgo-accuracy-metrics-emitting-and-evaluating-branch-and-block-analysis/73902?page=2#post_25)
+- [Type inference C API](https://discourse.llvm.org/t/type-inference-c-api/75112#post_4)
+- [The way to inspect c++ interfaces for certain operations](https://discourse.llvm.org/t/the-way-to-inspect-c-interfaces-for-certain-operations/75061#post_5)
+- [Type inference C API](https://discourse.llvm.org/t/type-inference-c-api/75112#post_3)
 <!-- DISCOURSE-LLVM:END -->
