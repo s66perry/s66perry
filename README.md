@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868?page=2#post_24)
+- [Handling Tied Operands in backend code generator](https://discourse.llvm.org/t/handling-tied-operands-in-backend-code-generator/75115#post_3)
+- [Is there any library for emitting MLIR from core python syntax? &lpar;not like numba or similar&rpar;](https://discourse.llvm.org/t/is-there-any-library-for-emitting-mlir-from-core-python-syntax-not-like-numba-or-similar/75131#post_2)
 - [[RFC][GlobalISel] Encoding type information into FP operations](https://discourse.llvm.org/t/rfc-globalisel-encoding-type-information-into-fp-operations/75107#post_2)
 - [Is there any library for emitting MLIR from core python syntax? &lpar;not like numba or similar&rpar;](https://discourse.llvm.org/t/is-there-any-library-for-emitting-mlir-from-core-python-syntax-not-like-numba-or-similar/75131#post_1)
-- [[RFC] Add Full Support for the SYCL Programming Model](https://discourse.llvm.org/t/rfc-add-full-support-for-the-sycl-programming-model/74080#post_4)
-- [External func/call lowering in FuncToLLVM with BarePtrCallConv](https://discourse.llvm.org/t/external-func-call-lowering-in-functollvm-with-bareptrcallconv/75010#post_6)
-- [Troubles running build in pass with opt](https://discourse.llvm.org/t/troubles-running-build-in-pass-with-opt/75089#post_3)
 <!-- DISCOURSE-LLVM:END -->
