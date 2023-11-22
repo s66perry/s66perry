@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Overflow related to program headers](https://discourse.llvm.org/t/overflow-related-to-program-headers/75150#post_3)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142#post_9)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142#post_8)
-- [Llvm-cov path-equivalence](https://discourse.llvm.org/t/llvm-cov-path-equivalence/75156#post_1)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142#post_7)
+- [FIRRTL dialect: Linking ConnectOp with connectable FIRRTL Operations](https://discourse.llvm.org/t/firrtl-dialect-linking-connectop-with-connectable-firrtl-operations/75158#post_1)
+- [[RFC] Disallow unmaintained unused passes](https://discourse.llvm.org/t/rfc-disallow-unmaintained-unused-passes/75151#post_4)
+- [About the semantics of vectors with unit dimensions](https://discourse.llvm.org/t/about-the-semantics-of-vectors-with-unit-dimensions/75157#post_1)
+- [Strange ISel Bug](https://discourse.llvm.org/t/strange-isel-bug/75030#post_3)
+- [[RFC] make llvm register mutable](https://discourse.llvm.org/t/rfc-make-llvm-register-mutable/74989#post_2)
 <!-- DISCOURSE-LLVM:END -->
