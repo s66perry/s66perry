@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] TableGen-driven MacroFusion predicators generator](https://discourse.llvm.org/t/rfc-tablegen-driven-macrofusion-predicators-generator/74912#post_3)
-- [[RFC] Add Full Support for the SYCL Programming Model](https://discourse.llvm.org/t/rfc-add-full-support-for-the-sycl-programming-model/74080#post_6)
-- [Ubsan not detecting function calls on empty optional](https://discourse.llvm.org/t/ubsan-not-detecting-function-calls-on-empty-optional/75138#post_1)
-- [Is there any library for emitting MLIR from core python syntax? &lpar;not like numba or similar&rpar;](https://discourse.llvm.org/t/is-there-any-library-for-emitting-mlir-from-core-python-syntax-not-like-numba-or-similar/75131#post_4)
-- [[RFC] Add Full Support for the SYCL Programming Model](https://discourse.llvm.org/t/rfc-add-full-support-for-the-sycl-programming-model/74080#post_5)
+- [Trying CTU: error: multiple definitions are found for the same key in index](https://discourse.llvm.org/t/trying-ctu-error-multiple-definitions-are-found-for-the-same-key-in-index/74608#post_6)
+- [Problem about clang-tidy check](https://discourse.llvm.org/t/problem-about-clang-tidy-check/75141#post_1)
+- [[RFC][GlobalISel] Encoding type information into FP operations](https://discourse.llvm.org/t/rfc-globalisel-encoding-type-information-into-fp-operations/75107#post_4)
+- [Checking whether a variable&#39;s type is a template parameter](https://discourse.llvm.org/t/checking-whether-a-variables-type-is-a-template-parameter/75137#post_2)
+- [Request advice on reporting many errors found in Fortran test sets](https://discourse.llvm.org/t/request-advice-on-reporting-many-errors-found-in-fortran-test-sets/65868?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
