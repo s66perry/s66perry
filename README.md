@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Memory command region name syntax](https://discourse.llvm.org/t/memory-command-region-name-syntax/75145#post_1)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142#post_2)
-- [Considering register pressure when deciding Initiation Interval in MachinePipeliner](https://discourse.llvm.org/t/considering-register-pressure-when-deciding-initiation-interval-in-machinepipeliner/74725#post_2)
-- [[RFC] TableGen-driven MacroFusion predicators generator](https://discourse.llvm.org/t/rfc-tablegen-driven-macrofusion-predicators-generator/74912#post_4)
-- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_6)
+- [How clang deal with C++ template, and type traits etc.?](https://discourse.llvm.org/t/how-clang-deal-with-c-template-and-type-traits-etc/75148#post_1)
+- [Memory command region name syntax](https://discourse.llvm.org/t/memory-command-region-name-syntax/75145#post_2)
+- [How to copy propagate physical register introduced before RA](https://discourse.llvm.org/t/how-to-copy-propagate-physical-register-introduced-before-ra/74828#post_5)
+- [Is there any library for emitting MLIR from core python syntax? &lpar;not like numba or similar&rpar;](https://discourse.llvm.org/t/is-there-any-library-for-emitting-mlir-from-core-python-syntax-not-like-numba-or-similar/75131#post_7)
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_16)
 <!-- DISCOURSE-LLVM:END -->
