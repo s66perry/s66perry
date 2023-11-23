@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=5#post_99)
+- [Using ccache to cache clang-tidy results](https://discourse.llvm.org/t/using-ccache-to-cache-clang-tidy-results/72338#post_6)
 - [FIRRTL dialect: Linking ConnectOp with connectable FIRRTL Operations](https://discourse.llvm.org/t/firrtl-dialect-linking-connectop-with-connectable-firrtl-operations/75158#post_3)
 - [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142#post_11)
 - [Main branch and releases of llvm-cov](https://discourse.llvm.org/t/main-branch-and-releases-of-llvm-cov/75178#post_3)
-- [Main branch and releases of llvm-cov](https://discourse.llvm.org/t/main-branch-and-releases-of-llvm-cov/75178#post_2)
-- [Strange ISel Bug](https://discourse.llvm.org/t/strange-isel-bug/75030#post_4)
 <!-- DISCOURSE-LLVM:END -->
