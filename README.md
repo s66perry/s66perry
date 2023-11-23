@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Role of LMUL in cost model](https://discourse.llvm.org/t/role-of-lmul-in-cost-model/75197#post_2)
+- [How is the performance of LLVM tracked?](https://discourse.llvm.org/t/how-is-the-performance-of-llvm-tracked/75188#post_3)
+- [Role of LMUL in cost model](https://discourse.llvm.org/t/role-of-lmul-in-cost-model/75197#post_1)
+- [CodeLite and llvm clang on windows x64, can&#39;t figure out debugger](https://discourse.llvm.org/t/codelite-and-llvm-clang-on-windows-x64-cant-figure-out-debugger/74478#post_10)
 - [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_11)
-- [FIRRTL dialect: Linking ConnectOp with connectable FIRRTL Operations](https://discourse.llvm.org/t/firrtl-dialect-linking-connectop-with-connectable-firrtl-operations/75158#post_4)
-- [Idiomatic Way to Signal Failure of an Optimization in the Pass Manager?](https://discourse.llvm.org/t/idiomatic-way-to-signal-failure-of-an-optimization-in-the-pass-manager/75195#post_1)
-- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_10)
-- [How to inject new instructions after all uses of a value](https://discourse.llvm.org/t/how-to-inject-new-instructions-after-all-uses-of-a-value/75193#post_1)
 <!-- DISCOURSE-LLVM:END -->
