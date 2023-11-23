@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How clang deal with C++ template, and type traits etc.?](https://discourse.llvm.org/t/how-clang-deal-with-c-template-and-type-traits-etc/75148#post_3)
+- [[RFC][GlobalISel] Encoding type information into FP operations](https://discourse.llvm.org/t/rfc-globalisel-encoding-type-information-into-fp-operations/75107#post_13)
+- [RFC: Incubator project for llvm-ir-dataset-utils](https://discourse.llvm.org/t/rfc-incubator-project-for-llvm-ir-dataset-utils/74940#post_3)
+- [RFC: ONNX Import into torch-mlir](https://discourse.llvm.org/t/rfc-onnx-import-into-torch-mlir/75018#post_5)
 - [[RFC][GlobalISel] Encoding type information into FP operations](https://discourse.llvm.org/t/rfc-globalisel-encoding-type-information-into-fp-operations/75107#post_12)
-- [[RFC] Computing, storing, and restoring conservative call graphs with LLVM](https://discourse.llvm.org/t/rfc-computing-storing-and-restoring-conservative-call-graphs-with-llvm/58446#post_3)
-- [RFC: ONNX Import into torch-mlir](https://discourse.llvm.org/t/rfc-onnx-import-into-torch-mlir/75018#post_4)
-- [Quantized Tosa IR lowing to llvm IR](https://discourse.llvm.org/t/quantized-tosa-ir-lowing-to-llvm-ir/3522#post_6)
-- [Quantized Tosa IR lowing to llvm IR](https://discourse.llvm.org/t/quantized-tosa-ir-lowing-to-llvm-ir/3522#post_5)
 <!-- DISCOURSE-LLVM:END -->
