@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [FIRRTL dialect: Linking ConnectOp with connectable FIRRTL Operations](https://discourse.llvm.org/t/firrtl-dialect-linking-connectop-with-connectable-firrtl-operations/75158#post_5)
 - [Link error using llvm.stackrestore](https://discourse.llvm.org/t/link-error-using-llvm-stackrestore/75186#post_2)
 - [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_16)
 - [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_15)
 - [Bug while parsing comments?](https://discourse.llvm.org/t/bug-while-parsing-comments/75204#post_1)
-- [[RFC] Clang-formatting all of libc++ once and for all](https://discourse.llvm.org/t/rfc-clang-formatting-all-of-libc-once-and-for-all/75198#post_2)
 <!-- DISCOURSE-LLVM:END -->
