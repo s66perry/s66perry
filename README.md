@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about linalg matmul tile method](https://discourse.llvm.org/t/question-about-linalg-matmul-tile-method/75126#post_6)
+- [[RFC] Disallow unmaintained unused passes](https://discourse.llvm.org/t/rfc-disallow-unmaintained-unused-passes/75151#post_5)
+- [Please test your patches!](https://discourse.llvm.org/t/please-test-your-patches/75099#post_14)
 - [Flags O1, O2, O3](https://discourse.llvm.org/t/flags-o1-o2-o3/75200#post_1)
 - [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_34)
-- [[RFC] Rename ErrorOr and Expected](https://discourse.llvm.org/t/rfc-rename-erroror-and-expected/74365?page=2#post_26)
-- [[RFC] Add zext nneg flag](https://discourse.llvm.org/t/rfc-add-zext-nneg-flag/73914#post_3)
-- [How is the performance of LLVM tracked?](https://discourse.llvm.org/t/how-is-the-performance-of-llvm-tracked/75188#post_4)
 <!-- DISCOURSE-LLVM:END -->
