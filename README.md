@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_32)
+- [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280#post_11)
+- [Fixing some brittle coroutine tests](https://discourse.llvm.org/t/fixing-some-brittle-coroutine-tests/75221#post_1)
 - [[RFC] `hsearch` implementation](https://discourse.llvm.org/t/rfc-hsearch-implementation/65934#post_8)
 - [Resources for Pass Infrastructure for Beginners in MLIR](https://discourse.llvm.org/t/resources-for-pass-infrastructure-for-beginners-in-mlir/75215#post_2)
-- [Attribute types and conversion](https://discourse.llvm.org/t/attribute-types-and-conversion/75220#post_1)
-- [Quantized Tosa IR lowing to llvm IR](https://discourse.llvm.org/t/quantized-tosa-ir-lowing-to-llvm-ir/3522#post_8)
-- [[InstCombine] Simplify `Select i1 &lpar;and/or/xor %x %y&rpar;, i32 &lpar;and/or/xor %x %y&rpar;, i32 &lpar;and/or/xor %x, %y&rpar;`](https://discourse.llvm.org/t/instcombine-simplify-select-i1-and-or-xor-x-y-i32-and-or-xor-x-y-i32-and-or-xor-x-y/75129#post_5)
 <!-- DISCOURSE-LLVM:END -->
