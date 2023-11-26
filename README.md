@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232#post_6)
+- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232#post_5)
+- [Operation about ValueRange type](https://discourse.llvm.org/t/operation-about-valuerange-type/75233#post_3)
+- [LLVM 17.0.5 tagged!](https://discourse.llvm.org/t/llvm-17-0-5-tagged/74907#post_7)
 - [Operation about ValueRange type](https://discourse.llvm.org/t/operation-about-valuerange-type/75233#post_2)
-- [Flags O1, O2, O3](https://discourse.llvm.org/t/flags-o1-o2-o3/75200#post_3)
-- [Flags O1, O2, O3](https://discourse.llvm.org/t/flags-o1-o2-o3/75200#post_2)
-- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232#post_4)
-- [Operation about ValueRange type](https://discourse.llvm.org/t/operation-about-valuerange-type/75233#post_1)
 <!-- DISCOURSE-LLVM:END -->
