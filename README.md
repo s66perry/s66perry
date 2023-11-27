@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[sve] Is it reasonable to disable #pragma unroll for sve](https://discourse.llvm.org/t/sve-is-it-reasonable-to-disable-pragma-unroll-for-sve/74790#post_3)
-- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232#post_14)
-- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232#post_13)
-- [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280#post_17)
-- [Distributed ThinLTO final linking order](https://discourse.llvm.org/t/distributed-thinlto-final-linking-order/63804#post_6)
+- [Question regarding linalg generic operation](https://discourse.llvm.org/t/question-regarding-linalg-generic-operation/75242#post_4)
+- [Question regarding linalg generic operation](https://discourse.llvm.org/t/question-regarding-linalg-generic-operation/75242#post_3)
+- [Passing multiple options to an MLIR pass](https://discourse.llvm.org/t/passing-multiple-options-to-an-mlir-pass/75253#post_3)
+- [Question regarding linalg generic operation](https://discourse.llvm.org/t/question-regarding-linalg-generic-operation/75242#post_2)
+- [Passing multiple options to an MLIR pass](https://discourse.llvm.org/t/passing-multiple-options-to-an-mlir-pass/75253#post_2)
 <!-- DISCOURSE-LLVM:END -->
