@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Operation about mlir::ValueRange type](https://discourse.llvm.org/t/operation-about-mlir-valuerange-type/75233#post_10)
-- [Operation about mlir::ValueRange type](https://discourse.llvm.org/t/operation-about-mlir-valuerange-type/75233#post_9)
-- [[RFC] Disallow unmaintained unused passes](https://discourse.llvm.org/t/rfc-disallow-unmaintained-unused-passes/75151#post_7)
-- [[RFC] Clang-formatting all of libc++ once and for all](https://discourse.llvm.org/t/rfc-clang-formatting-all-of-libc-once-and-for-all/75198#post_8)
-- [[RFC] Changes to fircg.xarray_coor CodeGen to allow better hoisting](https://discourse.llvm.org/t/rfc-changes-to-fircg-xarray-coor-codegen-to-allow-better-hoisting/75257#post_2)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_3)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142#post_13)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_2)
+- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_7)
+- [[RFC] Support CMake option to control link type built for Flang runtime libraries](https://discourse.llvm.org/t/rfc-support-cmake-option-to-control-link-type-built-for-flang-runtime-libraries/71602?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
