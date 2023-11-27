@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to get the most recent store which is the clobber of a load using MemorySSA?](https://discourse.llvm.org/t/how-to-get-the-most-recent-store-which-is-the-clobber-of-a-load-using-memoryssa/75256#post_2)
-- [How to get the most recent store which is the clobber of a load using MemorySSA?](https://discourse.llvm.org/t/how-to-get-the-most-recent-store-which-is-the-clobber-of-a-load-using-memoryssa/75256#post_1)
-- [Use instructions size information for a Target to insert new instructions](https://discourse.llvm.org/t/use-instructions-size-information-for-a-target-to-insert-new-instructions/75255#post_1)
-- [Question regarding linalg generic operation](https://discourse.llvm.org/t/question-regarding-linalg-generic-operation/75242#post_5)
-- [Question regarding linalg generic operation](https://discourse.llvm.org/t/question-regarding-linalg-generic-operation/75242#post_4)
+- [[RFC] Clang-formatting all of libc++ once and for all](https://discourse.llvm.org/t/rfc-clang-formatting-all-of-libc-once-and-for-all/75198#post_7)
+- [[RFC] Clang-formatting all of libc++ once and for all](https://discourse.llvm.org/t/rfc-clang-formatting-all-of-libc-once-and-for-all/75198#post_6)
+- [Clang-14.0.6 compilation of application with &quot;Hidden&quot; visibility of symbol](https://discourse.llvm.org/t/clang-14-0-6-compilation-of-application-with-hidden-visibility-of-symbol/69195#post_5)
+- [Linking TableGen error while building LLVM](https://discourse.llvm.org/t/linking-tablegen-error-while-building-llvm/75177#post_2)
+- [[RFC] DialectInterface for CSE](https://discourse.llvm.org/t/rfc-dialectinterface-for-cse/71831#post_18)
 <!-- DISCOURSE-LLVM:END -->
