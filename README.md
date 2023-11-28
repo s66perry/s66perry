@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][TableGen] Auto-numbering variable](https://discourse.llvm.org/t/rfc-tablegen-auto-numbering-variable/75240#post_3)
-- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_8)
-- [Heads up: DimLevelType -&gt; LevelType](https://discourse.llvm.org/t/heads-up-dimleveltype-leveltype/75265#post_1)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263#post_10)
-- [[RFC] Allow C++11 lambdas in C++03 as an extension](https://discourse.llvm.org/t/rfc-allow-c-11-lambdas-in-c-03-as-an-extension/75262#post_4)
+- [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280#post_19)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_4)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 30 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-30-23-6pm/74436#post_5)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Dec 4 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-dec-4-23-6pm/75266#post_1)
+- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263#post_11)
 <!-- DISCOURSE-LLVM:END -->
