@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Complete list of _LIBCPP_ macros?](https://discourse.llvm.org/t/complete-list-of-libcpp-macros/75289#post_1)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263#post_14)
-- [1d vector permutation op using Linalg OpDSL](https://discourse.llvm.org/t/1d-vector-permutation-op-using-linalg-opdsl/75287#post_3)
-- [1d vector permutation op using Linalg OpDSL](https://discourse.llvm.org/t/1d-vector-permutation-op-using-linalg-opdsl/75287#post_2)
-- [1d vector permutation op using Linalg OpDSL](https://discourse.llvm.org/t/1d-vector-permutation-op-using-linalg-opdsl/75287#post_1)
+- [Structure field access &lpar;C++&rpar;](https://discourse.llvm.org/t/structure-field-access-c/75235#post_5)
+- [Structure field access &lpar;C++&rpar;](https://discourse.llvm.org/t/structure-field-access-c/75235#post_4)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=5#post_100)
+- [[RFC] Propagate FIR Alias Analysis Information using TBAA](https://discourse.llvm.org/t/rfc-propagate-fir-alias-analysis-information-using-tbaa/73755#post_7)
+- [Alias analysis in LLVM Flang](https://discourse.llvm.org/t/alias-analysis-in-llvm-flang/62639?page=3#post_50)
 <!-- DISCOURSE-LLVM:END -->
