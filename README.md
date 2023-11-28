@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Expose the inferred range information in warning messages](https://discourse.llvm.org/t/expose-the-inferred-range-information-in-warning-messages/75192#post_5)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_8)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_7)
+- [Expose the inferred range information in warning messages](https://discourse.llvm.org/t/expose-the-inferred-range-information-in-warning-messages/75192#post_4)
 - [LLVM 17.0.6 released](https://discourse.llvm.org/t/llvm-17-0-6-released/75282#post_3)
-- [LLVM 17.0.6 released](https://discourse.llvm.org/t/llvm-17-0-6-released/75282#post_2)
-- [Possible problem related to Subtarget usage](https://discourse.llvm.org/t/possible-problem-related-to-subtarget-usage/75283#post_1)
-- [Bring features of fromelf of ARM to llvm-objcopy](https://discourse.llvm.org/t/bring-features-of-fromelf-of-arm-to-llvm-objcopy/73229#post_14)
-- [LLVM 17.0.6 Released!](https://discourse.llvm.org/t/llvm-17-0-6-released/75281#post_2)
 <!-- DISCOURSE-LLVM:END -->
