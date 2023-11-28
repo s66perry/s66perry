@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Quantized Tosa IR lowing to llvm IR](https://discourse.llvm.org/t/quantized-tosa-ir-lowing-to-llvm-ir/3522#post_10)
-- [Quantized Tosa IR lowing to llvm IR](https://discourse.llvm.org/t/quantized-tosa-ir-lowing-to-llvm-ir/3522#post_9)
-- [[RFC] Clang-formatting all of libc++ once and for all](https://discourse.llvm.org/t/rfc-clang-formatting-all-of-libc-once-and-for-all/75198#post_11)
-- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_9)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263#post_18)
+- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263#post_20)
+- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263#post_19)
+- [Resources for Pass Infrastructure for Beginners in MLIR](https://discourse.llvm.org/t/resources-for-pass-infrastructure-for-beginners-in-mlir/75215#post_5)
+- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_28)
+- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043#post_14)
 <!-- DISCOURSE-LLVM:END -->
