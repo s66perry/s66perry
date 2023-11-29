@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[coro] pre-split handling of the &#39;suspend&#39; edge](https://discourse.llvm.org/t/coro-pre-split-handling-of-the-suspend-edge/75043?page=2#post_22)
+- [Common Symbols causing issues](https://discourse.llvm.org/t/common-symbols-causing-issues/75272#post_4)
+- [LLVM 17.0.6 released](https://discourse.llvm.org/t/llvm-17-0-6-released/75282#post_5)
+- [Using C-compatible memref wrappers](https://discourse.llvm.org/t/using-c-compatible-memref-wrappers/75312#post_2)
 - [[RFC] Clang-formatting all of libc++ once and for all](https://discourse.llvm.org/t/rfc-clang-formatting-all-of-libc-once-and-for-all/75198#post_20)
-- [How to compile a merged bc file into an executable program](https://discourse.llvm.org/t/how-to-compile-a-merged-bc-file-into-an-executable-program/75308#post_2)
-- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216#post_16)
-- [1d vector permutation op using Linalg OpDSL](https://discourse.llvm.org/t/1d-vector-permutation-op-using-linalg-opdsl/75287#post_5)
-- [Using C-compatible memref wrappers](https://discourse.llvm.org/t/using-c-compatible-memref-wrappers/75312#post_1)
 <!-- DISCOURSE-LLVM:END -->
