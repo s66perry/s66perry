@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The significant gap in compilation speed between clang and gcc for ORCJIT](https://discourse.llvm.org/t/the-significant-gap-in-compilation-speed-between-clang-and-gcc-for-orcjit/75339#post_1)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_14)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258#post_13)
+- [Unterminated attribute group](https://discourse.llvm.org/t/unterminated-attribute-group/75338#post_1)
 - [Using C-compatible memref wrappers](https://discourse.llvm.org/t/using-c-compatible-memref-wrappers/75312#post_7)
-- [Semantics of linalg MatmulOp](https://discourse.llvm.org/t/semantics-of-linalg-matmulop/75336#post_1)
-- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=2#post_30)
-- [Crossing the Symbolic Execution Chasm: KLEE](https://discourse.llvm.org/t/crossing-the-symbolic-execution-chasm-klee/75335#post_1)
-- [How to copy propagate physical register introduced before RA](https://discourse.llvm.org/t/how-to-copy-propagate-physical-register-introduced-before-ra/74828#post_7)
 <!-- DISCOURSE-LLVM:END -->
