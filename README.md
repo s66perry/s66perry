@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a test dependency on SPIRV-Tools](https://discourse.llvm.org/t/rfc-add-a-test-dependency-on-spirv-tools/75135#post_7)
-- [Common Symbols causing issues](https://discourse.llvm.org/t/common-symbols-causing-issues/75272#post_6)
-- [[RFC] Clang 17.0.6 would be minimum version to build LLVM in C++20](https://discourse.llvm.org/t/rfc-clang-17-0-6-would-be-minimum-version-to-build-llvm-in-c-20/75345#post_4)
-- [[HWASAN] Question about the recent interceptors being added](https://discourse.llvm.org/t/hwasan-question-about-the-recent-interceptors-being-added/75351#post_2)
-- [[RISCV] Why is the Size parameter of VReg RegisterClass based on 64?](https://discourse.llvm.org/t/riscv-why-is-the-size-parameter-of-vreg-registerclass-based-on-64/75333#post_4)
+- [[LLDB][RFC] Add inline info into line table in Dwarf symbol file plugin](https://discourse.llvm.org/t/lldb-rfc-add-inline-info-into-line-table-in-dwarf-symbol-file-plugin/75355#post_1)
+- [Assertion failure in `clang::CFG::buildCFG&lpar;&rpar;` when processing function with backward `goto`](https://discourse.llvm.org/t/assertion-failure-in-clang-buildcfg-when-processing-function-with-backward-goto/64642#post_11)
+- [Remote connection expansion?](https://discourse.llvm.org/t/remote-connection-expansion/56863#post_7)
+- [Remote connection expansion?](https://discourse.llvm.org/t/remote-connection-expansion/56863#post_6)
+- [[RFC][SelectionDAG] Code-size optimizations of MatcherTable](https://discourse.llvm.org/t/rfc-selectiondag-code-size-optimizations-of-matchertable/75309#post_2)
 <!-- DISCOURSE-LLVM:END -->
