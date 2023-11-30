@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RISCV] Why is the Size parameter of VReg RegisterClass based on 64?](https://discourse.llvm.org/t/riscv-why-is-the-size-parameter-of-vreg-registerclass-based-on-64/75333#post_1)
+- [How to mapping Intrinsic function to multiple riscv instruction?](https://discourse.llvm.org/t/how-to-mapping-intrinsic-function-to-multiple-riscv-instruction/74987#post_6)
 - [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445?page=2#post_27)
 - [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000?page=2#post_21)
 - [Questions about the API](https://discourse.llvm.org/t/questions-about-the-api/75228#post_10)
-- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=2#post_26)
-- [Function sharing in MLIR](https://discourse.llvm.org/t/function-sharing-in-mlir/74910#post_4)
 <!-- DISCOURSE-LLVM:END -->
