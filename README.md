@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM libc testing strategy](https://discourse.llvm.org/t/rfc-llvm-libc-testing-strategy/75377#post_1)
+- [Crossing the Symbolic Execution Chasm: KLEE](https://discourse.llvm.org/t/crossing-the-symbolic-execution-chasm-klee/75335#post_3)
+- [Why can&#39;t bc of executable programs be run with lli?](https://discourse.llvm.org/t/why-cant-bc-of-executable-programs-be-run-with-lli/75368#post_2)
 - [How to llvm-link the bc file of the project, and then compile the linked bc into an executable program](https://discourse.llvm.org/t/how-to-llvm-link-the-bc-file-of-the-project-and-then-compile-the-linked-bc-into-an-executable-program/75367#post_2)
 - [CMake multi-config generators](https://discourse.llvm.org/t/cmake-multi-config-generators/75376#post_2)
-- [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_3)
-- [Clang-14.0.6 compilation of application with &quot;Hidden&quot; visibility of symbol](https://discourse.llvm.org/t/clang-14-0-6-compilation-of-application-with-hidden-visibility-of-symbol/69195#post_7)
-- [[RFC][LAA] Should we disable the store-to-load-forwarding-conflict-detection?](https://discourse.llvm.org/t/rfc-laa-should-we-disable-the-store-to-load-forwarding-conflict-detection/75314#post_4)
 <!-- DISCOURSE-LLVM:END -->
