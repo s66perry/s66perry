@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Clang 17.0.6 would be minimum version to build LLVM in C++20](https://discourse.llvm.org/t/rfc-clang-17-0-6-would-be-minimum-version-to-build-llvm-in-c-20/75345#post_6)
-- [[RFC] Add per-global code model attribute](https://discourse.llvm.org/t/rfc-add-per-global-code-model-attribute/74944#post_5)
-- [Proposing llvm.gpu intrinsics](https://discourse.llvm.org/t/proposing-llvm-gpu-intrinsics/75374#post_5)
-- [[RFC] Clang 17.0.6 would be minimum version to build LLVM in C++20](https://discourse.llvm.org/t/rfc-clang-17-0-6-would-be-minimum-version-to-build-llvm-in-c-20/75345#post_5)
-- [Proposing llvm.gpu intrinsics](https://discourse.llvm.org/t/proposing-llvm-gpu-intrinsics/75374#post_4)
+- [RFC: Name the first release from a branch N.1.0 instead of N.0.0](https://discourse.llvm.org/t/rfc-name-the-first-release-from-a-branch-n-1-0-instead-of-n-0-0/75384#post_1)
+- [Ambiguous symbols](https://discourse.llvm.org/t/ambiguous-symbols/75352#post_7)
+- [Ambiguous symbols](https://discourse.llvm.org/t/ambiguous-symbols/75352#post_6)
+- [LLVM 17.0.6 released](https://discourse.llvm.org/t/llvm-17-0-6-released/75282#post_8)
+- [Liveness Analysis for Bufferization deallocation](https://discourse.llvm.org/t/liveness-analysis-for-bufferization-deallocation/74938#post_5)
 <!-- DISCOURSE-LLVM:END -->
