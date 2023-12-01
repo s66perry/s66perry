@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Common Symbols causing issues](https://discourse.llvm.org/t/common-symbols-causing-issues/75272#post_9)
-- [Pre-merge checks are no longer run on phabricator](https://discourse.llvm.org/t/pre-merge-checks-are-no-longer-run-on-phabricator/74871#post_9)
-- [Liveness Analysis for Bufferization deallocation](https://discourse.llvm.org/t/liveness-analysis-for-bufferization-deallocation/74938#post_4)
-- [Unterminated attribute group](https://discourse.llvm.org/t/unterminated-attribute-group/75338#post_3)
-- [Is it possilbe to enable &#39;-fexperimental-library&#39; by default in build setting?](https://discourse.llvm.org/t/is-it-possilbe-to-enable-fexperimental-library-by-default-in-build-setting/65789#post_2)
+- [Proposing llvm.gpu intrinsics](https://discourse.llvm.org/t/proposing-llvm-gpu-intrinsics/75374#post_2)
+- [[RFC] Changes to fircg.xarray_coor CodeGen to allow better hoisting](https://discourse.llvm.org/t/rfc-changes-to-fircg-xarray-coor-codegen-to-allow-better-hoisting/75257#post_11)
+- [How to collect the coverage of branches after optimization in LLVM?](https://discourse.llvm.org/t/how-to-collect-the-coverage-of-branches-after-optimization-in-llvm/75379#post_2)
+- [[LLDB][RFC] Add inline info into line table in Dwarf symbol file plugin](https://discourse.llvm.org/t/lldb-rfc-add-inline-info-into-line-table-in-dwarf-symbol-file-plugin/75355#post_2)
+- [LLVM 17.0.6 released](https://discourse.llvm.org/t/llvm-17-0-6-released/75282#post_7)
 <!-- DISCOURSE-LLVM:END -->
