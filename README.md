@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Integer overflow semantics](https://discourse.llvm.org/t/rfc-integer-overflow-semantics/75359#post_2)
-- [Finding PC address of a given machine instruction](https://discourse.llvm.org/t/finding-pc-address-of-a-given-machine-instruction/69529#post_6)
-- [Liveness Analysis for Bufferization deallocation](https://discourse.llvm.org/t/liveness-analysis-for-bufferization-deallocation/74938#post_2)
-- [[RFC] Integer overflow semantics](https://discourse.llvm.org/t/rfc-integer-overflow-semantics/75359#post_1)
-- [[RFC] Changes to fircg.xarray_coor CodeGen to allow better hoisting](https://discourse.llvm.org/t/rfc-changes-to-fircg-xarray-coor-codegen-to-allow-better-hoisting/75257#post_10)
+- [Finding PC address of a given machine instruction](https://discourse.llvm.org/t/finding-pc-address-of-a-given-machine-instruction/69529#post_7)
+- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=2#post_29)
+- [[RFC][SelectionDAG] Code-size optimizations of MatcherTable](https://discourse.llvm.org/t/rfc-selectiondag-code-size-optimizations-of-matchertable/75309#post_3)
+- [Ambiguous symbols](https://discourse.llvm.org/t/ambiguous-symbols/75352#post_5)
+- [[RFC] Integer overflow semantics](https://discourse.llvm.org/t/rfc-integer-overflow-semantics/75359#post_5)
 <!-- DISCOURSE-LLVM:END -->
