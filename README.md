@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM libc testing strategy](https://discourse.llvm.org/t/rfc-llvm-libc-testing-strategy/75377#post_1)
-- [Crossing the Symbolic Execution Chasm: KLEE](https://discourse.llvm.org/t/crossing-the-symbolic-execution-chasm-klee/75335#post_3)
-- [Why can&#39;t bc of executable programs be run with lli?](https://discourse.llvm.org/t/why-cant-bc-of-executable-programs-be-run-with-lli/75368#post_2)
-- [How to llvm-link the bc file of the project, and then compile the linked bc into an executable program](https://discourse.llvm.org/t/how-to-llvm-link-the-bc-file-of-the-project-and-then-compile-the-linked-bc-into-an-executable-program/75367#post_2)
-- [CMake multi-config generators](https://discourse.llvm.org/t/cmake-multi-config-generators/75376#post_2)
+- [Pre-merge checks are no longer run on phabricator](https://discourse.llvm.org/t/pre-merge-checks-are-no-longer-run-on-phabricator/74871#post_9)
+- [Liveness Analysis for Bufferization deallocation](https://discourse.llvm.org/t/liveness-analysis-for-bufferization-deallocation/74938#post_4)
+- [Unterminated attribute group](https://discourse.llvm.org/t/unterminated-attribute-group/75338#post_3)
+- [Is it possilbe to enable &#39;-fexperimental-library&#39; by default in build setting?](https://discourse.llvm.org/t/is-it-possilbe-to-enable-fexperimental-library-by-default-in-build-setting/65789#post_2)
+- [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_4)
 <!-- DISCOURSE-LLVM:END -->
