@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_22)
 - [[RFC] Integer overflow semantics](https://discourse.llvm.org/t/rfc-integer-overflow-semantics/75359#post_11)
 - [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_21)
 - [[RFC] Integer overflow semantics](https://discourse.llvm.org/t/rfc-integer-overflow-semantics/75359#post_10)
 - [[RFC] Integer overflow semantics](https://discourse.llvm.org/t/rfc-integer-overflow-semantics/75359#post_9)
-- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216#post_20)
 <!-- DISCOURSE-LLVM:END -->
