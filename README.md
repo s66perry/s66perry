@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216#post_20)
+- [Common Symbols causing issues](https://discourse.llvm.org/t/common-symbols-causing-issues/75272#post_11)
+- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=2#post_36)
 - [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_6)
 - [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=2#post_35)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_5)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_4)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_3)
 <!-- DISCOURSE-LLVM:END -->
