@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=2#post_34)
-- [[RFC] Integer overflow semantics](https://discourse.llvm.org/t/rfc-integer-overflow-semantics/75359#post_8)
-- [About function-inline-cost/function-inline-threshold FuncAttr, where is it defined?](https://discourse.llvm.org/t/about-function-inline-cost-function-inline-threshold-funcattr-where-is-it-defined/75388#post_5)
-- [About function-inline-cost/function-inline-threshold FuncAttr, where is it defined?](https://discourse.llvm.org/t/about-function-inline-cost-function-inline-threshold-funcattr-where-is-it-defined/75388#post_4)
-- [if LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_1)
+- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216#post_19)
+- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216#post_18)
+- [About function-inline-cost/function-inline-threshold FuncAttr, where is it defined?](https://discourse.llvm.org/t/about-function-inline-cost-function-inline-threshold-funcattr-where-is-it-defined/75388#post_7)
+- [Proposing llvm.gpu intrinsics](https://discourse.llvm.org/t/proposing-llvm-gpu-intrinsics/75374#post_7)
+- [About function-inline-cost/function-inline-threshold FuncAttr, where is it defined?](https://discourse.llvm.org/t/about-function-inline-cost-function-inline-threshold-funcattr-where-is-it-defined/75388#post_6)
 <!-- DISCOURSE-LLVM:END -->
