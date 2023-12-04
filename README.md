@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_6)
-- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_5)
-- [Label-based notification](https://discourse.llvm.org/t/label-based-notification/60517#post_7)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Dec 7th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-dec-7th/75416#post_1)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_19)
+- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_7)
+- [No fastmath attribute on `arith::CmpFOp`](https://discourse.llvm.org/t/no-fastmath-attribute-on-arith-cmpfop/67206#post_5)
+- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=2#post_38)
+- [Label-based notification](https://discourse.llvm.org/t/label-based-notification/60517#post_8)
+- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
