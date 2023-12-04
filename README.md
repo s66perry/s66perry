@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to lowering gpu.launch correctly](https://discourse.llvm.org/t/how-to-lowering-gpu-launch-correctly/75398#post_5)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_18)
-- [How to lowering gpu.launch correctly](https://discourse.llvm.org/t/how-to-lowering-gpu-launch-correctly/75398#post_4)
-- [RFC: Name the first release from a branch N.1.0 instead of N.0.0](https://discourse.llvm.org/t/rfc-name-the-first-release-from-a-branch-n-1-0-instead-of-n-0-0/75384#post_16)
-- [A VSCode Compiler Explorer Plugin for Clang](https://discourse.llvm.org/t/a-vscode-compiler-explorer-plugin-for-clang/75407#post_1)
+- [Status of Flang&#39;s Optimization](https://discourse.llvm.org/t/status-of-flangs-optimization/71738#post_12)
+- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_1)
+- [Performance analysis for TSVC](https://discourse.llvm.org/t/performance-analysis-for-tsvc/75413#post_1)
+- [[RFC] Make GlobalISel Match Table entries 1 byte instead of 8](https://discourse.llvm.org/t/rfc-make-globalisel-match-table-entries-1-byte-instead-of-8/75411#post_1)
+- [Link mlir code to shared library and execute](https://discourse.llvm.org/t/link-mlir-code-to-shared-library-and-execute/75410#post_1)
 <!-- DISCOURSE-LLVM:END -->
