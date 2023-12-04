@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445?page=2#post_31)
+- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445?page=2#post_30)
 - [Reducing build times for single compilation unit](https://discourse.llvm.org/t/reducing-build-times-for-single-compilation-unit/75435#post_2)
 - [Scarcity of Windows x64 builders in buildkite](https://discourse.llvm.org/t/scarcity-of-windows-x64-builders-in-buildkite/75436#post_2)
 - [Scarcity of Windows x64 builders in buildkite](https://discourse.llvm.org/t/scarcity-of-windows-x64-builders-in-buildkite/75436#post_1)
-- [Label-based notification](https://discourse.llvm.org/t/label-based-notification/60517#post_13)
-- [Label-based notification](https://discourse.llvm.org/t/label-based-notification/60517#post_12)
 <!-- DISCOURSE-LLVM:END -->
