@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Link mlir code to shared library and execute](https://discourse.llvm.org/t/link-mlir-code-to-shared-library-and-execute/75410#post_5)
-- [Link mlir code to shared library and execute](https://discourse.llvm.org/t/link-mlir-code-to-shared-library-and-execute/75410#post_4)
-- [Link mlir code to shared library and execute](https://discourse.llvm.org/t/link-mlir-code-to-shared-library-and-execute/75410#post_3)
-- [Performance analysis for TSVC](https://discourse.llvm.org/t/performance-analysis-for-tsvc/75413#post_2)
-- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_3)
+- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_6)
+- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_5)
+- [Label-based notification](https://discourse.llvm.org/t/label-based-notification/60517#post_7)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Dec 7th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-dec-7th/75416#post_1)
+- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389#post_19)
 <!-- DISCOURSE-LLVM:END -->
