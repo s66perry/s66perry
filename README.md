@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] add a mlir refactor tool to clang-tools-extra](https://discourse.llvm.org/t/rfc-add-a-mlir-refactor-tool-to-clang-tools-extra/75451#post_1)
-- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_2)
-- [isExternC for llvm::Function?](https://discourse.llvm.org/t/isexternc-for-llvm-function/75447#post_3)
-- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_1)
-- [Problem about alert displayed in clangd](https://discourse.llvm.org/t/problem-about-alert-displayed-in-clangd/75448#post_1)
+- [Correct MLIR pass to compile `test/Integration/GPU/CUDA/async.mlir`](https://discourse.llvm.org/t/correct-mlir-pass-to-compile-test-integration-gpu-cuda-async-mlir/3916#post_2)
+- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_3)
+- [SymbolTable and Symbol parent/child relationship](https://discourse.llvm.org/t/symboltable-and-symbol-parent-child-relationship/75446#post_3)
+- [How to generate nvidia cuda bin &lpar;cubin&rpar; from MLIR?](https://discourse.llvm.org/t/how-to-generate-nvidia-cuda-bin-cubin-from-mlir/75434#post_4)
+- [[RFC] Make GlobalISel Match Table entries 1 byte instead of 8](https://discourse.llvm.org/t/rfc-make-globalisel-match-table-entries-1-byte-instead-of-8/75411#post_5)
 <!-- DISCOURSE-LLVM:END -->
