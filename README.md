@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_3)
+- [LLVM Meetup in Munich – October 25th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-october-25th-2023/73738#post_3)
+- [LLVM Meetup in Munich – January 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-29th-2024/75483#post_1)
+- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_8)
 - [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_2)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_2)
-- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_1)
-- [Code coverage report for Clang tests and LLVM tests showing same coverage values](https://discourse.llvm.org/t/code-coverage-report-for-clang-tests-and-llvm-tests-showing-same-coverage-values/75456#post_2)
-- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_8)
 <!-- DISCOURSE-LLVM:END -->
