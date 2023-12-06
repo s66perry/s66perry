@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to optimize small snippet](https://discourse.llvm.org/t/trying-to-optimize-small-snippet/75493#post_4)
+- [Trying to optimize small snippet](https://discourse.llvm.org/t/trying-to-optimize-small-snippet/75493#post_3)
+- [[RFC] VCIX Dialect](https://discourse.llvm.org/t/rfc-vcix-dialect/75498#post_1)
+- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_24)
 - [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=2#post_35)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=2#post_34)
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=2#post_32)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=2#post_33)
-- [RISC-V LLVM sync-up call December 7th 2023](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-december-7th-2023/75496#post_1)
 <!-- DISCOURSE-LLVM:END -->
