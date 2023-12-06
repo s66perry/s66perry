@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232#post_15)
-- [How to use &lpar;Small&rpar;SetVector for unique/shared_ptrs?](https://discourse.llvm.org/t/how-to-use-small-setvector-for-unique-shared-ptrs/75475#post_3)
-- [Llvm generates wrong dwarf line-table to gdb](https://discourse.llvm.org/t/llvm-generates-wrong-dwarf-line-table-to-gdb/75454#post_11)
-- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_3)
-- [Llvm generates wrong dwarf line-table to gdb](https://discourse.llvm.org/t/llvm-generates-wrong-dwarf-line-table-to-gdb/75454#post_10)
+- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_2)
+- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_2)
+- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_1)
+- [Code coverage report for Clang tests and LLVM tests showing same coverage values](https://discourse.llvm.org/t/code-coverage-report-for-clang-tests-and-llvm-tests-showing-same-coverage-values/75456#post_2)
+- [About the operation and its builder](https://discourse.llvm.org/t/about-the-operation-and-its-builder/75414#post_8)
 <!-- DISCOURSE-LLVM:END -->
