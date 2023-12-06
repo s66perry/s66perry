@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_3)
-- [LLVM Meetup in Munich – October 25th, 2023](https://discourse.llvm.org/t/llvm-meetup-in-munich-october-25th-2023/73738#post_3)
-- [LLVM Meetup in Munich – January 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-29th-2024/75483#post_1)
-- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_8)
-- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_2)
+- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_5)
+- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_6)
+- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_4)
+- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_5)
+- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_4)
 <!-- DISCOURSE-LLVM:END -->
