@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Code coverage report for Clang tests and LLVM tests showing same coverage values](https://discourse.llvm.org/t/code-coverage-report-for-clang-tests-and-llvm-tests-showing-same-coverage-values/75456#post_3)
+- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_10)
+- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_15)
+- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_11)
 - [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_14)
-- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_13)
-- [Using LLVM/MLIR CMake-modules with Tablegen ODS](https://discourse.llvm.org/t/using-llvm-mlir-cmake-modules-with-tablegen-ods/75495#post_3)
-- [Integrating CLANG with editor in a C++ Builder project](https://discourse.llvm.org/t/integrating-clang-with-editor-in-a-c-builder-project/75512#post_1)
-- [isExternC for llvm::Function?](https://discourse.llvm.org/t/isexternc-for-llvm-function/75447#post_5)
 <!-- DISCOURSE-LLVM:END -->
