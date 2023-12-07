@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_10)
-- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_9)
-- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_25)
-- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_8)
-- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_7)
+- [What impact does a failing Op verifier have on the Optimization Process?](https://discourse.llvm.org/t/what-impact-does-a-failing-op-verifier-have-on-the-optimization-process/75450#post_10)
+- [[RFC] Adding memref.calloc](https://discourse.llvm.org/t/rfc-adding-memref-calloc/75479#post_9)
+- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_26)
+- [Using LLVM/MLIR CMake-modules with Tablegen ODS](https://discourse.llvm.org/t/using-llvm-mlir-cmake-modules-with-tablegen-ods/75495#post_2)
+- [Trying to optimize small snippet](https://discourse.llvm.org/t/trying-to-optimize-small-snippet/75493#post_5)
 <!-- DISCOURSE-LLVM:END -->
