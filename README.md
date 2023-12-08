@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Call for testing -- non-instruction debug-info](https://discourse.llvm.org/t/call-for-testing-non-instruction-debug-info/75522#post_3)
-- [Clang Code Owner/Reviewers Holiday Availability &lpar;2023&rpar;](https://discourse.llvm.org/t/clang-code-owner-reviewers-holiday-availability-2023/75549#post_5)
-- [[MLIR] Integrating existing dialects](https://discourse.llvm.org/t/mlir-integrating-existing-dialects/75528#post_2)
-- [Clang man vs. help option discrepancies re target architecture](https://discourse.llvm.org/t/clang-man-vs-help-option-discrepancies-re-target-architecture/75551#post_1)
-- [Do we need OOP dialect in MLIR?](https://discourse.llvm.org/t/do-we-need-oop-dialect-in-mlir/75542#post_4)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_37)
+- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=2#post_36)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_36)
+- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_28)
+- [Long compile times on preparing passes](https://discourse.llvm.org/t/long-compile-times-on-preparing-passes/75547#post_2)
 <!-- DISCOURSE-LLVM:END -->
