@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [&quot;as-needed&quot; breaks our build with undefined symbols](https://discourse.llvm.org/t/as-needed-breaks-our-build-with-undefined-symbols/75505#post_6)
+- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232?page=2#post_24)
+- [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232?page=2#post_23)
+- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=3#post_42)
 - [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544#post_10)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=2#post_41)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=2#post_40)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=2#post_39)
-- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544#post_9)
 <!-- DISCOURSE-LLVM:END -->
