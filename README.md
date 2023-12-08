@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What llvm vectorization can do?](https://discourse.llvm.org/t/what-llvm-vectorization-can-do/75537#post_1)
 - [Profile-Guided Optimization &lpar;PGO&rpar; related questions and suggestions](https://discourse.llvm.org/t/profile-guided-optimization-pgo-related-questions-and-suggestions/75232#post_19)
-- [Code coverage report for Clang tests and LLVM tests showing same coverage values](https://discourse.llvm.org/t/code-coverage-report-for-clang-tests-and-llvm-tests-showing-same-coverage-values/75456#post_5)
 - [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_35)
 - [[RFC][UEFI][Driver] Support UEFI target](https://discourse.llvm.org/t/rfc-uefi-driver-support-uefi-target/73261#post_7)
 - [[MLIR] Integrating existing dialects](https://discourse.llvm.org/t/mlir-integrating-existing-dialects/75528#post_1)
