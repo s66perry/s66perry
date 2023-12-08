@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR] Integrating existing dialects](https://discourse.llvm.org/t/mlir-integrating-existing-dialects/75528#post_1)
+- [RFC: Name the first release from a branch N.1.0 instead of N.0.0](https://discourse.llvm.org/t/rfc-name-the-first-release-from-a-branch-n-1-0-instead-of-n-0-0/75384?page=2#post_21)
+- [[RFC] VCIX Dialect](https://discourse.llvm.org/t/rfc-vcix-dialect/75498#post_3)
 - [Finding PC address of a given machine instruction](https://discourse.llvm.org/t/finding-pc-address-of-a-given-machine-instruction/69529#post_12)
 - [Finding PC address of a given machine instruction](https://discourse.llvm.org/t/finding-pc-address-of-a-given-machine-instruction/69529#post_11)
-- [Trying to optimize small snippet](https://discourse.llvm.org/t/trying-to-optimize-small-snippet/75493#post_6)
-- [IPRA Pass Module](https://discourse.llvm.org/t/ipra-pass-module/75523#post_3)
-- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
