@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RegUsageInfo?](https://discourse.llvm.org/t/regusageinfo/75580#post_1)
+- [[mlir][linalg] `EraseIdentityGenericOp` canonicalization pattern](https://discourse.llvm.org/t/mlir-linalg-eraseidentitygenericop-canonicalization-pattern/75579#post_1)
 - [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544#post_15)
 - [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544#post_14)
 - [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_40)
-- [Is it possible to use LLVM for JIT binary optimization?](https://discourse.llvm.org/t/is-it-possible-to-use-llvm-for-jit-binary-optimization/75576#post_1)
-- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
