@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Get Elf entry point using LLVM C API](https://discourse.llvm.org/t/get-elf-entry-point-using-llvm-c-api/75610#post_1)
+- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_20)
+- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_19)
+- [LLVM Weekly - #519, December 11th 2023](https://discourse.llvm.org/t/llvm-weekly-519-december-11th-2023/75609#post_1)
 - [-Woverloaded-virtual with default shallow copy operator](https://discourse.llvm.org/t/woverloaded-virtual-with-default-shallow-copy-operator/75592#post_2)
-- [Merging RISCVToolChain and BareMetal toolchains](https://discourse.llvm.org/t/merging-riscvtoolchain-and-baremetal-toolchains/75524#post_4)
-- [Going forward with [[clang::suppress]]](https://discourse.llvm.org/t/going-forward-with-clang-suppress/75357#post_8)
-- [Going forward with [[clang::suppress]]](https://discourse.llvm.org/t/going-forward-with-clang-suppress/75357#post_7)
-- [lldb-server inherits environment from client, not from host](https://discourse.llvm.org/t/lldb-server-inherits-environment-from-client-not-from-host/75607#post_1)
 <!-- DISCOURSE-LLVM:END -->
