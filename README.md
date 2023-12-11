@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Function renaming not working when definition in separate file](https://discourse.llvm.org/t/function-renaming-not-working-when-definition-in-separate-file/71917#post_7)
-- [What llvm vectorization can do?](https://discourse.llvm.org/t/what-llvm-vectorization-can-do/75537#post_4)
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304?page=2#post_23)
-- [No debug symbols in armv7-alpine-linux-musleabihf](https://discourse.llvm.org/t/no-debug-symbols-in-armv7-alpine-linux-musleabihf/75599#post_1)
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304?page=2#post_22)
+- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_18)
+- [Can we add invariant.group for &#39;const&#39; class members?](https://discourse.llvm.org/t/can-we-add-invariant-group-for-const-class-members/75465#post_17)
+- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544#post_18)
+- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544#post_17)
+- [No debug symbols in armv7-alpine-linux-musleabihf](https://discourse.llvm.org/t/no-debug-symbols-in-armv7-alpine-linux-musleabihf/75599#post_2)
 <!-- DISCOURSE-LLVM:END -->
