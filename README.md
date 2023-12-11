@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304?page=2#post_23)
+- [No debug symbols in armv7-alpine-linux-musleabihf](https://discourse.llvm.org/t/no-debug-symbols-in-armv7-alpine-linux-musleabihf/75599#post_1)
+- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304?page=2#post_22)
+- [[mlir][linalg] `EraseIdentityGenericOp` canonicalization pattern](https://discourse.llvm.org/t/mlir-linalg-eraseidentitygenericop-canonicalization-pattern/75579#post_6)
 - [Statepoint GC usage and calling conventions](https://discourse.llvm.org/t/statepoint-gc-usage-and-calling-conventions/75555#post_2)
-- [LLVMVerifyFunction fails: Instruction does not dominate all uses](https://discourse.llvm.org/t/llvmverifyfunction-fails-instruction-does-not-dominate-all-uses/75594#post_14)
-- [Modify Operand Types to meet SameTypeOperands Trait](https://discourse.llvm.org/t/modify-operand-types-to-meet-sametypeoperands-trait/75597#post_1)
-- [Remote Debugging by attaching to a process](https://discourse.llvm.org/t/remote-debugging-by-attaching-to-a-process/74304?page=2#post_21)
-- [LLVMVerifyFunction fails: Instruction does not dominate all uses](https://discourse.llvm.org/t/llvmverifyfunction-fails-instruction-does-not-dominate-all-uses/75594#post_13)
 <!-- DISCOURSE-LLVM:END -->
