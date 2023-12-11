@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Missing Dtor calls to EH-only cleanups for C++20 coroutine destroy](https://discourse.llvm.org/t/missing-dtor-calls-to-eh-only-cleanups-for-c-20-coroutine-destroy/75613#post_1)
-- [Enabling 3rd-party review tools](https://discourse.llvm.org/t/enabling-3rd-party-review-tools/75612#post_1)
-- [[RFC] `llvm-project/offload` roadmap](https://discourse.llvm.org/t/rfc-llvm-project-offload-roadmap/75611#post_1)
-- [-Woverloaded-virtual with default shallow copy operator](https://discourse.llvm.org/t/woverloaded-virtual-with-default-shallow-copy-operator/75592#post_3)
-- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_22)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_4)
+- [SymbolTable and Symbol parent/child relationship](https://discourse.llvm.org/t/symboltable-and-symbol-parent-child-relationship/75446#post_5)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_3)
+- [SymbolTable and Symbol parent/child relationship](https://discourse.llvm.org/t/symboltable-and-symbol-parent-child-relationship/75446#post_4)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_2)
 <!-- DISCOURSE-LLVM:END -->
