@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_3)
-- [-Woverloaded-virtual with default shallow copy operator](https://discourse.llvm.org/t/woverloaded-virtual-with-default-shallow-copy-operator/75592#post_5)
-- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_2)
-- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_1)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_8)
+- [Cast `index` to float?](https://discourse.llvm.org/t/cast-index-to-float/75637#post_2)
+- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_12)
+- [[RFC] Enabling Properties for Attribute storage by default](https://discourse.llvm.org/t/rfc-enabling-properties-for-attribute-storage-by-default/72900#post_11)
+- [No debug symbols in armv7-alpine-linux-musleabihf](https://discourse.llvm.org/t/no-debug-symbols-in-armv7-alpine-linux-musleabihf/75599#post_9)
+- [How is alloca surviving exiting the function?](https://discourse.llvm.org/t/how-is-alloca-surviving-exiting-the-function/75647#post_1)
 <!-- DISCOURSE-LLVM:END -->
