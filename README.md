@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_1)
-- [Strange behaviour of pointer-overflow sanitize option](https://discourse.llvm.org/t/strange-behaviour-of-pointer-overflow-sanitize-option/75639#post_2)
-- [Strange behaviour of pointer-overflow sanitize option](https://discourse.llvm.org/t/strange-behaviour-of-pointer-overflow-sanitize-option/75639#post_1)
-- [No debug symbols in armv7-alpine-linux-musleabihf](https://discourse.llvm.org/t/no-debug-symbols-in-armv7-alpine-linux-musleabihf/75599#post_5)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_7)
+- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=2#post_35)
+- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_5)
+- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_4)
+- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_29)
+- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_3)
 <!-- DISCOURSE-LLVM:END -->
