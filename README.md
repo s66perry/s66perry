@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [File filter in clang format configuration](https://discourse.llvm.org/t/file-filter-in-clang-format-configuration/73706#post_5)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=3#post_48)
-- [Is there any library for emitting Nvidia GPU friendly MLIR?](https://discourse.llvm.org/t/is-there-any-library-for-emitting-nvidia-gpu-friendly-mlir/75649#post_3)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_9)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_8)
+- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_5)
+- [[RFC] VCIX Dialect](https://discourse.llvm.org/t/rfc-vcix-dialect/75498#post_8)
+- [LLVM AA TechCalls](https://discourse.llvm.org/t/llvm-aa-techcalls/75569#post_4)
+- [[LLD] Unable to use libc++ when cross compiling from x64 to arm64](https://discourse.llvm.org/t/lld-unable-to-use-libc-when-cross-compiling-from-x64-to-arm64/75654#post_1)
+- [Define Op for Let-like Statement IR Structure](https://discourse.llvm.org/t/define-op-for-let-like-statement-ir-structure/75629#post_3)
 <!-- DISCOURSE-LLVM:END -->
