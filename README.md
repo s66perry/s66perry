@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] add a mlir refactor tool to clang-tools-extra](https://discourse.llvm.org/t/rfc-add-a-mlir-refactor-tool-to-clang-tools-extra/75451#post_2)
-- [All CMake based, build LLVM/clang under windows but got linker problems with clang libraries](https://discourse.llvm.org/t/all-cmake-based-build-llvm-clang-under-windows-but-got-linker-problems-with-clang-libraries/75623#post_1)
-- [LLDB build error lib/liblldb.so.18.0.0git](https://discourse.llvm.org/t/lldb-build-error-lib-liblldb-so-18-0-0git/73905#post_9)
-- [IPRA Pass Module](https://discourse.llvm.org/t/ipra-pass-module/75523#post_7)
-- [Performance analysis for TSVC](https://discourse.llvm.org/t/performance-analysis-for-tsvc/75413#post_7)
+- [Using LLVM/clang for BlacBerry QNX](https://discourse.llvm.org/t/using-llvm-clang-for-blacberry-qnx/75631#post_1)
+- [Challenges in Designing MLIR Dialect for IR: Handling LetStmt and Additional Statements](https://discourse.llvm.org/t/challenges-in-designing-mlir-dialect-for-ir-handling-letstmt-and-additional-statements/75629#post_1)
+- [[RFC][C++03 extension] Allow consecutive &#39;&gt;&#39; in template code for known-bad code](https://discourse.llvm.org/t/rfc-c-03-extension-allow-consecutive-in-template-code-for-known-bad-code/75626#post_2)
+- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_4)
+- [[RFC][C++03 extension] Allow consecutive &#39;&gt;&#39; in template code for known-bad code](https://discourse.llvm.org/t/rfc-c-03-extension-allow-consecutive-in-template-code-for-known-bad-code/75626#post_1)
 <!-- DISCOURSE-LLVM:END -->
