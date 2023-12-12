@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reducing build times for single compilation unit](https://discourse.llvm.org/t/reducing-build-times-for-single-compilation-unit/75435#post_4)
+- [Going forward with [[clang::suppress]]](https://discourse.llvm.org/t/going-forward-with-clang-suppress/75357#post_9)
+- [LLVM AA TechCalls](https://discourse.llvm.org/t/llvm-aa-techcalls/75569#post_3)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_5)
 - [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_4)
-- [SymbolTable and Symbol parent/child relationship](https://discourse.llvm.org/t/symboltable-and-symbol-parent-child-relationship/75446#post_5)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_3)
-- [SymbolTable and Symbol parent/child relationship](https://discourse.llvm.org/t/symboltable-and-symbol-parent-child-relationship/75446#post_4)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_2)
 <!-- DISCOURSE-LLVM:END -->
