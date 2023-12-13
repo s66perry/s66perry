@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to Model &quot;maybe&quot; Side Effects](https://discourse.llvm.org/t/how-to-model-maybe-side-effects/75674#post_2)
+- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=3#post_49)
+- [How to Model &quot;maybe&quot; Side Effects](https://discourse.llvm.org/t/how-to-model-maybe-side-effects/75674#post_1)
+- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_11)
 - [[LLD] Unable to use libc++ when cross compiling from x64 to arm64](https://discourse.llvm.org/t/lld-unable-to-use-libc-when-cross-compiling-from-x64-to-arm64/75654#post_2)
-- [Add check-mlir-python to the MLIR pre-commit tests](https://discourse.llvm.org/t/add-check-mlir-python-to-the-mlir-pre-commit-tests/74041#post_4)
-- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_10)
-- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_9)
-- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_8)
 <!-- DISCOURSE-LLVM:END -->
