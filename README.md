@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_7)
+- [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_6)
+- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_7)
 - [Statepoint GC usage and calling conventions](https://discourse.llvm.org/t/statepoint-gc-usage-and-calling-conventions/75555#post_5)
 - [All CMake based, build LLVM/clang under windows but got linker problems with clang libraries](https://discourse.llvm.org/t/all-cmake-based-build-llvm-clang-under-windows-but-got-linker-problems-with-clang-libraries/75623#post_2)
-- [OpenCL Custom RISCV Implementation](https://discourse.llvm.org/t/opencl-custom-riscv-implementation/75676#post_1)
-- [How to Model &quot;maybe&quot; Side Effects](https://discourse.llvm.org/t/how-to-model-maybe-side-effects/75674#post_2)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=3#post_49)
 <!-- DISCOURSE-LLVM:END -->
