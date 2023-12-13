@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_8)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_13)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_12)
-- [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_7)
-- [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_6)
+- [[RFC] `llvm-project/offload` roadmap](https://discourse.llvm.org/t/rfc-llvm-project-offload-roadmap/75611#post_6)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_15)
+- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_9)
+- [hasAncestor finds ancestors&#39; siblings](https://discourse.llvm.org/t/hasancestor-finds-ancestors-siblings/75661#post_2)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_14)
 <!-- DISCOURSE-LLVM:END -->
