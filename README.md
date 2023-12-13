@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_8)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_13)
+- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_12)
 - [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_7)
 - [Using the right intrinsic properties](https://discourse.llvm.org/t/using-the-right-intrinsic-properties/75375#post_6)
-- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_7)
-- [Statepoint GC usage and calling conventions](https://discourse.llvm.org/t/statepoint-gc-usage-and-calling-conventions/75555#post_5)
-- [All CMake based, build LLVM/clang under windows but got linker problems with clang libraries](https://discourse.llvm.org/t/all-cmake-based-build-llvm-clang-under-windows-but-got-linker-problems-with-clang-libraries/75623#post_2)
 <!-- DISCOURSE-LLVM:END -->
