@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about load widening](https://discourse.llvm.org/t/question-about-load-widening/75682#post_1)
+- [hasAncestor finds ancestors&#39; siblings](https://discourse.llvm.org/t/hasancestor-finds-ancestors-siblings/75661#post_3)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Dec 4 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-dec-4-23-6pm/75266#post_3)
+- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=2#post_39)
 - [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=2#post_38)
-- [How to collect the coverage of branches after optimization in LLVM?](https://discourse.llvm.org/t/how-to-collect-the-coverage-of-branches-after-optimization-in-llvm/75379#post_9)
-- [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_33)
-- [[RFC] `llvm-project/offload` roadmap](https://discourse.llvm.org/t/rfc-llvm-project-offload-roadmap/75611#post_7)
-- [Call for testing -- non-instruction debug-info](https://discourse.llvm.org/t/call-for-testing-non-instruction-debug-info/75522#post_6)
 <!-- DISCOURSE-LLVM:END -->
