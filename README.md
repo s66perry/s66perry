@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLD] Unable to use libc++ when cross compiling from x64 to arm64](https://discourse.llvm.org/t/lld-unable-to-use-libc-when-cross-compiling-from-x64-to-arm64/75654#post_2)
+- [Add check-mlir-python to the MLIR pre-commit tests](https://discourse.llvm.org/t/add-check-mlir-python-to-the-mlir-pre-commit-tests/74041#post_4)
 - [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_10)
 - [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_9)
 - [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_8)
-- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_7)
-- [Releases with Ubuntu 18.04 builds?](https://discourse.llvm.org/t/releases-with-ubuntu-18-04-builds/75641#post_6)
 <!-- DISCOURSE-LLVM:END -->
