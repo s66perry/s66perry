@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question about load widening](https://discourse.llvm.org/t/question-about-load-widening/75682#post_3)
-- [New Test Suite For LNT](https://discourse.llvm.org/t/new-test-suite-for-lnt/74659#post_6)
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=3#post_43)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615#post_16)
-- [Open MLIR Meeting 12/14/2023: discussion on improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/open-mlir-meeting-12-14-2023-discussion-on-improving-handling-of-unit-dimensions-in-the-vector-dialect/75683#post_2)
+- [Open MLIR Meeting 12/14/2023: discussion on improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/open-mlir-meeting-12-14-2023-discussion-on-improving-handling-of-unit-dimensions-in-the-vector-dialect/75683#post_3)
+- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=3#post_52)
+- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=3#post_51)
+- [OpenCL Custom RISCV Implementation](https://discourse.llvm.org/t/opencl-custom-riscv-implementation/75676#post_5)
+- [[RFC] Single Byte Counters for Source-based Code Coverage](https://discourse.llvm.org/t/rfc-single-byte-counters-for-source-based-code-coverage/75685#post_4)
 <!-- DISCOURSE-LLVM:END -->
