@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Patch to Disable Group Relocation in AArch64 Large Code Model](https://discourse.llvm.org/t/patch-to-disable-group-relocation-in-aarch64-large-code-model/75666#post_2)
+- [OpenMPIRBuilder target teams distribute parallel for](https://discourse.llvm.org/t/openmpirbuilder-target-teams-distribute-parallel-for/75350#post_3)
+- [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846?page=2#post_22)
+- [[RFC] Introducing MLIR Operation Properties](https://discourse.llvm.org/t/rfc-introducing-mlir-operation-properties/67846?page=2#post_21)
 - [[RFC] Single Byte Counters for Source-based Code Coverage](https://discourse.llvm.org/t/rfc-single-byte-counters-for-source-based-code-coverage/75685#post_7)
-- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_30)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=3#post_53)
-- [[RFC] Single Byte Counters for Source-based Code Coverage](https://discourse.llvm.org/t/rfc-single-byte-counters-for-source-based-code-coverage/75685#post_6)
-- [Improving handling of unit dimensions in the vector dialect](https://discourse.llvm.org/t/improving-handling-of-unit-dimensions-in-the-vector-dialect/75216?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
