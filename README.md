@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704#post_11)
-- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723#post_5)
-- [What do notlhs and notrhs do?](https://discourse.llvm.org/t/what-do-notlhs-and-notrhs-do/75737#post_1)
-- [Requires constraint failed with an expression evaluating to true](https://discourse.llvm.org/t/requires-constraint-failed-with-an-expression-evaluating-to-true/75735#post_2)
-- [Requires constraint failed with an expression evaluating to true](https://discourse.llvm.org/t/requires-constraint-failed-with-an-expression-evaluating-to-true/75735#post_1)
+- [Unifying clang flags/language opts for offloading languages](https://discourse.llvm.org/t/unifying-clang-flags-language-opts-for-offloading-languages/75719#post_9)
+- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704#post_13)
+- [Compound literals are not modifiable when used through a const pointer](https://discourse.llvm.org/t/compound-literals-are-not-modifiable-when-used-through-a-const-pointer/75739#post_1)
+- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704#post_12)
+- [How is a fp constant expressed in the result dag of def:Pat?](https://discourse.llvm.org/t/how-is-a-fp-constant-expressed-in-the-result-dag-of-def-pat/75712#post_4)
 <!-- DISCOURSE-LLVM:END -->
