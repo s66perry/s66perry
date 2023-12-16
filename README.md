@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unifying clang flags/language opts for offloading languages](https://discourse.llvm.org/t/unifying-clang-flags-language-opts-for-offloading-languages/75719#post_8)
-- [Question about load widening](https://discourse.llvm.org/t/question-about-load-widening/75682#post_5)
-- [Call for testing -- non-instruction debug-info](https://discourse.llvm.org/t/call-for-testing-non-instruction-debug-info/75522#post_7)
-- [RFC: Name the first release from a branch N.1.0 instead of N.0.0](https://discourse.llvm.org/t/rfc-name-the-first-release-from-a-branch-n-1-0-instead-of-n-0-0/75384?page=2#post_22)
-- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723#post_4)
+- [What do notlhs and notrhs do?](https://discourse.llvm.org/t/what-do-notlhs-and-notrhs-do/75737#post_1)
+- [Requires constraint failed with an expression evaluating to true](https://discourse.llvm.org/t/requires-constraint-failed-with-an-expression-evaluating-to-true/75735#post_2)
+- [Requires constraint failed with an expression evaluating to true](https://discourse.llvm.org/t/requires-constraint-failed-with-an-expression-evaluating-to-true/75735#post_1)
+- [Compile time string to type parsing](https://discourse.llvm.org/t/compile-time-string-to-type-parsing/73564#post_3)
+- [How to install MLIRPythonSources.Core?](https://discourse.llvm.org/t/how-to-install-mlirpythonsources-core/75734#post_1)
 <!-- DISCOURSE-LLVM:END -->
