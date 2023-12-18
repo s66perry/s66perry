@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Draft MLIR News, 59th edition &lpar;20th December 2023&rpar;](https://discourse.llvm.org/t/draft-mlir-news-59th-edition-20th-december-2023/75760#post_1)
+- [Lowering from CHIRRTL to LowFIRRTL](https://discourse.llvm.org/t/lowering-from-chirrtl-to-lowfirrtl/75759#post_1)
+- [How to enable debug logs in llvm-objdump](https://discourse.llvm.org/t/how-to-enable-debug-logs-in-llvm-objdump/75758#post_1)
 - [RISC-V calling convention implementation in clang: tp and gp registers](https://discourse.llvm.org/t/risc-v-calling-convention-implementation-in-clang-tp-and-gp-registers/75757#post_1)
 - [LLVM Weekly - #520, December 18th 2023](https://discourse.llvm.org/t/llvm-weekly-520-december-18th-2023/75753#post_1)
-- [[RFC] Single Byte Counters for Source-based Code Coverage](https://discourse.llvm.org/t/rfc-single-byte-counters-for-source-based-code-coverage/75685#post_13)
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_36)
-- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_4)
 <!-- DISCOURSE-LLVM:END -->
