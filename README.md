@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lowering from CHIRRTL to LowFIRRTL](https://discourse.llvm.org/t/lowering-from-chirrtl-to-lowfirrtl/75759#post_3)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Dec 4 ‘23 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-dec-4-23-6pm/75266#post_4)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Jan 29 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jan-29-24-6pm/75765#post_1)
+- [Lowering from CHIRRTL to LowFIRRTL](https://discourse.llvm.org/t/lowering-from-chirrtl-to-lowfirrtl/75759#post_2)
 - [What do notlhs and notrhs do?](https://discourse.llvm.org/t/what-do-notlhs-and-notrhs-do/75737#post_3)
-- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704#post_16)
-- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723#post_8)
-- [What do notlhs and notrhs do?](https://discourse.llvm.org/t/what-do-notlhs-and-notrhs-do/75737#post_2)
-- [How to pass an option to a user-defined pass](https://discourse.llvm.org/t/how-to-pass-an-option-to-a-user-defined-pass/75701#post_2)
 <!-- DISCOURSE-LLVM:END -->
