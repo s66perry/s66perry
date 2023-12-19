@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704#post_17)
-- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_7)
-- [Unifying clang flags/language opts for offloading languages](https://discourse.llvm.org/t/unifying-clang-flags-language-opts-for-offloading-languages/75719#post_10)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615?page=2#post_22)
-- [Using llvm.access.group + llvm.loop.parallel_accesses to break memory ordering dependences](https://discourse.llvm.org/t/using-llvm-access-group-llvm-loop-parallel-accesses-to-break-memory-ordering-dependences/75615?page=2#post_21)
+- [RISC-V calling convention implementation in clang: tp and gp registers](https://discourse.llvm.org/t/risc-v-calling-convention-implementation-in-clang-tp-and-gp-registers/75757#post_2)
+- [[RFC] VCIX Dialect](https://discourse.llvm.org/t/rfc-vcix-dialect/75498#post_9)
+- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704#post_18)
+- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_9)
+- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_8)
 <!-- DISCOURSE-LLVM:END -->
