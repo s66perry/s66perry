@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_14)
+- [Correct MLIR pass to compile `test/Integration/GPU/CUDA/async.mlir`](https://discourse.llvm.org/t/correct-mlir-pass-to-compile-test-integration-gpu-cuda-async-mlir/3916#post_3)
+- [[RFC] About the default location for std modules](https://discourse.llvm.org/t/rfc-about-the-default-location-for-std-modules/69191?page=3#post_53)
+- [Can something be done with the &quot;inconsistency in registered CommandLine options&quot; error](https://discourse.llvm.org/t/can-something-be-done-with-the-inconsistency-in-registered-commandline-options-error/1720#post_8)
 - [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_13)
-- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_12)
-- [RFC-ish: move `LinalgTransforms` out of test?](https://discourse.llvm.org/t/rfc-ish-move-linalgtransforms-out-of-test/75799#post_1)
-- [Transform Dialect: how to use Transform-LoopUnrollOp and SCF-ForOp to implement Clang’s #pragma unroll](https://discourse.llvm.org/t/transform-dialect-how-to-use-transform-loopunrollop-and-scf-forop-to-implement-clang-s-pragma-unroll/75776#post_2)
-- [Can&#39;t access/delete my old github account](https://discourse.llvm.org/t/cant-access-delete-my-old-github-account/75793#post_6)
 <!-- DISCOURSE-LLVM:END -->
