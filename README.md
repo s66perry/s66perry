@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723#post_12)
-- [Potential race condition in Hashing.h?](https://discourse.llvm.org/t/potential-race-condition-in-hashing-h/75791#post_2)
-- [Can&#39;t access/delete my old github account](https://discourse.llvm.org/t/cant-access-delete-my-old-github-account/75793#post_4)
-- [CANCELLED RISC-V LLVM sync-up call December 21st 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-december-21st-2023/75794#post_1)
-- [Can&#39;t access/delete my old github account](https://discourse.llvm.org/t/cant-access-delete-my-old-github-account/75793#post_2)
+- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_13)
+- [[RFC] Improve LLDB progress reporting](https://discourse.llvm.org/t/rfc-improve-lldb-progress-reporting/75717#post_12)
+- [RFC-ish: move `LinalgTransforms` out of test?](https://discourse.llvm.org/t/rfc-ish-move-linalgtransforms-out-of-test/75799#post_1)
+- [Transform Dialect: how to use Transform-LoopUnrollOp and SCF-ForOp to implement Clang’s #pragma unroll](https://discourse.llvm.org/t/transform-dialect-how-to-use-transform-loopunrollop-and-scf-forop-to-implement-clang-s-pragma-unroll/75776#post_2)
+- [Can&#39;t access/delete my old github account](https://discourse.llvm.org/t/cant-access-delete-my-old-github-account/75793#post_6)
 <!-- DISCOURSE-LLVM:END -->
