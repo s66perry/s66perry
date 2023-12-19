@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=3#post_44)
-- [C-API and python binding for SPIR-V dialect](https://discourse.llvm.org/t/c-api-and-python-binding-for-spir-v-dialect/75783#post_1)
-- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=3#post_52)
-- [How to construct an cross_compiler with default command line settings?](https://discourse.llvm.org/t/how-to-construct-an-cross-compiler-with-default-command-line-settings/75782#post_3)
-- [How to construct an cross_compiler with default command line settings?](https://discourse.llvm.org/t/how-to-construct-an-cross-compiler-with-default-command-line-settings/75782#post_2)
+- [How is a fp constant expressed in the result dag of def:Pat?](https://discourse.llvm.org/t/how-is-a-fp-constant-expressed-in-the-result-dag-of-def-pat/75712#post_10)
+- [OpenMP lowering from PFT to FIR](https://discourse.llvm.org/t/openmp-lowering-from-pft-to-fir/75263?page=3#post_53)
+- [An confuse of the optimization--why false code is removed](https://discourse.llvm.org/t/an-confuse-of-the-optimization-why-false-code-is-removed/75777#post_5)
+- [How is a fp constant expressed in the result dag of def:Pat?](https://discourse.llvm.org/t/how-is-a-fp-constant-expressed-in-the-result-dag-of-def-pat/75712#post_9)
+- [Can something be done with the &quot;inconsistency in registered CommandLine options&quot; error](https://discourse.llvm.org/t/can-something-be-done-with-the-inconsistency-in-registered-commandline-options-error/1720#post_6)
 <!-- DISCOURSE-LLVM:END -->
