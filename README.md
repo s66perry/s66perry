@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][UEFI][Driver] Support UEFI target](https://discourse.llvm.org/t/rfc-uefi-driver-support-uefi-target/73261#post_9)
+- [[RFC][UEFI][Driver] Support UEFI target](https://discourse.llvm.org/t/rfc-uefi-driver-support-uefi-target/73261#post_8)
 - [[RFC] Accommodate dynamically resolved function pointers with CFI](https://discourse.llvm.org/t/rfc-accommodate-dynamically-resolved-function-pointers-with-cfi/75804#post_2)
 - [[RFC] Accommodate dynamically resolved function pointers with CFI](https://discourse.llvm.org/t/rfc-accommodate-dynamically-resolved-function-pointers-with-cfi/75804#post_1)
 - [Is there a warning or check for functions that are not declared in a header nor static?](https://discourse.llvm.org/t/is-there-a-warning-or-check-for-functions-that-are-not-declared-in-a-header-nor-static/75802#post_3)
-- [Is there a warning or check for functions that are not declared in a header nor static?](https://discourse.llvm.org/t/is-there-a-warning-or-check-for-functions-that-are-not-declared-in-a-header-nor-static/75802#post_2)
-- [Is there a warning or check for functions that are not declared in a header nor static?](https://discourse.llvm.org/t/is-there-a-warning-or-check-for-functions-that-are-not-declared-in-a-header-nor-static/75802#post_1)
 <!-- DISCOURSE-LLVM:END -->
