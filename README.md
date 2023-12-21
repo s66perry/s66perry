@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_6)
-- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_5)
-- [[RFC] Mastodon instance for the LLVM community](https://discourse.llvm.org/t/rfc-mastodon-instance-for-the-llvm-community/75865#post_2)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259#post_6)
-- [Github links within pushed commits](https://discourse.llvm.org/t/github-links-within-pushed-commits/75863#post_2)
+- [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_3)
+- [Losing LLVM IR function verification with opaque pointers](https://discourse.llvm.org/t/losing-llvm-ir-function-verification-with-opaque-pointers/75868#post_1)
+- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704?page=2#post_22)
+- [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_2)
+- [Building MLIR in the AOSP](https://discourse.llvm.org/t/building-mlir-in-the-aosp/75818#post_2)
 <!-- DISCOURSE-LLVM:END -->
