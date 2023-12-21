@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704?page=2#post_24)
-- [[RFC] Mastodon instance for the LLVM community](https://discourse.llvm.org/t/rfc-mastodon-instance-for-the-llvm-community/75865#post_5)
-- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704?page=2#post_23)
-- [Torch MLIR PyTorch2 Uplift](https://discourse.llvm.org/t/torch-mlir-pytorch2-uplift/74000?page=2#post_26)
-- [[DebugInfo][DWARFv5][LLD] .debug_names with fdebug-type-sections](https://discourse.llvm.org/t/debuginfo-dwarfv5-lld-debug-names-with-fdebug-type-sections/73445?page=3#post_42)
+- [Github links within pushed commits](https://discourse.llvm.org/t/github-links-within-pushed-commits/75863#post_3)
+- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_8)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_4)
+- [[RFC]: Strengthen Relaxed Atomics Implementation behind `-mstrict-rlx-atomics` Flag](https://discourse.llvm.org/t/rfc-strengthen-relaxed-atomics-implementation-behind-mstrict-rlx-atomics-flag/74473?page=2#post_27)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_3)
 <!-- DISCOURSE-LLVM:END -->
