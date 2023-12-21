@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_8)
-- [Error: failed to legalize operation XXX marked as erased](https://discourse.llvm.org/t/error-failed-to-legalize-operation-xxx-marked-as-erased/75810#post_6)
-- [Open MLIR Meeting 12/21/2023: PyDSL, a small subset of Python for constructing affine &amp; transform dialects](https://discourse.llvm.org/t/open-mlir-meeting-12-21-2023-pydsl-a-small-subset-of-python-for-constructing-affine-transform-dialects/75851#post_1)
-- [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_1)
-- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_7)
+- [Legalizing: promoted nodes in `load&#39;s` operands](https://discourse.llvm.org/t/legalizing-promoted-nodes-in-loads-operands/75838#post_5)
+- [How to execute AVX-512 code in LLVM with inline assemble?](https://discourse.llvm.org/t/how-to-execute-avx-512-code-in-llvm-with-inline-assemble/75841#post_3)
+- [Legalizing: promoted nodes in `load&#39;s` operands](https://discourse.llvm.org/t/legalizing-promoted-nodes-in-loads-operands/75838#post_4)
+- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704?page=2#post_21)
+- [Legalizing: promoted nodes in `load&#39;s` operands](https://discourse.llvm.org/t/legalizing-promoted-nodes-in-loads-operands/75838#post_3)
 <!-- DISCOURSE-LLVM:END -->
