@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to execute AVX-512 code in LLVM with inline assemble?](https://discourse.llvm.org/t/how-to-execute-avx-512-code-in-llvm-with-inline-assemble/75841#post_2)
-- [Error: failed to legalize operation XXX marked as erased](https://discourse.llvm.org/t/error-failed-to-legalize-operation-xxx-marked-as-erased/75810#post_5)
-- [[RFC]: Strengthen Relaxed Atomics Implementation behind `-mstrict-rlx-atomics` Flag](https://discourse.llvm.org/t/rfc-strengthen-relaxed-atomics-implementation-behind-mstrict-rlx-atomics-flag/74473?page=2#post_26)
-- [Transform Dialect: how to use Transform-LoopUnrollOp and SCF-ForOp to implement Clang’s #pragma unroll](https://discourse.llvm.org/t/transform-dialect-how-to-use-transform-loopunrollop-and-scf-forop-to-implement-clang-s-pragma-unroll/75776#post_5)
-- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_3)
+- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_8)
+- [Error: failed to legalize operation XXX marked as erased](https://discourse.llvm.org/t/error-failed-to-legalize-operation-xxx-marked-as-erased/75810#post_6)
+- [Open MLIR Meeting 12/21/2023: PyDSL, a small subset of Python for constructing affine &amp; transform dialects](https://discourse.llvm.org/t/open-mlir-meeting-12-21-2023-pydsl-a-small-subset-of-python-for-constructing-affine-transform-dialects/75851#post_1)
+- [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_1)
+- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_7)
 <!-- DISCOURSE-LLVM:END -->
