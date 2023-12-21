@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_6)
+- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_5)
+- [[RFC] Mastodon instance for the LLVM community](https://discourse.llvm.org/t/rfc-mastodon-instance-for-the-llvm-community/75865#post_2)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259#post_6)
 - [Github links within pushed commits](https://discourse.llvm.org/t/github-links-within-pushed-commits/75863#post_2)
-- [Proposing llvm.gpu intrinsics](https://discourse.llvm.org/t/proposing-llvm-gpu-intrinsics/75374#post_8)
-- [[RFC] Mastodon instance for the LLVM community](https://discourse.llvm.org/t/rfc-mastodon-instance-for-the-llvm-community/75865#post_1)
-- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_4)
-- [Unable to configure and build LLVM](https://discourse.llvm.org/t/unable-to-configure-and-build-llvm/75054#post_10)
 <!-- DISCOURSE-LLVM:END -->
