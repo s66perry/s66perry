@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What&#39;s the correct way to erase all BasicBlocks from a function?](https://discourse.llvm.org/t/whats-the-correct-way-to-erase-all-basicblocks-from-a-function/75878#post_2)
-- [ND dynamic shaped memref to spirv](https://discourse.llvm.org/t/nd-dynamic-shaped-memref-to-spirv/75884#post_1)
-- [Building MLIR in the AOSP](https://discourse.llvm.org/t/building-mlir-in-the-aosp/75818#post_7)
-- [Github links within pushed commits](https://discourse.llvm.org/t/github-links-within-pushed-commits/75863#post_4)
-- [Building MLIR in the AOSP](https://discourse.llvm.org/t/building-mlir-in-the-aosp/75818#post_6)
+- [Question about the Pattern table gen](https://discourse.llvm.org/t/question-about-the-pattern-table-gen/75882#post_8)
+- [ND dynamic shaped memref to spirv](https://discourse.llvm.org/t/nd-dynamic-shaped-memref-to-spirv/75884#post_2)
+- [Question about the Pattern table gen](https://discourse.llvm.org/t/question-about-the-pattern-table-gen/75882#post_7)
+- [Question about the Pattern table gen](https://discourse.llvm.org/t/question-about-the-pattern-table-gen/75882#post_6)
+- [Question about the Pattern table gen](https://discourse.llvm.org/t/question-about-the-pattern-table-gen/75882#post_5)
 <!-- DISCOURSE-LLVM:END -->
