@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about the Pattern table gen](https://discourse.llvm.org/t/question-about-the-pattern-table-gen/75882#post_1)
+- [Open MLIR Meeting 12/21/2023: PyDSL, a small subset of Python for constructing affine &amp; transform dialects](https://discourse.llvm.org/t/open-mlir-meeting-12-21-2023-pydsl-a-small-subset-of-python-for-constructing-affine-transform-dialects/75851#post_2)
+- [Building MLIR in the AOSP](https://discourse.llvm.org/t/building-mlir-in-the-aosp/75818#post_4)
+- [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_6)
 - [How to construct an cross_compiler with default command line settings?](https://discourse.llvm.org/t/how-to-construct-an-cross-compiler-with-default-command-line-settings/75782#post_7)
-- [What&#39;s the correct way to erase all BasicBlocks from a function?](https://discourse.llvm.org/t/whats-the-correct-way-to-erase-all-basicblocks-from-a-function/75878#post_1)
-- [Why are the breaks sometimes removed when AlwaysBreakAfterReturnType is All?](https://discourse.llvm.org/t/why-are-the-breaks-sometimes-removed-when-alwaysbreakafterreturntype-is-all/75780#post_4)
-- [[compiler-rt][InstrProf][CoverageMap] Invalid counters when I use runtime api to get coverage data](https://discourse.llvm.org/t/compiler-rt-instrprof-coveragemap-invalid-counters-when-i-use-runtime-api-to-get-coverage-data/75847#post_2)
-- [[RFC]: Strengthen Relaxed Atomics Implementation behind `-mstrict-rlx-atomics` Flag](https://discourse.llvm.org/t/rfc-strengthen-relaxed-atomics-implementation-behind-mstrict-rlx-atomics-flag/74473?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
