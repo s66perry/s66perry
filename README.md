@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM IR generation error](https://discourse.llvm.org/t/llvm-ir-generation-error/75891#post_1)
+- [Proposing llvm.gpu intrinsics](https://discourse.llvm.org/t/proposing-llvm-gpu-intrinsics/75374#post_9)
 - [Github links within pushed commits](https://discourse.llvm.org/t/github-links-within-pushed-commits/75863#post_5)
 - [Need usage help w/ new pass manager for opt analysis Natural Loop information](https://discourse.llvm.org/t/need-usage-help-w-new-pass-manager-for-opt-analysis-natural-loop-information/75874#post_4)
 - [Need usage help w/ new pass manager for opt analysis Natural Loop information](https://discourse.llvm.org/t/need-usage-help-w-new-pass-manager-for-opt-analysis-natural-loop-information/75874#post_3)
-- [Question about the Pattern table gen](https://discourse.llvm.org/t/question-about-the-pattern-table-gen/75882#post_9)
-- [Need usage help w/ new pass manager for opt analysis Natural Loop information](https://discourse.llvm.org/t/need-usage-help-w-new-pass-manager-for-opt-analysis-natural-loop-information/75874#post_2)
 <!-- DISCOURSE-LLVM:END -->
