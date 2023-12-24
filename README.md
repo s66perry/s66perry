@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Will clang do some optimization when evaluate the constexpr expression for faster compile speed?](https://discourse.llvm.org/t/will-clang-do-some-optimization-when-evaluate-the-constexpr-expression-for-faster-compile-speed/75900#post_3)
 - [Will clang do some optimization when evaluate the constexpr expression for faster compile speed?](https://discourse.llvm.org/t/will-clang-do-some-optimization-when-evaluate-the-constexpr-expression-for-faster-compile-speed/75900#post_2)
 - [[RFC] prestacked annotation to solve risc-v interrupt stacking mess](https://discourse.llvm.org/t/rfc-prestacked-annotation-to-solve-risc-v-interrupt-stacking-mess/74120#post_5)
 - [Will clang do some optimization when evaluate the constexpr expression for faster compile speed?](https://discourse.llvm.org/t/will-clang-do-some-optimization-when-evaluate-the-constexpr-expression-for-faster-compile-speed/75900#post_1)
 - [Sparse tensor lowering to GPU](https://discourse.llvm.org/t/sparse-tensor-lowering-to-gpu/69316#post_5)
-- [How to export submodule ports in HW Module using `arcilator --state-file`](https://discourse.llvm.org/t/how-to-export-submodule-ports-in-hw-module-using-arcilator-state-file/75852#post_4)
 <!-- DISCOURSE-LLVM:END -->
