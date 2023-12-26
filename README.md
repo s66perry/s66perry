@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Get the number of template parameters of a un-speciliazed function template declaration](https://discourse.llvm.org/t/get-the-number-of-template-parameters-of-a-un-speciliazed-function-template-declaration/75834#post_2)
+- [Building CIRCT](https://discourse.llvm.org/t/building-circt/75916#post_3)
 - [Add pass to clang pipeline &lpar;Solved&rpar;](https://discourse.llvm.org/t/add-pass-to-clang-pipeline-solved/75909#post_3)
 - [What&#39;s the recommended way to use prop-dict?](https://discourse.llvm.org/t/whats-the-recommended-way-to-use-prop-dict/75921#post_1)
 - [Building CIRCT](https://discourse.llvm.org/t/building-circt/75916#post_2)
-- [Get the Boolean expression of enable_if from QualType](https://discourse.llvm.org/t/get-the-boolean-expression-of-enable-if-from-qualtype/75920#post_1)
-- [LLVM `tailcc` calling convention and stack unwinding](https://discourse.llvm.org/t/llvm-tailcc-calling-convention-and-stack-unwinding/75919#post_1)
 <!-- DISCOURSE-LLVM:END -->
