@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Undefined behavior in IntrinsicInst?](https://discourse.llvm.org/t/undefined-behavior-in-intrinsicinst/75925#post_1)
+- [Couldn&#39;t find class &#39;Typedef&#39; in TableGen](https://discourse.llvm.org/t/couldnt-find-class-typedef-in-tablegen/75923#post_1)
 - [Get the Boolean expression of enable_if from QualType](https://discourse.llvm.org/t/get-the-boolean-expression-of-enable-if-from-qualtype/75920#post_2)
 - [Get the number of template parameters of a un-speciliazed function template declaration](https://discourse.llvm.org/t/get-the-number-of-template-parameters-of-a-un-speciliazed-function-template-declaration/75834#post_2)
 - [Building CIRCT](https://discourse.llvm.org/t/building-circt/75916#post_3)
-- [Add pass to clang pipeline &lpar;Solved&rpar;](https://discourse.llvm.org/t/add-pass-to-clang-pipeline-solved/75909#post_3)
-- [What&#39;s the recommended way to use prop-dict?](https://discourse.llvm.org/t/whats-the-recommended-way-to-use-prop-dict/75921#post_1)
 <!-- DISCOURSE-LLVM:END -->
