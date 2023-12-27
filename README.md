@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_10)
+- [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_9)
+- [Couldn&#39;t find class &#39;Typedef&#39; in TableGen](https://discourse.llvm.org/t/couldnt-find-class-typedef-in-tablegen/75923#post_2)
 - [Why does LLVM_OPTIMIZED_TABLEGEN=ON not work?](https://discourse.llvm.org/t/why-does-llvm-optimized-tablegen-on-not-work/75930#post_3)
 - [[InstrProfiling] Lightweight Instrumentation Problems](https://discourse.llvm.org/t/instrprofiling-lightweight-instrumentation-problems/75849#post_8)
-- [Why does LLVM_OPTIMIZED_TABLEGEN=ON not work?](https://discourse.llvm.org/t/why-does-llvm-optimized-tablegen-on-not-work/75930#post_2)
-- [Why does LLVM_OPTIMIZED_TABLEGEN=ON not work?](https://discourse.llvm.org/t/why-does-llvm-optimized-tablegen-on-not-work/75930#post_1)
-- [Get the Boolean expression of enable_if from QualType](https://discourse.llvm.org/t/get-the-boolean-expression-of-enable-if-from-qualtype/75920#post_3)
 <!-- DISCOURSE-LLVM:END -->
