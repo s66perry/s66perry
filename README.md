@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Add pass to clang pipeline &lpar;Solved&rpar;](https://discourse.llvm.org/t/add-pass-to-clang-pipeline-solved/75909#post_4)
+- [Need usage help w/ new pass manager for opt analysis Natural Loop information](https://discourse.llvm.org/t/need-usage-help-w-new-pass-manager-for-opt-analysis-natural-loop-information/75874#post_7)
 - [Need usage help w/ new pass manager for opt analysis Natural Loop information](https://discourse.llvm.org/t/need-usage-help-w-new-pass-manager-for-opt-analysis-natural-loop-information/75874#post_6)
 - [Restricting all optimizations to frontend](https://discourse.llvm.org/t/restricting-all-optimizations-to-frontend/75932#post_3)
 - [Need usage help w/ new pass manager for opt analysis Natural Loop information](https://discourse.llvm.org/t/need-usage-help-w-new-pass-manager-for-opt-analysis-natural-loop-information/75874#post_5)
-- [[PGO] Are the `__llvm_profile_` functions stable C APIs across LLVM releases?](https://discourse.llvm.org/t/pgo-are-the-llvm-profile-functions-stable-c-apis-across-llvm-releases/75832#post_9)
-- [Can&#39;t access https://reviews.llvm.org/](https://discourse.llvm.org/t/cant-access-https-reviews-llvm-org/75905#post_4)
 <!-- DISCOURSE-LLVM:END -->
