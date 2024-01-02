@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_5)
-- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_9)
-- [Sparse tensor lowering to GPU](https://discourse.llvm.org/t/sparse-tensor-lowering-to-gpu/69316#post_6)
-- [LLVM `tailcc` calling convention and stack unwinding](https://discourse.llvm.org/t/llvm-tailcc-calling-convention-and-stack-unwinding/75919#post_2)
-- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_8)
+- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_12)
+- [Some reviews on reviews.llvm.org seem to be missing from the static archive](https://discourse.llvm.org/t/some-reviews-on-reviews-llvm-org-seem-to-be-missing-from-the-static-archive/76001#post_2)
+- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_11)
+- [Summer Internship opportunities](https://discourse.llvm.org/t/summer-internship-opportunities/75989#post_2)
+- [Caching and parallel compilation](https://discourse.llvm.org/t/caching-and-parallel-compilation/67907#post_10)
 <!-- DISCOURSE-LLVM:END -->
