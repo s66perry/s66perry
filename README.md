@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Difficulty in reading MLIR files and generated C++ files](https://discourse.llvm.org/t/difficulty-in-reading-mlir-files-and-generated-c-files/75912#post_3)
+- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=4#post_63)
+- [Inspecting mlir dataflow analysis](https://discourse.llvm.org/t/inspecting-mlir-dataflow-analysis/75854#post_7)
 - [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=4#post_62)
 - [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=4#post_61)
-- [[analyzer] Request for Guidance on Modeling Out Parameter Functions in Clang Static Analysis](https://discourse.llvm.org/t/analyzer-request-for-guidance-on-modeling-out-parameter-functions-in-clang-static-analysis/75953#post_3)
-- [2024 Euro LLVM Foundation Student Travel Grants - Applications open](https://discourse.llvm.org/t/2024-euro-llvm-foundation-student-travel-grants-applications-open/75998#post_1)
-- [LLVM Weekly - #522, January 1st 2024](https://discourse.llvm.org/t/llvm-weekly-522-january-1st-2024/75996#post_2)
 <!-- DISCOURSE-LLVM:END -->
