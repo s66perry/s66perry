@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `llvm-project/offload` roadmap](https://discourse.llvm.org/t/rfc-llvm-project-offload-roadmap/75611#post_13)
-- [RFC: adding `__builtin_verbose_trap&lpar;string-literal&rpar;`](https://discourse.llvm.org/t/rfc-adding-builtin-verbose-trap-string-literal/75845#post_3)
-- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170?page=2#post_23)
-- [Can&#39;t access https://reviews.llvm.org/](https://discourse.llvm.org/t/cant-access-https-reviews-llvm-org/75905#post_9)
-- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253#post_17)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142#post_18)
+- [[RFC] Integer overflow flags support in `arith` dialect](https://discourse.llvm.org/t/rfc-integer-overflow-flags-support-in-arith-dialect/76025#post_1)
+- [CANCELLED RISC-V LLVM sync-up call December 21st 2023](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-december-21st-2023/75794#post_5)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_6)
+- [Can&#39;t access https://reviews.llvm.org/](https://discourse.llvm.org/t/cant-access-https-reviews-llvm-org/75905#post_10)
 <!-- DISCOURSE-LLVM:END -->
