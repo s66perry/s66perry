@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How is thinlto error detected in build system?](https://discourse.llvm.org/t/how-is-thinlto-error-detected-in-build-system/61740#post_5)
+- [Some reviews on reviews.llvm.org seem to be missing from the static archive](https://discourse.llvm.org/t/some-reviews-on-reviews-llvm-org-seem-to-be-missing-from-the-static-archive/76001#post_3)
+- [RISC-V calling convention implementation in clang: tp and gp registers](https://discourse.llvm.org/t/risc-v-calling-convention-implementation-in-clang-tp-and-gp-registers/75757#post_4)
 - [[RFC] Multilib](https://discourse.llvm.org/t/rfc-multilib/67494?page=2#post_36)
 - [LLVM Test Error: Could not turn &#39;&#39; into Itanium ABI triple](https://discourse.llvm.org/t/llvm-test-error-could-not-turn-into-itanium-abi-triple/76013#post_2)
-- [Direct lldb-dap output to somewhere other than REPL](https://discourse.llvm.org/t/direct-lldb-dap-output-to-somewhere-other-than-repl/75949#post_2)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=4#post_65)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=4#post_64)
 <!-- DISCOURSE-LLVM:END -->
