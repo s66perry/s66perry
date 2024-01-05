@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support for plugins for clang-tidy on Windows](https://discourse.llvm.org/t/support-for-plugins-for-clang-tidy-on-windows/76080#post_1)
+- [Cross-compiling openmp runtime -- CMake bug?](https://discourse.llvm.org/t/cross-compiling-openmp-runtime-cmake-bug/76062#post_4)
+- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170?page=2#post_28)
 - [How to understand the restriction of llvm::isValidAssumeForContext&lpar;&rpar;](https://discourse.llvm.org/t/how-to-understand-the-restriction-of-llvm-isvalidassumeforcontext/76078#post_1)
 - [clang::html::HighlightMacros&lpar;&rpar; causing ICE? &lpar;&quot;Top level include stack isn&#39;t our primary lexer?&quot;&rpar;](https://discourse.llvm.org/t/clang-highlightmacros-causing-ice-top-level-include-stack-isnt-our-primary-lexer/76077#post_1)
-- [[RFC] Improve Dwarf 5 .debug_names Type Lookup/Parsing Speed](https://discourse.llvm.org/t/rfc-improve-dwarf-5-debug-names-type-lookup-parsing-speed/74151?page=3#post_45)
-- [Please clarify KMP_TASK_STEALING_CONSTRAINT](https://discourse.llvm.org/t/please-clarify-kmp-task-stealing-constraint/76031#post_4)
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=9#post_171)
 <!-- DISCOURSE-LLVM:END -->
