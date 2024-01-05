@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to lower tosa.conv2d to linalg.conv_2d_nchw_fchw?](https://discourse.llvm.org/t/how-to-lower-tosa-conv2d-to-linalg-conv-2d-nchw-fchw/76044#post_3)
 - [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=9#post_167)
 - [Please clarify KMP_TASK_STEALING_CONSTRAINT](https://discourse.llvm.org/t/please-clarify-kmp-task-stealing-constraint/76031#post_3)
 - [[RFC] Dynamic Type Profiling and Optimizations in LLVM](https://discourse.llvm.org/t/rfc-dynamic-type-profiling-and-optimizations-in-llvm/74600#post_9)
 - [OpenSSF Best Practices](https://discourse.llvm.org/t/openssf-best-practices/76054#post_2)
-- [[RFC] Lifetime bound check for parameters of coroutines](https://discourse.llvm.org/t/rfc-lifetime-bound-check-for-parameters-of-coroutines/74253?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
