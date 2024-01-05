@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Support for plugins for clang-tidy on Windows](https://discourse.llvm.org/t/support-for-plugins-for-clang-tidy-on-windows/76080#post_1)
-- [Cross-compiling openmp runtime -- CMake bug?](https://discourse.llvm.org/t/cross-compiling-openmp-runtime-cmake-bug/76062#post_4)
-- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170?page=2#post_28)
-- [How to understand the restriction of llvm::isValidAssumeForContext&lpar;&rpar;](https://discourse.llvm.org/t/how-to-understand-the-restriction-of-llvm-isvalidassumeforcontext/76078#post_1)
-- [clang::html::HighlightMacros&lpar;&rpar; causing ICE? &lpar;&quot;Top level include stack isn&#39;t our primary lexer?&quot;&rpar;](https://discourse.llvm.org/t/clang-highlightmacros-causing-ice-top-level-include-stack-isnt-our-primary-lexer/76077#post_1)
+- [[RFC] `llvm-project/offload` roadmap](https://discourse.llvm.org/t/rfc-llvm-project-offload-roadmap/75611#post_15)
+- [[RFC] Dynamic Type Profiling and Optimizations in LLVM](https://discourse.llvm.org/t/rfc-dynamic-type-profiling-and-optimizations-in-llvm/74600#post_11)
+- [Losing LLVM IR function verification with opaque pointers](https://discourse.llvm.org/t/losing-llvm-ir-function-verification-with-opaque-pointers/75868#post_4)
+- [[RFC] Dynamic Type Profiling and Optimizations in LLVM](https://discourse.llvm.org/t/rfc-dynamic-type-profiling-and-optimizations-in-llvm/74600#post_10)
+- [Losing LLVM IR function verification with opaque pointers](https://discourse.llvm.org/t/losing-llvm-ir-function-verification-with-opaque-pointers/75868#post_3)
 <!-- DISCOURSE-LLVM:END -->
