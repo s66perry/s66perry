@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Some reviews on reviews.llvm.org seem to be missing from the static archive](https://discourse.llvm.org/t/some-reviews-on-reviews-llvm-org-seem-to-be-missing-from-the-static-archive/76001#post_4)
 - [[RFC] `llvm-project/offload` roadmap](https://discourse.llvm.org/t/rfc-llvm-project-offload-roadmap/75611#post_15)
 - [[RFC] Dynamic Type Profiling and Optimizations in LLVM](https://discourse.llvm.org/t/rfc-dynamic-type-profiling-and-optimizations-in-llvm/74600#post_11)
 - [Losing LLVM IR function verification with opaque pointers](https://discourse.llvm.org/t/losing-llvm-ir-function-verification-with-opaque-pointers/75868#post_4)
 - [[RFC] Dynamic Type Profiling and Optimizations in LLVM](https://discourse.llvm.org/t/rfc-dynamic-type-profiling-and-optimizations-in-llvm/74600#post_10)
-- [Losing LLVM IR function verification with opaque pointers](https://discourse.llvm.org/t/losing-llvm-ir-function-verification-with-opaque-pointers/75868#post_3)
 <!-- DISCOURSE-LLVM:END -->
