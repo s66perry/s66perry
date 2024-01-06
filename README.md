@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Will clang frontend analyze the purity of function base on source information？](https://discourse.llvm.org/t/will-clang-frontend-analyze-the-purity-of-function-base-on-source-information/76088#post_1)
+- [Need Guidence in how can i add new target support in LLVM MCA](https://discourse.llvm.org/t/need-guidence-in-how-can-i-add-new-target-support-in-llvm-mca/76087#post_1)
 - [128bit floating-point operations in x86 machines](https://discourse.llvm.org/t/128bit-floating-point-operations-in-x86-machines/76086#post_1)
 - [How to determine if a long is 32 or 64 bits in a Clang Tool](https://discourse.llvm.org/t/how-to-determine-if-a-long-is-32-or-64-bits-in-a-clang-tool/76060#post_5)
 - [How to determine if a long is 32 or 64 bits in a Clang Tool](https://discourse.llvm.org/t/how-to-determine-if-a-long-is-32-or-64-bits-in-a-clang-tool/76060#post_4)
-- [How to determine if a long is 32 or 64 bits in a Clang Tool](https://discourse.llvm.org/t/how-to-determine-if-a-long-is-32-or-64-bits-in-a-clang-tool/76060#post_3)
-- [Question about memref.reinterpret_cast&#39;s offset](https://discourse.llvm.org/t/question-about-memref-reinterpret-casts-offset/76082#post_1)
 <!-- DISCOURSE-LLVM:END -->
