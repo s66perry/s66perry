@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Test Error: Could not turn &#39;&#39; into Itanium ABI triple](https://discourse.llvm.org/t/llvm-test-error-could-not-turn-into-itanium-abi-triple/76013#post_6)
+- [About the DRR&#39;s variadic operands, it will report below error:](https://discourse.llvm.org/t/about-the-drrs-variadic-operands-it-will-report-below-error/76112#post_1)
 - [Is there a dependency/package manager for clang? If not, will there be?](https://discourse.llvm.org/t/is-there-a-dependency-package-manager-for-clang-if-not-will-there-be/76111#post_1)
 - [[RFC] Integer overflow flags support in `arith` dialect](https://discourse.llvm.org/t/rfc-integer-overflow-flags-support-in-arith-dialect/76025#post_9)
 - [LLVM fails to build due to missing .inc files](https://discourse.llvm.org/t/llvm-fails-to-build-due-to-missing-inc-files/76109#post_5)
-- [LLVM fails to build due to missing .inc files](https://discourse.llvm.org/t/llvm-fails-to-build-due-to-missing-inc-files/76109#post_4)
-- [LLVM fails to build due to missing .inc files](https://discourse.llvm.org/t/llvm-fails-to-build-due-to-missing-inc-files/76109#post_3)
 <!-- DISCOURSE-LLVM:END -->
