@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM fails to build due to missing .inc files](https://discourse.llvm.org/t/llvm-fails-to-build-due-to-missing-inc-files/76109#post_4)
 - [LLVM fails to build due to missing .inc files](https://discourse.llvm.org/t/llvm-fails-to-build-due-to-missing-inc-files/76109#post_3)
 - [LLVM fails to build due to missing .inc files](https://discourse.llvm.org/t/llvm-fails-to-build-due-to-missing-inc-files/76109#post_2)
 - [LLVM fails to build due to missing .inc files](https://discourse.llvm.org/t/llvm-fails-to-build-due-to-missing-inc-files/76109#post_1)
 - [Missing views::enumerate](https://discourse.llvm.org/t/missing-views-enumerate/76107#post_3)
-- [Missing views::enumerate](https://discourse.llvm.org/t/missing-views-enumerate/76107#post_2)
 <!-- DISCOURSE-LLVM:END -->
