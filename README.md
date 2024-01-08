@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=2#post_22)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=2#post_21)
-- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883#post_4)
-- [128bit floating-point operations in x86 machines](https://discourse.llvm.org/t/128bit-floating-point-operations-in-x86-machines/76086#post_2)
-- [Is there a dependency/package manager for clang? If not, will there be?](https://discourse.llvm.org/t/is-there-a-dependency-package-manager-for-clang-if-not-will-there-be/76111#post_3)
+- [AArch64 LLVM Sync-up Call 9 January 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-9-january-2024/76118#post_3)
+- [Will clang frontend analyze the purity of function base on source information？](https://discourse.llvm.org/t/will-clang-frontend-analyze-the-purity-of-function-base-on-source-information/76088#post_5)
+- [Plumbing spirv lowering path](https://discourse.llvm.org/t/plumbing-spirv-lowering-path/76131#post_2)
+- [Will clang frontend analyze the purity of function base on source information？](https://discourse.llvm.org/t/will-clang-frontend-analyze-the-purity-of-function-base-on-source-information/76088#post_4)
+- [Plumbing spirv lowering path](https://discourse.llvm.org/t/plumbing-spirv-lowering-path/76131#post_1)
 <!-- DISCOURSE-LLVM:END -->
