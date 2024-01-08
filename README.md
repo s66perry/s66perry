@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Need Guidence in how can i add new target support in LLVM MCA](https://discourse.llvm.org/t/need-guidence-in-how-can-i-add-new-target-support-in-llvm-mca/76087#post_3)
-- [Generate unrealized_conversion_cast op when convert from memref to spirv](https://discourse.llvm.org/t/generate-unrealized-conversion-cast-op-when-convert-from-memref-to-spirv/76066#post_3)
-- [Is there a dependency/package manager for clang? If not, will there be?](https://discourse.llvm.org/t/is-there-a-dependency-package-manager-for-clang-if-not-will-there-be/76111#post_2)
-- [Fortran common block max size limitations](https://discourse.llvm.org/t/fortran-common-block-max-size-limitations/76115#post_1)
-- [&lpar;Beginner&rpar; OpenMP header not found &lpar;Clang/LLVM JIT Compiler&rpar;](https://discourse.llvm.org/t/beginner-openmp-header-not-found-clang-llvm-jit-compiler/76114#post_1)
+- [Question about memref.reinterpret_cast&#39;s offset](https://discourse.llvm.org/t/question-about-memref-reinterpret-casts-offset/76082#post_2)
+- [AArch64 LLVM Sync-up Call 9 January 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-9-january-2024/76118#post_1)
+- [How to let higher version MLIR to be accepted by lower version MLIR parser?](https://discourse.llvm.org/t/how-to-let-higher-version-mlir-to-be-accepted-by-lower-version-mlir-parser/76117#post_2)
+- [Questions about valueBoundInterface](https://discourse.llvm.org/t/questions-about-valueboundinterface/76113#post_4)
+- [How to let higher version MLIR to be accepted by lower version MLIR parser?](https://discourse.llvm.org/t/how-to-let-higher-version-mlir-to-be-accepted-by-lower-version-mlir-parser/76117#post_1)
 <!-- DISCOURSE-LLVM:END -->
