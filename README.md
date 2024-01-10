@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Plumbing spirv lowering path](https://discourse.llvm.org/t/plumbing-spirv-lowering-path/76131#post_9)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_9)
+- [Plumbing spirv lowering path](https://discourse.llvm.org/t/plumbing-spirv-lowering-path/76131#post_8)
 - [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_8)
 - [Plumbing spirv lowering path](https://discourse.llvm.org/t/plumbing-spirv-lowering-path/76131#post_7)
-- [Plumbing spirv lowering path](https://discourse.llvm.org/t/plumbing-spirv-lowering-path/76131#post_6)
-- [Unifying clang flags/language opts for offloading languages](https://discourse.llvm.org/t/unifying-clang-flags-language-opts-for-offloading-languages/75719#post_14)
-- [Unifying clang flags/language opts for offloading languages](https://discourse.llvm.org/t/unifying-clang-flags-language-opts-for-offloading-languages/75719#post_13)
 <!-- DISCOURSE-LLVM:END -->
