@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD prefers system LLVM libraries to user provided ones on Windows](https://discourse.llvm.org/t/lld-prefers-system-llvm-libraries-to-user-provided-ones-on-windows/76148#post_9)
+- [LLD prefers system LLVM libraries to user provided ones on Windows](https://discourse.llvm.org/t/lld-prefers-system-llvm-libraries-to-user-provided-ones-on-windows/76148#post_8)
+- [Plumbing spirv lowering path](https://discourse.llvm.org/t/plumbing-spirv-lowering-path/76131#post_5)
+- [Bridging C++ std::vector to my language](https://discourse.llvm.org/t/bridging-c-std-vector-to-my-language/76165#post_1)
 - [LLD prefers system LLVM libraries to user provided ones on Windows](https://discourse.llvm.org/t/lld-prefers-system-llvm-libraries-to-user-provided-ones-on-windows/76148#post_7)
-- [Clang experimental pattern matching](https://discourse.llvm.org/t/clang-experimental-pattern-matching/76164#post_1)
-- [LLD prefers system LLVM libraries to user provided ones on Windows](https://discourse.llvm.org/t/lld-prefers-system-llvm-libraries-to-user-provided-ones-on-windows/76148#post_6)
-- [Restricting all optimizations to frontend](https://discourse.llvm.org/t/restricting-all-optimizations-to-frontend/75932#post_5)
-- [HW Address Sanitizer on arm64-apple-darwin](https://discourse.llvm.org/t/hw-address-sanitizer-on-arm64-apple-darwin/76153#post_5)
 <!-- DISCOURSE-LLVM:END -->
