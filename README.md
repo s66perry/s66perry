@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Ask LLVM] Who’s Hiring? &lpar;Jan ‘24&rpar;](https://discourse.llvm.org/t/ask-llvm-who-s-hiring-jan-24/76198#post_1)
+- [LLD prefers system LLVM libraries to user provided ones on Windows](https://discourse.llvm.org/t/lld-prefers-system-llvm-libraries-to-user-provided-ones-on-windows/76148#post_17)
+- [LLD prefers system LLVM libraries to user provided ones on Windows](https://discourse.llvm.org/t/lld-prefers-system-llvm-libraries-to-user-provided-ones-on-windows/76148#post_16)
+- [[RFC][C++03 extension] Allow consecutive &#39;&gt;&#39; in template code for known-bad code](https://discourse.llvm.org/t/rfc-c-03-extension-allow-consecutive-in-template-code-for-known-bad-code/75626#post_14)
 - [Decoding Instructions with &quot;Fake&quot; Operands](https://discourse.llvm.org/t/decoding-instructions-with-fake-operands/76197#post_5)
-- [[LLD] Linker Improvements for Embedded](https://discourse.llvm.org/t/lld-linker-improvements-for-embedded/68129#post_17)
-- [Decoding Instructions with &quot;Fake&quot; Operands](https://discourse.llvm.org/t/decoding-instructions-with-fake-operands/76197#post_4)
-- [[RFC][C++03 extension] Allow consecutive &#39;&gt;&#39; in template code for known-bad code](https://discourse.llvm.org/t/rfc-c-03-extension-allow-consecutive-in-template-code-for-known-bad-code/75626#post_13)
-- [[RFC][C++03 extension] Allow consecutive &#39;&gt;&#39; in template code for known-bad code](https://discourse.llvm.org/t/rfc-c-03-extension-allow-consecutive-in-template-code-for-known-bad-code/75626#post_12)
 <!-- DISCOURSE-LLVM:END -->
