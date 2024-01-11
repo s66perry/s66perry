@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_18)
-- [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_3)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_19)
-- [How to make the output of ast-dump without color?](https://discourse.llvm.org/t/how-to-make-the-output-of-ast-dump-without-color/76187#post_4)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_18)
+- [ARM Neon &amp; SVE MLIR Dialects missing features](https://discourse.llvm.org/t/arm-neon-sve-mlir-dialects-missing-features/76173#post_2)
+- [Avoid explicitly declare OCL builtin match function](https://discourse.llvm.org/t/avoid-explicitly-declare-ocl-builtin-match-function/76185#post_2)
+- [Copying Examples Project: HowToUseJIT crashes](https://discourse.llvm.org/t/copying-examples-project-howtousejit-crashes/76195#post_1)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_19)
+- [How can one run tests on a different architecture?](https://discourse.llvm.org/t/how-can-one-run-tests-on-a-different-architecture/76194#post_1)
 <!-- DISCOURSE-LLVM:END -->
