@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLD prefers system LLVM libraries to user provided ones on Windows](https://discourse.llvm.org/t/lld-prefers-system-llvm-libraries-to-user-provided-ones-on-windows/76148#post_15)
-- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_8)
-- [Will clang frontend analyze the purity of function base on source information？](https://discourse.llvm.org/t/will-clang-frontend-analyze-the-purity-of-function-base-on-source-information/76088#post_8)
-- [ASAN link error on Windows](https://discourse.llvm.org/t/asan-link-error-on-windows/76193#post_1)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734?page=6#post_101)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833#post_18)
+- [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_3)
+- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_19)
+- [How to make the output of ast-dump without color?](https://discourse.llvm.org/t/how-to-make-the-output-of-ast-dump-without-color/76187#post_4)
+- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091#post_18)
 <!-- DISCOURSE-LLVM:END -->
