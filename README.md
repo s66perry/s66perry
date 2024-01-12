@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Generate unrealized_conversion_cast op when convert from memref to spirv](https://discourse.llvm.org/t/generate-unrealized-conversion-cast-op-when-convert-from-memref-to-spirv/76066#post_4)
+- [[RFC] Hardening in libc++](https://discourse.llvm.org/t/rfc-hardening-in-libc/73925?page=2#post_26)
+- [Sharing symbols between language servers](https://discourse.llvm.org/t/sharing-symbols-between-language-servers/76126#post_3)
+- [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814?page=2#post_27)
 - [CMPLX macro](https://discourse.llvm.org/t/cmplx-macro/76209#post_1)
-- [Should LLVM have a dedicated implementing language?](https://discourse.llvm.org/t/should-llvm-have-a-dedicated-implementing-language/76203#post_2)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_45)
-- [How can one run tests on a different architecture?](https://discourse.llvm.org/t/how-can-one-run-tests-on-a-different-architecture/76194#post_2)
-- [Which group should I use for a new option in options.td?](https://discourse.llvm.org/t/which-group-should-i-use-for-a-new-option-in-options-td/76204#post_1)
 <!-- DISCOURSE-LLVM:END -->
