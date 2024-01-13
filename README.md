@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR : PatternRewriter for a pattern](https://discourse.llvm.org/t/mlir-patternrewriter-for-a-pattern/76231#post_1)
 - [RFC: adding `__builtin_verbose_trap&lpar;string-literal&rpar;`](https://discourse.llvm.org/t/rfc-adding-builtin-verbose-trap-string-literal/75845#post_4)
 - [Creating MBB for call instruction](https://discourse.llvm.org/t/creating-mbb-for-call-instruction/76224#post_8)
 - [Writing an LLVM IR target &lpar;so, the target is LLVM IR again&rpar;. What is the best way?](https://discourse.llvm.org/t/writing-an-llvm-ir-target-so-the-target-is-llvm-ir-again-what-is-the-best-way/76229#post_8)
 - [Writing an LLVM IR target &lpar;so, the target is LLVM IR again&rpar;. What is the best way?](https://discourse.llvm.org/t/writing-an-llvm-ir-target-so-the-target-is-llvm-ir-again-what-is-the-best-way/76229#post_7)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
