@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Linking: order of table entries?](https://discourse.llvm.org/t/linking-order-of-table-entries/76242#post_1)
+- [[Ask LLVM] Who’s Hiring? &lpar;Jan ‘24&rpar;](https://discourse.llvm.org/t/ask-llvm-who-s-hiring-jan-24/76198#post_12)
 - [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134?page=2#post_22)
 - [Issues with implementing GlobalISel on DSP chips. [GISel/InstructionSelect] Assertion: Register class not set, wrong accessor?](https://discourse.llvm.org/t/issues-with-implementing-globalisel-on-dsp-chips-gisel-instructionselect-assertion-register-class-not-set-wrong-accessor/76234#post_2)
 - [Issues with implementing GlobalISel on DSP chips. [GISel/InstructionSelect] Assertion: Register class not set, wrong accessor?](https://discourse.llvm.org/t/issues-with-implementing-globalisel-on-dsp-chips-gisel-instructionselect-assertion-register-class-not-set-wrong-accessor/76234#post_1)
-- [Memory barrier problem](https://discourse.llvm.org/t/memory-barrier-problem/57493?page=2#post_28)
-- [MLIR : PatternRewriter for a pattern](https://discourse.llvm.org/t/mlir-patternrewriter-for-a-pattern/76231#post_1)
 <!-- DISCOURSE-LLVM:END -->
