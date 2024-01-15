@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571#post_13)
+- [Type annotations for libclang, Python bindings](https://discourse.llvm.org/t/type-annotations-for-libclang-python-bindings/70644#post_14)
+- [EnzymeCon 2024 is 3/25-3/27 &lpar;talk deadline 1/20&rpar;](https://discourse.llvm.org/t/enzymecon-2024-is-3-25-3-27-talk-deadline-1-20/75976#post_2)
 - [Type annotations for libclang, Python bindings](https://discourse.llvm.org/t/type-annotations-for-libclang-python-bindings/70644#post_13)
 - [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134?page=2#post_23)
-- [Linking: order of table entries?](https://discourse.llvm.org/t/linking-order-of-table-entries/76242#post_1)
-- [[Ask LLVM] Who’s Hiring? &lpar;Jan ‘24&rpar;](https://discourse.llvm.org/t/ask-llvm-who-s-hiring-jan-24/76198#post_12)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
