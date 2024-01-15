@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_13)
-- [FIRParser &#39;Probe&#39;](https://discourse.llvm.org/t/firparser-probe/76263#post_3)
-- [Clang-cl.exe compiler flags](https://discourse.llvm.org/t/clang-cl-exe-compiler-flags/76265#post_2)
-- [FIRParser &#39;Probe&#39;](https://discourse.llvm.org/t/firparser-probe/76263#post_2)
-- [Strange ISel Bug](https://discourse.llvm.org/t/strange-isel-bug/75030#post_7)
+- [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_5)
+- [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_4)
+- [FIRParser &#39;Probe&#39;](https://discourse.llvm.org/t/firparser-probe/76263#post_7)
+- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_14)
+- [FIRParser &#39;Probe&#39;](https://discourse.llvm.org/t/firparser-probe/76263#post_6)
 <!-- DISCOURSE-LLVM:END -->
