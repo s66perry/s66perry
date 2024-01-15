@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Addition of GPU conditional execution op](https://discourse.llvm.org/t/rfc-addition-of-gpu-conditional-execution-op/76270#post_2)
-- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134?page=2#post_24)
-- [[RFC] Addition of GPU conditional execution op](https://discourse.llvm.org/t/rfc-addition-of-gpu-conditional-execution-op/76270#post_1)
-- [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_5)
-- [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_4)
+- [Crash in clang-cl; report to Microsoft or Clang/LLVM?](https://discourse.llvm.org/t/crash-in-clang-cl-report-to-microsoft-or-clang-llvm/76261#post_4)
+- [[RFC] Addition of GPU conditional execution op](https://discourse.llvm.org/t/rfc-addition-of-gpu-conditional-execution-op/76270#post_4)
+- [How to Support F8E4M3FType in Quant Dialect uniformQuantizeType？](https://discourse.llvm.org/t/how-to-support-f8e4m3ftype-in-quant-dialect-uniformquantizetype/71952#post_6)
+- [[RFC] Implement `getauxval`](https://discourse.llvm.org/t/rfc-implement-getauxval/76271#post_1)
+- [[RFC] Addition of GPU conditional execution op](https://discourse.llvm.org/t/rfc-addition-of-gpu-conditional-execution-op/76270#post_3)
 <!-- DISCOURSE-LLVM:END -->
