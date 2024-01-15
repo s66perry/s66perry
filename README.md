@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Cannot dlsym symbols listed by llvm-nm on macos](https://discourse.llvm.org/t/cannot-dlsym-symbols-listed-by-llvm-nm-on-macos/76258#post_2)
-- [Cannot dlsym symbols listed by llvm-nm on macos](https://discourse.llvm.org/t/cannot-dlsym-symbols-listed-by-llvm-nm-on-macos/76258#post_1)
-- [ARM Neon &amp; SVE MLIR Dialects missing features](https://discourse.llvm.org/t/arm-neon-sve-mlir-dialects-missing-features/76173#post_4)
-- [Type annotations for libclang, Python bindings](https://discourse.llvm.org/t/type-annotations-for-libclang-python-bindings/70644#post_15)
-- [Any plan to fuse consumers?](https://discourse.llvm.org/t/any-plan-to-fuse-consumers/76250#post_2)
+- [How to Support F8E4M3FType in Quant Dialect uniformQuantizeType？](https://discourse.llvm.org/t/how-to-support-f8e4m3ftype-in-quant-dialect-uniformquantizetype/71952#post_5)
+- [Clang-cl.exe compiler flags](https://discourse.llvm.org/t/clang-cl-exe-compiler-flags/76265#post_1)
+- [FIRParser &#39;Probe&#39;](https://discourse.llvm.org/t/firparser-probe/76263#post_1)
+- [Crash in clang-cl; report to Microsoft or Clang/LLVM?](https://discourse.llvm.org/t/crash-in-clang-cl-report-to-microsoft-or-clang-llvm/76261#post_2)
+- [Crash in clang-cl; report to Microsoft or Clang/LLVM?](https://discourse.llvm.org/t/crash-in-clang-cl-report-to-microsoft-or-clang-llvm/76261#post_1)
 <!-- DISCOURSE-LLVM:END -->
