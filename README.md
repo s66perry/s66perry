@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Addition of GPU conditional execution op](https://discourse.llvm.org/t/rfc-addition-of-gpu-conditional-execution-op/76270#post_2)
+- [How to build clang and libc++ for macOS and iOS devices?](https://discourse.llvm.org/t/how-to-build-clang-and-libc-for-macos-and-ios-devices/70134?page=2#post_24)
+- [[RFC] Addition of GPU conditional execution op](https://discourse.llvm.org/t/rfc-addition-of-gpu-conditional-execution-op/76270#post_1)
 - [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_5)
 - [Eliminate needlessly complicated logic in BugReporterVisitors.cpp](https://discourse.llvm.org/t/eliminate-needlessly-complicated-logic-in-bugreportervisitors-cpp/76171#post_4)
-- [FIRParser &#39;Probe&#39;](https://discourse.llvm.org/t/firparser-probe/76263#post_7)
-- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_14)
-- [FIRParser &#39;Probe&#39;](https://discourse.llvm.org/t/firparser-probe/76263#post_6)
 <!-- DISCOURSE-LLVM:END -->
