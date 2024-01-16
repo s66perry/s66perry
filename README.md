@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=2#post_32)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=2#post_31)
-- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571#post_20)
-- [[RFC] Adding support for OpenMP GPU target offload](https://discourse.llvm.org/t/rfc-adding-support-for-openmp-gpu-target-offload/76312#post_1)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_6)
+- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571?page=2#post_22)
+- [[RFC] Upgrading LLVM&#39;s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvms-minimum-required-python-version/67571?page=2#post_21)
+- [Building a basic Pass &gt; opt fails with mismatch Producer and Reader](https://discourse.llvm.org/t/building-a-basic-pass-opt-fails-with-mismatch-producer-and-reader/76296#post_3)
+- [Clang-format or some other auto-format for .mlir files](https://discourse.llvm.org/t/clang-format-or-some-other-auto-format-for-mlir-files/75258?page=2#post_22)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=10#post_182)
 <!-- DISCOURSE-LLVM:END -->
