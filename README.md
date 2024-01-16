@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Building a basic Pass &gt; opt fails with mismatch Producer and Reader](https://discourse.llvm.org/t/building-a-basic-pass-opt-fails-with-mismatch-producer-and-reader/76296#post_1)
-- [Memref AtomicRMWOp enum doesn&#39;t include subtraction -- why?](https://discourse.llvm.org/t/memref-atomicrmwop-enum-doesnt-include-subtraction-why/76289#post_2)
-- [NATIVE component being built while cross compiling](https://discourse.llvm.org/t/native-component-being-built-while-cross-compiling/76294#post_1)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_16)
-- [[RFC] Tiling interface supports fuse consumer](https://discourse.llvm.org/t/rfc-tiling-interface-supports-fuse-consumer/76286#post_4)
+- [[ASAN] [RFC] For Asan instrumented global, emit two symbols, one with actual size and other with instrumented size](https://discourse.llvm.org/t/asan-rfc-for-asan-instrumented-global-emit-two-symbols-one-with-actual-size-and-other-with-instrumented-size/76298#post_1)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_18)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_17)
+- [NATIVE component being built while cross compiling](https://discourse.llvm.org/t/native-component-being-built-while-cross-compiling/76294#post_2)
+- [Great opportunities for LLVM compiler developers in Moscow, Russia!](https://discourse.llvm.org/t/great-opportunities-for-llvm-compiler-developers-in-moscow-russia/76297#post_1)
 <!-- DISCOURSE-LLVM:END -->
