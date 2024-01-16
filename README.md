@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-cl.exe compiler flags](https://discourse.llvm.org/t/clang-cl-exe-compiler-flags/76265#post_4)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_11)
-- [Inline Transformation and Dwarf Debugging Information&quot;](https://discourse.llvm.org/t/inline-transformation-and-dwarf-debugging-information/76287#post_2)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_10)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_9)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_15)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_14)
+- [[RFC] Tiling interface supports fuse consumer](https://discourse.llvm.org/t/rfc-tiling-interface-supports-fuse-consumer/76286#post_3)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290#post_13)
+- [[RFC] Tiling interface supports fuse consumer](https://discourse.llvm.org/t/rfc-tiling-interface-supports-fuse-consumer/76286#post_2)
 <!-- DISCOURSE-LLVM:END -->
