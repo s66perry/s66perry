@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735#post_17)
-- [Clang-cl.exe compiler flags](https://discourse.llvm.org/t/clang-cl-exe-compiler-flags/76265#post_5)
-- [I8 value range and integer promotion](https://discourse.llvm.org/t/i8-value-range-and-integer-promotion/76329#post_4)
-- [I8 value range and integer promotion](https://discourse.llvm.org/t/i8-value-range-and-integer-promotion/76329#post_3)
-- [[RFC] Adding support for OpenMP GPU target offload](https://discourse.llvm.org/t/rfc-adding-support-for-openmp-gpu-target-offload/76312#post_7)
+- [Reducing register spills if function has lots of temporaries around](https://discourse.llvm.org/t/reducing-register-spills-if-function-has-lots-of-temporaries-around/76331#post_2)
+- [Building a basic Pass &gt; opt fails with mismatch Producer and Reader](https://discourse.llvm.org/t/building-a-basic-pass-opt-fails-with-mismatch-producer-and-reader/76296#post_4)
+- [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_14)
+- [Inquiry regarding accurate calculation of maximum constant backedge count in SCEV](https://discourse.llvm.org/t/inquiry-regarding-accurate-calculation-of-maximum-constant-backedge-count-in-scev/74682#post_4)
+- [I8 value range and integer promotion](https://discourse.llvm.org/t/i8-value-range-and-integer-promotion/76329#post_5)
 <!-- DISCOURSE-LLVM:END -->
