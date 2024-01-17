@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=3#post_42)
-- [Program-wide dominator tree?](https://discourse.llvm.org/t/program-wide-dominator-tree/76324#post_3)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=3#post_41)
-- [Using Tensor `Encoding` attribute](https://discourse.llvm.org/t/using-tensor-encoding-attribute/69142#post_5)
-- [Program-wide dominator tree?](https://discourse.llvm.org/t/program-wide-dominator-tree/76324#post_2)
+- [Building a basic Pass &gt; opt fails with mismatch Producer and Reader](https://discourse.llvm.org/t/building-a-basic-pass-opt-fails-with-mismatch-producer-and-reader/76296#post_7)
+- [3D block sparse tensor encoding](https://discourse.llvm.org/t/3d-block-sparse-tensor-encoding/76145#post_3)
+- [Building a basic Pass &gt; opt fails with mismatch Producer and Reader](https://discourse.llvm.org/t/building-a-basic-pass-opt-fails-with-mismatch-producer-and-reader/76296#post_6)
+- [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_15)
+- [[RFC] Introduce elementwise apply function](https://discourse.llvm.org/t/rfc-introduce-elementwise-apply-function/72814?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
