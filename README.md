@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Reducing register spills if function has lots of temporaries around](https://discourse.llvm.org/t/reducing-register-spills-if-function-has-lots-of-temporaries-around/76331#post_2)
-- [Building a basic Pass &gt; opt fails with mismatch Producer and Reader](https://discourse.llvm.org/t/building-a-basic-pass-opt-fails-with-mismatch-producer-and-reader/76296#post_4)
-- [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_14)
-- [Inquiry regarding accurate calculation of maximum constant backedge count in SCEV](https://discourse.llvm.org/t/inquiry-regarding-accurate-calculation-of-maximum-constant-backedge-count-in-scev/74682#post_4)
-- [I8 value range and integer promotion](https://discourse.llvm.org/t/i8-value-range-and-integer-promotion/76329#post_5)
+- [Why can&#39;t LLVM emit a memcpy when loading and storing integer arrays and simple structs?](https://discourse.llvm.org/t/why-cant-llvm-emit-a-memcpy-when-loading-and-storing-integer-arrays-and-simple-structs/76317#post_5)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=2#post_40)
+- [Using Tensor `Encoding` attribute](https://discourse.llvm.org/t/using-tensor-encoding-attribute/69142#post_4)
+- [[RFC] Fortran language feature documentation](https://discourse.llvm.org/t/rfc-fortran-language-feature-documentation/76332#post_1)
+- [How to identify which library a extern function belongs to?](https://discourse.llvm.org/t/how-to-identify-which-library-a-extern-function-belongs-to/76322#post_2)
 <!-- DISCOURSE-LLVM:END -->
