@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding support for OpenMP GPU target offload](https://discourse.llvm.org/t/rfc-adding-support-for-openmp-gpu-target-offload/76312#post_4)
+- [NATIVE component being built while cross compiling](https://discourse.llvm.org/t/native-component-being-built-while-cross-compiling/76294#post_8)
+- [NATIVE component being built while cross compiling](https://discourse.llvm.org/t/native-component-being-built-while-cross-compiling/76294#post_7)
 - [Why can&#39;t LLVM emit a memcpy when loading and storing integer arrays and simple structs?](https://discourse.llvm.org/t/why-cant-llvm-emit-a-memcpy-when-loading-and-storing-integer-arrays-and-simple-structs/76317#post_2)
 - [NATIVE component being built while cross compiling](https://discourse.llvm.org/t/native-component-being-built-while-cross-compiling/76294#post_6)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_7)
-- [NATIVE component being built while cross compiling](https://discourse.llvm.org/t/native-component-being-built-while-cross-compiling/76294#post_5)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
