@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [GHC calling convention and musttail on AArch64](https://discourse.llvm.org/t/ghc-calling-convention-and-musttail-on-aarch64/76308#post_5)
-- [Scarcity of Windows x64 builders in buildkite](https://discourse.llvm.org/t/scarcity-of-windows-x64-builders-in-buildkite/75436#post_6)
-- [Scarcity of Windows x64 builders in buildkite](https://discourse.llvm.org/t/scarcity-of-windows-x64-builders-in-buildkite/75436#post_5)
-- [[RFC] _elementwise attribute in clang front end](https://discourse.llvm.org/t/rfc-elementwise-attribute-in-clang-front-end/76342#post_8)
-- [Scarcity of Windows x64 builders in buildkite](https://discourse.llvm.org/t/scarcity-of-windows-x64-builders-in-buildkite/75436#post_4)
+- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_1)
+- [[RFC] _elementwise attribute in clang front end](https://discourse.llvm.org/t/rfc-elementwise-attribute-in-clang-front-end/76342#post_9)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=2#post_31)
+- [Intel Compact memory model support?](https://discourse.llvm.org/t/intel-compact-memory-model-support/29668#post_3)
+- [Intel Compact memory model support?](https://discourse.llvm.org/t/intel-compact-memory-model-support/29668#post_2)
 <!-- DISCOURSE-LLVM:END -->
