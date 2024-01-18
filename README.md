@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What is the strategy of llvm select simd register and how to adjust it?](https://discourse.llvm.org/t/what-is-the-strategy-of-llvm-select-simd-register-and-how-to-adjust-it/76352#post_1)
-- [How to link functions which I used, not all functions in project with LLVM](https://discourse.llvm.org/t/how-to-link-functions-which-i-used-not-all-functions-in-project-with-llvm/76350#post_1)
-- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723#post_16)
-- [Force loop unrolling factor](https://discourse.llvm.org/t/force-loop-unrolling-factor/76347#post_2)
-- [Force loop unrolling factor](https://discourse.llvm.org/t/force-loop-unrolling-factor/76347#post_1)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=3#post_51)
+- [Building a basic Pass &gt; opt fails with mismatch Producer and Reader](https://discourse.llvm.org/t/building-a-basic-pass-opt-fails-with-mismatch-producer-and-reader/76296#post_8)
+- [3D block sparse tensor encoding](https://discourse.llvm.org/t/3d-block-sparse-tensor-encoding/76145#post_4)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=3#post_50)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=10#post_186)
 <!-- DISCOURSE-LLVM:END -->
