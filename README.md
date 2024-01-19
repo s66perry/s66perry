@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_62)
-- [In LD script not able to specify ALIGN&lpar;&rpar; attribute for loadable section](https://discourse.llvm.org/t/in-ld-script-not-able-to-specify-align-attribute-for-loadable-section/76382#post_1)
-- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_3)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_61)
-- [What is the strategy of llvm select simd register and how to adjust it?](https://discourse.llvm.org/t/what-is-the-strategy-of-llvm-select-simd-register-and-how-to-adjust-it/76352#post_3)
+- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165?page=2#post_25)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_65)
+- [Enabling fine-grained access tokens for the LLVM organization](https://discourse.llvm.org/t/enabling-fine-grained-access-tokens-for-the-llvm-organization/76383#post_1)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_64)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_63)
 <!-- DISCOURSE-LLVM:END -->
