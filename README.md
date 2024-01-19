@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [OpenMP] Deprecate `omp::terminator` in favor of `omp::yield` with no values](https://discourse.llvm.org/t/rfc-openmp-deprecate-omp-terminator-in-favor-of-omp-yield-with-no-values/76396#post_4)
-- [Llvm-objdump --disassemble shows aarch64 bl immediates as all zeros](https://discourse.llvm.org/t/llvm-objdump-disassemble-shows-aarch64-bl-immediates-as-all-zeros/76401#post_4)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_27)
-- [Llvm-objdump --disassemble shows aarch64 bl immediates as all zeros](https://discourse.llvm.org/t/llvm-objdump-disassemble-shows-aarch64-bl-immediates-as-all-zeros/76401#post_3)
-- [Llvm-objdump --disassemble shows aarch64 bl immediates as all zeros](https://discourse.llvm.org/t/llvm-objdump-disassemble-shows-aarch64-bl-immediates-as-all-zeros/76401#post_2)
+- [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_6)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_31)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_30)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_29)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
