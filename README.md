@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_3)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=3#post_49)
-- [[analyzer] Request for Guidance on Modeling Out Parameter Functions in Clang Static Analysis](https://discourse.llvm.org/t/analyzer-request-for-guidance-on-modeling-out-parameter-functions-in-clang-static-analysis/75953#post_4)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=3#post_48)
-- [[Dialect Conversion] How to apply a signature conversion on `func.FuncOp` and modify the operation chain which consumes changed input?](https://discourse.llvm.org/t/dialect-conversion-how-to-apply-a-signature-conversion-on-func-funcop-and-modify-the-operation-chain-which-consumes-changed-input/76384#post_4)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_69)
+- [[LLVM] Automatically generate TableGen file for SPIR-V instruction set](https://discourse.llvm.org/t/llvm-automatically-generate-tablegen-file-for-spir-v-instruction-set/76369#post_3)
+- [Is there something to do with VMapped GlobalVariables after CloneFunctionInto?](https://discourse.llvm.org/t/is-there-something-to-do-with-vmapped-globalvariables-after-clonefunctioninto/76339#post_2)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=3#post_50)
+- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_13)
 <!-- DISCOURSE-LLVM:END -->
