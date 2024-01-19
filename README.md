@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang plugins on Windows](https://discourse.llvm.org/t/clang-plugins-on-windows/2262#post_10)
+- [[RFC] autocheck: A Source Code Analysis Tool based on Clang/LLVM for Automotive](https://discourse.llvm.org/t/rfc-autocheck-a-source-code-analysis-tool-based-on-clang-llvm-for-automotive/76333#post_12)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_73)
+- [Turning -Wint-conversion into a warning with a pragma](https://discourse.llvm.org/t/turning-wint-conversion-into-a-warning-with-a-pragma/76398#post_1)
 - [Clang plugins on Windows](https://discourse.llvm.org/t/clang-plugins-on-windows/2262#post_9)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_26)
-- [RFC: Update `branch_weights` metadata to allow tracking branch weight origins](https://discourse.llvm.org/t/rfc-update-branch-weights-metadata-to-allow-tracking-branch-weight-origins/75032#post_7)
-- [[RFC] [OpenMP] Deprecate `omp::terminator` in favor of `omp::yield` with no values](https://discourse.llvm.org/t/rfc-openmp-deprecate-omp-terminator-in-favor-of-omp-yield-with-no-values/76396#post_3)
-- [[RFC] [OpenMP] Deprecate `omp::terminator` in favor of `omp::yield` with no values](https://discourse.llvm.org/t/rfc-openmp-deprecate-omp-terminator-in-favor-of-omp-yield-with-no-values/76396#post_2)
 <!-- DISCOURSE-LLVM:END -->
