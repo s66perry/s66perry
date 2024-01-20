@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=4#post_74)
 - [[RFC] [OpenMP] Deprecate `omp::terminator` in favor of `omp::yield` with no values](https://discourse.llvm.org/t/rfc-openmp-deprecate-omp-terminator-in-favor-of-omp-yield-with-no-values/76396#post_6)
 - [[RFC] [OpenMP] Deprecate `omp::terminator` in favor of `omp::yield` with no values](https://discourse.llvm.org/t/rfc-openmp-deprecate-omp-terminator-in-favor-of-omp-yield-with-no-values/76396#post_5)
 - [TOSA Specification Creation Approach](https://discourse.llvm.org/t/tosa-specification-creation-approach/76386#post_2)
 - [BOLT: Can bolt process PE files?](https://discourse.llvm.org/t/bolt-can-bolt-process-pe-files/71197#post_6)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
