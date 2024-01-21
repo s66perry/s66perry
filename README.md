@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Metadata attachments for function arguments](https://discourse.llvm.org/t/rfc-metadata-attachments-for-function-arguments/76420#post_2)
+- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=3#post_51)
+- [NVPTX instruction selection for loads depending on known bits](https://discourse.llvm.org/t/nvptx-instruction-selection-for-loads-depending-on-known-bits/76424#post_1)
+- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_7)
 - [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_6)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_5)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_4)
-- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_15)
-- [[RFC] Metadata attachments for function arguments](https://discourse.llvm.org/t/rfc-metadata-attachments-for-function-arguments/76420#post_1)
 <!-- DISCOURSE-LLVM:END -->
