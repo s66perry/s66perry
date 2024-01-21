@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Undefined reference to `llvm.stackrestore.p0&#39;](https://discourse.llvm.org/t/undefined-reference-to-llvm-stackrestore-p0/76413#post_1)
+- [How to add small unit tests for clang patch](https://discourse.llvm.org/t/how-to-add-small-unit-tests-for-clang-patch/76412#post_1)
+- [How to allow clang-format to format empty classes/structs on one line?](https://discourse.llvm.org/t/how-to-allow-clang-format-to-format-empty-classes-structs-on-one-line/76411#post_1)
 - [Program-wide dominator tree?](https://discourse.llvm.org/t/program-wide-dominator-tree/76324#post_6)
 - [Program-wide dominator tree?](https://discourse.llvm.org/t/program-wide-dominator-tree/76324#post_5)
-- [Clang plugins on Windows](https://discourse.llvm.org/t/clang-plugins-on-windows/2262#post_12)
-- [RFC: MLIR Action, Tracing and Debugging MLIR-based Compilers](https://discourse.llvm.org/t/rfc-mlir-action-tracing-and-debugging-mlir-based-compilers/68679#post_11)
-- [Clang plugins on Windows](https://discourse.llvm.org/t/clang-plugins-on-windows/2262#post_11)
 <!-- DISCOURSE-LLVM:END -->
