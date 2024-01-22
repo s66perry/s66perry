@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=2#post_34)
-- [Enabling fine-grained access tokens for the LLVM organization](https://discourse.llvm.org/t/enabling-fine-grained-access-tokens-for-the-llvm-organization/76383#post_6)
-- [Libc++ 17 for Macs](https://discourse.llvm.org/t/libc-17-for-macs/76440#post_3)
-- [Smaller object file cost for .debug_names intended only for linking](https://discourse.llvm.org/t/smaller-object-file-cost-for-debug-names-intended-only-for-linking/76445#post_1)
-- [Libc++ 17 for Macs](https://discourse.llvm.org/t/libc-17-for-macs/76440#post_2)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=2#post_36)
+- [&quot;Native&quot; support for custom tensor / memref types](https://discourse.llvm.org/t/native-support-for-custom-tensor-memref-types/76436#post_5)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=2#post_35)
+- [[dialect conversion] How to change the return type of `func.func`?](https://discourse.llvm.org/t/dialect-conversion-how-to-change-the-return-type-of-func-func/76419#post_4)
+- [Relocatable file definitions shared with DSO](https://discourse.llvm.org/t/relocatable-file-definitions-shared-with-dso/74391#post_10)
 <!-- DISCOURSE-LLVM:END -->
