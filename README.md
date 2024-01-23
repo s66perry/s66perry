@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=3#post_47)
-- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456#post_11)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=3#post_46)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=3#post_45)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=3#post_44)
+- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_9)
+- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_8)
+- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_7)
+- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_6)
+- [[RFC] Dynamic Type Profiling and Optimizations in LLVM](https://discourse.llvm.org/t/rfc-dynamic-type-profiling-and-optimizations-in-llvm/74600#post_13)
 <!-- DISCOURSE-LLVM:END -->
