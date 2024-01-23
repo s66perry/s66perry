@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [3D block sparse tensor encoding](https://discourse.llvm.org/t/3d-block-sparse-tensor-encoding/76145#post_5)
-- [NVPTX instruction selection for loads depending on known bits](https://discourse.llvm.org/t/nvptx-instruction-selection-for-loads-depending-on-known-bits/76424#post_6)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_9)
-- [Preventing deletion of specific nodes](https://discourse.llvm.org/t/preventing-deletion-of-specific-nodes/76466#post_2)
-- [Result #0 of operation &#39;foo.cmp&#39; that remained live after conversion](https://discourse.llvm.org/t/result-0-of-operation-foo-cmp-that-remained-live-after-conversion/76467#post_1)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_85)
+- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_13)
+- [[sve] Does the sequence of VP instruction work?](https://discourse.llvm.org/t/sve-does-the-sequence-of-vp-instruction-work/76469#post_1)
+- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_12)
+- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_3)
 <!-- DISCOURSE-LLVM:END -->
