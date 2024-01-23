@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[dialect conversion] How to truly erase an operation in conversion?](https://discourse.llvm.org/t/dialect-conversion-how-to-truly-erase-an-operation-in-conversion/76464#post_3)
+- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456#post_10)
+- [&quot;Native&quot; support for custom tensor / memref types](https://discourse.llvm.org/t/native-support-for-custom-tensor-memref-types/76436#post_8)
+- [Lldb hangs when trying to execute command with &quot;-o&quot;](https://discourse.llvm.org/t/lldb-hangs-when-trying-to-execute-command-with-o/76471#post_1)
 - [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_85)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_13)
-- [[sve] Does the sequence of VP instruction work?](https://discourse.llvm.org/t/sve-does-the-sequence-of-vp-instruction-work/76469#post_1)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_12)
-- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_3)
 <!-- DISCOURSE-LLVM:END -->
