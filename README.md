@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=10#post_188)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_84)
-- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165?page=2#post_28)
-- [[dialect conversion] How to truly erase an operation in conversion?](https://discourse.llvm.org/t/dialect-conversion-how-to-truly-erase-an-operation-in-conversion/76464#post_2)
-- [&quot;Native&quot; support for custom tensor / memref types](https://discourse.llvm.org/t/native-support-for-custom-tensor-memref-types/76436#post_7)
+- [3D block sparse tensor encoding](https://discourse.llvm.org/t/3d-block-sparse-tensor-encoding/76145#post_5)
+- [NVPTX instruction selection for loads depending on known bits](https://discourse.llvm.org/t/nvptx-instruction-selection-for-loads-depending-on-known-bits/76424#post_6)
+- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_9)
+- [Preventing deletion of specific nodes](https://discourse.llvm.org/t/preventing-deletion-of-specific-nodes/76466#post_2)
+- [Result #0 of operation &#39;foo.cmp&#39; that remained live after conversion](https://discourse.llvm.org/t/result-0-of-operation-foo-cmp-that-remained-live-after-conversion/76467#post_1)
 <!-- DISCOURSE-LLVM:END -->
