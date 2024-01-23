@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_9)
-- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_8)
-- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_7)
-- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_6)
-- [[RFC] Dynamic Type Profiling and Optimizations in LLVM](https://discourse.llvm.org/t/rfc-dynamic-type-profiling-and-optimizations-in-llvm/74600#post_13)
+- [Seeking Guidance on Profiling Clang for Performance Bottlenecks](https://discourse.llvm.org/t/seeking-guidance-on-profiling-clang-for-performance-bottlenecks/76475#post_2)
+- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_10)
+- [3D block sparse tensor encoding](https://discourse.llvm.org/t/3d-block-sparse-tensor-encoding/76145#post_7)
+- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_9)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=3#post_48)
 <!-- DISCOURSE-LLVM:END -->
