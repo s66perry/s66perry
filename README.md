@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MachinePipeliner] Replace `SwingSchedulerDAG` with directed graph that allows cycles](https://discourse.llvm.org/t/machinepipeliner-replace-swingschedulerdag-with-directed-graph-that-allows-cycles/76465#post_2)
-- [[MachinePipeliner] Replace `SwingSchedulerDAG` with directed graph that allows cycles](https://discourse.llvm.org/t/machinepipeliner-replace-swingschedulerdag-with-directed-graph-that-allows-cycles/76465#post_1)
-- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456#post_7)
-- [[dialect conversion] How to truly erase an operation in conversion?](https://discourse.llvm.org/t/dialect-conversion-how-to-truly-erase-an-operation-in-conversion/76464#post_1)
-- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456#post_6)
+- [Update on GitHub pull requests](https://discourse.llvm.org/t/update-on-github-pull-requests/71540?page=10#post_188)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_84)
+- [RFC: IR metadata format for MemProf](https://discourse.llvm.org/t/rfc-ir-metadata-format-for-memprof/59165?page=2#post_28)
+- [[dialect conversion] How to truly erase an operation in conversion?](https://discourse.llvm.org/t/dialect-conversion-how-to-truly-erase-an-operation-in-conversion/76464#post_2)
+- [&quot;Native&quot; support for custom tensor / memref types](https://discourse.llvm.org/t/native-support-for-custom-tensor-memref-types/76436#post_7)
 <!-- DISCOURSE-LLVM:END -->
