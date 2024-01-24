@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question about example from Torch-MLIR](https://discourse.llvm.org/t/question-about-example-from-torch-mlir/76496#post_1)
-- [Baremetal x86 toolchain libcxx](https://discourse.llvm.org/t/baremetal-x86-toolchain-libcxx/76495#post_1)
-- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_11)
-- [[Ask LLVM] Who’s Hiring? &lpar;Jan ‘24&rpar;](https://discourse.llvm.org/t/ask-llvm-who-s-hiring-jan-24/76198#post_16)
-- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_3)
+- [Clang-tidy 17.0.6 hangs on a file](https://discourse.llvm.org/t/clang-tidy-17-0-6-hangs-on-a-file/76478#post_3)
+- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_13)
+- [RFC: adding `__builtin_verbose_trap&lpar;string-literal&rpar;`](https://discourse.llvm.org/t/rfc-adding-builtin-verbose-trap-string-literal/75845#post_9)
+- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_2)
+- [What lldb will do if I set platform as qemu-user](https://discourse.llvm.org/t/what-lldb-will-do-if-i-set-platform-as-qemu-user/76497#post_2)
 <!-- DISCOURSE-LLVM:END -->
