@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is it possible to use a newer clang-cl than MS publishes with VS2022?](https://discourse.llvm.org/t/is-it-possible-to-use-a-newer-clang-cl-than-ms-publishes-with-vs2022/76481#post_4)
-- [LLVM assembler directives commercial test packages](https://discourse.llvm.org/t/llvm-assembler-directives-commercial-test-packages/76484#post_1)
-- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_13)
-- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456#post_18)
-- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_12)
+- [Memory Prefetching Support in LLVM](https://discourse.llvm.org/t/memory-prefetching-support-in-llvm/74078#post_8)
+- [&quot;Native&quot; support for custom tensor / memref types](https://discourse.llvm.org/t/native-support-for-custom-tensor-memref-types/76436#post_10)
+- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_2)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_32)
+- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_14)
 <!-- DISCOURSE-LLVM:END -->
