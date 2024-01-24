@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_6)
-- [Clang-tidy 17.0.6 hangs on a file](https://discourse.llvm.org/t/clang-tidy-17-0-6-hangs-on-a-file/76478#post_5)
-- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_17)
-- [Block Github merge on changes requested?](https://discourse.llvm.org/t/block-github-merge-on-changes-requested/74994?page=3#post_44)
-- [STM32 CMake build with Clang &amp; LLVM - Linking Errors](https://discourse.llvm.org/t/stm32-cmake-build-with-clang-llvm-linking-errors/76506#post_1)
+- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_1)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_9)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_8)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_7)
+- [Information on LIT is outdated](https://discourse.llvm.org/t/information-on-lit-is-outdated/76498#post_5)
 <!-- DISCOURSE-LLVM:END -->
