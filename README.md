@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Firtool integration](https://discourse.llvm.org/t/firtool-integration/76362#post_3)
-- [[RFC][DebugInfo] Proposed changes to the textual IR representation for debug values](https://discourse.llvm.org/t/rfc-debuginfo-proposed-changes-to-the-textual-ir-representation-for-debug-values/73491#post_4)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_12)
-- [Is it possible to use a newer clang-cl than MS publishes with VS2022?](https://discourse.llvm.org/t/is-it-possible-to-use-a-newer-clang-cl-than-ms-publishes-with-vs2022/76481#post_5)
-- [Memory Prefetching Support in LLVM](https://discourse.llvm.org/t/memory-prefetching-support-in-llvm/74078#post_8)
+- [Question about example from Torch-MLIR](https://discourse.llvm.org/t/question-about-example-from-torch-mlir/76496#post_1)
+- [Baremetal x86 toolchain libcxx](https://discourse.llvm.org/t/baremetal-x86-toolchain-libcxx/76495#post_1)
+- [[RFC] C++ conformance test suite](https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821#post_11)
+- [[Ask LLVM] Who’s Hiring? &lpar;Jan ‘24&rpar;](https://discourse.llvm.org/t/ask-llvm-who-s-hiring-jan-24/76198#post_16)
+- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_3)
 <!-- DISCOURSE-LLVM:END -->
