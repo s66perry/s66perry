@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-tidy 17.0.6 hangs on a file](https://discourse.llvm.org/t/clang-tidy-17-0-6-hangs-on-a-file/76478#post_4)
-- [Question about example from Torch-MLIR](https://discourse.llvm.org/t/question-about-example-from-torch-mlir/76496#post_5)
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_3)
-- [Question about example from Torch-MLIR](https://discourse.llvm.org/t/question-about-example-from-torch-mlir/76496#post_4)
-- [Question about example from Torch-MLIR](https://discourse.llvm.org/t/question-about-example-from-torch-mlir/76496#post_3)
+- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_5)
+- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_5)
+- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_3)
+- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_4)
+- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_2)
 <!-- DISCOURSE-LLVM:END -->
