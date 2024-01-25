@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_11)
-- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_4)
-- [LLVM Meetup in Munich – January 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-29th-2024/75483#post_5)
-- [Devision by zero semantics in `arith.divf`](https://discourse.llvm.org/t/devision-by-zero-semantics-in-arith-divf/76514#post_2)
-- [Firtool integration](https://discourse.llvm.org/t/firtool-integration/76362#post_5)
+- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_5)
+- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_10)
+- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_9)
+- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873#post_19)
+- [Firtool integration](https://discourse.llvm.org/t/firtool-integration/76362#post_6)
 <!-- DISCOURSE-LLVM:END -->
