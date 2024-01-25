@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How would I go about implementing new bit manipulation builtins for my proposal, especially generic builtins?](https://discourse.llvm.org/t/how-would-i-go-about-implementing-new-bit-manipulation-builtins-for-my-proposal-especially-generic-builtins/76523#post_1)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=3#post_54)
-- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375#post_18)
-- [Lldb hangs when trying to execute command with &quot;-o&quot;](https://discourse.llvm.org/t/lldb-hangs-when-trying-to-execute-command-with-o/76471#post_3)
-- [RFC: GitHub PR &quot;Resolve Conversation&quot; button](https://discourse.llvm.org/t/rfc-github-pr-resolve-conversation-button/73178?page=3#post_53)
+- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_16)
+- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456?page=2#post_24)
+- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456?page=2#post_23)
+- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_6)
+- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
