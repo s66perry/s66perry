@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_12)
-- [RFC: adding `__builtin_verbose_trap&lpar;string-literal&rpar;`](https://discourse.llvm.org/t/rfc-adding-builtin-verbose-trap-string-literal/75845#post_15)
-- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_11)
-- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_5)
-- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_10)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_49)
+- [Smaller object file cost for .debug_names intended only for linking](https://discourse.llvm.org/t/smaller-object-file-cost-for-debug-names-intended-only-for-linking/76445#post_4)
+- [Smaller object file cost for .debug_names intended only for linking](https://discourse.llvm.org/t/smaller-object-file-cost-for-debug-names-intended-only-for-linking/76445#post_3)
+- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_14)
+- [Strided loads/stores in SLPVectorizer?](https://discourse.llvm.org/t/strided-loads-stores-in-slpvectorizer/76504#post_13)
 <!-- DISCOURSE-LLVM:END -->
