@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_10)
+- [Devision by zero semantics in `arith.divf`](https://discourse.llvm.org/t/devision-by-zero-semantics-in-arith-divf/76514#post_1)
+- [How to mapping Intrinsic function to multiple riscv instruction?](https://discourse.llvm.org/t/how-to-mapping-intrinsic-function-to-multiple-riscv-instruction/74987#post_11)
+- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_9)
 - [What is the correct way to register for Pass](https://discourse.llvm.org/t/what-is-the-correct-way-to-register-for-pass/76473#post_2)
-- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_6)
-- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_5)
-- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_1)
-- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_8)
 <!-- DISCOURSE-LLVM:END -->
