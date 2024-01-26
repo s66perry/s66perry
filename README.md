@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_16)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=2#post_26)
+- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_13)
 - [How to lower tosa.reshape correctly?](https://discourse.llvm.org/t/how-to-lower-tosa-reshape-correctly/76544#post_1)
 - [Arm LLVM Compiler Engineer Opportunities](https://discourse.llvm.org/t/arm-llvm-compiler-engineer-opportunities/76542#post_1)
-- [Understanding Parallel loops to GPU lowering](https://discourse.llvm.org/t/understanding-parallel-loops-to-gpu-lowering/727#post_16)
-- [SBValue.addr return &quot;No value&quot;](https://discourse.llvm.org/t/sbvalue-addr-return-no-value/76541#post_1)
-- [Devision by zero semantics in `arith.divf`](https://discourse.llvm.org/t/devision-by-zero-semantics-in-arith-divf/76514#post_5)
 <!-- DISCOURSE-LLVM:END -->
