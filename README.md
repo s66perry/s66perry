@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_8)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=2#post_28)
+- [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873?page=2#post_23)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=2#post_27)
 - [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_16)
-- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=2#post_26)
-- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_13)
-- [How to lower tosa.reshape correctly?](https://discourse.llvm.org/t/how-to-lower-tosa-reshape-correctly/76544#post_1)
-- [Arm LLVM Compiler Engineer Opportunities](https://discourse.llvm.org/t/arm-llvm-compiler-engineer-opportunities/76542#post_1)
 <!-- DISCOURSE-LLVM:END -->
