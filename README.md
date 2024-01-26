@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=7#post_124)
+- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_4)
+- [Selecting VPSHUFBITQMB for llvm.bitreverse.*](https://discourse.llvm.org/t/selecting-vpshufbitqmb-for-llvm-bitreverse/76540#post_1)
 - [Should isSimpleTypeSpecifier return true for _Bool?](https://discourse.llvm.org/t/should-issimpletypespecifier-return-true-for-bool/74873?page=2#post_22)
 - [[RFC] Support long instruction fixup for X86](https://discourse.llvm.org/t/rfc-support-long-instruction-fixup-for-x86/76539#post_4)
-- [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_12)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_19)
-- [[RFC] Support long instruction fixup for X86](https://discourse.llvm.org/t/rfc-support-long-instruction-fixup-for-x86/76539#post_3)
 <!-- DISCOURSE-LLVM:END -->
