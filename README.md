@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_5)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=3#post_42)
 - [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=3#post_41)
 - [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=2#post_40)
 - [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=2#post_39)
-- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=2#post_38)
-- [LLVM IR: Many tests need to be updated after a small change](https://discourse.llvm.org/t/llvm-ir-many-tests-need-to-be-updated-after-a-small-change/76550#post_3)
 <!-- DISCOURSE-LLVM:END -->
