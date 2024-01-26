@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [EuroLLVM 2024 in Vienna, Austria Important dates &amp; More](https://discourse.llvm.org/t/eurollvm-2024-in-vienna-austria-important-dates-more/76535#post_1)
-- [Optimization dependent on inter-loop operand](https://discourse.llvm.org/t/optimization-dependent-on-inter-loop-operand/76502#post_12)
-- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_12)
-- [Devision by zero semantics in `arith.divf`](https://discourse.llvm.org/t/devision-by-zero-semantics-in-arith-divf/76514#post_3)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417#post_18)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530#post_18)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530#post_17)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530#post_16)
+- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_13)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530#post_15)
 <!-- DISCOURSE-LLVM:END -->
