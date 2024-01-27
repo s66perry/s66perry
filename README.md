@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What is the correct way to register for Pass](https://discourse.llvm.org/t/what-is-the-correct-way-to-register-for-pass/76473#post_4)
+- [Copying Examples Project: HowToUseJIT crashes](https://discourse.llvm.org/t/copying-examples-project-howtousejit-crashes/76195#post_4)
+- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_3)
 - [Qt&#39;s SummaryProvider crashes LLDB](https://discourse.llvm.org/t/qts-summaryprovider-crashes-lldb/76555#post_1)
 - [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_2)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_1)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627?page=2#post_34)
-- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
