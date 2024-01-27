@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Missing braces warning in llvm/Support/FormatProviders.h](https://discourse.llvm.org/t/missing-braces-warning-in-llvm-support-formatproviders-h/66308#post_8)
+- [Missing braces warning in llvm/Support/FormatProviders.h](https://discourse.llvm.org/t/missing-braces-warning-in-llvm-support-formatproviders-h/66308#post_7)
+- [Missing braces warning in llvm/Support/FormatProviders.h](https://discourse.llvm.org/t/missing-braces-warning-in-llvm-support-formatproviders-h/66308#post_6)
+- [Learning Resource — Lecture Slides for the Clang Libraries &lpar;Edition 0.2.0&rpar;](https://discourse.llvm.org/t/learning-resource-lecture-slides-for-the-clang-libraries-edition-0-2-0/76568#post_1)
 - [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_88)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_87)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417?page=2#post_21)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_86)
-- [Is there a detailed tutorial/guide for implementing a PL with LLVM-C?](https://discourse.llvm.org/t/is-there-a-detailed-tutorial-guide-for-implementing-a-pl-with-llvm-c/76563#post_2)
 <!-- DISCOURSE-LLVM:END -->
