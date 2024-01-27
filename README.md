@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_5)
+- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_4)
+- [I&#39;m trying to create an ELF lifter that will lift an elf file from binary to LLVM IR](https://discourse.llvm.org/t/im-trying-to-create-an-elf-lifter-that-will-lift-an-elf-file-from-binary-to-llvm-ir/76558#post_1)
 - [What is the correct way to register for Pass](https://discourse.llvm.org/t/what-is-the-correct-way-to-register-for-pass/76473#post_4)
 - [Copying Examples Project: HowToUseJIT crashes](https://discourse.llvm.org/t/copying-examples-project-howtousejit-crashes/76195#post_4)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_3)
-- [Qt&#39;s SummaryProvider crashes LLDB](https://discourse.llvm.org/t/qts-summaryprovider-crashes-lldb/76555#post_1)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_2)
 <!-- DISCOURSE-LLVM:END -->
