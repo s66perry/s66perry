@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Objdump immediate hex format for riscv](https://discourse.llvm.org/t/objdump-immediate-hex-format-for-riscv/76591#post_1)
+- [LLVM Weekly - #526, January 29th 2024](https://discourse.llvm.org/t/llvm-weekly-526-january-29th-2024/76589#post_1)
+- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_6)
+- [Qt&#39;s SummaryProvider crashes LLDB](https://discourse.llvm.org/t/qts-summaryprovider-crashes-lldb/76555#post_2)
 - [Is GEP instruction avoidable? What is the advantage of using GEP](https://discourse.llvm.org/t/is-gep-instruction-avoidable-what-is-the-advantage-of-using-gep/76588#post_2)
-- [Is GEP instruction avoidable? What is the advantage of using GEP](https://discourse.llvm.org/t/is-gep-instruction-avoidable-what-is-the-advantage-of-using-gep/76588#post_1)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587#post_2)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587#post_1)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_6)
 <!-- DISCOURSE-LLVM:END -->
