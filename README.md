@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_9)
+- [Strange ISel Bug](https://discourse.llvm.org/t/strange-isel-bug/75030#post_9)
+- [Preprocessor bug?](https://discourse.llvm.org/t/preprocessor-bug/76636#post_1)
 - [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600#post_3)
 - [Array globals in LLVM dialect](https://discourse.llvm.org/t/array-globals-in-llvm-dialect/68229#post_9)
-- [[RFC] Pragma that applies a specified attribute to declarations](https://discourse.llvm.org/t/rfc-pragma-that-applies-a-specified-attribute-to-declarations/43966#post_6)
-- [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600#post_2)
-- [Any documentation on the core abstraction of LLVM?](https://discourse.llvm.org/t/any-documentation-on-the-core-abstraction-of-llvm/76630#post_3)
 <!-- DISCOURSE-LLVM:END -->
