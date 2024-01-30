@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614#post_17)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_13)
-- [Creating MBB for call instruction](https://discourse.llvm.org/t/creating-mbb-for-call-instruction/76224#post_10)
-- [[RFC] Proposed Policy for committing to LLVM-libc](https://discourse.llvm.org/t/rfc-proposed-policy-for-committing-to-llvm-libc/76617#post_5)
-- [Creating MBB for call instruction](https://discourse.llvm.org/t/creating-mbb-for-call-instruction/76224#post_9)
+- [Properly linking a shared library with -shared-libasan](https://discourse.llvm.org/t/properly-linking-a-shared-library-with-shared-libasan/4633#post_7)
+- [LLVM 18.1.0-rc1 Released](https://discourse.llvm.org/t/llvm-18-1-0-rc1-released/76620#post_1)
+- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=3#post_48)
+- [LLVM 18.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc1-tagged/76619#post_1)
+- [Properly linking a shared library with -shared-libasan](https://discourse.llvm.org/t/properly-linking-a-shared-library-with-shared-libasan/4633#post_6)
 <!-- DISCOURSE-LLVM:END -->
