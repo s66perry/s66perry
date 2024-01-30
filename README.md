@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_36)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_35)
-- [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600#post_4)
-- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605#post_14)
-- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605#post_13)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_39)
+- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_20)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_38)
+- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_19)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
