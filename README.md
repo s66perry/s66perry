@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_15)
-- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=3#post_50)
-- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_19)
-- [New requirements for committing to main branch](https://discourse.llvm.org/t/new-requirements-for-committing-to-main-branch/76530?page=3#post_49)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_14)
+- [[RFC] Support function attributes in user interface](https://discourse.llvm.org/t/rfc-support-function-attributes-in-user-interface/76624#post_1)
+- [[RFC] Use `sysret` wrapper on linux](https://discourse.llvm.org/t/rfc-use-sysret-wrapper-on-linux/76580#post_3)
+- [[RFC][landed] Implement `getauxval`](https://discourse.llvm.org/t/rfc-landed-implement-getauxval/76271#post_4)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587#post_19)
+- [Insert instructions in BOLT pass](https://discourse.llvm.org/t/insert-instructions-in-bolt-pass/76570#post_3)
 <!-- DISCOURSE-LLVM:END -->
