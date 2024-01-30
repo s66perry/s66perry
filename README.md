@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Preprocessor bug?](https://discourse.llvm.org/t/preprocessor-bug/76636#post_4)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_26)
-- [[RFC] Support function attributes in user interface](https://discourse.llvm.org/t/rfc-support-function-attributes-in-user-interface/76624#post_3)
-- [How to use different out-of-tree Python bindings](https://discourse.llvm.org/t/how-to-use-different-out-of-tree-python-bindings/75082#post_8)
-- [Preprocessor bug?](https://discourse.llvm.org/t/preprocessor-bug/76636#post_3)
+- [ASAN not generating core dump](https://discourse.llvm.org/t/asan-not-generating-core-dump/76645#post_1)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_30)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_29)
+- [ASAN and UBSAN together](https://discourse.llvm.org/t/asan-and-ubsan-together/76644#post_1)
+- [RFC: Create companion repo torch-mlir-release](https://discourse.llvm.org/t/rfc-create-companion-repo-torch-mlir-release/76643#post_1)
 <!-- DISCOURSE-LLVM:END -->
