@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_39)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_20)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_38)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554#post_19)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_37)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_11)
+- [`libc` pre-commit CI queue time piled up](https://discourse.llvm.org/t/libc-pre-commit-ci-queue-time-piled-up/76653#post_1)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_41)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_40)
+- [[libclang python binding] How to dump the information from a C structure initializer](https://discourse.llvm.org/t/libclang-python-binding-how-to-dump-the-information-from-a-c-structure-initializer/76537#post_4)
 <!-- DISCOURSE-LLVM:END -->
