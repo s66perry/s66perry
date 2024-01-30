@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_22)
-- [[RFC] Proposed Policy for committing to LLVM-libc](https://discourse.llvm.org/t/rfc-proposed-policy-for-committing-to-llvm-libc/76617#post_7)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_50)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=2#post_21)
-- [Firtool integration](https://discourse.llvm.org/t/firtool-integration/76362#post_9)
+- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_8)
+- [How to Make Clang 17+ Use Libc++ Installed in the LLVM Library Path by Default?](https://discourse.llvm.org/t/how-to-make-clang-17-use-libc-installed-in-the-llvm-library-path-by-default/76632#post_3)
+- [How to Make Clang 17+ Use Libc++ Installed in the LLVM Library Path by Default?](https://discourse.llvm.org/t/how-to-make-clang-17-use-libc-installed-in-the-llvm-library-path-by-default/76632#post_2)
+- [Firtool integration](https://discourse.llvm.org/t/firtool-integration/76362#post_11)
+- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_8)
 <!-- DISCOURSE-LLVM:END -->
