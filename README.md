@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614#post_20)
+- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_7)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Feb 1st](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-feb-1st/76595#post_2)
 - [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587#post_20)
 - [[RFC] Support function attributes in user interface](https://discourse.llvm.org/t/rfc-support-function-attributes-in-user-interface/76624#post_2)
-- [[RFC] Support function attributes in user interface](https://discourse.llvm.org/t/rfc-support-function-attributes-in-user-interface/76624#post_1)
-- [[RFC] Use `sysret` wrapper on linux](https://discourse.llvm.org/t/rfc-use-sysret-wrapper-on-linux/76580#post_3)
-- [[RFC][landed] Implement `getauxval`](https://discourse.llvm.org/t/rfc-landed-implement-getauxval/76271#post_4)
 <!-- DISCOURSE-LLVM:END -->
