@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_61)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_31)
-- [Clang on Ubuntu 22.04 can&#39;t find gcc headers](https://discourse.llvm.org/t/clang-on-ubuntu-22-04-cant-find-gcc-headers/76691#post_3)
-- [Clang on Ubuntu 22.04 can&#39;t find gcc headers](https://discourse.llvm.org/t/clang-on-ubuntu-22-04-cant-find-gcc-headers/76691#post_2)
-- [Clang on Ubuntu 22.04 can&#39;t find gcc headers](https://discourse.llvm.org/t/clang-on-ubuntu-22-04-cant-find-gcc-headers/76691#post_1)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_10)
+- [[RFC] Metadata attachments for function arguments](https://discourse.llvm.org/t/rfc-metadata-attachments-for-function-arguments/76420#post_4)
+- [Keeping the extent symbol alive](https://discourse.llvm.org/t/keeping-the-extent-symbol-alive/76676#post_2)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_9)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_14)
 <!-- DISCOURSE-LLVM:END -->
