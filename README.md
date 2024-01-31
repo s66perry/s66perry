@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_13)
-- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=7#post_129)
-- [[RFC] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/rfc-add-3-way-comparison-intrinsics/76685#post_5)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_30)
-- [[RFC] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/rfc-add-3-way-comparison-intrinsics/76685#post_4)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_61)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_31)
+- [Clang on Ubuntu 22.04 can&#39;t find gcc headers](https://discourse.llvm.org/t/clang-on-ubuntu-22-04-cant-find-gcc-headers/76691#post_3)
+- [Clang on Ubuntu 22.04 can&#39;t find gcc headers](https://discourse.llvm.org/t/clang-on-ubuntu-22-04-cant-find-gcc-headers/76691#post_2)
+- [Clang on Ubuntu 22.04 can&#39;t find gcc headers](https://discourse.llvm.org/t/clang-on-ubuntu-22-04-cant-find-gcc-headers/76691#post_1)
 <!-- DISCOURSE-LLVM:END -->
