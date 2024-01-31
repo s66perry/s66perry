@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656#post_17)
-- [In LD script not able to specify ALIGN&lpar;&rpar; attribute for loadable section](https://discourse.llvm.org/t/in-ld-script-not-able-to-specify-align-attribute-for-loadable-section/76382#post_6)
-- [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600#post_7)
-- [In LD script not able to specify ALIGN&lpar;&rpar; attribute for loadable section](https://discourse.llvm.org/t/in-ld-script-not-able-to-specify-align-attribute-for-loadable-section/76382#post_5)
-- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656#post_16)
+- [ASAN not generating core dump](https://discourse.llvm.org/t/asan-not-generating-core-dump/76645#post_3)
+- [ASAN not generating core dump](https://discourse.llvm.org/t/asan-not-generating-core-dump/76645#post_2)
+- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656#post_18)
+- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_6)
+- [A temporary flag for guarding access to an in-development C++20 feature in clang](https://discourse.llvm.org/t/a-temporary-flag-for-guarding-access-to-an-in-development-c-20-feature-in-clang/76597#post_7)
 <!-- DISCOURSE-LLVM:END -->
