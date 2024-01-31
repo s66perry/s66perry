@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Any documentation on the core abstraction of LLVM?](https://discourse.llvm.org/t/any-documentation-on-the-core-abstraction-of-llvm/76630#post_4)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_14)
-- [ASAN not generating core dump](https://discourse.llvm.org/t/asan-not-generating-core-dump/76645#post_3)
-- [ASAN not generating core dump](https://discourse.llvm.org/t/asan-not-generating-core-dump/76645#post_2)
-- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656#post_18)
+- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_27)
+- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_26)
+- [Keeping the extent symbol alive](https://discourse.llvm.org/t/keeping-the-extent-symbol-alive/76676#post_1)
+- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_11)
+- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
