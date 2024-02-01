@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_37)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_22)
+- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_13)
+- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456?page=2#post_33)
 - [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_32)
-- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_28)
-- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_21)
-- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_27)
-- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_12)
 <!-- DISCOURSE-LLVM:END -->
