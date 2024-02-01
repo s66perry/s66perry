@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_38)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_32)
+- [[MachinePipeliner] Replace `SwingSchedulerDAG` with directed graph that allows cycles](https://discourse.llvm.org/t/machinepipeliner-replace-swingschedulerdag-with-directed-graph-that-allows-cycles/76465#post_8)
 - [LLVM 18.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc1-tagged/76619#post_4)
 - [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_17)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_16)
-- [AdaCore is hiring a LLVM Compiler Engineer](https://discourse.llvm.org/t/adacore-is-hiring-a-llvm-compiler-engineer/76707#post_1)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_15)
 <!-- DISCOURSE-LLVM:END -->
