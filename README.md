@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_7)
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_6)
-- [Smaller object file cost for .debug_names intended only for linking](https://discourse.llvm.org/t/smaller-object-file-cost-for-debug-names-intended-only-for-linking/76445#post_9)
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_5)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_34)
+- [Smaller object file cost for .debug_names intended only for linking](https://discourse.llvm.org/t/smaller-object-file-cost-for-debug-names-intended-only-for-linking/76445#post_10)
+- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_13)
+- [How to Call LLVM IR transformed from MLIR](https://discourse.llvm.org/t/how-to-call-llvm-ir-transformed-from-mlir/76719#post_2)
+- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_12)
+- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_11)
 <!-- DISCOURSE-LLVM:END -->
