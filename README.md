@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_16)
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_2)
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_1)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554?page=2#post_25)
-- [Inliner cost model](https://discourse.llvm.org/t/inliner-cost-model/2992#post_9)
+- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_28)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_17)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_16)
+- [RFC: Create companion repo torch-mlir-release](https://discourse.llvm.org/t/rfc-create-companion-repo-torch-mlir-release/76643#post_2)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_15)
 <!-- DISCOURSE-LLVM:END -->
