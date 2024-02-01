@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Directly referencing a basic block](https://discourse.llvm.org/t/directly-referencing-a-basic-block/76710#post_2)
-- [Directly referencing a basic block](https://discourse.llvm.org/t/directly-referencing-a-basic-block/76710#post_1)
-- [Does llvm-bolt support in updating debug sections with dwarf64 format?](https://discourse.llvm.org/t/does-llvm-bolt-support-in-updating-debug-sections-with-dwarf64-format/76709#post_1)
-- [Inquiry regarding accurate calculation of maximum constant backedge count in SCEV](https://discourse.llvm.org/t/inquiry-regarding-accurate-calculation-of-maximum-constant-backedge-count-in-scev/74682#post_6)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_33)
+- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_31)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687?page=2#post_25)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_91)
+- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_30)
+- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
