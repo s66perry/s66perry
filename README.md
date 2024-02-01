@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_37)
-- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687#post_22)
-- [[RFC] CRC Recognition in LoopIdiomRecognizer](https://discourse.llvm.org/t/rfc-crc-recognition-in-loopidiomrecognizer/76491#post_13)
-- [[RFC] LLVM Precommit CI through Github Actions](https://discourse.llvm.org/t/rfc-llvm-precommit-ci-through-github-actions/76456?page=2#post_33)
-- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_32)
+- [AdaCore is hiring a LLVM Compiler Engineer](https://discourse.llvm.org/t/adacore-is-hiring-a-llvm-compiler-engineer/76707#post_1)
+- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_15)
+- [[MachinePipeliner] Replace `SwingSchedulerDAG` with directed graph that allows cycles](https://discourse.llvm.org/t/machinepipeliner-replace-swingschedulerdag-with-directed-graph-that-allows-cycles/76465#post_7)
+- [Performance analysis for TSVC](https://discourse.llvm.org/t/performance-analysis-for-tsvc/75413#post_10)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
