@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Handling Cyclic Dependencies in Debug Info](https://discourse.llvm.org/t/handling-cyclic-dependencies-in-debug-info/67526#post_17)
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_38)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_32)
-- [[MachinePipeliner] Replace `SwingSchedulerDAG` with directed graph that allows cycles](https://discourse.llvm.org/t/machinepipeliner-replace-swingschedulerdag-with-directed-graph-that-allows-cycles/76465#post_8)
-- [LLVM 18.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc1-tagged/76619#post_4)
+- [Directly referencing a basic block](https://discourse.llvm.org/t/directly-referencing-a-basic-block/76710#post_2)
+- [Directly referencing a basic block](https://discourse.llvm.org/t/directly-referencing-a-basic-block/76710#post_1)
+- [Does llvm-bolt support in updating debug sections with dwarf64 format?](https://discourse.llvm.org/t/does-llvm-bolt-support-in-updating-debug-sections-with-dwarf64-format/76709#post_1)
+- [Inquiry regarding accurate calculation of maximum constant backedge count in SCEV](https://discourse.llvm.org/t/inquiry-regarding-accurate-calculation-of-maximum-constant-backedge-count-in-scev/74682#post_6)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
