@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_7)
-- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_6)
-- [[RFC] Add cfg drift detect in propeller](https://discourse.llvm.org/t/rfc-add-cfg-drift-detect-in-propeller/76733#post_3)
-- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_5)
-- [[RFC] Add cfg drift detect in propeller](https://discourse.llvm.org/t/rfc-add-cfg-drift-detect-in-propeller/76733#post_2)
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_9)
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_8)
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_7)
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_6)
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_5)
 <!-- DISCOURSE-LLVM:END -->
