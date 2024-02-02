@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_1)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_96)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_55)
 - [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_39)
 - [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_38)
-- [PTX to LLVM IR](https://discourse.llvm.org/t/ptx-to-llvm-ir/30647#post_2)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_37)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_36)
 <!-- DISCOURSE-LLVM:END -->
