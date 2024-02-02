@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_40)
-- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507?page=2#post_23)
-- [2024 Euro LLVM Registration is now open!](https://discourse.llvm.org/t/2024-euro-llvm-registration-is-now-open/76752#post_1)
-- [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_16)
-- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554?page=2#post_28)
+- [Code Review Process Update](https://discourse.llvm.org/t/code-review-process-update/63964?page=7#post_130)
+- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723#post_18)
+- [Board Meeting Minutes - December 2023](https://discourse.llvm.org/t/board-meeting-minutes-december-2023/76755#post_1)
+- [Enabling opaque pointers by default](https://discourse.llvm.org/t/enabling-opaque-pointers-by-default/61322?page=4#post_68)
+- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_13)
 <!-- DISCOURSE-LLVM:END -->
