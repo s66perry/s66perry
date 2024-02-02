@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_7)
+- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_6)
 - [[RFC] Add cfg drift detect in propeller](https://discourse.llvm.org/t/rfc-add-cfg-drift-detect-in-propeller/76733#post_3)
 - [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_5)
 - [[RFC] Add cfg drift detect in propeller](https://discourse.llvm.org/t/rfc-add-cfg-drift-detect-in-propeller/76733#post_2)
-- [Clang-tidy and system folders](https://discourse.llvm.org/t/clang-tidy-and-system-folders/76726#post_3)
-- [[RFC] Add cfg drift detect in propeller](https://discourse.llvm.org/t/rfc-add-cfg-drift-detect-in-propeller/76733#post_1)
 <!-- DISCOURSE-LLVM:END -->
