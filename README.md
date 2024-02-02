@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_9)
-- [Inliner cost model](https://discourse.llvm.org/t/inliner-cost-model/2992#post_13)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_15)
-- [How to Unroll vector.mask %0 { vector.contract ...}](https://discourse.llvm.org/t/how-to-unroll-vector-mask-0-vector-contract/76728#post_4)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_14)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_40)
+- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507?page=2#post_23)
+- [2024 Euro LLVM Registration is now open!](https://discourse.llvm.org/t/2024-euro-llvm-registration-is-now-open/76752#post_1)
+- [Llvm::format is dangerous](https://discourse.llvm.org/t/llvm-format-is-dangerous/71994#post_16)
+- [Propogation of fpclass assumptions vis a vis fast-math flags](https://discourse.llvm.org/t/propogation-of-fpclass-assumptions-vis-a-vis-fast-math-flags/76554?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
