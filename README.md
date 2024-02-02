@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_35)
-- [Community.o Workshop at EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-at-eurollvm-2024/76722#post_1)
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695?page=2#post_21)
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_20)
-- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695#post_19)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_38)
+- [PTX to LLVM IR](https://discourse.llvm.org/t/ptx-to-llvm-ir/30647#post_2)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_37)
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_36)
+- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
