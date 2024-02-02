@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposed Policy for committing to LLVM-libc](https://discourse.llvm.org/t/rfc-proposed-policy-for-committing-to-llvm-libc/76617#post_13)
-- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_14)
-- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_10)
-- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_13)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_44)
+- [Inliner cost model](https://discourse.llvm.org/t/inliner-cost-model/2992#post_12)
+- [Guidance on Targeting EVM Bytecode: Direct MLIR Dialect Approach vs. Lowering through LLVM IR](https://discourse.llvm.org/t/guidance-on-targeting-evm-bytecode-direct-mlir-dialect-approach-vs-lowering-through-llvm-ir/76747#post_1)
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_18)
+- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699?page=2#post_33)
+- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_12)
 <!-- DISCOURSE-LLVM:END -->
