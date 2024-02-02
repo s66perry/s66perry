@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724#post_1)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_96)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_55)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_39)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=2#post_38)
+- [[RFC] Support long instruction fixup for X86](https://discourse.llvm.org/t/rfc-support-long-instruction-fixup-for-x86/76539#post_8)
+- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507?page=2#post_21)
+- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507#post_20)
+- [Clang-tidy and system folders](https://discourse.llvm.org/t/clang-tidy-and-system-folders/76726#post_1)
+- [How to match Exponential instruction-chain with PatternMatch?](https://discourse.llvm.org/t/how-to-match-exponential-instruction-chain-with-patternmatch/76725#post_1)
 <!-- DISCOURSE-LLVM:END -->
