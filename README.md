@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add cfg drift detect in propeller](https://discourse.llvm.org/t/rfc-add-cfg-drift-detect-in-propeller/76733#post_4)
 - [Curious about a specific code optimization result](https://discourse.llvm.org/t/curious-about-a-specific-code-optimization-result/76765#post_2)
 - [Curious about a specific code optimization result](https://discourse.llvm.org/t/curious-about-a-specific-code-optimization-result/76765#post_1)
 - [How to constraint the min size of Variadic&lt;Type&gt;](https://discourse.llvm.org/t/how-to-constraint-the-min-size-of-variadic-type/76762#post_2)
 - [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600#post_10)
-- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
