@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is it necessary to implement alias interface?](https://discourse.llvm.org/t/is-it-necessary-to-implement-alias-interface/76790#post_1)
 - [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_9)
 - [SymbolTable and Symbol parent/child relationship](https://discourse.llvm.org/t/symboltable-and-symbol-parent-child-relationship/75446#post_7)
 - [Pre-processing directive to automate GPU Scheduling](https://discourse.llvm.org/t/pre-processing-directive-to-automate-gpu-scheduling/76689#post_2)
 - [Supporting LLVM library usage on Windows with CMake without local build](https://discourse.llvm.org/t/supporting-llvm-library-usage-on-windows-with-cmake-without-local-build/76782#post_2)
-- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_17)
 <!-- DISCOURSE-LLVM:END -->
