@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_56)
-- [How to constraint the min size of Variadic&lt;Type&gt;](https://discourse.llvm.org/t/how-to-constraint-the-min-size-of-variadic-type/76762#post_3)
-- [[RFC] [llvm-cov] adding a -sourceFileList flag](https://discourse.llvm.org/t/rfc-llvm-cov-adding-a-sourcefilelist-flag/76783#post_1)
-- [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600#post_11)
-- [Supporting LLVM library usage on Windows with CMake without local build](https://discourse.llvm.org/t/supporting-llvm-library-usage-on-windows-with-cmake-without-local-build/76782#post_1)
+- [Pre-processing directive to automate GPU Scheduling](https://discourse.llvm.org/t/pre-processing-directive-to-automate-gpu-scheduling/76689#post_2)
+- [Supporting LLVM library usage on Windows with CMake without local build](https://discourse.llvm.org/t/supporting-llvm-library-usage-on-windows-with-cmake-without-local-build/76782#post_2)
+- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_17)
+- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_16)
+- [[RFC] Prefer unittests over matching dumpped AST](https://discourse.llvm.org/t/rfc-prefer-unittests-over-matching-dumpped-ast/76729#post_15)
 <!-- DISCOURSE-LLVM:END -->
