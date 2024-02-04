@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_2)
 - [ScalarEvolution Foldcache](https://discourse.llvm.org/t/scalarevolution-foldcache/76791#post_1)
 - [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_57)
 - [Adding conditionals with LLVM](https://discourse.llvm.org/t/adding-conditionals-with-llvm/76780#post_2)
 - [Is it necessary to implement alias interface?](https://discourse.llvm.org/t/is-it-necessary-to-implement-alias-interface/76790#post_1)
-- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_9)
 <!-- DISCOURSE-LLVM:END -->
