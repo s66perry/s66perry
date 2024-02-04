@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding conditionals with LLVM](https://discourse.llvm.org/t/adding-conditionals-with-llvm/76780#post_1)
+- [Passing libFuzzer arguments as environment variables](https://discourse.llvm.org/t/passing-libfuzzer-arguments-as-environment-variables/76778#post_1)
 - [LLVM IR as code](https://discourse.llvm.org/t/llvm-ir-as-code/76774#post_1)
 - [Scf::for content failure when lowering to standard mlir](https://discourse.llvm.org/t/scf-for-content-failure-when-lowering-to-standard-mlir/76769#post_3)
 - [[GSoC 2024] Discussion - Automatically Generate TableGen File for SPIR-V Instruction Set](https://discourse.llvm.org/t/gsoc-2024-discussion-automatically-generate-tablegen-file-for-spir-v-instruction-set/76771#post_1)
-- [Scf::for content failure when lowering to standard mlir](https://discourse.llvm.org/t/scf-for-content-failure-when-lowering-to-standard-mlir/76769#post_2)
-- [Scf::for content failure when lowering to standard mlir](https://discourse.llvm.org/t/scf-for-content-failure-when-lowering-to-standard-mlir/76769#post_1)
 <!-- DISCOURSE-LLVM:END -->
