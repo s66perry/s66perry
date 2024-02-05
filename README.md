@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [llvm-cov] adding a -sourcesFile flag](https://discourse.llvm.org/t/rfc-llvm-cov-adding-a-sourcesfile-flag/76783#post_2)
+- [AArch64 LLVM Sync-up Call 6 Februari 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-6-februari-2024/76796#post_1)
+- [Is it necessary to implement alias interface?](https://discourse.llvm.org/t/is-it-necessary-to-implement-alias-interface/76790#post_2)
 - [Performance analysis for TSVC](https://discourse.llvm.org/t/performance-analysis-for-tsvc/75413#post_12)
 - [Vectorization of convolution op](https://discourse.llvm.org/t/vectorization-of-convolution-op/60458#post_7)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_19)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_18)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591#post_17)
 <!-- DISCOURSE-LLVM:END -->
