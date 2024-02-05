@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Profile-Guided Loop Specialization Optimization with Instrumentation FDO](https://discourse.llvm.org/t/rfc-profile-guided-loop-specialization-optimization-with-instrumentation-fdo/76657#post_3)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_4)
+- [Detect rvv instruction using BOLT pass](https://discourse.llvm.org/t/detect-rvv-instruction-using-bolt-pass/76799#post_1)
+- [[RFC][Coverage] New algorithm and file format for MC/DC](https://discourse.llvm.org/t/rfc-coverage-new-algorithm-and-file-format-for-mc-dc/76798#post_1)
 - [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_18)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_62)
-- [Adding intrinsics support in flang](https://discourse.llvm.org/t/adding-intrinsics-support-in-flang/76797#post_2)
-- [[RFC] [llvm-cov] adding a -sourcesFile flag](https://discourse.llvm.org/t/rfc-llvm-cov-adding-a-sourcesfile-flag/76783#post_4)
-- [Adding intrinsics support in flang](https://discourse.llvm.org/t/adding-intrinsics-support-in-flang/76797#post_1)
 <!-- DISCOURSE-LLVM:END -->
