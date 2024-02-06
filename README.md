@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to optimize linalg.conv2d](https://discourse.llvm.org/t/how-to-optimize-linalg-conv2d/76827#post_1)
 - [[GSoC 2024] Discussion - Automatically Generate TableGen File for SPIR-V Instruction Set](https://discourse.llvm.org/t/gsoc-2024-discussion-automatically-generate-tablegen-file-for-spir-v-instruction-set/76771#post_5)
 - [[RFC] Upgrading C++ std from 17 to 20 in flang](https://discourse.llvm.org/t/rfc-upgrading-c-std-from-17-to-20-in-flang/76825#post_2)
 - [LLVM 18.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc1-tagged/76619#post_7)
 - [[RFC] Upgrading C++ std from 17 to 20 in flang](https://discourse.llvm.org/t/rfc-upgrading-c-std-from-17-to-20-in-flang/76825#post_1)
-- [Utilizing MLIR in Database Engines](https://discourse.llvm.org/t/utilizing-mlir-in-database-engines/76805#post_3)
 <!-- DISCOURSE-LLVM:END -->
