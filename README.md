@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposed Policy for committing to LLVM-libc](https://discourse.llvm.org/t/rfc-proposed-policy-for-committing-to-llvm-libc/76617#post_16)
+- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840#post_1)
+- [[RFC] Proposed Policy for committing to LLVM-libc](https://discourse.llvm.org/t/rfc-proposed-policy-for-committing-to-llvm-libc/76617#post_15)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837#post_1)
 - [LLVM assembler directives commercial test packages](https://discourse.llvm.org/t/llvm-assembler-directives-commercial-test-packages/76484#post_2)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_43)
-- [Multi-Region SymbolTable](https://discourse.llvm.org/t/multi-region-symboltable/76835#post_1)
-- [[RFC] Upgrading C++ std from 17 to 20 in flang](https://discourse.llvm.org/t/rfc-upgrading-c-std-from-17-to-20-in-flang/76825#post_6)
-- [[RFC] Upgrading C++ std from 17 to 20 in flang](https://discourse.llvm.org/t/rfc-upgrading-c-std-from-17-to-20-in-flang/76825#post_5)
 <!-- DISCOURSE-LLVM:END -->
