@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_41)
+- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_1)
+- [LLVM 18.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc1-tagged/76619#post_10)
+- [Release/18.x branch has been created](https://discourse.llvm.org/t/release-18-x-branch-has-been-created/76480#post_11)
 - [[RFC] Upgrading C++ std from 17 to 20 in flang](https://discourse.llvm.org/t/rfc-upgrading-c-std-from-17-to-20-in-flang/76825#post_4)
-- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=3#post_50)
-- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_3)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=2#post_27)
-- [Buildbot Master restart](https://discourse.llvm.org/t/buildbot-master-restart/76814#post_3)
 <!-- DISCOURSE-LLVM:END -->
