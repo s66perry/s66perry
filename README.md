@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_11)
-- [LLVM bitstream integration with CAS &lpar;content-addressable storage&rpar;](https://discourse.llvm.org/t/llvm-bitstream-integration-with-cas-content-addressable-storage/76757#post_7)
-- [LLVM bitstream integration with CAS &lpar;content-addressable storage&rpar;](https://discourse.llvm.org/t/llvm-bitstream-integration-with-cas-content-addressable-storage/76757#post_6)
-- [[RFC][Coverage] New algorithm and file format for MC/DC](https://discourse.llvm.org/t/rfc-coverage-new-algorithm-and-file-format-for-mc-dc/76798#post_4)
-- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724?page=2#post_22)
+- [Augmenting CFG with probabilities](https://discourse.llvm.org/t/augmenting-cfg-with-probabilities/76698#post_4)
+- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_2)
+- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724?page=2#post_23)
+- [I fixed the bug for memref&#39;s pass, can someone review the code for me?](https://discourse.llvm.org/t/i-fixed-the-bug-for-memrefs-pass-can-someone-review-the-code-for-me/76810#post_3)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_8)
 <!-- DISCOURSE-LLVM:END -->
