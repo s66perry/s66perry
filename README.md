@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Should the compile phase options be retained in the backend opt phase of distributed thinlto?](https://discourse.llvm.org/t/should-the-compile-phase-options-be-retained-in-the-backend-opt-phase-of-distributed-thinlto/76850#post_1)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687?page=3#post_43)
+- [How to optimize linalg.conv2d](https://discourse.llvm.org/t/how-to-optimize-linalg-conv2d/76827#post_3)
 - [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_35)
 - [Smaller object file cost for .debug_names intended only for linking](https://discourse.llvm.org/t/smaller-object-file-cost-for-debug-names-intended-only-for-linking/76445#post_14)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_98)
-- [SymbolTable and Symbol parent/child relationship](https://discourse.llvm.org/t/symboltable-and-symbol-parent-child-relationship/75446#post_8)
-- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
