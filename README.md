@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600#post_19)
-- [Should the compile phase options be retained in the backend opt phase of distributed thinlto?](https://discourse.llvm.org/t/should-the-compile-phase-options-be-retained-in-the-backend-opt-phase-of-distributed-thinlto/76850#post_1)
-- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687?page=3#post_43)
-- [How to optimize linalg.conv2d](https://discourse.llvm.org/t/how-to-optimize-linalg-conv2d/76827#post_3)
-- [PRs without approvals muddy the waters](https://discourse.llvm.org/t/prs-without-approvals-muddy-the-waters/76656?page=2#post_35)
+- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840#post_14)
+- [LLVM 18.1.0-rc2 Released](https://discourse.llvm.org/t/llvm-18-1-0-rc2-released/76854#post_1)
+- [LLVM 18.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc2-tagged/76853#post_1)
+- [How to get number of parameters of FuncOp?](https://discourse.llvm.org/t/how-to-get-number-of-parameters-of-funcop/68078#post_4)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=5#post_99)
 <!-- DISCOURSE-LLVM:END -->
