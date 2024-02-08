@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-tidying C code: `StructCase` not working](https://discourse.llvm.org/t/clang-tidying-c-code-structcase-not-working/76863#post_3)
-- [LLDB 15 build on Linux cannot find libpython3.11.so.1.0](https://discourse.llvm.org/t/lldb-15-build-on-linux-cannot-find-libpython3-11-so-1-0/76878#post_3)
-- [Clang-tidying C code: `StructCase` not working](https://discourse.llvm.org/t/clang-tidying-c-code-structcase-not-working/76863#post_2)
-- [LLDB 15 build on Linux cannot find libpython3.11.so.1.0](https://discourse.llvm.org/t/lldb-15-build-on-linux-cannot-find-libpython3-11-so-1-0/76878#post_2)
-- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_3)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_10)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_9)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837#post_13)
+- [[Update] [LP-0004] Proposal for project governance](https://discourse.llvm.org/t/update-lp-0004-proposal-for-project-governance/76716#post_3)
+- [[Update] [LP-0004] Proposal for project governance](https://discourse.llvm.org/t/update-lp-0004-proposal-for-project-governance/76716#post_2)
 <!-- DISCOURSE-LLVM:END -->
