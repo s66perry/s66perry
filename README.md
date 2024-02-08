@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=2#post_35)
+- [How to optimize linalg.conv2d](https://discourse.llvm.org/t/how-to-optimize-linalg-conv2d/76827#post_5)
 - [Augmenting CFG with probabilities](https://discourse.llvm.org/t/augmenting-cfg-with-probabilities/76698#post_6)
 - [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=2#post_34)
 - [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=2#post_33)
-- [Handling conditionals: PHINode vs CreateCondBr](https://discourse.llvm.org/t/handling-conditionals-phinode-vs-createcondbr/76867#post_1)
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
