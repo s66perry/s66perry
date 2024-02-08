@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [GSOC 2024: call for mentors and projects!](https://discourse.llvm.org/t/gsoc-2024-call-for-mentors-and-projects/76284#post_4)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_59)
-- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_2)
-- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_1)
-- [Multi-Region SymbolTable](https://discourse.llvm.org/t/multi-region-symboltable/76835#post_5)
+- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_3)
+- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_2)
+- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_1)
+- [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600?page=2#post_25)
+- [Construct ThreadPool from vector of existing threads](https://discourse.llvm.org/t/construct-threadpool-from-vector-of-existing-threads/76883#post_1)
 <!-- DISCOURSE-LLVM:END -->
