@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-tidying C code: `StructCase` not working](https://discourse.llvm.org/t/clang-tidying-c-code-structcase-not-working/76863#post_3)
+- [LLDB 15 build on Linux cannot find libpython3.11.so.1.0](https://discourse.llvm.org/t/lldb-15-build-on-linux-cannot-find-libpython3-11-so-1-0/76878#post_3)
+- [Clang-tidying C code: `StructCase` not working](https://discourse.llvm.org/t/clang-tidying-c-code-structcase-not-working/76863#post_2)
+- [LLDB 15 build on Linux cannot find libpython3.11.so.1.0](https://discourse.llvm.org/t/lldb-15-build-on-linux-cannot-find-libpython3-11-so-1-0/76878#post_2)
 - [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_3)
-- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_2)
-- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_1)
-- [Beginner help for llvm passes](https://discourse.llvm.org/t/beginner-help-for-llvm-passes/76600?page=2#post_25)
-- [Construct ThreadPool from vector of existing threads](https://discourse.llvm.org/t/construct-threadpool-from-vector-of-existing-threads/76883#post_1)
 <!-- DISCOURSE-LLVM:END -->
