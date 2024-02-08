@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm-objdump &amp;&amp; csky](https://discourse.llvm.org/t/llvm-objdump-csky/76866#post_7)
+- [Detect rvv instruction using BOLT pass](https://discourse.llvm.org/t/detect-rvv-instruction-using-bolt-pass/76799#post_2)
+- [Runtime directory fallback](https://discourse.llvm.org/t/runtime-directory-fallback/76860#post_13)
 - [Runtime directory fallback](https://discourse.llvm.org/t/runtime-directory-fallback/76860#post_12)
 - [Llvm-objdump &amp;&amp; csky](https://discourse.llvm.org/t/llvm-objdump-csky/76866#post_6)
-- [How to optimize linalg.conv2d](https://discourse.llvm.org/t/how-to-optimize-linalg-conv2d/76827#post_6)
-- [Multi-Region SymbolTable](https://discourse.llvm.org/t/multi-region-symboltable/76835#post_6)
-- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_3)
 <!-- DISCOURSE-LLVM:END -->
