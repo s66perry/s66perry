@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Deletion of EntryToken when converting DAG to DAG](https://discourse.llvm.org/t/deletion-of-entrytoken-when-converting-dag-to-dag/76872#post_2)
-- [[RFC] Emit convergence intrinsics for SPIR-V from HLSL](https://discourse.llvm.org/t/rfc-emit-convergence-intrinsics-for-spir-v-from-hlsl/76803#post_3)
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=2#post_36)
-- [Handling conditionals: PHINode vs CreateCondBr](https://discourse.llvm.org/t/handling-conditionals-phinode-vs-createcondbr/76867#post_2)
-- [How does LLDB filter out Rosetta threads in x86_64 targets on Apple Silicon?](https://discourse.llvm.org/t/how-does-lldb-filter-out-rosetta-threads-in-x86-64-targets-on-apple-silicon/76874#post_2)
+- [GSOC 2024: call for mentors and projects!](https://discourse.llvm.org/t/gsoc-2024-call-for-mentors-and-projects/76284#post_4)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_59)
+- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_2)
+- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_1)
+- [Multi-Region SymbolTable](https://discourse.llvm.org/t/multi-region-symboltable/76835#post_5)
 <!-- DISCOURSE-LLVM:END -->
