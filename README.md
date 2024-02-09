@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Deletion of EntryToken when converting DAG to DAG](https://discourse.llvm.org/t/deletion-of-entrytoken-when-converting-dag-to-dag/76872#post_3)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091?page=2#post_23)
-- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_4)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=2#post_38)
-- [[RFC] Sparse tensor support in torch-mlir](https://discourse.llvm.org/t/rfc-sparse-tensor-support-in-torch-mlir/63627?page=2#post_36)
+- [Atomic loads/stores of floating point](https://discourse.llvm.org/t/atomic-loads-stores-of-floating-point/76459#post_3)
+- [Documentation of support in Clang for OpenMP pragmas/clauses](https://discourse.llvm.org/t/documentation-of-support-in-clang-for-openmp-pragmas-clauses/76900#post_1)
+- [Debug on iOS device very slow with swift project and golang lib](https://discourse.llvm.org/t/debug-on-ios-device-very-slow-with-swift-project-and-golang-lib/76899#post_1)
+- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_5)
+- [LLVM 18.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc2-tagged/76853#post_4)
 <!-- DISCOURSE-LLVM:END -->
