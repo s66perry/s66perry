@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Documentation of support in Clang for OpenMP pragmas/clauses](https://discourse.llvm.org/t/documentation-of-support-in-clang-for-openmp-pragmas-clauses/76900#post_7)
 - [Codegen slower with new PassManager](https://discourse.llvm.org/t/codegen-slower-with-new-passmanager/76906#post_5)
 - [Codegen slower with new PassManager](https://discourse.llvm.org/t/codegen-slower-with-new-passmanager/76906#post_4)
 - [Codegen slower with new PassManager](https://discourse.llvm.org/t/codegen-slower-with-new-passmanager/76906#post_3)
 - [Codegen slower with new PassManager](https://discourse.llvm.org/t/codegen-slower-with-new-passmanager/76906#post_2)
-- [Documentation of support in Clang for OpenMP pragmas/clauses](https://discourse.llvm.org/t/documentation-of-support-in-clang-for-openmp-pragmas-clauses/76900#post_6)
 <!-- DISCOURSE-LLVM:END -->
