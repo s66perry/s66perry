@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Reporting warnings with -Wunused-variable for copy constructors with side effects](https://discourse.llvm.org/t/reporting-warnings-with-wunused-variable-for-copy-constructors-with-side-effects/76897#post_3)
-- [Deletion of EntryToken when converting DAG to DAG](https://discourse.llvm.org/t/deletion-of-entrytoken-when-converting-dag-to-dag/76872#post_5)
-- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_15)
-- [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_7)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091?page=2#post_24)
+- [LLVM 18.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc2-tagged/76853#post_5)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_17)
+- [Share values between separate processes?](https://discourse.llvm.org/t/share-values-between-separate-processes/76902#post_1)
+- [[RFC] Emit convergence intrinsics for SPIR-V from HLSL](https://discourse.llvm.org/t/rfc-emit-convergence-intrinsics-for-spir-v-from-hlsl/76803#post_4)
+- [Documentation of support in Clang for OpenMP pragmas/clauses](https://discourse.llvm.org/t/documentation-of-support-in-clang-for-openmp-pragmas-clauses/76900#post_4)
 <!-- DISCOURSE-LLVM:END -->
