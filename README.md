@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Construct ThreadPool from vector of existing threads](https://discourse.llvm.org/t/construct-threadpool-from-vector-of-existing-threads/76883#post_2)
 - [Possible null dereferencing in VPlanTransforms.cpp](https://discourse.llvm.org/t/possible-null-dereferencing-in-vplantransforms-cpp/76894#post_1)
 - [Llvm-objdump &amp;&amp; csky](https://discourse.llvm.org/t/llvm-objdump-csky/76866#post_7)
 - [Detect rvv instruction using BOLT pass](https://discourse.llvm.org/t/detect-rvv-instruction-using-bolt-pass/76799#post_2)
 - [Runtime directory fallback](https://discourse.llvm.org/t/runtime-directory-fallback/76860#post_13)
-- [Runtime directory fallback](https://discourse.llvm.org/t/runtime-directory-fallback/76860#post_12)
 <!-- DISCOURSE-LLVM:END -->
