@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Perjalanan ke Harta Karun: Jelajahi Dunia Poker yang Penuh Misteri](https://discourse.llvm.org/t/perjalanan-ke-harta-karun-jelajahi-dunia-poker-yang-penuh-misteri/76910#post_1)
+- [Documentation of support in Clang for OpenMP pragmas/clauses](https://discourse.llvm.org/t/documentation-of-support-in-clang-for-openmp-pragmas-clauses/76900#post_8)
 - [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_4)
 - [Showcasing the strengths of clang-format to the OpenFOAM community](https://discourse.llvm.org/t/showcasing-the-strengths-of-clang-format-to-the-openfoam-community/75762#post_3)
 - [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_8)
-- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_7)
-- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_6)
 <!-- DISCOURSE-LLVM:END -->
