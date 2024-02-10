@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_4)
-- [Llvm-objdump &amp;&amp; csky](https://discourse.llvm.org/t/llvm-objdump-csky/76866#post_8)
-- [Floating point working group](https://discourse.llvm.org/t/floating-point-working-group/76907#post_3)
-- [Floating point working group](https://discourse.llvm.org/t/floating-point-working-group/76907#post_2)
-- [Floating point working group](https://discourse.llvm.org/t/floating-point-working-group/76907#post_1)
+- [Showcasing the strengths of clang-format to the OpenFOAM community](https://discourse.llvm.org/t/showcasing-the-strengths-of-clang-format-to-the-openfoam-community/75762#post_3)
+- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_8)
+- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_7)
+- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_6)
+- [[Pybind] Exposing OpInterfaces in Python](https://discourse.llvm.org/t/pybind-exposing-opinterfaces-in-python/76879#post_5)
 <!-- DISCOURSE-LLVM:END -->
