@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_1)
+- [A less conservative -Wunused-private-field and others?](https://discourse.llvm.org/t/a-less-conservative-wunused-private-field-and-others/76920#post_2)
 - [Change default of float constants](https://discourse.llvm.org/t/change-default-of-float-constants/76923#post_3)
 - [Change default of float constants](https://discourse.llvm.org/t/change-default-of-float-constants/76923#post_2)
 - [Change default of float constants](https://discourse.llvm.org/t/change-default-of-float-constants/76923#post_1)
-- [Help in instrumentation](https://discourse.llvm.org/t/help-in-instrumentation/76921#post_2)
-- [Detect rvv instruction using BOLT pass](https://discourse.llvm.org/t/detect-rvv-instruction-using-bolt-pass/76799#post_3)
 <!-- DISCOURSE-LLVM:END -->
