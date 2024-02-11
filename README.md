@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_5)
+- [Mlir-s390x-linux failure](https://discourse.llvm.org/t/mlir-s390x-linux-failure/76695?page=2#post_26)
+- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_12)
 - [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_1)
 - [A less conservative -Wunused-private-field and others?](https://discourse.llvm.org/t/a-less-conservative-wunused-private-field-and-others/76920#post_2)
-- [Change default of float constants](https://discourse.llvm.org/t/change-default-of-float-constants/76923#post_3)
-- [Change default of float constants](https://discourse.llvm.org/t/change-default-of-float-constants/76923#post_2)
-- [Change default of float constants](https://discourse.llvm.org/t/change-default-of-float-constants/76923#post_1)
 <!-- DISCOURSE-LLVM:END -->
