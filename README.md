@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Discontinuing pytorch 1 binary releases](https://discourse.llvm.org/t/rfc-discontinuing-pytorch-1-binary-releases/76371#post_3)
+- [MSVC suppressed warnings: should they be actually suppressed?](https://discourse.llvm.org/t/msvc-suppressed-warnings-should-they-be-actually-suppressed/76939#post_4)
 - [Possible null dereferencing in VPlanTransforms.cpp](https://discourse.llvm.org/t/possible-null-dereferencing-in-vplantransforms-cpp/76894#post_5)
 - [Possible null dereferencing in VPlanTransforms.cpp](https://discourse.llvm.org/t/possible-null-dereferencing-in-vplantransforms-cpp/76894#post_4)
 - [Multi-stage build](https://discourse.llvm.org/t/multi-stage-build/76914#post_2)
-- [A less conservative -Wunused-private-field and others?](https://discourse.llvm.org/t/a-less-conservative-wunused-private-field-and-others/76920#post_6)
-- [LLVM bitstream integration with CAS &lpar;content-addressable storage&rpar;](https://discourse.llvm.org/t/llvm-bitstream-integration-with-cas-content-addressable-storage/76757#post_10)
 <!-- DISCOURSE-LLVM:END -->
