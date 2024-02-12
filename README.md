@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MSVC suppressed warnings: should they be actually suppressed?](https://discourse.llvm.org/t/msvc-suppressed-warnings-should-they-be-actually-suppressed/76939#post_1)
-- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_14)
-- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_13)
-- [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_3)
-- [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_2)
+- [Register Blocking &lpar;loop unroll + Scalar Replacement&rpar;](https://discourse.llvm.org/t/register-blocking-loop-unroll-scalar-replacement/76942#post_1)
+- [128-bit integer C++ proposal](https://discourse.llvm.org/t/128-bit-integer-c-proposal/76941#post_1)
+- [LLVM Meetup in Munich – January 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-29th-2024/75483#post_6)
+- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_3)
+- [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_4)
 <!-- DISCOURSE-LLVM:END -->
