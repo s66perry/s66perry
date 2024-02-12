@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_8)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_102)
-- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_7)
-- [Memory-to-memory instructions support](https://discourse.llvm.org/t/memory-to-memory-instructions-support/76949#post_1)
-- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_6)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883#post_8)
+- [LLVM Weekly - #528, February 12th 2024](https://discourse.llvm.org/t/llvm-weekly-528-february-12th-2024/76950#post_1)
+- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943#post_4)
+- [MSVC suppressed warnings: should they be actually suppressed?](https://discourse.llvm.org/t/msvc-suppressed-warnings-should-they-be-actually-suppressed/76939#post_3)
+- [Supporting LLVM library usage on Windows with CMake without local build](https://discourse.llvm.org/t/supporting-llvm-library-usage-on-windows-with-cmake-without-local-build/76782#post_4)
 <!-- DISCOURSE-LLVM:END -->
