@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_5)
-- [Possible null dereferencing in VPlanTransforms.cpp](https://discourse.llvm.org/t/possible-null-dereferencing-in-vplantransforms-cpp/76894#post_3)
-- [Community.o Workshop at EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-at-eurollvm-2024/76722#post_2)
-- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_4)
-- [Possible null dereferencing in VPlanTransforms.cpp](https://discourse.llvm.org/t/possible-null-dereferencing-in-vplantransforms-cpp/76894#post_2)
+- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_8)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_102)
+- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_7)
+- [Memory-to-memory instructions support](https://discourse.llvm.org/t/memory-to-memory-instructions-support/76949#post_1)
+- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_6)
 <!-- DISCOURSE-LLVM:END -->
