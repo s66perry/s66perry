@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883#post_8)
-- [LLVM Weekly - #528, February 12th 2024](https://discourse.llvm.org/t/llvm-weekly-528-february-12th-2024/76950#post_1)
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943#post_4)
-- [MSVC suppressed warnings: should they be actually suppressed?](https://discourse.llvm.org/t/msvc-suppressed-warnings-should-they-be-actually-suppressed/76939#post_3)
-- [Supporting LLVM library usage on Windows with CMake without local build](https://discourse.llvm.org/t/supporting-llvm-library-usage-on-windows-with-cmake-without-local-build/76782#post_4)
+- [Possible null dereferencing in VPlanTransforms.cpp](https://discourse.llvm.org/t/possible-null-dereferencing-in-vplantransforms-cpp/76894#post_5)
+- [Possible null dereferencing in VPlanTransforms.cpp](https://discourse.llvm.org/t/possible-null-dereferencing-in-vplantransforms-cpp/76894#post_4)
+- [Multi-stage build](https://discourse.llvm.org/t/multi-stage-build/76914#post_2)
+- [A less conservative -Wunused-private-field and others?](https://discourse.llvm.org/t/a-less-conservative-wunused-private-field-and-others/76920#post_6)
+- [LLVM bitstream integration with CAS &lpar;content-addressable storage&rpar;](https://discourse.llvm.org/t/llvm-bitstream-integration-with-cas-content-addressable-storage/76757#post_10)
 <!-- DISCOURSE-LLVM:END -->
