@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Floating point working group](https://discourse.llvm.org/t/floating-point-working-group/76907#post_4)
-- [Filtering frames out of the backtrace display](https://discourse.llvm.org/t/filtering-frames-out-of-the-backtrace-display/76933#post_2)
-- [[mlir][One-Shot Bufferizer] Customizable tensor &lt;-&gt; memref conversions](https://discourse.llvm.org/t/mlir-one-shot-bufferizer-customizable-tensor-memref-conversions/76829#post_4)
-- [Deletion of EntryToken when converting DAG to DAG](https://discourse.llvm.org/t/deletion-of-entrytoken-when-converting-dag-to-dag/76872#post_7)
-- [RFC: Making explicit the relationship between modules, checks and check aliases](https://discourse.llvm.org/t/rfc-making-explicit-the-relationship-between-modules-checks-and-check-aliases/69637#post_9)
+- [MSVC suppressed warnings: should they be actually suppressed?](https://discourse.llvm.org/t/msvc-suppressed-warnings-should-they-be-actually-suppressed/76939#post_1)
+- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_14)
+- [Traversing member types of a type](https://discourse.llvm.org/t/traversing-member-types-of-a-type/72452#post_13)
+- [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_3)
+- [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_2)
 <!-- DISCOURSE-LLVM:END -->
