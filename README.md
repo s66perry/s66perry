@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724?page=2#post_32)
-- [[RFC] Turn on LLVM_USE_SPLIT_DWARF by default for Linux Debug build](https://discourse.llvm.org/t/rfc-turn-on-llvm-use-split-dwarf-by-default-for-linux-debug-build/76724?page=2#post_31)
-- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_21)
-- [Question on Tensor dialect reshape ops](https://discourse.llvm.org/t/question-on-tensor-dialect-reshape-ops/76968#post_1)
-- [Floating point working group](https://discourse.llvm.org/t/floating-point-working-group/76907#post_6)
+- [Construct ThreadPool from vector of existing threads](https://discourse.llvm.org/t/construct-threadpool-from-vector-of-existing-threads/76883#post_4)
+- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_23)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_19)
+- [Add FloatType to MLIR Python bindings](https://discourse.llvm.org/t/add-floattype-to-mlir-python-bindings/76959#post_5)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883#post_14)
 <!-- DISCOURSE-LLVM:END -->
