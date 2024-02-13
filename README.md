@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_6)
 - [How to generate Conv2d in NHWC format](https://discourse.llvm.org/t/how-to-generate-conv2d-in-nhwc-format/76957#post_1)
 - [How to use llvm-tblgen?](https://discourse.llvm.org/t/how-to-use-llvm-tblgen/74901#post_3)
 - [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_3)
 - [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_2)
-- [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_1)
 <!-- DISCOURSE-LLVM:END -->
