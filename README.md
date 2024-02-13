@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Add FloatType to MLIR Python bindings](https://discourse.llvm.org/t/add-floattype-to-mlir-python-bindings/76959#post_1)
+- [[Draft] MLIR News, 62nd edition &lpar;14th Feb 2024&rpar;](https://discourse.llvm.org/t/draft-mlir-news-62nd-edition-14th-feb-2024/76958#post_1)
+- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_6)
+- [LLVM 18.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc2-tagged/76853#post_7)
 - [Construct ThreadPool from vector of existing threads](https://discourse.llvm.org/t/construct-threadpool-from-vector-of-existing-threads/76883#post_3)
-- [How to use llvm-tblgen?](https://discourse.llvm.org/t/how-to-use-llvm-tblgen/74901#post_5)
-- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605#post_15)
-- [How to use llvm-tblgen?](https://discourse.llvm.org/t/how-to-use-llvm-tblgen/74901#post_4)
-- [Community.o Workshop at EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-at-eurollvm-2024/76722#post_3)
 <!-- DISCOURSE-LLVM:END -->
