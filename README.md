@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to use llvm-tblgen?](https://discourse.llvm.org/t/how-to-use-llvm-tblgen/74901#post_3)
 - [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_3)
 - [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_2)
 - [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_1)
 - [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_5)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837#post_17)
 <!-- DISCOURSE-LLVM:END -->
