@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943#post_10)
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943#post_9)
-- [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_5)
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=3#post_44)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458#post_19)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833?page=2#post_22)
+- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605#post_20)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=2#post_23)
+- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605#post_19)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
