@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Construct ThreadPool from vector of existing threads](https://discourse.llvm.org/t/construct-threadpool-from-vector-of-existing-threads/76883#post_4)
-- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_23)
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499#post_19)
-- [Add FloatType to MLIR Python bindings](https://discourse.llvm.org/t/add-floattype-to-mlir-python-bindings/76959#post_5)
-- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883#post_14)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=2#post_29)
+- [[RFC] Linalg op flattening](https://discourse.llvm.org/t/rfc-linalg-op-flattening/76946#post_3)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_20)
+- [Question on Tensor dialect reshape ops](https://discourse.llvm.org/t/question-on-tensor-dialect-reshape-ops/76968#post_2)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753#post_19)
 <!-- DISCOURSE-LLVM:END -->
