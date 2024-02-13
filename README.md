@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to use llvm-tblgen?](https://discourse.llvm.org/t/how-to-use-llvm-tblgen/74901#post_4)
+- [Community.o Workshop at EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-at-eurollvm-2024/76722#post_3)
+- [[mlir][One-Shot Bufferizer] Customizable tensor &lt;-&gt; memref conversions](https://discourse.llvm.org/t/mlir-one-shot-bufferizer-customizable-tensor-memref-conversions/76829#post_5)
 - [AVX2 popcount regression](https://discourse.llvm.org/t/avx2-popcount-regression/76926#post_6)
 - [How to generate Conv2d in NHWC format](https://discourse.llvm.org/t/how-to-generate-conv2d-in-nhwc-format/76957#post_1)
-- [How to use llvm-tblgen?](https://discourse.llvm.org/t/how-to-use-llvm-tblgen/74901#post_3)
-- [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_3)
-- [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_2)
 <!-- DISCOURSE-LLVM:END -->
