@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_104)
+- [How do I replace a whole AST sub-tree entirely?](https://discourse.llvm.org/t/how-do-i-replace-a-whole-ast-sub-tree-entirely/76916#post_2)
+- [Interprocedural Identical Basic Block Folding](https://discourse.llvm.org/t/interprocedural-identical-basic-block-folding/76971#post_4)
 - [Interprocedural Identical Basic Block Folding](https://discourse.llvm.org/t/interprocedural-identical-basic-block-folding/76971#post_3)
 - [Interprocedural Identical Basic Block Folding](https://discourse.llvm.org/t/interprocedural-identical-basic-block-folding/76971#post_2)
-- [Question on Tensor dialect reshape ops](https://discourse.llvm.org/t/question-on-tensor-dialect-reshape-ops/76968#post_3)
-- [[MachinePipeliner] Replace `SwingSchedulerDAG` with directed graph that allows cycles](https://discourse.llvm.org/t/machinepipeliner-replace-swingschedulerdag-with-directed-graph-that-allows-cycles/76465#post_11)
-- [Interprocedural Identical Basic Block Folding](https://discourse.llvm.org/t/interprocedural-identical-basic-block-folding/76971#post_1)
 <!-- DISCOURSE-LLVM:END -->
