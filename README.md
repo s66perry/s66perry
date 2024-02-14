@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_4)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458?page=2#post_25)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_108)
-- [Help in instrumentation](https://discourse.llvm.org/t/help-in-instrumentation/76921#post_4)
-- [Supporting LLVM library usage on Windows with CMake without local build](https://discourse.llvm.org/t/supporting-llvm-library-usage-on-windows-with-cmake-without-local-build/76782#post_6)
+- [[RFC] Interprocedural Identical Basic Block Folding](https://discourse.llvm.org/t/rfc-interprocedural-identical-basic-block-folding/76971#post_7)
+- [Adress sanitizer wont catch heap overflow when compiling from llvm bitcode](https://discourse.llvm.org/t/adress-sanitizer-wont-catch-heap-overflow-when-compiling-from-llvm-bitcode/76979#post_7)
+- [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_8)
+- [TOSA reference model from MLIR using EmitC](https://discourse.llvm.org/t/tosa-reference-model-from-mlir-using-emitc/4799#post_16)
+- [Adress sanitizer wont catch heap overflow when compiling from llvm bitcode](https://discourse.llvm.org/t/adress-sanitizer-wont-catch-heap-overflow-when-compiling-from-llvm-bitcode/76979#post_6)
 <!-- DISCOURSE-LLVM:END -->
