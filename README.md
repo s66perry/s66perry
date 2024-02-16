@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_7)
+- [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_12)
+- [Clangd eats memory until crash](https://discourse.llvm.org/t/clangd-eats-memory-until-crash/77011#post_2)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=2#post_31)
 - [Clangd eats memory until crash](https://discourse.llvm.org/t/clangd-eats-memory-until-crash/77011#post_1)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_4)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_3)
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_6)
-- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
