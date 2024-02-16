@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 18.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc2-tagged/76853#post_9)
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499?page=2#post_30)
-- [Inserting into AST](https://discourse.llvm.org/t/inserting-into-ast/77001#post_3)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=2#post_37)
-- [DecomposeConvolutionPatterns vs transform&#39;s decompose](https://discourse.llvm.org/t/decomposeconvolutionpatterns-vs-transforms-decompose/77018#post_1)
+- [Catching unwanted exception at throw site](https://discourse.llvm.org/t/catching-unwanted-exception-at-throw-site/72784#post_7)
+- [Catching unwanted exception at throw site](https://discourse.llvm.org/t/catching-unwanted-exception-at-throw-site/72784#post_6)
+- [[RFC] Target Description and Cost Model in MLIR](https://discourse.llvm.org/t/rfc-target-description-and-cost-model-in-mlir/76990#post_12)
+- [[RFC] Target Description and Cost Model in MLIR](https://discourse.llvm.org/t/rfc-target-description-and-cost-model-in-mlir/76990#post_11)
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_10)
 <!-- DISCOURSE-LLVM:END -->
