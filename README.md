@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Open MLIR Meeting 2/15/2024: Discussion on OpenMP GPU target offloading infrastructure](https://discourse.llvm.org/t/open-mlir-meeting-2-15-2024-discussion-on-openmp-gpu-target-offloading-infrastructure/76970#post_2)
 - [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_7)
 - [Using TypeConstraint instead of Type in parsing ops and types](https://discourse.llvm.org/t/using-typeconstraint-instead-of-type-in-parsing-ops-and-types/76955#post_12)
 - [Clangd eats memory until crash](https://discourse.llvm.org/t/clangd-eats-memory-until-crash/77011#post_2)
 - [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=2#post_31)
-- [Clangd eats memory until crash](https://discourse.llvm.org/t/clangd-eats-memory-until-crash/77011#post_1)
 <!-- DISCOURSE-LLVM:END -->
