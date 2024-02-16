@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-format: Round braces in dedicated lines?](https://discourse.llvm.org/t/clang-format-round-braces-in-dedicated-lines/77014#post_1)
-- [[LLVM] Automatically generate TableGen file for SPIR-V instruction set](https://discourse.llvm.org/t/llvm-automatically-generate-tablegen-file-for-spir-v-instruction-set/76369#post_13)
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_8)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_47)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_46)
+- [Inserting into AST](https://discourse.llvm.org/t/inserting-into-ast/77001#post_3)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=2#post_37)
+- [DecomposeConvolutionPatterns vs transform&#39;s decompose](https://discourse.llvm.org/t/decomposeconvolutionpatterns-vs-transforms-decompose/77018#post_1)
+- [Aarch64 targets ignore -fno-plt option](https://discourse.llvm.org/t/aarch64-targets-ignore-fno-plt-option/77016#post_1)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
