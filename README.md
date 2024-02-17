@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_12)
+- [Reminder: Last 18.1.0 release candidate is planned for Tuesday](https://discourse.llvm.org/t/reminder-last-18-1-0-release-candidate-is-planned-for-tuesday/77037#post_1)
+- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=3#post_47)
 - [LLVM 18.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc2-tagged/76853#post_10)
 - [Improve the LLVM.org Website Look and Feel](https://discourse.llvm.org/t/improve-the-llvm-org-website-look-and-feel/76864#post_2)
-- [[libc][GSoC 2024] Half precision in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2024-half-precision-in-llvm-libc/77027#post_2)
-- [Can LLC Tool invoke the llvm-ir opt-passes by default?](https://discourse.llvm.org/t/can-llc-tool-invoke-the-llvm-ir-opt-passes-by-default/77031#post_3)
-- [Hidden TSan Commandline Options Not Listed with Clang --help-hidden](https://discourse.llvm.org/t/hidden-tsan-commandline-options-not-listed-with-clang-help-hidden/77036#post_3)
 <!-- DISCOURSE-LLVM:END -->
