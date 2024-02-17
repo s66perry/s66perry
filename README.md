@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can LLC Tool invoke the llvm-ir opt-passes by default?](https://discourse.llvm.org/t/can-llc-tool-invoke-the-llvm-ir-opt-passes-by-default/77031#post_3)
 - [Hidden TSan Commandline Options Not Listed with Clang --help-hidden](https://discourse.llvm.org/t/hidden-tsan-commandline-options-not-listed-with-clang-help-hidden/77036#post_3)
 - [Hidden TSan Commandline Options Not Listed with Clang --help-hidden](https://discourse.llvm.org/t/hidden-tsan-commandline-options-not-listed-with-clang-help-hidden/77036#post_2)
 - [Hidden TSan Commandline Options Not Listed with Clang --help-hidden](https://discourse.llvm.org/t/hidden-tsan-commandline-options-not-listed-with-clang-help-hidden/77036#post_1)
 - [Kaleidoscope chapter 8, code works but ends with a Segmentation Fault](https://discourse.llvm.org/t/kaleidoscope-chapter-8-code-works-but-ends-with-a-segmentation-fault/77035#post_1)
-- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_6)
 <!-- DISCOURSE-LLVM:END -->
