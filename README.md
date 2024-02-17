@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What build variable determines where clang finds libclang_rt.builtins.a?](https://discourse.llvm.org/t/what-build-variable-determines-where-clang-finds-libclang-rt-builtins-a/77046#post_1)
+- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_11)
+- [Some question on the semantics of the Arith dialect](https://discourse.llvm.org/t/some-question-on-the-semantics-of-the-arith-dialect/74861#post_10)
+- [Compiling U-BOOT for RISCV fails with LLD](https://discourse.llvm.org/t/compiling-u-boot-for-riscv-fails-with-lld/77044#post_1)
 - [Relative paths in UUID property lists](https://discourse.llvm.org/t/relative-paths-in-uuid-property-lists/77040#post_5)
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=3#post_50)
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=3#post_49)
-- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_1)
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_17)
 <!-- DISCOURSE-LLVM:END -->
