@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_8)
-- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_3)
-- [`icmp` has unexpected result](https://discourse.llvm.org/t/icmp-has-unexpected-result/77059#post_4)
-- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_2)
-- [Libc++ C++23 module installation support](https://discourse.llvm.org/t/libc-c-23-module-installation-support/77061#post_9)
+- [Runtime directory fallback](https://discourse.llvm.org/t/runtime-directory-fallback/76860#post_15)
+- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_4)
+- [LLVM Weekly - #529, February 19th 2024](https://discourse.llvm.org/t/llvm-weekly-529-february-19th-2024/77088#post_1)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_48)
+- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
