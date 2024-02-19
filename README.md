@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Build llvm17 got some errors about linking zlib libraries](https://discourse.llvm.org/t/build-llvm17-got-some-errors-about-linking-zlib-libraries/77079#post_2)
-- [Build llvm17 got some errors about linking zlib libraries](https://discourse.llvm.org/t/build-llvm17-got-some-errors-about-linking-zlib-libraries/77079#post_1)
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499?page=2#post_32)
-- [Atomic loads/stores of floating point](https://discourse.llvm.org/t/atomic-loads-stores-of-floating-point/76459#post_4)
-- [Libc++ C++23 module installation support](https://discourse.llvm.org/t/libc-c-23-module-installation-support/77061#post_8)
+- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_13)
+- [Segmentation fault when using @llvm.global_dtors in Windows](https://discourse.llvm.org/t/segmentation-fault-when-using-llvm-global-dtors-in-windows/77082#post_1)
+- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499?page=2#post_34)
+- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_6)
+- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_5)
 <!-- DISCOURSE-LLVM:END -->
