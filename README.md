@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Profile-Guided Optimization &lpar;PGO&rpar; and Webassembly](https://discourse.llvm.org/t/profile-guided-optimization-pgo-and-webassembly/77090#post_1)
+- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_9)
+- [[RFC] Emit convergence intrinsics for SPIR-V from HLSL](https://discourse.llvm.org/t/rfc-emit-convergence-intrinsics-for-spir-v-from-hlsl/76803#post_6)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_2)
 - [Runtime directory fallback](https://discourse.llvm.org/t/runtime-directory-fallback/76860#post_15)
-- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_4)
-- [LLVM Weekly - #529, February 19th 2024](https://discourse.llvm.org/t/llvm-weekly-529-february-19th-2024/77088#post_1)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_48)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
