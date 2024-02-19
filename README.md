@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_46)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_45)
-- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_13)
-- [Segmentation fault when using @llvm.global_dtors in Windows](https://discourse.llvm.org/t/segmentation-fault-when-using-llvm-global-dtors-in-windows/77082#post_1)
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499?page=2#post_34)
+- [Clang-tools-extra not building up](https://discourse.llvm.org/t/clang-tools-extra-not-building-up/77084#post_1)
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_18)
+- [[tensor dialect] Question about the slicing logic of `tensor.extract_slice`](https://discourse.llvm.org/t/tensor-dialect-question-about-the-slicing-logic-of-tensor-extract-slice/77081#post_2)
+- [LLVM bitstream integration with CAS &lpar;content-addressable storage&rpar;](https://discourse.llvm.org/t/llvm-bitstream-integration-with-cas-content-addressable-storage/76757#post_13)
+- [[RFC] Emit convergence intrinsics for SPIR-V from HLSL](https://discourse.llvm.org/t/rfc-emit-convergence-intrinsics-for-spir-v-from-hlsl/76803#post_5)
 <!-- DISCOURSE-LLVM:END -->
