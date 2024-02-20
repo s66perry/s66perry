@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_1)
+- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_7)
+- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_28)
+- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_6)
 - [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_13)
-- [[Flang][OpenMP][RFC] Replace flang/module/omp_lib.{f90,h} with openmp/runtime/src/include/omp_lib.{f90,h}](https://discourse.llvm.org/t/flang-openmp-rfc-replace-flang-module-omp-lib-f90-h-with-openmp-runtime-src-include-omp-lib-f90-h/77101#post_4)
-- [`icmp` has unexpected result](https://discourse.llvm.org/t/icmp-has-unexpected-result/77059#post_5)
-- [[Flang][OpenMP][RFC] Replace flang/module/omp_lib.{f90,h} with openmp/runtime/src/include/omp_lib.{f90,h}](https://discourse.llvm.org/t/flang-openmp-rfc-replace-flang-module-omp-lib-f90-h-with-openmp-runtime-src-include-omp-lib-f90-h/77101#post_3)
-- [[Flang][OpenMP][RFC] Replace flang/module/omp_lib.{f90,h} with openmp/runtime/src/include/omp_lib.{f90,h}](https://discourse.llvm.org/t/flang-openmp-rfc-replace-flang-module-omp-lib-f90-h-with-openmp-runtime-src-include-omp-lib-f90-h/77101#post_2)
 <!-- DISCOURSE-LLVM:END -->
