@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_5)
-- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_5)
-- [MLIR custom parser problem](https://discourse.llvm.org/t/mlir-custom-parser-problem/77085#post_2)
-- [Build llvm17 got some errors about linking zlib libraries](https://discourse.llvm.org/t/build-llvm17-got-some-errors-about-linking-zlib-libraries/77079#post_3)
-- [[mlir] SameVariadicOperandSize doesn&#39;t generate check in verifier](https://discourse.llvm.org/t/mlir-samevariadicoperandsize-doesnt-generate-check-in-verifier/77091#post_3)
+- [Warning only emit when -save-temps is given?](https://discourse.llvm.org/t/warning-only-emit-when-save-temps-is-given/77096#post_1)
+- [Profile-Guided Optimization &lpar;PGO&rpar; and Webassembly](https://discourse.llvm.org/t/profile-guided-optimization-pgo-and-webassembly/77090#post_3)
+- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=2#post_22)
+- [Floating point working group](https://discourse.llvm.org/t/floating-point-working-group/76907#post_8)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=2#post_41)
 <!-- DISCOURSE-LLVM:END -->
