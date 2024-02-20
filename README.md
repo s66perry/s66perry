@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_12)
-- [Improving the buffer overflow detection ability](https://discourse.llvm.org/t/improving-the-buffer-overflow-detection-ability/77086#post_5)
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=2#post_27)
-- [Improving the buffer overflow detection ability](https://discourse.llvm.org/t/improving-the-buffer-overflow-detection-ability/77086#post_4)
-- [Warning only emit when -save-temps is given?](https://discourse.llvm.org/t/warning-only-emit-when-save-temps-is-given/77096#post_4)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_110)
+- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_1)
+- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_13)
+- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_16)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_6)
 <!-- DISCOURSE-LLVM:END -->
