@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to properly lower vector dialect?](https://discourse.llvm.org/t/how-to-properly-lower-vector-dialect/77070#post_2)
+- [[tensor dialect] Question about the slicing logic of `tensor.extract_slice`](https://discourse.llvm.org/t/tensor-dialect-question-about-the-slicing-logic-of-tensor-extract-slice/77081#post_4)
+- [How to declare 3D array in tablegen](https://discourse.llvm.org/t/how-to-declare-3d-array-in-tablegen/77100#post_1)
+- [MLIR custom parser problem](https://discourse.llvm.org/t/mlir-custom-parser-problem/77085#post_3)
 - [Warning only emit when -save-temps is given?](https://discourse.llvm.org/t/warning-only-emit-when-save-temps-is-given/77096#post_3)
-- [RFC: clang-format all the things!](https://discourse.llvm.org/t/rfc-clang-format-all-the-things/76614?page=3#post_49)
-- [How to apply pdll to a payload IR?](https://discourse.llvm.org/t/how-to-apply-pdll-to-a-payload-ir/76855#post_5)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=3#post_60)
-- [[RFC] Emit convergence intrinsics for SPIR-V from HLSL](https://discourse.llvm.org/t/rfc-emit-convergence-intrinsics-for-spir-v-from-hlsl/76803#post_7)
 <!-- DISCOURSE-LLVM:END -->
