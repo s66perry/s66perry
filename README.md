@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Build llvm17 got some errors about linking zlib libraries](https://discourse.llvm.org/t/build-llvm17-got-some-errors-about-linking-zlib-libraries/77079#post_3)
 - [[mlir] SameVariadicOperandSize doesn&#39;t generate check in verifier](https://discourse.llvm.org/t/mlir-samevariadicoperandsize-doesnt-generate-check-in-verifier/77091#post_3)
 - [Runtime directory fallback](https://discourse.llvm.org/t/runtime-directory-fallback/76860#post_16)
 - [Profile-Guided Optimization &lpar;PGO&rpar; and Webassembly](https://discourse.llvm.org/t/profile-guided-optimization-pgo-and-webassembly/77090#post_2)
 - [[mlir] SameVariadicOperandSize doesn&#39;t generate check in verifier](https://discourse.llvm.org/t/mlir-samevariadicoperandsize-doesnt-generate-check-in-verifier/77091#post_2)
-- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_4)
 <!-- DISCOURSE-LLVM:END -->
