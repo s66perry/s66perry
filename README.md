@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_110)
-- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_1)
-- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_13)
-- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_16)
-- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_6)
+- [Strange Behavior of &quot;omp for&quot;](https://discourse.llvm.org/t/strange-behavior-of-omp-for/77112#post_2)
+- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_17)
+- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_16)
+- [Strange Behavior of &quot;omp for&quot;](https://discourse.llvm.org/t/strange-behavior-of-omp-for/77112#post_1)
+- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_15)
 <!-- DISCOURSE-LLVM:END -->
