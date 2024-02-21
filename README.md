@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Are the LLVM-16 release notes online?](https://discourse.llvm.org/t/are-the-llvm-16-release-notes-online/68944#post_5)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_3)
-- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832#post_18)
-- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952#post_2)
-- [LLVM 18.1.0-rc3 Released](https://discourse.llvm.org/t/llvm-18-1-0-rc3-released/77117#post_1)
+- [Can we get every intrinsic function from clang with source code](https://discourse.llvm.org/t/can-we-get-every-intrinsic-function-from-clang-with-source-code/77121#post_1)
+- [ThinLTO and profile-based module groups](https://discourse.llvm.org/t/thinlto-and-profile-based-module-groups/77120#post_1)
+- [CMake Error at &lt;path&gt; Could NOT find Python3: Found unsuitable version &quot;3.4.3&quot;, but required is at least &quot;3.6&quot;](https://discourse.llvm.org/t/cmake-error-at-path-could-not-find-python3-found-unsuitable-version-3-4-3-but-required-is-at-least-3-6/77119#post_1)
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_5)
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_4)
 <!-- DISCOURSE-LLVM:END -->
