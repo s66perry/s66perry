@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[libc][GSoC 2024] Half precision in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2024-half-precision-in-llvm-libc/77027#post_4)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_11)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_11)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_10)
-- [[RFC] Hardening the VectorType API](https://discourse.llvm.org/t/rfc-hardening-the-vectortype-api/75646#post_10)
+- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_3)
+- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=2#post_42)
+- [[RFC] Integer overflow flags support in `arith` dialect](https://discourse.llvm.org/t/rfc-integer-overflow-flags-support-in-arith-dialect/76025#post_20)
+- [Affine-Parallelize not parallelizing some loops](https://discourse.llvm.org/t/affine-parallelize-not-parallelizing-some-loops/77124#post_1)
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_13)
 <!-- DISCOURSE-LLVM:END -->
