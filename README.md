@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [CMake Error at &lt;path&gt; Could NOT find Python3: Found unsuitable version &quot;3.4.3&quot;, but required is at least &quot;3.6&quot;](https://discourse.llvm.org/t/cmake-error-at-path-could-not-find-python3-found-unsuitable-version-3-4-3-but-required-is-at-least-3-6/77119#post_2)
-- [Floating point working group](https://discourse.llvm.org/t/floating-point-working-group/76907#post_10)
-- [Extension for creating objects via memcpy](https://discourse.llvm.org/t/extension-for-creating-objects-via-memcpy/76961#post_4)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_16)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_15)
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_17)
+- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417?page=2#post_23)
+- [Affine-Parallelize not parallelizing some loops](https://discourse.llvm.org/t/affine-parallelize-not-parallelizing-some-loops/77124#post_6)
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_21)
+- [[RFC][GSOC 2024] - Improve Clang Diagnostics](https://discourse.llvm.org/t/rfc-gsoc-2024-improve-clang-diagnostics/76832?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
