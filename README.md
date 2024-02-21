@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_4)
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_20)
-- [Tablegen help on adding new noop-like instructions](https://discourse.llvm.org/t/tablegen-help-on-adding-new-noop-like-instructions/77129#post_4)
-- [Assembler arg validity and docs &lpar;-Wa, -Xassembler&rpar;](https://discourse.llvm.org/t/assembler-arg-validity-and-docs-wa-xassembler/77125#post_2)
-- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_20)
+- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928?page=2#post_21)
+- [ThinLTO and profile-based module groups](https://discourse.llvm.org/t/thinlto-and-profile-based-module-groups/77120#post_2)
+- [[RFC] Integer overflow flags support in `arith` dialect](https://discourse.llvm.org/t/rfc-integer-overflow-flags-support-in-arith-dialect/76025?page=2#post_21)
+- [How to search old pull requests on Phabricator?](https://discourse.llvm.org/t/how-to-search-old-pull-requests-on-phabricator/77133#post_3)
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_14)
 <!-- DISCOURSE-LLVM:END -->
