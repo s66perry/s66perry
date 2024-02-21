@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928?page=2#post_21)
-- [ThinLTO and profile-based module groups](https://discourse.llvm.org/t/thinlto-and-profile-based-module-groups/77120#post_2)
-- [[RFC] Integer overflow flags support in `arith` dialect](https://discourse.llvm.org/t/rfc-integer-overflow-flags-support-in-arith-dialect/76025?page=2#post_21)
-- [How to search old pull requests on Phabricator?](https://discourse.llvm.org/t/how-to-search-old-pull-requests-on-phabricator/77133#post_3)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_14)
+- [ThinLTO and profile-based module groups](https://discourse.llvm.org/t/thinlto-and-profile-based-module-groups/77120#post_6)
+- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939#post_20)
+- [ThinLTO and profile-based module groups](https://discourse.llvm.org/t/thinlto-and-profile-based-module-groups/77120#post_5)
+- [ThinLTO and profile-based module groups](https://discourse.llvm.org/t/thinlto-and-profile-based-module-groups/77120#post_4)
+- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
