@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][OpenMP] Splitting combined/composite directives in lowering](https://discourse.llvm.org/t/rfc-openmp-splitting-combined-composite-directives-in-lowering/76499?page=2#post_35)
-- [Tablegen help on adding new noop-like instructions](https://discourse.llvm.org/t/tablegen-help-on-adding-new-noop-like-instructions/77129#post_2)
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=3#post_54)
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=3#post_53)
-- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_9)
+- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_4)
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998#post_20)
+- [Tablegen help on adding new noop-like instructions](https://discourse.llvm.org/t/tablegen-help-on-adding-new-noop-like-instructions/77129#post_4)
+- [Assembler arg validity and docs &lpar;-Wa, -Xassembler&rpar;](https://discourse.llvm.org/t/assembler-arg-validity-and-docs-wa-xassembler/77125#post_2)
+- [LLVMExports.cmake build/install tree mystery differences](https://discourse.llvm.org/t/llvmexports-cmake-build-install-tree-mystery-differences/76928#post_20)
 <!-- DISCOURSE-LLVM:END -->
