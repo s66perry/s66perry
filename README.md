@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to search old pull requests on Phabricator?](https://discourse.llvm.org/t/how-to-search-old-pull-requests-on-phabricator/77133#post_4)
-- [[RFC] Representing combined/composite constructs in the OpenMP dialect](https://discourse.llvm.org/t/rfc-representing-combined-composite-constructs-in-the-openmp-dialect/76986#post_6)
-- [Distributed thinlto and no-distributed thinlto perform different optimizations](https://discourse.llvm.org/t/distributed-thinlto-and-no-distributed-thinlto-perform-different-optimizations/77163#post_1)
-- [[RFC] Metadata attachments for function arguments](https://discourse.llvm.org/t/rfc-metadata-attachments-for-function-arguments/76420#post_10)
-- [[RFC] Source expressions as metadata](https://discourse.llvm.org/t/rfc-source-expressions-as-metadata/77160#post_2)
+- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_30)
+- [[RFC] Source expressions as metadata](https://discourse.llvm.org/t/rfc-source-expressions-as-metadata/77160#post_3)
+- [[RFC] Representing combined/composite constructs in the OpenMP dialect](https://discourse.llvm.org/t/rfc-representing-combined-composite-constructs-in-the-openmp-dialect/76986#post_9)
+- [[RFC] Representing combined/composite constructs in the OpenMP dialect](https://discourse.llvm.org/t/rfc-representing-combined-composite-constructs-in-the-openmp-dialect/76986#post_8)
+- [End of support for 64 bit big endian linux on powerpc](https://discourse.llvm.org/t/end-of-support-for-64-bit-big-endian-linux-on-powerpc/77164#post_1)
 <!-- DISCOURSE-LLVM:END -->
