@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 18.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc2-tagged/76853#post_15)
+- [Llvm-profgen with non-LBR profiles](https://discourse.llvm.org/t/llvm-profgen-with-non-lbr-profiles/77140#post_3)
+- [MSVC to ClangCL problems](https://discourse.llvm.org/t/msvc-to-clangcl-problems/77173#post_1)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=3#post_44)
 - [18.1.0 Release Update](https://discourse.llvm.org/t/18-1-0-release-update/77169#post_3)
-- [CMake setup for client projects, building LLVM as dependency](https://discourse.llvm.org/t/cmake-setup-for-client-projects-building-llvm-as-dependency/77136#post_8)
-- [18.1.0 Release Update](https://discourse.llvm.org/t/18-1-0-release-update/77169#post_2)
-- [18.1.0 Release Update](https://discourse.llvm.org/t/18-1-0-release-update/77169#post_1)
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
