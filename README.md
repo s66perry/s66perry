@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to map scf.forall to threads for CPU target?](https://discourse.llvm.org/t/how-to-map-scf-forall-to-threads-for-cpu-target/77182#post_1)
+- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_41)
+- [I&#39;m having a bit of a problem writing DRR](https://discourse.llvm.org/t/im-having-a-bit-of-a-problem-writing-drr/77179#post_1)
 - [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952#post_3)
 - [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042#post_11)
-- [Using Analysis Passes with the New Pass Manager](https://discourse.llvm.org/t/using-analysis-passes-with-the-new-pass-manager/77175#post_3)
-- [Using Analysis Passes with the New Pass Manager](https://discourse.llvm.org/t/using-analysis-passes-with-the-new-pass-manager/77175#post_2)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
