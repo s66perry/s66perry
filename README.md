@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=3#post_58)
-- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=2#post_36)
-- [[RFC] Add XeGPU dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723?page=2#post_22)
-- [CMake setup for client projects, building LLVM as dependency](https://discourse.llvm.org/t/cmake-setup-for-client-projects-building-llvm-as-dependency/77136#post_7)
-- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=2#post_35)
+- [18.1.0 Release Update](https://discourse.llvm.org/t/18-1-0-release-update/77169#post_3)
+- [CMake setup for client projects, building LLVM as dependency](https://discourse.llvm.org/t/cmake-setup-for-client-projects-building-llvm-as-dependency/77136#post_8)
+- [18.1.0 Release Update](https://discourse.llvm.org/t/18-1-0-release-update/77169#post_2)
+- [18.1.0 Release Update](https://discourse.llvm.org/t/18-1-0-release-update/77169#post_1)
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
