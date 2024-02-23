@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Metadata attachments for function arguments](https://discourse.llvm.org/t/rfc-metadata-attachments-for-function-arguments/76420#post_11)
+- [MSVC to ClangCL problems](https://discourse.llvm.org/t/msvc-to-clangcl-problems/77173#post_2)
 - [I&#39;m having a bit of a problem writing DRR](https://discourse.llvm.org/t/im-having-a-bit-of-a-problem-writing-drr/77179#post_2)
 - [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=3#post_43)
 - [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=3#post_42)
-- [How to map scf.forall to threads for CPU target?](https://discourse.llvm.org/t/how-to-map-scf-forall-to-threads-for-cpu-target/77182#post_1)
-- [User-created branches in the monorepo are often misused](https://discourse.llvm.org/t/user-created-branches-in-the-monorepo-are-often-misused/75544?page=2#post_41)
 <!-- DISCOURSE-LLVM:END -->
