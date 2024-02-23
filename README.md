@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_34)
-- [User guided RISC-V hint-instruction injection with pragmas using a clang plugin](https://discourse.llvm.org/t/user-guided-risc-v-hint-instruction-injection-with-pragmas-using-a-clang-plugin/77190#post_1)
-- [LLVM 18.1.0-rc3 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc3-tagged/77116#post_4)
-- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_33)
-- [Llcm-cov: Is there a way to exclude lines of code](https://discourse.llvm.org/t/llcm-cov-is-there-a-way-to-exclude-lines-of-code/77189#post_1)
+- [MSVC to ClangCL problems](https://discourse.llvm.org/t/msvc-to-clangcl-problems/77173#post_3)
+- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952#post_4)
+- [[RFC] Source expressions as metadata](https://discourse.llvm.org/t/rfc-source-expressions-as-metadata/77160#post_6)
+- [Virtual register creation in DAG selection](https://discourse.llvm.org/t/virtual-register-creation-in-dag-selection/76605?page=2#post_35)
+- [Reporting warnings with -Wunused-variable for copy constructors with side effects](https://discourse.llvm.org/t/reporting-warnings-with-wunused-variable-for-copy-constructors-with-side-effects/76897#post_4)
 <!-- DISCOURSE-LLVM:END -->
