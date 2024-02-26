@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_5)
+- [[RFC] Enable DFA JumpThreading pass by default](https://discourse.llvm.org/t/rfc-enable-dfa-jumpthreading-pass-by-default/77231#post_1)
+- [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_4)
+- [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_3)
 - [MLIR intermediate representation of a tensorflow model](https://discourse.llvm.org/t/mlir-intermediate-representation-of-a-tensorflow-model/77226#post_2)
-- [ThinLTO and profile-based module groups](https://discourse.llvm.org/t/thinlto-and-profile-based-module-groups/77120#post_10)
-- [get the identifies of the unnamed temporaries from the instruction of LLVM IR](https://discourse.llvm.org/t/get-the-identifies-of-the-unnamed-temporaries-from-the-instruction-of-llvm-ir/27177#post_13)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Feb 29th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-feb-29th/77229#post_1)
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=3#post_41)
 <!-- DISCOURSE-LLVM:END -->
