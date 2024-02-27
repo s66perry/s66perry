@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952#post_7)
+- [How to pass information between different passes?](https://discourse.llvm.org/t/how-to-pass-information-between-different-passes/77250#post_1)
 - [Improve Clang-Doc Usability](https://discourse.llvm.org/t/improve-clang-doc-usability/76996#post_3)
 - [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236#post_5)
 - [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236#post_4)
-- [[RFC] Separate variables from SSA values in EmitC](https://discourse.llvm.org/t/rfc-separate-variables-from-ssa-values-in-emitc/75224#post_4)
-- [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=4#post_68)
 <!-- DISCOURSE-LLVM:END -->
