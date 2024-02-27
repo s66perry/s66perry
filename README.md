@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][LTO] Target-specific module splittting](https://discourse.llvm.org/t/rfc-lto-target-specific-module-splittting/77252#post_1)
+- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=3#post_45)
 - [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_51)
 - [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952#post_7)
 - [How to pass information between different passes?](https://discourse.llvm.org/t/how-to-pass-information-between-different-passes/77250#post_1)
-- [Improve Clang-Doc Usability](https://discourse.llvm.org/t/improve-clang-doc-usability/76996#post_3)
-- [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236#post_5)
 <!-- DISCOURSE-LLVM:END -->
