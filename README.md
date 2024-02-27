@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236#post_5)
+- [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236#post_4)
+- [[RFC] Separate variables from SSA values in EmitC](https://discourse.llvm.org/t/rfc-separate-variables-from-ssa-values-in-emitc/75224#post_4)
 - [If LLVM is so slow is anything being done about it?](https://discourse.llvm.org/t/if-llvm-is-so-slow-is-anything-being-done-about-it/75389?page=4#post_68)
 - [Combining AES and XOR can be improved further](https://discourse.llvm.org/t/combining-aes-and-xor-can-be-improved-further/77248#post_1)
-- [2024 EuroLLVM Program &amp; Registration Deadline Reminder](https://discourse.llvm.org/t/2024-eurollvm-program-registration-deadline-reminder/77247#post_1)
-- [On Demand Parsing in Clang](https://discourse.llvm.org/t/on-demand-parsing-in-clang/76912#post_11)
-- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_5)
 <!-- DISCOURSE-LLVM:END -->
