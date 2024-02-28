@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Alignment for vectors consisting of non-standard integers](https://discourse.llvm.org/t/alignment-for-vectors-consisting-of-non-standard-integers/77283#post_3)
-- [Alignment for vectors consisting of non-standard integers](https://discourse.llvm.org/t/alignment-for-vectors-consisting-of-non-standard-integers/77283#post_2)
-- [Alignment for vectors consisting of non-standard integers](https://discourse.llvm.org/t/alignment-for-vectors-consisting-of-non-standard-integers/77283#post_1)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_14)
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_7)
+- [Controlling linker placement of merged SHF_MERGE sections](https://discourse.llvm.org/t/controlling-linker-placement-of-merged-shf-merge-sections/77288#post_1)
+- [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_19)
+- [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_18)
+- [Building standalone lld &lpar;NOT &quot;standalone building&quot;!&rpar;](https://discourse.llvm.org/t/building-standalone-lld-not-standalone-building/77287#post_1)
+- [Targetting Tricore in LLVM toolchain](https://discourse.llvm.org/t/targetting-tricore-in-llvm-toolchain/56885#post_5)
 <!-- DISCOURSE-LLVM:END -->
