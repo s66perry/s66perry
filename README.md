@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 18.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc4-tagged/77260#post_5)
+- [LLVM 18.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc4-tagged/77260#post_4)
+- [RISC-V LLVM sync-up call February 29th 2024](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-february-29th-2024/77289#post_1)
 - [Controlling linker placement of merged SHF_MERGE sections](https://discourse.llvm.org/t/controlling-linker-placement-of-merged-shf-merge-sections/77288#post_1)
 - [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_19)
-- [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_18)
-- [Building standalone lld &lpar;NOT &quot;standalone building&quot;!&rpar;](https://discourse.llvm.org/t/building-standalone-lld-not-standalone-building/77287#post_1)
-- [Targetting Tricore in LLVM toolchain](https://discourse.llvm.org/t/targetting-tricore-in-llvm-toolchain/56885#post_5)
 <!-- DISCOURSE-LLVM:END -->
