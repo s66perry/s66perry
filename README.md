@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_6)
-- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233#post_10)
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_5)
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_4)
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_3)
+- [Alignment for vectors consisting of non-standard integers](https://discourse.llvm.org/t/alignment-for-vectors-consisting-of-non-standard-integers/77283#post_3)
+- [Alignment for vectors consisting of non-standard integers](https://discourse.llvm.org/t/alignment-for-vectors-consisting-of-non-standard-integers/77283#post_2)
+- [Alignment for vectors consisting of non-standard integers](https://discourse.llvm.org/t/alignment-for-vectors-consisting-of-non-standard-integers/77283#post_1)
+- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_14)
+- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_7)
 <!-- DISCOURSE-LLVM:END -->
