@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Release notes &lpar;and more&rpar; for version 18](https://discourse.llvm.org/t/release-notes-and-more-for-version-18/77303#post_2)
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_11)
-- [Alternative path to .clang-format file?](https://discourse.llvm.org/t/alternative-path-to-clang-format-file/3811#post_3)
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_10)
-- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_10)
+- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233#post_18)
+- [[Flang][OpenMP][RFC] Replace flang/module/omp_lib.{f90,h} with openmp/runtime/src/include/omp_lib.{f90,h}](https://discourse.llvm.org/t/flang-openmp-rfc-replace-flang-module-omp-lib-f90-h-with-openmp-runtime-src-include-omp-lib-f90-h/77101?page=2#post_23)
+- [Preventing FP instruction speculation for ARM](https://discourse.llvm.org/t/preventing-fp-instruction-speculation-for-arm/77311#post_1)
+- [Combining AES and XOR can be improved further](https://discourse.llvm.org/t/combining-aes-and-xor-can-be-improved-further/77248#post_3)
+- [[MC] __FUNCTION__ not in symtab in AArch64](https://discourse.llvm.org/t/mc-function-not-in-symtab-in-aarch64/77245#post_2)
 <!-- DISCOURSE-LLVM:END -->
