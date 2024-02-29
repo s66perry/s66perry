@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_7)
+- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_6)
+- [18.1.0 Release Update](https://discourse.llvm.org/t/18-1-0-release-update/77169#post_4)
+- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_5)
 - [[scudo standalone] Why is it required to resolve all symbols at build time?](https://discourse.llvm.org/t/scudo-standalone-why-is-it-required-to-resolve-all-symbols-at-build-time/77307#post_2)
-- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_9)
-- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_8)
-- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_4)
-- [[scudo standalone] Why is it required to resolve all symbols at build time?](https://discourse.llvm.org/t/scudo-standalone-why-is-it-required-to-resolve-all-symbols-at-build-time/77307#post_1)
 <!-- DISCOURSE-LLVM:END -->
