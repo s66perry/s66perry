@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319#post_4)
-- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319#post_3)
-- [Implement `memset_explicit`](https://discourse.llvm.org/t/implement-memset-explicit/77312#post_5)
-- [Questions about the T-Head Vector extension &lpar;xtheadvector&rpar; in LLVM upstream](https://discourse.llvm.org/t/questions-about-the-t-head-vector-extension-xtheadvector-in-llvm-upstream/77298#post_2)
-- [Complicated bug encontered when trying to use `memref.alloca` inside GPU kernel function](https://discourse.llvm.org/t/complicated-bug-encontered-when-trying-to-use-memref-alloca-inside-gpu-kernel-function/77278#post_2)
+- [getOrInsertFunction no longer returns bitcast for function with wrong prototype](https://discourse.llvm.org/t/getorinsertfunction-no-longer-returns-bitcast-for-function-with-wrong-prototype/77324#post_4)
+- [getOrInsertFunction no longer returns bitcast for function with wrong prototype](https://discourse.llvm.org/t/getorinsertfunction-no-longer-returns-bitcast-for-function-with-wrong-prototype/77324#post_3)
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319#post_6)
+- [getOrInsertFunction no longer returns bitcast for function with wrong prototype](https://discourse.llvm.org/t/getorinsertfunction-no-longer-returns-bitcast-for-function-with-wrong-prototype/77324#post_2)
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319#post_5)
 <!-- DISCOURSE-LLVM:END -->
