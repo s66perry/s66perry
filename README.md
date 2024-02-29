@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_69)
+- [[ms] RFC: MASM support](https://discourse.llvm.org/t/ms-rfc-masm-support/53759#post_2)
+- [Building standalone lld &lpar;NOT &quot;standalone building&quot;!&rpar;](https://discourse.llvm.org/t/building-standalone-lld-not-standalone-building/77287#post_3)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_68)
 - [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_67)
-- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233#post_16)
-- [[GSoC 2024] On Demand Parsing in Clang](https://discourse.llvm.org/t/gsoc-2024-on-demand-parsing-in-clang/76912#post_13)
-- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_10)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_66)
 <!-- DISCOURSE-LLVM:END -->
