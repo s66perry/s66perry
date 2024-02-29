@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[GSoC 2024] The 1001 thresholds in LLVM](https://discourse.llvm.org/t/gsoc-2024-the-1001-thresholds-in-llvm/77235#post_5)
-- [Can lower versions of ARM arch + extensions be equivalent to higher versions](https://discourse.llvm.org/t/can-lower-versions-of-arm-arch-extensions-be-equivalent-to-higher-versions/77296#post_2)
-- [Release notes &lpar;and more&rpar; for version 18](https://discourse.llvm.org/t/release-notes-and-more-for-version-18/77303#post_1)
-- [LLVM 18.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc4-tagged/77260#post_7)
-- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_7)
+- [[scudo standalone] Why is it required to resolve all symbols at build time?](https://discourse.llvm.org/t/scudo-standalone-why-is-it-required-to-resolve-all-symbols-at-build-time/77307#post_2)
+- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_9)
+- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_8)
+- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_4)
+- [[scudo standalone] Why is it required to resolve all symbols at build time?](https://discourse.llvm.org/t/scudo-standalone-why-is-it-required-to-resolve-all-symbols-at-build-time/77307#post_1)
 <!-- DISCOURSE-LLVM:END -->
