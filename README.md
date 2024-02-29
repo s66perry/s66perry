@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507?page=2#post_27)
-- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233#post_12)
-- [What is the best way to JIT compile C++ code contained in a string?](https://discourse.llvm.org/t/what-is-the-best-way-to-jit-compile-c-code-contained-in-a-string/77295#post_1)
-- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233#post_11)
-- [How to emit arc and code regions info during compilation phase](https://discourse.llvm.org/t/how-to-emit-arc-and-code-regions-info-during-compilation-phase/77294#post_1)
+- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233#post_14)
+- [[RFC] Allowing _Nonnull etc on smart pointers](https://discourse.llvm.org/t/rfc-allowing-nonnull-etc-on-smart-pointers/77201#post_20)
+- [Can lower versions of ARM arch + extensions be equivalent to higher versions](https://discourse.llvm.org/t/can-lower-versions-of-arm-arch-extensions-be-equivalent-to-higher-versions/77296#post_1)
+- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233#post_13)
+- [Failed to lower GPU dialect using gpu-lower-to-nvvm pipeline](https://discourse.llvm.org/t/failed-to-lower-gpu-dialect-using-gpu-lower-to-nvvm-pipeline/77262#post_4)
 <!-- DISCOURSE-LLVM:END -->
