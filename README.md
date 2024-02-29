@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Failed to lower GPU dialect using gpu-lower-to-nvvm pipeline](https://discourse.llvm.org/t/failed-to-lower-gpu-dialect-using-gpu-lower-to-nvvm-pipeline/77262#post_6)
-- [LLVM 17.0.6 released](https://discourse.llvm.org/t/llvm-17-0-6-released/75282#post_12)
-- [Looking for LLVM 17.0.1 for windows 64-bit](https://discourse.llvm.org/t/looking-for-llvm-17-0-1-for-windows-64-bit/73694#post_5)
-- [LLVM 17.0.6 Silent install parameters for Windows](https://discourse.llvm.org/t/llvm-17-0-6-silent-install-parameters-for-windows/77300#post_1)
-- [Performance analysis for TSVC](https://discourse.llvm.org/t/performance-analysis-for-tsvc/75413#post_13)
+- [[GSoC 2024] The 1001 thresholds in LLVM](https://discourse.llvm.org/t/gsoc-2024-the-1001-thresholds-in-llvm/77235#post_5)
+- [Can lower versions of ARM arch + extensions be equivalent to higher versions](https://discourse.llvm.org/t/can-lower-versions-of-arm-arch-extensions-be-equivalent-to-higher-versions/77296#post_2)
+- [Release notes &lpar;and more&rpar; for version 18](https://discourse.llvm.org/t/release-notes-and-more-for-version-18/77303#post_1)
+- [LLVM 18.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc4-tagged/77260#post_7)
+- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_7)
 <!-- DISCOURSE-LLVM:END -->
