@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [14 missing floating point folds](https://discourse.llvm.org/t/14-missing-floating-point-folds/77321#post_2)
-- [Release notes &lpar;and more&rpar; for version 18](https://discourse.llvm.org/t/release-notes-and-more-for-version-18/77303#post_3)
-- [getOrInsertFunction no longer returns bitcast for function with wrong prototype](https://discourse.llvm.org/t/getorinsertfunction-no-longer-returns-bitcast-for-function-with-wrong-prototype/77324#post_5)
-- [Implement `memset_explicit`](https://discourse.llvm.org/t/implement-memset-explicit/77312#post_8)
-- [Clang-17 compiler frame-larger and compiler hello_world run coredump](https://discourse.llvm.org/t/clang-17-compiler-frame-larger-and-compiler-hello-world-run-coredump/77332#post_1)
+- [[GSoC 2024] The 1001 thresholds in LLVM](https://discourse.llvm.org/t/gsoc-2024-the-1001-thresholds-in-llvm/77235#post_10)
+- [[GSoC 2024] The 1001 thresholds in LLVM](https://discourse.llvm.org/t/gsoc-2024-the-1001-thresholds-in-llvm/77235#post_9)
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319#post_13)
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319#post_12)
+- [[GSoC 2024] The 1001 thresholds in LLVM](https://discourse.llvm.org/t/gsoc-2024-the-1001-thresholds-in-llvm/77235#post_8)
 <!-- DISCOURSE-LLVM:END -->
