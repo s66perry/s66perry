@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_13)
+- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_12)
 - [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_11)
 - [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_10)
 - [[MC] __FUNCTION__ not in symtab in AArch64](https://discourse.llvm.org/t/mc-function-not-in-symtab-in-aarch64/77245#post_3)
-- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319#post_11)
-- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
