@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GSoC 2024: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2024-projects-proposals-and-other-information/77331#post_1)
+- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_15)
 - [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_14)
 - [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_13)
 - [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_12)
-- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_11)
-- [Facing issues building llvm with openmp enabled](https://discourse.llvm.org/t/facing-issues-building-llvm-with-openmp-enabled/77269#post_10)
 <!-- DISCOURSE-LLVM:END -->
