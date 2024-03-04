@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233?page=2#post_24)
 - [Is there for loop support in PDLL?](https://discourse.llvm.org/t/is-there-for-loop-support-in-pdll/77222#post_5)
 - [Is there for loop support in PDLL?](https://discourse.llvm.org/t/is-there-for-loop-support-in-pdll/77222#post_4)
 - [Is there for loop support in PDLL?](https://discourse.llvm.org/t/is-there-for-loop-support-in-pdll/77222#post_3)
 - [[RFC] Add a new backend called CSKY](https://discourse.llvm.org/t/rfc-add-a-new-backend-called-csky/56235#post_7)
-- [[RFC] LLVM: new `initialized` parameter attribute for improved interprocedural DSE](https://discourse.llvm.org/t/rfc-llvm-new-initialized-parameter-attribute-for-improved-interprocedural-dse/77337#post_4)
 <!-- DISCOURSE-LLVM:END -->
