@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Recent improvements to the IR parser](https://discourse.llvm.org/t/recent-improvements-to-the-ir-parser/77366#post_1)
 - [General Question - Approach to Use of Clang for Windows Apps &lpar;Windows API&rpar;](https://discourse.llvm.org/t/general-question-approach-to-use-of-clang-for-windows-apps-windows-api/77317#post_3)
 - [LLVM Weekly - #531, March 4th 2024](https://discourse.llvm.org/t/llvm-weekly-531-march-4th-2024/77365#post_1)
 - [AArch64 LLVM Sync-up Call 5 March 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-5-march-2024/77364#post_1)
 - [[llvm-profgen] Support COFF binary for llvm-profgen](https://discourse.llvm.org/t/llvm-profgen-support-coff-binary-for-llvm-profgen/77358#post_2)
-- [Support of trapping math](https://discourse.llvm.org/t/support-of-trapping-math/77233?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
