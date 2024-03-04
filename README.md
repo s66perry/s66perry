@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MachineFunction ownership in the new pass manager](https://discourse.llvm.org/t/machinefunction-ownership-in-the-new-pass-manager/77381#post_1)
-- [Implement `memset_explicit`](https://discourse.llvm.org/t/implement-memset-explicit/77312#post_13)
-- [General Question - Approach to Use of Clang for Windows Apps &lpar;Windows API&rpar;](https://discourse.llvm.org/t/general-question-approach-to-use-of-clang-for-windows-apps-windows-api/77317#post_6)
-- [General Question - Approach to Use of Clang for Windows Apps &lpar;Windows API&rpar;](https://discourse.llvm.org/t/general-question-approach-to-use-of-clang-for-windows-apps-windows-api/77317#post_5)
-- [Recent improvements to the IR parser](https://discourse.llvm.org/t/recent-improvements-to-the-ir-parser/77366#post_2)
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=2#post_36)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_33)
+- [Implement `memset_explicit`](https://discourse.llvm.org/t/implement-memset-explicit/77312#post_14)
+- [Adding ExecutionEngine to libMLIR.so](https://discourse.llvm.org/t/adding-executionengine-to-libmlir-so/77367#post_2)
+- [[RFC] LLVM: new `initialized` parameter attribute for improved interprocedural DSE](https://discourse.llvm.org/t/rfc-llvm-new-initialized-parameter-attribute-for-improved-interprocedural-dse/77337#post_10)
 <!-- DISCOURSE-LLVM:END -->
