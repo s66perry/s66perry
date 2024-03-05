@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=3#post_47)
-- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_9)
-- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=3#post_46)
-- [Source range of a C function with #defined return type](https://discourse.llvm.org/t/source-range-of-a-c-function-with-defined-return-type/77387#post_3)
-- [Confused about -convert-parallel-loops-to-gpu](https://discourse.llvm.org/t/confused-about-convert-parallel-loops-to-gpu/77408#post_1)
+- [Compilation failure with DRR-generated pattern](https://discourse.llvm.org/t/compilation-failure-with-drr-generated-pattern/77385#post_4)
+- [AArch64 LLVM Sync-up Call 5 March 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-5-march-2024/77364#post_2)
+- [14 missing floating point folds](https://discourse.llvm.org/t/14-missing-floating-point-folds/77321#post_11)
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=3#post_48)
+- [Implementation on GVN-PRE](https://discourse.llvm.org/t/implementation-on-gvn-pre/77400#post_2)
 <!-- DISCOURSE-LLVM:END -->
