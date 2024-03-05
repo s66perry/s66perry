@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [ComplexDeinterleavingPass causing issues with GlobalISel at -O3](https://discourse.llvm.org/t/complexdeinterleavingpass-causing-issues-with-globalisel-at-o3/77397#post_1)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_71)
+- [[RFC] LLVM: new `initialized` parameter attribute for improved interprocedural DSE](https://discourse.llvm.org/t/rfc-llvm-new-initialized-parameter-attribute-for-improved-interprocedural-dse/77337#post_17)
 - [Enforcing conversion pattern order with root updates](https://discourse.llvm.org/t/enforcing-conversion-pattern-order-with-root-updates/77392#post_1)
 - [Why does llvm-config emit absolute paths to libraries on Windows?](https://discourse.llvm.org/t/why-does-llvm-config-emit-absolute-paths-to-libraries-on-windows/77391#post_1)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_70)
-- [Extracting Combined ThinLTO Summary and Call Graph](https://discourse.llvm.org/t/extracting-combined-thinlto-summary-and-call-graph/72748#post_3)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
