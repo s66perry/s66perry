@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=3#post_52)
+- [14 missing floating point folds](https://discourse.llvm.org/t/14-missing-floating-point-folds/77321#post_13)
+- [14 missing floating point folds](https://discourse.llvm.org/t/14-missing-floating-point-folds/77321#post_12)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_48)
 - [Implementation on GVN-PRE](https://discourse.llvm.org/t/implementation-on-gvn-pre/77400#post_3)
-- [Implement `memset_explicit`](https://discourse.llvm.org/t/implement-memset-explicit/77312?page=2#post_23)
-- [Implement `memset_explicit`](https://discourse.llvm.org/t/implement-memset-explicit/77312?page=2#post_22)
-- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=3#post_51)
-- [[RFC] Instruction API changes needed to eliminate debug intrinsics from IR](https://discourse.llvm.org/t/rfc-instruction-api-changes-needed-to-eliminate-debug-intrinsics-from-ir/68939?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
