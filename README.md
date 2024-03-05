@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=2#post_39)
-- [MachineFunction ownership in the new pass manager](https://discourse.llvm.org/t/machinefunction-ownership-in-the-new-pass-manager/77381#post_2)
-- [Strange Behavior of &quot;omp for&quot;](https://discourse.llvm.org/t/strange-behavior-of-omp-for/77112#post_4)
-- [Changing linker from ld to lld cause linker error &quot;has non-ABS relocation R_ARM_CALL against symbol&quot;](https://discourse.llvm.org/t/changing-linker-from-ld-to-lld-cause-linker-error-has-non-abs-relocation-r-arm-call-against-symbol/77334#post_3)
-- [[llvm-profgen] Support COFF binary for llvm-profgen](https://discourse.llvm.org/t/llvm-profgen-support-coff-binary-for-llvm-profgen/77358#post_3)
+- [OpRewritePattern - updating the parent Op](https://discourse.llvm.org/t/oprewritepattern-updating-the-parent-op/77403#post_2)
+- [OpRewritePattern - updating the parent Op](https://discourse.llvm.org/t/oprewritepattern-updating-the-parent-op/77403#post_1)
+- [14 missing floating point folds](https://discourse.llvm.org/t/14-missing-floating-point-folds/77321#post_10)
+- [14 missing floating point folds](https://discourse.llvm.org/t/14-missing-floating-point-folds/77321#post_9)
+- [Compilation failure with DRR-generated pattern](https://discourse.llvm.org/t/compilation-failure-with-drr-generated-pattern/77385#post_3)
 <!-- DISCOURSE-LLVM:END -->
