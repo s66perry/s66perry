@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ComplexDeinterleavingPass causing issues with GlobalISel at -O3](https://discourse.llvm.org/t/complexdeinterleavingpass-causing-issues-with-globalisel-at-o3/77397#post_3)
-- [[RFC] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/rfc-add-3-way-comparison-intrinsics/76685#post_9)
-- [LLVM equivalent of binutils objdump source-comment flag](https://discourse.llvm.org/t/llvm-equivalent-of-binutils-objdump-source-comment-flag/77427#post_3)
-- [LLVM 18.1.0 Released!](https://discourse.llvm.org/t/llvm-18-1-0-released/77448#post_1)
-- [ComplexDeinterleavingPass causing issues with GlobalISel at -O3](https://discourse.llvm.org/t/complexdeinterleavingpass-causing-issues-with-globalisel-at-o3/77397#post_2)
+- [[RFC] Add nowrap flags to trunc](https://discourse.llvm.org/t/rfc-add-nowrap-flags-to-trunc/77453#post_3)
+- [Mlir-reduce usage](https://discourse.llvm.org/t/mlir-reduce-usage/77437#post_3)
+- [[RFC] Add nowrap flags to trunc](https://discourse.llvm.org/t/rfc-add-nowrap-flags-to-trunc/77453#post_2)
+- [[RFC] LLVM: new `initialized` parameter attribute for improved interprocedural DSE](https://discourse.llvm.org/t/rfc-llvm-new-initialized-parameter-attribute-for-improved-interprocedural-dse/77337#post_19)
+- [[GSoC 2024] The 1001 thresholds in LLVM](https://discourse.llvm.org/t/gsoc-2024-the-1001-thresholds-in-llvm/77235#post_17)
 <!-- DISCOURSE-LLVM:END -->
