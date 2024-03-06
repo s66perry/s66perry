@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Potential inline asm miscompilation?](https://discourse.llvm.org/t/potential-inline-asm-miscompilation/77377#post_5)
+- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_17)
+- [PSTL build failure in Apple MacBook](https://discourse.llvm.org/t/pstl-build-failure-in-apple-macbook/77433#post_1)
 - [[GSoC 2024] Better performance models for MLGO training](https://discourse.llvm.org/t/gsoc-2024-better-performance-models-for-mlgo-training/77266#post_3)
 - [How to generate bit code file of examples](https://discourse.llvm.org/t/how-to-generate-bit-code-file-of-examples/77429#post_8)
-- [How to pass a set of MemRefs to an MLIR function from the C++ side](https://discourse.llvm.org/t/how-to-pass-a-set-of-memrefs-to-an-mlir-function-from-the-c-side/77424#post_3)
-- [[GSoC 2024] Better performance models for MLGO training](https://discourse.llvm.org/t/gsoc-2024-better-performance-models-for-mlgo-training/77266#post_2)
-- [How to pass a set of MemRefs to an MLIR function from the C++ side](https://discourse.llvm.org/t/how-to-pass-a-set-of-memrefs-to-an-mlir-function-from-the-c-side/77424#post_2)
 <!-- DISCOURSE-LLVM:END -->
