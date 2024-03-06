@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to generate bit code file of examples](https://discourse.llvm.org/t/how-to-generate-bit-code-file-of-examples/77429#post_4)
-- [Improvements to llvm-reduce](https://discourse.llvm.org/t/improvements-to-llvm-reduce/77431#post_1)
-- [How to generate bit code file of examples](https://discourse.llvm.org/t/how-to-generate-bit-code-file-of-examples/77429#post_3)
-- [How to generate bit code file of examples](https://discourse.llvm.org/t/how-to-generate-bit-code-file-of-examples/77429#post_2)
-- [18.1.0 final tagged](https://discourse.llvm.org/t/18-1-0-final-tagged/77430#post_1)
+- [How to pass a set of MemRefs to an MLIR function from the C++ side](https://discourse.llvm.org/t/how-to-pass-a-set-of-memrefs-to-an-mlir-function-from-the-c-side/77424#post_2)
+- [Optimizations are causing excessive stack usage](https://discourse.llvm.org/t/optimizations-are-causing-excessive-stack-usage/77423#post_2)
+- [How to generate bit code file of examples](https://discourse.llvm.org/t/how-to-generate-bit-code-file-of-examples/77429#post_7)
+- [How to generate bit code file of examples](https://discourse.llvm.org/t/how-to-generate-bit-code-file-of-examples/77429#post_6)
+- [How to generate bit code file of examples](https://discourse.llvm.org/t/how-to-generate-bit-code-file-of-examples/77429#post_5)
 <!-- DISCOURSE-LLVM:END -->
