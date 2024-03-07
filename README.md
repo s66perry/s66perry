@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=3#post_51)
-- [[RFC] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/rfc-add-3-way-comparison-intrinsics/76685#post_11)
-- [Avoid calls to memrefCopy in LLVM lowering?](https://discourse.llvm.org/t/avoid-calls-to-memrefcopy-in-llvm-lowering/77479#post_6)
-- [LLVM 18.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc4-tagged/77260#post_10)
-- [[llvm][flang]](https://discourse.llvm.org/t/llvm-flang/77484#post_3)
+- [18.1.0 final tagged](https://discourse.llvm.org/t/18-1-0-final-tagged/77430#post_10)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468#post_10)
+- [[Introduction] LLVM Beginner](https://discourse.llvm.org/t/introduction-llvm-beginner/77487#post_1)
+- [[RFC] Dynamic Vector Semantics for the MLIR Vector Dialect](https://discourse.llvm.org/t/rfc-dynamic-vector-semantics-for-the-mlir-vector-dialect/75704?page=2#post_25)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468#post_9)
 <!-- DISCOURSE-LLVM:END -->
