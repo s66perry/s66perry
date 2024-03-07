@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Does the optimization of ub code have problem](https://discourse.llvm.org/t/does-the-optimization-of-ub-code-have-problem/77472#post_2)
-- [[GSoC 2024] Better performance models for MLGO training](https://discourse.llvm.org/t/gsoc-2024-better-performance-models-for-mlgo-training/77266#post_7)
-- [[GSoC 2024] Better performance models for MLGO training](https://discourse.llvm.org/t/gsoc-2024-better-performance-models-for-mlgo-training/77266#post_6)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_79)
-- [[GISel][X86] FP vs Int distinction for load/store](https://discourse.llvm.org/t/gisel-x86-fp-vs-int-distinction-for-load-store/77474#post_4)
+- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=4#post_63)
+- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=4#post_62)
+- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=3#post_50)
+- [[RFC] Tiling interface supports fuse consumer](https://discourse.llvm.org/t/rfc-tiling-interface-supports-fuse-consumer/76286#post_6)
+- [LLVM equivalent of binutils objdump source-comment flag](https://discourse.llvm.org/t/llvm-equivalent-of-binutils-objdump-source-comment-flag/77427#post_5)
 <!-- DISCOURSE-LLVM:END -->
