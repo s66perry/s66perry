@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLGO meeting March 8, 2024](https://discourse.llvm.org/t/mlgo-meeting-march-8-2024/77485#post_1)
-- [Implement `memset_explicit`](https://discourse.llvm.org/t/implement-memset-explicit/77312?page=2#post_27)
-- [Avoid calls to memrefCopy in LLVM lowering?](https://discourse.llvm.org/t/avoid-calls-to-memrefcopy-in-llvm-lowering/77479#post_4)
-- [Mysterious assembler documentation in llvm/docs/AMDGPU](https://discourse.llvm.org/t/mysterious-assembler-documentation-in-llvm-docs-amdgpu/77447#post_3)
-- [[llvm][flang]](https://discourse.llvm.org/t/llvm-flang/77484#post_2)
+- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=3#post_51)
+- [[RFC] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/rfc-add-3-way-comparison-intrinsics/76685#post_11)
+- [Avoid calls to memrefCopy in LLVM lowering?](https://discourse.llvm.org/t/avoid-calls-to-memrefcopy-in-llvm-lowering/77479#post_6)
+- [LLVM 18.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc4-tagged/77260#post_10)
+- [[llvm][flang]](https://discourse.llvm.org/t/llvm-flang/77484#post_3)
 <!-- DISCOURSE-LLVM:END -->
