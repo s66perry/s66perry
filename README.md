@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Introduction] LLVM Beginner](https://discourse.llvm.org/t/introduction-llvm-beginner/77487#post_2)
-- [How does LLVM implement memory64 proposal?](https://discourse.llvm.org/t/how-does-llvm-implement-memory64-proposal/77470#post_2)
-- [Is RV64 + ELEN=32 valid?](https://discourse.llvm.org/t/is-rv64-elen-32-valid/77492#post_2)
-- [Is RV64 + ELEN=32 valid?](https://discourse.llvm.org/t/is-rv64-elen-32-valid/77492#post_1)
-- [Optimizations are causing excessive stack usage](https://discourse.llvm.org/t/optimizations-are-causing-excessive-stack-usage/77423#post_3)
+- [[RFC][LLDB] Handling [[no_unique_address]] in LLDB](https://discourse.llvm.org/t/rfc-lldb-handling-no-unique-address-in-lldb/77483#post_5)
+- [[RFC][LLDB] Handling [[no_unique_address]] in LLDB](https://discourse.llvm.org/t/rfc-lldb-handling-no-unique-address-in-lldb/77483#post_4)
+- [Arm64 inline asm utxb](https://discourse.llvm.org/t/arm64-inline-asm-utxb/77493#post_2)
+- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=3#post_47)
+- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=3#post_46)
 <!-- DISCOURSE-LLVM:END -->
