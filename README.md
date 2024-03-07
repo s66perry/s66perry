@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to pass a set of MemRefs to an MLIR function from the C++ side](https://discourse.llvm.org/t/how-to-pass-a-set-of-memrefs-to-an-mlir-function-from-the-c-side/77424#post_5)
-- [Inliner cost model](https://discourse.llvm.org/t/inliner-cost-model/2992#post_15)
-- [Does the optimization of ub code have problem](https://discourse.llvm.org/t/does-the-optimization-of-ub-code-have-problem/77472#post_1)
-- [How does LLVM implement memory64 proposal?](https://discourse.llvm.org/t/how-does-llvm-implement-memory64-proposal/77470#post_1)
-- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468#post_4)
+- [[GISel][X86] FP vs Int distinction for load/store](https://discourse.llvm.org/t/gisel-x86-fp-vs-int-distinction-for-load-store/77474#post_2)
+- [[GISel][X86] FP vs Int distinction for load/store](https://discourse.llvm.org/t/gisel-x86-fp-vs-int-distinction-for-load-store/77474#post_1)
+- [[RFC] Separate variables from SSA values in EmitC](https://discourse.llvm.org/t/rfc-separate-variables-from-ssa-values-in-emitc/75224#post_6)
+- [18.1.0 final tagged](https://discourse.llvm.org/t/18-1-0-final-tagged/77430#post_9)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468#post_6)
 <!-- DISCOURSE-LLVM:END -->
