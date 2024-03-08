@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Mysterious assembler documentation in llvm/docs/AMDGPU](https://discourse.llvm.org/t/mysterious-assembler-documentation-in-llvm-docs-amdgpu/77447#post_4)
+- [Transform &quot;language&quot;](https://discourse.llvm.org/t/transform-language/77506#post_2)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468#post_12)
+- [Improve Clang-Doc Usability](https://discourse.llvm.org/t/improve-clang-doc-usability/76996#post_4)
 - [[GSoC 2024] Offloading libcxx](https://discourse.llvm.org/t/gsoc-2024-offloading-libcxx/77238#post_4)
-- [Dual-Issue Schedule in RISCV](https://discourse.llvm.org/t/dual-issue-schedule-in-riscv/77515#post_1)
-- [Scheduler Question :Understanding Scheduling Components in the RISC-V Backend for Dual-Issue Processor Support](https://discourse.llvm.org/t/scheduler-question-understanding-scheduling-components-in-the-risc-v-backend-for-dual-issue-processor-support/77514#post_1)
-- [Clang format for json](https://discourse.llvm.org/t/clang-format-for-json/77512#post_1)
-- [LLVM 18 Release Update - 18.1.1 planned for March 8](https://discourse.llvm.org/t/llvm-18-release-update-18-1-1-planned-for-march-8/77509#post_1)
 <!-- DISCOURSE-LLVM:END -->
