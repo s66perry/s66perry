@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about label:confirmed in LLVM issues](https://discourse.llvm.org/t/question-about-label-confirmed-in-llvm-issues/77547#post_7)
 - [Question about label:confirmed in LLVM issues](https://discourse.llvm.org/t/question-about-label-confirmed-in-llvm-issues/77547#post_6)
 - [Question about label:confirmed in LLVM issues](https://discourse.llvm.org/t/question-about-label-confirmed-in-llvm-issues/77547#post_5)
 - [Question about label:confirmed in LLVM issues](https://discourse.llvm.org/t/question-about-label-confirmed-in-llvm-issues/77547#post_4)
 - [Question about label:confirmed in LLVM issues](https://discourse.llvm.org/t/question-about-label-confirmed-in-llvm-issues/77547#post_3)
-- [Question about label:confirmed in LLVM issues](https://discourse.llvm.org/t/question-about-label-confirmed-in-llvm-issues/77547#post_2)
 <!-- DISCOURSE-LLVM:END -->
