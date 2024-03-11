@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=3#post_52)
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=3#post_51)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102#post_20)
-- [[RFC] __builtin_assume, [[assume]] optimization behavior](https://discourse.llvm.org/t/rfc-builtin-assume-assume-optimization-behavior/76943?page=3#post_50)
-- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_4)
+- [WG21 meetings next week](https://discourse.llvm.org/t/wg21-meetings-next-week/77598#post_3)
+- [WG21 meetings next week](https://discourse.llvm.org/t/wg21-meetings-next-week/77598#post_2)
+- [WG21 meetings next week](https://discourse.llvm.org/t/wg21-meetings-next-week/77598#post_1)
+- [[RFC] Should the OCP microscaling float scalars be added to APFloat and FloatType?](https://discourse.llvm.org/t/rfc-should-the-ocp-microscaling-float-scalars-be-added-to-apfloat-and-floattype/77530#post_3)
+- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_2)
 <!-- DISCOURSE-LLVM:END -->
