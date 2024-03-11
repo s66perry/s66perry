@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Defining Processor Resource Priority in TableGen](https://discourse.llvm.org/t/defining-processor-resource-priority-in-tablegen/77580#post_1)
-- [Certain shared libraries do not appear in image list](https://discourse.llvm.org/t/certain-shared-libraries-do-not-appear-in-image-list/77528#post_4)
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326#post_20)
-- [SelectionDAG chain](https://discourse.llvm.org/t/selectiondag-chain/77579#post_1)
-- [Which part of LLVM IR doesn&#39;t obey SSA form?](https://discourse.llvm.org/t/which-part-of-llvm-ir-doesnt-obey-ssa-form/77574#post_2)
+- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_2)
+- [Search path for compiler-rt/builtins](https://discourse.llvm.org/t/search-path-for-compiler-rt-builtins/77586#post_1)
+- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_1)
+- [Optimization pass error](https://discourse.llvm.org/t/optimization-pass-error/77583#post_1)
+- [LLVM Weekly - #532, March 11th 2024](https://discourse.llvm.org/t/llvm-weekly-532-march-11th-2024/77581#post_1)
 <!-- DISCOURSE-LLVM:END -->
