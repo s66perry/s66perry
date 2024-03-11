@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_3)
+- [[RFC] Representing combined/composite constructs in the OpenMP dialect](https://discourse.llvm.org/t/rfc-representing-combined-composite-constructs-in-the-openmp-dialect/76986#post_16)
+- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_12)
 - [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_6)
 - [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_1)
-- [Operation convertion with unequal numbers of SSA-results](https://discourse.llvm.org/t/operation-convertion-with-unequal-numbers-of-ssa-results/77595#post_1)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_14)
-- [[RFC][LLDB] Handling [[no_unique_address]] in LLDB](https://discourse.llvm.org/t/rfc-lldb-handling-no-unique-address-in-lldb/77483#post_8)
 <!-- DISCOURSE-LLVM:END -->
