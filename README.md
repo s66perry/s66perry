@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_10)
-- [SelectionDAG chain](https://discourse.llvm.org/t/selectiondag-chain/77579#post_4)
-- [Extension for creating objects via memcpy](https://discourse.llvm.org/t/extension-for-creating-objects-via-memcpy/76961#post_6)
-- [SelectionDAG chain](https://discourse.llvm.org/t/selectiondag-chain/77579#post_3)
-- [18.1.0 final tagged](https://discourse.llvm.org/t/18-1-0-final-tagged/77430#post_11)
+- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_14)
+- [[RFC][LLDB] Handling [[no_unique_address]] in LLDB](https://discourse.llvm.org/t/rfc-lldb-handling-no-unique-address-in-lldb/77483#post_8)
+- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_2)
+- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_1)
+- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_7)
 <!-- DISCOURSE-LLVM:END -->
