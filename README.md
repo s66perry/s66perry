@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [WG21 meetings next week](https://discourse.llvm.org/t/wg21-meetings-next-week/77598#post_3)
-- [WG21 meetings next week](https://discourse.llvm.org/t/wg21-meetings-next-week/77598#post_2)
-- [WG21 meetings next week](https://discourse.llvm.org/t/wg21-meetings-next-week/77598#post_1)
-- [[RFC] Should the OCP microscaling float scalars be added to APFloat and FloatType?](https://discourse.llvm.org/t/rfc-should-the-ocp-microscaling-float-scalars-be-added-to-apfloat-and-floattype/77530#post_3)
-- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_2)
+- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_13)
+- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_5)
+- [[GSoC 2024] Statistical Analysis of LLVM IR Compilation with Clang](https://discourse.llvm.org/t/gsoc-2024-statistical-analysis-of-llvm-ir-compilation-with-clang/77532#post_3)
+- [Adding custom UBSAN diagnostic handlers](https://discourse.llvm.org/t/adding-custom-ubsan-diagnostic-handlers/77599#post_1)
+- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_4)
 <!-- DISCOURSE-LLVM:END -->
