@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Which part of LLVM IR doesn&#39;t obey SSA form?](https://discourse.llvm.org/t/which-part-of-llvm-ir-doesnt-obey-ssa-form/77574#post_1)
+- [Arm64 inline asm utxb](https://discourse.llvm.org/t/arm64-inline-asm-utxb/77493#post_4)
+- [Enforce consecutive physical register allocation](https://discourse.llvm.org/t/enforce-consecutive-physical-register-allocation/77573#post_1)
+- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_8)
 - [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_7)
-- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_4)
-- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_6)
-- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_5)
-- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_4)
 <!-- DISCOURSE-LLVM:END -->
