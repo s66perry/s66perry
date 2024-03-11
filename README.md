@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Transform &quot;language&quot;](https://discourse.llvm.org/t/transform-language/77506#post_3)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_2)
-- [Search path for compiler-rt/builtins](https://discourse.llvm.org/t/search-path-for-compiler-rt-builtins/77586#post_1)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_1)
-- [Optimization pass error](https://discourse.llvm.org/t/optimization-pass-error/77583#post_1)
+- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_10)
+- [SelectionDAG chain](https://discourse.llvm.org/t/selectiondag-chain/77579#post_4)
+- [Extension for creating objects via memcpy](https://discourse.llvm.org/t/extension-for-creating-objects-via-memcpy/76961#post_6)
+- [SelectionDAG chain](https://discourse.llvm.org/t/selectiondag-chain/77579#post_3)
+- [18.1.0 final tagged](https://discourse.llvm.org/t/18-1-0-final-tagged/77430#post_11)
 <!-- DISCOURSE-LLVM:END -->
