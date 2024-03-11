@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_13)
-- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_5)
-- [[GSoC 2024] Statistical Analysis of LLVM IR Compilation with Clang](https://discourse.llvm.org/t/gsoc-2024-statistical-analysis-of-llvm-ir-compilation-with-clang/77532#post_3)
-- [Adding custom UBSAN diagnostic handlers](https://discourse.llvm.org/t/adding-custom-ubsan-diagnostic-handlers/77599#post_1)
-- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_4)
+- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_9)
+- [Recent improvements to the IR parser](https://discourse.llvm.org/t/recent-improvements-to-the-ir-parser/77366#post_5)
+- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_8)
+- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_12)
+- [[RFC] RELLEB: A compact relocation format for ELF](https://discourse.llvm.org/t/rfc-relleb-a-compact-relocation-format-for-elf/77600#post_1)
 <!-- DISCOURSE-LLVM:END -->
