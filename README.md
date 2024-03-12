@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_12)
-- [Llvm-reduce: short/medium-term directions](https://discourse.llvm.org/t/llvm-reduce-short-medium-term-directions/64591?page=3#post_54)
-- [How to get the argument name and return value name of operation?](https://discourse.llvm.org/t/how-to-get-the-argument-name-and-return-value-name-of-operation/77619#post_2)
-- [I have some questions about BufferizableOpInterface](https://discourse.llvm.org/t/i-have-some-questions-about-bufferizableopinterface/77220#post_3)
-- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_11)
+- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_7)
+- [Copy capture rules for [=, *this]](https://discourse.llvm.org/t/copy-capture-rules-for-this/77621#post_1)
+- [Operation conversion with unequal numbers of SSA-results, best approach](https://discourse.llvm.org/t/operation-conversion-with-unequal-numbers-of-ssa-results-best-approach/77595#post_13)
+- [How to get the argument name and return value name of operation?](https://discourse.llvm.org/t/how-to-get-the-argument-name-and-return-value-name-of-operation/77619#post_3)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_4)
 <!-- DISCOURSE-LLVM:END -->
