@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_18)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_3)
-- [New to LLVM](https://discourse.llvm.org/t/new-to-llvm/77559#post_3)
-- [Rational behind naming of sra and srl IR node](https://discourse.llvm.org/t/rational-behind-naming-of-sra-and-srl-ir-node/77614#post_1)
-- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_6)
+- [I have some questions about BufferizableOpInterface](https://discourse.llvm.org/t/i-have-some-questions-about-bufferizableopinterface/77220#post_3)
+- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_11)
+- [18.1.1 Tagged](https://discourse.llvm.org/t/18-1-1-tagged/77541#post_4)
+- [18.1.0 final tagged](https://discourse.llvm.org/t/18-1-0-final-tagged/77430#post_12)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_3)
 <!-- DISCOURSE-LLVM:END -->
