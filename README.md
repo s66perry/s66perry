@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [StrAttr cppType error](https://discourse.llvm.org/t/strattr-cpptype-error/77636#post_1)
-- [[MLIR] SttrAttr cppType error](https://discourse.llvm.org/t/mlir-sttrattr-cpptype-error/77634#post_2)
-- [[MLIR] SttrAttr cppType error](https://discourse.llvm.org/t/mlir-sttrattr-cpptype-error/77634#post_1)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=3#post_56)
-- [[RFC] Compressed SHT_SYMTAB/SHT_STRTAB for ELF](https://discourse.llvm.org/t/rfc-compressed-sht-symtab-sht-strtab-for-elf/77608#post_4)
+- [Copy capture rules for [=, *this]](https://discourse.llvm.org/t/copy-capture-rules-for-this/77621#post_5)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_9)
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_3)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_8)
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_2)
 <!-- DISCOURSE-LLVM:END -->
