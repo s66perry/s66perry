@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_3)
-- [[RFC] fix tablegen for HwMode](https://discourse.llvm.org/t/rfc-fix-tablegen-for-hwmode/77625#post_4)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_7)
-- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_15)
-- [Builtin variants of functions with more argument shan the usual](https://discourse.llvm.org/t/builtin-variants-of-functions-with-more-argument-shan-the-usual/77628#post_1)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=3#post_55)
+- [[RFC] Compressed SHT_SYMTAB/SHT_STRTAB for ELF](https://discourse.llvm.org/t/rfc-compressed-sht-symtab-sht-strtab-for-elf/77608#post_3)
+- [[RFC][LLDB] Handling [[no_unique_address]] in LLDB](https://discourse.llvm.org/t/rfc-lldb-handling-no-unique-address-in-lldb/77483#post_9)
+- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_4)
+- [Recent improvements to the IR parser](https://discourse.llvm.org/t/recent-improvements-to-the-ir-parser/77366#post_7)
 <!-- DISCOURSE-LLVM:END -->
