@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Copy capture rules for [=, *this]](https://discourse.llvm.org/t/copy-capture-rules-for-this/77621#post_5)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_9)
-- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_3)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_8)
-- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_2)
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_4)
+- [Unnecessary/odd mv](https://discourse.llvm.org/t/unnecessary-odd-mv/77640#post_1)
+- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326?page=2#post_22)
+- [Copy capture rules for [=, *this]](https://discourse.llvm.org/t/copy-capture-rules-for-this/77621#post_6)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468#post_18)
 <!-- DISCOURSE-LLVM:END -->
