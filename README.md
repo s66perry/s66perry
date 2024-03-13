@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [HGLDD format description](https://discourse.llvm.org/t/hgldd-format-description/77653#post_2)
+- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_8)
+- [What is the best way to JIT compile C++ code contained in a string?](https://discourse.llvm.org/t/what-is-the-best-way-to-jit-compile-c-code-contained-in-a-string/77295#post_4)
 - [LLVM_CCACHE_BUILD is deprecated](https://discourse.llvm.org/t/llvm-ccache-build-is-deprecated/68431#post_6)
 - [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_7)
-- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_6)
-- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=2#post_35)
-- [Setting Hidden LLVM Flags from MLIR in C++](https://discourse.llvm.org/t/setting-hidden-llvm-flags-from-mlir-in-c/77661#post_1)
 <!-- DISCOURSE-LLVM:END -->
