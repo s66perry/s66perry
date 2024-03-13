@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [HGLDD format description](https://discourse.llvm.org/t/hgldd-format-description/77653#post_4)
-- [Setting Hidden LLVM Flags from MLIR in C++](https://discourse.llvm.org/t/setting-hidden-llvm-flags-from-mlir-in-c/77661#post_5)
-- [HGLDD format description](https://discourse.llvm.org/t/hgldd-format-description/77653#post_3)
-- [Setting Hidden LLVM Flags from MLIR in C++](https://discourse.llvm.org/t/setting-hidden-llvm-flags-from-mlir-in-c/77661#post_4)
-- [Setting Hidden LLVM Flags from MLIR in C++](https://discourse.llvm.org/t/setting-hidden-llvm-flags-from-mlir-in-c/77661#post_3)
+- [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_5)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_17)
+- [Setting Hidden LLVM Flags from MLIR in C++](https://discourse.llvm.org/t/setting-hidden-llvm-flags-from-mlir-in-c/77661#post_8)
+- [Setting Hidden LLVM Flags from MLIR in C++](https://discourse.llvm.org/t/setting-hidden-llvm-flags-from-mlir-in-c/77661#post_7)
+- [Setting Hidden LLVM Flags from MLIR in C++](https://discourse.llvm.org/t/setting-hidden-llvm-flags-from-mlir-in-c/77661#post_6)
 <!-- DISCOURSE-LLVM:END -->
