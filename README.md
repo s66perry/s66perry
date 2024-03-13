@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLVM] Automatically generate TableGen file for SPIR-V instruction set](https://discourse.llvm.org/t/llvm-automatically-generate-tablegen-file-for-spir-v-instruction-set/76369#post_19)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_12)
+- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_19)
+- [[RFC] Add llvm.experimental.hot&lpar;&rpar; intrinsic &lpar;or llvm.hot&lpar;&rpar;&rpar;](https://discourse.llvm.org/t/rfc-add-llvm-experimental-hot-intrinsic-or-llvm-hot/77641#post_6)
 - [Search path for compiler-rt/builtins](https://discourse.llvm.org/t/search-path-for-compiler-rt-builtins/77586#post_2)
-- [HGLDD format description](https://discourse.llvm.org/t/hgldd-format-description/77653#post_1)
-- [Torch dialects, gradients &lpar;and bears, oh my!&rpar;](https://discourse.llvm.org/t/torch-dialects-gradients-and-bears-oh-my/1833#post_9)
-- [[RFC] Add llvm.experimental.hot&lpar;&rpar; intrinsic &lpar;or llvm.hot&lpar;&rpar;&rpar;](https://discourse.llvm.org/t/rfc-add-llvm-experimental-hot-intrinsic-or-llvm-hot/77641#post_5)
-- [[RFC] Compress arbitrary sections with ld.lld --compress-sections](https://discourse.llvm.org/t/rfc-compress-arbitrary-sections-with-ld-lld-compress-sections/71674#post_9)
 <!-- DISCOURSE-LLVM:END -->
