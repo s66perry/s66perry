@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] fix tablegen for HwMode](https://discourse.llvm.org/t/rfc-fix-tablegen-for-hwmode/77625#post_7)
-- [[RFC] Add llvm.experimental.hot&lpar;&rpar; intrinsic &lpar;or llvm.hot&lpar;&rpar;&rpar;](https://discourse.llvm.org/t/rfc-add-llvm-experimental-hot-intrinsic-or-llvm-hot/77641#post_4)
-- [Enforce consecutive physical register allocation](https://discourse.llvm.org/t/enforce-consecutive-physical-register-allocation/77573#post_3)
-- [[RFC] Add llvm.experimental.hot&lpar;&rpar; intrinsic &lpar;or llvm.hot&lpar;&rpar;&rpar;](https://discourse.llvm.org/t/rfc-add-llvm-experimental-hot-intrinsic-or-llvm-hot/77641#post_3)
-- [Enforce consecutive physical register allocation](https://discourse.llvm.org/t/enforce-consecutive-physical-register-allocation/77573#post_2)
+- [[RFC] fix tablegen for HwMode](https://discourse.llvm.org/t/rfc-fix-tablegen-for-hwmode/77625#post_9)
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_11)
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_10)
+- [[RFC] fix tablegen for HwMode](https://discourse.llvm.org/t/rfc-fix-tablegen-for-hwmode/77625#post_8)
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_9)
 <!-- DISCOURSE-LLVM:END -->
