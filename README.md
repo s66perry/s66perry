@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] make `__builtin_dump_struct` expand `typeof` declarations](https://discourse.llvm.org/t/rfc-make-builtin-dump-struct-expand-typeof-declarations/77697#post_1)
+- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_17)
+- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_8)
+- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_7)
 - [Vectorization not works](https://discourse.llvm.org/t/vectorization-not-works/77690#post_2)
-- [Simple complete example of a Clang Transformer](https://discourse.llvm.org/t/simple-complete-example-of-a-clang-transformer/77694#post_1)
-- [AMD LLVM Compiler Engineer Job Opportunities](https://discourse.llvm.org/t/amd-llvm-compiler-engineer-job-opportunities/77692#post_1)
-- [Vectorization not works](https://discourse.llvm.org/t/vectorization-not-works/77690#post_1)
-- [Compiler Engineer Needed – Rockstar Games &lpar;2024-03-14&rpar;](https://discourse.llvm.org/t/compiler-engineer-needed-rockstar-games-2024-03-14/77689#post_1)
 <!-- DISCOURSE-LLVM:END -->
