@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_81)
-- [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_10)
-- [Considerations when adding new bitcode records](https://discourse.llvm.org/t/considerations-when-adding-new-bitcode-records/77660#post_3)
-- [Considerations when adding new bitcode records](https://discourse.llvm.org/t/considerations-when-adding-new-bitcode-records/77660#post_2)
-- [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_9)
+- [Extension for creating objects via memcpy](https://discourse.llvm.org/t/extension-for-creating-objects-via-memcpy/76961#post_7)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_7)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_37)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_36)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259#post_12)
 <!-- DISCOURSE-LLVM:END -->
