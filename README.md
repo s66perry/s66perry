@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_9)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_8)
+- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_9)
 - [Extension for creating objects via memcpy](https://discourse.llvm.org/t/extension-for-creating-objects-via-memcpy/76961#post_7)
 - [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_7)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_37)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_36)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259#post_12)
 <!-- DISCOURSE-LLVM:END -->
