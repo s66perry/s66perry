@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Considerations when adding new bitcode records](https://discourse.llvm.org/t/considerations-when-adding-new-bitcode-records/77660#post_3)
+- [Considerations when adding new bitcode records](https://discourse.llvm.org/t/considerations-when-adding-new-bitcode-records/77660#post_2)
+- [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_9)
 - [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_9)
 - [Vectorization not works](https://discourse.llvm.org/t/vectorization-not-works/77690#post_6)
-- [Vectorization not works](https://discourse.llvm.org/t/vectorization-not-works/77690#post_5)
-- [[RFC] make `__builtin_dump_struct` expand `typeof` declarations](https://discourse.llvm.org/t/rfc-make-builtin-dump-struct-expand-typeof-declarations/77697#post_4)
-- [Vectorization not works](https://discourse.llvm.org/t/vectorization-not-works/77690#post_4)
 <!-- DISCOURSE-LLVM:END -->
