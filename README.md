@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GSoC 2024] GPU Delta Debugging](https://discourse.llvm.org/t/gsoc-2024-gpu-delta-debugging/77237#post_16)
+- [DataFlow for `va_start`](https://discourse.llvm.org/t/dataflow-for-va-start/77677#post_1)
+- [RFC2: New criteria for commit access](https://discourse.llvm.org/t/rfc2-new-criteria-for-commit-access/77110#post_15)
 - [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_8)
 - [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_7)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_19)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610#post_18)
-- [Clang PGO mystery - am I holding this wrong?](https://discourse.llvm.org/t/clang-pgo-mystery-am-i-holding-this-wrong/77673#post_2)
 <!-- DISCOURSE-LLVM:END -->
