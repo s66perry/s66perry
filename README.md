@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=4#post_80)
-- [ComplexDeinterleavingPass causing issues with GlobalISel at -O3](https://discourse.llvm.org/t/complexdeinterleavingpass-causing-issues-with-globalisel-at-o3/77397#post_5)
-- [How do we replace function with another?](https://discourse.llvm.org/t/how-do-we-replace-function-with-another/77679#post_2)
-- [Improve Clang-Doc Usability](https://discourse.llvm.org/t/improve-clang-doc-usability/76996#post_6)
-- [Cannot get correct type from class Type](https://discourse.llvm.org/t/cannot-get-correct-type-from-class-type/77682#post_1)
+- [Vectorization not works](https://discourse.llvm.org/t/vectorization-not-works/77690#post_2)
+- [Simple complete example of a Clang Transformer](https://discourse.llvm.org/t/simple-complete-example-of-a-clang-transformer/77694#post_1)
+- [AMD LLVM Compiler Engineer Job Opportunities](https://discourse.llvm.org/t/amd-llvm-compiler-engineer-job-opportunities/77692#post_1)
+- [Vectorization not works](https://discourse.llvm.org/t/vectorization-not-works/77690#post_1)
+- [Compiler Engineer Needed – Rockstar Games &lpar;2024-03-14&rpar;](https://discourse.llvm.org/t/compiler-engineer-needed-rockstar-games-2024-03-14/77689#post_1)
 <!-- DISCOURSE-LLVM:END -->
