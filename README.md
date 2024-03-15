@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_2)
-- [Union initialization, and aliasing &lpar;clang 18 seems to miscompile musl?&rpar;](https://discourse.llvm.org/t/union-initialization-and-aliasing-clang-18-seems-to-miscompile-musl/77724#post_5)
-- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_13)
-- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_12)
-- [Union initialization, and aliasing &lpar;clang 18 seems to miscompile musl?&rpar;](https://discourse.llvm.org/t/union-initialization-and-aliasing-clang-18-seems-to-miscompile-musl/77724#post_4)
+- [[RFC] Suppress C++ static destructor registration](https://discourse.llvm.org/t/rfc-suppress-c-static-destructor-registration/49128#post_19)
+- [Incompatibility of clang and cl on Windows using MS C++ lib](https://discourse.llvm.org/t/incompatibility-of-clang-and-cl-on-windows-using-ms-c-lib/77725#post_1)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_16)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_15)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_14)
 <!-- DISCOURSE-LLVM:END -->
