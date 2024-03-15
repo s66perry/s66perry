@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Get full source range of macro](https://discourse.llvm.org/t/get-full-source-range-of-macro/77723#post_1)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984#post_21)
-- [createOrFold does not sort commutative constant operands](https://discourse.llvm.org/t/createorfold-does-not-sort-commutative-constant-operands/77721#post_1)
-- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_1)
-- [[RFC] Uniformize OpenMP dialect operation names](https://discourse.llvm.org/t/rfc-uniformize-openmp-dialect-operation-names/77715#post_3)
+- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_2)
+- [Union initialization, and aliasing &lpar;clang 18 seems to miscompile musl?&rpar;](https://discourse.llvm.org/t/union-initialization-and-aliasing-clang-18-seems-to-miscompile-musl/77724#post_5)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_13)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_12)
+- [Union initialization, and aliasing &lpar;clang 18 seems to miscompile musl?&rpar;](https://discourse.llvm.org/t/union-initialization-and-aliasing-clang-18-seems-to-miscompile-musl/77724#post_4)
 <!-- DISCOURSE-LLVM:END -->
