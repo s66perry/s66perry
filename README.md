@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [HGLDD format description](https://discourse.llvm.org/t/hgldd-format-description/77653#post_6)
+- [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=4#post_68)
+- [HGLDD format description](https://discourse.llvm.org/t/hgldd-format-description/77653#post_5)
+- [Improvements to llvm-reduce](https://discourse.llvm.org/t/improvements-to-llvm-reduce/77431#post_3)
 - [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_11)
-- [Smaller object file cost for .debug_names intended only for linking](https://discourse.llvm.org/t/smaller-object-file-cost-for-debug-names-intended-only-for-linking/76445#post_17)
-- [Builtin variants of functions with more argument shan the usual](https://discourse.llvm.org/t/builtin-variants-of-functions-with-more-argument-shan-the-usual/77628#post_3)
-- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_10)
-- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_9)
 <!-- DISCOURSE-LLVM:END -->
