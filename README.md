@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding new unit tests to LLVM libc](https://discourse.llvm.org/t/adding-new-unit-tests-to-llvm-libc/77712#post_1)
+- [Development of a macro placement automation utility that creates a log](https://discourse.llvm.org/t/development-of-a-macro-placement-automation-utility-that-creates-a-log/77711#post_1)
 - [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_24)
 - [RFC: Future of Windows pre-commit CI](https://discourse.llvm.org/t/rfc-future-of-windows-pre-commit-ci/76840?page=4#post_70)
 - [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_23)
-- [Lld fails to resolve __gnu_Unwind_Find_exidx for arm target](https://discourse.llvm.org/t/lld-fails-to-resolve-gnu-unwind-find-exidx-for-arm-target/77707#post_2)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
