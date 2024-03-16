@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Ld: archive member &#39;/&#39; not a mach-o file](https://discourse.llvm.org/t/ld-archive-member-not-a-mach-o-file/77735#post_1)
-- [How to configure LLVM backend for a 32-bit memory slot?](https://discourse.llvm.org/t/how-to-configure-llvm-backend-for-a-32-bit-memory-slot/77733#post_2)
-- [How to configure LLVM backend for a 32-bit memory slot?](https://discourse.llvm.org/t/how-to-configure-llvm-backend-for-a-32-bit-memory-slot/77733#post_1)
-- [[RFC] Tiling interface supports fuse consumer](https://discourse.llvm.org/t/rfc-tiling-interface-supports-fuse-consumer/76286#post_7)
-- [Couldn&#39;t pass mattr argument through clang](https://discourse.llvm.org/t/couldnt-pass-mattr-argument-through-clang/77727#post_3)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_93)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_92)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_91)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_90)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_89)
 <!-- DISCOURSE-LLVM:END -->
