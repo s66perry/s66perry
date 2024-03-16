@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is this repeat load operation a miss-optimization](https://discourse.llvm.org/t/is-this-repeat-load-operation-a-miss-optimization/77728#post_1)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_17)
+- [Couldn&#39;t pass mattr argument through clang](https://discourse.llvm.org/t/couldnt-pass-mattr-argument-through-clang/77727#post_2)
+- [Couldn&#39;t pass mattr argument through clang](https://discourse.llvm.org/t/couldnt-pass-mattr-argument-through-clang/77727#post_1)
 - [Perform only loop unroll using opt](https://discourse.llvm.org/t/perform-only-loop-unroll-using-opt/77638#post_2)
-- [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_3)
-- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_3)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_26)
-- [[RFC] Suppress C++ static destructor registration](https://discourse.llvm.org/t/rfc-suppress-c-static-destructor-registration/49128#post_20)
 <!-- DISCOURSE-LLVM:END -->
