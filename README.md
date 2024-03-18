@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unable to use Vi mode in LLDB console on Linux](https://discourse.llvm.org/t/unable-to-use-vi-mode-in-lldb-console-on-linux/55361#post_5)
-- [createOrFold does not sort commutative constant operands](https://discourse.llvm.org/t/createorfold-does-not-sort-commutative-constant-operands/77721#post_2)
-- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_12)
-- [How to decide whether a PHINode needs a debug location?](https://discourse.llvm.org/t/how-to-decide-whether-a-phinode-needs-a-debug-location/77745#post_1)
-- [RFC: CLANG_TIDY_ENABLE_MODULES CMake variable](https://discourse.llvm.org/t/rfc-clang-tidy-enable-modules-cmake-variable/77744#post_1)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_29)
+- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984?page=2#post_23)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_28)
+- [Does &quot;thunk&quot; attribute have side effects?](https://discourse.llvm.org/t/does-thunk-attribute-have-side-effects/77752#post_1)
+- [Do you use a personal access token to interact with the LLVM GitHub Organization?](https://discourse.llvm.org/t/do-you-use-a-personal-access-token-to-interact-with-the-llvm-github-organization/77740#post_4)
 <!-- DISCOURSE-LLVM:END -->
