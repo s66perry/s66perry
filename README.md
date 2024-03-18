@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #533, March 18th 2024](https://discourse.llvm.org/t/llvm-weekly-533-march-18th-2024/77756#post_1)
-- [Lld fails to resolve __gnu_Unwind_Find_exidx for arm target](https://discourse.llvm.org/t/lld-fails-to-resolve-gnu-unwind-find-exidx-for-arm-target/77707#post_3)
-- [[RFC] Uniformize OpenMP dialect operation names](https://discourse.llvm.org/t/rfc-uniformize-openmp-dialect-operation-names/77715#post_4)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_29)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984?page=2#post_23)
+- [Do you use a personal access token to interact with the LLVM GitHub Organization?](https://discourse.llvm.org/t/do-you-use-a-personal-access-token-to-interact-with-the-llvm-github-organization/77740#post_5)
+- [LLVM Weekly - #533, March 18th 2024](https://discourse.llvm.org/t/llvm-weekly-533-march-18th-2024/77756#post_2)
+- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_14)
+- [Missing some CursorKinds in libclang python binding](https://discourse.llvm.org/t/missing-some-cursorkinds-in-libclang-python-binding/77743#post_4)
+- [Missing some CursorKinds in libclang python binding](https://discourse.llvm.org/t/missing-some-cursorkinds-in-libclang-python-binding/77743#post_3)
 <!-- DISCOURSE-LLVM:END -->
