@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unable to use Vi mode in LLDB console on Linux](https://discourse.llvm.org/t/unable-to-use-vi-mode-in-lldb-console-on-linux/55361#post_5)
+- [createOrFold does not sort commutative constant operands](https://discourse.llvm.org/t/createorfold-does-not-sort-commutative-constant-operands/77721#post_2)
 - [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_12)
 - [How to decide whether a PHINode needs a debug location?](https://discourse.llvm.org/t/how-to-decide-whether-a-phinode-needs-a-debug-location/77745#post_1)
 - [RFC: CLANG_TIDY_ENABLE_MODULES CMake variable](https://discourse.llvm.org/t/rfc-clang-tidy-enable-modules-cmake-variable/77744#post_1)
-- [Union initialization, and aliasing &lpar;clang 18 seems to miscompile musl?&rpar;](https://discourse.llvm.org/t/union-initialization-and-aliasing-clang-18-seems-to-miscompile-musl/77724#post_6)
-- [[RFC] [mlir] Using compiler-rt builtins in OpenMP IR Builder](https://discourse.llvm.org/t/rfc-mlir-using-compiler-rt-builtins-in-openmp-ir-builder/77591#post_11)
 <!-- DISCOURSE-LLVM:END -->
