@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=6#post_123)
-- [LLVM Weekly - #533, March 18th 2024](https://discourse.llvm.org/t/llvm-weekly-533-march-18th-2024/77756#post_3)
-- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_15)
-- [RFC: CLANG_TIDY_ENABLE_MODULES CMake variable](https://discourse.llvm.org/t/rfc-clang-tidy-enable-modules-cmake-variable/77744#post_2)
-- [[GSoC 2024] Offloading libcxx](https://discourse.llvm.org/t/gsoc-2024-offloading-libcxx/77238#post_6)
+- [Lld fails to resolve __gnu_Unwind_Find_exidx for arm target](https://discourse.llvm.org/t/lld-fails-to-resolve-gnu-unwind-find-exidx-for-arm-target/77707#post_4)
+- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_9)
+- [[clang-format] Need help to make auto-formatted C macros readable](https://discourse.llvm.org/t/clang-format-need-help-to-make-auto-formatted-c-macros-readable/77029#post_5)
+- [RFC: Suggest CMake user presets in the getting started docs?](https://discourse.llvm.org/t/rfc-suggest-cmake-user-presets-in-the-getting-started-docs/77765#post_1)
+- [RFC: CLANG_TIDY_ENABLE_MODULES CMake variable](https://discourse.llvm.org/t/rfc-clang-tidy-enable-modules-cmake-variable/77744#post_3)
 <!-- DISCOURSE-LLVM:END -->
