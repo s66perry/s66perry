@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_127)
+- [Pointer alias analysis using Clang front end](https://discourse.llvm.org/t/pointer-alias-analysis-using-clang-front-end/77782#post_1)
+- [Seattle &lpar;Bellevue&rpar; LLVM Social - March 26th](https://discourse.llvm.org/t/seattle-bellevue-llvm-social-march-26th/77624#post_2)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_126)
 - [FIRRTL Dialect InstanceOp Verilog Parameters](https://discourse.llvm.org/t/firrtl-dialect-instanceop-verilog-parameters/77770#post_7)
-- [FIRRTL Dialect InstanceOp Verilog Parameters](https://discourse.llvm.org/t/firrtl-dialect-instanceop-verilog-parameters/77770#post_6)
-- [Union initialization, and aliasing &lpar;clang 18 seems to miscompile musl?&rpar;](https://discourse.llvm.org/t/union-initialization-and-aliasing-clang-18-seems-to-miscompile-musl/77724#post_9)
-- [[RFC] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/rfc-add-3-way-comparison-intrinsics/76685#post_17)
 <!-- DISCOURSE-LLVM:END -->
