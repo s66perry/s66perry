@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=3#post_41)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=2#post_40)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=2#post_39)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=2#post_38)
 - [RFC: CLANG_TIDY_ENABLE_MODULES CMake variable](https://discourse.llvm.org/t/rfc-clang-tidy-enable-modules-cmake-variable/77744#post_4)
-- [[GSoC 2024] Statistical Analysis of LLVM IR Compilation with Clang](https://discourse.llvm.org/t/gsoc-2024-statistical-analysis-of-llvm-ir-compilation-with-clang/77532#post_5)
-- [Union initialization, and aliasing &lpar;clang 18 seems to miscompile musl?&rpar;](https://discourse.llvm.org/t/union-initialization-and-aliasing-clang-18-seems-to-miscompile-musl/77724#post_10)
-- [[RFC] Add an interface for top level container operations](https://discourse.llvm.org/t/rfc-add-an-interface-for-top-level-container-operations/77807#post_7)
-- [Issues with function bodies getting replaced with unreachable after instrumentation](https://discourse.llvm.org/t/issues-with-function-bodies-getting-replaced-with-unreachable-after-instrumentation/77785#post_4)
 <!-- DISCOURSE-LLVM:END -->
