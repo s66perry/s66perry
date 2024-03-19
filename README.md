@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to print out linalg tensor without llvm-cpu-runner / JIT?](https://discourse.llvm.org/t/how-to-print-out-linalg-tensor-without-llvm-cpu-runner-jit/77813#post_1)
-- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_6)
-- [Allocating two registers to be live across a pseudo](https://discourse.llvm.org/t/allocating-two-registers-to-be-live-across-a-pseudo/77768#post_4)
-- [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_14)
-- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_5)
+- [[RFC] Add llvm.allow.runtime.check&lpar;&rpar; intrinsic](https://discourse.llvm.org/t/rfc-add-llvm-allow-runtime-check-intrinsic/77641#post_11)
+- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_14)
+- [Stage-3 BOLT build and PASSTHROUGH](https://discourse.llvm.org/t/stage-3-bolt-build-and-passthrough/77815#post_1)
+- [[GSoC 2024] Offloading libcxx](https://discourse.llvm.org/t/gsoc-2024-offloading-libcxx/77238#post_7)
+- [[RFC] OpenMP Offload the device from the accelerator &lpar;i.e nested target directive&rpar;](https://discourse.llvm.org/t/rfc-openmp-offload-the-device-from-the-accelerator-i-e-nested-target-directive/77503#post_4)
 <!-- DISCOURSE-LLVM:END -->
