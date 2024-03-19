@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [One-shot bufferize help](https://discourse.llvm.org/t/one-shot-bufferize-help/77769#post_3)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_127)
-- [Pointer alias analysis using Clang front end](https://discourse.llvm.org/t/pointer-alias-analysis-using-clang-front-end/77782#post_1)
-- [Seattle &lpar;Bellevue&rpar; LLVM Social - March 26th](https://discourse.llvm.org/t/seattle-bellevue-llvm-social-march-26th/77624#post_2)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_126)
+- [Proposal: DEBUGPATH environment variable for build-id based symbol lookups](https://discourse.llvm.org/t/proposal-debugpath-environment-variable-for-build-id-based-symbol-lookups/77789#post_1)
+- [Error when converting range based for loop to normal for loop using clang AST](https://discourse.llvm.org/t/error-when-converting-range-based-for-loop-to-normal-for-loop-using-clang-ast/77788#post_1)
+- [Request for feedback for gsoc proposal](https://discourse.llvm.org/t/request-for-feedback-for-gsoc-proposal/77787#post_2)
+- [Request for feedback for gsoc proposal](https://discourse.llvm.org/t/request-for-feedback-for-gsoc-proposal/77787#post_1)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
