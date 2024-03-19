@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to print out linalg tensor without llvm-cpu-runner / JIT?](https://discourse.llvm.org/t/how-to-print-out-linalg-tensor-without-llvm-cpu-runner-jit/77813#post_1)
+- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_6)
+- [Allocating two registers to be live across a pseudo](https://discourse.llvm.org/t/allocating-two-registers-to-be-live-across-a-pseudo/77768#post_4)
+- [LLVM Convergence Semantics](https://discourse.llvm.org/t/llvm-convergence-semantics/77642#post_14)
 - [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_5)
-- [[MLIR][Arith][GPU]Arith Expansion results inefficient lowering](https://discourse.llvm.org/t/mlir-arith-gpu-arith-expansion-results-inefficient-lowering/77718#post_4)
-- [Lib/fuzzer: `TORCW` capacity is too small &lpar;and other issues&rpar;?](https://discourse.llvm.org/t/lib-fuzzer-torcw-capacity-is-too-small-and-other-issues/77810#post_1)
-- [[RFC] Uniformize OpenMP dialect operation names](https://discourse.llvm.org/t/rfc-uniformize-openmp-dialect-operation-names/77715#post_6)
-- [[DebugInfo] Merging instruction locations of hoisted instructions](https://discourse.llvm.org/t/debuginfo-merging-instruction-locations-of-hoisted-instructions/77357#post_8)
 <!-- DISCOURSE-LLVM:END -->
