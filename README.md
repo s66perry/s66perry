@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_12)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=2#post_37)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_128)
+- [Request for feedback for gsoc proposal](https://discourse.llvm.org/t/request-for-feedback-for-gsoc-proposal/77787#post_3)
 - [Proposal: DEBUGPATH environment variable for build-id based symbol lookups](https://discourse.llvm.org/t/proposal-debugpath-environment-variable-for-build-id-based-symbol-lookups/77789#post_1)
-- [Error when converting range based for loop to normal for loop using clang AST](https://discourse.llvm.org/t/error-when-converting-range-based-for-loop-to-normal-for-loop-using-clang-ast/77788#post_1)
-- [Request for feedback for gsoc proposal](https://discourse.llvm.org/t/request-for-feedback-for-gsoc-proposal/77787#post_2)
-- [Request for feedback for gsoc proposal](https://discourse.llvm.org/t/request-for-feedback-for-gsoc-proposal/77787#post_1)
-- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
