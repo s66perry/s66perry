@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add an interface for top level container operations](https://discourse.llvm.org/t/rfc-add-an-interface-for-top-level-container-operations/77807#post_4)
-- [[RFC] Add an interface for top level container operations](https://discourse.llvm.org/t/rfc-add-an-interface-for-top-level-container-operations/77807#post_3)
-- [[RFC] Add an interface for top level container operations](https://discourse.llvm.org/t/rfc-add-an-interface-for-top-level-container-operations/77807#post_2)
-- [[RFC] Add llvm.allow.runtime.check&lpar;&rpar; intrinsic](https://discourse.llvm.org/t/rfc-add-llvm-allow-runtime-check-intrinsic/77641#post_11)
-- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_14)
+- [[GSoC 2024] Offloading libcxx](https://discourse.llvm.org/t/gsoc-2024-offloading-libcxx/77238#post_10)
+- [[GSoC 2024] Offloading libcxx](https://discourse.llvm.org/t/gsoc-2024-offloading-libcxx/77238#post_9)
+- [[GSoC 2024] Offloading libcxx](https://discourse.llvm.org/t/gsoc-2024-offloading-libcxx/77238#post_8)
+- [Stage-3 BOLT build and PASSTHROUGH](https://discourse.llvm.org/t/stage-3-bolt-build-and-passthrough/77815#post_2)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_84)
 <!-- DISCOURSE-LLVM:END -->
