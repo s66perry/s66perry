@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PSA: Instruction-constructors changing to iterator-only insertion](https://discourse.llvm.org/t/psa-instruction-constructors-changing-to-iterator-only-insertion/77845#post_3)
 - [Strange behavior when add stringref](https://discourse.llvm.org/t/strange-behavior-when-add-stringref/77837#post_2)
 - [[RFC] Apply clang::uninitialized attribute on record types](https://discourse.llvm.org/t/rfc-apply-clang-uninitialized-attribute-on-record-types/77846#post_4)
 - [[RFC] Apply clang::uninitialized attribute on record types](https://discourse.llvm.org/t/rfc-apply-clang-uninitialized-attribute-on-record-types/77846#post_3)
 - [[RFC] Apply clang::uninitialized attribute on record types](https://discourse.llvm.org/t/rfc-apply-clang-uninitialized-attribute-on-record-types/77846#post_2)
-- [[RFC] Apply clang::uninitialized attribute on record types](https://discourse.llvm.org/t/rfc-apply-clang-uninitialized-attribute-on-record-types/77846#post_1)
 <!-- DISCOURSE-LLVM:END -->
