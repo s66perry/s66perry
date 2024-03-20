@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Targetting Tricore in LLVM toolchain](https://discourse.llvm.org/t/targetting-tricore-in-llvm-toolchain/56885#post_7)
-- [What&#39;s relationship between inherent attributes vs natural attributes and discardable attributes vs derived attributes?](https://discourse.llvm.org/t/whats-relationship-between-inherent-attributes-vs-natural-attributes-and-discardable-attributes-vs-derived-attributes/77838#post_2)
-- [18.1.2 has been tagged](https://discourse.llvm.org/t/18-1-2-has-been-tagged/77822#post_5)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=3#post_58)
-- [How to guarantee the layout order of global variables in LLVM IR](https://discourse.llvm.org/t/how-to-guarantee-the-layout-order-of-global-variables-in-llvm-ir/77841#post_1)
+- [MSAN and ubuntu2404](https://discourse.llvm.org/t/msan-and-ubuntu2404/77843#post_1)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=2#post_26)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_88)
+- [[RFC] add wraps attribute &lpar;for granular integer overflow handling&rpar;](https://discourse.llvm.org/t/rfc-add-wraps-attribute-for-granular-integer-overflow-handling/77670#post_18)
+- [[GSoC 2024] Statistical Analysis of LLVM IR Compilation with Clang](https://discourse.llvm.org/t/gsoc-2024-statistical-analysis-of-llvm-ir-compilation-with-clang/77532#post_8)
 <!-- DISCOURSE-LLVM:END -->
