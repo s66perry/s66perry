@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question about adding a RISCV intrinsic](https://discourse.llvm.org/t/question-about-adding-a-riscv-intrinsic/77833#post_1)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_129)
-- [18.1.2 has been tagged](https://discourse.llvm.org/t/18-1-2-has-been-tagged/77822#post_4)
-- [LLVM C-bindings for New Pass Manager](https://discourse.llvm.org/t/llvm-c-bindings-for-new-pass-manager/77829#post_1)
-- [Better modelling of pipeline loops](https://discourse.llvm.org/t/better-modelling-of-pipeline-loops/3917?page=2#post_21)
+- [What&#39;s relationship between inherent attributes vs natural attributes and discardable attributes vs derived attributes?](https://discourse.llvm.org/t/whats-relationship-between-inherent-attributes-vs-natural-attributes-and-discardable-attributes-vs-derived-attributes/77838#post_1)
+- [[GSoC 2024] Statistical Analysis of LLVM IR Compilation with Clang](https://discourse.llvm.org/t/gsoc-2024-statistical-analysis-of-llvm-ir-compilation-with-clang/77532#post_6)
+- [Strange behavior when add stringref](https://discourse.llvm.org/t/strange-behavior-when-add-stringref/77837#post_1)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=3#post_43)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=3#post_42)
 <!-- DISCOURSE-LLVM:END -->
