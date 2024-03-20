@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Vectorization support for histogram count operations](https://discourse.llvm.org/t/rfc-vectorization-support-for-histogram-count-operations/74788#post_5)
+- [18.1.2 has been tagged](https://discourse.llvm.org/t/18-1-2-has-been-tagged/77822#post_3)
+- [Inserting into AST](https://discourse.llvm.org/t/inserting-into-ast/77001#post_4)
+- [Help in instrumentation](https://discourse.llvm.org/t/help-in-instrumentation/76921#post_5)
 - [[RFC] Add an interface for top level container operations](https://discourse.llvm.org/t/rfc-add-an-interface-for-top-level-container-operations/77807#post_8)
-- [Loop double-buffering/multi-buffering](https://discourse.llvm.org/t/loop-double-buffering-multi-buffering/59979#post_3)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_87)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_86)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_85)
 <!-- DISCOURSE-LLVM:END -->
