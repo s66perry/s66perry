@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[lldb] Questions about ElapsedTime](https://discourse.llvm.org/t/lldb-questions-about-elapsedtime/77852#post_2)
+- [Is there a way to indicate a function is a coroutine suspension point?](https://discourse.llvm.org/t/is-there-a-way-to-indicate-a-function-is-a-coroutine-suspension-point/77870#post_4)
+- [[LLVM] Add 3-way comparison intrinsics](https://discourse.llvm.org/t/llvm-add-3-way-comparison-intrinsics/76807#post_13)
+- [End of support for 64 bit big endian linux on powerpc](https://discourse.llvm.org/t/end-of-support-for-64-bit-big-endian-linux-on-powerpc/77164#post_4)
 - [End of support for 64 bit big endian linux on powerpc](https://discourse.llvm.org/t/end-of-support-for-64-bit-big-endian-linux-on-powerpc/77164#post_3)
-- [Is there a way to indicate a function is a coroutine suspension point?](https://discourse.llvm.org/t/is-there-a-way-to-indicate-a-function-is-a-coroutine-suspension-point/77870#post_3)
-- [Is there a way to indicate a function is a coroutine suspension point?](https://discourse.llvm.org/t/is-there-a-way-to-indicate-a-function-is-a-coroutine-suspension-point/77870#post_2)
-- [Get full source range of macro](https://discourse.llvm.org/t/get-full-source-range-of-macro/77723#post_2)
-- [[RFC] Link to Fortran_main using embedded linker flags](https://discourse.llvm.org/t/rfc-link-to-fortran-main-using-embedded-linker-flags/77596#post_16)
 <!-- DISCOURSE-LLVM:END -->
