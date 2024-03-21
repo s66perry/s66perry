@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=3#post_55)
+- [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853#post_9)
+- [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853#post_8)
 - [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853#post_7)
 - [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853#post_6)
-- [[RFC] Separate variables from SSA values in EmitC](https://discourse.llvm.org/t/rfc-separate-variables-from-ssa-values-in-emitc/75224#post_7)
-- [Preserve loopinfo analysis for VPLAN](https://discourse.llvm.org/t/preserve-loopinfo-analysis-for-vplan/77864#post_1)
-- [How to control a spilling happenned after the use](https://discourse.llvm.org/t/how-to-control-a-spilling-happenned-after-the-use/77863#post_1)
 <!-- DISCOURSE-LLVM:END -->
