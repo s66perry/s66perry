@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PSA: Instruction-constructors changing to iterator-only insertion](https://discourse.llvm.org/t/psa-instruction-constructors-changing-to-iterator-only-insertion/77845#post_13)
 - [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_9)
 - [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_8)
 - [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_7)
 - [2024 EuroLLVM Reminders &amp; Call for Community.o Workshop Volunteers](https://discourse.llvm.org/t/2024-eurollvm-reminders-call-for-community-o-workshop-volunteers/77851#post_2)
-- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_6)
 <!-- DISCOURSE-LLVM:END -->
