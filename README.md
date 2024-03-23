@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[OpenMP][GSoC 2024] Improve GPU First Framework](https://discourse.llvm.org/t/openmp-gsoc-2024-improve-gpu-first-framework/77048#post_16)
+- [[RFC] Should the OCP microscaling float scalars be added to APFloat and FloatType?](https://discourse.llvm.org/t/rfc-should-the-ocp-microscaling-float-scalars-be-added-to-apfloat-and-floattype/77530#post_5)
+- [[RFC] Should the OCP microscaling float scalars be added to APFloat and FloatType?](https://discourse.llvm.org/t/rfc-should-the-ocp-microscaling-float-scalars-be-added-to-apfloat-and-floattype/77530#post_4)
+- [Is there a way to indicate a function is a coroutine suspension point?](https://discourse.llvm.org/t/is-there-a-way-to-indicate-a-function-is-a-coroutine-suspension-point/77870#post_8)
 - [Is there a way to indicate a function is a coroutine suspension point?](https://discourse.llvm.org/t/is-there-a-way-to-indicate-a-function-is-a-coroutine-suspension-point/77870#post_7)
-- [llvm::DWARFUnit::getDIEForOffset returns invalid DWARFDie for TI&#39;s armcl produced elf](https://discourse.llvm.org/t/llvm-getdieforoffset-returns-invalid-dwarfdie-for-tis-armcl-produced-elf/77894#post_1)
-- [[RFC] CREL: A compact relocation format for ELF](https://discourse.llvm.org/t/rfc-crel-a-compact-relocation-format-for-elf/77600#post_2)
-- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102?page=2#post_22)
-- [[RFC] Tracking values through integral address space casts for improved alignment reasoning](https://discourse.llvm.org/t/rfc-tracking-values-through-integral-address-space-casts-for-improved-alignment-reasoning/77873#post_6)
 <!-- DISCOURSE-LLVM:END -->
