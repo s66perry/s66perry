@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_16)
-- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_15)
-- [Installing subset of components](https://discourse.llvm.org/t/installing-subset-of-components/77881#post_5)
-- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_12)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Mar 28th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-mar-28th/77929#post_1)
+- [FIRRTL CatPrimOp semantics](https://discourse.llvm.org/t/firrtl-catprimop-semantics/77885#post_3)
+- [GSoC 2024: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2024-projects-proposals-and-other-information/77331#post_4)
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_17)
+- [FIRRTL CatPrimOp semantics](https://discourse.llvm.org/t/firrtl-catprimop-semantics/77885#post_2)
+- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_10)
 <!-- DISCOURSE-LLVM:END -->
