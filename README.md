@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Custom float types](https://discourse.llvm.org/t/custom-float-types/77629#post_14)
+- [[RFC] Metadata attachments for function arguments](https://discourse.llvm.org/t/rfc-metadata-attachments-for-function-arguments/76420#post_18)
+- [[RFC] Add nowrap flags to trunc](https://discourse.llvm.org/t/rfc-add-nowrap-flags-to-trunc/77453#post_8)
+- [Is this repeat load operation a miss-optimization](https://discourse.llvm.org/t/is-this-repeat-load-operation-a-miss-optimization/77728#post_2)
 - [LLVM Developer Meeting attendance numbers](https://discourse.llvm.org/t/llvm-developer-meeting-attendance-numbers/77921#post_3)
-- [&quot;With the latest revision this PR passed the Python code formatter.&quot;](https://discourse.llvm.org/t/with-the-latest-revision-this-pr-passed-the-python-code-formatter/77924#post_1)
-- [How do you start matmul optimization with MLIR for my Nvidia GTX 1650?](https://discourse.llvm.org/t/how-do-you-start-matmul-optimization-with-mlir-for-my-nvidia-gtx-1650/77922#post_3)
-- [How do you start matmul optimization with MLIR for my Nvidia GTX 1650?](https://discourse.llvm.org/t/how-do-you-start-matmul-optimization-with-mlir-for-my-nvidia-gtx-1650/77922#post_2)
-- [Guides to implementing zero-cost exceptions](https://discourse.llvm.org/t/guides-to-implementing-zero-cost-exceptions/77906#post_3)
 <!-- DISCOURSE-LLVM:END -->
