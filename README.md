@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to parse a MLIR file containing a transform dialect sequence &lpar;LLVM release 18&rpar;?](https://discourse.llvm.org/t/how-to-parse-a-mlir-file-containing-a-transform-dialect-sequence-llvm-release-18/77959#post_1)
-- [What effect should be expected from microarchitecture specific code generation?](https://discourse.llvm.org/t/what-effect-should-be-expected-from-microarchitecture-specific-code-generation/77936#post_2)
-- [LLVM 18.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-18-1-0-rc1-tagged/76619#post_17)
-- [Clang-query: issue with keyboard arrow events](https://discourse.llvm.org/t/clang-query-issue-with-keyboard-arrow-events/77938#post_3)
-- [Improve the LLVM.org Website Look and Feel](https://discourse.llvm.org/t/improve-the-llvm-org-website-look-and-feel/76864#post_8)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Mar 28th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-mar-28th/77929#post_3)
+- [[RFC] Add nowrap flags to trunc](https://discourse.llvm.org/t/rfc-add-nowrap-flags-to-trunc/77453#post_10)
+- [[RFC] Add nowrap flags to trunc](https://discourse.llvm.org/t/rfc-add-nowrap-flags-to-trunc/77453#post_9)
+- [How to Use --dll and --add-stdcall-alias Swiches](https://discourse.llvm.org/t/how-to-use-dll-and-add-stdcall-alias-swiches/77960#post_1)
+- [Problem Using Clang to Build Hello,world with GNU C++ Library](https://discourse.llvm.org/t/problem-using-clang-to-build-hello-world-with-gnu-c-library/72821#post_3)
 <!-- DISCOURSE-LLVM:END -->
