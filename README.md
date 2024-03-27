@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support atomicrmw with floating-point vector operations](https://discourse.llvm.org/t/rfc-support-atomicrmw-with-floating-point-vector-operations/77981#post_1)
-- [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_1)
-- [How to help to locate the bug in my pass which causes the following passes crash?](https://discourse.llvm.org/t/how-to-help-to-locate-the-bug-in-my-pass-which-causes-the-following-passes-crash/77969#post_2)
-- [How to parse a MLIR file containing a transform dialect sequence &lpar;LLVM release 18&rpar;?](https://discourse.llvm.org/t/how-to-parse-a-mlir-file-containing-a-transform-dialect-sequence-llvm-release-18/77959#post_4)
-- [FIRRTL CatPrimOp semantics](https://discourse.llvm.org/t/firrtl-catprimop-semantics/77885#post_4)
+- [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_4)
+- [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_3)
+- [Join the open projects in MLIR](https://discourse.llvm.org/t/join-the-open-projects-in-mlir/77902#post_2)
+- [Is this repeat load operation a miss-optimization](https://discourse.llvm.org/t/is-this-repeat-load-operation-a-miss-optimization/77728#post_3)
+- [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_2)
 <!-- DISCOURSE-LLVM:END -->
