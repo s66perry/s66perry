@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Join the open projects in MLIR](https://discourse.llvm.org/t/join-the-open-projects-in-mlir/77902#post_3)
 - [Improve the LLVM.org Website Look and Feel](https://discourse.llvm.org/t/improve-the-llvm-org-website-look-and-feel/76864#post_10)
 - [Improve the LLVM.org Website Look and Feel](https://discourse.llvm.org/t/improve-the-llvm-org-website-look-and-feel/76864#post_9)
 - [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_7)
 - [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_6)
-- [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_5)
 <!-- DISCOURSE-LLVM:END -->
