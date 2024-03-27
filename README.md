@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to write testcase for MIR](https://discourse.llvm.org/t/how-to-write-testcase-for-mir/77973#post_3)
+- [How to handle group registers, those that contain pairing rules, getRegAllocationHints in case they can&#39;t be resolved](https://discourse.llvm.org/t/how-to-handle-group-registers-those-that-contain-pairing-rules-getregallocationhints-in-case-they-cant-be-resolved/77948#post_2)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=2#post_31)
 - [How to write testcase for MIR](https://discourse.llvm.org/t/how-to-write-testcase-for-mir/77973#post_2)
 - [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236#post_13)
-- [Polygeist build, FileCheck missing with both option 1 and option 2](https://discourse.llvm.org/t/polygeist-build-filecheck-missing-with-both-option-1-and-option-2/77977#post_1)
-- [[RFC] Separate variables from SSA values in EmitC](https://discourse.llvm.org/t/rfc-separate-variables-from-ssa-values-in-emitc/75224#post_8)
-- [Libclang_rt.asan_static installs in the wrong directory](https://discourse.llvm.org/t/libclang-rt-asan-static-installs-in-the-wrong-directory/77976#post_1)
 <!-- DISCOURSE-LLVM:END -->
