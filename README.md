@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_5)
+- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_5)
+- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_4)
+- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_3)
 - [[ADT] early_inc_iterator + pointer_iterator reference to temporary](https://discourse.llvm.org/t/adt-early-inc-iterator-pointer-iterator-reference-to-temporary/77996#post_2)
-- [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_8)
-- [[ADT] early_inc_iterator + pointer_iterator reference to temporary](https://discourse.llvm.org/t/adt-early-inc-iterator-pointer-iterator-reference-to-temporary/77996#post_1)
-- [RFC: clang-format option to include another configuration file](https://discourse.llvm.org/t/rfc-clang-format-option-to-include-another-configuration-file/74891#post_2)
-- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_11)
 <!-- DISCOURSE-LLVM:END -->
