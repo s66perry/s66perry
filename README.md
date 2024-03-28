@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_6)
+- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_1)
+- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_14)
+- [[RFC] Project Hand In Hand &lpar;LLVM-libc/libc++ code sharing&rpar;](https://discourse.llvm.org/t/rfc-project-hand-in-hand-llvm-libc-libc-code-sharing/77701#post_7)
 - [What are the uses of `SDTypeProfile`, `SDNode`, `Operand`, `PatLeaf`, and `ComplexPattern` in adding new target for LLVM backend?](https://discourse.llvm.org/t/what-are-the-uses-of-sdtypeprofile-sdnode-operand-patleaf-and-complexpattern-in-adding-new-target-for-llvm-backend/77950#post_4)
-- [How to print out linalg tensor without llvm-cpu-runner / JIT?](https://discourse.llvm.org/t/how-to-print-out-linalg-tensor-without-llvm-cpu-runner-jit/77813#post_2)
-- [HGLDD wrong var_name reference?](https://discourse.llvm.org/t/hgldd-wrong-var-name-reference/78006#post_3)
-- [HGLDD wrong var_name reference?](https://discourse.llvm.org/t/hgldd-wrong-var-name-reference/78006#post_2)
-- [How to solve the problem of stale Profile data when Bolt is used with pgo?](https://discourse.llvm.org/t/how-to-solve-the-problem-of-stale-profile-data-when-bolt-is-used-with-pgo/78007#post_1)
 <!-- DISCOURSE-LLVM:END -->
