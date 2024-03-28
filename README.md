@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Torch dialects, gradients &lpar;and bears, oh my!&rpar;](https://discourse.llvm.org/t/torch-dialects-gradients-and-bears-oh-my/1833#post_13)
+- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_6)
+- [--convert-std-to-llvm is unrecognized for mlir-cpu-runner](https://discourse.llvm.org/t/convert-std-to-llvm-is-unrecognized-for-mlir-cpu-runner/77998#post_2)
+- [--convert-std-to-llvm is unrecognized for mlir-cpu-runner](https://discourse.llvm.org/t/convert-std-to-llvm-is-unrecognized-for-mlir-cpu-runner/77998#post_1)
 - [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_5)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_5)
-- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_4)
-- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_3)
-- [[ADT] early_inc_iterator + pointer_iterator reference to temporary](https://discourse.llvm.org/t/adt-early-inc-iterator-pointer-iterator-reference-to-temporary/77996#post_2)
 <!-- DISCOURSE-LLVM:END -->
