@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Thoughts on running the sanitizer tests with &quot;real&quot; MSVC](https://discourse.llvm.org/t/thoughts-on-running-the-sanitizer-tests-with-real-msvc/78015#post_1)
-- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_3)
-- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_2)
-- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_1)
-- [This analysis pass was not registered prior to being queried](https://discourse.llvm.org/t/this-analysis-pass-was-not-registered-prior-to-being-queried/78013#post_1)
+- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_4)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_58)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_57)
+- [[RFC] Project Hand In Hand &lpar;LLVM-libc/libc++ code sharing&rpar;](https://discourse.llvm.org/t/rfc-project-hand-in-hand-llvm-libc-libc-code-sharing/77701#post_8)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
