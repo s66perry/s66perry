@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB expressions: &#39;unknown error&#39; is returned upon successful evaluation](https://discourse.llvm.org/t/lldb-expressions-unknown-error-is-returned-upon-successful-evaluation/78012#post_1)
+- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_15)
+- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_15)
+- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_14)
 - [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_6)
-- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_1)
-- [Support clang plugins on Windows](https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408#post_14)
-- [[RFC] Project Hand In Hand &lpar;LLVM-libc/libc++ code sharing&rpar;](https://discourse.llvm.org/t/rfc-project-hand-in-hand-llvm-libc-libc-code-sharing/77701#post_7)
-- [What are the uses of `SDTypeProfile`, `SDNode`, `Operand`, `PatLeaf`, and `ComplexPattern` in adding new target for LLVM backend?](https://discourse.llvm.org/t/what-are-the-uses-of-sdtypeprofile-sdnode-operand-patleaf-and-complexpattern-in-adding-new-target-for-llvm-backend/77950#post_4)
 <!-- DISCOURSE-LLVM:END -->
