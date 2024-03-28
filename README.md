@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What are the uses of `SDTypeProfile`, `SDNode`, `Operand`, `PatLeaf`, and `ComplexPattern` in adding new target for LLVM backend?](https://discourse.llvm.org/t/what-are-the-uses-of-sdtypeprofile-sdnode-operand-patleaf-and-complexpattern-in-adding-new-target-for-llvm-backend/77950#post_3)
+- [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236#post_14)
 - [[RFC] Implicit addends for non-code sections](https://discourse.llvm.org/t/rfc-implicit-addends-for-non-code-sections/78000#post_1)
 - [--convert-std-to-llvm is unrecognized for mlir-cpu-runner](https://discourse.llvm.org/t/convert-std-to-llvm-is-unrecognized-for-mlir-cpu-runner/77998#post_6)
 - [--convert-std-to-llvm is unrecognized for mlir-cpu-runner](https://discourse.llvm.org/t/convert-std-to-llvm-is-unrecognized-for-mlir-cpu-runner/77998#post_5)
-- [--convert-std-to-llvm is unrecognized for mlir-cpu-runner](https://discourse.llvm.org/t/convert-std-to-llvm-is-unrecognized-for-mlir-cpu-runner/77998#post_4)
-- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_7)
 <!-- DISCOURSE-LLVM:END -->
