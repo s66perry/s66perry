@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [FIRRTL CatPrimOp semantics](https://discourse.llvm.org/t/firrtl-catprimop-semantics/77885#post_9)
-- [How to solve the problem of stale Profile data when Bolt is used with pgo?](https://discourse.llvm.org/t/how-to-solve-the-problem-of-stale-profile-data-when-bolt-is-used-with-pgo/78007#post_3)
-- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_4)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_58)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=3#post_57)
+- [Mixing C++17 and C++20 std::string causes segfault writing to .rodata](https://discourse.llvm.org/t/mixing-c-17-and-c-20-std-string-causes-segfault-writing-to-rodata/77974#post_2)
+- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_5)
+- [[Idea] Deduplicating sequences of instructions only reachable via jump](https://discourse.llvm.org/t/idea-deduplicating-sequences-of-instructions-only-reachable-via-jump/78019#post_1)
+- [[RFC] Implicit addends for non-code sections](https://discourse.llvm.org/t/rfc-implicit-addends-for-non-code-sections/78000#post_3)
+- [Improve the LLVM.org Website Look and Feel](https://discourse.llvm.org/t/improve-the-llvm-org-website-look-and-feel/76864#post_11)
 <!-- DISCOURSE-LLVM:END -->
