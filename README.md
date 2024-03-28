@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about return type of llvm::cast](https://discourse.llvm.org/t/question-about-return-type-of-llvm-cast/77980#post_8)
+- [[ADT] early_inc_iterator + pointer_iterator reference to temporary](https://discourse.llvm.org/t/adt-early-inc-iterator-pointer-iterator-reference-to-temporary/77996#post_1)
+- [RFC: clang-format option to include another configuration file](https://discourse.llvm.org/t/rfc-clang-format-option-to-include-another-configuration-file/74891#post_2)
+- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_11)
 - [Release Notes for 18.1.3](https://discourse.llvm.org/t/release-notes-for-18-1-3/77992#post_1)
-- [CANCELLED RISC-V LLVM sync-up call March 28th 2024](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-march-28th-2024/77991#post_1)
-- [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_2)
-- [[openmp offloading] get `&quot;CUDA&quot; error: Unrecognized &quot;CUDA&quot; error code 4`](https://discourse.llvm.org/t/openmp-offloading-get-cuda-error-unrecognized-cuda-error-code-4/77562#post_14)
-- [[RFC] Support nneg flag with uitofp](https://discourse.llvm.org/t/rfc-support-nneg-flag-with-uitofp/77988#post_1)
 <!-- DISCOURSE-LLVM:END -->
