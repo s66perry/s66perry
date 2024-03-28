@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Discussion Forums Libc++ C++23 module installation support](https://discourse.llvm.org/t/llvm-discussion-forums-libc-c-23-module-installation-support/77087#post_18)
-- [HGLDD wrong var_name reference?](https://discourse.llvm.org/t/hgldd-wrong-var-name-reference/78006#post_4)
-- [How to solve the problem of stale Profile data when Bolt is used with pgo?](https://discourse.llvm.org/t/how-to-solve-the-problem-of-stale-profile-data-when-bolt-is-used-with-pgo/78007#post_2)
-- [LLDB expressions: &#39;unknown error&#39; is returned upon successful evaluation](https://discourse.llvm.org/t/lldb-expressions-unknown-error-is-returned-upon-successful-evaluation/78012#post_1)
-- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_15)
+- [Thoughts on running the sanitizer tests with &quot;real&quot; MSVC](https://discourse.llvm.org/t/thoughts-on-running-the-sanitizer-tests-with-real-msvc/78015#post_1)
+- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_3)
+- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_2)
+- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_1)
+- [This analysis pass was not registered prior to being queried](https://discourse.llvm.org/t/this-analysis-pass-was-not-registered-prior-to-being-queried/78013#post_1)
 <!-- DISCOURSE-LLVM:END -->
