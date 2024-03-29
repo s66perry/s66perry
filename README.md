@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does clang-tidy config support ignore special rule?](https://discourse.llvm.org/t/does-clang-tidy-config-support-ignore-special-rule/78029#post_2)
 - [EuroLLVM MLIR round table&lpar;s&rpar;](https://discourse.llvm.org/t/eurollvm-mlir-round-table-s/78034#post_2)
 - [Adding ExecutionEngine to libMLIR.so](https://discourse.llvm.org/t/adding-executionengine-to-libmlir-so/77367#post_6)
 - [How to auto-vectorize fp16 loop under arm sve?](https://discourse.llvm.org/t/how-to-auto-vectorize-fp16-loop-under-arm-sve/78036#post_1)
 - [EuroLLVM MLIR round table&lpar;s&rpar;](https://discourse.llvm.org/t/eurollvm-mlir-round-table-s/78034#post_1)
-- [Do you use a personal access token to interact with the LLVM GitHub Organization?](https://discourse.llvm.org/t/do-you-use-a-personal-access-token-to-interact-with-the-llvm-github-organization/77740#post_7)
 <!-- DISCOURSE-LLVM:END -->
