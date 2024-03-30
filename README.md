@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_4)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_113)
 - [[ABI] Does it different with/without aarch64_vector_pcs for sve](https://discourse.llvm.org/t/abi-does-it-different-with-without-aarch64-vector-pcs-for-sve/78043#post_1)
 - [Bolt &quot;BOLT-WARNING: sizes differ for function&quot;](https://discourse.llvm.org/t/bolt-bolt-warning-sizes-differ-for-function/77987#post_9)
 - [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_3)
-- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_2)
-- [LLDB expressions: &#39;unknown error&#39; is returned upon successful evaluation](https://discourse.llvm.org/t/lldb-expressions-unknown-error-is-returned-upon-successful-evaluation/78012#post_2)
 <!-- DISCOURSE-LLVM:END -->
