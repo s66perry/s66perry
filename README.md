@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Questions about the T-Head Vector extension &lpar;xtheadvector&rpar; in LLVM upstream](https://discourse.llvm.org/t/questions-about-the-t-head-vector-extension-xtheadvector-in-llvm-upstream/77298#post_3)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=3#post_56)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=2#post_38)
+- [[libc][GSoC 2024] Performance and testing in the GPU libc](https://discourse.llvm.org/t/libc-gsoc-2024-performance-and-testing-in-the-gpu-libc/77042?page=3#post_55)
 - [RFC: clang-format option to include another configuration file](https://discourse.llvm.org/t/rfc-clang-format-option-to-include-another-configuration-file/74891#post_3)
-- [Windows / COFF ComDat sections checksum algorithm](https://discourse.llvm.org/t/windows-coff-comdat-sections-checksum-algorithm/78058#post_1)
-- [Build LLVM,Clang and libFuzzer](https://discourse.llvm.org/t/build-llvm-clang-and-libfuzzer/78031#post_3)
-- [How to build shellcode on Windows, for Windows?](https://discourse.llvm.org/t/how-to-build-shellcode-on-windows-for-windows/78055#post_1)
-- [Build LLVM,Clang and libFuzzer](https://discourse.llvm.org/t/build-llvm-clang-and-libfuzzer/78031#post_2)
 <!-- DISCOURSE-LLVM:END -->
