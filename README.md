@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_45)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_44)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_43)
-- [Nested function definitions in LLVM IR](https://discourse.llvm.org/t/nested-function-definitions-in-llvm-ir/78063#post_3)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_42)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_115)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_50)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_49)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_48)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
