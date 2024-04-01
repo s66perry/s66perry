@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Questions about the T-Head Vector extension &lpar;xtheadvector&rpar; in LLVM upstream](https://discourse.llvm.org/t/questions-about-the-t-head-vector-extension-xtheadvector-in-llvm-upstream/77298#post_4)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_118)
+- [How to auto-vectorize fp16 loop under arm sve?](https://discourse.llvm.org/t/how-to-auto-vectorize-fp16-loop-under-arm-sve/78036#post_5)
 - [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_117)
 - [[RFC] Add nowrap flags to trunc](https://discourse.llvm.org/t/rfc-add-nowrap-flags-to-trunc/77453#post_11)
-- [llvm::DWARFUnit::getDIEForOffset returns invalid DWARFDie for TI&#39;s armcl produced elf](https://discourse.llvm.org/t/llvm-getdieforoffset-returns-invalid-dwarfdie-for-tis-armcl-produced-elf/77894#post_2)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_16)
-- [Building issues](https://discourse.llvm.org/t/building-issues/78080#post_1)
 <!-- DISCOURSE-LLVM:END -->
