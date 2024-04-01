@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building issues](https://discourse.llvm.org/t/building-issues/78080#post_1)
+- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_9)
+- [[MLIR][GPU][Linalg] How to find a valid lowering pipeline for workgroup memory usage via `transform.structured.promote`?](https://discourse.llvm.org/t/mlir-gpu-linalg-how-to-find-a-valid-lowering-pipeline-for-workgroup-memory-usage-via-transform-structured-promote/77866#post_2)
+- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_8)
 - [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_7)
-- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_116)
-- [How to auto-vectorize fp16 loop under arm sve?](https://discourse.llvm.org/t/how-to-auto-vectorize-fp16-loop-under-arm-sve/78036#post_4)
-- [How to auto-vectorize fp16 loop under arm sve?](https://discourse.llvm.org/t/how-to-auto-vectorize-fp16-loop-under-arm-sve/78036#post_3)
-- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_6)
 <!-- DISCOURSE-LLVM:END -->
