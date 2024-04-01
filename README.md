@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Directions for modules support in clangd?](https://discourse.llvm.org/t/rfc-directions-for-modules-support-in-clangd/78072#post_1)
+- [Guides to implementing zero-cost exceptions](https://discourse.llvm.org/t/guides-to-implementing-zero-cost-exceptions/77906#post_5)
+- [Nested function definitions in LLVM IR](https://discourse.llvm.org/t/nested-function-definitions-in-llvm-ir/78063#post_5)
+- [Nested function definitions in LLVM IR](https://discourse.llvm.org/t/nested-function-definitions-in-llvm-ir/78063#post_4)
 - [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853#post_15)
-- [[RFC] Solving the issue of long attributes](https://discourse.llvm.org/t/rfc-solving-the-issue-of-long-attributes/78070#post_3)
-- [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853#post_14)
-- [MachineFunction ownership in the new pass manager](https://discourse.llvm.org/t/machinefunction-ownership-in-the-new-pass-manager/77381#post_5)
-- [MLIR C/C++ Frontend Working Group [Mon, April 1st]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-april-1st/77883#post_2)
 <!-- DISCOURSE-LLVM:END -->
