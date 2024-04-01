@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_7)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=6#post_116)
 - [How to auto-vectorize fp16 loop under arm sve?](https://discourse.llvm.org/t/how-to-auto-vectorize-fp16-loop-under-arm-sve/78036#post_4)
 - [How to auto-vectorize fp16 loop under arm sve?](https://discourse.llvm.org/t/how-to-auto-vectorize-fp16-loop-under-arm-sve/78036#post_3)
 - [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_6)
-- [Cyclic dependencies between dialects when adding a new canonicalization pattern](https://discourse.llvm.org/t/cyclic-dependencies-between-dialects-when-adding-a-new-canonicalization-pattern/78061#post_3)
-- [LLVM PGO Compiler-rt profile lib build](https://discourse.llvm.org/t/llvm-pgo-compiler-rt-profile-lib-build/78073#post_1)
 <!-- DISCOURSE-LLVM:END -->
