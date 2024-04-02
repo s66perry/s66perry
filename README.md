@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Serial Debugging KGDB Kernel Bugs - SIGTRAP, And &quot;serial://&quot; Use With Plugin Shortcut](https://discourse.llvm.org/t/serial-debugging-kgdb-kernel-bugs-sigtrap-and-serial-use-with-plugin-shortcut/77731#post_2)
-- [Altering the number of results of an existing operation](https://discourse.llvm.org/t/altering-the-number-of-results-of-an-existing-operation/78101#post_1)
-- [Builtin variants of functions with more argument shan the usual](https://discourse.llvm.org/t/builtin-variants-of-functions-with-more-argument-shan-the-usual/77628#post_4)
-- [Recent improvements to the IR parser](https://discourse.llvm.org/t/recent-improvements-to-the-ir-parser/77366#post_8)
-- [[RFC] Solving the issue of long attributes](https://discourse.llvm.org/t/rfc-solving-the-issue-of-long-attributes/78070#post_4)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_59)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_58)
+- [What are the restrictions on fuse_into_containing_op?](https://discourse.llvm.org/t/what-are-the-restrictions-on-fuse-into-containing-op/78094#post_5)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=3#post_57)
+- [How do I join the MLIR discord channel?](https://discourse.llvm.org/t/how-do-i-join-the-mlir-discord-channel/78099#post_3)
 <!-- DISCOURSE-LLVM:END -->
