@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Pass list option with enums](https://discourse.llvm.org/t/pass-list-option-with-enums/78095#post_1)
-- [What are the restrictions on fuse_into_containing_op?](https://discourse.llvm.org/t/what-are-the-restrictions-on-fuse-into-containing-op/78094#post_4)
-- [What are the restrictions on fuse_into_containing_op?](https://discourse.llvm.org/t/what-are-the-restrictions-on-fuse-into-containing-op/78094#post_3)
-- [How to auto-vectorize fp16 loop under arm sve?](https://discourse.llvm.org/t/how-to-auto-vectorize-fp16-loop-under-arm-sve/78036#post_6)
-- [What are the restrictions on fuse_into_containing_op?](https://discourse.llvm.org/t/what-are-the-restrictions-on-fuse-into-containing-op/78094#post_2)
+- [How do I join the MLIR discord channel?](https://discourse.llvm.org/t/how-do-i-join-the-mlir-discord-channel/78099#post_2)
+- [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_8)
+- [How do I join the MLIR discord channel?](https://discourse.llvm.org/t/how-do-i-join-the-mlir-discord-channel/78099#post_1)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=7#post_128)
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=7#post_127)
 <!-- DISCOURSE-LLVM:END -->
