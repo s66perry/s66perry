@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=8#post_145)
 - [RFC: Allow silencing *-avoid-c-arrays for unsized arrays as template parameter](https://discourse.llvm.org/t/rfc-allow-silencing-avoid-c-arrays-for-unsized-arrays-as-template-parameter/78107#post_3)
 - [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=8#post_144)
 - [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=8#post_143)
 - [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=8#post_142)
-- [RFC: Allow silencing *-avoid-c-arrays for unsized arrays as template parameter](https://discourse.llvm.org/t/rfc-allow-silencing-avoid-c-arrays-for-unsized-arrays-as-template-parameter/78107#post_2)
 <!-- DISCOURSE-LLVM:END -->
