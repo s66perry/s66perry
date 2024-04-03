@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Project Hand In Hand &lpar;LLVM-libc/libc++ code sharing&rpar;](https://discourse.llvm.org/t/rfc-project-hand-in-hand-llvm-libc-libc-code-sharing/77701#post_10)
 - [&quot;Show older changes&quot; button in Phabricator reviews doesn&#39;t seem to be working](https://discourse.llvm.org/t/show-older-changes-button-in-phabricator-reviews-doesnt-seem-to-be-working/77439#post_5)
 - [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853?page=2#post_24)
 - [Plans to add x86-64-v5 target?](https://discourse.llvm.org/t/plans-to-add-x86-64-v5-target/78126#post_1)
 - [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_15)
-- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_14)
 <!-- DISCOURSE-LLVM:END -->
