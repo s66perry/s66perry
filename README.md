@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: New criteria for commit access](https://discourse.llvm.org/t/rfc-new-criteria-for-commit-access/76290?page=8#post_146)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121#post_1)
+- [Libclang_rt.asan_static installs in the wrong directory](https://discourse.llvm.org/t/libclang-rt-asan-static-installs-in-the-wrong-directory/77976#post_2)
 - [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_7)
 - [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=3#post_60)
-- [Cyclic dependencies between dialects when adding a new canonicalization pattern](https://discourse.llvm.org/t/cyclic-dependencies-between-dialects-when-adding-a-new-canonicalization-pattern/78061#post_4)
-- [What is the best way to JIT compile C++ code contained in a string?](https://discourse.llvm.org/t/what-is-the-best-way-to-jit-compile-c-code-contained-in-a-string/77295#post_6)
-- [llvm::DWARFUnit::getDIEForOffset returns invalid DWARFDie for TI&#39;s armcl produced elf](https://discourse.llvm.org/t/llvm-getdieforoffset-returns-invalid-dwarfdie-for-tis-armcl-produced-elf/77894#post_3)
 <!-- DISCOURSE-LLVM:END -->
