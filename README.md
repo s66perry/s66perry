@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121#post_17)
-- [How to write testcase for MIR](https://discourse.llvm.org/t/how-to-write-testcase-for-mir/77973#post_4)
-- [[RFC] BOLT-based binary analysis tool to verify correctness of security hardening](https://discourse.llvm.org/t/rfc-bolt-based-binary-analysis-tool-to-verify-correctness-of-security-hardening/78148#post_1)
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121#post_16)
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121#post_15)
+- [18.1.3 has been tagged](https://discourse.llvm.org/t/18-1-3-has-been-tagged/78137#post_2)
+- [Are there any documentations for understading mlir internals?](https://discourse.llvm.org/t/are-there-any-documentations-for-understading-mlir-internals/78139#post_4)
+- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_17)
+- [Are there any documentations for understading mlir internals?](https://discourse.llvm.org/t/are-there-any-documentations-for-understading-mlir-internals/78139#post_3)
+- [Are there any documentations for understading mlir internals?](https://discourse.llvm.org/t/are-there-any-documentations-for-understading-mlir-internals/78139#post_2)
 <!-- DISCOURSE-LLVM:END -->
