@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Plans to add x86-64-v5 target?](https://discourse.llvm.org/t/plans-to-add-x86-64-v5-target/78126#post_3)
+- [[Q] Specify checks for failing and passing tests in the same llvm-lit source](https://discourse.llvm.org/t/q-specify-checks-for-failing-and-passing-tests-in-the-same-llvm-lit-source/78135#post_4)
 - [PowerPC Code Owner](https://discourse.llvm.org/t/powerpc-code-owner/78142#post_3)
 - [Forward options to optimizer pass plugin](https://discourse.llvm.org/t/forward-options-to-optimizer-pass-plugin/78145#post_2)
 - [18.1.3 has been tagged](https://discourse.llvm.org/t/18-1-3-has-been-tagged/78137#post_2)
-- [Are there any documentations for understading mlir internals?](https://discourse.llvm.org/t/are-there-any-documentations-for-understading-mlir-internals/78139#post_4)
-- [[RFC] Documentation of Clang diagnostics ... an automated approach](https://discourse.llvm.org/t/rfc-documentation-of-clang-diagnostics-an-automated-approach/78009#post_17)
 <!-- DISCOURSE-LLVM:END -->
