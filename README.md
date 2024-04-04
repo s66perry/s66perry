@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Q] Specify checks for failing and passing tests in the same llvm-lit source](https://discourse.llvm.org/t/q-specify-checks-for-failing-and-passing-tests-in-the-same-llvm-lit-source/78135#post_5)
+- [Serial Debugging KGDB Kernel Bugs - SIGTRAP, And &quot;serial://&quot; Use With Plugin Shortcut](https://discourse.llvm.org/t/serial-debugging-kgdb-kernel-bugs-sigtrap-and-serial-use-with-plugin-shortcut/77731#post_7)
+- [Questions about the T-Head Vector extension &lpar;xtheadvector&rpar; in LLVM upstream](https://discourse.llvm.org/t/questions-about-the-t-head-vector-extension-xtheadvector-in-llvm-upstream/77298#post_7)
+- [Questions about the T-Head Vector extension &lpar;xtheadvector&rpar; in LLVM upstream](https://discourse.llvm.org/t/questions-about-the-t-head-vector-extension-xtheadvector-in-llvm-upstream/77298#post_6)
 - [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507?page=2#post_28)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_67)
-- [Code review mirroring to mailing lists broken?](https://discourse.llvm.org/t/code-review-mirroring-to-mailing-lists-broken/78144#post_2)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_66)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_65)
 <!-- DISCOURSE-LLVM:END -->
