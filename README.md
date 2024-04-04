@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Landing MDL in LLVM CodeGen](https://discourse.llvm.org/t/rfc-landing-mdl-in-llvm-codegen/76507?page=2#post_28)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_67)
+- [Code review mirroring to mailing lists broken?](https://discourse.llvm.org/t/code-review-mirroring-to-mailing-lists-broken/78144#post_2)
 - [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_66)
 - [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_65)
-- [[RFC] Project Hand In Hand &lpar;LLVM-libc/libc++ code sharing&rpar;](https://discourse.llvm.org/t/rfc-project-hand-in-hand-llvm-libc-libc-code-sharing/77701#post_17)
-- [PowerPC Code Owner](https://discourse.llvm.org/t/powerpc-code-owner/78142#post_4)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_91)
 <!-- DISCOURSE-LLVM:END -->
