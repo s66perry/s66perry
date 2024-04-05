@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support nneg flag with uitofp](https://discourse.llvm.org/t/rfc-support-nneg-flag-with-uitofp/77988#post_5)
 - [[Q] Specify checks for failing and passing tests in the same llvm-lit source](https://discourse.llvm.org/t/q-specify-checks-for-failing-and-passing-tests-in-the-same-llvm-lit-source/78135#post_6)
 - [Submitting an Experimental Target](https://discourse.llvm.org/t/submitting-an-experimental-target/59497#post_7)
 - [[RFC] BOLT-based binary analysis tool to verify correctness of security hardening](https://discourse.llvm.org/t/rfc-bolt-based-binary-analysis-tool-to-verify-correctness-of-security-hardening/78148#post_2)
 - [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121#post_19)
-- [Question about memref.reinterpret_cast&#39;s offset](https://discourse.llvm.org/t/question-about-memref-reinterpret-casts-offset/76082#post_3)
 <!-- DISCOURSE-LLVM:END -->
