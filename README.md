@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Fold API inconsitencies](https://discourse.llvm.org/t/fold-api-inconsitencies/78174#post_1)
+- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458?page=2#post_27)
 - [[Q] Specify checks for failing and passing tests in the same llvm-lit source](https://discourse.llvm.org/t/q-specify-checks-for-failing-and-passing-tests-in-the-same-llvm-lit-source/78135#post_7)
 - [EmitC round table at EuroLLVM 2024](https://discourse.llvm.org/t/emitc-round-table-at-eurollvm-2024/78173#post_1)
 - [PowerPC Code Owner](https://discourse.llvm.org/t/powerpc-code-owner/78142#post_5)
-- [RFC / FYI: Pull Request Greetings For New Contributors](https://discourse.llvm.org/t/rfc-fyi-pull-request-greetings-for-new-contributors/75458?page=2#post_26)
-- [Fail to build flang-new &lpar;fa8dc363&rpar; on Raspberry Pi 5: `-Werror=restrict`](https://discourse.llvm.org/t/fail-to-build-flang-new-fa8dc363-on-raspberry-pi-5-werror-restrict/78166#post_2)
 <!-- DISCOURSE-LLVM:END -->
