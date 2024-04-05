@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why get wrong result when call MLIR function by c++?](https://discourse.llvm.org/t/why-get-wrong-result-when-call-mlir-function-by-c/78161#post_3)
+- [Why get wrong result when call MLIR function by c++?](https://discourse.llvm.org/t/why-get-wrong-result-when-call-mlir-function-by-c/78161#post_2)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_92)
 - [Why get wrong result when call MLIR function by c++?](https://discourse.llvm.org/t/why-get-wrong-result-when-call-mlir-function-by-c/78161#post_1)
 - [[RFC] Support nneg flag with uitofp](https://discourse.llvm.org/t/rfc-support-nneg-flag-with-uitofp/77988#post_5)
-- [[Q] Specify checks for failing and passing tests in the same llvm-lit source](https://discourse.llvm.org/t/q-specify-checks-for-failing-and-passing-tests-in-the-same-llvm-lit-source/78135#post_6)
-- [Submitting an Experimental Target](https://discourse.llvm.org/t/submitting-an-experimental-target/59497#post_7)
-- [[RFC] BOLT-based binary analysis tool to verify correctness of security hardening](https://discourse.llvm.org/t/rfc-bolt-based-binary-analysis-tool-to-verify-correctness-of-security-hardening/78148#post_2)
 <!-- DISCOURSE-LLVM:END -->
