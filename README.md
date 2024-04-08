@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Apply custom statement attribute on AST](https://discourse.llvm.org/t/apply-custom-statement-attribute-on-ast/78207#post_2)
-- [18.1.3 has been tagged](https://discourse.llvm.org/t/18-1-3-has-been-tagged/78137#post_4)
-- [Question about memref.reinterpret_cast&#39;s offset](https://discourse.llvm.org/t/question-about-memref-reinterpret-casts-offset/76082#post_7)
-- [[LLVM] Profile Variables Value at each line of code](https://discourse.llvm.org/t/llvm-profile-variables-value-at-each-line-of-code/78221#post_1)
-- [How does affine yield work &lpar;into an array?&rpar;](https://discourse.llvm.org/t/how-does-affine-yield-work-into-an-array/78215#post_2)
+- [Some strange optimizations of llvm](https://discourse.llvm.org/t/some-strange-optimizations-of-llvm/78226#post_1)
+- [18.1.3 has been tagged](https://discourse.llvm.org/t/18-1-3-has-been-tagged/78137#post_5)
+- [Mailman-&gt;Discourse Migration on February 1, 10am PST](https://discourse.llvm.org/t/mailman-discourse-migration-on-february-1-10am-pst/59646#post_4)
+- [How about apply RDF to AArch64?](https://discourse.llvm.org/t/how-about-apply-rdf-to-aarch64/78190#post_2)
+- [LLVM Meetup in Munich – January 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-29th-2024/75483#post_7)
 <!-- DISCOURSE-LLVM:END -->
