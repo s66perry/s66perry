@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Apply custom statement attribute on AST](https://discourse.llvm.org/t/apply-custom-statement-attribute-on-ast/78207#post_4)
+- [Can C functions throw?](https://discourse.llvm.org/t/can-c-functions-throw/78243#post_2)
+- [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_5)
+- [Propeller can work with pgo use one profile?](https://discourse.llvm.org/t/propeller-can-work-with-pgo-use-one-profile/78244#post_1)
 - [Can C functions throw?](https://discourse.llvm.org/t/can-c-functions-throw/78243#post_1)
-- [[RFC] Vectorization support for histogram count operations](https://discourse.llvm.org/t/rfc-vectorization-support-for-histogram-count-operations/74788#post_6)
-- [Fail to build flang-new &lpar;fa8dc363&rpar; on Raspberry Pi 5: `-Werror=restrict`](https://discourse.llvm.org/t/fail-to-build-flang-new-fa8dc363-on-raspberry-pi-5-werror-restrict/78166#post_4)
-- [[JITLink] Out of range relocation with x86 __gxx_personality_v0](https://discourse.llvm.org/t/jitlink-out-of-range-relocation-with-x86-gxx-personality-v0/78177#post_5)
-- [LLVM optimization is changing the function calling convention](https://discourse.llvm.org/t/llvm-optimization-is-changing-the-function-calling-convention/78239#post_1)
 <!-- DISCOURSE-LLVM:END -->
