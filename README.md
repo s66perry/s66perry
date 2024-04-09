@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Fail to build flang-new &lpar;fa8dc363&rpar; on Raspberry Pi 5: `-Werror=restrict`](https://discourse.llvm.org/t/fail-to-build-flang-new-fa8dc363-on-raspberry-pi-5-werror-restrict/78166#post_3)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_4)
 - [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=2#post_33)
 - [How does affine yield work &lpar;into an array?&rpar;](https://discourse.llvm.org/t/how-does-affine-yield-work-into-an-array/78215#post_3)
 - [Certain shared libraries do not appear in image list](https://discourse.llvm.org/t/certain-shared-libraries-do-not-appear-in-image-list/77528#post_6)
-- [How do you get the python version required for LLDB?](https://discourse.llvm.org/t/how-do-you-get-the-python-version-required-for-lldb/78228#post_2)
 <!-- DISCOURSE-LLVM:END -->
