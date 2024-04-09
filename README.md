@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Certain shared libraries do not appear in image list](https://discourse.llvm.org/t/certain-shared-libraries-do-not-appear-in-image-list/77528#post_6)
+- [How do you get the python version required for LLDB?](https://discourse.llvm.org/t/how-do-you-get-the-python-version-required-for-lldb/78228#post_2)
+- [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_3)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_2)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_1)
-- [Has bugs when optimizing save/restore CSRs by changing CSR_XLEN_F32_Interrupt](https://discourse.llvm.org/t/has-bugs-when-optimizing-save-restore-csrs-by-changing-csr-xlen-f32-interrupt/78200#post_3)
-- [Some strange optimizations of llvm](https://discourse.llvm.org/t/some-strange-optimizations-of-llvm/78226#post_6)
-- [Some strange optimizations of llvm](https://discourse.llvm.org/t/some-strange-optimizations-of-llvm/78226#post_5)
 <!-- DISCOURSE-LLVM:END -->
