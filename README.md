@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Community.o Workshop @ EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-eurollvm-2024/78246#post_2)
+- [Community.o Workshop @ EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-eurollvm-2024/78246#post_1)
+- [Certain shared libraries do not appear in image list](https://discourse.llvm.org/t/certain-shared-libraries-do-not-appear-in-image-list/77528#post_8)
+- [Can C functions throw?](https://discourse.llvm.org/t/can-c-functions-throw/78243#post_3)
 - [[RFC] Directions for modules support in clangd?](https://discourse.llvm.org/t/rfc-directions-for-modules-support-in-clangd/78072#post_2)
-- [Apply custom statement attribute on AST](https://discourse.llvm.org/t/apply-custom-statement-attribute-on-ast/78207#post_6)
-- [Apply custom statement attribute on AST](https://discourse.llvm.org/t/apply-custom-statement-attribute-on-ast/78207#post_5)
-- [[clang] why -fstack-protector-all generate SSE instruction](https://discourse.llvm.org/t/clang-why-fstack-protector-all-generate-sse-instruction/78245#post_1)
-- [[RFC] BOLT-based binary analysis tool to verify correctness of security hardening](https://discourse.llvm.org/t/rfc-bolt-based-binary-analysis-tool-to-verify-correctness-of-security-hardening/78148#post_6)
 <!-- DISCOURSE-LLVM:END -->
