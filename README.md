@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can C functions throw?](https://discourse.llvm.org/t/can-c-functions-throw/78243#post_5)
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_14)
-- [Running LLDB in a container](https://discourse.llvm.org/t/running-lldb-in-a-container/76801#post_6)
-- [Is this a libcxx build bug? _mbstate_t.h ... error: &quot;We don&#39;t know .. get the definition of mbstate_t without &lt;wchar.h&gt;](https://discourse.llvm.org/t/is-this-a-libcxx-build-bug-mbstate-t-h-error-we-dont-know-get-the-definition-of-mbstate-t-without-wchar-h/78271#post_2)
-- [[RFC]: a new tutorial: &quot;MLIR for Beginners&quot;](https://discourse.llvm.org/t/rfc-a-new-tutorial-mlir-for-beginners/78273#post_1)
+- [Is there a concept of minimum instruction level at the LLVM IR level?](https://discourse.llvm.org/t/is-there-a-concept-of-minimum-instruction-level-at-the-llvm-ir-level/78264#post_4)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_69)
+- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_1)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_68)
+- [Is this a libcxx build bug? _mbstate_t.h ... error: &quot;We don&#39;t know .. get the definition of mbstate_t without &lt;wchar.h&gt;](https://discourse.llvm.org/t/is-this-a-libcxx-build-bug-mbstate-t-h-error-we-dont-know-get-the-definition-of-mbstate-t-without-wchar-h/78271#post_3)
 <!-- DISCOURSE-LLVM:END -->
