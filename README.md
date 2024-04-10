@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does Clang guarantee co_await and its inner expression are a single evaluation?](https://discourse.llvm.org/t/does-clang-guarantee-co-await-and-its-inner-expression-are-a-single-evaluation/78262#post_1)
+- [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_13)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_33)
 - [Clang SA malloc Checker](https://discourse.llvm.org/t/clang-sa-malloc-checker/78260#post_1)
 - [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_32)
-- [Lib/fuzzer: `TORCW` capacity is too small &lpar;and other issues&rpar;?](https://discourse.llvm.org/t/lib-fuzzer-torcw-capacity-is-too-small-and-other-issues/77810#post_2)
-- [[Idea] Deduplicating sequences of instructions only reachable via jump](https://discourse.llvm.org/t/idea-deduplicating-sequences-of-instructions-only-reachable-via-jump/78019#post_2)
-- [Propeller can work with pgo use one profile?](https://discourse.llvm.org/t/propeller-can-work-with-pgo-use-one-profile/78244#post_5)
 <!-- DISCOURSE-LLVM:END -->
