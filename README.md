@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is this a libcxx build bug? _mbstate_t.h ... error: &quot;We don&#39;t know .. get the definition of mbstate_t without &lt;wchar.h&gt;](https://discourse.llvm.org/t/is-this-a-libcxx-build-bug-mbstate-t-h-error-we-dont-know-get-the-definition-of-mbstate-t-without-wchar-h/78271#post_1)
-- [RISC-V LLVM sync-up call April 11th 2024 NOTE potential daylight savings impact](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-april-11th-2024-note-potential-daylight-savings-impact/78269#post_1)
-- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_2)
-- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=3#post_53)
-- [Is there a concept of minimum instruction level at the LLVM IR level?](https://discourse.llvm.org/t/is-there-a-concept-of-minimum-instruction-level-at-the-llvm-ir-level/78264#post_3)
+- [[RFC]: a new tutorial: &quot;MLIR for Beginners&quot;](https://discourse.llvm.org/t/rfc-a-new-tutorial-mlir-for-beginners/78273#post_1)
+- [Running LLDB in a container](https://discourse.llvm.org/t/running-lldb-in-a-container/76801#post_5)
+- [RFC: [mlir][Vector][Affine] SuperVectortize: Optimization for misaligned data](https://discourse.llvm.org/t/rfc-mlir-vector-affine-supervectortize-optimization-for-misaligned-data/77860#post_4)
+- [Running LLDB in a container](https://discourse.llvm.org/t/running-lldb-in-a-container/76801#post_4)
+- [[Idea] Deduplicating sequences of instructions only reachable via jump](https://discourse.llvm.org/t/idea-deduplicating-sequences-of-instructions-only-reachable-via-jump/78019#post_3)
 <!-- DISCOURSE-LLVM:END -->
