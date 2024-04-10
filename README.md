@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_16)
+- [Propeller can work with pgo use one profile?](https://discourse.llvm.org/t/propeller-can-work-with-pgo-use-one-profile/78244#post_6)
+- [MLIR Beginner: MLIR backend for custom accelerator](https://discourse.llvm.org/t/mlir-beginner-mlir-backend-for-custom-accelerator/72690#post_15)
 - [Does Clang guarantee co_await and its inner expression are a single evaluation?](https://discourse.llvm.org/t/does-clang-guarantee-co-await-and-its-inner-expression-are-a-single-evaluation/78262#post_1)
 - [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_13)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_33)
-- [Clang SA malloc Checker](https://discourse.llvm.org/t/clang-sa-malloc-checker/78260#post_1)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
