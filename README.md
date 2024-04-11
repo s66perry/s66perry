@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there a concept of minimum instruction level at the LLVM IR level?](https://discourse.llvm.org/t/is-there-a-concept-of-minimum-instruction-level-at-the-llvm-ir-level/78264#post_5)
+- [How to add new memory symbol like cuda &quot;__constant__&quot;](https://discourse.llvm.org/t/how-to-add-new-memory-symbol-like-cuda-constant/78284#post_1)
+- [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_14)
 - [Build libc++ with MSVS, CMake and Ninja](https://discourse.llvm.org/t/build-libc-with-msvs-cmake-and-ninja/66659#post_3)
 - [LLVM support for memory64 progress](https://discourse.llvm.org/t/llvm-support-for-memory64-progress/78283#post_1)
-- [RFC: [mlir][Vector][Affine] SuperVectortize: Optimization for misaligned data](https://discourse.llvm.org/t/rfc-mlir-vector-affine-supervectortize-optimization-for-misaligned-data/77860#post_5)
-- [[RFC]: a new tutorial: &quot;MLIR for Beginners&quot;](https://discourse.llvm.org/t/rfc-a-new-tutorial-mlir-for-beginners/78273#post_2)
-- [Lldb unable to break at _start](https://discourse.llvm.org/t/lldb-unable-to-break-at-start/78282#post_4)
 <!-- DISCOURSE-LLVM:END -->
