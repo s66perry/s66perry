@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_16)
-- [Does Clang guarantee co_await and its inner expression are a single evaluation?](https://discourse.llvm.org/t/does-clang-guarantee-co-await-and-its-inner-expression-are-a-single-evaluation/78262#post_4)
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=2#post_37)
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=2#post_36)
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=2#post_35)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=2#post_39)
+- [Confused about standalone build of llvm sub-project](https://discourse.llvm.org/t/confused-about-standalone-build-of-llvm-sub-project/78297#post_1)
+- [How to distinguish between padding and real struct fields?](https://discourse.llvm.org/t/how-to-distinguish-between-padding-and-real-struct-fields/78288#post_6)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=2#post_38)
+- [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_1)
 <!-- DISCOURSE-LLVM:END -->
