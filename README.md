@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to distinguish between padding and real struct fields?](https://discourse.llvm.org/t/how-to-distinguish-between-padding-and-real-struct-fields/78288#post_5)
+- [How to distinguish between padding and real struct fields?](https://discourse.llvm.org/t/how-to-distinguish-between-padding-and-real-struct-fields/78288#post_4)
+- [Question about memref.reinterpret_cast&#39;s offset](https://discourse.llvm.org/t/question-about-memref-reinterpret-casts-offset/76082#post_11)
 - [[RFC] Directions for modules support in clangd?](https://discourse.llvm.org/t/rfc-directions-for-modules-support-in-clangd/78072#post_3)
 - [RISCVInsertVSETVLI doLocalPass](https://discourse.llvm.org/t/riscvinsertvsetvli-dolocalpass/78292#post_1)
-- [How to add new memory symbol like cuda &quot;__constant__&quot;](https://discourse.llvm.org/t/how-to-add-new-memory-symbol-like-cuda-constant/78284#post_2)
-- [How to distinguish between padding and real struct fields?](https://discourse.llvm.org/t/how-to-distinguish-between-padding-and-real-struct-fields/78288#post_3)
-- [How to distinguish between padding and real struct fields?](https://discourse.llvm.org/t/how-to-distinguish-between-padding-and-real-struct-fields/78288#post_2)
 <!-- DISCOURSE-LLVM:END -->
