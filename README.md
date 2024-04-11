@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [When will these &#39;new Block&#39; gets deleted?](https://discourse.llvm.org/t/when-will-these-new-block-gets-deleted/78286#post_1)
+- [When will block allocation in &#39;ModuleOp&#39; gets deallocated?](https://discourse.llvm.org/t/when-will-block-allocation-in-moduleop-gets-deallocated/78286#post_2)
+- [How to distinguish between padding and no-padding struct fields?](https://discourse.llvm.org/t/how-to-distinguish-between-padding-and-no-padding-struct-fields/78288#post_1)
+- [When will block allocation in &#39;ModuleOp&#39; gets deallocated?](https://discourse.llvm.org/t/when-will-block-allocation-in-moduleop-gets-deallocated/78286#post_1)
 - [Propeller can work with pgo use one profile?](https://discourse.llvm.org/t/propeller-can-work-with-pgo-use-one-profile/78244#post_7)
 - [Is there a concept of minimum instruction level at the LLVM IR level?](https://discourse.llvm.org/t/is-there-a-concept-of-minimum-instruction-level-at-the-llvm-ir-level/78264#post_5)
-- [How to add new memory symbol like cuda &quot;__constant__&quot;](https://discourse.llvm.org/t/how-to-add-new-memory-symbol-like-cuda-constant/78284#post_1)
-- [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_14)
 <!-- DISCOURSE-LLVM:END -->
