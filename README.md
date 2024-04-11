@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_10)
+- [Lldb unable to break at _start](https://discourse.llvm.org/t/lldb-unable-to-break-at-start/78282#post_7)
 - [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_9)
 - [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_8)
 - [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_7)
-- [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_6)
-- [Lldb unable to break at _start](https://discourse.llvm.org/t/lldb-unable-to-break-at-start/78282#post_6)
 <!-- DISCOURSE-LLVM:END -->
