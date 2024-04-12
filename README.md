@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to convert llvm.memcpy.p0i8.p0i8.i64 to a sequence of instructions](https://discourse.llvm.org/t/how-to-convert-llvm-memcpy-p0i8-p0i8-i64-to-a-sequence-of-instructions/78306#post_6)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_39)
+- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_3)
 - [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_38)
 - [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_37)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_36)
-- [How to prevent register aliasing for instructions](https://discourse.llvm.org/t/how-to-prevent-register-aliasing-for-instructions/78315#post_2)
-- [How to prevent register aliasing for instructions](https://discourse.llvm.org/t/how-to-prevent-register-aliasing-for-instructions/78315#post_1)
 <!-- DISCOURSE-LLVM:END -->
