@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How can I emit a .ptx for a specific Cuda version?](https://discourse.llvm.org/t/how-can-i-emit-a-ptx-for-a-specific-cuda-version/78303#post_3)
+- [How to convert llvm.memcpy.p0i8.p0i8.i64 to a sequence of instructions](https://discourse.llvm.org/t/how-to-convert-llvm-memcpy-p0i8-p0i8-i64-to-a-sequence-of-instructions/78306#post_5)
 - [Study about Instruction Selection Algorithm](https://discourse.llvm.org/t/study-about-instruction-selection-algorithm/78313#post_1)
 - [How to convert llvm.memcpy.p0i8.p0i8.i64 to a sequence of instructions](https://discourse.llvm.org/t/how-to-convert-llvm-memcpy-p0i8-p0i8-i64-to-a-sequence-of-instructions/78306#post_4)
 - [How to convert llvm.memcpy.p0i8.p0i8.i64 to a sequence of instructions](https://discourse.llvm.org/t/how-to-convert-llvm-memcpy-p0i8-p0i8-i64-to-a-sequence-of-instructions/78306#post_3)
-- [How to convert llvm.memcpy.p0i8.p0i8.i64 to a sequence of instructions](https://discourse.llvm.org/t/how-to-convert-llvm-memcpy-p0i8-p0i8-i64-to-a-sequence-of-instructions/78306#post_2)
-- [MLIR: dynamic shared memory](https://discourse.llvm.org/t/mlir-dynamic-shared-memory/78187#post_2)
 <!-- DISCOURSE-LLVM:END -->
