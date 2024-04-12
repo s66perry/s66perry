@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_17)
-- [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_16)
-- [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853?page=2#post_29)
-- [[RFC]: a new tutorial: &quot;MLIR for Beginners&quot;](https://discourse.llvm.org/t/rfc-a-new-tutorial-mlir-for-beginners/78273#post_4)
-- [How can I emit a .ptx from this .mlir, getting error for memref.global &lpar;shared memory&rpar;](https://discourse.llvm.org/t/how-can-i-emit-a-ptx-from-this-mlir-getting-error-for-memref-global-shared-memory/78303#post_1)
+- [Lldb unable to break at _start](https://discourse.llvm.org/t/lldb-unable-to-break-at-start/78282#post_8)
+- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_2)
+- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_18)
+- [How can I emit a .ptx for a specific Cuda version?](https://discourse.llvm.org/t/how-can-i-emit-a-ptx-for-a-specific-cuda-version/78303#post_2)
+- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_17)
 <!-- DISCOURSE-LLVM:END -->
