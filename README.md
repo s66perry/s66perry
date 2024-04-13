@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to convert llvm.memcpy.p0i8.p0i8.i64 to a sequence of instructions](https://discourse.llvm.org/t/how-to-convert-llvm-memcpy-p0i8-p0i8-i64-to-a-sequence-of-instructions/78306#post_8)
+- [[RFC] Fast-math optimizations with mixed fast-math flags](https://discourse.llvm.org/t/rfc-fast-math-optimizations-with-mixed-fast-math-flags/78320#post_4)
+- [[RFC] Improving the feature-test macro status page](https://discourse.llvm.org/t/rfc-improving-the-feature-test-macro-status-page/78327#post_1)
 - [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_4)
 - [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_3)
-- [Something like ruff for python but for C/C++](https://discourse.llvm.org/t/something-like-ruff-for-python-but-for-c-c/78326#post_1)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=4#post_66)
-- [How can I emit a .ptx for a specific Cuda version?](https://discourse.llvm.org/t/how-can-i-emit-a-ptx-for-a-specific-cuda-version/78303#post_6)
 <!-- DISCOURSE-LLVM:END -->
