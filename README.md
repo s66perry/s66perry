@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang SA malloc Checker](https://discourse.llvm.org/t/clang-sa-malloc-checker/78260#post_2)
-- [How to print out linalg tensor without llvm-cpu-runner / JIT?](https://discourse.llvm.org/t/how-to-print-out-linalg-tensor-without-llvm-cpu-runner-jit/77813#post_3)
-- [Running LLDB in a container](https://discourse.llvm.org/t/running-lldb-in-a-container/76801#post_7)
-- [Community.o Workshop @ EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-eurollvm-2024/78246#post_6)
-- [Build LLVM,Clang and libFuzzer](https://discourse.llvm.org/t/build-llvm-clang-and-libfuzzer/78031#post_4)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_41)
+- [Compiling into a shared object and calling MLIR from external code](https://discourse.llvm.org/t/compiling-into-a-shared-object-and-calling-mlir-from-external-code/78346#post_3)
+- [Can&#39;t compile a basic C++ example after building successfully LLVM on Apple M1 architecture](https://discourse.llvm.org/t/cant-compile-a-basic-c-example-after-building-successfully-llvm-on-apple-m1-architecture/73517#post_3)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=2#post_40)
+- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_4)
 <!-- DISCOURSE-LLVM:END -->
