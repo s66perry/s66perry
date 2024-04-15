@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_5)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_42)
-- [Running LLDB in a container](https://discourse.llvm.org/t/running-lldb-in-a-container/76801#post_10)
-- [Freeing memory in LLVM IR](https://discourse.llvm.org/t/freeing-memory-in-llvm-ir/78360#post_14)
-- [Freeing memory in LLVM IR](https://discourse.llvm.org/t/freeing-memory-in-llvm-ir/78360#post_13)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_53)
+- [SBThread properties out of sync with Description](https://discourse.llvm.org/t/sbthread-properties-out-of-sync-with-description/78362#post_2)
+- [Compiling into a shared object and calling MLIR from external code](https://discourse.llvm.org/t/compiling-into-a-shared-object-and-calling-mlir-from-external-code/78346#post_5)
+- [Freeing memory in LLVM IR](https://discourse.llvm.org/t/freeing-memory-in-llvm-ir/78360#post_15)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
