@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang SA malloc Checker](https://discourse.llvm.org/t/clang-sa-malloc-checker/78260#post_2)
+- [How to print out linalg tensor without llvm-cpu-runner / JIT?](https://discourse.llvm.org/t/how-to-print-out-linalg-tensor-without-llvm-cpu-runner-jit/77813#post_3)
+- [Running LLDB in a container](https://discourse.llvm.org/t/running-lldb-in-a-container/76801#post_7)
 - [Community.o Workshop @ EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-eurollvm-2024/78246#post_6)
 - [Build LLVM,Clang and libFuzzer](https://discourse.llvm.org/t/build-llvm-clang-and-libfuzzer/78031#post_4)
-- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_12)
-- [RISCVInsertVSETVLI doLocalPass](https://discourse.llvm.org/t/riscvinsertvsetvli-dolocalpass/78292#post_2)
-- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_11)
 <!-- DISCOURSE-LLVM:END -->
