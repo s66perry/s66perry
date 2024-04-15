@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_5)
+- [Community.o Workshop @ EuroLLVM 2024](https://discourse.llvm.org/t/community-o-workshop-eurollvm-2024/78246#post_5)
 - [Clang generates slower executables than GCC on simple recursive code](https://discourse.llvm.org/t/clang-generates-slower-executables-than-gcc-on-simple-recursive-code/78342#post_2)
 - [Heroic LLVM optimizations](https://discourse.llvm.org/t/heroic-llvm-optimizations/45969#post_19)
 - [Clang generates slower executables than GCC on simple recursive code](https://discourse.llvm.org/t/clang-generates-slower-executables-than-gcc-on-simple-recursive-code/78342#post_1)
-- [PowerPC Code Owner](https://discourse.llvm.org/t/powerpc-code-owner/78142#post_8)
-- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
