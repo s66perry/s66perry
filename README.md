@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_52)
-- [Notes from the LLVM libc round table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-llvm-libc-round-table-eurollvm-2024/78354#post_1)
-- [How to prevent register aliasing for instructions](https://discourse.llvm.org/t/how-to-prevent-register-aliasing-for-instructions/78315#post_4)
-- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_1)
-- [Relicensing next step: dropping requirement to contribute also under the legacy license](https://discourse.llvm.org/t/relicensing-next-step-dropping-requirement-to-contribute-also-under-the-legacy-license/78351#post_1)
+- [Registering a new pass into flang](https://discourse.llvm.org/t/registering-a-new-pass-into-flang/78355#post_5)
+- [Registering a new pass into flang](https://discourse.llvm.org/t/registering-a-new-pass-into-flang/78355#post_4)
+- [Libclang: Getting the list of AST nodes that can be included in the CFG](https://discourse.llvm.org/t/libclang-getting-the-list-of-ast-nodes-that-can-be-included-in-the-cfg/78359#post_1)
+- [Registering a new pass into flang](https://discourse.llvm.org/t/registering-a-new-pass-into-flang/78355#post_3)
+- [Custom libc++ for C++20 coroutines on bare metal embedded Arm](https://discourse.llvm.org/t/custom-libc-for-c-20-coroutines-on-bare-metal-embedded-arm/78110#post_2)
 <!-- DISCOURSE-LLVM:END -->
