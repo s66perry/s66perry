@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Registering a new pass into flang](https://discourse.llvm.org/t/registering-a-new-pass-into-flang/78355#post_5)
-- [Registering a new pass into flang](https://discourse.llvm.org/t/registering-a-new-pass-into-flang/78355#post_4)
-- [Libclang: Getting the list of AST nodes that can be included in the CFG](https://discourse.llvm.org/t/libclang-getting-the-list-of-ast-nodes-that-can-be-included-in-the-cfg/78359#post_1)
-- [Registering a new pass into flang](https://discourse.llvm.org/t/registering-a-new-pass-into-flang/78355#post_3)
-- [Custom libc++ for C++20 coroutines on bare metal embedded Arm](https://discourse.llvm.org/t/custom-libc-for-c-20-coroutines-on-bare-metal-embedded-arm/78110#post_2)
+- [Freeing memory in LLVM IR](https://discourse.llvm.org/t/freeing-memory-in-llvm-ir/78360#post_5)
+- [Freeing memory in LLVM IR](https://discourse.llvm.org/t/freeing-memory-in-llvm-ir/78360#post_4)
+- [How to actually perform debug fission with ThinLTO?](https://discourse.llvm.org/t/how-to-actually-perform-debug-fission-with-thinlto/78336#post_2)
+- [Freeing memory in LLVM IR](https://discourse.llvm.org/t/freeing-memory-in-llvm-ir/78360#post_3)
+- [Notes from the LLVM libc round table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-llvm-libc-round-table-eurollvm-2024/78354#post_2)
 <!-- DISCOURSE-LLVM:END -->
