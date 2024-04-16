@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang SA malloc Checker](https://discourse.llvm.org/t/clang-sa-malloc-checker/78260#post_3)
-- [How to get type alias printings in MLIR IR?](https://discourse.llvm.org/t/how-to-get-type-alias-printings-in-mlir-ir/78372#post_2)
-- [`scf.while` -&gt; `scf.for` uplifting as canonicalization](https://discourse.llvm.org/t/scf-while-scf-for-uplifting-as-canonicalization/78370#post_7)
-- [SBThread properties out of sync with Description](https://discourse.llvm.org/t/sbthread-properties-out-of-sync-with-description/78362#post_5)
-- [LLVM Weekly - #537, April 15th 2024](https://discourse.llvm.org/t/llvm-weekly-537-april-15th-2024/78365#post_3)
+- [Error encountered while compiling clang and OpenMP for RISC-V target](https://discourse.llvm.org/t/error-encountered-while-compiling-clang-and-openmp-for-risc-v-target/78378#post_2)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=3#post_44)
+- [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_2)
+- [How to get type alias printings in MLIR IR?](https://discourse.llvm.org/t/how-to-get-type-alias-printings-in-mlir-ir/78372#post_3)
+- [Error encountered while compiling clang and OpenMP for RISC-V target](https://discourse.llvm.org/t/error-encountered-while-compiling-clang-and-openmp-for-risc-v-target/78378#post_1)
 <!-- DISCOURSE-LLVM:END -->
