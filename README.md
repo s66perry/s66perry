@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_3)
-- [Running LLDB in a container](https://discourse.llvm.org/t/running-lldb-in-a-container/76801#post_11)
-- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_5)
-- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_4)
-- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_3)
+- [How to get type alias printings in MLIR IR?](https://discourse.llvm.org/t/how-to-get-type-alias-printings-in-mlir-ir/78372#post_4)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=3#post_50)
+- [Pretty-printing the IR](https://discourse.llvm.org/t/pretty-printing-the-ir/78384#post_1)
+- [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_4)
+- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_6)
 <!-- DISCOURSE-LLVM:END -->
