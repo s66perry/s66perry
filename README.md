@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=3#post_53)
-- [&#39;firtool&#39; crashes with an error when receives a &#39;fir&#39; file with no main module](https://discourse.llvm.org/t/firtool-crashes-with-an-error-when-receives-a-fir-file-with-no-main-module/78386#post_5)
-- [Is there any way to annotate parsing code so that the reads from an immutable source don&#39;t get clobbered by writes/calls?](https://discourse.llvm.org/t/is-there-any-way-to-annotate-parsing-code-so-that-the-reads-from-an-immutable-source-dont-get-clobbered-by-writes-calls/78394#post_2)
-- [Questions about the T-Head Vector extension &lpar;xtheadvector&rpar; in LLVM upstream](https://discourse.llvm.org/t/questions-about-the-t-head-vector-extension-xtheadvector-in-llvm-upstream/77298#post_11)
-- [Is there any way to annotate parsing code so that the reads from an immutable source don&#39;t get clobbered by writes/calls?](https://discourse.llvm.org/t/is-there-any-way-to-annotate-parsing-code-so-that-the-reads-from-an-immutable-source-dont-get-clobbered-by-writes-calls/78394#post_1)
+- [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_8)
+- [Registering a new pass into flang](https://discourse.llvm.org/t/registering-a-new-pass-into-flang/78355#post_6)
+- [Project Governance roundtable at Euro-LLVM 2024](https://discourse.llvm.org/t/project-governance-roundtable-at-euro-llvm-2024/78391#post_5)
+- [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_7)
+- [Project Governance roundtable at Euro-LLVM 2024](https://discourse.llvm.org/t/project-governance-roundtable-at-euro-llvm-2024/78391#post_4)
 <!-- DISCOURSE-LLVM:END -->
