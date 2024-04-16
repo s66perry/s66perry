@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #537, April 15th 2024](https://discourse.llvm.org/t/llvm-weekly-537-april-15th-2024/78365#post_4)
-- [Why all my user variables are gone after I installed LLVM?!](https://discourse.llvm.org/t/why-all-my-user-variables-are-gone-after-i-installed-llvm/78214#post_8)
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=3#post_49)
-- [SBThread properties out of sync with Description](https://discourse.llvm.org/t/sbthread-properties-out-of-sync-with-description/78362#post_6)
-- [MLIR benchmarks](https://discourse.llvm.org/t/mlir-benchmarks/4945?page=2#post_31)
+- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_3)
+- [Question about memref.reinterpret_cast&#39;s offset](https://discourse.llvm.org/t/question-about-memref-reinterpret-casts-offset/76082#post_12)
+- [Strange ISel Bug](https://discourse.llvm.org/t/strange-isel-bug/75030?page=2#post_22)
+- [Strange ISel Bug](https://discourse.llvm.org/t/strange-isel-bug/75030?page=2#post_21)
+- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_16)
 <!-- DISCOURSE-LLVM:END -->
