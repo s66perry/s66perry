@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=3#post_45)
-- [Suggestion for implementing runtime _BitInt&lpar;&rpar; for va_arg](https://discourse.llvm.org/t/suggestion-for-implementing-runtime-bitint-for-va-arg/78423#post_1)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_7)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_6)
-- [How to determine if a MachineInstr is an indirect tail call instruction](https://discourse.llvm.org/t/how-to-determine-if-a-machineinstr-is-an-indirect-tail-call-instruction/78413#post_2)
+- [LLVM IR support for functions with multiple return addresses](https://discourse.llvm.org/t/llvm-ir-support-for-functions-with-multiple-return-addresses/78415#post_2)
+- [Compilation Error with GCC Due to vprintf Definition Collision in libc](https://discourse.llvm.org/t/compilation-error-with-gcc-due-to-vprintf-definition-collision-in-libc/78404#post_4)
+- [Compilation Error with GCC Due to vprintf Definition Collision in libc](https://discourse.llvm.org/t/compilation-error-with-gcc-due-to-vprintf-definition-collision-in-libc/78404#post_3)
+- [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_9)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=3#post_46)
 <!-- DISCOURSE-LLVM:END -->
