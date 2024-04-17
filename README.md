@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Do you have secure development knowledge?](https://discourse.llvm.org/t/do-you-have-secure-development-knowledge/78429#post_1)
 - [LLC crash in ImplicitNullChecks Pass](https://discourse.llvm.org/t/llc-crash-in-implicitnullchecks-pass/78428#post_1)
 - [LLVM IR support for functions with multiple return addresses](https://discourse.llvm.org/t/llvm-ir-support-for-functions-with-multiple-return-addresses/78415#post_2)
 - [Compilation Error with GCC Due to vprintf Definition Collision in libc](https://discourse.llvm.org/t/compilation-error-with-gcc-due-to-vprintf-definition-collision-in-libc/78404#post_4)
 - [Compilation Error with GCC Due to vprintf Definition Collision in libc](https://discourse.llvm.org/t/compilation-error-with-gcc-due-to-vprintf-definition-collision-in-libc/78404#post_3)
-- [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_9)
 <!-- DISCOURSE-LLVM:END -->
