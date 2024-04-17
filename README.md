@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735?page=2#post_21)
+- [LLVM IR support for functions with multiple return addresses](https://discourse.llvm.org/t/llvm-ir-support-for-functions-with-multiple-return-addresses/78415#post_1)
+- [ARGSORT support with TOSA](https://discourse.llvm.org/t/argsort-support-with-tosa/78366#post_6)
+- [[RFC] Promoting experimental interleave2/deinterleave2, reverse, splice and stepvector intrinsics to first class intrinsics](https://discourse.llvm.org/t/rfc-promoting-experimental-interleave2-deinterleave2-reverse-splice-and-stepvector-intrinsics-to-first-class-intrinsics/78414#post_1)
 - [ARGSORT support with TOSA](https://discourse.llvm.org/t/argsort-support-with-tosa/78366#post_5)
-- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_7)
-- [EuroLLVM 2024 Debug info round table?](https://discourse.llvm.org/t/eurollvm-2024-debug-info-round-table/78014#post_10)
-- [How to determine if a MachineInstr is an indirect tail call instruction](https://discourse.llvm.org/t/how-to-determine-if-a-machineinstr-is-an-indirect-tail-call-instruction/78413#post_1)
-- [2024 EuroLLVM Call for Talk Proposals](https://discourse.llvm.org/t/2024-eurollvm-call-for-talk-proposals/76006#post_5)
 <!-- DISCOURSE-LLVM:END -->
