@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Something like ruff for python but for C/C++](https://discourse.llvm.org/t/something-like-ruff-for-python-but-for-c-c/78326#post_4)
+- [[RFC] Contextual Profile Instrumentation &lpar;for event-driven scenarios&rpar;](https://discourse.llvm.org/t/rfc-contextual-profile-instrumentation-for-event-driven-scenarios/78447#post_1)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_56)
+- [Proper way to give TBAA &lpar;type based alias analysis&rpar; information using MLIR LLVM dialect](https://discourse.llvm.org/t/proper-way-to-give-tbaa-type-based-alias-analysis-information-using-mlir-llvm-dialect/78436#post_6)
 - [Tosa.reshape op is not consistent with TOSA Spec](https://discourse.llvm.org/t/tosa-reshape-op-is-not-consistent-with-tosa-spec/78442#post_2)
-- [Stepping over a `brk` instruction on ARM64](https://discourse.llvm.org/t/stepping-over-a-brk-instruction-on-arm64/69766#post_8)
-- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_55)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Mar 18 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-mar-18-24-6pm/77461#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 22 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-22-24-6pm/78445#post_1)
 <!-- DISCOURSE-LLVM:END -->
