@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_9)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_58)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_57)
+- [Project Governance roundtable at Euro-LLVM 2024](https://discourse.llvm.org/t/project-governance-roundtable-at-euro-llvm-2024/78391#post_6)
 - [The state of the Alpha Checkers](https://discourse.llvm.org/t/the-state-of-the-alpha-checkers/78400#post_2)
-- [Something like ruff for python but for C/C++](https://discourse.llvm.org/t/something-like-ruff-for-python-but-for-c-c/78326#post_5)
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_19)
-- [Something like ruff for python but for C/C++](https://discourse.llvm.org/t/something-like-ruff-for-python-but-for-c-c/78326#post_4)
-- [[RFC] Contextual Profile Instrumentation &lpar;for event-driven scenarios&rpar;](https://discourse.llvm.org/t/rfc-contextual-profile-instrumentation-for-event-driven-scenarios/78447#post_1)
 <!-- DISCOURSE-LLVM:END -->
