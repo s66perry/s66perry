@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: adding `__builtin_verbose_trap&lpar;string-literal&rpar;`](https://discourse.llvm.org/t/rfc-adding-builtin-verbose-trap-string-literal/75845#post_17)
+- [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_2)
+- [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_1)
+- [RFC: adding `__builtin_verbose_trap&lpar;string-literal&rpar;`](https://discourse.llvm.org/t/rfc-adding-builtin-verbose-trap-string-literal/75845#post_16)
 - [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_2)
-- [[LLVM][CodeGen][RFC] Synthetic register classes and allocation mask to determine the final allocation order](https://discourse.llvm.org/t/llvm-codegen-rfc-synthetic-register-classes-and-allocation-mask-to-determine-the-final-allocation-order/77853?page=2#post_30)
-- [[coro] Using lifetime markers to allocate values on the stack vs the frame](https://discourse.llvm.org/t/coro-using-lifetime-markers-to-allocate-values-on-the-stack-vs-the-frame/78451#post_5)
-- [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_15)
-- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
