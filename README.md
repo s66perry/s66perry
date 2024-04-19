@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How does the RISCV backend insert nop to obj?](https://discourse.llvm.org/t/how-does-the-riscv-backend-insert-nop-to-obj/78453#post_1)
+- [Compiling into a shared object and calling MLIR from external code](https://discourse.llvm.org/t/compiling-into-a-shared-object-and-calling-mlir-from-external-code/78346#post_9)
+- [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_13)
 - [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_12)
 - [LLVM IR support for functions with multiple return addresses](https://discourse.llvm.org/t/llvm-ir-support-for-functions-with-multiple-return-addresses/78415#post_5)
-- [[coro] Using lifetime markers to allocate values on the stack vs the frame](https://discourse.llvm.org/t/coro-using-lifetime-markers-to-allocate-values-on-the-stack-vs-the-frame/78451#post_3)
-- [[coro] Using lifetime markers to allocate values on the stack vs the frame](https://discourse.llvm.org/t/coro-using-lifetime-markers-to-allocate-values-on-the-stack-vs-the-frame/78451#post_2)
-- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_8)
 <!-- DISCOURSE-LLVM:END -->
