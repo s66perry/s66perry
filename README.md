@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_8)
+- [Proper way to give TBAA &lpar;type based alias analysis&rpar; information using MLIR LLVM dialect](https://discourse.llvm.org/t/proper-way-to-give-tbaa-type-based-alias-analysis-information-using-mlir-llvm-dialect/78436#post_9)
+- [How does the RISCV backend insert nop to obj?](https://discourse.llvm.org/t/how-does-the-riscv-backend-insert-nop-to-obj/78453#post_2)
 - [Proper way to give TBAA &lpar;type based alias analysis&rpar; information using MLIR LLVM dialect](https://discourse.llvm.org/t/proper-way-to-give-tbaa-type-based-alias-analysis-information-using-mlir-llvm-dialect/78436#post_8)
 - [Proper way to give TBAA &lpar;type based alias analysis&rpar; information using MLIR LLVM dialect](https://discourse.llvm.org/t/proper-way-to-give-tbaa-type-based-alias-analysis-information-using-mlir-llvm-dialect/78436#post_7)
-- [Questions about Clang libtooling and Clang Static Analyzer](https://discourse.llvm.org/t/questions-about-clang-libtooling-and-clang-static-analyzer/59345#post_6)
-- [question: preferred alignment vs ABI alignment](https://discourse.llvm.org/t/question-preferred-alignment-vs-abi-alignment/46076#post_4)
-- [question: preferred alignment vs ABI alignment](https://discourse.llvm.org/t/question-preferred-alignment-vs-abi-alignment/46076#post_3)
 <!-- DISCOURSE-LLVM:END -->
