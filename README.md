@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The state of the Alpha Checkers](https://discourse.llvm.org/t/the-state-of-the-alpha-checkers/78400#post_3)
+- [Verifiers and conditionally legal operations](https://discourse.llvm.org/t/verifiers-and-conditionally-legal-operations/78464#post_1)
 - [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092#post_11)
 - [[RFC] Vectorization support for histogram count operations](https://discourse.llvm.org/t/rfc-vectorization-support-for-histogram-count-operations/74788#post_7)
 - [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_8)
-- [Proper way to give TBAA &lpar;type based alias analysis&rpar; information using MLIR LLVM dialect](https://discourse.llvm.org/t/proper-way-to-give-tbaa-type-based-alias-analysis-information-using-mlir-llvm-dialect/78436#post_9)
-- [How does the RISCV backend insert nop to obj?](https://discourse.llvm.org/t/how-does-the-riscv-backend-insert-nop-to-obj/78453#post_2)
 <!-- DISCOURSE-LLVM:END -->
