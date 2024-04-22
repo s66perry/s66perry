@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Embedded Toolchains Working Group call this Thursday, Apr 25th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-apr-25th/78488#post_2)
+- [FIRRTL specfication questions](https://discourse.llvm.org/t/firrtl-specfication-questions/78489#post_2)
+- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_4)
 - [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_10)
 - [[RFC] Improving C++ Standard filtering in the lit tests](https://discourse.llvm.org/t/rfc-improving-c-standard-filtering-in-the-lit-tests/78474#post_4)
-- [[RFC] Rewriting the instruction insertion interface](https://discourse.llvm.org/t/rfc-rewriting-the-instruction-insertion-interface/78494#post_1)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_9)
-- [[coro] Using lifetime markers to allocate values on the stack vs the frame](https://discourse.llvm.org/t/coro-using-lifetime-markers-to-allocate-values-on-the-stack-vs-the-frame/78451#post_7)
 <!-- DISCOURSE-LLVM:END -->
