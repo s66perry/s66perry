@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Compiling into a shared object and calling MLIR from external code](https://discourse.llvm.org/t/compiling-into-a-shared-object-and-calling-mlir-from-external-code/78346#post_11)
-- [LLVM Weekly - #538, April 22nd 2024](https://discourse.llvm.org/t/llvm-weekly-538-april-22nd-2024/78497#post_1)
-- [ClassTemplateDecl instantiation](https://discourse.llvm.org/t/classtemplatedecl-instantiation/78479#post_2)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_5)
-- [Let&#39;s add some documentation about how to debug lldb itself](https://discourse.llvm.org/t/lets-add-some-documentation-about-how-to-debug-lldb-itself/72453?page=2#post_23)
+- [How to embed C++ class to MLIR operation?](https://discourse.llvm.org/t/how-to-embed-c-class-to-mlir-operation/78499#post_2)
+- [Debugging Clang with Visual Studio](https://discourse.llvm.org/t/debugging-clang-with-visual-studio/55896#post_5)
+- [Issues with function bodies getting replaced with unreachable after instrumentation](https://discourse.llvm.org/t/issues-with-function-bodies-getting-replaced-with-unreachable-after-instrumentation/77785#post_12)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233?page=2#post_29)
+- [Issues with function bodies getting replaced with unreachable after instrumentation](https://discourse.llvm.org/t/issues-with-function-bodies-getting-replaced-with-unreachable-after-instrumentation/77785#post_11)
 <!-- DISCOURSE-LLVM:END -->
