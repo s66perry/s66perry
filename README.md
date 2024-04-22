@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_4)
-- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_3)
-- [How to embed C++ class to MLIR operation?](https://discourse.llvm.org/t/how-to-embed-c-class-to-mlir-operation/78499#post_2)
-- [Debugging Clang with Visual Studio](https://discourse.llvm.org/t/debugging-clang-with-visual-studio/55896#post_5)
-- [Issues with function bodies getting replaced with unreachable after instrumentation](https://discourse.llvm.org/t/issues-with-function-bodies-getting-replaced-with-unreachable-after-instrumentation/77785#post_12)
+- [[RFC] Exposing ghccc calling convention as preserve_none to clang](https://discourse.llvm.org/t/rfc-exposing-ghccc-calling-convention-as-preserve-none-to-clang/74233?page=2#post_31)
+- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_12)
+- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_11)
+- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_10)
+- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_9)
 <!-- DISCOURSE-LLVM:END -->
