@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang PGO mystery - am I holding this wrong?](https://discourse.llvm.org/t/clang-pgo-mystery-am-i-holding-this-wrong/77673#post_3)
-- [How to get type alias printings in MLIR IR?](https://discourse.llvm.org/t/how-to-get-type-alias-printings-in-mlir-ir/78372#post_6)
-- [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_3)
-- [FIRRTL specfication questions](https://discourse.llvm.org/t/firrtl-specfication-questions/78489#post_1)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Apr 25th](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-apr-25th/78488#post_1)
+- [Do you have secure development knowledge?](https://discourse.llvm.org/t/do-you-have-secure-development-knowledge/78429#post_4)
+- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_1)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=3#post_56)
+- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_8)
+- [How to get type alias printings in MLIR IR?](https://discourse.llvm.org/t/how-to-get-type-alias-printings-in-mlir-ir/78372#post_7)
 <!-- DISCOURSE-LLVM:END -->
