@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can linalg.softmax be tiled?](https://discourse.llvm.org/t/can-linalg-softmax-be-tiled/78504#post_3)
-- [How to perform pointer analysis on pointers within struct definitions in IR?](https://discourse.llvm.org/t/how-to-perform-pointer-analysis-on-pointers-within-struct-definitions-in-ir/78518#post_1)
-- [Can linalg.softmax be tiled?](https://discourse.llvm.org/t/can-linalg-softmax-be-tiled/78504#post_2)
-- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_15)
-- [Loop Unrolling in LoopVectorize Vs LoopUnrollPass](https://discourse.llvm.org/t/loop-unrolling-in-loopvectorize-vs-loopunrollpass/78480#post_2)
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735?page=2#post_23)
+- [Fold API inconsistencies](https://discourse.llvm.org/t/fold-api-inconsistencies/78174#post_2)
+- [[clang][Analyze] CTU not finding issues](https://discourse.llvm.org/t/clang-analyze-ctu-not-finding-issues/78520#post_1)
+- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_10)
+- [Certain shared libraries do not appear in image list](https://discourse.llvm.org/t/certain-shared-libraries-do-not-appear-in-image-list/77528#post_11)
 <!-- DISCOURSE-LLVM:END -->
