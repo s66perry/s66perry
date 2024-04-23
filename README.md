@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PIP install `torch-mlir` downloads never-ending number of variations](https://discourse.llvm.org/t/pip-install-torch-mlir-downloads-never-ending-number-of-variations/78522#post_2)
-- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735?page=2#post_26)
-- [PIP install `torch-mlir` downloads never-ending number of variations](https://discourse.llvm.org/t/pip-install-torch-mlir-downloads-never-ending-number-of-variations/78522#post_1)
-- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735?page=2#post_25)
-- [MLIR code succeeds on macOS x86_64 but fails on aarch64 with segfault](https://discourse.llvm.org/t/mlir-code-succeeds-on-macos-x86-64-but-fails-on-aarch64-with-segfault/78521#post_1)
+- [PIP install `torch-mlir` downloads never-ending number of variations](https://discourse.llvm.org/t/pip-install-torch-mlir-downloads-never-ending-number-of-variations/78522#post_5)
+- [PIP install `torch-mlir` downloads never-ending number of variations](https://discourse.llvm.org/t/pip-install-torch-mlir-downloads-never-ending-number-of-variations/78522#post_4)
+- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_2)
+- [[RFC][LLDB] Handling [[no_unique_address]] in LLDB](https://discourse.llvm.org/t/rfc-lldb-handling-no-unique-address-in-lldb/77483#post_11)
+- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_1)
 <!-- DISCOURSE-LLVM:END -->
