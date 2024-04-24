@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to embed C++ class to MLIR operation?](https://discourse.llvm.org/t/how-to-embed-c-class-to-mlir-operation/78499#post_8)
-- [How to embed C++ class to MLIR operation?](https://discourse.llvm.org/t/how-to-embed-c-class-to-mlir-operation/78499#post_7)
-- [How to embed C++ class to MLIR operation?](https://discourse.llvm.org/t/how-to-embed-c-class-to-mlir-operation/78499#post_6)
-- [How to embed C++ class to MLIR operation?](https://discourse.llvm.org/t/how-to-embed-c-class-to-mlir-operation/78499#post_5)
-- [How to embed C++ class to MLIR operation?](https://discourse.llvm.org/t/how-to-embed-c-class-to-mlir-operation/78499#post_4)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_11)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_10)
+- [Generic Operation builder does not set up properties](https://discourse.llvm.org/t/generic-operation-builder-does-not-set-up-properties/78552#post_3)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_9)
+- [Utility to generate elaborated assembly/IR tests](https://discourse.llvm.org/t/utility-to-generate-elaborated-assembly-ir-tests/78408#post_6)
 <!-- DISCOURSE-LLVM:END -->
