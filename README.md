@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_4)
+- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_3)
 - [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_17)
 - [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_16)
 - [Constructor not being invoked during application-startup](https://discourse.llvm.org/t/constructor-not-being-invoked-during-application-startup/78537#post_4)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_15)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_14)
 <!-- DISCOURSE-LLVM:END -->
