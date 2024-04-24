@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_4)
-- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_3)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_17)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_16)
-- [Constructor not being invoked during application-startup](https://discourse.llvm.org/t/constructor-not-being-invoked-during-application-startup/78537#post_4)
+- [Controlling memory space in EmptyTensorToAllocTensor pass](https://discourse.llvm.org/t/controlling-memory-space-in-emptytensortoalloctensor-pass/78545#post_1)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_1)
+- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_6)
+- [Register Blocking in MLIR&lpar;loop unroll + Scalar Replacement&rpar;](https://discourse.llvm.org/t/register-blocking-in-mlir-loop-unroll-scalar-replacement/78542#post_1)
+- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_5)
 <!-- DISCOURSE-LLVM:END -->
