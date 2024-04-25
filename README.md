@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Rosetta debugserver details?](https://discourse.llvm.org/t/rosetta-debugserver-details/78505#post_2)
+- [How to pass a pointer from my c++ code to mlir?](https://discourse.llvm.org/t/how-to-pass-a-pointer-from-my-c-code-to-mlir/78548#post_3)
+- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_12)
+- [&quot;__device_builtin__&quot; attribute ignored by clang AST matcher](https://discourse.llvm.org/t/device-builtin-attribute-ignored-by-clang-ast-matcher/56032#post_10)
 - [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_15)
-- [Open Bay Area compiler roles](https://discourse.llvm.org/t/open-bay-area-compiler-roles/78563#post_1)
-- [Denormal-fp-math and fast-math](https://discourse.llvm.org/t/denormal-fp-math-and-fast-math/78561#post_1)
-- [Can I use MISRA2012 standard with clang?](https://discourse.llvm.org/t/can-i-use-misra2012-standard-with-clang/78550#post_6)
-- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_13)
 <!-- DISCOURSE-LLVM:END -->
