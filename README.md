@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_1)
-- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_17)
-- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_16)
-- [Global class-objects vs Local-Static class-objects](https://discourse.llvm.org/t/global-class-objects-vs-local-static-class-objects/78569#post_2)
-- [Constructor not being invoked during application-startup](https://discourse.llvm.org/t/constructor-not-being-invoked-during-application-startup/78537#post_9)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_18)
+- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_3)
+- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_2)
+- [Restrict/noalias for struct members](https://discourse.llvm.org/t/restrict-noalias-for-struct-members/78568#post_3)
+- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_5)
 <!-- DISCOURSE-LLVM:END -->
