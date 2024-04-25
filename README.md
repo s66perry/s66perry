@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_7)
-- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_4)
-- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_14)
-- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_18)
-- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_3)
+- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_5)
+- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_16)
+- [RFC: Support for Memory Regions in ELF](https://discourse.llvm.org/t/rfc-support-for-memory-regions-in-elf/78570#post_2)
+- [The padding causes the IR structure to be inconsistent with the gdb output](https://discourse.llvm.org/t/the-padding-causes-the-ir-structure-to-be-inconsistent-with-the-gdb-output/78557#post_3)
+- [FIRRTL specfication questions](https://discourse.llvm.org/t/firrtl-specfication-questions/78489#post_7)
 <!-- DISCOURSE-LLVM:END -->
