@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_7)
+- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_4)
+- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_14)
 - [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_18)
 - [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_3)
-- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_2)
-- [Restrict/noalias for struct members](https://discourse.llvm.org/t/restrict-noalias-for-struct-members/78568#post_3)
-- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_5)
 <!-- DISCOURSE-LLVM:END -->
