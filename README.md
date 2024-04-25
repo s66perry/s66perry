@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_14)
-- [LLVM Meetup in Munich – April 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-29th-2024/78223#post_2)
-- [[RFC] GlobalISel support for X86](https://discourse.llvm.org/t/rfc-globalisel-support-for-x86/73424#post_15)
-- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_13)
-- [[RFC] Baremetal target triple normalization](https://discourse.llvm.org/t/rfc-baremetal-target-triple-normalization/78524#post_9)
+- [Global class-objects vs Local-Static class-objects](https://discourse.llvm.org/t/global-class-objects-vs-local-static-class-objects/78569#post_2)
+- [Constructor not being invoked during application-startup](https://discourse.llvm.org/t/constructor-not-being-invoked-during-application-startup/78537#post_9)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543#post_15)
+- [How to pass a pointer from my c++ code to mlir?](https://discourse.llvm.org/t/how-to-pass-a-pointer-from-my-c-code-to-mlir/78548#post_4)
+- [Allocating different live ranges to same physicals](https://discourse.llvm.org/t/allocating-different-live-ranges-to-same-physicals/78535#post_3)
 <!-- DISCOURSE-LLVM:END -->
