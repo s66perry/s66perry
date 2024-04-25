@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_6)
-- [The padding causes the IR structure to be inconsistent with the gdb output](https://discourse.llvm.org/t/the-padding-causes-the-ir-structure-to-be-inconsistent-with-the-gdb-output/78557#post_5)
-- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=3#post_59)
-- [The padding causes the IR structure to be inconsistent with the gdb output](https://discourse.llvm.org/t/the-padding-causes-the-ir-structure-to-be-inconsistent-with-the-gdb-output/78557#post_4)
-- [Conversion from Tosa to Linalg](https://discourse.llvm.org/t/conversion-from-tosa-to-linalg/78576#post_2)
+- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_8)
+- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_7)
+- [How to pass a pointer from my c++ code to mlir?](https://discourse.llvm.org/t/how-to-pass-a-pointer-from-my-c-code-to-mlir/78548#post_5)
+- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_6)
+- [RFC: Support for Memory Regions in ELF](https://discourse.llvm.org/t/rfc-support-for-memory-regions-in-elf/78570#post_3)
 <!-- DISCOURSE-LLVM:END -->
