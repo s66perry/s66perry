@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543?page=2#post_21)
-- [[RFC] Delay definition DIE searching when parse a declaration DIE for record type](https://discourse.llvm.org/t/rfc-delay-definition-die-searching-when-parse-a-declaration-die-for-record-type/78526#post_9)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609#post_3)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_7)
-- [[RFC] Delay definition DIE searching when parse a declaration DIE for record type](https://discourse.llvm.org/t/rfc-delay-definition-die-searching-when-parse-a-declaration-die-for-record-type/78526#post_8)
+- [MLIR for arm SME vectorizing matmul-like ops as part of a broader program](https://discourse.llvm.org/t/mlir-for-arm-sme-vectorizing-matmul-like-ops-as-part-of-a-broader-program/78603#post_3)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609#post_5)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543?page=2#post_22)
+- [MLIR for Arm SME : Further development suggestions](https://discourse.llvm.org/t/mlir-for-arm-sme-further-development-suggestions/78605#post_4)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609#post_4)
 <!-- DISCOURSE-LLVM:END -->
