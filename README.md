@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375?page=2#post_26)
+- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_6)
+- [Static Analysis for GPU Program Performance in LLVM](https://discourse.llvm.org/t/static-analysis-for-gpu-program-performance-in-llvm/59151#post_5)
 - [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375?page=2#post_25)
 - [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375?page=2#post_24)
-- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375?page=2#post_23)
-- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375?page=2#post_22)
-- [Denormal-fp-math and fast-math](https://discourse.llvm.org/t/denormal-fp-math-and-fast-math/78561#post_2)
 <!-- DISCOURSE-LLVM:END -->
