@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_21)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609#post_20)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609#post_19)
-- [Error Using -flto with Clang for RISC-V Cross Compilation: Unable to Pass LLVM Bit-Code Files to Linker](https://discourse.llvm.org/t/error-using-flto-with-clang-for-risc-v-cross-compilation-unable-to-pass-llvm-bit-code-files-to-linker/78616#post_1)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609#post_18)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_24)
+- [[coro] Using lifetime markers to allocate values on the stack vs the frame](https://discourse.llvm.org/t/coro-using-lifetime-markers-to-allocate-values-on-the-stack-vs-the-frame/78451#post_9)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_23)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_22)
+- [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_8)
 <!-- DISCOURSE-LLVM:END -->
