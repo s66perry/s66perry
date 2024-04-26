@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Bufferization.to_tensor/to_memref](https://discourse.llvm.org/t/bufferization-to-tensor-to-memref/78619#post_1)
+- [Conversion from Tosa to Linalg](https://discourse.llvm.org/t/conversion-from-tosa-to-linalg/78576#post_6)
+- [Conversion from Tosa to Linalg](https://discourse.llvm.org/t/conversion-from-tosa-to-linalg/78576#post_5)
 - [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_24)
 - [[coro] Using lifetime markers to allocate values on the stack vs the frame](https://discourse.llvm.org/t/coro-using-lifetime-markers-to-allocate-values-on-the-stack-vs-the-frame/78451#post_9)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_23)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_22)
-- [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_8)
 <!-- DISCOURSE-LLVM:END -->
