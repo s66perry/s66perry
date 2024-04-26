@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_62)
-- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=4#post_63)
-- [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_7)
-- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591#post_2)
-- [Relaxed template template argument matching C++17/DR rules will be enabled by default](https://discourse.llvm.org/t/relaxed-template-template-argument-matching-c-17-dr-rules-will-be-enabled-by-default/78598#post_1)
+- [MLIR for Arm SME : Further development suggestions](https://discourse.llvm.org/t/mlir-for-arm-sme-further-development-suggestions/78605#post_1)
+- [[PSA] Scalable auto-vec in Linalg without masking](https://discourse.llvm.org/t/psa-scalable-auto-vec-in-linalg-without-masking/78513#post_2)
+- [MLIR for arm SME vectorizing matmul-like ops as part of a broader program](https://discourse.llvm.org/t/mlir-for-arm-sme-vectorizing-matmul-like-ops-as-part-of-a-broader-program/78603#post_1)
+- [Availability next week](https://discourse.llvm.org/t/availability-next-week/78602#post_1)
+- [[clang][Analyze] CTU not finding issues](https://discourse.llvm.org/t/clang-analyze-ctu-not-finding-issues/78520#post_2)
 <!-- DISCOURSE-LLVM:END -->
