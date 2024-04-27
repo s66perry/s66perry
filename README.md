@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Conversion from Tosa to Linalg](https://discourse.llvm.org/t/conversion-from-tosa-to-linalg/78576#post_7)
 - [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_15)
 - [[Idea] Introduce PrecomputeLoopExpressionsPass to replace expensive array index computation with precomputed array lookup](https://discourse.llvm.org/t/idea-introduce-precomputeloopexpressionspass-to-replace-expensive-array-index-computation-with-precomputed-array-lookup/78620#post_1)
 - [Bufferization.to_tensor/to_memref](https://discourse.llvm.org/t/bufferization-to-tensor-to-memref/78619#post_1)
 - [Conversion from Tosa to Linalg](https://discourse.llvm.org/t/conversion-from-tosa-to-linalg/78576#post_6)
-- [Conversion from Tosa to Linalg](https://discourse.llvm.org/t/conversion-from-tosa-to-linalg/78576#post_5)
 <!-- DISCOURSE-LLVM:END -->
