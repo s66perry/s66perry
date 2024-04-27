@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_29)
+- [New tag for social gatherings?](https://discourse.llvm.org/t/new-tag-for-social-gatherings/78629#post_2)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_28)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_27)
 - [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_26)
-- [In-order execution and sync commit cpu scheduling in llvm](https://discourse.llvm.org/t/in-order-execution-and-sync-commit-cpu-scheduling-in-llvm/78630#post_1)
-- [New tag for social gatherings?](https://discourse.llvm.org/t/new-tag-for-social-gatherings/78629#post_1)
-- [Cambridge UK LLVM &lpar;pub&rpar; Social](https://discourse.llvm.org/t/cambridge-uk-llvm-pub-social/78628#post_1)
-- [Pattern matching and bundle creation](https://discourse.llvm.org/t/pattern-matching-and-bundle-creation/78627#post_1)
 <!-- DISCOURSE-LLVM:END -->
