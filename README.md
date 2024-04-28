@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_30)
+- [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_10)
+- [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_9)
 - [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_8)
 - [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_7)
-- [Does LLVM support allocations that grow or shrink?](https://discourse.llvm.org/t/does-llvm-support-allocations-that-grow-or-shrink/78636#post_2)
-- [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_6)
-- [Does LLVM support allocations that grow or shrink?](https://discourse.llvm.org/t/does-llvm-support-allocations-that-grow-or-shrink/78636#post_1)
 <!-- DISCOURSE-LLVM:END -->
