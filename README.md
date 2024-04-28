@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does LLVM support allocations that grow or shrink?](https://discourse.llvm.org/t/does-llvm-support-allocations-that-grow-or-shrink/78636#post_1)
 - [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_16)
 - [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=2#post_33)
 - [Help lowering affine loop to OpenMP](https://discourse.llvm.org/t/help-lowering-affine-loop-to-openmp/72441#post_5)
 - [18.1.4 has been tagged](https://discourse.llvm.org/t/18-1-4-has-been-tagged/78431#post_7)
-- [What is the structure of source code of llvm-mc](https://discourse.llvm.org/t/what-is-the-structure-of-source-code-of-llvm-mc/78633#post_1)
 <!-- DISCOURSE-LLVM:END -->
