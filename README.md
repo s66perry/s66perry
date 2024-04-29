@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_33)
+- [[MLIR]Does memref support null pointer？](https://discourse.llvm.org/t/mlir-does-memref-support-null-pointer/78653#post_1)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_32)
+- [Does LeakSanitizer not work on macOS 13 / Apple Silicon?](https://discourse.llvm.org/t/does-leaksanitizer-not-work-on-macos-13-apple-silicon/73148#post_5)
 - [[MLIR] Why does convert-math-to-llvm not convert math::ErfOp?](https://discourse.llvm.org/t/mlir-why-does-convert-math-to-llvm-not-convert-math-erfop/78652#post_1)
-- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_5)
-- [ClassTemplateDecl instantiation](https://discourse.llvm.org/t/classtemplatedecl-instantiation/78479#post_10)
-- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_4)
-- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_3)
 <!-- DISCOURSE-LLVM:END -->
