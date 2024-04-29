@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_2)
+- [ClassTemplateDecl instantiation](https://discourse.llvm.org/t/classtemplatedecl-instantiation/78479#post_9)
+- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_1)
 - [Can we customize the clang?](https://discourse.llvm.org/t/can-we-customize-the-clang/78567#post_3)
 - [GEP + load vs load + extractValue when loading struct member](https://discourse.llvm.org/t/gep-load-vs-load-extractvalue-when-loading-struct-member/78645#post_2)
-- [GEP + load vs load + extractValue when loading struct member](https://discourse.llvm.org/t/gep-load-vs-load-extractvalue-when-loading-struct-member/78645#post_1)
-- [Standalone Flang build Not building omp_lib.mod on M1 Mac](https://discourse.llvm.org/t/standalone-flang-build-not-building-omp-lib-mod-on-m1-mac/78644#post_1)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_94)
 <!-- DISCOURSE-LLVM:END -->
