@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Meetup in Munich – April 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-29th-2024/78223#post_3)
-- [Raising awareness over xz compromise](https://discourse.llvm.org/t/raising-awareness-over-xz-compromise/78661#post_2)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=3#post_44)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=3#post_43)
-- [Bufferization.to_tensor/to_memref](https://discourse.llvm.org/t/bufferization-to-tensor-to-memref/78619#post_3)
+- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_10)
+- [Standalone Flang build Not building omp_lib.mod on M1 Mac](https://discourse.llvm.org/t/standalone-flang-build-not-building-omp-lib-mod-on-m1-mac/78644#post_3)
+- [PTX to LLVM IR](https://discourse.llvm.org/t/ptx-to-llvm-ir/30647#post_3)
+- [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_8)
+- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_9)
 <!-- DISCOURSE-LLVM:END -->
