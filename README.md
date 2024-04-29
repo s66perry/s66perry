@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_5)
-- [[RFC] Rewriting the instruction insertion interface](https://discourse.llvm.org/t/rfc-rewriting-the-instruction-insertion-interface/78494#post_3)
-- [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_4)
-- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_6)
-- [Does the Linalg dialect support fusion-on-memrefs?](https://discourse.llvm.org/t/does-the-linalg-dialect-support-fusion-on-memrefs/78654#post_3)
+- [Bufferization.to_tensor/to_memref](https://discourse.llvm.org/t/bufferization-to-tensor-to-memref/78619#post_2)
+- [Does the Linalg dialect support fusion-on-memrefs?](https://discourse.llvm.org/t/does-the-linalg-dialect-support-fusion-on-memrefs/78654#post_4)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_38)
+- [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_7)
+- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
