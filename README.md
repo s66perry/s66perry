@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_9)
-- [Clang Plugin: Is it possible to insert instrumentation code in the Clang AST?](https://discourse.llvm.org/t/clang-plugin-is-it-possible-to-insert-instrumentation-code-in-the-clang-ast/78657#post_3)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=3#post_46)
-- [LLVM Meetup in Munich – April 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-29th-2024/78223#post_4)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=3#post_45)
+- [[Idea] Introduce PrecomputeLoopExpressionsPass to replace expensive array index computation with precomputed array lookup](https://discourse.llvm.org/t/idea-introduce-precomputeloopexpressionspass-to-replace-expensive-array-index-computation-with-precomputed-array-lookup/78620#post_2)
+- [Clang Plugin: Is it possible to insert instrumentation code in the Clang AST?](https://discourse.llvm.org/t/clang-plugin-is-it-possible-to-insert-instrumentation-code-in-the-clang-ast/78657#post_4)
+- [[RFC] All the math intrinsics](https://discourse.llvm.org/t/rfc-all-the-math-intrinsics/78294#post_17)
+- [Linking multiple IR files for code analysis](https://discourse.llvm.org/t/linking-multiple-ir-files-for-code-analysis/78531#post_2)
+- [[RFC] Delay definition DIE searching when parse a declaration DIE for record type](https://discourse.llvm.org/t/rfc-delay-definition-die-searching-when-parse-a-declaration-die-for-record-type/78526#post_10)
 <!-- DISCOURSE-LLVM:END -->
