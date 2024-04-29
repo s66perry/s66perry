@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GEP + load vs load + extractValue when loading struct member](https://discourse.llvm.org/t/gep-load-vs-load-extractvalue-when-loading-struct-member/78645#post_1)
+- [Standalone Flang build Not building omp_lib.mod on M1 Mac](https://discourse.llvm.org/t/standalone-flang-build-not-building-omp-lib-mod-on-m1-mac/78644#post_1)
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_94)
 - [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_2)
 - [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_1)
-- [ClassTemplateDecl instantiation](https://discourse.llvm.org/t/classtemplatedecl-instantiation/78479#post_8)
-- [What is the structure of source code of llvm-mc](https://discourse.llvm.org/t/what-is-the-structure-of-source-code-of-llvm-mc/78633#post_2)
-- [RFC: Support zero-width integers in the comb dialect &lpar;CIRCT&rpar;](https://discourse.llvm.org/t/rfc-support-zero-width-integers-in-the-comb-dialect-circt/78492#post_16)
 <!-- DISCOURSE-LLVM:END -->
