@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_95)
+- [Deduplicate Static Analyzer docs](https://discourse.llvm.org/t/deduplicate-static-analyzer-docs/78683#post_1)
+- [[RFC] Delay definition DIE searching when parse a declaration DIE for record type](https://discourse.llvm.org/t/rfc-delay-definition-die-searching-when-parse-a-declaration-die-for-record-type/78526#post_11)
+- [Orc Jit on windows cannot find __divti3](https://discourse.llvm.org/t/orc-jit-on-windows-cannot-find-divti3/78676#post_2)
 - [Do we need to support for SelectInst to DomCache?](https://discourse.llvm.org/t/do-we-need-to-support-for-selectinst-to-domcache/78662#post_3)
-- [Case of `assume &lpar;v ^ b = a&rpar;` was removed in computeKnownBitsFromCmp; is it worth reinstating it if `a` is a constant?](https://discourse.llvm.org/t/case-of-assume-v-b-a-was-removed-in-computeknownbitsfromcmp-is-it-worth-reinstating-it-if-a-is-a-constant/78682#post_1)
-- [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_10)
-- [LLVM Embedded Toolchain for Arm 18.1.3 is available](https://discourse.llvm.org/t/llvm-embedded-toolchain-for-arm-18-1-3-is-available/78681#post_1)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_18)
 <!-- DISCOURSE-LLVM:END -->
