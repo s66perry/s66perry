@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_95)
-- [Deduplicate Static Analyzer docs](https://discourse.llvm.org/t/deduplicate-static-analyzer-docs/78683#post_1)
-- [[RFC] Delay definition DIE searching when parse a declaration DIE for record type](https://discourse.llvm.org/t/rfc-delay-definition-die-searching-when-parse-a-declaration-die-for-record-type/78526#post_11)
-- [Orc Jit on windows cannot find __divti3](https://discourse.llvm.org/t/orc-jit-on-windows-cannot-find-divti3/78676#post_2)
-- [Do we need to support for SelectInst to DomCache?](https://discourse.llvm.org/t/do-we-need-to-support-for-selectinst-to-domcache/78662#post_3)
+- [Is there a reason why `platform process attach` is asynchronous but `process attach` isn&#39;t](https://discourse.llvm.org/t/is-there-a-reason-why-platform-process-attach-is-asynchronous-but-process-attach-isnt/78685#post_1)
+- [Need some clarification on BOLT basic blocks](https://discourse.llvm.org/t/need-some-clarification-on-bolt-basic-blocks/78680#post_2)
+- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_11)
+- [Does LLVM support allocations that grow or shrink?](https://discourse.llvm.org/t/does-llvm-support-allocations-that-grow-or-shrink/78636#post_4)
+- [SB C++ API: Determine state of host-side module added after attaching to remote process](https://discourse.llvm.org/t/sb-c-api-determine-state-of-host-side-module-added-after-attaching-to-remote-process/78275#post_16)
 <!-- DISCOURSE-LLVM:END -->
