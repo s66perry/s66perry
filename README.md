@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Generic Operation builder does not set up properties](https://discourse.llvm.org/t/generic-operation-builder-does-not-set-up-properties/78552#post_6)
-- [Conversion from Tosa to Linalg](https://discourse.llvm.org/t/conversion-from-tosa-to-linalg/78576#post_9)
-- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468#post_20)
-- [What&#39;s up with tz.cpp in libc++?](https://discourse.llvm.org/t/whats-up-with-tz-cpp-in-libc/78667#post_1)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=3#post_56)
+- [Do we need to support for SelectInst to DomCache?](https://discourse.llvm.org/t/do-we-need-to-support-for-selectinst-to-domcache/78662#post_2)
+- [GEP + load vs load + extractValue when loading struct member](https://discourse.llvm.org/t/gep-load-vs-load-extractvalue-when-loading-struct-member/78645#post_4)
+- [Making precompiled headers location independent](https://discourse.llvm.org/t/making-precompiled-headers-location-independent/78648#post_15)
+- [GEP + load vs load + extractValue when loading struct member](https://discourse.llvm.org/t/gep-load-vs-load-extractvalue-when-loading-struct-member/78645#post_3)
+- [Does the Linalg dialect support fusion-on-memrefs?](https://discourse.llvm.org/t/does-the-linalg-dialect-support-fusion-on-memrefs/78654#post_5)
 <!-- DISCOURSE-LLVM:END -->
