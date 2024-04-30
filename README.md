@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MLIR] Why does convert-math-to-llvm not convert math::ErfOp?](https://discourse.llvm.org/t/mlir-why-does-convert-math-to-llvm-not-convert-math-erfop/78652#post_3)
-- [Raising awareness over xz compromise](https://discourse.llvm.org/t/raising-awareness-over-xz-compromise/78661#post_3)
-- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_1)
-- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_10)
-- [Linker script fails with llvm-17](https://discourse.llvm.org/t/linker-script-fails-with-llvm-17/78608#post_3)
+- [Orc Jit on windows cannot find __divti3](https://discourse.llvm.org/t/orc-jit-on-windows-cannot-find-divti3/78676#post_1)
+- [Is there a faster option than `-M` to get the include path?](https://discourse.llvm.org/t/is-there-a-faster-option-than-m-to-get-the-include-path/78675#post_1)
+- [Does the Linalg dialect support fusion-on-memrefs?](https://discourse.llvm.org/t/does-the-linalg-dialect-support-fusion-on-memrefs/78654#post_6)
+- [[MLIR] Why does convert-math-to-llvm not convert math::ErfOp?](https://discourse.llvm.org/t/mlir-why-does-convert-math-to-llvm-not-convert-math-erfop/78652#post_4)
+- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_2)
 <!-- DISCOURSE-LLVM:END -->
