@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Libclang_rt.profile-x86_64.a no such file or directory](https://discourse.llvm.org/t/libclang-rt-profile-x86-64-a-no-such-file-or-directory/78689#post_1)
 - [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_7)
 - [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_18)
 - [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_18)
 - [Do we need to support for SelectInst to DomCache?](https://discourse.llvm.org/t/do-we-need-to-support-for-selectinst-to-domcache/78662#post_5)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687#post_3)
 <!-- DISCOURSE-LLVM:END -->
