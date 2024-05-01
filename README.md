@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687#post_19)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687#post_18)
+- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_13)
 - [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236?page=2#post_27)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687#post_17)
-- [Does LLVM support allocations that grow or shrink?](https://discourse.llvm.org/t/does-llvm-support-allocations-that-grow-or-shrink/78636#post_7)
-- [Stepping over a `brk` instruction on ARM64](https://discourse.llvm.org/t/stepping-over-a-brk-instruction-on-arm64/69766#post_9)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687#post_16)
 <!-- DISCOURSE-LLVM:END -->
