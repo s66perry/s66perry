@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_1)
+- [How well can compiler deal with WAW and WAR hazard?](https://discourse.llvm.org/t/how-well-can-compiler-deal-with-waw-and-war-hazard/78721#post_1)
+- [Full-restrict-support](https://discourse.llvm.org/t/full-restrict-support/70800#post_5)
+- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_19)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_27)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_26)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_25)
-- [New intrinsic for masked vector compress without store](https://discourse.llvm.org/t/new-intrinsic-for-masked-vector-compress-without-store/78663#post_7)
-- [HLSL @ Microsoft hiring for public LLVM &amp; Clang development](https://discourse.llvm.org/t/hlsl-microsoft-hiring-for-public-llvm-clang-development/78706#post_2)
 <!-- DISCOURSE-LLVM:END -->
