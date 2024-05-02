@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_7)
-- [Capabilities to use constants in TableGen Patterns](https://discourse.llvm.org/t/capabilities-to-use-constants-in-tablegen-patterns/78730#post_1)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_32)
-- [[Idea] Introduce PrecomputeLoopExpressionsPass to replace expensive array index computation with precomputed array lookup](https://discourse.llvm.org/t/idea-introduce-precomputeloopexpressionspass-to-replace-expensive-array-index-computation-with-precomputed-array-lookup/78620#post_4)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_31)
+- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_15)
+- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_10)
+- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887?page=2#post_21)
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_9)
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_8)
 <!-- DISCOURSE-LLVM:END -->
