@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Disassemble register of which TableGen Inst field does not contain its register encoding](https://discourse.llvm.org/t/disassemble-register-of-which-tablegen-inst-field-does-not-contain-its-register-encoding/78711#post_2)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_2)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_1)
-- [How well can compiler deal with WAW and WAR hazard?](https://discourse.llvm.org/t/how-well-can-compiler-deal-with-waw-and-war-hazard/78721#post_1)
-- [Full-restrict-support](https://discourse.llvm.org/t/full-restrict-support/70800#post_5)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_29)
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_4)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_28)
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_3)
+- [Does LLVM support allocations that grow or shrink?](https://discourse.llvm.org/t/does-llvm-support-allocations-that-grow-or-shrink/78636#post_9)
 <!-- DISCOURSE-LLVM:END -->
