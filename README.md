@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_15)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_10)
-- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887?page=2#post_21)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_9)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_8)
+- [HLSL @ Microsoft hiring for public LLVM &amp; Clang development](https://discourse.llvm.org/t/hlsl-microsoft-hiring-for-public-llvm-clang-development/78706#post_3)
+- [[RFC] Enhanced Machine Outliner – Part 1: FullLTO &lpar;Part 2: ThinLTO / NoLTO to come&rpar;](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-1-fulllto-part-2-thinlto-nolto-to-come/78732#post_1)
+- [Stepping over a `brk` instruction on ARM64](https://discourse.llvm.org/t/stepping-over-a-brk-instruction-on-arm64/69766#post_10)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_34)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
