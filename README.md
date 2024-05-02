@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_7)
+- [Capabilities to use constants in TableGen Patterns](https://discourse.llvm.org/t/capabilities-to-use-constants-in-tablegen-patterns/78730#post_1)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_32)
 - [[Idea] Introduce PrecomputeLoopExpressionsPass to replace expensive array index computation with precomputed array lookup](https://discourse.llvm.org/t/idea-introduce-precomputeloopexpressionspass-to-replace-expensive-array-index-computation-with-precomputed-array-lookup/78620#post_4)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_31)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_6)
-- [Failed to run tensor.insert in scf.for loop](https://discourse.llvm.org/t/failed-to-run-tensor-insert-in-scf-for-loop/78482#post_2)
-- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887#post_20)
 <!-- DISCOURSE-LLVM:END -->
