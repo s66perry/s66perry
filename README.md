@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_10)
-- [New intrinsic for masked vector compress without store](https://discourse.llvm.org/t/new-intrinsic-for-masked-vector-compress-without-store/78663#post_8)
-- [HLSL @ Microsoft hiring for public LLVM &amp; Clang development](https://discourse.llvm.org/t/hlsl-microsoft-hiring-for-public-llvm-clang-development/78706#post_5)
-- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_12)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_11)
+- [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_11)
+- [[RFC] Improving the feature-test macro status page](https://discourse.llvm.org/t/rfc-improving-the-feature-test-macro-status-page/78327#post_3)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_38)
+- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736#post_1)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
