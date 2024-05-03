@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add arithmetic, logical and comparison expressions into PDLL](https://discourse.llvm.org/t/rfc-add-arithmetic-logical-and-comparison-expressions-into-pdll/78251#post_13)
-- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_8)
-- [Newtype optimisations and field unpacking](https://discourse.llvm.org/t/newtype-optimisations-and-field-unpacking/78755#post_1)
-- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_7)
-- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_6)
+- [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_17)
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_12)
+- [Limitation with Zcmp push/pop instructions and frame pointer](https://discourse.llvm.org/t/limitation-with-zcmp-push-pop-instructions-and-frame-pointer/78756#post_2)
+- [Limitation with Zcmp push/pop instructions and frame pointer](https://discourse.llvm.org/t/limitation-with-zcmp-push-pop-instructions-and-frame-pointer/78756#post_1)
+- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736#post_9)
 <!-- DISCOURSE-LLVM:END -->
