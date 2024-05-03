@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_5)
-- [Does llc support machine code listing?](https://discourse.llvm.org/t/does-llc-support-machine-code-listing/78751#post_1)
-- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_4)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_54)
-- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_3)
+- [RISCVInsertVSETVLI doLocalPass](https://discourse.llvm.org/t/riscvinsertvsetvli-dolocalpass/78292#post_3)
+- [Does the Linalg dialect support fusion-on-memrefs?](https://discourse.llvm.org/t/does-the-linalg-dialect-support-fusion-on-memrefs/78654#post_11)
+- [[RFC] Linalg type casting](https://discourse.llvm.org/t/rfc-linalg-type-casting/78641#post_16)
+- [Improve Clang-Doc Usability](https://discourse.llvm.org/t/improve-clang-doc-usability/76996#post_7)
+- [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_7)
 <!-- DISCOURSE-LLVM:END -->
