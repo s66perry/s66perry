@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_51)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_50)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_49)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_48)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_47)
+- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_3)
+- [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543?page=2#post_24)
+- [[RFC] Add GEN dialect for Intel GPUs](https://discourse.llvm.org/t/rfc-add-gen-dialect-for-intel-gpus/76753?page=4#post_65)
+- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_2)
+- [LLDB shows error &quot;Process 1 was reported after connecting to &#39;connect://x.x.x.x](https://discourse.llvm.org/t/lldb-shows-error-process-1-was-reported-after-connecting-to-connect-x-x-x-x/78750#post_1)
 <!-- DISCOURSE-LLVM:END -->
