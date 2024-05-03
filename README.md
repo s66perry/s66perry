@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_47)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_46)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_45)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_44)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_43)
-- [Creating Clang Tools and Plug ins using prebuilt binaries](https://discourse.llvm.org/t/creating-clang-tools-and-plug-ins-using-prebuilt-binaries/78746#post_1)
 <!-- DISCOURSE-LLVM:END -->
