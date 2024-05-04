@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_14)
-- [False positives for -Wstrict-prototypes](https://discourse.llvm.org/t/false-positives-for-wstrict-prototypes/78768#post_2)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_15)
-- [[RFC] Distinguish between data and non-data in FIR Alias Analysis](https://discourse.llvm.org/t/rfc-distinguish-between-data-and-non-data-in-fir-alias-analysis/78759#post_2)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_14)
+- [False positives for -Wstrict-prototypes](https://discourse.llvm.org/t/false-positives-for-wstrict-prototypes/78768#post_4)
+- [False positives for -Wstrict-prototypes](https://discourse.llvm.org/t/false-positives-for-wstrict-prototypes/78768#post_3)
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_17)
+- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_13)
+- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722#post_16)
 <!-- DISCOURSE-LLVM:END -->
