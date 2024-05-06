@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758#post_5)
+- [Llvm-min-tblgen: Permission denied during build](https://discourse.llvm.org/t/llvm-min-tblgen-permission-denied-during-build/78810#post_7)
+- [[LV] extracting loop DataDependenceGraph](https://discourse.llvm.org/t/lv-extracting-loop-datadependencegraph/78815#post_1)
+- [LLVM Weekly - #540, May 6th 2024](https://discourse.llvm.org/t/llvm-weekly-540-may-6th-2024/78814#post_1)
 - [Llvm-min-tblgen: Permission denied during build](https://discourse.llvm.org/t/llvm-min-tblgen-permission-denied-during-build/78810#post_6)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=3#post_59)
-- [Compatibility Issue with FLDMIA instruction in ARM assembly when using Clang 18](https://discourse.llvm.org/t/compatibility-issue-with-fldmia-instruction-in-arm-assembly-when-using-clang-18/78803#post_2)
-- [New to LLVM: Seeking Guidance on Adding a Custom Built-in Function for RISC-V&quot;](https://discourse.llvm.org/t/new-to-llvm-seeking-guidance-on-adding-a-custom-built-in-function-for-risc-v/78812#post_1)
-- [Llvm-min-tblgen: Permission denied during build](https://discourse.llvm.org/t/llvm-min-tblgen-permission-denied-during-build/78810#post_5)
 <!-- DISCOURSE-LLVM:END -->
