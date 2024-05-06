@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Improve single thread stepping](https://discourse.llvm.org/t/improve-single-thread-stepping/74599#post_20)
-- [18.1.5 release has been tagged](https://discourse.llvm.org/t/18-1-5-release-has-been-tagged/78741#post_4)
-- [[Idea] Introduce PrecomputeLoopExpressionsPass to replace expensive array index computation with precomputed array lookup](https://discourse.llvm.org/t/idea-introduce-precomputeloopexpressionspass-to-replace-expensive-array-index-computation-with-precomputed-array-lookup/78620#post_8)
-- [18.1.5 release has been tagged](https://discourse.llvm.org/t/18-1-5-release-has-been-tagged/78741#post_3)
-- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758#post_7)
+- [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_17)
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758#post_9)
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758#post_8)
+- [[RFC] CREL: A compact relocation format for ELF](https://discourse.llvm.org/t/rfc-crel-a-compact-relocation-format-for-elf/77600#post_3)
+- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_15)
 <!-- DISCOURSE-LLVM:END -->
