@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Failed to run tensor.insert in scf.for loop](https://discourse.llvm.org/t/failed-to-run-tensor-insert-in-scf-for-loop/78482#post_4)
+- [Failed to run tensor.insert in scf.for loop](https://discourse.llvm.org/t/failed-to-run-tensor-insert-in-scf-for-loop/78482#post_3)
 - [[RFC] - Lowering and codegen of the depend clause on target ops in the omp dialect in MLIR](https://discourse.llvm.org/t/rfc-lowering-and-codegen-of-the-depend-clause-on-target-ops-in-the-omp-dialect-in-mlir/78471#post_13)
 - [[Idea] Introduce PrecomputeLoopExpressionsPass to replace expensive array index computation with precomputed array lookup](https://discourse.llvm.org/t/idea-introduce-precomputeloopexpressionspass-to-replace-expensive-array-index-computation-with-precomputed-array-lookup/78620#post_7)
 - [Compatibility Issue with FLDMIA instruction in ARM assembly when using Clang 18](https://discourse.llvm.org/t/compatibility-issue-with-fldmia-instruction-in-arm-assembly-when-using-clang-18/78803#post_1)
-- [LLVM Meetup in Munich – April 29th, 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-29th-2024/78223#post_5)
-- [Does the Linalg dialect support fusion-on-memrefs?](https://discourse.llvm.org/t/does-the-linalg-dialect-support-fusion-on-memrefs/78654#post_12)
 <!-- DISCOURSE-LLVM:END -->
