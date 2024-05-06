@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=5#post_96)
 - [Notes from the MLIR Upstream Round Table @ EuroLLVM 2024](https://discourse.llvm.org/t/notes-from-the-mlir-upstream-round-table-eurollvm-2024/78374#post_15)
 - [What if Proudcer has more than one OpResult for tileAndFuseProducerOfSlice](https://discourse.llvm.org/t/what-if-proudcer-has-more-than-one-opresult-for-tileandfuseproducerofslice/78795#post_1)
 - [Can linalg represent the loop of the reduced domain?](https://discourse.llvm.org/t/can-linalg-represent-the-loop-of-the-reduced-domain/78579#post_8)
 - [How to set dollar as token in Tablegen AsmString](https://discourse.llvm.org/t/how-to-set-dollar-as-token-in-tablegen-asmstring/78790#post_3)
-- [What&#39;s up with tz.cpp in libc++?](https://discourse.llvm.org/t/whats-up-with-tz-cpp-in-libc/78667#post_5)
 <!-- DISCOURSE-LLVM:END -->
