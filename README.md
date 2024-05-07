@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there a pass to implement the conversion of extractvalue and insertvalue directives to gep related directives?](https://discourse.llvm.org/t/is-there-a-pass-to-implement-the-conversion-of-extractvalue-and-insertvalue-directives-to-gep-related-directives/78827#post_1)
+- [AArch64 LLVM Sync-up Call 7 May 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-7-may-2024/78806#post_2)
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758#post_13)
+- [Linker script fails with llvm-17](https://discourse.llvm.org/t/linker-script-fails-with-llvm-17/78608#post_4)
 - [On Improving Arm SME Lowering Resilience in MLIR](https://discourse.llvm.org/t/on-improving-arm-sme-lowering-resilience-in-mlir/78543?page=2#post_25)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=4#post_61)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=3#post_60)
-- [RFC: Requiring Pull Requests for Contributions](https://discourse.llvm.org/t/rfc-requiring-pull-requests-for-contributions/78609?page=3#post_59)
-- [False positives for -Wstrict-prototypes](https://discourse.llvm.org/t/false-positives-for-wstrict-prototypes/78768#post_7)
 <!-- DISCOURSE-LLVM:END -->
