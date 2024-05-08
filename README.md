@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Assembling and linking AMD GPU kernel code](https://discourse.llvm.org/t/assembling-and-linking-amd-gpu-kernel-code/78760#post_16)
+- [[RFC] Clang assembly/object equivalence for files with inline assembly](https://discourse.llvm.org/t/rfc-clang-assembly-object-equivalence-for-files-with-inline-assembly/78841#post_4)
 - [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_5)
 - [RFC: Forward-declare mode for DeclPrinter](https://discourse.llvm.org/t/rfc-forward-declare-mode-for-declprinter/78837#post_3)
 - [Utility to generate elaborated assembly/IR tests](https://discourse.llvm.org/t/utility-to-generate-elaborated-assembly-ir-tests/78408#post_8)
-- [[RFC] CREL: A compact relocation format for ELF](https://discourse.llvm.org/t/rfc-crel-a-compact-relocation-format-for-elf/77600#post_4)
-- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_4)
 <!-- DISCOURSE-LLVM:END -->
