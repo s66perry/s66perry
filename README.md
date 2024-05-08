@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259#post_15)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=4#post_66)
+- [RFC: Support for Memory Regions in ELF](https://discourse.llvm.org/t/rfc-support-for-memory-regions-in-elf/78570#post_4)
 - [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_14)
 - [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_13)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_12)
-- [RFC: “cppcoreguidelines-pro-bounds-use-of-unchecked-types-and-library-functions&quot; flag](https://discourse.llvm.org/t/rfc-cppcoreguidelines-pro-bounds-use-of-unchecked-types-and-library-functions-flag/78829#post_3)
-- [RISC-V LLVM sync-up call May 9th 2024](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-may-9th-2024/78857#post_1)
 <!-- DISCOURSE-LLVM:END -->
