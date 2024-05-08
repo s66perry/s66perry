@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Setting macOS deployment target for libc++](https://discourse.llvm.org/t/setting-macos-deployment-target-for-libc/78846#post_3)
-- [Setting macOS deployment target for libc++](https://discourse.llvm.org/t/setting-macos-deployment-target-for-libc/78846#post_2)
-- [X64 MS Inline asm](https://discourse.llvm.org/t/x64-ms-inline-asm/78847#post_3)
-- [RFC: Forward-declare mode for DeclPrinter](https://discourse.llvm.org/t/rfc-forward-declare-mode-for-declprinter/78837#post_4)
-- [AArch64 LLVM Sync-up Call 7 May 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-7-may-2024/78806#post_6)
+- [New intrinsic for masked vector compress without store](https://discourse.llvm.org/t/new-intrinsic-for-masked-vector-compress-without-store/78663#post_9)
+- [Windows Buildkite Build Failing](https://discourse.llvm.org/t/windows-buildkite-build-failing/78852#post_3)
+- [Windows Buildkite Build Failing](https://discourse.llvm.org/t/windows-buildkite-build-failing/78852#post_2)
+- [Windows Buildkite Build Failing](https://discourse.llvm.org/t/windows-buildkite-build-failing/78852#post_1)
+- [[DebugInfo] Missing debug location updates for newly created instructions](https://discourse.llvm.org/t/debuginfo-missing-debug-location-updates-for-newly-created-instructions/78831#post_9)
 <!-- DISCOURSE-LLVM:END -->
