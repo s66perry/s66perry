@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_7)
-- [[RFC] Separate variables from SSA values in EmitC](https://discourse.llvm.org/t/rfc-separate-variables-from-ssa-values-in-emitc/75224#post_10)
-- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170?page=2#post_35)
-- [New intrinsic for masked vector compress without store](https://discourse.llvm.org/t/new-intrinsic-for-masked-vector-compress-without-store/78663#post_9)
-- [Windows Buildkite Build Failing](https://discourse.llvm.org/t/windows-buildkite-build-failing/78852#post_3)
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758?page=2#post_25)
+- [[DebugInfo] Missing debug location updates for newly created instructions](https://discourse.llvm.org/t/debuginfo-missing-debug-location-updates-for-newly-created-instructions/78831#post_11)
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758?page=2#post_24)
+- [Assembling and linking AMD GPU kernel code](https://discourse.llvm.org/t/assembling-and-linking-amd-gpu-kernel-code/78760#post_17)
+- [[DebugInfo] Missing debug location updates for newly created instructions](https://discourse.llvm.org/t/debuginfo-missing-debug-location-updates-for-newly-created-instructions/78831#post_10)
 <!-- DISCOURSE-LLVM:END -->
