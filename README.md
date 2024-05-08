@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_6)
-- [Assembling and linking AMD GPU kernel code](https://discourse.llvm.org/t/assembling-and-linking-amd-gpu-kernel-code/78760#post_16)
-- [[RFC] Clang assembly/object equivalence for files with inline assembly](https://discourse.llvm.org/t/rfc-clang-assembly-object-equivalence-for-files-with-inline-assembly/78841#post_4)
-- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_5)
-- [RFC: Forward-declare mode for DeclPrinter](https://discourse.llvm.org/t/rfc-forward-declare-mode-for-declprinter/78837#post_3)
+- [NVPTX codegen for llvm.sin &lpar;and friends&rpar;](https://discourse.llvm.org/t/nvptx-codegen-for-llvm-sin-and-friends/58170?page=2#post_34)
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758?page=2#post_21)
+- [X64 MS Inline asm](https://discourse.llvm.org/t/x64-ms-inline-asm/78847#post_1)
+- [AArch64 LLVM Sync-up Call 7 May 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-7-may-2024/78806#post_5)
+- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758#post_20)
 <!-- DISCOURSE-LLVM:END -->
