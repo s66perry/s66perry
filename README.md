@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] CREL: A compact relocation format for ELF](https://discourse.llvm.org/t/rfc-crel-a-compact-relocation-format-for-elf/77600#post_6)
+- [Removing `reduction` from allowed clauses for `target` in OMP.td](https://discourse.llvm.org/t/removing-reduction-from-allowed-clauses-for-target-in-omp-td/78881#post_2)
 - [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736#post_18)
 - [Assembler API](https://discourse.llvm.org/t/assembler-api/78885#post_1)
 - [Type set is empty for each HW mode?](https://discourse.llvm.org/t/type-set-is-empty-for-each-hw-mode/78883#post_7)
-- [Type set is empty for each HW mode?](https://discourse.llvm.org/t/type-set-is-empty-for-each-hw-mode/78883#post_6)
-- [Type set is empty for each HW mode?](https://discourse.llvm.org/t/type-set-is-empty-for-each-hw-mode/78883#post_5)
 <!-- DISCOURSE-LLVM:END -->
