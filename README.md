@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_7)
-- [RFC: Forward-declare mode for DeclPrinter](https://discourse.llvm.org/t/rfc-forward-declare-mode-for-declprinter/78837#post_6)
-- [AArch64 LLVM Sync-up Call 7 May 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-7-may-2024/78806#post_7)
-- [Setting macOS deployment target for libc++](https://discourse.llvm.org/t/setting-macos-deployment-target-for-libc/78846#post_4)
-- [False positives for -Wstrict-prototypes](https://discourse.llvm.org/t/false-positives-for-wstrict-prototypes/78768#post_9)
+- [Matching Separable Convolutions using Transform Dialect &lpar;with attributes?&rpar;](https://discourse.llvm.org/t/matching-separable-convolutions-using-transform-dialect-with-attributes/78554#post_8)
+- [Matching Separable Convolutions using Transform Dialect &lpar;with attributes?&rpar;](https://discourse.llvm.org/t/matching-separable-convolutions-using-transform-dialect-with-attributes/78554#post_7)
+- [Could windows asan support detect windows function &#39;GlobalLock&#39;?](https://discourse.llvm.org/t/could-windows-asan-support-detect-windows-function-globallock/78875#post_1)
+- [Clang code coverage link is not showing results due to &quot;502: bad gateway&quot;](https://discourse.llvm.org/t/clang-code-coverage-link-is-not-showing-results-due-to-502-bad-gateway/78874#post_1)
+- [[RFC] Compile-time memref.alloc Scheduling/Merging](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging/78872#post_1)
 <!-- DISCOURSE-LLVM:END -->
