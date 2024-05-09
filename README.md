@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error encountered while compiling clang and OpenMP for RISC-V target](https://discourse.llvm.org/t/error-encountered-while-compiling-clang-and-openmp-for-risc-v-target/78378#post_9)
+- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_9)
 - [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_8)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=4#post_67)
 - [Avoid getting ptr in the IR](https://discourse.llvm.org/t/avoid-getting-ptr-in-the-ir/78859#post_2)
-- [Avoid getting ptr in the IR](https://discourse.llvm.org/t/avoid-getting-ptr-in-the-ir/78859#post_1)
-- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736#post_15)
 <!-- DISCOURSE-LLVM:END -->
