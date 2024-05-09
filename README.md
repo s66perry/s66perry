@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887?page=2#post_22)
 - [Certain shared libraries do not appear in image list](https://discourse.llvm.org/t/certain-shared-libraries-do-not-appear-in-image-list/77528#post_14)
 - [[RFC] CREL: A compact relocation format for ELF](https://discourse.llvm.org/t/rfc-crel-a-compact-relocation-format-for-elf/77600#post_5)
 - [What if Producer has multiple Results or Result with multiple Uses for `tileAndFuseProducerOfSlice`](https://discourse.llvm.org/t/what-if-producer-has-multiple-results-or-result-with-multiple-uses-for-tileandfuseproducerofslice/78795#post_5)
 - [Error encountered while compiling clang and OpenMP for RISC-V target](https://discourse.llvm.org/t/error-encountered-while-compiling-clang-and-openmp-for-risc-v-target/78378#post_9)
-- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_9)
 <!-- DISCOURSE-LLVM:END -->
