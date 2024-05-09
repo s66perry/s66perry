@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_7)
+- [RFC: Forward-declare mode for DeclPrinter](https://discourse.llvm.org/t/rfc-forward-declare-mode-for-declprinter/78837#post_6)
+- [AArch64 LLVM Sync-up Call 7 May 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-7-may-2024/78806#post_7)
+- [Setting macOS deployment target for libc++](https://discourse.llvm.org/t/setting-macos-deployment-target-for-libc/78846#post_4)
 - [False positives for -Wstrict-prototypes](https://discourse.llvm.org/t/false-positives-for-wstrict-prototypes/78768#post_9)
-- [Seeking Guidance on Creating Custom LLVM Analysis Passes for Rust](https://discourse.llvm.org/t/seeking-guidance-on-creating-custom-llvm-analysis-passes-for-rust/78869#post_1)
-- [[RFC] Improve map-files for effective analysis and debugging](https://discourse.llvm.org/t/rfc-improve-map-files-for-effective-analysis-and-debugging/77887?page=2#post_22)
-- [Certain shared libraries do not appear in image list](https://discourse.llvm.org/t/certain-shared-libraries-do-not-appear-in-image-list/77528#post_14)
-- [[RFC] CREL: A compact relocation format for ELF](https://discourse.llvm.org/t/rfc-crel-a-compact-relocation-format-for-elf/77600#post_5)
 <!-- DISCOURSE-LLVM:END -->
