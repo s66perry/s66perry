@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [OpenMP Offload Fortran Tests Pass with Flang-new](https://discourse.llvm.org/t/openmp-offload-fortran-tests-pass-with-flang-new/78919#post_1)
+- [Clang-Tidy warnings not appearing in header files &lpar;Using Visual Studio Code&rpar;](https://discourse.llvm.org/t/clang-tidy-warnings-not-appearing-in-header-files-using-visual-studio-code/78915#post_2)
+- [Min/Max/Abs/Relu recognition &lpar;starter project?&rpar;](https://discourse.llvm.org/t/min-max-abs-relu-recognition-starter-project/78918#post_3)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=3#post_50)
 - [Min/Max/Abs/Relu recognition &lpar;starter project?&rpar;](https://discourse.llvm.org/t/min-max-abs-relu-recognition-starter-project/78918#post_2)
-- [Comparing pointers to externals](https://discourse.llvm.org/t/comparing-pointers-to-externals/78910#post_2)
-- [Can we remove the llvm-project-ci-bridge repository?](https://discourse.llvm.org/t/can-we-remove-the-llvm-project-ci-bridge-repository/78916#post_2)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_15)
-- [Min/Max/Abs/Relu recognition &lpar;starter project?&rpar;](https://discourse.llvm.org/t/min-max-abs-relu-recognition-starter-project/78918#post_1)
 <!-- DISCOURSE-LLVM:END -->
