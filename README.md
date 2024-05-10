@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Libcxx and locale](https://discourse.llvm.org/t/libcxx-and-locale/78917#post_4)
-- [OpenMP Offload Fortran Tests Pass with Flang-new](https://discourse.llvm.org/t/openmp-offload-fortran-tests-pass-with-flang-new/78919#post_4)
-- [OpenMP Offload Fortran Tests Pass with Flang-new](https://discourse.llvm.org/t/openmp-offload-fortran-tests-pass-with-flang-new/78919#post_3)
-- [OpenMP Offload Fortran Tests Pass with Flang-new](https://discourse.llvm.org/t/openmp-offload-fortran-tests-pass-with-flang-new/78919#post_2)
-- [Libcxx and locale](https://discourse.llvm.org/t/libcxx-and-locale/78917#post_3)
+- [CMake compiler flag checks are really slow, ideas to speed them up](https://discourse.llvm.org/t/cmake-compiler-flag-checks-are-really-slow-ideas-to-speed-them-up/78882#post_3)
+- [Min/Max/Abs/Relu recognition &lpar;starter project?&rpar;](https://discourse.llvm.org/t/min-max-abs-relu-recognition-starter-project/78918#post_4)
+- [CMake compiler flag checks are really slow, ideas to speed them up](https://discourse.llvm.org/t/cmake-compiler-flag-checks-are-really-slow-ideas-to-speed-them-up/78882#post_2)
+- [[RFC] LLD --enable-non-contiguous-regions](https://discourse.llvm.org/t/rfc-lld-enable-non-contiguous-regions/76513#post_19)
+- [Libcxx and locale](https://discourse.llvm.org/t/libcxx-and-locale/78917#post_6)
 <!-- DISCOURSE-LLVM:END -->
