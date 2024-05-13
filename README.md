@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Assembling and linking AMD GPU kernel code](https://discourse.llvm.org/t/assembling-and-linking-amd-gpu-kernel-code/78760#post_20)
-- [Anyone working on a TI C28x backend](https://discourse.llvm.org/t/anyone-working-on-a-ti-c28x-backend/78943#post_2)
-- [MachineLICM register pressure calculation](https://discourse.llvm.org/t/machinelicm-register-pressure-calculation/78941#post_4)
-- [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_8)
-- [[RFC] New `stack` dialect](https://discourse.llvm.org/t/rfc-new-stack-dialect/78722?page=2#post_29)
+- [[RFC] Torch-mlir lowering to named ops](https://discourse.llvm.org/t/rfc-torch-mlir-lowering-to-named-ops/78955#post_1)
+- [When does LLVM create new nodes in SelectionDag?](https://discourse.llvm.org/t/when-does-llvm-create-new-nodes-in-selectiondag/78935#post_2)
+- [Cross compile OpenWrt](https://discourse.llvm.org/t/cross-compile-openwrt/78921#post_2)
+- [[LV] extracting loop DataDependenceGraph](https://discourse.llvm.org/t/lv-extracting-loop-datadependencegraph/78815#post_2)
+- [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_9)
 <!-- DISCOURSE-LLVM:END -->
