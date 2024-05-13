@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Assembling and linking AMD GPU kernel code](https://discourse.llvm.org/t/assembling-and-linking-amd-gpu-kernel-code/78760#post_19)
+- [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_7)
+- [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_8)
+- [Fatal error &#39;llvm-c/Types.h&#39; file not found](https://discourse.llvm.org/t/fatal-error-llvm-c-types-h-file-not-found/78953#post_1)
 - [X64 MS Inline asm](https://discourse.llvm.org/t/x64-ms-inline-asm/78847#post_6)
-- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758?page=2#post_31)
-- [Does LLVM assume a basic op set for every legal type?](https://discourse.llvm.org/t/does-llvm-assume-a-basic-op-set-for-every-legal-type/78929#post_4)
-- [Min/Max/Abs/Relu recognition &lpar;starter project?&rpar;](https://discourse.llvm.org/t/min-max-abs-relu-recognition-starter-project/78918#post_7)
-- [MachineLICM register pressure calculation](https://discourse.llvm.org/t/machinelicm-register-pressure-calculation/78941#post_2)
 <!-- DISCOURSE-LLVM:END -->
