@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [X64 MS Inline asm](https://discourse.llvm.org/t/x64-ms-inline-asm/78847#post_6)
 - [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758?page=2#post_31)
 - [Does LLVM assume a basic op set for every legal type?](https://discourse.llvm.org/t/does-llvm-assume-a-basic-op-set-for-every-legal-type/78929#post_4)
 - [Min/Max/Abs/Relu recognition &lpar;starter project?&rpar;](https://discourse.llvm.org/t/min-max-abs-relu-recognition-starter-project/78918#post_7)
 - [MachineLICM register pressure calculation](https://discourse.llvm.org/t/machinelicm-register-pressure-calculation/78941#post_2)
-- [X64 MS Inline asm](https://discourse.llvm.org/t/x64-ms-inline-asm/78847#post_5)
 <!-- DISCOURSE-LLVM:END -->
