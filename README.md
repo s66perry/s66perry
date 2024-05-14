@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Enabling AutoFDO &amp; Propeller optimizations on Arm with SPE](https://discourse.llvm.org/t/enabling-autofdo-propeller-optimizations-on-arm-with-spe/78980#post_1)
+- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_21)
+- [Walking through PThread Synchronization Utilities](https://discourse.llvm.org/t/walking-through-pthread-synchronization-utilities/78967#post_2)
+- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_1)
 - [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_20)
-- [Calling constructors &lpar;or other functions&rpar; from an `evalCall` calllback](https://discourse.llvm.org/t/calling-constructors-or-other-functions-from-an-evalcall-calllback/78973#post_3)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_17)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_16)
-- [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
