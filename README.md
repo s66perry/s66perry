@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MMRAs - Memory Model Relaxation Annotations](https://discourse.llvm.org/t/rfc-mmras-memory-model-relaxation-annotations/76361#post_17)
+- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_19)
 - [When does LLVM create new nodes in SelectionDag?](https://discourse.llvm.org/t/when-does-llvm-create-new-nodes-in-selectiondag/78935#post_3)
 - [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_11)
 - [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_10)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=4#post_68)
-- [[MLIR] Why ToSaToLinalg not convert tosa::AddOp to linalg::AddOp](https://discourse.llvm.org/t/mlir-why-tosatolinalg-not-convert-tosa-addop-to-linalg-addop/78969#post_1)
 <!-- DISCOURSE-LLVM:END -->
