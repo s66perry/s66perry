@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clangd AST error. Unknown target and compile_commands issue](https://discourse.llvm.org/t/clangd-ast-error-unknown-target-and-compile-commands-issue/78982#post_1)
+- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736#post_19)
+- [[RFC] BOLT-based binary analysis tool to verify correctness of security hardening](https://discourse.llvm.org/t/rfc-bolt-based-binary-analysis-tool-to-verify-correctness-of-security-hardening/78148#post_10)
 - [Enabling AutoFDO &amp; Propeller optimizations on Arm with SPE](https://discourse.llvm.org/t/enabling-autofdo-propeller-optimizations-on-arm-with-spe/78980#post_1)
 - [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_21)
-- [Walking through PThread Synchronization Utilities](https://discourse.llvm.org/t/walking-through-pthread-synchronization-utilities/78967#post_2)
-- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_1)
-- [RFC: LLDB Telemetry/metrics](https://discourse.llvm.org/t/rfc-lldb-telemetry-metrics/64588#post_20)
 <!-- DISCOURSE-LLVM:END -->
