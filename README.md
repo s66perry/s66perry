@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_14)
+- [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_13)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_12)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_11)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_10)
-- [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_9)
-- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
