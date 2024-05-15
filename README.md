@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_2)
+- [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_16)
+- [Clangd AST error. Unknown target and compile_commands issue](https://discourse.llvm.org/t/clangd-ast-error-unknown-target-and-compile-commands-issue/78982#post_3)
 - [Clang integrated assembler vs. GCC assembler for Arm target](https://discourse.llvm.org/t/clang-integrated-assembler-vs-gcc-assembler-for-arm-target/79000#post_2)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_15)
-- [Why getAccess is public？](https://discourse.llvm.org/t/why-getaccess-is-public/78932#post_4)
-- [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_17)
-- [Trying to understand PseudoCALLIndirect](https://discourse.llvm.org/t/trying-to-understand-pseudocallindirect/78994#post_2)
 <!-- DISCOURSE-LLVM:END -->
