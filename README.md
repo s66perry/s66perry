@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 22 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-22-24-6pm/78445#post_2)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon May 20 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-20-24-6pm/79027#post_1)
 - [How to run ExecutionEngine with bf16 dtype in MLIR python bindings?](https://discourse.llvm.org/t/how-to-run-executionengine-with-bf16-dtype-in-mlir-python-bindings/79025#post_3)
 - [Clang code coverage link is not showing results due to &quot;502: bad gateway&quot;](https://discourse.llvm.org/t/clang-code-coverage-link-is-not-showing-results-due-to-502-bad-gateway/78874#post_4)
 - [How to run ExecutionEngine with bf16 dtype in MLIR python bindings?](https://discourse.llvm.org/t/how-to-run-executionengine-with-bf16-dtype-in-mlir-python-bindings/79025#post_2)
-- [How to run ExecutionEngine with bf16 dtype in MLIR python bindings?](https://discourse.llvm.org/t/how-to-run-executionengine-with-bf16-dtype-in-mlir-python-bindings/79025#post_1)
-- [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_3)
 <!-- DISCOURSE-LLVM:END -->
