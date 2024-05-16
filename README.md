@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Deduplicate Static Analyzer docs](https://discourse.llvm.org/t/deduplicate-static-analyzer-docs/78683#post_4)
 - [Clang-Tidy warnings not appearing in header files &lpar;Using Visual Studio Code&rpar;](https://discourse.llvm.org/t/clang-tidy-warnings-not-appearing-in-header-files-using-visual-studio-code/78915#post_5)
 - [Clang-Tidy warnings not appearing in header files &lpar;Using Visual Studio Code&rpar;](https://discourse.llvm.org/t/clang-tidy-warnings-not-appearing-in-header-files-using-visual-studio-code/78915#post_4)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 22 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-22-24-6pm/78445#post_2)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon May 20 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-20-24-6pm/79027#post_1)
-- [How to run ExecutionEngine with bf16 dtype in MLIR python bindings?](https://discourse.llvm.org/t/how-to-run-executionengine-with-bf16-dtype-in-mlir-python-bindings/79025#post_3)
 <!-- DISCOURSE-LLVM:END -->
