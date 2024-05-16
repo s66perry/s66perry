@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to extract loops from LLVM IRs &lpar;v13&rpar;?](https://discourse.llvm.org/t/how-to-extract-loops-from-llvm-irs-v13/79022#post_1)
+- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_12)
+- [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_18)
 - [Should the compile phase options be retained in the backend opt phase of distributed thinlto?](https://discourse.llvm.org/t/should-the-compile-phase-options-be-retained-in-the-backend-opt-phase-of-distributed-thinlto/76850#post_9)
 - [Clangd AST error. Unknown target and compile_commands issue](https://discourse.llvm.org/t/clangd-ast-error-unknown-target-and-compile-commands-issue/78982#post_7)
-- [Fuzzer + arm-tv starting to run dry](https://discourse.llvm.org/t/fuzzer-arm-tv-starting-to-run-dry/79021#post_1)
-- [How can i make &quot;exe&quot; files in ubuntu](https://discourse.llvm.org/t/how-can-i-make-exe-files-in-ubuntu/79020#post_1)
-- [Why getAccess is public？](https://discourse.llvm.org/t/why-getaccess-is-public/78932#post_5)
 <!-- DISCOURSE-LLVM:END -->
