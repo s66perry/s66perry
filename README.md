@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to run ExecutionEngine with bf16 dtype in MLIR python bindings?](https://discourse.llvm.org/t/how-to-run-executionengine-with-bf16-dtype-in-mlir-python-bindings/79025#post_3)
+- [Clang code coverage link is not showing results due to &quot;502: bad gateway&quot;](https://discourse.llvm.org/t/clang-code-coverage-link-is-not-showing-results-due-to-502-bad-gateway/78874#post_4)
+- [How to run ExecutionEngine with bf16 dtype in MLIR python bindings?](https://discourse.llvm.org/t/how-to-run-executionengine-with-bf16-dtype-in-mlir-python-bindings/79025#post_2)
+- [How to run ExecutionEngine with bf16 dtype in MLIR python bindings?](https://discourse.llvm.org/t/how-to-run-executionengine-with-bf16-dtype-in-mlir-python-bindings/79025#post_1)
 - [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_3)
-- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_17)
-- [Getelementptr inbounds: inbounds of which allocation?](https://discourse.llvm.org/t/getelementptr-inbounds-inbounds-of-which-allocation/79024#post_1)
-- [New to LLVM: Seeking Guidance on Adding a Custom Built-in Function for RISC-V&quot;](https://discourse.llvm.org/t/new-to-llvm-seeking-guidance-on-adding-a-custom-built-in-function-for-risc-v/78812#post_4)
-- [New to LLVM: Seeking Guidance on Adding a Custom Built-in Function for RISC-V&quot;](https://discourse.llvm.org/t/new-to-llvm-seeking-guidance-on-adding-a-custom-built-in-function-for-risc-v/78812#post_3)
 <!-- DISCOURSE-LLVM:END -->
