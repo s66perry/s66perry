@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_3)
+- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_17)
+- [Getelementptr inbounds: inbounds of which allocation?](https://discourse.llvm.org/t/getelementptr-inbounds-inbounds-of-which-allocation/79024#post_1)
+- [New to LLVM: Seeking Guidance on Adding a Custom Built-in Function for RISC-V&quot;](https://discourse.llvm.org/t/new-to-llvm-seeking-guidance-on-adding-a-custom-built-in-function-for-risc-v/78812#post_4)
 - [New to LLVM: Seeking Guidance on Adding a Custom Built-in Function for RISC-V&quot;](https://discourse.llvm.org/t/new-to-llvm-seeking-guidance-on-adding-a-custom-built-in-function-for-risc-v/78812#post_3)
-- [How to extract loops from LLVM IRs &lpar;v13&rpar;?](https://discourse.llvm.org/t/how-to-extract-loops-from-llvm-irs-v13/79022#post_1)
-- [How to learn tls variable access, using register-optimized decisions](https://discourse.llvm.org/t/how-to-learn-tls-variable-access-using-register-optimized-decisions/78830#post_12)
-- [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872#post_18)
-- [Should the compile phase options be retained in the backend opt phase of distributed thinlto?](https://discourse.llvm.org/t/should-the-compile-phase-options-be-retained-in-the-backend-opt-phase-of-distributed-thinlto/76850#post_9)
 <!-- DISCOURSE-LLVM:END -->
