@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Deduplicate Static Analyzer docs](https://discourse.llvm.org/t/deduplicate-static-analyzer-docs/78683#post_4)
-- [Clang-Tidy warnings not appearing in header files &lpar;Using Visual Studio Code&rpar;](https://discourse.llvm.org/t/clang-tidy-warnings-not-appearing-in-header-files-using-visual-studio-code/78915#post_5)
-- [Clang-Tidy warnings not appearing in header files &lpar;Using Visual Studio Code&rpar;](https://discourse.llvm.org/t/clang-tidy-warnings-not-appearing-in-header-files-using-visual-studio-code/78915#post_4)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 22 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-22-24-6pm/78445#post_2)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon May 20 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-20-24-6pm/79027#post_1)
+- [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_5)
+- [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092#post_14)
+- [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_4)
+- [Enabling AutoFDO &amp; Propeller optimizations on Arm with SPE](https://discourse.llvm.org/t/enabling-autofdo-propeller-optimizations-on-arm-with-spe/78980#post_4)
+- [[RFC] Improving the feature-test macro status page](https://discourse.llvm.org/t/rfc-improving-the-feature-test-macro-status-page/78327#post_4)
 <!-- DISCOURSE-LLVM:END -->
