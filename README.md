@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_7)
+- [[RFC] Clause-based representation of OpenMP dialect operations](https://discourse.llvm.org/t/rfc-clause-based-representation-of-openmp-dialect-operations/79053#post_1)
+- [Request For Clarification about DbgValues in ScheduleDAGInstrs](https://discourse.llvm.org/t/request-for-clarification-about-dbgvalues-in-scheduledaginstrs/79050#post_2)
 - [How to get objc-arc related function call in LLVM IR file](https://discourse.llvm.org/t/how-to-get-objc-arc-related-function-call-in-llvm-ir-file/79040#post_2)
 - [ClangSA Analyzer Options](https://discourse.llvm.org/t/clangsa-analyzer-options/79038#post_2)
-- [[RFC] New dialect to expose handy utilities](https://discourse.llvm.org/t/rfc-new-dialect-to-expose-handy-utilities/79041#post_10)
-- [ClangConfig.cmake missing](https://discourse.llvm.org/t/clangconfig-cmake-missing/79052#post_1)
-- [Request For Clarification about DbgValues in ScheduleDAGInstrs](https://discourse.llvm.org/t/request-for-clarification-about-dbgvalues-in-scheduledaginstrs/79050#post_1)
 <!-- DISCOURSE-LLVM:END -->
