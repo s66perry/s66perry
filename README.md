@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Pass noalias from argument to result for intrinsic](https://discourse.llvm.org/t/pass-noalias-from-argument-to-result-for-intrinsic/79044#post_2)
+- [[ADT] early_inc_iterator + pointer_iterator reference to temporary](https://discourse.llvm.org/t/adt-early-inc-iterator-pointer-iterator-reference-to-temporary/77996#post_11)
+- [[RFC] Recursive Inlining](https://discourse.llvm.org/t/rfc-recursive-inlining/79058#post_1)
 - [Getelementptr inbounds: inbounds of which allocation?](https://discourse.llvm.org/t/getelementptr-inbounds-inbounds-of-which-allocation/79024#post_4)
 - [[RFC] New dialect to expose handy utilities](https://discourse.llvm.org/t/rfc-new-dialect-to-expose-handy-utilities/79041#post_12)
-- [Clangd AST error. Unknown target and compile_commands issue](https://discourse.llvm.org/t/clangd-ast-error-unknown-target-and-compile-commands-issue/78982#post_8)
-- [[RFC] New dialect to expose handy utilities](https://discourse.llvm.org/t/rfc-new-dialect-to-expose-handy-utilities/79041#post_11)
-- [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_7)
 <!-- DISCOURSE-LLVM:END -->
