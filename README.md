@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Getelementptr inbounds: inbounds of which allocation?](https://discourse.llvm.org/t/getelementptr-inbounds-inbounds-of-which-allocation/79024#post_3)
+- [Cambridge Compiler Social June 19th at the University&#39;s Computer Laboratory](https://discourse.llvm.org/t/cambridge-compiler-social-june-19th-at-the-universitys-computer-laboratory/79049#post_1)
+- [[RFC] New dialect to expose handy utilities](https://discourse.llvm.org/t/rfc-new-dialect-to-expose-handy-utilities/79041#post_9)
 - [Hiring_Compiler Opening_IBM_Bangalore](https://discourse.llvm.org/t/hiring-compiler-opening-ibm-bangalore/79046#post_1)
 - [[RFC] New dialect to expose handy utilities](https://discourse.llvm.org/t/rfc-new-dialect-to-expose-handy-utilities/79041#post_8)
-- [[RFC] New dialect to expose handy utilities](https://discourse.llvm.org/t/rfc-new-dialect-to-expose-handy-utilities/79041#post_7)
-- [[RFC] New dialect to expose handy utilities](https://discourse.llvm.org/t/rfc-new-dialect-to-expose-handy-utilities/79041#post_6)
-- [Printing a block](https://discourse.llvm.org/t/printing-a-block/79037#post_2)
 <!-- DISCOURSE-LLVM:END -->
