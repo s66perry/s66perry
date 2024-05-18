@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_20)
 - [How is instruction throughput reflected in the scheduling model?](https://discourse.llvm.org/t/how-is-instruction-throughput-reflected-in-the-scheduling-model/79063#post_1)
 - [Clang lld thin lto footprint and run-time performance outperformed by GCC ld](https://discourse.llvm.org/t/clang-lld-thin-lto-footprint-and-run-time-performance-outperformed-by-gcc-ld/78997#post_8)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_20)
 - [ConvertTrivialIfToSelect canonicalization generates inefficient IR](https://discourse.llvm.org/t/converttrivialiftoselect-canonicalization-generates-inefficient-ir/78234#post_19)
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_6)
 <!-- DISCOURSE-LLVM:END -->
