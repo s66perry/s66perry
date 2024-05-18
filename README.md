@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Utterly failing to figure out how to build libLLVM shared library](https://discourse.llvm.org/t/utterly-failing-to-figure-out-how-to-build-libllvm-shared-library/79064#post_2)
 - [How to get only the stats output in a separate file when running opt on some bitcode](https://discourse.llvm.org/t/how-to-get-only-the-stats-output-in-a-separate-file-when-running-opt-on-some-bitcode/79066#post_1)
 - [About SREM and UREM](https://discourse.llvm.org/t/about-srem-and-urem/79065#post_2)
 - [About SREM and UREM](https://discourse.llvm.org/t/about-srem-and-urem/79065#post_1)
 - [Utterly failing to figure out how to build libLLVM shared library](https://discourse.llvm.org/t/utterly-failing-to-figure-out-how-to-build-libllvm-shared-library/79064#post_1)
-- [[RFC] Measuring GlobalISel compile-time performance](https://discourse.llvm.org/t/rfc-measuring-globalisel-compile-time-performance/78412#post_20)
 <!-- DISCOURSE-LLVM:END -->
