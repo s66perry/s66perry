@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Utterly failing to figure out how to build libLLVM shared library](https://discourse.llvm.org/t/utterly-failing-to-figure-out-how-to-build-libllvm-shared-library/79064#post_6)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_1)
 - [Clang builtin for custom RISCV intrinsic does not correclty generate](https://discourse.llvm.org/t/clang-builtin-for-custom-riscv-intrinsic-does-not-correclty-generate/79076#post_2)
 - [[RFC] Clause-based representation of OpenMP dialect operations](https://discourse.llvm.org/t/rfc-clause-based-representation-of-openmp-dialect-operations/79053#post_2)
 - [How to lower scf in gpu module?](https://discourse.llvm.org/t/how-to-lower-scf-in-gpu-module/79078#post_1)
-- [Clang builtin for custom RISCV intrinsic does not correclty generate](https://discourse.llvm.org/t/clang-builtin-for-custom-riscv-intrinsic-does-not-correclty-generate/79076#post_1)
-- [18.1.6 has been tagged](https://discourse.llvm.org/t/18-1-6-has-been-tagged/79069#post_3)
 <!-- DISCOURSE-LLVM:END -->
