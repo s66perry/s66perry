@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073#post_17)
+- [Utterly failing to figure out how to build libLLVM shared library](https://discourse.llvm.org/t/utterly-failing-to-figure-out-how-to-build-libllvm-shared-library/79064#post_8)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon May 20 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-20-24-6pm/79027#post_2)
+- [Utterly failing to figure out how to build libLLVM shared library](https://discourse.llvm.org/t/utterly-failing-to-figure-out-how-to-build-libllvm-shared-library/79064#post_7)
 - [Walking through PThread Synchronization Utilities](https://discourse.llvm.org/t/walking-through-pthread-synchronization-utilities/78967#post_3)
-- [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_1)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073#post_16)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073#post_15)
-- [[RFC] Allow symbol references to escape from SymbolTable](https://discourse.llvm.org/t/rfc-allow-symbol-references-to-escape-from-symboltable/79095#post_13)
 <!-- DISCOURSE-LLVM:END -->
