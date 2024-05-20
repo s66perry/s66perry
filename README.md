@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=3#post_55)
+- [How to extend linalg ops without modifying MLIR code?](https://discourse.llvm.org/t/how-to-extend-linalg-ops-without-modifying-mlir-code/78934#post_5)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_12)
+- [About SREM and UREM](https://discourse.llvm.org/t/about-srem-and-urem/79065#post_3)
 - [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_11)
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_10)
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_9)
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_8)
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_7)
 <!-- DISCOURSE-LLVM:END -->
