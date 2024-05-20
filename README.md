@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [VerifyModule too early?](https://discourse.llvm.org/t/verifymodule-too-early/79085#post_2)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073#post_3)
-- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=2#post_22)
-- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=2#post_21)
-- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591#post_20)
+- [Comparing pointers to externals](https://discourse.llvm.org/t/comparing-pointers-to-externals/78910#post_7)
+- [[RFC] Clause-based representation of OpenMP dialect operations](https://discourse.llvm.org/t/rfc-clause-based-representation-of-openmp-dialect-operations/79053#post_4)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_15)
+- [LLVM Embedded Toolchains Working Group call this Thursday, May 23](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-may-23/79097#post_1)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083#post_14)
 <!-- DISCOURSE-LLVM:END -->
