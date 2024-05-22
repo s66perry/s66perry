@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [18.1.6 has been tagged](https://discourse.llvm.org/t/18-1-6-has-been-tagged/79069#post_7)
+- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=2#post_26)
+- [How is instruction throughput reflected in the scheduling model?](https://discourse.llvm.org/t/how-is-instruction-throughput-reflected-in-the-scheduling-model/79063#post_2)
+- [Utterly failing to figure out how to build libLLVM shared library](https://discourse.llvm.org/t/utterly-failing-to-figure-out-how-to-build-libllvm-shared-library/79064#post_15)
 - [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=4#post_80)
-- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_19)
-- [[RFC] OpenMP reduction support](https://discourse.llvm.org/t/rfc-openmp-reduction-support/3367#post_17)
-- [How to lower scf in gpu module?](https://discourse.llvm.org/t/how-to-lower-scf-in-gpu-module/79078#post_5)
-- [18.1.6 has been tagged](https://discourse.llvm.org/t/18-1-6-has-been-tagged/79069#post_6)
 <!-- DISCOURSE-LLVM:END -->
