@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Installing LLVM cmake targets into different root directories](https://discourse.llvm.org/t/installing-llvm-cmake-targets-into-different-root-directories/64368#post_10)
+- [How to lower scf in gpu module?](https://discourse.llvm.org/t/how-to-lower-scf-in-gpu-module/79078#post_4)
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735?page=2#post_27)
+- [Compiling project with clang built from LLVM](https://discourse.llvm.org/t/compiling-project-with-clang-built-from-llvm/79101#post_5)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=2#post_26)
-- [Compiling project with clang built from LLVM](https://discourse.llvm.org/t/compiling-project-with-clang-built-from-llvm/79101#post_4)
-- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467#post_19)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_94)
-- [Bit fields and `_BitInt` has unexpected size](https://discourse.llvm.org/t/bit-fields-and-bitint-has-unexpected-size/79130#post_1)
 <!-- DISCOURSE-LLVM:END -->
