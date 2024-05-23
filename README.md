@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC]Add op for semantics of nullptr in memref dialect](https://discourse.llvm.org/t/rfc-add-op-for-semantics-of-nullptr-in-memref-dialect/79060#post_16)
-- [Portable version of libc++ algorithms?](https://discourse.llvm.org/t/portable-version-of-libc-algorithms/79166#post_3)
-- [Portable version of libc++ algorithms?](https://discourse.llvm.org/t/portable-version-of-libc-algorithms/79166#post_2)
-- [[RFC]Add op for semantics of nullptr in memref dialect](https://discourse.llvm.org/t/rfc-add-op-for-semantics-of-nullptr-in-memref-dialect/79060#post_15)
-- [[RFC]Add op for semantics of nullptr in memref dialect](https://discourse.llvm.org/t/rfc-add-op-for-semantics-of-nullptr-in-memref-dialect/79060#post_14)
+- [RFC [CMake]: Adding an option to enable precompiled headers for llvm-libraries](https://discourse.llvm.org/t/rfc-cmake-adding-an-option-to-enable-precompiled-headers-for-llvm-libraries/78925#post_4)
+- [[RFC] Should the OCP microscaling float scalars be added to APFloat and FloatType?](https://discourse.llvm.org/t/rfc-should-the-ocp-microscaling-float-scalars-be-added-to-apfloat-and-floattype/77530#post_6)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_30)
+- [Bit fields and `_BitInt` has unexpected size](https://discourse.llvm.org/t/bit-fields-and-bitint-has-unexpected-size/79130#post_2)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
