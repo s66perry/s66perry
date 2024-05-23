@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR] Fliter op by TypeID](https://discourse.llvm.org/t/mlir-fliter-op-by-typeid/79149#post_1)
 - [RFC: What is the real behavior for the minnum/maxnum intrinsics?](https://discourse.llvm.org/t/rfc-what-is-the-real-behavior-for-the-minnum-maxnum-intrinsics/49211#post_8)
 - [RFC: What is the real behavior for the minnum/maxnum intrinsics?](https://discourse.llvm.org/t/rfc-what-is-the-real-behavior-for-the-minnum-maxnum-intrinsics/49211#post_7)
 - [How to builtin vector&#39;s intrinsic &quot;vrd[u32,u16,u8] = vadd vr1[u32,u16,u8,i32,i16,i8], vr2[u32,u16,u8,i32,i16,i8]&quot;?](https://discourse.llvm.org/t/how-to-builtin-vectors-intrinsic-vrd-u32-u16-u8-vadd-vr1-u32-u16-u8-i32-i16-i8-vr2-u32-u16-u8-i32-i16-i8/79147#post_1)
 - [Llvm.assume implementation details](https://discourse.llvm.org/t/llvm-assume-implementation-details/79146#post_4)
-- [Llvm.assume implementation details](https://discourse.llvm.org/t/llvm-assume-implementation-details/79146#post_3)
 <!-- DISCOURSE-LLVM:END -->
