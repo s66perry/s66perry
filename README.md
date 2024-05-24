@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to use LLDB to single-step debug clang for crash issue？](https://discourse.llvm.org/t/how-to-use-lldb-to-single-step-debug-clang-for-crash-issue/79173#post_1)
-- [How is instruction throughput reflected in the scheduling model?](https://discourse.llvm.org/t/how-is-instruction-throughput-reflected-in-the-scheduling-model/79063#post_4)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=5#post_100)
-- [Is CIRCT able to analyze Verilog](https://discourse.llvm.org/t/is-circt-able-to-analyze-verilog/66281?page=6#post_106)
-- [Conversion of `sv.assign` to `sv.alwayscomb`](https://discourse.llvm.org/t/conversion-of-sv-assign-to-sv-alwayscomb/79142#post_5)
+- [[Flang][OpenMP] Error when compiling MUMPS with flang-new and OpenMP](https://discourse.llvm.org/t/flang-openmp-error-when-compiling-mumps-with-flang-new-and-openmp/79162#post_4)
+- [How to use LLDB to single-step debug clang for crash issue？](https://discourse.llvm.org/t/how-to-use-lldb-to-single-step-debug-clang-for-crash-issue/79173#post_4)
+- [How to use LLDB to single-step debug clang for crash issue？](https://discourse.llvm.org/t/how-to-use-lldb-to-single-step-debug-clang-for-crash-issue/79173#post_3)
+- [How to use LLDB to single-step debug clang for crash issue？](https://discourse.llvm.org/t/how-to-use-lldb-to-single-step-debug-clang-for-crash-issue/79173#post_2)
+- [Adding timing and space baseline cost for every OPs for evaluating](https://discourse.llvm.org/t/adding-timing-and-space-baseline-cost-for-every-ops-for-evaluating/79174#post_1)
 <!-- DISCOURSE-LLVM:END -->
