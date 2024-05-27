@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_32)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_106)
+- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952#post_10)
+- [How to force Stack Coloring slots to be conservative](https://discourse.llvm.org/t/how-to-force-stack-coloring-slots-to-be-conservative/79212#post_1)
 - [Pattern matching G_[SU]ADD[OE] and G_[SU]SUB[OE]](https://discourse.llvm.org/t/pattern-matching-g-su-add-oe-and-g-su-sub-oe/79208#post_2)
-- [&quot;RFC: Supporting In-Tree Headers for Libc++ Development&quot;](https://discourse.llvm.org/t/rfc-supporting-in-tree-headers-for-libc-development/79196#post_2)
-- [WIP- MLIR News, 66th edition &lpar;28th May 2024&rpar;](https://discourse.llvm.org/t/wip-mlir-news-66th-edition-28th-may-2024/79209#post_1)
-- [Failure lower gpu.alloc with global memory](https://discourse.llvm.org/t/failure-lower-gpu-alloc-with-global-memory/79190#post_3)
-- [How to solve LNK1210 Error when building clang, using cmake with ninja in windows](https://discourse.llvm.org/t/how-to-solve-lnk1210-error-when-building-clang-using-cmake-with-ninja-in-windows/79204#post_3)
 <!-- DISCOURSE-LLVM:END -->
