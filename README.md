@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_46)
+- [Running unit tests with different options than clang defaults](https://discourse.llvm.org/t/running-unit-tests-with-different-options-than-clang-defaults/79226#post_3)
+- [How to get only the stats output in a separate file when running opt on some bitcode](https://discourse.llvm.org/t/how-to-get-only-the-stats-output-in-a-separate-file-when-running-opt-on-some-bitcode/79066#post_3)
+- [What does it mean for getelementptr to decompose?](https://discourse.llvm.org/t/what-does-it-mean-for-getelementptr-to-decompose/79231#post_1)
 - [How to use LLDB to single-step debug clang for crash issue？](https://discourse.llvm.org/t/how-to-use-lldb-to-single-step-debug-clang-for-crash-issue/79173#post_7)
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_14)
-- [Error Compiling Clang with Offloading Support](https://discourse.llvm.org/t/error-compiling-clang-with-offloading-support/79223#post_4)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984?page=2#post_25)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_54)
 <!-- DISCOURSE-LLVM:END -->
