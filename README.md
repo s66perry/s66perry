@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DetectDeadLanes is undefing used operands - am I violating an unspoken register hierarchy rule?](https://discourse.llvm.org/t/detectdeadlanes-is-undefing-used-operands-am-i-violating-an-unspoken-register-hierarchy-rule/53561#post_2)
 - [How to reduce .profraw file size](https://discourse.llvm.org/t/how-to-reduce-profraw-file-size/79206#post_5)
 - [How to reduce .profraw file size](https://discourse.llvm.org/t/how-to-reduce-profraw-file-size/79206#post_4)
 - [How to reduce .profraw file size](https://discourse.llvm.org/t/how-to-reduce-profraw-file-size/79206#post_3)
 - [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_53)
-- [How to reduce .profraw file size](https://discourse.llvm.org/t/how-to-reduce-profraw-file-size/79206#post_2)
 <!-- DISCOURSE-LLVM:END -->
