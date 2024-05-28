@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Should the OCP microscaling float scalars be added to APFloat and FloatType?](https://discourse.llvm.org/t/rfc-should-the-ocp-microscaling-float-scalars-be-added-to-apfloat-and-floattype/77530#post_7)
-- [&quot;RFC: Supporting In-Tree Headers for Libc++ Development&quot;](https://discourse.llvm.org/t/rfc-supporting-in-tree-headers-for-libc-development/79196#post_11)
-- [&#39;scf.while&#39; op expects region #0 to have 0 or 1 blocks](https://discourse.llvm.org/t/scf-while-op-expects-region-0-to-have-0-or-1-blocks/79224#post_2)
-- [How to reduce .profraw file size](https://discourse.llvm.org/t/how-to-reduce-profraw-file-size/79206#post_6)
-- [&quot;RFC: Supporting In-Tree Headers for Libc++ Development&quot;](https://discourse.llvm.org/t/rfc-supporting-in-tree-headers-for-libc-development/79196#post_10)
+- [[RFC] Clause-based representation of OpenMP dialect operations](https://discourse.llvm.org/t/rfc-clause-based-representation-of-openmp-dialect-operations/79053#post_6)
+- [Running unit tests with different options than clang defaults](https://discourse.llvm.org/t/running-unit-tests-with-different-options-than-clang-defaults/79226#post_1)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_34)
+- [[RFC] Adding transform.loop.tile_indirection_using_forall](https://discourse.llvm.org/t/rfc-adding-transform-loop-tile-indirection-using-forall/79114#post_7)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
