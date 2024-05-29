@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_2)
-- [Possible to force &lpar;redundant&rpar; use of rex.W in amd64 inline asm?](https://discourse.llvm.org/t/possible-to-force-redundant-use-of-rex-w-in-amd64-inline-asm/79214#post_3)
-- [Do we have PDL interpreter?](https://discourse.llvm.org/t/do-we-have-pdl-interpreter/79255#post_1)
-- [How to implement a clangMatcher that can idenitfy enums, const decls in a codebase with absolute includes like LLVM?](https://discourse.llvm.org/t/how-to-implement-a-clangmatcher-that-can-idenitfy-enums-const-decls-in-a-codebase-with-absolute-includes-like-llvm/79246#post_2)
-- [Disable flang from pre-commit tests when Flang files are not touched](https://discourse.llvm.org/t/disable-flang-from-pre-commit-tests-when-flang-files-are-not-touched/79251#post_11)
+- [Error Compiling Clang with Offloading Support](https://discourse.llvm.org/t/error-compiling-clang-with-offloading-support/79223#post_6)
+- [Error Compiling Clang with Offloading Support](https://discourse.llvm.org/t/error-compiling-clang-with-offloading-support/79223#post_5)
+- [New clang::driver::ToolChain acceptance criteria](https://discourse.llvm.org/t/new-clang-toolchain-acceptance-criteria/79233#post_3)
+- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_3)
+- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_16)
 <!-- DISCOURSE-LLVM:END -->
