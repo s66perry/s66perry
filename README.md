@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What does it mean for getelementptr to decompose?](https://discourse.llvm.org/t/what-does-it-mean-for-getelementptr-to-decompose/79231#post_2)
+- [The way to vectorize other than scalar types as if the type is scalar &lpar;especially double&rpar;](https://discourse.llvm.org/t/the-way-to-vectorize-other-than-scalar-types-as-if-the-type-is-scalar-especially-double/79239#post_1)
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_3)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_109)
 - [MLIR Compiler Engineering Positions @ NextSilicon Zurich](https://discourse.llvm.org/t/mlir-compiler-engineering-positions-nextsilicon-zurich/79237#post_1)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_58)
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_15)
-- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_2)
 <!-- DISCOURSE-LLVM:END -->
