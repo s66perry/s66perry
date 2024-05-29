@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_18)
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_17)
-- [New clang::driver::ToolChain acceptance criteria](https://discourse.llvm.org/t/new-clang-toolchain-acceptance-criteria/79233#post_4)
-- [[Exception handling] How landing pad offset and action index can both be 0](https://discourse.llvm.org/t/exception-handling-how-landing-pad-offset-and-action-index-can-both-be-0/79194#post_2)
-- [Error Compiling Clang with Offloading Support](https://discourse.llvm.org/t/error-compiling-clang-with-offloading-support/79223#post_6)
+- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_19)
+- [[RFC] Changing llvm::Value layout](https://discourse.llvm.org/t/rfc-changing-llvm-value-layout/79257#post_1)
+- [Linalg.generic: issue understanding indexing map semantics](https://discourse.llvm.org/t/linalg-generic-issue-understanding-indexing-map-semantics/79256#post_1)
+- [New clang::driver::ToolChain acceptance criteria](https://discourse.llvm.org/t/new-clang-toolchain-acceptance-criteria/79233#post_5)
+- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_4)
 <!-- DISCOURSE-LLVM:END -->
