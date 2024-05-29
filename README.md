@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Targetting Tricore in LLVM toolchain](https://discourse.llvm.org/t/targetting-tricore-in-llvm-toolchain/56885#post_8)
-- [How to implement a clangMatcher that can idenitfy enums, const decls in a codebase with absolute includes like LLVM?](https://discourse.llvm.org/t/how-to-implement-a-clangmatcher-that-can-idenitfy-enums-const-decls-in-a-codebase-with-absolute-includes-like-llvm/79246#post_1)
-- [What does it mean for getelementptr to decompose?](https://discourse.llvm.org/t/what-does-it-mean-for-getelementptr-to-decompose/79231#post_3)
-- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_1)
-- [[RFC] Add operandIndex to sideffect instance](https://discourse.llvm.org/t/rfc-add-operandindex-to-sideffect-instance/79243#post_1)
+- [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_7)
+- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_16)
+- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984?page=2#post_28)
+- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_3)
+- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_2)
 <!-- DISCOURSE-LLVM:END -->
