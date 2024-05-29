@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_57)
 - [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_56)
 - [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_55)
 - [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_6)
 - [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_5)
-- [.debug_info is not updated by LLD when .debug_str sections are merged](https://discourse.llvm.org/t/debug-info-is-not-updated-by-lld-when-debug-str-sections-are-merged/75785#post_2)
 <!-- DISCOURSE-LLVM:END -->
