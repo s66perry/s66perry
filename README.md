@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_7)
-- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_16)
-- [[ClangIR] Compile GPU kernels using ClangIR](https://discourse.llvm.org/t/clangir-compile-gpu-kernels-using-clangir/76984?page=2#post_28)
-- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_3)
-- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_2)
+- [Disable flang from pre-commit tests when Flang files are not touched](https://discourse.llvm.org/t/disable-flang-from-pre-commit-tests-when-flang-files-are-not-touched/79251#post_1)
+- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_17)
+- [&quot;RFC: Supporting In-Tree Headers for Libc++ Development&quot;](https://discourse.llvm.org/t/rfc-supporting-in-tree-headers-for-libc-development/79196#post_12)
+- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_5)
+- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_4)
 <!-- DISCOURSE-LLVM:END -->
