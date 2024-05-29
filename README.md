@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Disable flang from pre-commit tests when Flang files are not touched](https://discourse.llvm.org/t/disable-flang-from-pre-commit-tests-when-flang-files-are-not-touched/79251#post_1)
-- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_17)
-- [&quot;RFC: Supporting In-Tree Headers for Libc++ Development&quot;](https://discourse.llvm.org/t/rfc-supporting-in-tree-headers-for-libc-development/79196#post_12)
-- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_5)
-- [Looking for help with accessing LangOpts from the actual compiler invocation](https://discourse.llvm.org/t/looking-for-help-with-accessing-langopts-from-the-actual-compiler-invocation/79228#post_4)
+- [Disable flang from pre-commit tests when Flang files are not touched](https://discourse.llvm.org/t/disable-flang-from-pre-commit-tests-when-flang-files-are-not-touched/79251#post_3)
+- [Disable flang from pre-commit tests when Flang files are not touched](https://discourse.llvm.org/t/disable-flang-from-pre-commit-tests-when-flang-files-are-not-touched/79251#post_2)
+- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_2)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=4#post_70)
+- [LLVM/clag 18.1.6: error: conflicting types for &#39;_mm_clflush&#39; in emmintrin.h](https://discourse.llvm.org/t/llvm-clag-18-1-6-error-conflicting-types-for-mm-clflush-in-emmintrin-h/79254#post_1)
 <!-- DISCOURSE-LLVM:END -->
