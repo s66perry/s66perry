@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD and layout convergence](https://discourse.llvm.org/t/lld-and-layout-convergence/79232#post_6)
+- [LLD and layout convergence](https://discourse.llvm.org/t/lld-and-layout-convergence/79232#post_5)
+- [LLD and layout convergence](https://discourse.llvm.org/t/lld-and-layout-convergence/79232#post_4)
 - [Do we have PDL interpreter?](https://discourse.llvm.org/t/do-we-have-pdl-interpreter/79255#post_5)
 - [Do we have PDL interpreter?](https://discourse.llvm.org/t/do-we-have-pdl-interpreter/79255#post_4)
-- [Do we have PDL interpreter?](https://discourse.llvm.org/t/do-we-have-pdl-interpreter/79255#post_3)
-- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_8)
-- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_7)
 <!-- DISCOURSE-LLVM:END -->
