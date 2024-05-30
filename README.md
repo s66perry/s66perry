@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [New clang::driver::ToolChain acceptance criteria](https://discourse.llvm.org/t/new-clang-toolchain-acceptance-criteria/79233#post_6)
+- [LLD and layout convergence](https://discourse.llvm.org/t/lld-and-layout-convergence/79232#post_3)
+- [Do we have PDL interpreter?](https://discourse.llvm.org/t/do-we-have-pdl-interpreter/79255#post_2)
 - [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_20)
 - [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059#post_19)
-- [[RFC] Changing llvm::Value layout](https://discourse.llvm.org/t/rfc-changing-llvm-value-layout/79257#post_1)
-- [Linalg.generic: issue understanding indexing map semantics](https://discourse.llvm.org/t/linalg-generic-issue-understanding-indexing-map-semantics/79256#post_1)
-- [New clang::driver::ToolChain acceptance criteria](https://discourse.llvm.org/t/new-clang-toolchain-acceptance-criteria/79233#post_5)
 <!-- DISCOURSE-LLVM:END -->
