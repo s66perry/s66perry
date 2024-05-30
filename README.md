@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_5)
+- [Linalg.generic: issue understanding indexing map semantics](https://discourse.llvm.org/t/linalg-generic-issue-understanding-indexing-map-semantics/79256#post_2)
+- [[RFC] Changing llvm::Value layout](https://discourse.llvm.org/t/rfc-changing-llvm-value-layout/79257#post_10)
+- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_4)
 - [[RFC] Changing llvm::Value layout](https://discourse.llvm.org/t/rfc-changing-llvm-value-layout/79257#post_9)
-- [Removing `reduction` from allowed clauses for `target` in OMP.td](https://discourse.llvm.org/t/removing-reduction-from-allowed-clauses-for-target-in-omp-td/78881#post_7)
-- [[LLVM] LTO optimized variable symbols yield strange suffixes](https://discourse.llvm.org/t/llvm-lto-optimized-variable-symbols-yield-strange-suffixes/79270#post_1)
-- [[RFC] Changing llvm::Value layout](https://discourse.llvm.org/t/rfc-changing-llvm-value-layout/79257#post_8)
-- [How do I make clang choose the right memcpy for my arm target?](https://discourse.llvm.org/t/how-do-i-make-clang-choose-the-right-memcpy-for-my-arm-target/79268#post_1)
 <!-- DISCOURSE-LLVM:END -->
