@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_11)
-- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_10)
-- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_47)
-- [[MLIR][GPU] calling `gpu.func` that is not a kernel &lpar;a.k.a. device function&rpar;](https://discourse.llvm.org/t/mlir-gpu-calling-gpu-func-that-is-not-a-kernel-a-k-a-device-function/79285#post_3)
-- [MC/DC instrumentation and Werror](https://discourse.llvm.org/t/mc-dc-instrumentation-and-werror/79291#post_1)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_5)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_4)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_3)
+- [New clang::driver::ToolChain acceptance criteria](https://discourse.llvm.org/t/new-clang-toolchain-acceptance-criteria/79233#post_7)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_2)
 <!-- DISCOURSE-LLVM:END -->
