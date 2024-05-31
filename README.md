@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Debug map object file changed - not loading debug info](https://discourse.llvm.org/t/debug-map-object-file-changed-not-loading-debug-info/79303#post_1)
-- [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_2)
-- [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_1)
-- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_23)
-- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_22)
+- [[LLVM IR] Basic Block reordering in LLVM IR](https://discourse.llvm.org/t/llvm-ir-basic-block-reordering-in-llvm-ir/79298#post_4)
+- [MLIR C/C++ Frontend Working Group [Mon, Jun 3rd]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jun-3rd/79171#post_2)
+- [[LLVM IR] Basic Block reordering in LLVM IR](https://discourse.llvm.org/t/llvm-ir-basic-block-reordering-in-llvm-ir/79298#post_3)
+- [Commit access required for pushing to users/?](https://discourse.llvm.org/t/commit-access-required-for-pushing-to-users/79305#post_2)
+- [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_4)
 <!-- DISCOURSE-LLVM:END -->
