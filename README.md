@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISC V RVV fine-grained LMUL settings](https://discourse.llvm.org/t/risc-v-rvv-fine-grained-lmul-settings/79282#post_2)
-- [Which pass inserts vector instruction &lpar;RVV&rpar; for memory move/copy operations?](https://discourse.llvm.org/t/which-pass-inserts-vector-instruction-rvv-for-memory-move-copy-operations/79281#post_2)
-- [[MLIR][GPU] calling `gpu.func` that is not a kernel &lpar;a.k.a. device function&rpar;](https://discourse.llvm.org/t/mlir-gpu-calling-gpu-func-that-is-not-a-kernel-a-k-a-device-function/79285#post_2)
-- [Compile compiler-rt for riscv with dedicated library name](https://discourse.llvm.org/t/compile-compiler-rt-for-riscv-with-dedicated-library-name/79280#post_4)
-- [Spaces in path with lit tests](https://discourse.llvm.org/t/spaces-in-path-with-lit-tests/79283#post_4)
+- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_11)
+- [[RFC] Rationale for Flang AliasAnalysis pointer component logic](https://discourse.llvm.org/t/rfc-rationale-for-flang-aliasanalysis-pointer-component-logic/79252#post_10)
+- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_47)
+- [[MLIR][GPU] calling `gpu.func` that is not a kernel &lpar;a.k.a. device function&rpar;](https://discourse.llvm.org/t/mlir-gpu-calling-gpu-func-that-is-not-a-kernel-a-k-a-device-function/79285#post_3)
+- [MC/DC instrumentation and Werror](https://discourse.llvm.org/t/mc-dc-instrumentation-and-werror/79291#post_1)
 <!-- DISCOURSE-LLVM:END -->
