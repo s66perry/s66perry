@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_4)
 - [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_3)
 - [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_2)
 - [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_1)
 - [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_6)
-- [Not loading debug info. Debug map object file changed](https://discourse.llvm.org/t/not-loading-debug-info-debug-map-object-file-changed/79316#post_1)
 <!-- DISCOURSE-LLVM:END -->
