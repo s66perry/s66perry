@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLVM] LTO optimized variable symbols yield strange suffixes](https://discourse.llvm.org/t/llvm-lto-optimized-variable-symbols-yield-strange-suffixes/79270#post_3)
+- [Adding LLVM backend for RISC-V custom tensor instructions](https://discourse.llvm.org/t/adding-llvm-backend-for-risc-v-custom-tensor-instructions/79312#post_1)
+- [LLVM 18.1.7 Release](https://discourse.llvm.org/t/llvm-18-1-7-release/79311#post_1)
 - [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_51)
 - [Undefined reference to `joy::JoyDialect::JoyDialect&lpar;mlir::MLIRContext*&rpar;&#39;](https://discourse.llvm.org/t/undefined-reference-to-joy-joydialect-mlir-mlircontext/79309#post_1)
-- [Compiler Deep optimization](https://discourse.llvm.org/t/compiler-deep-optimization/79304#post_4)
-- [[LLVM IR] Basic Block reordering in LLVM IR](https://discourse.llvm.org/t/llvm-ir-basic-block-reordering-in-llvm-ir/79298#post_5)
-- [Compiler Deep optimization](https://discourse.llvm.org/t/compiler-deep-optimization/79304#post_3)
 <!-- DISCOURSE-LLVM:END -->
