@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MC/DC instrumentation and Werror](https://discourse.llvm.org/t/mc-dc-instrumentation-and-werror/79291#post_4)
 - [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_7)
 - [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_50)
 - [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_6)
 - [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_5)
-- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_49)
 <!-- DISCOURSE-LLVM:END -->
