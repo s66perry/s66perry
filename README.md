@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Undefined reference to `joy::JoyDialect::JoyDialect&lpar;mlir::MLIRContext*&rpar;&#39;](https://discourse.llvm.org/t/undefined-reference-to-joy-joydialect-mlir-mlircontext/79309#post_2)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_9)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_8)
 - [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_4)
 - [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_3)
-- [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_2)
-- [Build LLD on Windows 10 using ninja+llvm 18.1.6 + cmake](https://discourse.llvm.org/t/build-lld-on-windows-10-using-ninja-llvm-18-1-6-cmake/79318#post_1)
-- [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_6)
 <!-- DISCOURSE-LLVM:END -->
