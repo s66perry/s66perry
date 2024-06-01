@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM IR] Basic Block reordering in LLVM IR](https://discourse.llvm.org/t/llvm-ir-basic-block-reordering-in-llvm-ir/79298#post_4)
-- [MLIR C/C++ Frontend Working Group [Mon, Jun 3rd]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jun-3rd/79171#post_2)
-- [[LLVM IR] Basic Block reordering in LLVM IR](https://discourse.llvm.org/t/llvm-ir-basic-block-reordering-in-llvm-ir/79298#post_3)
-- [Commit access required for pushing to users/?](https://discourse.llvm.org/t/commit-access-required-for-pushing-to-users/79305#post_2)
-- [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_4)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_7)
+- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_50)
+- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_6)
+- [[RFC]: A polynomial approximation pass](https://discourse.llvm.org/t/rfc-a-polynomial-approximation-pass/79301#post_5)
+- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_49)
 <!-- DISCOURSE-LLVM:END -->
