@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_52)
-- [Spaces in path with lit tests](https://discourse.llvm.org/t/spaces-in-path-with-lit-tests/79283#post_6)
-- [AArch64 LLVM Sync-up Call 4 June 2024](https://discourse.llvm.org/t/aarch64-llvm-sync-up-call-4-june-2024/79337#post_1)
-- [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092#post_17)
-- [[RFC] Move check for interface registration at the `dyn_cast` call site](https://discourse.llvm.org/t/rfc-move-check-for-interface-registration-at-the-dyn-cast-call-site/79290#post_13)
+- [Setting -mcpu=cortex-a9 -mfpu=neon for ARM target does not make clang pick memcpy optimized for the co-processor](https://discourse.llvm.org/t/setting-mcpu-cortex-a9-mfpu-neon-for-arm-target-does-not-make-clang-pick-memcpy-optimized-for-the-co-processor/79336#post_2)
+- [[RFC] Add operandIndex to sideeffect instance](https://discourse.llvm.org/t/rfc-add-operandindex-to-sideeffect-instance/79243#post_3)
+- [[RFC] Add operandIndex to sideeffect instance](https://discourse.llvm.org/t/rfc-add-operandindex-to-sideeffect-instance/79243#post_2)
+- [Runtime support for std::is_debugger_present&lpar;&rpar;](https://discourse.llvm.org/t/runtime-support-for-std-is-debugger-present/79338#post_1)
+- [Compile compiler-rt for riscv with dedicated library name](https://discourse.llvm.org/t/compile-compiler-rt-for-riscv-with-dedicated-library-name/79280#post_6)
 <!-- DISCOURSE-LLVM:END -->
