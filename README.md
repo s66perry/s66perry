@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to pass cmake flags to multi stage clang builds](https://discourse.llvm.org/t/how-to-pass-cmake-flags-to-multi-stage-clang-builds/79262#post_3)
+- [RFC: Calling functions if pragma FENV_ROUND is present](https://discourse.llvm.org/t/rfc-calling-functions-if-pragma-fenv-round-is-present/79372#post_1)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_116)
 - [Glue for conditional instructions](https://discourse.llvm.org/t/glue-for-conditional-instructions/79356#post_2)
 - [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059?page=2#post_23)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_115)
-- [Dialect Conversion fails if some requires recursive application](https://discourse.llvm.org/t/dialect-conversion-fails-if-some-requires-recursive-application/79371#post_1)
-- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_4)
 <!-- DISCOURSE-LLVM:END -->
