@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_119)
-- [Why does llvm-lit use bash?](https://discourse.llvm.org/t/why-does-llvm-lit-use-bash/79387#post_2)
-- [Llvm beginner needs your help](https://discourse.llvm.org/t/llvm-beginner-needs-your-help/79382#post_5)
-- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_12)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_2)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=4#post_61)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_120)
+- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_8)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=3#post_60)
+- [Clang + lld apparently can&#39;t find cross compile libraries](https://discourse.llvm.org/t/clang-lld-apparently-cant-find-cross-compile-libraries/79389#post_3)
 <!-- DISCOURSE-LLVM:END -->
