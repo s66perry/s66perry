@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=4#post_61)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_120)
-- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_8)
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=3#post_60)
-- [Clang + lld apparently can&#39;t find cross compile libraries](https://discourse.llvm.org/t/clang-lld-apparently-cant-find-cross-compile-libraries/79389#post_3)
+- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_3)
+- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_2)
+- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_1)
+- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_2)
+- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_1)
 <!-- DISCOURSE-LLVM:END -->
