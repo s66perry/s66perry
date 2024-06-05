@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_10)
+- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_9)
+- [[RFC] Supporting WCH/QingKe &quot;XW&quot; compressed opcodes](https://discourse.llvm.org/t/rfc-supporting-wch-qingke-xw-compressed-opcodes/79392#post_1)
+- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=3#post_59)
 - [About the dataflow analysis and IntegerRangeAnalysis, how to get the precise the maximum of a Integer Value](https://discourse.llvm.org/t/about-the-dataflow-analysis-and-integerrangeanalysis-how-to-get-the-precise-the-maximum-of-a-integer-value/79205#post_4)
-- [Dialect Conversion fails if some requires recursive application](https://discourse.llvm.org/t/dialect-conversion-fails-if-some-requires-recursive-application/79371#post_2)
-- [Clang + lld apparently can&#39;t find cross compile libraries](https://discourse.llvm.org/t/clang-lld-apparently-cant-find-cross-compile-libraries/79389#post_2)
-- [Clang + lld apparently can&#39;t find cross compile libraries](https://discourse.llvm.org/t/clang-lld-apparently-cant-find-cross-compile-libraries/79389#post_1)
-- [Why does llvm-lit use bash?](https://discourse.llvm.org/t/why-does-llvm-lit-use-bash/79387#post_1)
 <!-- DISCOURSE-LLVM:END -->
