@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_6)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_117)
-- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_11)
-- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_5)
-- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_10)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=6#post_119)
+- [Why does llvm-lit use bash?](https://discourse.llvm.org/t/why-does-llvm-lit-use-bash/79387#post_2)
+- [Llvm beginner needs your help](https://discourse.llvm.org/t/llvm-beginner-needs-your-help/79382#post_5)
+- [[RFC] What are the blockers to turning on GVNSink by default?](https://discourse.llvm.org/t/rfc-what-are-the-blockers-to-turning-on-gvnsink-by-default/72326#post_12)
+- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_2)
 <!-- DISCOURSE-LLVM:END -->
