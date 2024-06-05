@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Calling functions if pragma FENV_ROUND is present](https://discourse.llvm.org/t/rfc-calling-functions-if-pragma-fenv-round-is-present/79372#post_2)
+- [End of support for 64 bit big endian linux on powerpc](https://discourse.llvm.org/t/end-of-support-for-64-bit-big-endian-linux-on-powerpc/77164#post_5)
+- [CANCELLED RISC-V LLVM sync-up call June 6th 2024](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-june-6th-2024/79400#post_1)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=4#post_72)
 - [Why does llvm-lit use bash?](https://discourse.llvm.org/t/why-does-llvm-lit-use-bash/79387#post_4)
-- [Clang + lld apparently can&#39;t find cross compile libraries](https://discourse.llvm.org/t/clang-lld-apparently-cant-find-cross-compile-libraries/79389#post_4)
-- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_3)
-- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_2)
-- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_1)
 <!-- DISCOURSE-LLVM:END -->
