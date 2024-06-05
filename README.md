@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to pass cmake flags to multi stage clang builds](https://discourse.llvm.org/t/how-to-pass-cmake-flags-to-multi-stage-clang-builds/79262#post_6)
+- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_1)
+- [Ideas on improving Pre-commit buildbot output on the Buildkite page](https://discourse.llvm.org/t/ideas-on-improving-pre-commit-buildbot-output-on-the-buildkite-page/79377#post_1)
+- [How to pass cmake flags to multi stage clang builds](https://discourse.llvm.org/t/how-to-pass-cmake-flags-to-multi-stage-clang-builds/79262#post_5)
 - [`nvvm.mbarrier.try_wait` behaviour](https://discourse.llvm.org/t/nvvm-mbarrier-try-wait-behaviour/79374#post_1)
-- [How to pass cmake flags to multi stage clang builds](https://discourse.llvm.org/t/how-to-pass-cmake-flags-to-multi-stage-clang-builds/79262#post_4)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_18)
-- [Adding LLVM backend for RISC-V custom tensor instructions](https://discourse.llvm.org/t/adding-llvm-backend-for-risc-v-custom-tensor-instructions/79312#post_5)
-- [Adding LLVM backend for RISC-V custom tensor instructions](https://discourse.llvm.org/t/adding-llvm-backend-for-risc-v-custom-tensor-instructions/79312#post_4)
 <!-- DISCOURSE-LLVM:END -->
