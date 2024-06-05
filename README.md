@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Erich&#39;s Summer Leave- June-&gt;September](https://discourse.llvm.org/t/erichs-summer-leave-june-september/79123#post_4)
-- [Erich&#39;s Summer Leave- June-&gt;September](https://discourse.llvm.org/t/erichs-summer-leave-june-september/79123#post_3)
-- [Replacing large dense attributes &lpar;weights of DNNs&rpar; with binary file paths](https://discourse.llvm.org/t/replacing-large-dense-attributes-weights-of-dnns-with-binary-file-paths/75743#post_3)
-- [RFC: Calling functions if pragma FENV_ROUND is present](https://discourse.llvm.org/t/rfc-calling-functions-if-pragma-fenv-round-is-present/79372#post_2)
-- [End of support for 64 bit big endian linux on powerpc](https://discourse.llvm.org/t/end-of-support-for-64-bit-big-endian-linux-on-powerpc/77164#post_5)
+- [Out of tree LLVM automatic pass injection at CodeGen with New Pass Manager](https://discourse.llvm.org/t/out-of-tree-llvm-automatic-pass-injection-at-codegen-with-new-pass-manager/79395#post_5)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_82)
+- [Out of tree LLVM automatic pass injection at CodeGen with New Pass Manager](https://discourse.llvm.org/t/out-of-tree-llvm-automatic-pass-injection-at-codegen-with-new-pass-manager/79395#post_4)
+- [Out of tree LLVM automatic pass injection at CodeGen with New Pass Manager](https://discourse.llvm.org/t/out-of-tree-llvm-automatic-pass-injection-at-codegen-with-new-pass-manager/79395#post_3)
+- [Out of tree LLVM automatic pass injection at CodeGen with New Pass Manager](https://discourse.llvm.org/t/out-of-tree-llvm-automatic-pass-injection-at-codegen-with-new-pass-manager/79395#post_2)
 <!-- DISCOURSE-LLVM:END -->
