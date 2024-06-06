@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [unable to launch a GDB server on &#39;localhost&#39;](https://discourse.llvm.org/t/unable-to-launch-a-gdb-server-on-localhost/79418#post_1)
+- [Setting -mcpu=cortex-a9 -mfpu=neon for ARM target does not make clang pick memcpy optimized for the co-processor](https://discourse.llvm.org/t/setting-mcpu-cortex-a9-mfpu-neon-for-arm-target-does-not-make-clang-pick-memcpy-optimized-for-the-co-processor/79336#post_9)
+- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_14)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_83)
 - [Dialect Conversion fails if some requires recursive application](https://discourse.llvm.org/t/dialect-conversion-fails-if-some-requires-recursive-application/79371#post_7)
-- [[RFC] Implement `Fortran::evaluate::ExplicitAdd` to find operations written in source codes](https://discourse.llvm.org/t/rfc-implement-fortran-explicitadd-to-find-operations-written-in-source-codes/79416#post_1)
-- [Dialect Conversion fails if some requires recursive application](https://discourse.llvm.org/t/dialect-conversion-fails-if-some-requires-recursive-application/79371#post_6)
-- [Are there plans to execute and host the scan-build/scan-view reports?](https://discourse.llvm.org/t/are-there-plans-to-execute-and-host-the-scan-build-scan-view-reports/79415#post_1)
-- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_5)
 <!-- DISCOURSE-LLVM:END -->
