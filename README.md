@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=4#post_63)
-- [Failing to compile LLVM on Windows with clang](https://discourse.llvm.org/t/failing-to-compile-llvm-on-windows-with-clang/79422#post_3)
-- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936#post_20)
-- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_18)
-- [unable to launch a GDB server on &#39;localhost&#39;](https://discourse.llvm.org/t/unable-to-launch-a-gdb-server-on-localhost/79418#post_5)
+- [How to merge same symbol in .rodata section by lld linker](https://discourse.llvm.org/t/how-to-merge-same-symbol-in-rodata-section-by-lld-linker/79420#post_3)
+- [Failing to compile LLVM on Windows with clang](https://discourse.llvm.org/t/failing-to-compile-llvm-on-windows-with-clang/79422#post_6)
+- [Failing to compile LLVM on Windows with clang](https://discourse.llvm.org/t/failing-to-compile-llvm-on-windows-with-clang/79422#post_5)
+- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355#post_19)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_121)
 <!-- DISCOURSE-LLVM:END -->
