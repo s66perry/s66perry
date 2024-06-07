@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to understand branch relaxations](https://discourse.llvm.org/t/trying-to-understand-branch-relaxations/79442#post_10)
+- [[RFC] Should the OCP microscaling float scalars be added to APFloat and FloatType?](https://discourse.llvm.org/t/rfc-should-the-ocp-microscaling-float-scalars-be-added-to-apfloat-and-floattype/77530#post_8)
+- [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434#post_2)
 - [How to know my patch is really affect for real world&lpar;=benchmark&rpar;?](https://discourse.llvm.org/t/how-to-know-my-patch-is-really-affect-for-real-world-benchmark/79448#post_1)
 - [How to know my patch was properly passed in test-suite?](https://discourse.llvm.org/t/how-to-know-my-patch-was-properly-passed-in-test-suite/79447#post_1)
-- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_5)
-- [Failing to compile LLVM on Windows with clang](https://discourse.llvm.org/t/failing-to-compile-llvm-on-windows-with-clang/79422#post_14)
-- [[test-suite] How to have separate reference file for stdout and stderr?](https://discourse.llvm.org/t/test-suite-how-to-have-separate-reference-file-for-stdout-and-stderr/79446#post_1)
 <!-- DISCOURSE-LLVM:END -->
