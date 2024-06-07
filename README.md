@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_8)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_7)
-- [Failing to compile LLVM on Windows with clang](https://discourse.llvm.org/t/failing-to-compile-llvm-on-windows-with-clang/79422#post_10)
-- [Clang + lld apparently can&#39;t find cross compile libraries](https://discourse.llvm.org/t/clang-lld-apparently-cant-find-cross-compile-libraries/79389#post_6)
-- [Failing to compile LLVM on Windows with clang](https://discourse.llvm.org/t/failing-to-compile-llvm-on-windows-with-clang/79422#post_9)
+- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_9)
+- [Merge relocation sections with linker script in lld](https://discourse.llvm.org/t/merge-relocation-sections-with-linker-script-in-lld/70936?page=2#post_21)
+- [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434#post_1)
+- [18.1.7 Released!](https://discourse.llvm.org/t/18-1-7-released/79433#post_1)
+- [18.1.7 has been tagged](https://discourse.llvm.org/t/18-1-7-has-been-tagged/79432#post_1)
 <!-- DISCOURSE-LLVM:END -->
