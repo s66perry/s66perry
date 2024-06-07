@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve binary security](https://discourse.llvm.org/t/rfc-improve-binary-security/78121?page=4#post_64)
-- [18.1.7 has been tagged](https://discourse.llvm.org/t/18-1-7-has-been-tagged/79432#post_2)
-- [LLVM Clang compilation of C, C++, and Objective-C fails with the error:&#39;No known class method for selector &#39;stringWithCString:encoding:&#39;](https://discourse.llvm.org/t/llvm-clang-compilation-of-c-c-and-objective-c-fails-with-the-error-no-known-class-method-for-selector-stringwithcstring/79444#post_1)
-- [Trying to understand branch relaxations](https://discourse.llvm.org/t/trying-to-understand-branch-relaxations/79442#post_5)
-- [Generate load instruct fail in lld lto](https://discourse.llvm.org/t/generate-load-instruct-fail-in-lld-lto/79443#post_1)
+- [[test-suite] How to have separate reference file for stdout and stderr?](https://discourse.llvm.org/t/test-suite-how-to-have-separate-reference-file-for-stdout-and-stderr/79446#post_1)
+- [Trying to understand branch relaxations](https://discourse.llvm.org/t/trying-to-understand-branch-relaxations/79442#post_9)
+- [Clang + lld apparently can&#39;t find cross compile libraries](https://discourse.llvm.org/t/clang-lld-apparently-cant-find-cross-compile-libraries/79389#post_7)
+- [Trying to understand branch relaxations](https://discourse.llvm.org/t/trying-to-understand-branch-relaxations/79442#post_8)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_90)
 <!-- DISCOURSE-LLVM:END -->
