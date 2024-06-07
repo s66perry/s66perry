@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_4)
+- [How to build compiler-rt with -march and -mabi](https://discourse.llvm.org/t/how-to-build-compiler-rt-with-march-and-mabi/79439#post_3)
+- [How to build compiler-rt with -march and -mabi](https://discourse.llvm.org/t/how-to-build-compiler-rt-with-march-and-mabi/79439#post_2)
+- [How to pass cmake flags to multi stage clang builds](https://discourse.llvm.org/t/how-to-pass-cmake-flags-to-multi-stage-clang-builds/79262#post_8)
 - [How to build compiler-rt with -march and -mabi](https://discourse.llvm.org/t/how-to-build-compiler-rt-with-march-and-mabi/79439#post_1)
-- [Which stage will promote the slot in Mem2Reg?](https://discourse.llvm.org/t/which-stage-will-promote-the-slot-in-mem2reg/79153#post_2)
-- [Out of tree LLVM automatic pass injection at CodeGen with New Pass Manager](https://discourse.llvm.org/t/out-of-tree-llvm-automatic-pass-injection-at-codegen-with-new-pass-manager/79395#post_8)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_10)
-- [Need a help with the built-bots](https://discourse.llvm.org/t/need-a-help-with-the-built-bots/79437#post_1)
 <!-- DISCOURSE-LLVM:END -->
