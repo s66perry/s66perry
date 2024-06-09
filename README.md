@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_92)
-- [How to correctly traverse nesting IR and obtain the attributes?](https://discourse.llvm.org/t/how-to-correctly-traverse-nesting-ir-and-obtain-the-attributes/79461#post_7)
-- [llvm::orc::LLJITBuilder&lpar;&rpar;.create&lpar;&rpar; fails on Windows in GitHub Actions](https://discourse.llvm.org/t/llvm-lljitbuilder-create-fails-on-windows-in-github-actions/79472#post_1)
-- [Llc is extremely slow to process 62 line file, why?](https://discourse.llvm.org/t/llc-is-extremely-slow-to-process-62-line-file-why/79468#post_4)
-- [Llc is extremely slow to process 62 line file, why?](https://discourse.llvm.org/t/llc-is-extremely-slow-to-process-62-line-file-why/79468#post_3)
+- [Llc is extremely slow to process 62 line file, why?](https://discourse.llvm.org/t/llc-is-extremely-slow-to-process-62-line-file-why/79468#post_8)
+- [Llc is extremely slow to process 62 line file, why?](https://discourse.llvm.org/t/llc-is-extremely-slow-to-process-62-line-file-why/79468#post_7)
+- [Llc is extremely slow to process 62 line file, why?](https://discourse.llvm.org/t/llc-is-extremely-slow-to-process-62-line-file-why/79468#post_6)
+- [Compiler Deep optimization](https://discourse.llvm.org/t/compiler-deep-optimization/79304#post_5)
+- [Llc is extremely slow to process 62 line file, why?](https://discourse.llvm.org/t/llc-is-extremely-slow-to-process-62-line-file-why/79468#post_5)
 <!-- DISCOURSE-LLVM:END -->
