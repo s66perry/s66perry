@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_4)
-- [Polymer-opt Flag Issues: Unable to Use --parallelize and --dump-clast-after-pluto](https://discourse.llvm.org/t/polymer-opt-flag-issues-unable-to-use-parallelize-and-dump-clast-after-pluto/79530#post_4)
-- [Bufferization with ControlFlow Asserts](https://discourse.llvm.org/t/bufferization-with-controlflow-asserts/79534#post_2)
-- [18.1.7 has been tagged](https://discourse.llvm.org/t/18-1-7-has-been-tagged/79432#post_5)
-- [How to parse AST of C/C++ program having OpenACC pragma directives using clang and its Python bindings?](https://discourse.llvm.org/t/how-to-parse-ast-of-c-c-program-having-openacc-pragma-directives-using-clang-and-its-python-bindings/79535#post_1)
+- [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_5)
+- [Bufferization with ControlFlow Asserts](https://discourse.llvm.org/t/bufferization-with-controlflow-asserts/79534#post_3)
+- [[RFC] Avoid inlining alwaysinline functions when they cannot be inlined](https://discourse.llvm.org/t/rfc-avoid-inlining-alwaysinline-functions-when-they-cannot-be-inlined/79528#post_3)
+- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059?page=2#post_25)
+- [[RFC] Avoid inlining alwaysinline functions when they cannot be inlined](https://discourse.llvm.org/t/rfc-avoid-inlining-alwaysinline-functions-when-they-cannot-be-inlined/79528#post_2)
 <!-- DISCOURSE-LLVM:END -->
