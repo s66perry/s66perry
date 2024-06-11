@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Opt: unknown pass name &#39;hello&#39;!](https://discourse.llvm.org/t/opt-unknown-pass-name-hello/79509#post_2)
-- [How do I get everything setup correctly with CMake?](https://discourse.llvm.org/t/how-do-i-get-everything-setup-correctly-with-cmake/79484#post_6)
-- [RFC: Introducing an llvm.memset_pattern.inline intrinsic](https://discourse.llvm.org/t/rfc-introducing-an-llvm-memset-pattern-inline-intrinsic/79496#post_3)
-- [How do I get everything setup correctly with CMake?](https://discourse.llvm.org/t/how-do-i-get-everything-setup-correctly-with-cmake/79484#post_5)
-- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355?page=2#post_27)
+- [[MC] Removing aligned bundling support](https://discourse.llvm.org/t/mc-removing-aligned-bundling-support/79518#post_1)
+- [*.h.inc files are not built when building MLIR](https://discourse.llvm.org/t/h-inc-files-are-not-built-when-building-mlir/79494#post_12)
+- [RFC: Introducing an llvm.memset_pattern.inline intrinsic](https://discourse.llvm.org/t/rfc-introducing-an-llvm-memset-pattern-inline-intrinsic/79496#post_4)
+- [Opt: unknown pass name &#39;hello&#39;](https://discourse.llvm.org/t/opt-unknown-pass-name-hello/78511#post_6)
+- [Compiling CIRCT with standard LLVM and MLIR packages](https://discourse.llvm.org/t/compiling-circt-with-standard-llvm-and-mlir-packages/79516#post_1)
 <!-- DISCOURSE-LLVM:END -->
