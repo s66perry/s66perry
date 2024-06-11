@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to parse AST of C/C++ program having OpenACC pragma directives using clang and its Python bindings?](https://discourse.llvm.org/t/how-to-parse-ast-of-c-c-program-having-openacc-pragma-directives-using-clang-and-its-python-bindings/79535#post_1)
 - [How do I get everything setup correctly with CMake?](https://discourse.llvm.org/t/how-do-i-get-everything-setup-correctly-with-cmake/79484#post_12)
 - [[RFC] Supporting WCH/QingKe &quot;XW&quot; compressed opcodes](https://discourse.llvm.org/t/rfc-supporting-wch-qingke-xw-compressed-opcodes/79392#post_6)
 - [Polymer-opt Flag Issues: Unable to Use --parallelize and --dump-clast-after-pluto](https://discourse.llvm.org/t/polymer-opt-flag-issues-unable-to-use-parallelize-and-dump-clast-after-pluto/79530#post_3)
 - [[RFC] Supporting WCH/QingKe &quot;XW&quot; compressed opcodes](https://discourse.llvm.org/t/rfc-supporting-wch-qingke-xw-compressed-opcodes/79392#post_5)
-- [Polymer-opt Flag Issues: Unable to Use --parallelize and --dump-clast-after-pluto](https://discourse.llvm.org/t/polymer-opt-flag-issues-unable-to-use-parallelize-and-dump-clast-after-pluto/79530#post_2)
 <!-- DISCOURSE-LLVM:END -->
