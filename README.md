@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_5)
-- [Bufferization with ControlFlow Asserts](https://discourse.llvm.org/t/bufferization-with-controlflow-asserts/79534#post_3)
-- [[RFC] Avoid inlining alwaysinline functions when they cannot be inlined](https://discourse.llvm.org/t/rfc-avoid-inlining-alwaysinline-functions-when-they-cannot-be-inlined/79528#post_3)
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059?page=2#post_25)
-- [[RFC] Avoid inlining alwaysinline functions when they cannot be inlined](https://discourse.llvm.org/t/rfc-avoid-inlining-alwaysinline-functions-when-they-cannot-be-inlined/79528#post_2)
+- [Test-suite failed but I can&#39;t find why](https://discourse.llvm.org/t/test-suite-failed-but-i-cant-find-why/79536#post_1)
+- [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_9)
+- [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_8)
+- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378#post_19)
+- [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_7)
 <!-- DISCOURSE-LLVM:END -->
