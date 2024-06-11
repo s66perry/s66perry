@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [18.1.7 has been tagged](https://discourse.llvm.org/t/18-1-7-has-been-tagged/79432#post_3)
-- [[analyzer][RFC] Taming Z3 query times](https://discourse.llvm.org/t/analyzer-rfc-taming-z3-query-times/79520#post_7)
-- [Compiling CIRCT with standard LLVM and MLIR packages](https://discourse.llvm.org/t/compiling-circt-with-standard-llvm-and-mlir-packages/79516#post_3)
-- [Compiling CIRCT with standard LLVM and MLIR packages](https://discourse.llvm.org/t/compiling-circt-with-standard-llvm-and-mlir-packages/79516#post_2)
-- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355?page=2#post_28)
+- [18.1.7 has been tagged](https://discourse.llvm.org/t/18-1-7-has-been-tagged/79432#post_4)
+- [How do I get everything setup correctly with CMake?](https://discourse.llvm.org/t/how-do-i-get-everything-setup-correctly-with-cmake/79484#post_8)
+- [How do I get everything setup correctly with CMake?](https://discourse.llvm.org/t/how-do-i-get-everything-setup-correctly-with-cmake/79484#post_7)
+- [[RFC] Avoid inlining alwaysinline functions when they cannot be inlined](https://discourse.llvm.org/t/rfc-avoid-inlining-alwaysinline-functions-when-they-cannot-be-inlined/79528#post_1)
+- [All the features of &quot;Action&quot; &amp; &quot;Pass instrumentation&quot; are available in MLIR 15 &lpar;i.e. LLVM 15.x.x&rpar;?&rpar;](https://discourse.llvm.org/t/all-the-features-of-action-pass-instrumentation-are-available-in-mlir-15-i-e-llvm-15-x-x/79492#post_4)
 <!-- DISCOURSE-LLVM:END -->
