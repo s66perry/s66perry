@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Easy builder for building IR in C++](https://discourse.llvm.org/t/easy-builder-for-building-ir-in-c/79541#post_2)
+- [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_11)
+- [Easy builder for building IR in C++](https://discourse.llvm.org/t/easy-builder-for-building-ir-in-c/79541#post_1)
+- [Lit windows linux common testsuite](https://discourse.llvm.org/t/lit-windows-linux-common-testsuite/79538#post_4)
 - [Lit windows linux common testsuite](https://discourse.llvm.org/t/lit-windows-linux-common-testsuite/79538#post_3)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=2#post_30)
-- [Peano: LLVM support for AMD/Xilinx AI Engine processors](https://discourse.llvm.org/t/peano-llvm-support-for-amd-xilinx-ai-engine-processors/79458#post_5)
-- [Bufferization with ControlFlow Asserts](https://discourse.llvm.org/t/bufferization-with-controlflow-asserts/79534#post_4)
-- [[RFC] Supporting WCH/QingKe &quot;XW&quot; compressed opcodes](https://discourse.llvm.org/t/rfc-supporting-wch-qingke-xw-compressed-opcodes/79392#post_8)
 <!-- DISCOURSE-LLVM:END -->
