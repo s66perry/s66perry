@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Supporting WCH/QingKe &quot;XW&quot; compressed opcodes](https://discourse.llvm.org/t/rfc-supporting-wch-qingke-xw-compressed-opcodes/79392#post_7)
+- [[MC] Removing aligned bundling support](https://discourse.llvm.org/t/mc-removing-aligned-bundling-support/79518#post_3)
+- [[MC] Removing aligned bundling support](https://discourse.llvm.org/t/mc-removing-aligned-bundling-support/79518#post_2)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=2#post_29)
 - [`DenseI32ArrayAttr` cannot be constructed from `llvm::ArrayRef&lt;uint32_t&gt;`](https://discourse.llvm.org/t/densei32arrayattr-cannot-be-constructed-from-llvm-arrayref-uint32-t/79532#post_10)
-- [Lit windows linux common testsuite](https://discourse.llvm.org/t/lit-windows-linux-common-testsuite/79538#post_2)
-- [Lit windows linux common testsuite](https://discourse.llvm.org/t/lit-windows-linux-common-testsuite/79538#post_1)
-- [Test-suite failed but I can&#39;t find why](https://discourse.llvm.org/t/test-suite-failed-but-i-cant-find-why/79536#post_1)
 <!-- DISCOURSE-LLVM:END -->
