@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_6)
+- [Windows clang -fuse-ld=lld -fsanitize=address does not find libc symbols](https://discourse.llvm.org/t/windows-clang-fuse-ld-lld-fsanitize-address-does-not-find-libc-symbols/79549#post_1)
+- [Lit windows linux common testsuite](https://discourse.llvm.org/t/lit-windows-linux-common-testsuite/79538#post_6)
+- [Using a common config header file](https://discourse.llvm.org/t/using-a-common-config-header-file/79548#post_2)
 - [Using a common config header file](https://discourse.llvm.org/t/using-a-common-config-header-file/79548#post_1)
-- [Seeking Guidance on Resolving Issues with Custom MLIR Frontend and Dialect Registration](https://discourse.llvm.org/t/seeking-guidance-on-resolving-issues-with-custom-mlir-frontend-and-dialect-registration/73347#post_8)
-- [Long wait for Linux presubmit testing](https://discourse.llvm.org/t/long-wait-for-linux-presubmit-testing/79547#post_1)
-- [Stack frame on RISC-V with RVE32 and +save-restore](https://discourse.llvm.org/t/stack-frame-on-risc-v-with-rve32-and-save-restore/79546#post_1)
-- [[RFC] Supporting WCH/QingKe &quot;XW&quot; compressed opcodes](https://discourse.llvm.org/t/rfc-supporting-wch-qingke-xw-compressed-opcodes/79392#post_9)
 <!-- DISCOURSE-LLVM:END -->
