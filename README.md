@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Long wait for Linux presubmit testing](https://discourse.llvm.org/t/long-wait-for-linux-presubmit-testing/79547#post_3)
+- [Use of NewPM C API with pipeline parsing callbacks](https://discourse.llvm.org/t/use-of-newpm-c-api-with-pipeline-parsing-callbacks/79545#post_3)
 - [[RFC] Use of string view literals in LLVM code base](https://discourse.llvm.org/t/rfc-use-of-string-view-literals-in-llvm-code-base/79550#post_5)
 - [[RFC] Use of string view literals in LLVM code base](https://discourse.llvm.org/t/rfc-use-of-string-view-literals-in-llvm-code-base/79550#post_4)
 - [[RFC] Use of string view literals in LLVM code base](https://discourse.llvm.org/t/rfc-use-of-string-view-literals-in-llvm-code-base/79550#post_3)
-- [Use of NewPM C API with pipeline parsing callbacks](https://discourse.llvm.org/t/use-of-newpm-c-api-with-pipeline-parsing-callbacks/79545#post_2)
-- [[RFC] Use of string view literals in LLVM code base](https://discourse.llvm.org/t/rfc-use-of-string-view-literals-in-llvm-code-base/79550#post_2)
 <!-- DISCOURSE-LLVM:END -->
