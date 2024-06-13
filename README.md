@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Make `isTainted&lpar;&rpar;` and complex symbols friends](https://discourse.llvm.org/t/rfc-make-istainted-and-complex-symbols-friends/79570#post_3)
-- [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434#post_20)
-- [[analyzer][RFC] Taming Z3 query times](https://discourse.llvm.org/t/analyzer-rfc-taming-z3-query-times/79520#post_10)
-- [Clang-cl optimization option](https://discourse.llvm.org/t/clang-cl-optimization-option/79554#post_4)
-- [RFC: Introducing an llvm.memset_pattern.inline intrinsic](https://discourse.llvm.org/t/rfc-introducing-an-llvm-memset-pattern-inline-intrinsic/79496#post_8)
+- [[RFC] Use of string view literals in LLVM code base](https://discourse.llvm.org/t/rfc-use-of-string-view-literals-in-llvm-code-base/79550#post_8)
+- [LLVM buildbot will be down for maintenance on June 12, 2024 starting from 7:30 PM PDT](https://discourse.llvm.org/t/llvm-buildbot-will-be-down-for-maintenance-on-june-12-2024-starting-from-7-30-pm-pdt/79560#post_3)
+- [Flow-Computing, Senior LLVM Compiler Backend Engineer &lpar;Finland or Remote/Europe&rpar;](https://discourse.llvm.org/t/flow-computing-senior-llvm-compiler-backend-engineer-finland-or-remote-europe/79584#post_1)
+- [[FP] can we add pure attribute for math library functions default?](https://discourse.llvm.org/t/fp-can-we-add-pure-attribute-for-math-library-functions-default/79459#post_3)
+- [PassManager: What happens if there is no ModuleOp in input MLIR? Just the FuncOp only?](https://discourse.llvm.org/t/passmanager-what-happens-if-there-is-no-moduleop-in-input-mlir-just-the-funcop-only/79579#post_4)
 <!-- DISCOURSE-LLVM:END -->
