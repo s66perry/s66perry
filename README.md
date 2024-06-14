@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Premature return statement inside if statement body](https://discourse.llvm.org/t/premature-return-statement-inside-if-statement-body/79607#post_4)
-- [Premature return statement inside if statement body](https://discourse.llvm.org/t/premature-return-statement-inside-if-statement-body/79607#post_3)
-- [Premature return statement inside if statement body](https://discourse.llvm.org/t/premature-return-statement-inside-if-statement-body/79607#post_2)
-- [Long wait for Linux presubmit testing](https://discourse.llvm.org/t/long-wait-for-linux-presubmit-testing/79547#post_5)
-- [RFC: Calling functions if pragma FENV_ROUND is present](https://discourse.llvm.org/t/rfc-calling-functions-if-pragma-fenv-round-is-present/79372#post_7)
+- [Is there any chance to extend `TilingInterface` to operations in arith, vector dialect?](https://discourse.llvm.org/t/is-there-any-chance-to-extend-tilinginterface-to-operations-in-arith-vector-dialect/79406#post_8)
+- [Premature return statement inside if statement body](https://discourse.llvm.org/t/premature-return-statement-inside-if-statement-body/79607#post_5)
+- [Extending `tileConsumerAndFuseProducer` to handle more patterns](https://discourse.llvm.org/t/extending-tileconsumerandfuseproducer-to-handle-more-patterns/79340#post_8)
+- [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434?page=2#post_21)
+- [[RFC] Extending llvm-mc .loc directive with labeling support](https://discourse.llvm.org/t/rfc-extending-llvm-mc-loc-directive-with-labeling-support/79608#post_1)
 <!-- DISCOURSE-LLVM:END -->
