@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there any chance to extend `TilingInterface` to operations in arith, vector dialect?](https://discourse.llvm.org/t/is-there-any-chance-to-extend-tilinginterface-to-operations-in-arith-vector-dialect/79406#post_8)
-- [Premature return statement inside if statement body](https://discourse.llvm.org/t/premature-return-statement-inside-if-statement-body/79607#post_5)
-- [Extending `tileConsumerAndFuseProducer` to handle more patterns](https://discourse.llvm.org/t/extending-tileconsumerandfuseproducer-to-handle-more-patterns/79340#post_8)
-- [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434?page=2#post_21)
-- [[RFC] Extending llvm-mc .loc directive with labeling support](https://discourse.llvm.org/t/rfc-extending-llvm-mc-loc-directive-with-labeling-support/79608#post_1)
+- [[RFC] Extending llvm-mc .loc directive with labeling support](https://discourse.llvm.org/t/rfc-extending-llvm-mc-loc-directive-with-labeling-support/79608#post_2)
+- [[RFC] Introduce new pass/transform: fusion by diffusion](https://discourse.llvm.org/t/rfc-introduce-new-pass-transform-fusion-by-diffusion/79603#post_3)
+- [Seeking Guidance on Resolving Issues with Custom MLIR Frontend and Dialect Registration](https://discourse.llvm.org/t/seeking-guidance-on-resolving-issues-with-custom-mlir-frontend-and-dialect-registration/73347#post_9)
+- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260#post_6)
+- [Func.FuncOp conversion with MemRefType inputs](https://discourse.llvm.org/t/func-funcop-conversion-with-memreftype-inputs/79610#post_1)
 <!-- DISCOURSE-LLVM:END -->
