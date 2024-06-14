@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_14)
+- [Questions about the T-Head Vector extension &lpar;xtheadvector&rpar; in LLVM upstream](https://discourse.llvm.org/t/questions-about-the-t-head-vector-extension-xtheadvector-in-llvm-upstream/77298#post_12)
+- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_13)
+- [Noob question about debugging fixup](https://discourse.llvm.org/t/noob-question-about-debugging-fixup/79559#post_3)
 - [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_12)
-- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_11)
-- [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092?page=2#post_25)
-- [Trying to add builtin, getting pragma error?](https://discourse.llvm.org/t/trying-to-add-builtin-getting-pragma-error/79397#post_10)
-- [RFC: Calling functions if pragma FENV_ROUND is present](https://discourse.llvm.org/t/rfc-calling-functions-if-pragma-fenv-round-is-present/79372#post_6)
 <!-- DISCOURSE-LLVM:END -->
