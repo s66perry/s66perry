@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introduce new pass/transform: fusion by diffusion](https://discourse.llvm.org/t/rfc-introduce-new-pass-transform-fusion-by-diffusion/79603#post_5)
+- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_13)
 - [[FP] can we add pure attribute for math library functions default?](https://discourse.llvm.org/t/fp-can-we-add-pure-attribute-for-math-library-functions-default/79459#post_8)
 - [Getelementptr inbounds: inbounds of which allocation?](https://discourse.llvm.org/t/getelementptr-inbounds-inbounds-of-which-allocation/79024#post_5)
 - [Compiling CIRCT with standard LLVM and MLIR packages](https://discourse.llvm.org/t/compiling-circt-with-standard-llvm-and-mlir-packages/79516#post_4)
-- [[FP] can we add pure attribute for math library functions default?](https://discourse.llvm.org/t/fp-can-we-add-pure-attribute-for-math-library-functions-default/79459#post_7)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
