@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Memset intrinsic is returning an incorrect function signature](https://discourse.llvm.org/t/memset-intrinsic-is-returning-an-incorrect-function-signature/79623#post_1)
 - [Can we modify values within cl namespace without recompiling?](https://discourse.llvm.org/t/can-we-modify-values-within-cl-namespace-without-recompiling/79621#post_5)
 - [Can we modify values within cl namespace without recompiling?](https://discourse.llvm.org/t/can-we-modify-values-within-cl-namespace-without-recompiling/79621#post_4)
 - [Can we modify values within cl namespace without recompiling?](https://discourse.llvm.org/t/can-we-modify-values-within-cl-namespace-without-recompiling/79621#post_3)
 - [Can we modify values within cl namespace without recompiling?](https://discourse.llvm.org/t/can-we-modify-values-within-cl-namespace-without-recompiling/79621#post_2)
-- [Can we modify values within cl namespace without recompiling?](https://discourse.llvm.org/t/can-we-modify-values-within-cl-namespace-without-recompiling/79621#post_1)
 <!-- DISCOURSE-LLVM:END -->
