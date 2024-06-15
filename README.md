@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Print PGO Accuracy Metrics](https://discourse.llvm.org/t/rfc-print-pgo-accuracy-metrics/79384#post_2)
+- [Flang tests are extremely slow on Windows](https://discourse.llvm.org/t/flang-tests-are-extremely-slow-on-windows/78591?page=3#post_53)
+- [TableGen tied operand constraints](https://discourse.llvm.org/t/tablegen-tied-operand-constraints/79558#post_6)
+- [RFC: supporting `restrict` in libc++ &lpar;options&rpar;](https://discourse.llvm.org/t/rfc-supporting-restrict-in-libc-options/79321#post_3)
 - [[RFC] Revival of numerical sanitizer](https://discourse.llvm.org/t/rfc-revival-of-numerical-sanitizer/79601#post_2)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=4#post_73)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=2#post_33)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=2#post_32)
-- [LLVM buildbot will be down for maintenance on June 12, 2024 starting from 7:30 PM PDT](https://discourse.llvm.org/t/llvm-buildbot-will-be-down-for-maintenance-on-june-12-2024-starting-from-7-30-pm-pdt/79560#post_7)
 <!-- DISCOURSE-LLVM:END -->
