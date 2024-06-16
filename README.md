@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introduce new pass/transform: fusion by diffusion](https://discourse.llvm.org/t/rfc-introduce-new-pass-transform-fusion-by-diffusion/79603#post_13)
+- [[RFC] Introduce new pass/transform: fusion by diffusion](https://discourse.llvm.org/t/rfc-introduce-new-pass-transform-fusion-by-diffusion/79603#post_12)
+- [[RFC] Introduce new pass/transform: fusion by diffusion](https://discourse.llvm.org/t/rfc-introduce-new-pass-transform-fusion-by-diffusion/79603#post_11)
 - [Adding Reoptimization Support to ORC](https://discourse.llvm.org/t/adding-reoptimization-support-to-orc/60389#post_4)
 - [Memset intrinsic is returning an incorrect function signature](https://discourse.llvm.org/t/memset-intrinsic-is-returning-an-incorrect-function-signature/79623#post_2)
-- [LLVM buildbot will be down for maintenance on June 12, 2024 starting from 7:30 PM PDT](https://discourse.llvm.org/t/llvm-buildbot-will-be-down-for-maintenance-on-june-12-2024-starting-from-7-30-pm-pdt/79560#post_8)
-- [Memset intrinsic is returning an incorrect function signature](https://discourse.llvm.org/t/memset-intrinsic-is-returning-an-incorrect-function-signature/79623#post_1)
-- [Can we modify values within cl namespace without recompiling?](https://discourse.llvm.org/t/can-we-modify-values-within-cl-namespace-without-recompiling/79621#post_5)
 <!-- DISCOURSE-LLVM:END -->
