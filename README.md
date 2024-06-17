@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Region/Branch coverage by Bitmap](https://discourse.llvm.org/t/rfc-region-branch-coverage-by-bitmap/79629#post_2)
+- [Is there a way to list and disable backend optimisations for -O0?](https://discourse.llvm.org/t/is-there-a-way-to-list-and-disable-backend-optimisations-for-o0/79633#post_2)
+- [[RFC] Require discussion of impact to monorepo stakeholders when adding new Clang extensions](https://discourse.llvm.org/t/rfc-require-discussion-of-impact-to-monorepo-stakeholders-when-adding-new-clang-extensions/79613#post_6)
+- [[Sinking] Does any LLVM pass currently handle load sinking for invariant loads?](https://discourse.llvm.org/t/sinking-does-any-llvm-pass-currently-handle-load-sinking-for-invariant-loads/79643#post_1)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_126)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_125)
-- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_14)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Jun 20](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-jun-20/79640#post_1)
-- [[MLIR][Vectorize] Divsion with reminder](https://discourse.llvm.org/t/mlir-vectorize-divsion-with-reminder/79639#post_1)
 <!-- DISCOURSE-LLVM:END -->
