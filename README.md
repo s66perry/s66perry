@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm beginner needs your help](https://discourse.llvm.org/t/llvm-beginner-needs-your-help/79382#post_6)
-- [[RFC] Adding transform.loop.tile_indirection_using_forall](https://discourse.llvm.org/t/rfc-adding-transform-loop-tile-indirection-using-forall/79114#post_15)
-- [Help: get the coefficient of AffineDimExpr from AffineMap](https://discourse.llvm.org/t/help-get-the-coefficient-of-affinedimexpr-from-affinemap/79618#post_3)
-- [Bump minimal Z3 requirements from 4.7.1 to 4.8.9](https://discourse.llvm.org/t/bump-minimal-z3-requirements-from-4-7-1-to-4-8-9/79664#post_1)
-- [RFC: supporting `restrict` in libc++ &lpar;options&rpar;](https://discourse.llvm.org/t/rfc-supporting-restrict-in-libc-options/79321#post_5)
+- [[RFC] Canonicalize batched linalg operations with singleton batch](https://discourse.llvm.org/t/rfc-canonicalize-batched-linalg-operations-with-singleton-batch/79628#post_16)
+- [[RFC] Adding transform.loop.tile_indirection_using_forall](https://discourse.llvm.org/t/rfc-adding-transform-loop-tile-indirection-using-forall/79114#post_17)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_128)
+- [Loop Strength Reduction Behaviour](https://discourse.llvm.org/t/loop-strength-reduction-behaviour/79666#post_1)
+- [[RFC] Canonicalize batched linalg operations with singleton batch](https://discourse.llvm.org/t/rfc-canonicalize-batched-linalg-operations-with-singleton-batch/79628#post_15)
 <!-- DISCOURSE-LLVM:END -->
