@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding a new GH issue tag for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-adding-a-new-gh-issue-tag-for-fuzzer-generated-issues/79597#post_5)
-- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260#post_9)
-- [could you give me some suggestions as to learning llvm?](https://discourse.llvm.org/t/could-you-give-me-some-suggestions-as-to-learning-llvm/52646#post_3)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_127)
-- [Bufferization with ControlFlow Asserts](https://discourse.llvm.org/t/bufferization-with-controlflow-asserts/79534#post_7)
+- [Help: get the coefficient of AffineDimExpr from AffineMap](https://discourse.llvm.org/t/help-get-the-coefficient-of-affinedimexpr-from-affinemap/79618#post_2)
+- [[RFC] Adding a new GH issue tag for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-adding-a-new-gh-issue-tag-for-fuzzer-generated-issues/79597#post_6)
+- [[RFC] Canonicalize batched linalg operations with singleton batch](https://discourse.llvm.org/t/rfc-canonicalize-batched-linalg-operations-with-singleton-batch/79628#post_13)
+- [[RFC] Canonicalize batched linalg operations with singleton batch](https://discourse.llvm.org/t/rfc-canonicalize-batched-linalg-operations-with-singleton-batch/79628#post_12)
+- [[analyzer][RFC] Taming Z3 query times](https://discourse.llvm.org/t/analyzer-rfc-taming-z3-query-times/79520#post_12)
 <!-- DISCOURSE-LLVM:END -->
