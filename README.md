@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092?page=2#post_26)
-- [How to deal with Compiler crash caused by UB](https://discourse.llvm.org/t/how-to-deal-with-compiler-crash-caused-by-ub/79658#post_3)
-- [[RFC] Add operandIndex to sideeffect instance](https://discourse.llvm.org/t/rfc-add-operandindex-to-sideeffect-instance/79243#post_13)
-- [Facing issues with bufferization cloneOp](https://discourse.llvm.org/t/facing-issues-with-bufferization-cloneop/78250#post_2)
-- [[FP] can we add pure attribute for math library functions default?](https://discourse.llvm.org/t/fp-can-we-add-pure-attribute-for-math-library-functions-default/79459#post_10)
+- [[RFC] Adding transform.loop.tile_indirection_using_forall](https://discourse.llvm.org/t/rfc-adding-transform-loop-tile-indirection-using-forall/79114#post_18)
+- [WG21 meeting next week](https://discourse.llvm.org/t/wg21-meeting-next-week/79662#post_2)
+- [LLVM Security group public sync-ups](https://discourse.llvm.org/t/llvm-security-group-public-sync-ups/62735?page=2#post_28)
+- [[MLIR][Vectorize] Divsion with reminder](https://discourse.llvm.org/t/mlir-vectorize-divsion-with-reminder/79639#post_4)
+- [How to find out the list of NVIDIA GPU compute capability &lpar;i.e. sm_xx&rpar; support for a particular version of MLIR?](https://discourse.llvm.org/t/how-to-find-out-the-list-of-nvidia-gpu-compute-capability-i-e-sm-xx-support-for-a-particular-version-of-mlir/79687#post_1)
 <!-- DISCOURSE-LLVM:END -->
