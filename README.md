@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Canonicalize batched linalg operations with singleton batch](https://discourse.llvm.org/t/rfc-canonicalize-batched-linalg-operations-with-singleton-batch/79628#post_20)
+- [RFC [CMake]: Adding an option to enable precompiled headers for llvm-libraries](https://discourse.llvm.org/t/rfc-cmake-adding-an-option-to-enable-precompiled-headers-for-llvm-libraries/78925#post_5)
 - [How to debug to learn LLVM Backend](https://discourse.llvm.org/t/how-to-debug-to-learn-llvm-backend/79655#post_6)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_132)
 - [OpenSSF Best Practices](https://discourse.llvm.org/t/openssf-best-practices/76054#post_5)
-- [How to test reverse-execution support in LLDB](https://discourse.llvm.org/t/how-to-test-reverse-execution-support-in-lldb/79696#post_1)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_131)
 <!-- DISCOURSE-LLVM:END -->
