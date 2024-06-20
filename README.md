@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Revival of numerical sanitizer](https://discourse.llvm.org/t/rfc-revival-of-numerical-sanitizer/79601#post_4)
+- [[RFC] Revival of numerical sanitizer](https://discourse.llvm.org/t/rfc-revival-of-numerical-sanitizer/79601#post_3)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_134)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_97)
 - [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_96)
-- [[analyzer][RFC] Taming Z3 query times](https://discourse.llvm.org/t/analyzer-rfc-taming-z3-query-times/79520#post_14)
-- [[RFC] New Headergen Proposal](https://discourse.llvm.org/t/rfc-new-headergen-proposal/79679#post_5)
-- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_1)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jun 24 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jun-24-24-6pm/79717#post_2)
 <!-- DISCOURSE-LLVM:END -->
