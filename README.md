@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][GPU] Linking precompiled code &lpar;e.g., fatbin&rpar;](https://discourse.llvm.org/t/mlir-gpu-linking-precompiled-code-e-g-fatbin/79705#post_1)
+- [Need your Help ! &lpar;about Kaleidoscope: Extending the Language: Control Flow&rpar;](https://discourse.llvm.org/t/need-your-help-about-kaleidoscope-extending-the-language-control-flow/79704#post_1)
+- [[RFC] Region/Branch coverage by Bitmap](https://discourse.llvm.org/t/rfc-region-branch-coverage-by-bitmap/79629#post_3)
+- [How to debug to learn LLVM Backend](https://discourse.llvm.org/t/how-to-debug-to-learn-llvm-backend/79655#post_7)
 - [[RFC] Remove most constant expressions](https://discourse.llvm.org/t/rfc-remove-most-constant-expressions/63179?page=2#post_35)
-- [Self build toolchains for RISC-V lacking correct libc](https://discourse.llvm.org/t/self-build-toolchains-for-risc-v-lacking-correct-libc/79702#post_1)
-- [[MLIR][Vectorize] Divsion with reminder](https://discourse.llvm.org/t/mlir-vectorize-divsion-with-reminder/79639#post_5)
-- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260#post_13)
-- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260#post_12)
 <!-- DISCOURSE-LLVM:END -->
