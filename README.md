@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Gat a list of auto inlined functions](https://discourse.llvm.org/t/gat-a-list-of-auto-inlined-functions/79711#post_4)
-- [Gat a list of auto inlined functions](https://discourse.llvm.org/t/gat-a-list-of-auto-inlined-functions/79711#post_3)
-- [Address thread identification problems with coroutine](https://discourse.llvm.org/t/address-thread-identification-problems-with-coroutine/62015?page=3#post_58)
-- [Results for scan-build not saved for custom folder of source code in llvm tree](https://discourse.llvm.org/t/results-for-scan-build-not-saved-for-custom-folder-of-source-code-in-llvm-tree/79712#post_1)
-- [Export &quot;entry&quot; symbol for function multi-versioning with `target_clones&lpar;&rpar;`](https://discourse.llvm.org/t/export-entry-symbol-for-function-multi-versioning-with-target-clones/79688#post_2)
+- [Results for scan-build not saved for custom folder of source code in llvm tree](https://discourse.llvm.org/t/results-for-scan-build-not-saved-for-custom-folder-of-source-code-in-llvm-tree/79712#post_2)
+- [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092?page=2#post_29)
+- [LLVM compiler engineer job opportunities @Meta](https://discourse.llvm.org/t/llvm-compiler-engineer-job-opportunities-meta/79716#post_1)
+- [RFC: Register fields in expressions](https://discourse.llvm.org/t/rfc-register-fields-in-expressions/79424#post_4)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_133)
 <!-- DISCOURSE-LLVM:END -->
