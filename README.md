@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Buildbot started commenting PRs on buid failures](https://discourse.llvm.org/t/buildbot-started-commenting-prs-on-buid-failures/79738#post_1)
+- [Build bots to report build statuses to github](https://discourse.llvm.org/t/build-bots-to-report-build-statuses-to-github/73748#post_16)
+- [RFC: supporting `restrict` in libc++ &lpar;options&rpar;](https://discourse.llvm.org/t/rfc-supporting-restrict-in-libc-options/79321#post_10)
 - [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260#post_19)
 - [[RFC] New Headergen Proposal](https://discourse.llvm.org/t/rfc-new-headergen-proposal/79679#post_6)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_98)
-- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260#post_18)
-- [How to test reverse-execution support in LLDB](https://discourse.llvm.org/t/how-to-test-reverse-execution-support-in-lldb/79696#post_3)
 <!-- DISCOURSE-LLVM:END -->
