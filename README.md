@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Diverged behavior for same IR on different OS &amp; Arch](https://discourse.llvm.org/t/diverged-behavior-for-same-ir-on-different-os-arch/79744#post_1)
+- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_3)
+- [Option similar to -mllvm -print-after-all in the backend](https://discourse.llvm.org/t/option-similar-to-mllvm-print-after-all-in-the-backend/79724#post_5)
+- [[RFC] New Headergen Proposal](https://discourse.llvm.org/t/rfc-new-headergen-proposal/79679#post_11)
 - [18.1.8 has been tagged](https://discourse.llvm.org/t/18-1-8-has-been-tagged/79726#post_5)
-- [Thread Local Storage doesn&#39;t optimize in c++ clang-cl](https://discourse.llvm.org/t/thread-local-storage-doesnt-optimize-in-c-clang-cl/79742#post_1)
-- [18.1.8 has been tagged](https://discourse.llvm.org/t/18-1-8-has-been-tagged/79726#post_4)
-- [18.1.8 has been tagged](https://discourse.llvm.org/t/18-1-8-has-been-tagged/79726#post_3)
-- [[RFC] New Headergen Proposal](https://discourse.llvm.org/t/rfc-new-headergen-proposal/79679#post_10)
 <!-- DISCOURSE-LLVM:END -->
