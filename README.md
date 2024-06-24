@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Strange behaviour of `-buffer-deallocation-simplification` pass](https://discourse.llvm.org/t/strange-behaviour-of-buffer-deallocation-simplification-pass/79755#post_4)
-- [Buildbot started commenting PRs on buid failures](https://discourse.llvm.org/t/buildbot-started-commenting-prs-on-buid-failures/79738#post_4)
-- [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092?page=2#post_32)
-- [Gat a list of auto inlined functions](https://discourse.llvm.org/t/gat-a-list-of-auto-inlined-functions/79711#post_6)
-- [Self build toolchains for RISC-V lacking correct libc](https://discourse.llvm.org/t/self-build-toolchains-for-risc-v-lacking-correct-libc/79702#post_2)
+- [How to use clang add a new omp pragma](https://discourse.llvm.org/t/how-to-use-clang-add-a-new-omp-pragma/79769#post_1)
+- [How to use clang add a new omp pragma?](https://discourse.llvm.org/t/how-to-use-clang-add-a-new-omp-pragma/79768#post_1)
+- [How to use f16.m8n8k4 in nvgpu.mma.sync?](https://discourse.llvm.org/t/how-to-use-f16-m8n8k4-in-nvgpu-mma-sync/79767#post_1)
+- [Strange behaviour of `-buffer-deallocation-simplification` pass](https://discourse.llvm.org/t/strange-behaviour-of-buffer-deallocation-simplification-pass/79755#post_5)
+- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
