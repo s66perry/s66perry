@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Allow `[[gnu::cleanup]]` to work with `[[clang::overloadable]]`](https://discourse.llvm.org/t/rfc-allow-gnu-cleanup-to-work-with-clang-overloadable/79739#post_2)
+- [[PSA] Scalable auto-vec in Linalg without masking](https://discourse.llvm.org/t/psa-scalable-auto-vec-in-linalg-without-masking/78513#post_9)
+- [Understanding Vectorization Failure with transform.structured.vectorize](https://discourse.llvm.org/t/understanding-vectorization-failure-with-transform-structured-vectorize/79772#post_3)
+- [Diverged behavior for same IR on different OS &amp; Arch](https://discourse.llvm.org/t/diverged-behavior-for-same-ir-on-different-os-arch/79744#post_5)
 - [Linking and removing unused symbols](https://discourse.llvm.org/t/linking-and-removing-unused-symbols/79776#post_1)
-- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_25)
-- [Understanding Vectorization Failure with transform.structured.vectorize](https://discourse.llvm.org/t/understanding-vectorization-failure-with-transform-structured-vectorize/79772#post_2)
-- [18.1.8 has been tagged](https://discourse.llvm.org/t/18-1-8-has-been-tagged/79726#post_6)
-- [Libclang: getting bad std::vector type](https://discourse.llvm.org/t/libclang-getting-bad-std-vector-type/79775#post_1)
 <!-- DISCOURSE-LLVM:END -->
