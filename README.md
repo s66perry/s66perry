@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Allow `[[gnu::cleanup]]` to work with `[[clang::overloadable]]`](https://discourse.llvm.org/t/rfc-allow-gnu-cleanup-to-work-with-clang-overloadable/79739#post_5)
+- [[RFC] Require discussion of impact to monorepo stakeholders when adding new Clang extensions](https://discourse.llvm.org/t/rfc-require-discussion-of-impact-to-monorepo-stakeholders-when-adding-new-clang-extensions/79613#post_8)
 - [[RFC] Allow `[[gnu::cleanup]]` to work with `[[clang::overloadable]]`](https://discourse.llvm.org/t/rfc-allow-gnu-cleanup-to-work-with-clang-overloadable/79739#post_4)
 - [Libclang: getting bad std::vector type](https://discourse.llvm.org/t/libclang-getting-bad-std-vector-type/79775#post_2)
 - [[RFC] Allow `[[gnu::cleanup]]` to work with `[[clang::overloadable]]`](https://discourse.llvm.org/t/rfc-allow-gnu-cleanup-to-work-with-clang-overloadable/79739#post_3)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=2#post_39)
-- [Flang Liaison Report to J3](https://discourse.llvm.org/t/flang-liaison-report-to-j3/68468#post_6)
 <!-- DISCOURSE-LLVM:END -->
