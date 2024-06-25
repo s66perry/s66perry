@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISCV&#39;s RVV how to implement instruction selection？](https://discourse.llvm.org/t/riscvs-rvv-how-to-implement-instruction-selection/79806#post_3)
-- [[RFC] Supporting WCH/QingKe &quot;XW&quot; compressed opcodes](https://discourse.llvm.org/t/rfc-supporting-wch-qingke-xw-compressed-opcodes/79392#post_12)
-- [RISCV&#39;s RVV how to implement instruction selection？](https://discourse.llvm.org/t/riscvs-rvv-how-to-implement-instruction-selection/79806#post_2)
-- [Execution time for custom canonical optimization in mlir](https://discourse.llvm.org/t/execution-time-for-custom-canonical-optimization-in-mlir/79805#post_2)
-- [RISCV&#39;s RVV how to implement instruction selection？](https://discourse.llvm.org/t/riscvs-rvv-how-to-implement-instruction-selection/79806#post_1)
+- [LLDB tests seems flaky on lldb-arm-ubuntu bot](https://discourse.llvm.org/t/lldb-tests-seems-flaky-on-lldb-arm-ubuntu-bot/79798#post_4)
+- [[PSA] Scalable auto-vec in Linalg without masking](https://discourse.llvm.org/t/psa-scalable-auto-vec-in-linalg-without-masking/78513#post_10)
+- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_17)
+- [How to use ASTImporter](https://discourse.llvm.org/t/how-to-use-astimporter/42226#post_2)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
