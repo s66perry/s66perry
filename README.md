@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Understanding Vectorization Failure with transform.structured.vectorize](https://discourse.llvm.org/t/understanding-vectorization-failure-with-transform-structured-vectorize/79772#post_5)
+- [Understanding Vectorization Failure with transform.structured.vectorize](https://discourse.llvm.org/t/understanding-vectorization-failure-with-transform-structured-vectorize/79772#post_4)
+- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_29)
+- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_28)
 - [LLDB tests seems flaky on lldb-arm-ubuntu bot](https://discourse.llvm.org/t/lldb-tests-seems-flaky-on-lldb-arm-ubuntu-bot/79798#post_4)
-- [[PSA] Scalable auto-vec in Linalg without masking](https://discourse.llvm.org/t/psa-scalable-auto-vec-in-linalg-without-masking/78513#post_10)
-- [[RFC] Window Scheduling Algorithm for MachinePipeliner in LLVM](https://discourse.llvm.org/t/rfc-window-scheduling-algorithm-for-machinepipeliner-in-llvm/74718#post_17)
-- [How to use ASTImporter](https://discourse.llvm.org/t/how-to-use-astimporter/42226#post_2)
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
