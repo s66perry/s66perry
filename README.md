@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to use clang add a new omp Directive](https://discourse.llvm.org/t/how-to-use-clang-add-a-new-omp-directive/79799#post_1)
+- [LLDB tests seems flaky on lldb-arm-ubuntu bot](https://discourse.llvm.org/t/lldb-tests-seems-flaky-on-lldb-arm-ubuntu-bot/79798#post_1)
+- [Buildbot started commenting PRs on buid failures](https://discourse.llvm.org/t/buildbot-started-commenting-prs-on-buid-failures/79738#post_6)
+- [Buildbot started commenting PRs on buid failures](https://discourse.llvm.org/t/buildbot-started-commenting-prs-on-buid-failures/79738#post_5)
 - [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=3#post_42)
-- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=3#post_41)
-- [[RFC] Stronger guarantees for &quot;denormal-fp-math](https://discourse.llvm.org/t/rfc-stronger-guarantees-for-denormal-fp-math/79792#post_1)
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_36)
-- [MLIR Execution Engine Invoke with Tensor Types](https://discourse.llvm.org/t/mlir-execution-engine-invoke-with-tensor-types/79789#post_1)
 <!-- DISCOURSE-LLVM:END -->
