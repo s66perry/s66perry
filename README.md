@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=3#post_45)
 - [Questions about llvm.canonicalize](https://discourse.llvm.org/t/questions-about-llvm-canonicalize/79378?page=3#post_44)
 - [How to use clang add a new omp Directive](https://discourse.llvm.org/t/how-to-use-clang-add-a-new-omp-directive/79799#post_2)
 - [Execution time for custom canonical optimization in mlir](https://discourse.llvm.org/t/execution-time-for-custom-canonical-optimization-in-mlir/79805#post_3)
 - [LLVM Support for PRU](https://discourse.llvm.org/t/llvm-support-for-pru/69901#post_5)
-- [Thread Local Storage doesn&#39;t optimize in c++ clang-cl](https://discourse.llvm.org/t/thread-local-storage-doesnt-optimize-in-c-clang-cl/79742#post_5)
 <!-- DISCOURSE-LLVM:END -->
