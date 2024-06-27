@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR Execution Engine Invoke with Tensor Types](https://discourse.llvm.org/t/mlir-execution-engine-invoke-with-tensor-types/79789#post_5)
 - [Build speed on different platforms](https://discourse.llvm.org/t/build-speed-on-different-platforms/79846#post_5)
 - [Build speed on different platforms](https://discourse.llvm.org/t/build-speed-on-different-platforms/79846#post_4)
 - [Build speed on different platforms](https://discourse.llvm.org/t/build-speed-on-different-platforms/79846#post_3)
 - [Build speed on different platforms](https://discourse.llvm.org/t/build-speed-on-different-platforms/79846#post_2)
-- [Build speed on different platforms](https://discourse.llvm.org/t/build-speed-on-different-platforms/79846#post_1)
 <!-- DISCOURSE-LLVM:END -->
