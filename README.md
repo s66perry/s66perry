@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add nopoison attribute/metadata](https://discourse.llvm.org/t/rfc-add-nopoison-attribute-metadata/79833#post_10)
-- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_8)
-- [Questions about the design of one-shot-bufferize](https://discourse.llvm.org/t/questions-about-the-design-of-one-shot-bufferize/79867#post_2)
-- [[RFC] Add nopoison attribute/metadata](https://discourse.llvm.org/t/rfc-add-nopoison-attribute-metadata/79833#post_9)
-- [Questions about the design of one-shot-bufferize](https://discourse.llvm.org/t/questions-about-the-design-of-one-shot-bufferize/79867#post_1)
+- [LLVM assumes specific Visual Studio installation after build](https://discourse.llvm.org/t/llvm-assumes-specific-visual-studio-installation-after-build/79857#post_5)
+- [Kaleidoscope Chapter 9 - Create Executable](https://discourse.llvm.org/t/kaleidoscope-chapter-9-create-executable/79869#post_3)
+- [Kaleidoscope Chapter 9 - Create Executable](https://discourse.llvm.org/t/kaleidoscope-chapter-9-create-executable/79869#post_2)
+- [[MLIR][Linalg] Vectorization Fail with reduction](https://discourse.llvm.org/t/mlir-linalg-vectorization-fail-with-reduction/79870#post_1)
+- [Kaleidoscope Chapter 9 - Create Executable](https://discourse.llvm.org/t/kaleidoscope-chapter-9-create-executable/79869#post_1)
 <!-- DISCOURSE-LLVM:END -->
