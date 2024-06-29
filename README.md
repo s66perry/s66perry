@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Extending llvm-mc .loc directive with labeling support](https://discourse.llvm.org/t/rfc-extending-llvm-mc-loc-directive-with-labeling-support/79608#post_7)
 - [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_34)
 - [[MLIR][Linalg] Vectorization Fail with reduction](https://discourse.llvm.org/t/mlir-linalg-vectorization-fail-with-reduction/79870#post_4)
 - [MLIR one-to-many function signature conversion &lpar;due to vector unrolling&rpar;](https://discourse.llvm.org/t/mlir-one-to-many-function-signature-conversion-due-to-vector-unrolling/79859#post_6)
 - [[AARCH64] lld + Bsymbolic missing symbolic index for relocation item R_AARCH64_TLSDESC](https://discourse.llvm.org/t/aarch64-lld-bsymbolic-missing-symbolic-index-for-relocation-item-r-aarch64-tlsdesc/79887#post_2)
-- [[AARCH64] lld + Bsymbolic missing symbolic index for relocation item R_AARCH64_TLSDESC](https://discourse.llvm.org/t/aarch64-lld-bsymbolic-missing-symbolic-index-for-relocation-item-r-aarch64-tlsdesc/79887#post_1)
 <!-- DISCOURSE-LLVM:END -->
