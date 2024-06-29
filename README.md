@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][Linalg] Vectorization Fail with reduction](https://discourse.llvm.org/t/mlir-linalg-vectorization-fail-with-reduction/79870#post_4)
+- [MLIR one-to-many function signature conversion &lpar;due to vector unrolling&rpar;](https://discourse.llvm.org/t/mlir-one-to-many-function-signature-conversion-due-to-vector-unrolling/79859#post_6)
 - [[AARCH64] lld + Bsymbolic missing symbolic index for relocation item R_AARCH64_TLSDESC](https://discourse.llvm.org/t/aarch64-lld-bsymbolic-missing-symbolic-index-for-relocation-item-r-aarch64-tlsdesc/79887#post_2)
 - [[AARCH64] lld + Bsymbolic missing symbolic index for relocation item R_AARCH64_TLSDESC](https://discourse.llvm.org/t/aarch64-lld-bsymbolic-missing-symbolic-index-for-relocation-item-r-aarch64-tlsdesc/79887#post_1)
 - [Need guidance on optimizing LLVM IR for GPU targets](https://discourse.llvm.org/t/need-guidance-on-optimizing-llvm-ir-for-gpu-targets/79831#post_3)
-- [How to write a pass to replace all `tensor&lt;f32&gt;` by `tensor&lt;f16&gt;`](https://discourse.llvm.org/t/how-to-write-a-pass-to-replace-all-tensor-f32-by-tensor-f16/79885#post_1)
-- [[MLIR][Linalg] Vectorization Fail with reduction](https://discourse.llvm.org/t/mlir-linalg-vectorization-fail-with-reduction/79870#post_3)
 <!-- DISCOURSE-LLVM:END -->
