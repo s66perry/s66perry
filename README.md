@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB tests seems flaky on lldb-arm-ubuntu bot](https://discourse.llvm.org/t/lldb-tests-seems-flaky-on-lldb-arm-ubuntu-bot/79798#post_10)
+- [[AArch64] How to set the stack alignment to 64 bytes?](https://discourse.llvm.org/t/aarch64-how-to-set-the-stack-alignment-to-64-bytes/79899#post_2)
+- [[RFC] Add nusw and nuw flags for getelementptr](https://discourse.llvm.org/t/rfc-add-nusw-and-nuw-flags-for-getelementptr/78672#post_20)
+- [MLIR Execution Engine Invoke with Tensor Types](https://discourse.llvm.org/t/mlir-execution-engine-invoke-with-tensor-types/79789#post_6)
 - [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_35)
-- [[RFC] Adding a new GH issue tag for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-adding-a-new-gh-issue-tag-for-fuzzer-generated-issues/79597#post_11)
-- [[RFC] Add nopoison attribute/metadata](https://discourse.llvm.org/t/rfc-add-nopoison-attribute-metadata/79833#post_12)
-- [[AArch64] How to set the stack alignment to 64 bytes?](https://discourse.llvm.org/t/aarch64-how-to-set-the-stack-alignment-to-64-bytes/79899#post_1)
-- [[AARCH64] lld + Bsymbolic missing symbolic index for relocation item R_AARCH64_TLSDESC](https://discourse.llvm.org/t/aarch64-lld-bsymbolic-missing-symbolic-index-for-relocation-item-r-aarch64-tlsdesc/79887#post_3)
 <!-- DISCOURSE-LLVM:END -->
