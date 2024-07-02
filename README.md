@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Buildbot started commenting PRs on buid failures](https://discourse.llvm.org/t/buildbot-started-commenting-prs-on-buid-failures/79738#post_13)
+- [ARM assembler&#39;s syntax in clang](https://discourse.llvm.org/t/arm-assemblers-syntax-in-clang/26560?page=2#post_22)
+- [Buildbot started commenting PRs on buid failures](https://discourse.llvm.org/t/buildbot-started-commenting-prs-on-buid-failures/79738#post_12)
+- [Buildbot started commenting PRs on buid failures](https://discourse.llvm.org/t/buildbot-started-commenting-prs-on-buid-failures/79738#post_11)
 - [Need a help with the built-bots](https://discourse.llvm.org/t/need-a-help-with-the-built-bots/79437#post_2)
-- [[RFC] Make SLP Vectorizer revectorize vector instructions](https://discourse.llvm.org/t/rfc-make-slp-vectorizer-revectorize-vector-instructions/79436#post_11)
-- [How to use clang add a new omp Directive](https://discourse.llvm.org/t/how-to-use-clang-add-a-new-omp-directive/79799#post_3)
-- [Having trouble capturing &lpar;or ignoring&rpar; optional value in PDLL](https://discourse.llvm.org/t/having-trouble-capturing-or-ignoring-optional-value-in-pdll/79915#post_1)
-- [Small improvement to LLVM debugging experience](https://discourse.llvm.org/t/small-improvement-to-llvm-debugging-experience/79914#post_1)
 <!-- DISCOURSE-LLVM:END -->
