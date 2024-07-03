@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_137)
+- [CANCELLED RISC-V LLVM sync-up call July 4th 2024](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-july-4th-2024/79936#post_1)
+- [RFC: Introducing an llvm.memset_pattern.inline intrinsic](https://discourse.llvm.org/t/rfc-introducing-an-llvm-memset-pattern-inline-intrinsic/79496#post_9)
+- [Update: New criteria for commit access](https://discourse.llvm.org/t/update-new-criteria-for-commit-access/79928#post_4)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=7#post_136)
-- [Code sharing between compiler-rt and clang/llvm](https://discourse.llvm.org/t/code-sharing-between-compiler-rt-and-clang-llvm/79935#post_1)
-- [[llvm-cov] Hash mismatches originating from class methods implemented in header files](https://discourse.llvm.org/t/llvm-cov-hash-mismatches-originating-from-class-methods-implemented-in-header-files/79832#post_4)
-- [Memory semantics and why is DSE even legal](https://discourse.llvm.org/t/memory-semantics-and-why-is-dse-even-legal/79927#post_9)
-- [Memory semantics and why is DSE even legal](https://discourse.llvm.org/t/memory-semantics-and-why-is-dse-even-legal/79927#post_8)
 <!-- DISCOURSE-LLVM:END -->
