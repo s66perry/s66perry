@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Memory semantics and why is DSE even legal](https://discourse.llvm.org/t/memory-semantics-and-why-is-dse-even-legal/79927#post_8)
+- [Memory semantics and why is DSE even legal](https://discourse.llvm.org/t/memory-semantics-and-why-is-dse-even-legal/79927#post_7)
+- [RFC: Adding Register Field Enums to LLDB](https://discourse.llvm.org/t/rfc-adding-register-field-enums-to-lldb/77275#post_5)
+- [Memory semantics and why is DSE even legal](https://discourse.llvm.org/t/memory-semantics-and-why-is-dse-even-legal/79927#post_6)
 - [MLIR workshop US LLVM?](https://discourse.llvm.org/t/mlir-workshop-us-llvm/79819#post_7)
-- [MLIR workshop US LLVM?](https://discourse.llvm.org/t/mlir-workshop-us-llvm/79819#post_6)
-- [MLIR workshop US LLVM?](https://discourse.llvm.org/t/mlir-workshop-us-llvm/79819#post_5)
-- [Update: New criteria for commit access](https://discourse.llvm.org/t/update-new-criteria-for-commit-access/79928#post_3)
-- [RISCV&#39;s RVV how to implement instruction selection？](https://discourse.llvm.org/t/riscvs-rvv-how-to-implement-instruction-selection/79806#post_7)
 <!-- DISCOURSE-LLVM:END -->
