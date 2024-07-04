@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there a way to manually instruct llvm&#39;s coverage reporter to save code coverage?](https://discourse.llvm.org/t/is-there-a-way-to-manually-instruct-llvms-coverage-reporter-to-save-code-coverage/79894#post_3)
+- [Code sharing between compiler-rt and clang/llvm](https://discourse.llvm.org/t/code-sharing-between-compiler-rt-and-clang-llvm/79935#post_3)
 - [FP min/max and FMF selects](https://discourse.llvm.org/t/fp-min-max-and-fmf-selects/79955#post_1)
 - [Question about a code snippet in X86RegisterInfo::getReservedRegs](https://discourse.llvm.org/t/question-about-a-code-snippet-in-x86registerinfo-getreservedregs/79946#post_2)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_141)
-- [[RFC] Extending llvm-mc .loc directive with labeling support](https://discourse.llvm.org/t/rfc-extending-llvm-mc-loc-directive-with-labeling-support/79608#post_14)
-- [Having difficulty meeting terminfo requirement](https://discourse.llvm.org/t/having-difficulty-meeting-terminfo-requirement/79952#post_1)
 <!-- DISCOURSE-LLVM:END -->
