@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD COFF issue with mangled symbol in Release mode for Ubuntu24](https://discourse.llvm.org/t/lld-coff-issue-with-mangled-symbol-in-release-mode-for-ubuntu24/79962#post_1)
 - [Automatically insert intrinsic function before if statement](https://discourse.llvm.org/t/automatically-insert-intrinsic-function-before-if-statement/79958#post_1)
 - [Code sharing between compiler-rt and clang/llvm](https://discourse.llvm.org/t/code-sharing-between-compiler-rt-and-clang-llvm/79935#post_7)
 - [Code sharing between compiler-rt and clang/llvm](https://discourse.llvm.org/t/code-sharing-between-compiler-rt-and-clang-llvm/79935#post_6)
 - [Code sharing between compiler-rt and clang/llvm](https://discourse.llvm.org/t/code-sharing-between-compiler-rt-and-clang-llvm/79935#post_5)
-- [[RFC] Extending llvm-mc .loc directive with labeling support](https://discourse.llvm.org/t/rfc-extending-llvm-mc-loc-directive-with-labeling-support/79608#post_15)
 <!-- DISCOURSE-LLVM:END -->
