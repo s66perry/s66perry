@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MC] Removing aligned bundling support](https://discourse.llvm.org/t/mc-removing-aligned-bundling-support/79518#post_7)
+- [Signal Sanitizer &lpar;-fsanitize=signals&rpar;](https://discourse.llvm.org/t/signal-sanitizer-fsanitize-signals/79991#post_3)
+- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_9)
+- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_38)
 - [How to get pointer to i32 AllocaInst](https://discourse.llvm.org/t/how-to-get-pointer-to-i32-allocainst/80003#post_3)
-- [Input Needed: Teams for Pull Request Subscriptions](https://discourse.llvm.org/t/input-needed-teams-for-pull-request-subscriptions/73116?page=5#post_100)
-- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_11)
-- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_22)
-- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
