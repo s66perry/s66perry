@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Creating a new custom intrinsic](https://discourse.llvm.org/t/creating-a-new-custom-intrinsic/80014#post_1)
-- [[RFC] Extending llvm-mc .loc directive with labeling support](https://discourse.llvm.org/t/rfc-extending-llvm-mc-loc-directive-with-labeling-support/79608#post_16)
-- [[RFC][GlobalISel] InstructionSelect: Allow arbitrary instruction erasure](https://discourse.llvm.org/t/rfc-globalisel-instructionselect-allow-arbitrary-instruction-erasure/79948#post_2)
-- [Code sharing between compiler-rt and clang/llvm](https://discourse.llvm.org/t/code-sharing-between-compiler-rt-and-clang-llvm/79935#post_11)
-- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_5)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_21)
+- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_10)
+- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_9)
+- [Memory error with newPassmanager](https://discourse.llvm.org/t/memory-error-with-newpassmanager/80016#post_1)
+- [LLVM Weekly - #549, July 8th 2024](https://discourse.llvm.org/t/llvm-weekly-549-july-8th-2024/80015#post_1)
 <!-- DISCOURSE-LLVM:END -->
