@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support RISCV vector tuple type in LLVM](https://discourse.llvm.org/t/rfc-support-riscv-vector-tuple-type-in-llvm/80005#post_3)
+- [Are there plans to execute and host the sanitizer reports?](https://discourse.llvm.org/t/are-there-plans-to-execute-and-host-the-sanitizer-reports/80009#post_2)
+- [Are there plans to execute and host the scan-build/scan-view reports?](https://discourse.llvm.org/t/are-there-plans-to-execute-and-host-the-scan-build-scan-view-reports/79415#post_3)
+- [Are there plans to execute and host the sanitizer reports?](https://discourse.llvm.org/t/are-there-plans-to-execute-and-host-the-sanitizer-reports/80009#post_1)
 - [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_3)
-- [WIP - MLIR News, 68th edition &lpar;12th July2024&rpar;](https://discourse.llvm.org/t/wip-mlir-news-68th-edition-12th-july2024/80007#post_1)
-- [Properly link program on windows without Visual Studio installed](https://discourse.llvm.org/t/properly-link-program-on-windows-without-visual-studio-installed/80006#post_2)
-- [[RFC] Support RISCV vector tuple type in LLVM](https://discourse.llvm.org/t/rfc-support-riscv-vector-tuple-type-in-llvm/80005#post_2)
-- [Properly link program on windows without Visual Studio installed](https://discourse.llvm.org/t/properly-link-program-on-windows-without-visual-studio-installed/80006#post_1)
 <!-- DISCOURSE-LLVM:END -->
