@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011#post_2)
+- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_12)
 - [Clang Fails to Run - Windows 11 + MSYS2](https://discourse.llvm.org/t/clang-fails-to-run-windows-11-msys2/80021#post_2)
 - [Port lldb to illumos?](https://discourse.llvm.org/t/port-lldb-to-illumos/79975#post_3)
 - [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=2#post_40)
-- [How can i get parent forstmt from vardecl?](https://discourse.llvm.org/t/how-can-i-get-parent-forstmt-from-vardecl/80035#post_2)
-- [Port lldb to illumos?](https://discourse.llvm.org/t/port-lldb-to-illumos/79975#post_2)
 <!-- DISCOURSE-LLVM:END -->
