@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_142)
-- [Why is there spiillage in this program even after using register allocator?](https://discourse.llvm.org/t/why-is-there-spiillage-in-this-program-even-after-using-register-allocator/80041#post_3)
-- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_15)
-- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_6)
-- [Clang Fails to Run - Windows 11 + MSYS2](https://discourse.llvm.org/t/clang-fails-to-run-windows-11-msys2/80021#post_3)
+- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_7)
+- [Arithmetic referencing dso_local function causes compilation error on Linux/x64](https://discourse.llvm.org/t/arithmetic-referencing-dso-local-function-causes-compilation-error-on-linux-x64/80033#post_2)
+- [Question about a code snippet in X86RegisterInfo::getReservedRegs](https://discourse.llvm.org/t/question-about-a-code-snippet-in-x86registerinfo-getreservedregs/79946#post_4)
+- [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399#post_16)
+- [Clang Fails to Run - Windows 11 + MSYS2](https://discourse.llvm.org/t/clang-fails-to-run-windows-11-msys2/80021#post_5)
 <!-- DISCOURSE-LLVM:END -->
