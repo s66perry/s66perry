@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Automatically insert intrinsic function before if statement](https://discourse.llvm.org/t/automatically-insert-intrinsic-function-before-if-statement/79958#post_6)
+- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_6)
+- [MLIR for arm SME : Reducing tile data transfers](https://discourse.llvm.org/t/mlir-for-arm-sme-reducing-tile-data-transfers/80065#post_1)
+- [Syntax Highlighting for MLIR in LaTeX](https://discourse.llvm.org/t/syntax-highlighting-for-mlir-in-latex/80064#post_1)
 - [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_2)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_9)
-- [How to get Scalar Evolution information of a loop in a Function Pass](https://discourse.llvm.org/t/how-to-get-scalar-evolution-information-of-a-loop-in-a-function-pass/80063#post_1)
-- [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_1)
-- [How to query which registers are used by a machine function allocated post RA](https://discourse.llvm.org/t/how-to-query-which-registers-are-used-by-a-machine-function-allocated-post-ra/80004#post_3)
 <!-- DISCOURSE-LLVM:END -->
