@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove redundant callee saved register push/pops via Function Prolog/Epilog hoisting](https://discourse.llvm.org/t/rfc-remove-redundant-callee-saved-register-push-pops-via-function-prolog-epilog-hoisting/80050#post_3)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_10)
-- [Automatically insert intrinsic function before if statement](https://discourse.llvm.org/t/automatically-insert-intrinsic-function-before-if-statement/79958#post_6)
-- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_6)
-- [MLIR for arm SME : Reducing tile data transfers](https://discourse.llvm.org/t/mlir-for-arm-sme-reducing-tile-data-transfers/80065#post_1)
+- [Syntax Highlighting for MLIR in LaTeX](https://discourse.llvm.org/t/syntax-highlighting-for-mlir-in-latex/80064#post_2)
+- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=3#post_42)
+- [RFC: Introducing an llvm.memset_pattern.inline intrinsic](https://discourse.llvm.org/t/rfc-introducing-an-llvm-memset-pattern-inline-intrinsic/79496#post_10)
+- [MLIR for arm SME : Reducing tile data transfers](https://discourse.llvm.org/t/mlir-for-arm-sme-reducing-tile-data-transfers/80065#post_3)
+- [MLIR for arm SME : Reducing tile data transfers](https://discourse.llvm.org/t/mlir-for-arm-sme-reducing-tile-data-transfers/80065#post_2)
 <!-- DISCOURSE-LLVM:END -->
