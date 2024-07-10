@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to query which registers are used by a machine function allocated post RA](https://discourse.llvm.org/t/how-to-query-which-registers-are-used-by-a-machine-function-allocated-post-ra/80004#post_3)
+- [Question about `RankedTensorOf` class](https://discourse.llvm.org/t/question-about-rankedtensorof-class/80054#post_6)
+- [Question about `RankedTensorOf` class](https://discourse.llvm.org/t/question-about-rankedtensorof-class/80054#post_5)
+- [Question about `RankedTensorOf` class](https://discourse.llvm.org/t/question-about-rankedtensorof-class/80054#post_4)
 - [Language Extension for better, more deterministic HALO for C++ Coroutines](https://discourse.llvm.org/t/language-extension-for-better-more-deterministic-halo-for-c-coroutines/80044#post_4)
-- [Question about `RankedTensorOf` class](https://discourse.llvm.org/t/question-about-rankedtensorof-class/80054#post_3)
-- [Arithmetic referencing dso_local function causes compilation error on Linux/x64](https://discourse.llvm.org/t/arithmetic-referencing-dso-local-function-causes-compilation-error-on-linux-x64/80033#post_4)
-- [[RFC] Remove redundant callee saved register push/pops via Function Prolog/Epilog hoisting](https://discourse.llvm.org/t/rfc-remove-redundant-callee-saved-register-push-pops-via-function-prolog-epilog-hoisting/80050#post_2)
-- [Arithmetic referencing dso_local function causes compilation error on Linux/x64](https://discourse.llvm.org/t/arithmetic-referencing-dso-local-function-causes-compilation-error-on-linux-x64/80033#post_3)
 <!-- DISCOURSE-LLVM:END -->
