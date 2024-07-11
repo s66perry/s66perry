@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [WiCT January 26 Meetup - Insider view into a 30 year long career in Compilers](https://discourse.llvm.org/t/wict-january-26-meetup-insider-view-into-a-30-year-long-career-in-compilers/67862#post_4)
+- [Arithmetic referencing dso_local function causes compilation error on Linux/x64](https://discourse.llvm.org/t/arithmetic-referencing-dso-local-function-causes-compilation-error-on-linux-x64/80033#post_5)
 - [Cannot have landing pads in different function](https://discourse.llvm.org/t/cannot-have-landing-pads-in-different-function/80077#post_1)
 - [Language Extension for better, more deterministic HALO for C++ Coroutines](https://discourse.llvm.org/t/language-extension-for-better-more-deterministic-halo-for-c-coroutines/80044#post_7)
 - [Torch-mlir + torchvision with torch dependency conflicts](https://discourse.llvm.org/t/torch-mlir-torchvision-with-torch-dependency-conflicts/80069#post_2)
-- [[RFC] Vector Distribution for CPU &lpar;convert vector to physical register size vector&rpar;](https://discourse.llvm.org/t/rfc-vector-distribution-for-cpu-convert-vector-to-physical-register-size-vector/79260?page=3#post_44)
-- [Compiler-rt instead of msvcrt on Windows?](https://discourse.llvm.org/t/compiler-rt-instead-of-msvcrt-on-windows/79985#post_5)
 <!-- DISCOURSE-LLVM:END -->
