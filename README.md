@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Strange behavior when lowering calls with different target attributes](https://discourse.llvm.org/t/strange-behavior-when-lowering-calls-with-different-target-attributes/80085#post_1)
+- [Torch-mlir + torchvision with torch dependency conflicts](https://discourse.llvm.org/t/torch-mlir-torchvision-with-torch-dependency-conflicts/80069#post_4)
+- [Misoptimization of TLS and __attibute__&lpar;&lpar;const&rpar;&rpar; in stackful coroutines &lpar;-ffunction-thread-migration&rpar;](https://discourse.llvm.org/t/misoptimization-of-tls-and-attibute-const-in-stackful-coroutines-ffunction-thread-migration/80081#post_5)
+- [Torch-mlir + torchvision with torch dependency conflicts](https://discourse.llvm.org/t/torch-mlir-torchvision-with-torch-dependency-conflicts/80069#post_3)
 - [[RFC] Moving MLIR/Presburger into LLVM](https://discourse.llvm.org/t/rfc-moving-mlir-presburger-into-llvm/79399?page=2#post_21)
-- [[RFC] Remove redundant callee saved register push/pops via Function Prolog/Epilog hoisting](https://discourse.llvm.org/t/rfc-remove-redundant-callee-saved-register-push-pops-via-function-prolog-epilog-hoisting/80050#post_9)
-- [Syntax Highlighting for MLIR in LaTeX](https://discourse.llvm.org/t/syntax-highlighting-for-mlir-in-latex/80064#post_8)
-- [Clangd eats memory until crash](https://discourse.llvm.org/t/clangd-eats-memory-until-crash/77011#post_4)
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
