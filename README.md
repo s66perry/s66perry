@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Error trying to run torchscript demo example](https://discourse.llvm.org/t/error-trying-to-run-torchscript-demo-example/80111#post_3)
-- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095#post_4)
-- [Error trying to run torchscript demo example](https://discourse.llvm.org/t/error-trying-to-run-torchscript-demo-example/80111#post_2)
-- [Error trying to run torchscript demo example](https://discourse.llvm.org/t/error-trying-to-run-torchscript-demo-example/80111#post_1)
-- [Using SDNodeXForm on an intrinsic](https://discourse.llvm.org/t/using-sdnodexform-on-an-intrinsic/80110#post_2)
+- [Cannot have landing pads in different function](https://discourse.llvm.org/t/cannot-have-landing-pads-in-different-function/80077#post_2)
+- [Basics of using instrumented BOLT](https://discourse.llvm.org/t/basics-of-using-instrumented-bolt/80053#post_2)
+- [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_3)
+- [Symbol resolution: where it should be done?](https://discourse.llvm.org/t/symbol-resolution-where-it-should-be-done/80089#post_2)
+- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_10)
 <!-- DISCOURSE-LLVM:END -->
