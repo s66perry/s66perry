@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095#post_3)
-- [Using SDNodeXForm on an intrinsic](https://discourse.llvm.org/t/using-sdnodexform-on-an-intrinsic/80110#post_1)
-- [Is it possible to access the AST from the checkDeadSymbols?](https://discourse.llvm.org/t/is-it-possible-to-access-the-ast-from-the-checkdeadsymbols/80107#post_2)
-- [Anti dependency breaking and the new sceduler](https://discourse.llvm.org/t/anti-dependency-breaking-and-the-new-sceduler/80109#post_1)
-- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_8)
+- [Error trying to run torchscript demo example](https://discourse.llvm.org/t/error-trying-to-run-torchscript-demo-example/80111#post_1)
+- [Using SDNodeXForm on an intrinsic](https://discourse.llvm.org/t/using-sdnodexform-on-an-intrinsic/80110#post_2)
+- [Is it possible to access the AST from the checkDeadSymbols?](https://discourse.llvm.org/t/is-it-possible-to-access-the-ast-from-the-checkdeadsymbols/80107#post_3)
+- [Is there any case where llvm will generate indirect jumps through code optimization?](https://discourse.llvm.org/t/is-there-any-case-where-llvm-will-generate-indirect-jumps-through-code-optimization/80091#post_6)
+- [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_2)
 <!-- DISCOURSE-LLVM:END -->
