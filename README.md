@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=2#post_34)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=2#post_33)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=2#post_32)
+- [Port lldb to illumos?](https://discourse.llvm.org/t/port-lldb-to-illumos/79975#post_4)
 - [Register Allocation and Calling Conventions](https://discourse.llvm.org/t/register-allocation-and-calling-conventions/80127#post_1)
-- [Registering my pass to run after LTO](https://discourse.llvm.org/t/registering-my-pass-to-run-after-lto/80118#post_4)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092#post_16)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092#post_15)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092#post_14)
 <!-- DISCOURSE-LLVM:END -->
