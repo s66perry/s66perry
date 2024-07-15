@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Cloning Module causes segfault](https://discourse.llvm.org/t/cloning-module-causes-segfault/80151#post_1)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_47)
-- [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_4)
-- [Compiler error when adding a pass to passmanager](https://discourse.llvm.org/t/compiler-error-when-adding-a-pass-to-passmanager/80139#post_3)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_46)
+- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095#post_18)
+- [[RFC] Linalg OpDSL constant list attribute definition?](https://discourse.llvm.org/t/rfc-linalg-opdsl-constant-list-attribute-definition/80149#post_2)
+- [Another attempt at building &#39;all&#39;](https://discourse.llvm.org/t/another-attempt-at-building-all/80144#post_2)
+- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095#post_17)
+- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095#post_16)
 <!-- DISCOURSE-LLVM:END -->
