@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Linalg OpDSL constant list attribute definition?](https://discourse.llvm.org/t/rfc-linalg-opdsl-constant-list-attribute-definition/80149#post_5)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092#post_19)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_49)
-- [[RFC] Linalg OpDSL constant list attribute definition?](https://discourse.llvm.org/t/rfc-linalg-opdsl-constant-list-attribute-definition/80149#post_4)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092#post_18)
+- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=2#post_21)
+- [LLVM Weekly - #550, July 15th 2024](https://discourse.llvm.org/t/llvm-weekly-550-july-15th-2024/80156#post_1)
+- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095#post_19)
+- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092#post_20)
+- [How to debug to learn LLVM Backend](https://discourse.llvm.org/t/how-to-debug-to-learn-llvm-backend/79655#post_13)
 <!-- DISCOURSE-LLVM:END -->
