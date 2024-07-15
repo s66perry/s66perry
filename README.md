@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Linalg OpDSL constant list attribute definition?](https://discourse.llvm.org/t/rfc-linalg-opdsl-constant-list-attribute-definition/80149#post_1)
-- [Build options for Valgrind](https://discourse.llvm.org/t/build-options-for-valgrind/80125#post_3)
-- [Build options for Valgrind](https://discourse.llvm.org/t/build-options-for-valgrind/80125#post_2)
-- [Having difficulty finding/generating a JITed function](https://discourse.llvm.org/t/having-difficulty-finding-generating-a-jited-function/80135#post_5)
-- [Allocating for Variables at start of function](https://discourse.llvm.org/t/allocating-for-variables-at-start-of-function/80137#post_2)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_47)
+- [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_4)
+- [Compiler error when adding a pass to passmanager](https://discourse.llvm.org/t/compiler-error-when-adding-a-pass-to-passmanager/80139#post_3)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_46)
+- [Compiler error when adding a pass to passmanager](https://discourse.llvm.org/t/compiler-error-when-adding-a-pass-to-passmanager/80139#post_2)
 <!-- DISCOURSE-LLVM:END -->
