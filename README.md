@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Cloning Module causes segfault](https://discourse.llvm.org/t/cloning-module-causes-segfault/80151#post_3)
-- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_1)
-- [GSoC 2024 Midterm Conference](https://discourse.llvm.org/t/gsoc-2024-midterm-conference/80159#post_1)
-- [Having difficulty finding/generating a JITed function](https://discourse.llvm.org/t/having-difficulty-finding-generating-a-jited-function/80135#post_7)
-- [[RFC] OpenMP workdistribute construct implementation in Flang](https://discourse.llvm.org/t/rfc-openmp-workdistribute-construct-implementation-in-flang/80124#post_3)
+- [[RFC] Linalg OpDSL constant list attribute definition?](https://discourse.llvm.org/t/rfc-linalg-opdsl-constant-list-attribute-definition/80149#post_6)
+- [Compiler error when adding a pass to passmanager](https://discourse.llvm.org/t/compiler-error-when-adding-a-pass-to-passmanager/80139#post_4)
+- [Does emitc dialect support member access opeartor?](https://discourse.llvm.org/t/does-emitc-dialect-support-member-access-opeartor/79600#post_3)
+- [Question about the order of arguments in Python ExecutionEngine invoke](https://discourse.llvm.org/t/question-about-the-order-of-arguments-in-python-executionengine-invoke/80140#post_2)
+- [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_5)
 <!-- DISCOURSE-LLVM:END -->
