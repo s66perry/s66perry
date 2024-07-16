@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lowering from CHIRRTL dialect](https://discourse.llvm.org/t/lowering-from-chirrtl-dialect/80164#post_1)
+- [Port lldb to illumos?](https://discourse.llvm.org/t/port-lldb-to-illumos/79975#post_7)
+- [Port lldb to illumos?](https://discourse.llvm.org/t/port-lldb-to-illumos/79975#post_6)
 - [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_5)
 - [Build options for Valgrind](https://discourse.llvm.org/t/build-options-for-valgrind/80125#post_4)
-- [[RFC] Linalg OpDSL constant list attribute definition?](https://discourse.llvm.org/t/rfc-linalg-opdsl-constant-list-attribute-definition/80149#post_7)
-- [How to debug to learn LLVM Backend](https://discourse.llvm.org/t/how-to-debug-to-learn-llvm-backend/79655#post_15)
-- [How to debug to learn LLVM Backend](https://discourse.llvm.org/t/how-to-debug-to-learn-llvm-backend/79655#post_14)
 <!-- DISCOURSE-LLVM:END -->
