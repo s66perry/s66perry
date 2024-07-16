@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Lowering from CHIRRTL dialect](https://discourse.llvm.org/t/lowering-from-chirrtl-dialect/80164#post_2)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Jul 18](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-jul-18/80167#post_1)
-- [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_2)
-- [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_1)
-- [How to debug &quot;missing registration for dialect for op&quot;?](https://discourse.llvm.org/t/how-to-debug-missing-registration-for-dialect-for-op/80165#post_1)
+- [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_6)
+- [[RFC] Refactoring CGAtomic into LLVMFrontend](https://discourse.llvm.org/t/rfc-refactoring-cgatomic-into-llvmfrontend/80168#post_1)
+- [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_4)
+- [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_3)
+- [Lowering from CHIRRTL dialect](https://discourse.llvm.org/t/lowering-from-chirrtl-dialect/80164#post_3)
 <!-- DISCOURSE-LLVM:END -->
