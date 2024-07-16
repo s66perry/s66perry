@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Status of the PAC implementation](https://discourse.llvm.org/t/status-of-the-pac-implementation/80172#post_4)
+- [Is there a quick+easy way to propose an improvement to the documentation?…](https://discourse.llvm.org/t/is-there-a-quick-easy-way-to-propose-an-improvement-to-the-documentation/80178#post_1)
+- [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_4)
+- [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_3)
 - [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_2)
-- [Status of the PAC implementation](https://discourse.llvm.org/t/status-of-the-pac-implementation/80172#post_3)
-- [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_1)
-- [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_10)
-- [Status of the PAC implementation](https://discourse.llvm.org/t/status-of-the-pac-implementation/80172#post_2)
 <!-- DISCOURSE-LLVM:END -->
