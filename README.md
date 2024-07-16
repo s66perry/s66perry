@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_2)
+- [Status of the PAC implementation](https://discourse.llvm.org/t/status-of-the-pac-implementation/80172#post_3)
+- [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_1)
 - [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_10)
 - [Status of the PAC implementation](https://discourse.llvm.org/t/status-of-the-pac-implementation/80172#post_2)
-- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095?page=2#post_23)
-- [[RFC] Refactoring CGAtomic into LLVMFrontend](https://discourse.llvm.org/t/rfc-refactoring-cgatomic-into-llvmfrontend/80168#post_3)
-- [Compiler error when adding a pass to passmanager](https://discourse.llvm.org/t/compiler-error-when-adding-a-pass-to-passmanager/80139#post_5)
 <!-- DISCOURSE-LLVM:END -->
