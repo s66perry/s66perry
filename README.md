@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_5)
-- [Status of the PAC implementation](https://discourse.llvm.org/t/status-of-the-pac-implementation/80172#post_5)
-- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_4)
-- [RFC: Change the process for requesting commit access](https://discourse.llvm.org/t/rfc-change-the-process-for-requesting-commit-access/80184#post_1)
-- [[RFC] Make SLP Vectorizer revectorize vector instructions](https://discourse.llvm.org/t/rfc-make-slp-vectorizer-revectorize-vector-instructions/79436#post_12)
+- [Build options for Valgrind](https://discourse.llvm.org/t/build-options-for-valgrind/80125#post_8)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_4)
+- [Build options for Valgrind](https://discourse.llvm.org/t/build-options-for-valgrind/80125#post_7)
+- [[OpenMP] How to properly solve Error #15 and link single OpenMP runtime on Winodows, using CMake](https://discourse.llvm.org/t/openmp-how-to-properly-solve-error-15-and-link-single-openmp-runtime-on-winodows-using-cmake/80188#post_1)
+- [Tablegen earlyclobber doesn&#39;t work](https://discourse.llvm.org/t/tablegen-earlyclobber-doesnt-work/80183#post_3)
 <!-- DISCOURSE-LLVM:END -->
