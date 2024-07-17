@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_8)
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_3)
-- [Reduced pre-commit CI bandwidth](https://discourse.llvm.org/t/reduced-pre-commit-ci-bandwidth/80190#post_1)
-- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_7)
-- [Failed to materialize conversion](https://discourse.llvm.org/t/failed-to-materialize-conversion/80108#post_2)
+- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_8)
+- [RFC: remove arith/math ops on tensors](https://discourse.llvm.org/t/rfc-remove-arith-math-ops-on-tensors/74357?page=4#post_70)
+- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_7)
+- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_6)
+- [Build options for Valgrind](https://discourse.llvm.org/t/build-options-for-valgrind/80125#post_10)
 <!-- DISCOURSE-LLVM:END -->
