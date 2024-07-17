@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_3)
+- [Is there a quick+easy way to propose an improvement to the documentation?…](https://discourse.llvm.org/t/is-there-a-quick-easy-way-to-propose-an-improvement-to-the-documentation/80178#post_3)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_2)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_1)
 - [Is there a quick+easy way to propose an improvement to the documentation?…](https://discourse.llvm.org/t/is-there-a-quick-easy-way-to-propose-an-improvement-to-the-documentation/80178#post_2)
-- [Status of the PAC implementation](https://discourse.llvm.org/t/status-of-the-pac-implementation/80172#post_4)
-- [Is there a quick+easy way to propose an improvement to the documentation?…](https://discourse.llvm.org/t/is-there-a-quick-easy-way-to-propose-an-improvement-to-the-documentation/80178#post_1)
-- [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_4)
-- [Clang - force all loads to be extended for a target](https://discourse.llvm.org/t/clang-force-all-loads-to-be-extended-for-a-target/80175#post_3)
 <!-- DISCOURSE-LLVM:END -->
