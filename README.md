@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_1)
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326?page=2#post_27)
-- [How to get Scalar Evolution information of a loop in a Function Pass](https://discourse.llvm.org/t/how-to-get-scalar-evolution-information-of-a-loop-in-a-function-pass/80063#post_2)
-- [Are there plans to execute and host the scan-build/scan-view reports?](https://discourse.llvm.org/t/are-there-plans-to-execute-and-host-the-scan-build-scan-view-reports/79415#post_5)
-- [Tablegen earlyclobber doesn&#39;t work](https://discourse.llvm.org/t/tablegen-earlyclobber-doesnt-work/80183#post_4)
+- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_8)
+- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_3)
+- [Reduced pre-commit CI bandwidth](https://discourse.llvm.org/t/reduced-pre-commit-ci-bandwidth/80190#post_1)
+- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_7)
+- [Failed to materialize conversion](https://discourse.llvm.org/t/failed-to-materialize-conversion/80108#post_2)
 <!-- DISCOURSE-LLVM:END -->
