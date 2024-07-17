@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_16)
-- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_6)
-- [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_16)
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059?page=2#post_33)
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_15)
+- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059?page=2#post_34)
+- [Reduced pre-commit CI bandwidth](https://discourse.llvm.org/t/reduced-pre-commit-ci-bandwidth/80190#post_6)
+- [Reduced pre-commit CI bandwidth](https://discourse.llvm.org/t/reduced-pre-commit-ci-bandwidth/80190#post_5)
+- [Reduced pre-commit CI bandwidth](https://discourse.llvm.org/t/reduced-pre-commit-ci-bandwidth/80190#post_4)
+- [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_13)
 <!-- DISCOURSE-LLVM:END -->
