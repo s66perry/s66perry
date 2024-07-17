@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_14)
+- [Are there plans to execute and host the scan-build/scan-view reports?](https://discourse.llvm.org/t/are-there-plans-to-execute-and-host-the-scan-build-scan-view-reports/79415#post_6)
+- [[RFC] Emit SARIF Diagnostics via -fdiagnostics-format=sarif](https://discourse.llvm.org/t/rfc-emit-sarif-diagnostics-via-fdiagnostics-format-sarif/57850#post_4)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_5)
 - [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_13)
-- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095?page=2#post_25)
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189#post_12)
-- [LLDB test failures on linux](https://discourse.llvm.org/t/lldb-test-failures-on-linux/80095?page=2#post_24)
-- [Building libc as shared object](https://discourse.llvm.org/t/building-libc-as-shared-object/80166#post_13)
 <!-- DISCOURSE-LLVM:END -->
