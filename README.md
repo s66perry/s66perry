@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Building &#39;libc++&#39; for GPU targets](https://discourse.llvm.org/t/rfc-building-libc-for-gpu-targets/80216#post_5)
-- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_13)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_68)
-- [MLIR for arm SME : Reducing tile data transfers](https://discourse.llvm.org/t/mlir-for-arm-sme-reducing-tile-data-transfers/80065#post_5)
-- [PDLL Constraints that return values](https://discourse.llvm.org/t/pdll-constraints-that-return-values/80231#post_2)
+- [Reduced pre-commit CI bandwidth](https://discourse.llvm.org/t/reduced-pre-commit-ci-bandwidth/80190#post_8)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_9)
+- [How to get sizes in bytes allocated for local variables and routine temporaries in machine function pass](https://discourse.llvm.org/t/how-to-get-sizes-in-bytes-allocated-for-local-variables-and-routine-temporaries-in-machine-function-pass/80238#post_1)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_8)
+- [Offloading on nvptx64 target with flang-new leads to `Undefined reference`s](https://discourse.llvm.org/t/offloading-on-nvptx64-target-with-flang-new-leads-to-undefined-reference-s/80237#post_1)
 <!-- DISCOURSE-LLVM:END -->
