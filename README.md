@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[OpenMP] Should we move `loop bind` mapping back to codegen?](https://discourse.llvm.org/t/openmp-should-we-move-loop-bind-mapping-back-to-codegen/80246#post_2)
-- [[OpenMP] Should we move `loop bind` mapping back to codegen?](https://discourse.llvm.org/t/openmp-should-we-move-loop-bind-mapping-back-to-codegen/80246#post_1)
-- [Small improvement to LLVM debugging experience](https://discourse.llvm.org/t/small-improvement-to-llvm-debugging-experience/79914#post_4)
-- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_13)
-- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_12)
+- [&quot;Locating code for reloading infrequently used parameters from stack in LLVM&quot;](https://discourse.llvm.org/t/locating-code-for-reloading-infrequently-used-parameters-from-stack-in-llvm/80230#post_2)
+- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_11)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_102)
+- [[RFC] Request for llvm/wg-hlsl repository](https://discourse.llvm.org/t/rfc-request-for-llvm-wg-hlsl-repository/80248#post_1)
+- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_10)
 <!-- DISCOURSE-LLVM:END -->
