@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [&quot;Locating code for reloading infrequently used parameters from stack in LLVM&quot;](https://discourse.llvm.org/t/locating-code-for-reloading-infrequently-used-parameters-from-stack-in-llvm/80230#post_2)
-- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_11)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_102)
-- [[RFC] Request for llvm/wg-hlsl repository](https://discourse.llvm.org/t/rfc-request-for-llvm-wg-hlsl-repository/80248#post_1)
-- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_10)
+- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=2#post_36)
+- [Local copy of parameters passed by value?](https://discourse.llvm.org/t/local-copy-of-parameters-passed-by-value/80249#post_2)
+- [RFC: Temporal Profiling Extension for IRPGO](https://discourse.llvm.org/t/rfc-temporal-profiling-extension-for-irpgo/68068#post_8)
+- [Duplicate EuroLLVM YouTube Uploads](https://discourse.llvm.org/t/duplicate-eurollvm-youtube-uploads/80250#post_1)
+- [Local copy of parameters passed by value?](https://discourse.llvm.org/t/local-copy-of-parameters-passed-by-value/80249#post_1)
 <!-- DISCOURSE-LLVM:END -->
