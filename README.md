@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_10)
-- [[llvm-cov] Hash mismatches originating from class methods implemented in header files](https://discourse.llvm.org/t/llvm-cov-hash-mismatches-originating-from-class-methods-implemented-in-header-files/79832#post_8)
-- [[llvm-cov] Hash mismatches originating from class methods implemented in header files](https://discourse.llvm.org/t/llvm-cov-hash-mismatches-originating-from-class-methods-implemented-in-header-files/79832#post_7)
-- [[RFC] Building &#39;libc++&#39; for GPU targets](https://discourse.llvm.org/t/rfc-building-libc-for-gpu-targets/80216#post_6)
-- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229#post_3)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_11)
+- [[RFC] Desugar variadics. Codegen for new targets, optimisation for existing](https://discourse.llvm.org/t/rfc-desugar-variadics-codegen-for-new-targets-optimisation-for-existing/72854#post_7)
+- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_2)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=5#post_98)
+- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_1)
 <!-- DISCOURSE-LLVM:END -->
