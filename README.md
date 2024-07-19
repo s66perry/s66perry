@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add nopoison attribute/metadata](https://discourse.llvm.org/t/rfc-add-nopoison-attribute-metadata/79833#post_14)
-- [MLIR for arm SME : Reducing tile data transfers](https://discourse.llvm.org/t/mlir-for-arm-sme-reducing-tile-data-transfers/80065#post_4)
-- [Why bolt will covert tail call to normal call in Bolt?](https://discourse.llvm.org/t/why-bolt-will-covert-tail-call-to-normal-call-in-bolt/80233#post_1)
-- [Loading the index from file](https://discourse.llvm.org/t/loading-the-index-from-file/80221#post_3)
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189?page=2#post_26)
+- [[RFC] Building &#39;libc++&#39; for GPU targets](https://discourse.llvm.org/t/rfc-building-libc-for-gpu-targets/80216#post_5)
+- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_13)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_68)
+- [MLIR for arm SME : Reducing tile data transfers](https://discourse.llvm.org/t/mlir-for-arm-sme-reducing-tile-data-transfers/80065#post_5)
+- [PDLL Constraints that return values](https://discourse.llvm.org/t/pdll-constraints-that-return-values/80231#post_2)
 <!-- DISCOURSE-LLVM:END -->
