@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A user-guided ROM patching mechanism for embedded applications](https://discourse.llvm.org/t/rfc-a-user-guided-rom-patching-mechanism-for-embedded-applications/78467?page=2#post_22)
+- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229#post_4)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=5#post_99)
 - [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_11)
 - [[RFC] Desugar variadics. Codegen for new targets, optimisation for existing](https://discourse.llvm.org/t/rfc-desugar-variadics-codegen-for-new-targets-optimisation-for-existing/72854#post_7)
-- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_2)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=5#post_98)
-- [There&#39;s 939 origin/users branches. Do we want that?](https://discourse.llvm.org/t/theres-939-origin-users-branches-do-we-want-that/80241#post_1)
 <!-- DISCOURSE-LLVM:END -->
