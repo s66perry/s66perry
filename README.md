@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC : Update to &quot;General Design&quot; section of Operation Canonicalizations in MLIR](https://discourse.llvm.org/t/rfc-update-to-general-design-section-of-operation-canonicalizations-in-mlir/79355?page=2#post_36)
 - [Fixed point numbers using IRBuilder](https://discourse.llvm.org/t/fixed-point-numbers-using-irbuilder/80263#post_1)
 - [Type annotations for libclang, Python bindings](https://discourse.llvm.org/t/type-annotations-for-libclang-python-bindings/70644#post_18)
 - [[RFC] Deprecate Ofast in Flang](https://discourse.llvm.org/t/rfc-deprecate-ofast-in-flang/80243#post_2)
 - [[RFC] Refactoring CGAtomic into LLVMFrontend](https://discourse.llvm.org/t/rfc-refactoring-cgatomic-into-llvmfrontend/80168#post_6)
-- [Understanding the philosophy behind building operations, regions and blocks](https://discourse.llvm.org/t/understanding-the-philosophy-behind-building-operations-regions-and-blocks/80215#post_3)
 <!-- DISCOURSE-LLVM:END -->
