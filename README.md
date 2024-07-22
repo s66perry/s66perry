@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Lowering Affine Loops to LLVM](https://discourse.llvm.org/t/lowering-affine-loops-to-llvm/80279#post_8)
-- [Adding third-party source files to LLVM repo](https://discourse.llvm.org/t/adding-third-party-source-files-to-llvm-repo/80283#post_1)
-- [Lowering Affine Loops to LLVM](https://discourse.llvm.org/t/lowering-affine-loops-to-llvm/80279#post_7)
-- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282#post_1)
-- [Lowering Affine Loops to LLVM](https://discourse.llvm.org/t/lowering-affine-loops-to-llvm/80279#post_6)
+- [[RFC] Extend Machine Value Type from `uint8_t` to `uint16_t`](https://discourse.llvm.org/t/rfc-extend-machine-value-type-from-uint8-t-to-uint16-t/80274#post_6)
+- [Offloading on nvptx64 target with flang-new leads to `Undefined reference`s](https://discourse.llvm.org/t/offloading-on-nvptx64-target-with-flang-new-leads-to-undefined-reference-s/80237#post_2)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_113)
+- [Adding third-party source files to LLVM repo](https://discourse.llvm.org/t/adding-third-party-source-files-to-llvm-repo/80283#post_2)
+- [[RFC] Extend Machine Value Type from `uint8_t` to `uint16_t`](https://discourse.llvm.org/t/rfc-extend-machine-value-type-from-uint8-t-to-uint16-t/80274#post_5)
 <!-- DISCOURSE-LLVM:END -->
