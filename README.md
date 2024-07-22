@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding third-party source files to LLVM repo](https://discourse.llvm.org/t/adding-third-party-source-files-to-llvm-repo/80283#post_4)
-- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282#post_15)
-- [Clang++ pointer assignment error message](https://discourse.llvm.org/t/clang-pointer-assignment-error-message/80265#post_6)
-- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282#post_14)
-- [Segmentation fault on memref.store](https://discourse.llvm.org/t/segmentation-fault-on-memref-store/80286#post_1)
+- [Small improvement to LLVM debugging experience](https://discourse.llvm.org/t/small-improvement-to-llvm-debugging-experience/79914#post_5)
+- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229#post_14)
+- [[RFC] Adding a Dormant Mode to AddressSanitizer](https://discourse.llvm.org/t/rfc-adding-a-dormant-mode-to-addresssanitizer/80278#post_6)
+- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229#post_13)
+- [[RFC] Adding a Dormant Mode to AddressSanitizer](https://discourse.llvm.org/t/rfc-adding-a-dormant-mode-to-addresssanitizer/80278#post_5)
 <!-- DISCOURSE-LLVM:END -->
