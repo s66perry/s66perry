@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Lowering Affine Loops to LLVM](https://discourse.llvm.org/t/lowering-affine-loops-to-llvm/80279#post_4)
-- [Lowering Affine Loops to LLVM](https://discourse.llvm.org/t/lowering-affine-loops-to-llvm/80279#post_3)
-- [Lowering Affine Loops to LLVM](https://discourse.llvm.org/t/lowering-affine-loops-to-llvm/80279#post_2)
-- [Extra Vectorizer Passes](https://discourse.llvm.org/t/extra-vectorizer-passes/80195#post_3)
-- [Clang++ pointer assignment error message](https://discourse.llvm.org/t/clang-pointer-assignment-error-message/80265#post_5)
+- [Extra Vectorizer Passes](https://discourse.llvm.org/t/extra-vectorizer-passes/80195#post_6)
+- [Extra Vectorizer Passes](https://discourse.llvm.org/t/extra-vectorizer-passes/80195#post_5)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_105)
+- [[RFC] Adding a Dormant Mode to AddressSanitizer](https://discourse.llvm.org/t/rfc-adding-a-dormant-mode-to-addresssanitizer/80278#post_2)
+- [Extra Vectorizer Passes](https://discourse.llvm.org/t/extra-vectorizer-passes/80195#post_4)
 <!-- DISCOURSE-LLVM:END -->
