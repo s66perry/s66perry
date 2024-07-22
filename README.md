@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Local copy of parameters passed by value?](https://discourse.llvm.org/t/local-copy-of-parameters-passed-by-value/80249#post_3)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_114)
-- [ODR checking status?](https://discourse.llvm.org/t/odr-checking-status/69122#post_12)
-- [ODR checking status?](https://discourse.llvm.org/t/odr-checking-status/69122#post_11)
-- [[RFC] Adding a Dormant Mode to AddressSanitizer](https://discourse.llvm.org/t/rfc-adding-a-dormant-mode-to-addresssanitizer/80278#post_4)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282#post_13)
+- [Local copy of parameters passed by value?](https://discourse.llvm.org/t/local-copy-of-parameters-passed-by-value/80249#post_4)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_116)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282#post_12)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_115)
 <!-- DISCOURSE-LLVM:END -->
