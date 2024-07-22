@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang++ pointer assignment error message](https://discourse.llvm.org/t/clang-pointer-assignment-error-message/80265#post_4)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_15)
-- [[RFC] Introduce new pass/transform: fusion by diffusion](https://discourse.llvm.org/t/rfc-introduce-new-pass-transform-fusion-by-diffusion/79603?page=2#post_21)
-- [[RFC] Extend Machine Value Type from `uint8_t` to `uint16_t`](https://discourse.llvm.org/t/rfc-extend-machine-value-type-from-uint8-t-to-uint16-t/80274#post_2)
-- [[RFC] Extend Machine Value Type from `uint8_t` to `uint16_t`](https://discourse.llvm.org/t/rfc-extend-machine-value-type-from-uint8-t-to-uint16-t/80274#post_1)
+- [Extra Vectorizer Passes](https://discourse.llvm.org/t/extra-vectorizer-passes/80195#post_3)
+- [Clang++ pointer assignment error message](https://discourse.llvm.org/t/clang-pointer-assignment-error-message/80265#post_5)
+- [Lowering Affine Loops to LLVM](https://discourse.llvm.org/t/lowering-affine-loops-to-llvm/80279#post_1)
+- [Extra Vectorizer Passes](https://discourse.llvm.org/t/extra-vectorizer-passes/80195#post_2)
+- [Loading the index from file](https://discourse.llvm.org/t/loading-the-index-from-file/80221#post_10)
 <!-- DISCOURSE-LLVM:END -->
