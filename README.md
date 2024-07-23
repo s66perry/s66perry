@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Foundation - Seeking new Board Members](https://discourse.llvm.org/t/llvm-foundation-seeking-new-board-members/80303#post_1)
-- [Using a PassManager inside a Pass running on a ModuleOp](https://discourse.llvm.org/t/using-a-passmanager-inside-a-pass-running-on-a-moduleop/80302#post_1)
-- [[RFC][ClangIR] Unified Address Space Design in ClangIR](https://discourse.llvm.org/t/rfc-clangir-unified-address-space-design-in-clangir/79728#post_9)
-- [Taint Checkers split: modeling/reporting checkers](https://discourse.llvm.org/t/taint-checkers-split-modeling-reporting-checkers/80301#post_3)
-- [Taint Checkers split: modeling/reporting checkers](https://discourse.llvm.org/t/taint-checkers-split-modeling-reporting-checkers/80301#post_2)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_124)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_123)
+- [Using a PassManager inside a Pass running on a ModuleOp](https://discourse.llvm.org/t/using-a-passmanager-inside-a-pass-running-on-a-moduleop/80302#post_2)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_122)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=6#post_121)
 <!-- DISCOURSE-LLVM:END -->
