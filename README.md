@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Change the process for requesting commit access](https://discourse.llvm.org/t/rfc-change-the-process-for-requesting-commit-access/80184#post_4)
-- [What is the benefit of interpreting PDL?](https://discourse.llvm.org/t/what-is-the-benefit-of-interpreting-pdl/80331#post_1)
-- [PDLL Constraints that return values](https://discourse.llvm.org/t/pdll-constraints-that-return-values/80231#post_3)
-- [How to react to lldb exit with the python API](https://discourse.llvm.org/t/how-to-react-to-lldb-exit-with-the-python-api/80324#post_2)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_131)
+- [Making ffp-model=fast more user friendly](https://discourse.llvm.org/t/making-ffp-model-fast-more-user-friendly/78402#post_4)
+- [Debug information symbols problem](https://discourse.llvm.org/t/debug-information-symbols-problem/79837#post_4)
+- [Arguments when lowering the tensor to the llvm dialect](https://discourse.llvm.org/t/arguments-when-lowering-the-tensor-to-the-llvm-dialect/80332#post_1)
+- [Constructor resolution differs in templated function](https://discourse.llvm.org/t/constructor-resolution-differs-in-templated-function/80101#post_2)
+- [Printing a float from MLIR](https://discourse.llvm.org/t/printing-a-float-from-mlir/80291#post_2)
 <!-- DISCOURSE-LLVM:END -->
