@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What is the meaning of using `addLegalDialect` for `applyPartialConversion`?](https://discourse.llvm.org/t/what-is-the-meaning-of-using-addlegaldialect-for-applypartialconversion/80293#post_4)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_25)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_24)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_23)
 - [About the optimization of the generated LLVM IR function that returns struct type](https://discourse.llvm.org/t/about-the-optimization-of-the-generated-llvm-ir-function-that-returns-struct-type/80308#post_5)
-- [Memref.store storing a memref.load](https://discourse.llvm.org/t/memref-store-storing-a-memref-load/80307#post_2)
-- [Segmentation fault on memref.store](https://discourse.llvm.org/t/segmentation-fault-on-memref-store/80286#post_3)
-- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_22)
-- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
