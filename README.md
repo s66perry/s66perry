@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282#post_18)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282#post_17)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Jun 24 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jun-24-24-6pm/79717#post_4)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Jul 29 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jul-29-24-6pm/80312#post_1)
 - [About the optimization of the generated LLVM IR function that returns struct type](https://discourse.llvm.org/t/about-the-optimization-of-the-generated-llvm-ir-function-that-returns-struct-type/80308#post_4)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=2#post_31)
-- [Adding third-party source files to LLVM repo](https://discourse.llvm.org/t/adding-third-party-source-files-to-llvm-repo/80283#post_7)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=5#post_101)
-- [About the optimization of the generated LLVM IR function that returns struct type](https://discourse.llvm.org/t/about-the-optimization-of-the-generated-llvm-ir-function-that-returns-struct-type/80308#post_3)
 <!-- DISCOURSE-LLVM:END -->
