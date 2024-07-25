@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Libcxx and locale](https://discourse.llvm.org/t/libcxx-and-locale/78917#post_10)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_133)
+- [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_10)
 - [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_132)
 - [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=2#post_35)
-- [Libcxx and locale](https://discourse.llvm.org/t/libcxx-and-locale/78917#post_9)
-- [LLVM Meetup in Munich – July 24th 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-july-24th-2024/80046#post_2)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
