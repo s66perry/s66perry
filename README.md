@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Rounding Error Limits of the **powi** intrinsic](https://discourse.llvm.org/t/rounding-error-limits-of-the-powi-intrinsic/80333#post_5)
-- [[GSOC] The 1001 Thresholds in LLVM — midterm update](https://discourse.llvm.org/t/gsoc-the-1001-thresholds-in-llvm-midterm-update/80350#post_1)
-- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_21)
-- [Clang GenericTaintChecker - Tracking Taint-Propagating Functions](https://discourse.llvm.org/t/clang-generictaintchecker-tracking-taint-propagating-functions/80349#post_2)
-- [Clang GenericTaintChecker - Tracking Taint-Propagating Functions](https://discourse.llvm.org/t/clang-generictaintchecker-tracking-taint-propagating-functions/80349#post_1)
+- [Implementing garbage collector for statepoint-example strategy](https://discourse.llvm.org/t/implementing-garbage-collector-for-statepoint-example-strategy/80352#post_1)
+- [[GSOC] The 1001 Thresholds in LLVM — midterm update](https://discourse.llvm.org/t/gsoc-the-1001-thresholds-in-llvm-midterm-update/80350#post_4)
+- [[GSOC] The 1001 Thresholds in LLVM — midterm update](https://discourse.llvm.org/t/gsoc-the-1001-thresholds-in-llvm-midterm-update/80350#post_3)
+- [Rounding Error Limits of the **powi** intrinsic](https://discourse.llvm.org/t/rounding-error-limits-of-the-powi-intrinsic/80333#post_6)
+- [[GSOC] The 1001 Thresholds in LLVM — midterm update](https://discourse.llvm.org/t/gsoc-the-1001-thresholds-in-llvm-midterm-update/80350#post_2)
 <!-- DISCOURSE-LLVM:END -->
