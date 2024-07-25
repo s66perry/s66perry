@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Libcxx and locale](https://discourse.llvm.org/t/libcxx-and-locale/78917#post_10)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_133)
-- [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_10)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_132)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=2#post_35)
+- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_134)
+- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_15)
+- [Rounding Error Limits of the **powi** intrinsic](https://discourse.llvm.org/t/rounding-error-limits-of-the-powi-intrinsic/80333#post_4)
+- [[RFC] Add suport for QuantileQuantizedType in Quant dialect](https://discourse.llvm.org/t/rfc-add-suport-for-quantilequantizedtype-in-quant-dialect/80346#post_1)
+- [GetArgsAndEnv vs programs that modify their argv](https://discourse.llvm.org/t/getargsandenv-vs-programs-that-modify-their-argv/80345#post_1)
 <!-- DISCOURSE-LLVM:END -->
