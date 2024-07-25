@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=2#post_32)
-- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_27)
-- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_9)
-- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_8)
-- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_7)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_20)
+- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_12)
+- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_11)
+- [Rounding Error Limits of the **powi** intrinsic](https://discourse.llvm.org/t/rounding-error-limits-of-the-powi-intrinsic/80333#post_3)
+- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_10)
 <!-- DISCOURSE-LLVM:END -->
