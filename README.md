@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Change the process for requesting commit access](https://discourse.llvm.org/t/rfc-change-the-process-for-requesting-commit-access/80184#post_6)
+- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=2#post_33)
 - [How to react to lldb exit with the python API](https://discourse.llvm.org/t/how-to-react-to-lldb-exit-with-the-python-api/80324#post_3)
 - [Support for overloading in Intrinsic](https://discourse.llvm.org/t/support-for-overloading-in-intrinsic/80340#post_1)
 - [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_14)
-- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_13)
-- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_20)
 <!-- DISCOURSE-LLVM:END -->
