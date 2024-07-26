@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB: Support renaming symbols by address using a symbol file provided by JSON or other formatted data to assist reverse engineering &lpar;e.g. protobuf, plist, xml, etc&rpar;](https://discourse.llvm.org/t/lldb-support-renaming-symbols-by-address-using-a-symbol-file-provided-by-json-or-other-formatted-data-to-assist-reverse-engineering-e-g-protobuf-plist-xml-etc/80355#post_3)
+- [Intrinsic lowered to pseudo not preserving glue](https://discourse.llvm.org/t/intrinsic-lowered-to-pseudo-not-preserving-glue/80318#post_3)
+- [How to get pointer of a local variable in mlir?](https://discourse.llvm.org/t/how-to-get-pointer-of-a-local-variable-in-mlir/80326#post_3)
+- [LLDB: Support renaming symbols by address using a symbol file provided by JSON or other formatted data to assist reverse engineering &lpar;e.g. protobuf, plist, xml, etc&rpar;](https://discourse.llvm.org/t/lldb-support-renaming-symbols-by-address-using-a-symbol-file-provided-by-json-or-other-formatted-data-to-assist-reverse-engineering-e-g-protobuf-plist-xml-etc/80355#post_2)
 - [How to get pointer of a local variable in mlir?](https://discourse.llvm.org/t/how-to-get-pointer-of-a-local-variable-in-mlir/80326#post_2)
-- [Help Needed: LLVM IR Parsing Error](https://discourse.llvm.org/t/help-needed-llvm-ir-parsing-error/80363#post_2)
-- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_6)
-- [Help Needed: LLVM IR Parsing Error](https://discourse.llvm.org/t/help-needed-llvm-ir-parsing-error/80363#post_1)
-- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_6)
 <!-- DISCOURSE-LLVM:END -->
