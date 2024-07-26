@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_6)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_29)
+- [Cross Compile Any Llvm Component Using Clang Only &lpar;No Gcc Requirement&rpar;?](https://discourse.llvm.org/t/cross-compile-any-llvm-component-using-clang-only-no-gcc-requirement/80282?page=2#post_28)
+- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_5)
 - [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_4)
-- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_3)
-- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_2)
-- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_1)
-- [The question in understand llvm instruction selection](https://discourse.llvm.org/t/the-question-in-understand-llvm-instruction-selection/80321#post_3)
 <!-- DISCOURSE-LLVM:END -->
