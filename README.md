@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_4)
+- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_3)
+- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_2)
+- [Can we use MlirStringRef as return value for mlir c-api and python binding?](https://discourse.llvm.org/t/can-we-use-mlirstringref-as-return-value-for-mlir-c-api-and-python-binding/80356#post_1)
 - [The question in understand llvm instruction selection](https://discourse.llvm.org/t/the-question-in-understand-llvm-instruction-selection/80321#post_3)
-- [LLDB: Support renaming symbols by address using a symbol file provided by JSON or other formatted data to assist reverse engineering &lpar;e.g. protobuf, plist, xml, etc&rpar;](https://discourse.llvm.org/t/lldb-support-renaming-symbols-by-address-using-a-symbol-file-provided-by-json-or-other-formatted-data-to-assist-reverse-engineering-e-g-protobuf-plist-xml-etc/80355#post_1)
-- [Rounding Error Limits of the **powi** intrinsic](https://discourse.llvm.org/t/rounding-error-limits-of-the-powi-intrinsic/80333#post_8)
-- [Rounding Error Limits of the **powi** intrinsic](https://discourse.llvm.org/t/rounding-error-limits-of-the-powi-intrinsic/80333#post_7)
-- [RFC: Deprecate -Ofast](https://discourse.llvm.org/t/rfc-deprecate-ofast/78687?page=7#post_135)
 <!-- DISCOURSE-LLVM:END -->
