@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Making the constructor of the TransformState class protected?](https://discourse.llvm.org/t/rfc-making-the-constructor-of-the-transformstate-class-protected/80377#post_3)
 - [[RFC] Making the constructor of the TransformState class protected?](https://discourse.llvm.org/t/rfc-making-the-constructor-of-the-transformstate-class-protected/80377#post_2)
 - [State of Clang bug database has improved](https://discourse.llvm.org/t/state-of-clang-bug-database-has-improved/80411#post_1)
 - [How to react to lldb exit with the python API](https://discourse.llvm.org/t/how-to-react-to-lldb-exit-with-the-python-api/80324#post_4)
 - [Debug information symbols problem](https://discourse.llvm.org/t/debug-information-symbols-problem/79837#post_7)
-- [Validate that indirectbr targets isn&#39;t empty](https://discourse.llvm.org/t/validate-that-indirectbr-targets-isnt-empty/80410#post_1)
 <!-- DISCOURSE-LLVM:END -->
