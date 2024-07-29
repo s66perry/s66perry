@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Creating External AST Analysis Tool outside of LLVM](https://discourse.llvm.org/t/creating-external-ast-analysis-tool-outside-of-llvm/80414#post_4)
-- [[RFC] Update valueBoundsOpInterface to compute bounds of dynamic stride/offset sizes](https://discourse.llvm.org/t/rfc-update-valueboundsopinterface-to-compute-bounds-of-dynamic-stride-offset-sizes/80426#post_1)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_2)
-- [Creating External AST Analysis Tool outside of LLVM](https://discourse.llvm.org/t/creating-external-ast-analysis-tool-outside-of-llvm/80414#post_3)
-- [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011#post_7)
+- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229#post_15)
+- [[RFC] Update valueBoundsOpInterface to compute bounds of dynamic stride/offset sizes](https://discourse.llvm.org/t/rfc-update-valueboundsopinterface-to-compute-bounds-of-dynamic-stride-offset-sizes/80426#post_2)
+- [How to get pointer of a local variable in mlir?](https://discourse.llvm.org/t/how-to-get-pointer-of-a-local-variable-in-mlir/80326#post_4)
+- [[RFC] Making the constructor of the TransformState class protected?](https://discourse.llvm.org/t/rfc-making-the-constructor-of-the-transformstate-class-protected/80377#post_4)
+- [State of Clang bug database has improved](https://discourse.llvm.org/t/state-of-clang-bug-database-has-improved/80411#post_3)
 <!-- DISCOURSE-LLVM:END -->
