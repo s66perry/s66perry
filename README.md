@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Creating External AST Analysis Tool outside of LLVM](https://discourse.llvm.org/t/creating-external-ast-analysis-tool-outside-of-llvm/80414#post_2)
+- [Should we turn down sending email to commits list &lpar;or turn down the lists entirely&rpar;](https://discourse.llvm.org/t/should-we-turn-down-sending-email-to-commits-list-or-turn-down-the-lists-entirely/80381#post_18)
+- [Should we turn down sending email to commits list &lpar;or turn down the lists entirely&rpar;](https://discourse.llvm.org/t/should-we-turn-down-sending-email-to-commits-list-or-turn-down-the-lists-entirely/80381#post_17)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_1)
 - [Should we turn down sending email to commits list &lpar;or turn down the lists entirely&rpar;](https://discourse.llvm.org/t/should-we-turn-down-sending-email-to-commits-list-or-turn-down-the-lists-entirely/80381#post_16)
-- [State of Clang bug database has improved](https://discourse.llvm.org/t/state-of-clang-bug-database-has-improved/80411#post_2)
-- [LLDB: Support renaming symbols by address using a symbol file provided by JSON or other formatted data to assist reverse engineering &lpar;e.g. protobuf, plist, xml, etc&rpar;](https://discourse.llvm.org/t/lldb-support-renaming-symbols-by-address-using-a-symbol-file-provided-by-json-or-other-formatted-data-to-assist-reverse-engineering-e-g-protobuf-plist-xml-etc/80355#post_7)
-- [Proposal to remove MMX support](https://discourse.llvm.org/t/proposal-to-remove-mmx-support/56304#post_9)
-- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_1)
 <!-- DISCOURSE-LLVM:END -->
