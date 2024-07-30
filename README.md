@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_10)
+- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_2)
+- [Talk on input-gen &lpar;Thursday, Aug 1, 4pm pacific&rpar;](https://discourse.llvm.org/t/talk-on-input-gen-thursday-aug-1-4pm-pacific/80449#post_1)
 - [RFC: Forward-declare mode for DeclPrinter](https://discourse.llvm.org/t/rfc-forward-declare-mode-for-declprinter/78837#post_10)
 - [Introducing input-gen: Automatically generate runnable inputs for your IR](https://discourse.llvm.org/t/introducing-input-gen-automatically-generate-runnable-inputs-for-your-ir/80443#post_3)
-- [Debug information symbols problem](https://discourse.llvm.org/t/debug-information-symbols-problem/79837#post_12)
-- [[GSOC] The 1001 Thresholds in LLVM — midterm update](https://discourse.llvm.org/t/gsoc-the-1001-thresholds-in-llvm-midterm-update/80350#post_5)
-- [[RFC] Update valueBoundsOpInterface to compute bounds of dynamic stride/offset sizes](https://discourse.llvm.org/t/rfc-update-valueboundsopinterface-to-compute-bounds-of-dynamic-stride-offset-sizes/80426#post_5)
 <!-- DISCOURSE-LLVM:END -->
