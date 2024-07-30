@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179#post_22)
+- [[RFC] Making the constructor of the TransformState class protected?](https://discourse.llvm.org/t/rfc-making-the-constructor-of-the-transformstate-class-protected/80377#post_7)
 - [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_4)
 - [[MLIR][Bufferization] Improve performance of DropEquivalentBufferResults Pass](https://discourse.llvm.org/t/mlir-bufferization-improve-performance-of-dropequivalentbufferresults-pass/80453#post_2)
 - [[MLIR][Bufferization] Improve performance of DropEquivalentBufferResults Pass](https://discourse.llvm.org/t/mlir-bufferization-improve-performance-of-dropequivalentbufferresults-pass/80453#post_1)
-- [[RFC] Making the constructor of the TransformState class protected?](https://discourse.llvm.org/t/rfc-making-the-constructor-of-the-transformstate-class-protected/80377#post_6)
-- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_3)
 <!-- DISCOURSE-LLVM:END -->
