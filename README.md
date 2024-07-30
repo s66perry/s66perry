@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [CIRCT Tutorial](https://discourse.llvm.org/t/circt-tutorial/80442#post_5)
-- [[RFC] Disambiguation between loop and block associated omp::ParallelOp](https://discourse.llvm.org/t/rfc-disambiguation-between-loop-and-block-associated-omp-parallelop/79972#post_20)
-- [Should we turn down sending email to commits list &lpar;or turn down the lists entirely&rpar;](https://discourse.llvm.org/t/should-we-turn-down-sending-email-to-commits-list-or-turn-down-the-lists-entirely/80381?page=2#post_32)
-- [[MLIR][Bufferization] Improve performance of DropEquivalentBufferResults Pass](https://discourse.llvm.org/t/mlir-bufferization-improve-performance-of-dropequivalentbufferresults-pass/80453#post_3)
-- [[RFC] Update valueBoundsOpInterface to compute bounds of dynamic stride/offset sizes](https://discourse.llvm.org/t/rfc-update-valueboundsopinterface-to-compute-bounds-of-dynamic-stride-offset-sizes/80426#post_6)
+- [What is the benefit of interpreting PDL?](https://discourse.llvm.org/t/what-is-the-benefit-of-interpreting-pdl/80331#post_3)
+- [Matmul - x86vector dialect vs naive C++](https://discourse.llvm.org/t/matmul-x86vector-dialect-vs-naive-c/80459#post_1)
+- [What is the benefit of interpreting PDL?](https://discourse.llvm.org/t/what-is-the-benefit-of-interpreting-pdl/80331#post_2)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_102)
+- [Using the CUDA Driver to Execute GPU Kernels produced by the GPU Dialect](https://discourse.llvm.org/t/using-the-cuda-driver-to-execute-gpu-kernels-produced-by-the-gpu-dialect/80458#post_1)
 <!-- DISCOURSE-LLVM:END -->
