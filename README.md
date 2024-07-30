@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Introducing input-gen: Automatically generate runnable inputs for your IR](https://discourse.llvm.org/t/introducing-input-gen-automatically-generate-runnable-inputs-for-your-ir/80443#post_2)
+- [CIRCT Tutorial](https://discourse.llvm.org/t/circt-tutorial/80442#post_4)
 - [Generate LLVM IR for benchmark](https://discourse.llvm.org/t/generate-llvm-ir-for-benchmark/80444#post_1)
 - [CIRCT Tutorial](https://discourse.llvm.org/t/circt-tutorial/80442#post_3)
 - [CIRCT Tutorial](https://discourse.llvm.org/t/circt-tutorial/80442#post_2)
-- [Introducing input-gen: Automatically generate runnable inputs for your IR](https://discourse.llvm.org/t/introducing-input-gen-automatically-generate-runnable-inputs-for-your-ir/80443#post_1)
-- [CIRCT Tutorial](https://discourse.llvm.org/t/circt-tutorial/80442#post_1)
 <!-- DISCOURSE-LLVM:END -->
