@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][Bufferization] Improve performance of DropEquivalentBufferResults Pass](https://discourse.llvm.org/t/mlir-bufferization-improve-performance-of-dropequivalentbufferresults-pass/80453#post_4)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_3)
 - [Need a help with the built-bots](https://discourse.llvm.org/t/need-a-help-with-the-built-bots/79437#post_10)
 - [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_11)
 - [[RFC] Overflow Idiom Exclusion](https://discourse.llvm.org/t/rfc-overflow-idiom-exclusion/80093#post_8)
-- [[RFC] Building &#39;libc++&#39; for GPU targets](https://discourse.llvm.org/t/rfc-building-libc-for-gpu-targets/80216#post_8)
-- [Need a help with the built-bots](https://discourse.llvm.org/t/need-a-help-with-the-built-bots/79437#post_9)
 <!-- DISCOURSE-LLVM:END -->
