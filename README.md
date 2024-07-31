@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Possible miscompilation with ORC](https://discourse.llvm.org/t/possible-miscompilation-with-orc/80335#post_15)
-- [[MLIR][Bufferization] Improve performance of DropEquivalentBufferResults Pass](https://discourse.llvm.org/t/mlir-bufferization-improve-performance-of-dropequivalentbufferresults-pass/80453#post_4)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_3)
-- [Need a help with the built-bots](https://discourse.llvm.org/t/need-a-help-with-the-built-bots/79437#post_10)
-- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_11)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_2)
+- [[RFC] Add deprecation warnings to MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-add-deprecation-warnings-to-mcjit-and-runtimedyld/80465#post_1)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_1)
+- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_5)
+- [CIRCT Tutorial](https://discourse.llvm.org/t/circt-tutorial/80442#post_6)
 <!-- DISCOURSE-LLVM:END -->
