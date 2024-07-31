@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help Needed: Pattern Matching Across Basic Blocks in AArch64 LLVM](https://discourse.llvm.org/t/help-needed-pattern-matching-across-basic-blocks-in-aarch64-llvm/80473#post_3)
 - [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_14)
 - [Help Needed: Pattern Matching Across Basic Blocks in AArch64 LLVM](https://discourse.llvm.org/t/help-needed-pattern-matching-across-basic-blocks-in-aarch64-llvm/80473#post_2)
 - [Creating External AST Analysis Tool outside of LLVM](https://discourse.llvm.org/t/creating-external-ast-analysis-tool-outside-of-llvm/80414#post_5)
 - [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_13)
-- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_6)
 <!-- DISCOURSE-LLVM:END -->
