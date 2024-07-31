@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building &#39;libc++&#39; for GPU targets](https://discourse.llvm.org/t/rfc-building-libc-for-gpu-targets/80216#post_10)
+- [[RFC] Building &#39;libc++&#39; for GPU targets](https://discourse.llvm.org/t/rfc-building-libc-for-gpu-targets/80216#post_9)
+- [[RFC] Add suport for QuantileQuantizedType in Quant dialect](https://discourse.llvm.org/t/rfc-add-suport-for-quantilequantizedtype-in-quant-dialect/80346#post_2)
 - [Help Needed: Pattern Matching Across Basic Blocks in AArch64 LLVM](https://discourse.llvm.org/t/help-needed-pattern-matching-across-basic-blocks-in-aarch64-llvm/80473#post_3)
 - [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_14)
-- [Help Needed: Pattern Matching Across Basic Blocks in AArch64 LLVM](https://discourse.llvm.org/t/help-needed-pattern-matching-across-basic-blocks-in-aarch64-llvm/80473#post_2)
-- [Creating External AST Analysis Tool outside of LLVM](https://discourse.llvm.org/t/creating-external-ast-analysis-tool-outside-of-llvm/80414#post_5)
-- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_13)
 <!-- DISCOURSE-LLVM:END -->
