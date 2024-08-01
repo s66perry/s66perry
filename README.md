@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_10)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_9)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_6)
+- [How do I obtain the original data type of a pointer?](https://discourse.llvm.org/t/how-do-i-obtain-the-original-data-type-of-a-pointer/66739#post_6)
 - [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_5)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=2#post_21)
-- [What is the meaning of LLDB_LOG_OPTION_PREPEND_SEQUENCE in LLDB](https://discourse.llvm.org/t/what-is-the-meaning-of-lldb-log-option-prepend-sequence-in-lldb/80409#post_2)
-- [LLDB: Support renaming symbols by address using a symbol file provided by JSON or other formatted data to assist reverse engineering &lpar;e.g. protobuf, plist, xml, etc&rpar;](https://discourse.llvm.org/t/lldb-support-renaming-symbols-by-address-using-a-symbol-file-provided-by-json-or-other-formatted-data-to-assist-reverse-engineering-e-g-protobuf-plist-xml-etc/80355#post_14)
-- [[RFC] Add deprecation warnings to MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-add-deprecation-warnings-to-mcjit-and-runtimedyld/80465#post_3)
 <!-- DISCOURSE-LLVM:END -->
