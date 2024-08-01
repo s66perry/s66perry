@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_6)
-- [Pragma annotations](https://discourse.llvm.org/t/pragma-annotations/80483#post_1)
-- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_10)
-- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_9)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_6)
+- [[torch-mlir] Failed to convert the TTS model to the mlir](https://discourse.llvm.org/t/torch-mlir-failed-to-convert-the-tts-model-to-the-mlir/80466#post_5)
+- [[torch-mlir] Failed to convert the TTS model to the mlir](https://discourse.llvm.org/t/torch-mlir-failed-to-convert-the-tts-model-to-the-mlir/80466#post_4)
+- [[torch-mlir] Failed to convert the TTS model to the mlir](https://discourse.llvm.org/t/torch-mlir-failed-to-convert-the-tts-model-to-the-mlir/80466#post_3)
+- [[RFC] Improvements in the &#39;quant&#39; dialect](https://discourse.llvm.org/t/rfc-improvements-in-the-quant-dialect/79942#post_11)
+- [[torch-mlir] Failed to convert the TTS model to the mlir](https://discourse.llvm.org/t/torch-mlir-failed-to-convert-the-tts-model-to-the-mlir/80466#post_2)
 <!-- DISCOURSE-LLVM:END -->
