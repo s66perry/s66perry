@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_6)
+- [Pragma annotations](https://discourse.llvm.org/t/pragma-annotations/80483#post_1)
 - [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_10)
 - [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_9)
 - [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_6)
-- [How do I obtain the original data type of a pointer?](https://discourse.llvm.org/t/how-do-i-obtain-the-original-data-type-of-a-pointer/66739#post_6)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_5)
 <!-- DISCOURSE-LLVM:END -->
