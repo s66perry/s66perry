@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Opt : Unknow pass name](https://discourse.llvm.org/t/opt-unknow-pass-name/80492#post_1)
 - [Generate COFF symbols even when generating PDB](https://discourse.llvm.org/t/generate-coff-symbols-even-when-generating-pdb/80488#post_2)
+- [How can I solve &quot;error: linker command failed with exit code 1&quot;?](https://discourse.llvm.org/t/how-can-i-solve-error-linker-command-failed-with-exit-code-1/80490#post_1)
 - [Generate COFF symbols even when generating PDB](https://discourse.llvm.org/t/generate-coff-symbols-even-when-generating-pdb/80488#post_1)
 - [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_7)
-- [[RFC][OpenMP] Re-Implement the Parallel Workshare construct](https://discourse.llvm.org/t/rfc-openmp-re-implement-the-parallel-workshare-construct/80060#post_7)
-- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_13)
 <!-- DISCOURSE-LLVM:END -->
