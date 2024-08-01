@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Multilib selection for bare-metal](https://discourse.llvm.org/t/rfc-multilib-selection-for-bare-metal/80505#post_1)
+- [Staging buildmaster no longer collapses requests](https://discourse.llvm.org/t/staging-buildmaster-no-longer-collapses-requests/80500#post_2)
+- [Where to put a target attribute](https://discourse.llvm.org/t/where-to-put-a-target-attribute/80503#post_1)
 - [Are there any best practices for canonicalization in the official dialect?](https://discourse.llvm.org/t/are-there-any-best-practices-for-canonicalization-in-the-official-dialect/80501#post_2)
 - [[RFC] Add suport for QuantileQuantizedType in Quant dialect](https://discourse.llvm.org/t/rfc-add-suport-for-quantilequantizedtype-in-quant-dialect/80346#post_6)
-- [Validate that indirectbr targets isn&#39;t empty](https://discourse.llvm.org/t/validate-that-indirectbr-targets-isnt-empty/80410#post_3)
-- [[RFC] Should `vector.reshape` be removed?](https://discourse.llvm.org/t/rfc-should-vector-reshape-be-removed/80478#post_4)
-- [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011#post_20)
 <!-- DISCOURSE-LLVM:END -->
