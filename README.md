@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Some questions about Profile guided function order via Temporal Profiling, such as binary size regression](https://discourse.llvm.org/t/some-questions-about-profile-guided-function-order-via-temporal-profiling-such-as-binary-size-regression/80513#post_1)
-- [[RFC] Improvements in the &#39;quant&#39; dialect](https://discourse.llvm.org/t/rfc-improvements-in-the-quant-dialect/79942#post_12)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_11)
-- [Update on LLVM 19.x releases](https://discourse.llvm.org/t/update-on-llvm-19-x-releases/80511#post_1)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_10)
+- [Update on LLVM 19.x releases](https://discourse.llvm.org/t/update-on-llvm-19-x-releases/80511#post_2)
+- [Support for overloading in Intrinsic](https://discourse.llvm.org/t/support-for-overloading-in-intrinsic/80340#post_4)
+- [[RFC] Multilib selection for bare-metal](https://discourse.llvm.org/t/rfc-multilib-selection-for-bare-metal/80505#post_2)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_104)
+- [What is the meaning of LLDB_LOG_OPTION_PREPEND_SEQUENCE in LLDB](https://discourse.llvm.org/t/what-is-the-meaning-of-lldb-log-option-prepend-sequence-in-lldb/80409#post_3)
 <!-- DISCOURSE-LLVM:END -->
