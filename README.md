@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to get pointer of a local variable in mlir?](https://discourse.llvm.org/t/how-to-get-pointer-of-a-local-variable-in-mlir/80326#post_5)
+- [Are there any best practices for canonicalization in the official dialect?](https://discourse.llvm.org/t/are-there-any-best-practices-for-canonicalization-in-the-official-dialect/80501#post_3)
+- [Validate that indirectbr targets isn&#39;t empty](https://discourse.llvm.org/t/validate-that-indirectbr-targets-isnt-empty/80410#post_4)
 - [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179?page=2#post_25)
 - [Where to put a target attribute](https://discourse.llvm.org/t/where-to-put-a-target-attribute/80503#post_3)
-- [Can CSSPGO profile contain inlined function samples?](https://discourse.llvm.org/t/can-csspgo-profile-contain-inlined-function-samples/80509#post_2)
-- [Can CSSPGO profile contain inlined function samples?](https://discourse.llvm.org/t/can-csspgo-profile-contain-inlined-function-samples/80509#post_1)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_103)
 <!-- DISCOURSE-LLVM:END -->
