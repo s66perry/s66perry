@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improvements in the &#39;quant&#39; dialect](https://discourse.llvm.org/t/rfc-improvements-in-the-quant-dialect/79942#post_12)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_11)
+- [Update on LLVM 19.x releases](https://discourse.llvm.org/t/update-on-llvm-19-x-releases/80511#post_1)
 - [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_10)
 - [Include guard is getting ignored and header is getting included while compiling cpp program using clang-cl while it should be ignored](https://discourse.llvm.org/t/include-guard-is-getting-ignored-and-header-is-getting-included-while-compiling-cpp-program-using-clang-cl-while-it-should-be-ignored/80495#post_2)
-- [[RFC] Supporting ICF-Merged Functions in GSYM Debug Format](https://discourse.llvm.org/t/rfc-supporting-icf-merged-functions-in-gsym-debug-format/80292#post_3)
-- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_7)
-- [How to get pointer of a local variable in mlir?](https://discourse.llvm.org/t/how-to-get-pointer-of-a-local-variable-in-mlir/80326#post_5)
 <!-- DISCOURSE-LLVM:END -->
