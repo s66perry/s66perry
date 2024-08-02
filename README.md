@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229#post_18)
-- [Questions about MLGO](https://discourse.llvm.org/t/questions-about-mlgo/80519#post_2)
-- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_16)
-- [Lost in the binaries](https://discourse.llvm.org/t/lost-in-the-binaries/80515#post_2)
-- [[RFC] Should `vector.reshape` be removed?](https://discourse.llvm.org/t/rfc-should-vector-reshape-be-removed/80478#post_8)
+- [[RFC] Deprecate Ofast in Flang](https://discourse.llvm.org/t/rfc-deprecate-ofast-in-flang/80243#post_5)
+- [Validate that indirectbr targets isn&#39;t empty](https://discourse.llvm.org/t/validate-that-indirectbr-targets-isnt-empty/80410#post_5)
+- [Lowering 8-bit instruction](https://discourse.llvm.org/t/lowering-8-bit-instruction/80522#post_1)
+- [Trouble compiling Fortran MPI applications with flang-new](https://discourse.llvm.org/t/trouble-compiling-fortran-mpi-applications-with-flang-new/80516#post_4)
+- [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
