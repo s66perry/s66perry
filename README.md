@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Offloading programs can&#39;t be analyzed by the NVIDIA Nsight Compute tool](https://discourse.llvm.org/t/offloading-programs-cant-be-analyzed-by-the-nvidia-nsight-compute-tool/80529#post_5)
 - [Offloading programs can&#39;t be analyzed by the NVIDIA Nsight Compute tool](https://discourse.llvm.org/t/offloading-programs-cant-be-analyzed-by-the-nvidia-nsight-compute-tool/80529#post_4)
 - [RFC: Forward-declare mode for DeclPrinter](https://discourse.llvm.org/t/rfc-forward-declare-mode-for-declprinter/78837#post_12)
 - [Offloading programs can&#39;t be analyzed by the NVIDIA Nsight Compute tool](https://discourse.llvm.org/t/offloading-programs-cant-be-analyzed-by-the-nvidia-nsight-compute-tool/80529#post_3)
 - [Liveness Analysis for Bufferization deallocation](https://discourse.llvm.org/t/liveness-analysis-for-bufferization-deallocation/74938#post_8)
-- [[PSA] New MLIR-LSP features](https://discourse.llvm.org/t/psa-new-mlir-lsp-features/64017#post_17)
 <!-- DISCOURSE-LLVM:END -->
