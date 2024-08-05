@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Target ABI: improve call parameters extensions handling](https://discourse.llvm.org/t/target-abi-improve-call-parameters-extensions-handling/80553#post_1)
+- [Llvm-objcopy custom symbol names](https://discourse.llvm.org/t/llvm-objcopy-custom-symbol-names/80526#post_6)
+- [Llvm-objcopy custom symbol names](https://discourse.llvm.org/t/llvm-objcopy-custom-symbol-names/80526#post_5)
 - [Debug information symbols problem](https://discourse.llvm.org/t/debug-information-symbols-problem/79837#post_16)
 - [Llvm-objcopy custom symbol names](https://discourse.llvm.org/t/llvm-objcopy-custom-symbol-names/80526#post_4)
-- [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011?page=2#post_25)
-- [Does clang support CUDA&#39;s dynamic parallelism feature?](https://discourse.llvm.org/t/does-clang-support-cudas-dynamic-parallelism-feature/68373#post_6)
-- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_1)
 <!-- DISCOURSE-LLVM:END -->
