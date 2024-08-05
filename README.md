@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Uninstrumented LLVM build with AddressSanitizer instrumented user](https://discourse.llvm.org/t/uninstrumented-llvm-build-with-addresssanitizer-instrumented-user/80563#post_2)
+- [Uninstrumented LLVM build with AddressSanitizer instrumented user](https://discourse.llvm.org/t/uninstrumented-llvm-build-with-addresssanitizer-instrumented-user/80563#post_1)
+- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_42)
 - [Liveness Analysis for Bufferization deallocation](https://discourse.llvm.org/t/liveness-analysis-for-bufferization-deallocation/74938#post_10)
 - [Validate that indirectbr targets isn&#39;t empty](https://discourse.llvm.org/t/validate-that-indirectbr-targets-isnt-empty/80410#post_6)
-- [Debug information symbols problem](https://discourse.llvm.org/t/debug-information-symbols-problem/79837#post_17)
-- [Maximise SP-indexed instructions](https://discourse.llvm.org/t/maximise-sp-indexed-instructions/80542#post_2)
-- [Expository articles on LoopVectorize and the backend](https://discourse.llvm.org/t/expository-articles-on-loopvectorize-and-the-backend/80561#post_1)
 <!-- DISCOURSE-LLVM:END -->
