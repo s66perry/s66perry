@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to react to lldb exit with the python API](https://discourse.llvm.org/t/how-to-react-to-lldb-exit-with-the-python-api/80324#post_5)
-- [AArch64 syncup call August](https://discourse.llvm.org/t/aarch64-syncup-call-august/80548#post_1)
-- [[RFC] Update valueBoundsOpInterface to compute bounds of dynamic stride/offset sizes](https://discourse.llvm.org/t/rfc-update-valueboundsopinterface-to-compute-bounds-of-dynamic-stride-offset-sizes/80426#post_12)
-- [[RFC] Update valueBoundsOpInterface to compute bounds of dynamic stride/offset sizes](https://discourse.llvm.org/t/rfc-update-valueboundsopinterface-to-compute-bounds-of-dynamic-stride-offset-sizes/80426#post_11)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_15)
+- [Debug information symbols problem](https://discourse.llvm.org/t/debug-information-symbols-problem/79837#post_16)
+- [Llvm-objcopy custom symbol names](https://discourse.llvm.org/t/llvm-objcopy-custom-symbol-names/80526#post_4)
+- [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011?page=2#post_25)
+- [Does clang support CUDA&#39;s dynamic parallelism feature?](https://discourse.llvm.org/t/does-clang-support-cudas-dynamic-parallelism-feature/68373#post_6)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_1)
 <!-- DISCOURSE-LLVM:END -->
