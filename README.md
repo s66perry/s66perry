@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_5)
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_4)
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_3)
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_2)
 - [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_2)
-- [PSA: Modelling memory of EmitC variables](https://discourse.llvm.org/t/psa-modelling-memory-of-emitc-variables/80556#post_1)
-- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_1)
-- [Can we get the LLVM 19 release notes generated?](https://discourse.llvm.org/t/can-we-get-the-llvm-19-release-notes-generated/80545#post_3)
-- [Llvm-objcopy custom symbol names](https://discourse.llvm.org/t/llvm-objcopy-custom-symbol-names/80526#post_7)
 <!-- DISCOURSE-LLVM:END -->
