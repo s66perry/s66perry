@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Update valueBoundsOpInterface to compute bounds of dynamic stride/offset sizes](https://discourse.llvm.org/t/rfc-update-valueboundsopinterface-to-compute-bounds-of-dynamic-stride-offset-sizes/80426#post_9)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_14)
+- [[libc][RFC] Introduce MCS-based Flat-Combining Lambda Lock](https://discourse.llvm.org/t/libc-rfc-introduce-mcs-based-flat-combining-lambda-lock/80543#post_1)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_13)
 - [Maximise SP-indexed instructions](https://discourse.llvm.org/t/maximise-sp-indexed-instructions/80542#post_1)
-- [Liveness Analysis for Bufferization deallocation](https://discourse.llvm.org/t/liveness-analysis-for-bufferization-deallocation/74938#post_9)
-- [MLIR C/C++ Frontend Working Group [Mon, Aug 5th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-aug-5th/80541#post_1)
-- [Mlir - Emitc: Translate to C](https://discourse.llvm.org/t/mlir-emitc-translate-to-c/79647#post_3)
-- [Beginner question: Criteria for Expand/Promote vs Custom, how to know what Expand/Promote will do?](https://discourse.llvm.org/t/beginner-question-criteria-for-expand-promote-vs-custom-how-to-know-what-expand-promote-will-do/80533#post_4)
 <!-- DISCOURSE-LLVM:END -->
