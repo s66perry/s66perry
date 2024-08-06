@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[OMP][CodeGen] OMP Scan CodeGen is broken](https://discourse.llvm.org/t/omp-codegen-omp-scan-codegen-is-broken/80572#post_1)
+- [Buildbot paused?](https://discourse.llvm.org/t/buildbot-paused/80564#post_2)
+- [[RFC] Multilib selection for bare-metal](https://discourse.llvm.org/t/rfc-multilib-selection-for-bare-metal/80505#post_4)
+- [CMake: __config_site install location when using multilibs](https://discourse.llvm.org/t/cmake-config-site-install-location-when-using-multilibs/72895#post_3)
 - [Uninstrumented LLVM build with AddressSanitizer instrumented user](https://discourse.llvm.org/t/uninstrumented-llvm-build-with-addresssanitizer-instrumented-user/80563#post_3)
-- [Debug information symbols problem](https://discourse.llvm.org/t/debug-information-symbols-problem/79837#post_18)
-- [Some questions about Profile guided function order via Temporal Profiling, such as binary size regression](https://discourse.llvm.org/t/some-questions-about-profile-guided-function-order-via-temporal-profiling-such-as-binary-size-regression/80513#post_3)
-- [Better location of `affine.delinearize` operation](https://discourse.llvm.org/t/better-location-of-affine-delinearize-operation/80565#post_6)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_16)
 <!-- DISCOURSE-LLVM:END -->
