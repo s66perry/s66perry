@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to run the unit test for contributing a new clang-tidy check to LLVM?](https://discourse.llvm.org/t/how-to-run-the-unit-test-for-contributing-a-new-clang-tidy-check-to-llvm/80576#post_1)
 - [Buildbot paused?](https://discourse.llvm.org/t/buildbot-paused/80564#post_3)
 - [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011?page=2#post_27)
 - [Better location of `affine.delinearize` operation](https://discourse.llvm.org/t/better-location-of-affine-delinearize-operation/80565#post_7)
 - [Llvm-objcopy custom symbol names](https://discourse.llvm.org/t/llvm-objcopy-custom-symbol-names/80526#post_8)
-- [KMP_AFFINITY and PROC_BIND for ARM](https://discourse.llvm.org/t/kmp-affinity-and-proc-bind-for-arm/80011?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
