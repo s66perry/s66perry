@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_5)
+- [Fatal error when linking CXX shared library ../../lib/libLTO.so](https://discourse.llvm.org/t/fatal-error-when-linking-cxx-shared-library-lib-liblto-so/80600#post_1)
+- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_4)
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_7)
 - [NewPM: C API questions](https://discourse.llvm.org/t/newpm-c-api-questions/80598#post_2)
-- [Dead 2+ level ConstantExprs](https://discourse.llvm.org/t/dead-2-level-constantexprs/80590#post_4)
-- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_6)
-- [Debug information symbols of downstream target due to linker relaxation](https://discourse.llvm.org/t/debug-information-symbols-of-downstream-target-due-to-linker-relaxation/79837#post_19)
-- [NewPM: C API questions](https://discourse.llvm.org/t/newpm-c-api-questions/80598#post_1)
 <!-- DISCOURSE-LLVM:END -->
