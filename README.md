@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to include system headers e.g. do #include &lt;memory&gt; in unittest?](https://discourse.llvm.org/t/how-to-include-system-headers-e-g-do-include-memory-in-unittest/80593#post_4)
-- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_10)
-- [`vscale` of SVE vectors on AWS Graviton 4 &lpar;Neoverse V2&rpar;](https://discourse.llvm.org/t/vscale-of-sve-vectors-on-aws-graviton-4-neoverse-v2/80597#post_2)
-- [Use the analysis of previous machine function pass](https://discourse.llvm.org/t/use-the-analysis-of-previous-machine-function-pass/80594#post_5)
-- [How to include system headers e.g. do #include &lt;memory&gt; in unittest?](https://discourse.llvm.org/t/how-to-include-system-headers-e-g-do-include-memory-in-unittest/80593#post_3)
+- [Debug information symbols of downstream target due to linker relaxation](https://discourse.llvm.org/t/debug-information-symbols-of-downstream-target-due-to-linker-relaxation/79837#post_19)
+- [NewPM: C API questions](https://discourse.llvm.org/t/newpm-c-api-questions/80598#post_1)
+- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417#post_11)
+- [Changing TableGen getAllDerivedDefinitions to return `ArrayRef&lt;const Record *&gt;`?](https://discourse.llvm.org/t/changing-tablegen-getallderiveddefinitions-to-return-arrayref-const-record/80586#post_3)
+- [Use of NewPM C API with pipeline parsing callbacks](https://discourse.llvm.org/t/use-of-newpm-c-api-with-pipeline-parsing-callbacks/79545#post_5)
 <!-- DISCOURSE-LLVM:END -->
