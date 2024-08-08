@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Better location of `affine.delinearize` operation](https://discourse.llvm.org/t/better-location-of-affine-delinearize-operation/80565#post_11)
-- [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_1)
-- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_16)
-- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_15)
-- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_12)
+- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_46)
+- [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_2)
+- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_45)
+- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_19)
+- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_18)
 <!-- DISCOURSE-LLVM:END -->
