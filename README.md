@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_46)
-- [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_2)
-- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_45)
-- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_19)
-- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_18)
+- [Static rounding mode in IR](https://discourse.llvm.org/t/static-rounding-mode-in-ir/80621#post_2)
+- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_2)
+- [Static rounding mode in IR](https://discourse.llvm.org/t/static-rounding-mode-in-ir/80621#post_1)
+- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_1)
+- [Referencing Clang in derivative name](https://discourse.llvm.org/t/referencing-clang-in-derivative-name/80618#post_1)
 <!-- DISCOURSE-LLVM:END -->
