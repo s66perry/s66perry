@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_44)
-- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_4)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_108)
-- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_43)
-- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_3)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_8)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_7)
+- [[RFC] Multilib selection for bare-metal](https://discourse.llvm.org/t/rfc-multilib-selection-for-bare-metal/80505#post_6)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_6)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_5)
 <!-- DISCOURSE-LLVM:END -->
