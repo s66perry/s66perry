@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Citing CIRCT](https://discourse.llvm.org/t/citing-circt/80624#post_2)
-- [Citing CIRCT](https://discourse.llvm.org/t/citing-circt/80624#post_1)
-- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_8)
-- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_4)
-- [[RFC] Add deprecation warnings to MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-add-deprecation-warnings-to-mcjit-and-runtimedyld/80465#post_4)
+- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_8)
+- [RFC: HWPGO, i.e., adding new SPGO feedback types](https://discourse.llvm.org/t/rfc-hwpgo-i-e-adding-new-spgo-feedback-types/80582#post_10)
+- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229?page=2#post_24)
+- [Static rounding mode in IR](https://discourse.llvm.org/t/static-rounding-mode-in-ir/80621#post_6)
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374#post_4)
 <!-- DISCOURSE-LLVM:END -->
