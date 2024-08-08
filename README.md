@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_3)
+- [[RFC] Add auxiliary field for per-pass custom data to BasicBlock](https://discourse.llvm.org/t/rfc-add-auxiliary-field-for-per-pass-custom-data-to-basicblock/80229?page=2#post_23)
 - [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_15)
 - [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_14)
 - [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_13)
-- [RFC: HWPGO, i.e., adding new SPGO feedback types](https://discourse.llvm.org/t/rfc-hwpgo-i-e-adding-new-spgo-feedback-types/80582#post_9)
-- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596#post_12)
 <!-- DISCOURSE-LLVM:END -->
