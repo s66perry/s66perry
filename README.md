@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Clang] forward declaration + typedef change class attributes?](https://discourse.llvm.org/t/clang-forward-declaration-typedef-change-class-attributes/80612#post_1)
+- [NewPM: C API questions](https://discourse.llvm.org/t/newpm-c-api-questions/80598#post_3)
 - [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_11)
 - [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_10)
 - [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_9)
-- [Llvm-config outputs the paths containing spaces without escaping/quoting](https://discourse.llvm.org/t/llvm-config-outputs-the-paths-containing-spaces-without-escaping-quoting/80602#post_2)
-- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_8)
 <!-- DISCOURSE-LLVM:END -->
