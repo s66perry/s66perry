@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Receiving commit activities &lpar;webhook&rpar; for external mirrors](https://discourse.llvm.org/t/receiving-commit-activities-webhook-for-external-mirrors/80629#post_2)
-- [Referencing Clang in derivative name](https://discourse.llvm.org/t/referencing-clang-in-derivative-name/80618#post_2)
-- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596?page=2#post_22)
-- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_5)
-- [Include guard is getting ignored and header is getting included while compiling cpp program using clang-cl while it should be ignored](https://discourse.llvm.org/t/include-guard-is-getting-ignored-and-header-is-getting-included-while-compiling-cpp-program-using-clang-cl-while-it-should-be-ignored/80495#post_3)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_3)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_13)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_2)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_1)
+- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
