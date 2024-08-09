@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How do I get the target Triple in this LLVM portion?](https://discourse.llvm.org/t/how-do-i-get-the-target-triple-in-this-llvm-portion/80636#post_1)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_17)
 - [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_3)
 - [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_13)
 - [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_2)
-- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596?page=2#post_21)
-- [Where should &quot;contradictory&quot; attributes be handled?](https://discourse.llvm.org/t/where-should-contradictory-attributes-be-handled/80632#post_1)
 <!-- DISCOURSE-LLVM:END -->
