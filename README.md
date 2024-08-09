@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_4)
-- [How to match a pointer typed field inside a lambda?](https://discourse.llvm.org/t/how-to-match-a-pointer-typed-field-inside-a-lambda/80638#post_1)
-- [How do I get the target Triple in this LLVM portion?](https://discourse.llvm.org/t/how-do-i-get-the-target-triple-in-this-llvm-portion/80636#post_2)
-- [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_4)
-- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_14)
+- [Receiving commit activities &lpar;webhook&rpar; for external mirrors](https://discourse.llvm.org/t/receiving-commit-activities-webhook-for-external-mirrors/80629#post_2)
+- [Referencing Clang in derivative name](https://discourse.llvm.org/t/referencing-clang-in-derivative-name/80618#post_2)
+- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596?page=2#post_22)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_5)
+- [Include guard is getting ignored and header is getting included while compiling cpp program using clang-cl while it should be ignored](https://discourse.llvm.org/t/include-guard-is-getting-ignored-and-header-is-getting-included-while-compiling-cpp-program-using-clang-cl-while-it-should-be-ignored/80495#post_3)
 <!-- DISCOURSE-LLVM:END -->
