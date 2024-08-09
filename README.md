@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Next Toronto LLVM Meetup - August 15](https://discourse.llvm.org/t/next-toronto-llvm-meetup-august-15/80630#post_1)
-- [[RFC] Add deprecation warnings to MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-add-deprecation-warnings-to-mcjit-and-runtimedyld/80465#post_5)
-- [Receiving commit activities &lpar;webhook&rpar; for external mirrors](https://discourse.llvm.org/t/receiving-commit-activities-webhook-for-external-mirrors/80629#post_1)
-- [G++: fatal error: Killed signal terminated program cc1plus](https://discourse.llvm.org/t/g-fatal-error-killed-signal-terminated-program-cc1plus/80628#post_2)
-- [G++: fatal error: Killed signal terminated program cc1plus](https://discourse.llvm.org/t/g-fatal-error-killed-signal-terminated-program-cc1plus/80628#post_1)
+- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596?page=2#post_21)
+- [Where should &quot;contradictory&quot; attributes be handled?](https://discourse.llvm.org/t/where-should-contradictory-attributes-be-handled/80632#post_1)
+- [RFC: HWPGO, i.e., adding new SPGO feedback types](https://discourse.llvm.org/t/rfc-hwpgo-i-e-adding-new-spgo-feedback-types/80582#post_14)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Jul 29 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jul-29-24-6pm/80312#post_2)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 12 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-12-24-6pm/80631#post_1)
 <!-- DISCOURSE-LLVM:END -->
