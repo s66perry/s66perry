@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- DISCOURSE-LLVM:START -->
 - [Trying to figure out how to read output from cindex cursors](https://discourse.llvm.org/t/trying-to-figure-out-how-to-read-output-from-cindex-cursors/80661#post_1)
+- [Optimizations are causing excessive stack usage](https://discourse.llvm.org/t/optimizations-are-causing-excessive-stack-usage/77423#post_6)
 - [Clarification on .llvm.xxx Suffix in Symbol Names with LLVM LTO](https://discourse.llvm.org/t/clarification-on-llvm-xxx-suffix-in-symbol-names-with-llvm-lto/80658#post_2)
 - [Clarification on .llvm.xxx Suffix in Symbol Names with LLVM LTO](https://discourse.llvm.org/t/clarification-on-llvm-xxx-suffix-in-symbol-names-with-llvm-lto/80658#post_1)
 - [Better location of `affine.delinearize` operation](https://discourse.llvm.org/t/better-location-of-affine-delinearize-operation/80565#post_12)
-- [[mlir][linalg] affine_map of Conv1DNcwFcwOp](https://discourse.llvm.org/t/mlir-linalg-affine-map-of-conv1dncwfcwop/80470#post_2)
 <!-- DISCOURSE-LLVM:END -->
