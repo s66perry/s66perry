@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374#post_6)
+- [Clarification on .llvm.xxx Suffix in Symbol Names with LLVM LTO](https://discourse.llvm.org/t/clarification-on-llvm-xxx-suffix-in-symbol-names-with-llvm-lto/80658#post_3)
+- [Where should &quot;contradictory&quot; attributes be handled?](https://discourse.llvm.org/t/where-should-contradictory-attributes-be-handled/80632#post_3)
 - [Preventing invalidation and &quot;fallback&quot; `evalCall` callbacks](https://discourse.llvm.org/t/preventing-invalidation-and-fallback-evalcall-callbacks/80674#post_2)
 - [Preventing invalidation and &quot;fallback&quot; `evalCall` callbacks](https://discourse.llvm.org/t/preventing-invalidation-and-fallback-evalcall-callbacks/80674#post_1)
-- [How to get the Constant FP value from a load from a constant pool?](https://discourse.llvm.org/t/how-to-get-the-constant-fp-value-from-a-load-from-a-constant-pool/80673#post_1)
-- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_12)
-- [[RFC] Unify the semantics of program points](https://discourse.llvm.org/t/rfc-unify-the-semantics-of-program-points/80671#post_2)
 <!-- DISCOURSE-LLVM:END -->
