@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Understanding transform::PromoteOp limitations and implementation](https://discourse.llvm.org/t/understanding-transform-promoteop-limitations-and-implementation/80691#post_1)
-- [Up-to-date instructions for using CSSPGO](https://discourse.llvm.org/t/up-to-date-instructions-for-using-csspgo/70892#post_2)
-- [[RFC] Unify the semantics of program points](https://discourse.llvm.org/t/rfc-unify-the-semantics-of-program-points/80671#post_3)
-- [Can CSSPGO profile contain inlined function samples?](https://discourse.llvm.org/t/can-csspgo-profile-contain-inlined-function-samples/80509#post_4)
-- [Duplicate EuroLLVM YouTube Uploads](https://discourse.llvm.org/t/duplicate-eurollvm-youtube-uploads/80250#post_2)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_14)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_13)
+- [Understanding transform::PromoteOp limitations and implementation](https://discourse.llvm.org/t/understanding-transform-promoteop-limitations-and-implementation/80691#post_2)
+- [Why call initializeXYZPass&lpar;&rpar; from XYZ constructor?](https://discourse.llvm.org/t/why-call-initializexyzpass-from-xyz-constructor/80692#post_1)
+- [C-API with Python wrapper vs In tree pybind interface](https://discourse.llvm.org/t/c-api-with-python-wrapper-vs-in-tree-pybind-interface/1054#post_12)
 <!-- DISCOURSE-LLVM:END -->
