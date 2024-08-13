@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support/GlobPattern: add operator to invert matches](https://discourse.llvm.org/t/rfc-support-globpattern-add-operator-to-invert-matches/80683#post_1)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_18)
+- [[RFC] Supporting ICF-Merged Functions in GSYM Debug Format](https://discourse.llvm.org/t/rfc-supporting-icf-merged-functions-in-gsym-debug-format/80292#post_4)
+- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_1)
 - [Uninstrumented LLVM build with AddressSanitizer instrumented user](https://discourse.llvm.org/t/uninstrumented-llvm-build-with-addresssanitizer-instrumented-user/80563#post_13)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_109)
-- [RFC: HWPGO, i.e., adding new SPGO feedback types](https://discourse.llvm.org/t/rfc-hwpgo-i-e-adding-new-spgo-feedback-types/80582#post_19)
-- [Lowering SETCC limited to 8-bit result](https://discourse.llvm.org/t/lowering-setcc-limited-to-8-bit-result/80681#post_5)
-- [Lowering SETCC limited to 8-bit result](https://discourse.llvm.org/t/lowering-setcc-limited-to-8-bit-result/80681#post_4)
 <!-- DISCOURSE-LLVM:END -->
