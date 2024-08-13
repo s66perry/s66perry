@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Duplicate EuroLLVM YouTube Uploads](https://discourse.llvm.org/t/duplicate-eurollvm-youtube-uploads/80250#post_2)
+- [Preventing invalidation and &quot;fallback&quot; `evalCall` callbacks](https://discourse.llvm.org/t/preventing-invalidation-and-fallback-evalcall-callbacks/80674#post_3)
 - [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_7)
 - [C-API with Python wrapper vs In tree pybind interface](https://discourse.llvm.org/t/c-api-with-python-wrapper-vs-in-tree-pybind-interface/1054#post_11)
 - [Uninstrumented LLVM build with AddressSanitizer instrumented user](https://discourse.llvm.org/t/uninstrumented-llvm-build-with-addresssanitizer-instrumented-user/80563#post_14)
-- [[RFC] Transpose attribute for Linalg matmul operations](https://discourse.llvm.org/t/rfc-transpose-attribute-for-linalg-matmul-operations/80092?page=3#post_42)
-- [Some questions about Profile guided function order via Temporal Profiling, such as binary size regression](https://discourse.llvm.org/t/some-questions-about-profile-guided-function-order-via-temporal-profiling-such-as-binary-size-regression/80513#post_7)
 <!-- DISCOURSE-LLVM:END -->
