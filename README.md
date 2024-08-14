@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_2)
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_1)
 - [Creating memory instructions without insertion](https://discourse.llvm.org/t/creating-memory-instructions-without-insertion/80707#post_5)
 - [Creating memory instructions without insertion](https://discourse.llvm.org/t/creating-memory-instructions-without-insertion/80707#post_4)
 - [Gpu.memcpy does not support generic memref layouts](https://discourse.llvm.org/t/gpu-memcpy-does-not-support-generic-memref-layouts/80695#post_4)
-- [Gpu.memcpy does not support generic memref layouts](https://discourse.llvm.org/t/gpu-memcpy-does-not-support-generic-memref-layouts/80695#post_3)
-- [[RFC] Add a new Structure Layout Optimization pass](https://discourse.llvm.org/t/rfc-add-a-new-structure-layout-optimization-pass/80596?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
