@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Need some help debugging alignment issue in custom backend](https://discourse.llvm.org/t/need-some-help-debugging-alignment-issue-in-custom-backend/80713#post_2)
+- [Need some help debugging alignment issue in custom backend](https://discourse.llvm.org/t/need-some-help-debugging-alignment-issue-in-custom-backend/80713#post_1)
+- [Using operation properties for better lifetime control in MLIR](https://discourse.llvm.org/t/using-operation-properties-for-better-lifetime-control-in-mlir/80711#post_1)
 - [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_2)
 - [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_1)
-- [Creating memory instructions without insertion](https://discourse.llvm.org/t/creating-memory-instructions-without-insertion/80707#post_5)
-- [Creating memory instructions without insertion](https://discourse.llvm.org/t/creating-memory-instructions-without-insertion/80707#post_4)
-- [Gpu.memcpy does not support generic memref layouts](https://discourse.llvm.org/t/gpu-memcpy-does-not-support-generic-memref-layouts/80695#post_4)
 <!-- DISCOURSE-LLVM:END -->
