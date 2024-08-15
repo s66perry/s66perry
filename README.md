@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_19)
-- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_16)
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_18)
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_17)
-- [Using operation properties for better lifetime control in MLIR](https://discourse.llvm.org/t/using-operation-properties-for-better-lifetime-control-in-mlir/80711#post_3)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_17)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_21)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_16)
+- [How to optimize assembly emit for LLVM?](https://discourse.llvm.org/t/how-to-optimize-assembly-emit-for-llvm/80718#post_2)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_15)
 <!-- DISCOURSE-LLVM:END -->
