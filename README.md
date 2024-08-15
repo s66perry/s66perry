@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add clang atomic control options and pragmas](https://discourse.llvm.org/t/rfc-add-clang-atomic-control-options-and-pragmas/80641#post_12)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_111)
-- [Lowering tosa to linalg problem with unsigned types](https://discourse.llvm.org/t/lowering-tosa-to-linalg-problem-with-unsigned-types/80704#post_5)
-- [Retrieving output of LLVMVerifyFunction](https://discourse.llvm.org/t/retrieving-output-of-llvmverifyfunction/80719#post_2)
-- [How to optimize assembly emit for LLVM?](https://discourse.llvm.org/t/how-to-optimize-assembly-emit-for-llvm/80718#post_3)
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_27)
+- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_112)
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_9)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_69)
+- [How to optimize assembly emit for LLVM?](https://discourse.llvm.org/t/how-to-optimize-assembly-emit-for-llvm/80718#post_4)
 <!-- DISCOURSE-LLVM:END -->
