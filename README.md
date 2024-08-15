@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_27)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_112)
-- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_9)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_69)
-- [How to optimize assembly emit for LLVM?](https://discourse.llvm.org/t/how-to-optimize-assembly-emit-for-llvm/80718#post_4)
+- [[RFC] Add clang atomic control options and pragmas](https://discourse.llvm.org/t/rfc-add-clang-atomic-control-options-and-pragmas/80641#post_16)
+- [[RFC] Add clang atomic control options and pragmas](https://discourse.llvm.org/t/rfc-add-clang-atomic-control-options-and-pragmas/80641#post_15)
+- [[RFC] Add clang atomic control options and pragmas](https://discourse.llvm.org/t/rfc-add-clang-atomic-control-options-and-pragmas/80641#post_14)
+- [Uninstrumented LLVM build with AddressSanitizer instrumented user](https://discourse.llvm.org/t/uninstrumented-llvm-build-with-addresssanitizer-instrumented-user/80563#post_17)
+- [Does Dialect Conversion Require Canonicalization?](https://discourse.llvm.org/t/does-dialect-conversion-require-canonicalization/80734#post_1)
 <!-- DISCOURSE-LLVM:END -->
