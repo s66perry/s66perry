@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_14)
-- [Need some help debugging alignment issue in custom backend](https://discourse.llvm.org/t/need-some-help-debugging-alignment-issue-in-custom-backend/80713#post_6)
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_13)
-- [Need some help debugging alignment issue in custom backend](https://discourse.llvm.org/t/need-some-help-debugging-alignment-issue-in-custom-backend/80713#post_5)
-- [How to figure out the source range of an implicit lambda field in clang-tidy, like that in clang-query?](https://discourse.llvm.org/t/how-to-figure-out-the-source-range-of-an-implicit-lambda-field-in-clang-tidy-like-that-in-clang-query/80725#post_2)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_19)
+- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_16)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_18)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714#post_17)
+- [Using operation properties for better lifetime control in MLIR](https://discourse.llvm.org/t/using-operation-properties-for-better-lifetime-control-in-mlir/80711#post_3)
 <!-- DISCOURSE-LLVM:END -->
