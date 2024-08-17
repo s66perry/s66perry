@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[AArch64 ][sve] how to enable the sve vectorize for bf16](https://discourse.llvm.org/t/aarch64-sve-how-to-enable-the-sve-vectorize-for-bf16/80760#post_1)
+- [[VarDecl] Why the LocalDeclMap doesn&#39; t hold VarDecl of Template function](https://discourse.llvm.org/t/vardecl-why-the-localdeclmap-doesn-t-hold-vardecl-of-template-function/80760#post_1)
 - [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640#post_20)
 - [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_32)
 - [[RFC] Adding a Dormant Mode to AddressSanitizer](https://discourse.llvm.org/t/rfc-adding-a-dormant-mode-to-addresssanitizer/80278#post_10)
