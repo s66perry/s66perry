@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang] Testing Expr internal functions](https://discourse.llvm.org/t/clang-testing-expr-internal-functions/80605#post_2)
-- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_6)
-- [Pass that inserts assembly in function prologue and epilogue](https://discourse.llvm.org/t/pass-that-inserts-assembly-in-function-prologue-and-epilogue/80778#post_4)
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=3#post_41)
-- [Pass that inserts assembly in function prologue and epilogue](https://discourse.llvm.org/t/pass-that-inserts-assembly-in-function-prologue-and-epilogue/80778#post_3)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=3#post_44)
+- [Library/header include paths for barematel](https://discourse.llvm.org/t/library-header-include-paths-for-barematel/80750#post_2)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=3#post_43)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=3#post_42)
+- [Pass that inserts assembly in function prologue and epilogue](https://discourse.llvm.org/t/pass-that-inserts-assembly-in-function-prologue-and-epilogue/80778#post_5)
 <!-- DISCOURSE-LLVM:END -->
