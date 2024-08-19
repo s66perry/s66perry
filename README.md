@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_38)
-- [[RFC] Support/GlobPattern: add operator to invert matches](https://discourse.llvm.org/t/rfc-support-globpattern-add-operator-to-invert-matches/80683#post_5)
-- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_4)
-- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_3)
-- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_2)
+- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_6)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_40)
+- [[RFC] Enabling the Lit Internal Shell by Default](https://discourse.llvm.org/t/rfc-enabling-the-lit-internal-shell-by-default/80179?page=2#post_27)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_39)
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_4)
 <!-- DISCOURSE-LLVM:END -->
