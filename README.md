@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_37)
-- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_3)
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_36)
-- [Symbolizer MacOS &lt;unknown module&gt;](https://discourse.llvm.org/t/symbolizer-macos-unknown-module/80786#post_1)
-- [How to call external function in another module](https://discourse.llvm.org/t/how-to-call-external-function-in-another-module/80745#post_5)
+- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_5)
+- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_1)
+- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_4)
+- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640?page=2#post_23)
+- [Pass that inserts assembly in function prologue and epilogue](https://discourse.llvm.org/t/pass-that-inserts-assembly-in-function-prologue-and-epilogue/80778#post_2)
 <!-- DISCOURSE-LLVM:END -->
