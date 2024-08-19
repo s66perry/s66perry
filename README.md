@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support/GlobPattern: add operator to invert matches](https://discourse.llvm.org/t/rfc-support-globpattern-add-operator-to-invert-matches/80683#post_4)
+- [Register allocation for async instruction](https://discourse.llvm.org/t/register-allocation-for-async-instruction/80740#post_6)
 - [LLVM Weekly - #554, August 12th 2024](https://discourse.llvm.org/t/llvm-weekly-554-august-12th-2024/80678#post_2)
 - [Why parameters are float type in compiler-rt functions, but llvm bitcasts argument to integer type when libcall?](https://discourse.llvm.org/t/why-parameters-are-float-type-in-compiler-rt-functions-but-llvm-bitcasts-argument-to-integer-type-when-libcall/80775#post_4)
 - [Why parameters are float type in compiler-rt functions, but llvm bitcasts argument to integer type when libcall?](https://discourse.llvm.org/t/why-parameters-are-float-type-in-compiler-rt-functions-but-llvm-bitcasts-argument-to-integer-type-when-libcall/80775#post_3)
-- [[RFC] Unify the semantics of program points](https://discourse.llvm.org/t/rfc-unify-the-semantics-of-program-points/80671#post_4)
-- [Why parameters are float type in compiler-rt functions, but llvm bitcasts argument to integer type when libcall?](https://discourse.llvm.org/t/why-parameters-are-float-type-in-compiler-rt-functions-but-llvm-bitcasts-argument-to-integer-type-when-libcall/80775#post_2)
 <!-- DISCOURSE-LLVM:END -->
