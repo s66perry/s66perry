@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_5)
-- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_1)
-- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_4)
-- [Port LLDB to IBM AIX](https://discourse.llvm.org/t/port-lldb-to-ibm-aix/80640?page=2#post_23)
-- [Pass that inserts assembly in function prologue and epilogue](https://discourse.llvm.org/t/pass-that-inserts-assembly-in-function-prologue-and-epilogue/80778#post_2)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=2#post_38)
+- [[RFC] Support/GlobPattern: add operator to invert matches](https://discourse.llvm.org/t/rfc-support-globpattern-add-operator-to-invert-matches/80683#post_5)
+- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_4)
+- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_3)
+- [Need help with bundles](https://discourse.llvm.org/t/need-help-with-bundles/80787#post_2)
 <!-- DISCOURSE-LLVM:END -->
