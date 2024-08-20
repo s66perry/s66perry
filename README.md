@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why do sanitizers abort on error by default on mac and android?](https://discourse.llvm.org/t/why-do-sanitizers-abort-on-error-by-default-on-mac-and-android/80807#post_3)
+- [Lowering tosa to linalg problem with unsigned types](https://discourse.llvm.org/t/lowering-tosa-to-linalg-problem-with-unsigned-types/80704#post_7)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_65)
 - [How to call external function in another module](https://discourse.llvm.org/t/how-to-call-external-function-in-another-module/80745#post_8)
 - [Library/header include paths for barematel](https://discourse.llvm.org/t/library-header-include-paths-for-barematel/80750#post_3)
-- [[RFC] Add clang atomic control options and pragmas](https://discourse.llvm.org/t/rfc-add-clang-atomic-control-options-and-pragmas/80641?page=2#post_25)
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=3#post_51)
-- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_5)
 <!-- DISCOURSE-LLVM:END -->
