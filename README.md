@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Allowing undef in intrinsics immarg&lt;&gt;](https://discourse.llvm.org/t/allowing-undef-in-intrinsics-immarg/80828#post_3)
+- [Allowing undef in intrinsics immarg&lt;&gt;](https://discourse.llvm.org/t/allowing-undef-in-intrinsics-immarg/80828#post_2)
+- [RFC: HWPGO, i.e., adding new SPGO feedback types](https://discourse.llvm.org/t/rfc-hwpgo-i-e-adding-new-spgo-feedback-types/80582#post_20)
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_11)
 - [[RFC] Building &#39;libc++&#39; for GPU targets](https://discourse.llvm.org/t/rfc-building-libc-for-gpu-targets/80216#post_11)
-- [Why call initializeXYZPass&lpar;&rpar; from XYZ constructor?](https://discourse.llvm.org/t/why-call-initializexyzpass-from-xyz-constructor/80692#post_7)
-- [Allowing undef in intrinsics immarg&lt;&gt;](https://discourse.llvm.org/t/allowing-undef-in-intrinsics-immarg/80828#post_1)
-- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_18)
-- [Why do sanitizers abort on error by default on mac and android?](https://discourse.llvm.org/t/why-do-sanitizers-abort-on-error-by-default-on-mac-and-android/80807#post_6)
 <!-- DISCOURSE-LLVM:END -->
