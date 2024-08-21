@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] clang-doc templating language](https://discourse.llvm.org/t/rfc-clang-doc-templating-language/80818#post_1)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_15)
 - [LLVM Buildbot comments are too verbose](https://discourse.llvm.org/t/llvm-buildbot-comments-are-too-verbose/80815#post_1)
 - [Mlir-pdll-lsp-server/completion.test failing after MLIR build](https://discourse.llvm.org/t/mlir-pdll-lsp-server-completion-test-failing-after-mlir-build/80814#post_1)
 - [How to call external function in another module](https://discourse.llvm.org/t/how-to-call-external-function-in-another-module/80745#post_9)
-- [[RFC] Unify the semantics of program points](https://discourse.llvm.org/t/rfc-unify-the-semantics-of-program-points/80671#post_8)
-- [Clang-tidy issue:WRAPPER_ESCAPE problem.&lpar;about innerpointerchecker&rpar;](https://discourse.llvm.org/t/clang-tidy-issue-wrapper-escape-problem-about-innerpointerchecker/80812#post_1)
 <!-- DISCOURSE-LLVM:END -->
