@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Honor pragmas with -ffp-contract=fast](https://discourse.llvm.org/t/rfc-honor-pragmas-with-ffp-contract-fast/80797#post_5)
-- [Loop Opt WG Meetings Update](https://discourse.llvm.org/t/loop-opt-wg-meetings-update/80832#post_1)
-- [Allowing undef in intrinsics immarg&lt;&gt;](https://discourse.llvm.org/t/allowing-undef-in-intrinsics-immarg/80828#post_6)
-- [Allowing undef in intrinsics immarg&lt;&gt;](https://discourse.llvm.org/t/allowing-undef-in-intrinsics-immarg/80828#post_5)
-- [Allowing undef in intrinsics immarg&lt;&gt;](https://discourse.llvm.org/t/allowing-undef-in-intrinsics-immarg/80828#post_4)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_14)
+- [[RFC] Honor pragmas with -ffp-contract=fast](https://discourse.llvm.org/t/rfc-honor-pragmas-with-ffp-contract-fast/80797#post_7)
+- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619#post_19)
+- [LLVM 19.1.0-rc3 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc3-tagged/80803#post_5)
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374#post_10)
 <!-- DISCOURSE-LLVM:END -->
