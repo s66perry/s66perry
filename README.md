@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang use do not use /usr/include/c++/v1](https://discourse.llvm.org/t/clang-use-do-not-use-usr-include-c-v1/80821#post_9)
-- [Clang use do not use /usr/include/c++/v1](https://discourse.llvm.org/t/clang-use-do-not-use-usr-include-c-v1/80821#post_8)
-- [Static rounding mode in IR](https://discourse.llvm.org/t/static-rounding-mode-in-ir/80621#post_20)
-- [Why do sanitizers abort on error by default on mac and android?](https://discourse.llvm.org/t/why-do-sanitizers-abort-on-error-by-default-on-mac-and-android/80807#post_5)
-- [Clang use do not use /usr/include/c++/v1](https://discourse.llvm.org/t/clang-use-do-not-use-usr-include-c-v1/80821#post_7)
+- [[RFC] clang-doc templating language](https://discourse.llvm.org/t/rfc-clang-doc-templating-language/80818#post_3)
+- [Inconsistency between hasDescendant in clang-query and Clang/LibTooling matchers](https://discourse.llvm.org/t/inconsistency-between-hasdescendant-in-clang-query-and-clang-libtooling-matchers/80799#post_2)
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_16)
+- [Creation of a large number of Github issues for libc++ recently](https://discourse.llvm.org/t/creation-of-a-large-number-of-github-issues-for-libc-recently/80735#post_5)
+- [[RFC] Use LLVM_ENABLE_RUNTIMES for Flang&#39;s runtime](https://discourse.llvm.org/t/rfc-use-llvm-enable-runtimes-for-flangs-runtime/80826#post_1)
 <!-- DISCOURSE-LLVM:END -->
