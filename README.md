@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Data Layout pointer width question](https://discourse.llvm.org/t/data-layout-pointer-width-question/80835#post_4)
-- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619?page=2#post_21)
-- [How to verify correct regalloc for a kernel?](https://discourse.llvm.org/t/how-to-verify-correct-regalloc-for-a-kernel/80811#post_3)
-- [Clang-tidy tries to analyze an STM32 assembly file located in compile_commands.json](https://discourse.llvm.org/t/clang-tidy-tries-to-analyze-an-stm32-assembly-file-located-in-compile-commands-json/80853#post_1)
-- [Un stable use list during op clone/rewrite](https://discourse.llvm.org/t/un-stable-use-list-during-op-clone-rewrite/80849#post_2)
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_12)
+- [MLIR Python Bindings: Recreate a Module](https://discourse.llvm.org/t/mlir-python-bindings-recreate-a-module/80858#post_2)
+- [[RFC] RISCV vector register spill optimization pass](https://discourse.llvm.org/t/rfc-riscv-vector-register-spill-optimization-pass/80850#post_2)
+- [MLIR Python Bindings: Recreate a Module](https://discourse.llvm.org/t/mlir-python-bindings-recreate-a-module/80858#post_1)
+- [[RFC] OpenMP workdistribute construct implementation in Flang](https://discourse.llvm.org/t/rfc-openmp-workdistribute-construct-implementation-in-flang/80124#post_5)
 <!-- DISCOURSE-LLVM:END -->
