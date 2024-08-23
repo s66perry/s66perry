@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_8)
+- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_7)
+- [Data Layout pointer width question](https://discourse.llvm.org/t/data-layout-pointer-width-question/80835#post_12)
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_17)
 - [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_16)
-- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_6)
-- [RFC: HWPGO, i.e., adding new SPGO feedback types](https://discourse.llvm.org/t/rfc-hwpgo-i-e-adding-new-spgo-feedback-types/80582?page=2#post_21)
-- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_15)
-- [Building openmp](https://discourse.llvm.org/t/building-openmp/80873#post_5)
 <!-- DISCOURSE-LLVM:END -->
