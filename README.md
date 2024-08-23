@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] RISCV vector register spill optimization pass](https://discourse.llvm.org/t/rfc-riscv-vector-register-spill-optimization-pass/80850#post_3)
-- [Adding argument count validation for formatv](https://discourse.llvm.org/t/adding-argument-count-validation-for-formatv/80876#post_1)
-- [[MLIR] Unnecessary copy generated on tiled+padded ops](https://discourse.llvm.org/t/mlir-unnecessary-copy-generated-on-tiled-padded-ops/80875#post_1)
-- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_19)
-- [Data Layout pointer width question](https://discourse.llvm.org/t/data-layout-pointer-width-question/80835#post_11)
+- [Using headers like &lt;thread&gt;, &lt;variant&gt; and &lt;optional&gt; in llvm-lit for clang-tidy lit tests](https://discourse.llvm.org/t/using-headers-like-thread-variant-and-optional-in-llvm-lit-for-clang-tidy-lit-tests/80872#post_3)
+- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_5)
+- [Building openmp](https://discourse.llvm.org/t/building-openmp/80873#post_2)
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374#post_11)
+- [LLVM 19.1.0-rc3 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc3-tagged/80803#post_6)
 <!-- DISCOURSE-LLVM:END -->
