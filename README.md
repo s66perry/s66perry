@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Using headers like &lt;thread&gt;, &lt;variant&gt; and &lt;optional&gt; in llvm-lit for clang-tidy lit tests](https://discourse.llvm.org/t/using-headers-like-thread-variant-and-optional-in-llvm-lit-for-clang-tidy-lit-tests/80872#post_2)
+- [Using headers like &lt;thread&gt;, &lt;variant&gt; and &lt;optional&gt; in llvm-lit for clang-tidy lit tests](https://discourse.llvm.org/t/using-headers-like-thread-variant-and-optional-in-llvm-lit-for-clang-tidy-lit-tests/80872#post_1)
+- [[RFC] Publishing an official LLDB extension in the Visual Studio Marketplaces](https://discourse.llvm.org/t/rfc-publishing-an-official-lldb-extension-in-the-visual-studio-marketplaces/78401#post_18)
 - [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_14)
 - [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720#post_20)
-- [[RFC] Honor pragmas with -ffp-contract=fast](https://discourse.llvm.org/t/rfc-honor-pragmas-with-ffp-contract-fast/80797#post_12)
-- [Question about PGO Profile Inconsistency with function_entry_count = 0](https://discourse.llvm.org/t/question-about-pgo-profile-inconsistency-with-function-entry-count-0/80861#post_2)
-- [Allowing undef in intrinsics immarg&lt;&gt;](https://discourse.llvm.org/t/allowing-undef-in-intrinsics-immarg/80828#post_9)
 <!-- DISCOURSE-LLVM:END -->
