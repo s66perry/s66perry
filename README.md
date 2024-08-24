@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Data Layout pointer width question](https://discourse.llvm.org/t/data-layout-pointer-width-question/80835#post_17)
 - [Data Layout pointer width question](https://discourse.llvm.org/t/data-layout-pointer-width-question/80835#post_16)
 - [How to verify correct regalloc for a kernel?](https://discourse.llvm.org/t/how-to-verify-correct-regalloc-for-a-kernel/80811#post_6)
 - [How to verify correct regalloc for a kernel?](https://discourse.llvm.org/t/how-to-verify-correct-regalloc-for-a-kernel/80811#post_5)
 - [Data Layout pointer width question](https://discourse.llvm.org/t/data-layout-pointer-width-question/80835#post_15)
-- [Data Layout pointer width question](https://discourse.llvm.org/t/data-layout-pointer-width-question/80835#post_14)
 <!-- DISCOURSE-LLVM:END -->
