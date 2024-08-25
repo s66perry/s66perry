@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RISCV] LTO for RISCV with gold linker](https://discourse.llvm.org/t/riscv-lto-for-riscv-with-gold-linker/80891#post_4)
+- [[RISCV] LTO for RISCV with gold linker](https://discourse.llvm.org/t/riscv-lto-for-riscv-with-gold-linker/80891#post_3)
+- [[RISCV] LTO for RISCV with gold linker](https://discourse.llvm.org/t/riscv-lto-for-riscv-with-gold-linker/80891#post_2)
+- [[RISCV] LTO for RISCV with gold linker](https://discourse.llvm.org/t/riscv-lto-for-riscv-with-gold-linker/80891#post_1)
 - [Open MLIR Meeting 22/8/2024: MLIR SPIR-V Lowering Pass](https://discourse.llvm.org/t/open-mlir-meeting-22-8-2024-mlir-spir-v-lowering-pass/80796#post_3)
-- [Clangd doesn&#39;t index the project properly, can&#39;t find macros like __unused and __printflike in pico-sdk](https://discourse.llvm.org/t/clangd-doesnt-index-the-project-properly-cant-find-macros-like-unused-and-printflike-in-pico-sdk/80889#post_9)
-- [Clangd doesn&#39;t index the project properly, can&#39;t find macros like __unused and __printflike in pico-sdk](https://discourse.llvm.org/t/clangd-doesnt-index-the-project-properly-cant-find-macros-like-unused-and-printflike-in-pico-sdk/80889#post_8)
-- [Clangd doesn&#39;t index the project properly, can&#39;t find macros like __unused and __printflike in pico-sdk](https://discourse.llvm.org/t/clangd-doesnt-index-the-project-properly-cant-find-macros-like-unused-and-printflike-in-pico-sdk/80889#post_7)
-- [Clangd doesn&#39;t index the project properly, can&#39;t find macros like __unused and __printflike in pico-sdk](https://discourse.llvm.org/t/clangd-doesnt-index-the-project-properly-cant-find-macros-like-unused-and-printflike-in-pico-sdk/80889#post_6)
 <!-- DISCOURSE-LLVM:END -->
