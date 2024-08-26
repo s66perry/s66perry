@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_8)
+- [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_7)
 - [Which pass is supposed to handle index type to integer conversion?](https://discourse.llvm.org/t/which-pass-is-supposed-to-handle-index-type-to-integer-conversion/80798#post_7)
 - [LLVM Buildbot comments are too verbose](https://discourse.llvm.org/t/llvm-buildbot-comments-are-too-verbose/80815#post_2)
 - [Clangd doesn&#39;t index the project properly, can&#39;t find macros like __unused and __printflike in pico-sdk](https://discourse.llvm.org/t/clangd-doesnt-index-the-project-properly-cant-find-macros-like-unused-and-printflike-in-pico-sdk/80889#post_10)
-- [[RISCV] LTO for RISCV with gold linker](https://discourse.llvm.org/t/riscv-lto-for-riscv-with-gold-linker/80891#post_4)
-- [[RISCV] LTO for RISCV with gold linker](https://discourse.llvm.org/t/riscv-lto-for-riscv-with-gold-linker/80891#post_3)
 <!-- DISCOURSE-LLVM:END -->
