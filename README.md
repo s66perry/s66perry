@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to use llvm-lit on out-of-tree clang-tidy checks? &lpar;for Github Actions/Gitlab CI/CD&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-for-github-actions-gitlab-ci-cd/80894#post_2)
+- [How to use llvm-lit on out-of-tree clang-tidy checks? &lpar;for Github Actions/Gitlab CI/CD&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-for-github-actions-gitlab-ci-cd/80894#post_1)
 - [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_8)
 - [Missed Loop peeling and thus vectorization opportunity](https://discourse.llvm.org/t/missed-loop-peeling-and-thus-vectorization-opportunity/80616#post_7)
 - [Which pass is supposed to handle index type to integer conversion?](https://discourse.llvm.org/t/which-pass-is-supposed-to-handle-index-type-to-integer-conversion/80798#post_7)
-- [LLVM Buildbot comments are too verbose](https://discourse.llvm.org/t/llvm-buildbot-comments-are-too-verbose/80815#post_2)
-- [Clangd doesn&#39;t index the project properly, can&#39;t find macros like __unused and __printflike in pico-sdk](https://discourse.llvm.org/t/clangd-doesnt-index-the-project-properly-cant-find-macros-like-unused-and-printflike-in-pico-sdk/80889#post_10)
 <!-- DISCOURSE-LLVM:END -->
