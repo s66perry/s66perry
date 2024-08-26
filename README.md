@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to create an assembly string with !bang operators](https://discourse.llvm.org/t/how-to-create-an-assembly-string-with-bang-operators/80908#post_2)
+- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_11)
+- [How to create an assembly string with !bang operators](https://discourse.llvm.org/t/how-to-create-an-assembly-string-with-bang-operators/80908#post_1)
 - [Update: LLVM Governance Proposal](https://discourse.llvm.org/t/update-llvm-governance-proposal/80907#post_1)
 - [LLVM Weekly - #556, August 26th 2024](https://discourse.llvm.org/t/llvm-weekly-556-august-26th-2024/80906#post_1)
-- [MLIR C/C++ Frontend Working Group [Mon, Sept 9th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-sept-9th/80904#post_1)
-- [New PS4/PS5 Code Owner](https://discourse.llvm.org/t/new-ps4-ps5-code-owner/80901#post_2)
-- [[GPU] Kernel register count](https://discourse.llvm.org/t/gpu-kernel-register-count/80903#post_1)
 <!-- DISCOURSE-LLVM:END -->
