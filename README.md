@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GPU] Kernel register count](https://discourse.llvm.org/t/gpu-kernel-register-count/80903#post_1)
 - [How to bitcast the f32 data?](https://discourse.llvm.org/t/how-to-bitcast-the-f32-data/80902#post_1)
 - [New PS4/PS5 Code Owner](https://discourse.llvm.org/t/new-ps4-ps5-code-owner/80901#post_1)
 - [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=4#post_62)
 - [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952#post_14)
-- [[RFC] Does it make sense to report error for unsupported #pragma clang loop](https://discourse.llvm.org/t/rfc-does-it-make-sense-to-report-error-for-unsupported-pragma-clang-loop/80898#post_2)
 <!-- DISCOURSE-LLVM:END -->
