@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_4)
+- [Is there a easy-using command option in clang like -fdump-lang-class in GCC?](https://discourse.llvm.org/t/is-there-a-easy-using-command-option-in-clang-like-fdump-lang-class-in-gcc/80886#post_3)
+- [How to use llvm-lit on out-of-tree clang-tidy checks? &lpar;for Github Actions/Gitlab CI/CD&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-for-github-actions-gitlab-ci-cd/80894#post_3)
 - [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_3)
 - [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_2)
-- [[RFC] Does it make sense to report error for unsupported #pragma clang loop](https://discourse.llvm.org/t/rfc-does-it-make-sense-to-report-error-for-unsupported-pragma-clang-loop/80898#post_3)
-- [Which pass is supposed to handle index type to integer conversion?](https://discourse.llvm.org/t/which-pass-is-supposed-to-handle-index-type-to-integer-conversion/80798#post_9)
-- [AllowFPOpFusion vs. SDNodeFlags::hasAllowContract&lpar;&rpar;](https://discourse.llvm.org/t/allowfpopfusion-vs-sdnodeflags-hasallowcontract/80909#post_1)
 <!-- DISCOURSE-LLVM:END -->
