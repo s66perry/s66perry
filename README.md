@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why tosa pass use in func.func?](https://discourse.llvm.org/t/why-tosa-pass-use-in-func-func/80921#post_2)
-- [New PS4/PS5 Code Owner](https://discourse.llvm.org/t/new-ps4-ps5-code-owner/80901#post_5)
-- [[GPU] Kernel register count](https://discourse.llvm.org/t/gpu-kernel-register-count/80903#post_6)
-- [Why tosa pass use in func.func?](https://discourse.llvm.org/t/why-tosa-pass-use-in-func-func/80921#post_1)
-- [Properties in symbol lookups](https://discourse.llvm.org/t/properties-in-symbol-lookups/80920#post_1)
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_8)
+- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_10)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=4#post_68)
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_7)
+- [Building openmp](https://discourse.llvm.org/t/building-openmp/80873#post_6)
 <!-- DISCOURSE-LLVM:END -->
