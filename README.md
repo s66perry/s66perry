@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_9)
-- [How to create an assembly string with !bang operators](https://discourse.llvm.org/t/how-to-create-an-assembly-string-with-bang-operators/80908#post_3)
-- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_8)
-- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_10)
-- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=4#post_68)
+- [[GPU] Kernel register count](https://discourse.llvm.org/t/gpu-kernel-register-count/80903#post_8)
+- [[RFC] Stack arenas using alloca](https://discourse.llvm.org/t/rfc-stack-arenas-using-alloca/80716#post_8)
+- [Properties in symbol lookups](https://discourse.llvm.org/t/properties-in-symbol-lookups/80920#post_4)
+- [[GPU] Kernel register count](https://discourse.llvm.org/t/gpu-kernel-register-count/80903#post_7)
+- [Properties in symbol lookups](https://discourse.llvm.org/t/properties-in-symbol-lookups/80920#post_3)
 <!-- DISCOURSE-LLVM:END -->
