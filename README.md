@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_2)
+- [[RFC] Does it make sense to report error for unsupported #pragma clang loop](https://discourse.llvm.org/t/rfc-does-it-make-sense-to-report-error-for-unsupported-pragma-clang-loop/80898#post_3)
 - [Which pass is supposed to handle index type to integer conversion?](https://discourse.llvm.org/t/which-pass-is-supposed-to-handle-index-type-to-integer-conversion/80798#post_9)
 - [AllowFPOpFusion vs. SDNodeFlags::hasAllowContract&lpar;&rpar;](https://discourse.llvm.org/t/allowfpopfusion-vs-sdnodeflags-hasallowcontract/80909#post_1)
 - [In place memory bufferization](https://discourse.llvm.org/t/in-place-memory-bufferization/80899#post_2)
-- [RFC: Extending gSYM Format with Call Site Information for Merged Function Disambiguation](https://discourse.llvm.org/t/rfc-extending-gsym-format-with-call-site-information-for-merged-function-disambiguation/80682#post_9)
-- [[RISCV] LTO for RISCV with gold linker](https://discourse.llvm.org/t/riscv-lto-for-riscv-with-gold-linker/80891#post_5)
 <!-- DISCOURSE-LLVM:END -->
