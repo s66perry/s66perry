@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_3)
-- [Flang-new compiles MGLET](https://discourse.llvm.org/t/flang-new-compiles-mglet/80930#post_1)
-- [How to introduce a generic global isel opcode in the legalizer for custom data type legalization](https://discourse.llvm.org/t/how-to-introduce-a-generic-global-isel-opcode-in-the-legalizer-for-custom-data-type-legalization/80912#post_4)
-- [18.1.8 has been tagged](https://discourse.llvm.org/t/18-1-8-has-been-tagged/79726#post_11)
-- [How to introduce a generic global isel opcode in the legalizer for custom data type legalization](https://discourse.llvm.org/t/how-to-introduce-a-generic-global-isel-opcode-in-the-legalizer-for-custom-data-type-legalization/80912#post_3)
+- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_11)
+- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_10)
+- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_9)
+- [Why tosa pass use in func.func?](https://discourse.llvm.org/t/why-tosa-pass-use-in-func-func/80921#post_4)
+- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_8)
 <!-- DISCOURSE-LLVM:END -->
