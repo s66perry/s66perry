@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_11)
-- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_10)
-- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_9)
-- [Why tosa pass use in func.func?](https://discourse.llvm.org/t/why-tosa-pass-use-in-func-func/80921#post_4)
-- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_8)
+- [Flang-new compiles MGLET](https://discourse.llvm.org/t/flang-new-compiles-mglet/80930#post_3)
+- [Flang-new compiles MGLET](https://discourse.llvm.org/t/flang-new-compiles-mglet/80930#post_2)
+- [How does clang-tidy checks for header files? &lpar;look up the header files it includes&rpar;](https://discourse.llvm.org/t/how-does-clang-tidy-checks-for-header-files-look-up-the-header-files-it-includes/80933#post_1)
+- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_12)
+- [In place memory bufferization](https://discourse.llvm.org/t/in-place-memory-bufferization/80899#post_3)
 <!-- DISCOURSE-LLVM:END -->
