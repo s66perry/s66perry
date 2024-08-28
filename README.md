@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CANCELLED RISC-V LLVM sync-up call August 29th 2024](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-august-29th-2024/80944#post_1)
+- [[RFC] Use LLVM_ENABLE_RUNTIMES for Flang&#39;s runtime](https://discourse.llvm.org/t/rfc-use-llvm-enable-runtimes-for-flangs-runtime/80826#post_8)
 - [How to create an assembly string with !bang operators](https://discourse.llvm.org/t/how-to-create-an-assembly-string-with-bang-operators/80908#post_8)
 - [Get index of result group using Python bindings](https://discourse.llvm.org/t/get-index-of-result-group-using-python-bindings/80941#post_1)
 - [[RFC] SYCL runtime upstreaming](https://discourse.llvm.org/t/rfc-sycl-runtime-upstreaming/74479#post_6)
-- [How to create an assembly string with !bang operators](https://discourse.llvm.org/t/how-to-create-an-assembly-string-with-bang-operators/80908#post_7)
-- [How to create an assembly string with !bang operators](https://discourse.llvm.org/t/how-to-create-an-assembly-string-with-bang-operators/80908#post_6)
 <!-- DISCOURSE-LLVM:END -->
