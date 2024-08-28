@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to use llvm-lit on out-of-tree clang-tidy checks with prebuilt LLVM installation &lpar;not including llvm-lit and FileCheck&rpar;](https://discourse.llvm.org/t/how-to-use-llvm-lit-on-out-of-tree-clang-tidy-checks-with-prebuilt-llvm-installation-not-including-llvm-lit-and-filecheck/80894#post_7)
 - [[GPU] Kernel register count](https://discourse.llvm.org/t/gpu-kernel-register-count/80903#post_9)
 - [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_15)
 - [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_14)
 - [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_13)
-- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_12)
 <!-- DISCOURSE-LLVM:END -->
