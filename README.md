@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720?page=2#post_21)
-- [AllowFPOpFusion vs. SDNodeFlags::hasAllowContract&lpar;&rpar;](https://discourse.llvm.org/t/allowfpopfusion-vs-sdnodeflags-hasallowcontract/80909#post_2)
-- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_5)
-- [In place memory bufferization](https://discourse.llvm.org/t/in-place-memory-bufferization/80899#post_4)
-- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_4)
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_19)
+- [Get index of result group using Python bindings](https://discourse.llvm.org/t/get-index-of-result-group-using-python-bindings/80941#post_2)
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_18)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626#post_19)
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836#post_17)
 <!-- DISCOURSE-LLVM:END -->
