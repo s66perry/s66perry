@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Information on LIT is outdated](https://discourse.llvm.org/t/information-on-lit-is-outdated/76498#post_9)
+- [Get index of result group using Python bindings](https://discourse.llvm.org/t/get-index-of-result-group-using-python-bindings/80941#post_3)
+- [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_4)
+- [In MLIR, How to create a basic block for linalg.generic in python binding?](https://discourse.llvm.org/t/in-mlir-how-to-create-a-basic-block-for-linalg-generic-in-python-binding/72758#post_4)
 - [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_3)
-- [How to support correctly RISC-V big endian for ELF format?](https://discourse.llvm.org/t/how-to-support-correctly-risc-v-big-endian-for-elf-format/80954#post_3)
-- [Flang-new compiles MGLET](https://discourse.llvm.org/t/flang-new-compiles-mglet/80930#post_5)
-- [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_2)
-- [[RFC] Windows Basic Block Section Support](https://discourse.llvm.org/t/rfc-windows-basic-block-section-support/80950#post_3)
 <!-- DISCOURSE-LLVM:END -->
