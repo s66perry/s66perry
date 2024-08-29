@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836?page=2#post_24)
+- [[RFC] Avoid exposing unknown git repositories](https://discourse.llvm.org/t/rfc-avoid-exposing-unknown-git-repositories/80962#post_5)
+- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836?page=2#post_23)
+- [Control-Z returning to shell](https://discourse.llvm.org/t/control-z-returning-to-shell/80971#post_1)
 - [[RFC] Avoid exposing unknown git repositories](https://discourse.llvm.org/t/rfc-avoid-exposing-unknown-git-repositories/80962#post_4)
-- [[RFC] [tsan] Implementing a Fuzz Scheduler for TSAN](https://discourse.llvm.org/t/rfc-tsan-implementing-a-fuzz-scheduler-for-tsan/80969#post_1)
-- [[mlir][linalg] Is tiling of linalg.fill implemented now?](https://discourse.llvm.org/t/mlir-linalg-is-tiling-of-linalg-fill-implemented-now/80963#post_2)
-- [[RFC] Windows Basic Block Section Support](https://discourse.llvm.org/t/rfc-windows-basic-block-section-support/80950#post_6)
-- [[RFC] Avoid exposing unknown git repositories](https://discourse.llvm.org/t/rfc-avoid-exposing-unknown-git-repositories/80962#post_3)
 <!-- DISCOURSE-LLVM:END -->
