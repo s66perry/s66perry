@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_67)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_66)
-- [[RFC] Windows Basic Block Section Support](https://discourse.llvm.org/t/rfc-windows-basic-block-section-support/80950#post_4)
-- [Get index of result group using Python bindings](https://discourse.llvm.org/t/get-index-of-result-group-using-python-bindings/80941#post_4)
-- [RFC: Vectorization of Conditional Scalar Assignment &lpar;CSA&rpar;](https://discourse.llvm.org/t/rfc-vectorization-of-conditional-scalar-assignment-csa/80964#post_1)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=2#post_24)
+- [Clang-tidy issue:WRAPPER_ESCAPE problem.&lpar;about innerpointerchecker&rpar;](https://discourse.llvm.org/t/clang-tidy-issue-wrapper-escape-problem-about-innerpointerchecker/80812#post_2)
+- [Clang-tidy tries to analyze an STM32 assembly file located in compile_commands.json](https://discourse.llvm.org/t/clang-tidy-tries-to-analyze-an-stm32-assembly-file-located-in-compile-commands-json/80853#post_6)
+- [Custom FixItHint not being reported](https://discourse.llvm.org/t/custom-fixithint-not-being-reported/80848#post_2)
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_19)
 <!-- DISCOURSE-LLVM:END -->
