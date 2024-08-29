@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_18)
+- [Information on LIT is outdated](https://discourse.llvm.org/t/information-on-lit-is-outdated/76498#post_12)
+- [In place memory bufferization](https://discourse.llvm.org/t/in-place-memory-bufferization/80899#post_5)
+- [How to support correctly RISC-V big endian for ELF format?](https://discourse.llvm.org/t/how-to-support-correctly-risc-v-big-endian-for-elf-format/80954#post_4)
 - [Information on LIT is outdated](https://discourse.llvm.org/t/information-on-lit-is-outdated/76498#post_11)
-- [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_8)
-- [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_7)
-- [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_6)
-- [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_5)
 <!-- DISCOURSE-LLVM:END -->
