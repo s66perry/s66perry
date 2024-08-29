@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=2#post_24)
-- [Clang-tidy issue:WRAPPER_ESCAPE problem.&lpar;about innerpointerchecker&rpar;](https://discourse.llvm.org/t/clang-tidy-issue-wrapper-escape-problem-about-innerpointerchecker/80812#post_2)
-- [Clang-tidy tries to analyze an STM32 assembly file located in compile_commands.json](https://discourse.llvm.org/t/clang-tidy-tries-to-analyze-an-stm32-assembly-file-located-in-compile-commands-json/80853#post_6)
-- [Custom FixItHint not being reported](https://discourse.llvm.org/t/custom-fixithint-not-being-reported/80848#post_2)
-- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_19)
+- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_6)
+- [AllowFPOpFusion vs. SDNodeFlags::hasAllowContract&lpar;&rpar;](https://discourse.llvm.org/t/allowfpopfusion-vs-sdnodeflags-hasallowcontract/80909#post_6)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_69)
+- [AllowFPOpFusion vs. SDNodeFlags::hasAllowContract&lpar;&rpar;](https://discourse.llvm.org/t/allowfpopfusion-vs-sdnodeflags-hasallowcontract/80909#post_5)
+- [[RFC] Avoid exposing unknown git repositories](https://discourse.llvm.org/t/rfc-avoid-exposing-unknown-git-repositories/80962#post_2)
 <!-- DISCOURSE-LLVM:END -->
