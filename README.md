@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_18)
-- [Information on LIT is outdated](https://discourse.llvm.org/t/information-on-lit-is-outdated/76498#post_12)
-- [In place memory bufferization](https://discourse.llvm.org/t/in-place-memory-bufferization/80899#post_5)
-- [How to support correctly RISC-V big endian for ELF format?](https://discourse.llvm.org/t/how-to-support-correctly-risc-v-big-endian-for-elf-format/80954#post_4)
-- [Information on LIT is outdated](https://discourse.llvm.org/t/information-on-lit-is-outdated/76498#post_11)
+- [Cambridge Compiler Social 3rd September at the University’s Computer Laboratory](https://discourse.llvm.org/t/cambridge-compiler-social-3rd-september-at-the-university-s-computer-laboratory/80922#post_2)
+- [RFC: On non 8-bit bytes and the target for it](https://discourse.llvm.org/t/rfc-on-non-8-bit-bytes-and-the-target-for-it/53455?page=3#post_50)
+- [CFP: MLIR Workshop at LLVM Developer Meeting &lpar;October 22, 2024&rpar;](https://discourse.llvm.org/t/cfp-mlir-workshop-at-llvm-developer-meeting-october-22-2024/80961#post_1)
+- [Cross-compiling for arm virtual machine](https://discourse.llvm.org/t/cross-compiling-for-arm-virtual-machine/80960#post_1)
+- [RFC: Distribute patch releases over lifecycle of an LLVM version](https://discourse.llvm.org/t/rfc-distribute-patch-releases-over-lifecycle-of-an-llvm-version/80955#post_9)
 <!-- DISCOURSE-LLVM:END -->
