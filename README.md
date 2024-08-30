@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using SSE2 operation PMULHW](https://discourse.llvm.org/t/using-sse2-operation-pmulhw/80975#post_1)
-- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_3)
-- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_2)
-- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_1)
-- [[mlir][linalg] Is tiling of linalg.fill implemented now?](https://discourse.llvm.org/t/mlir-linalg-is-tiling-of-linalg-fill-implemented-now/80963#post_3)
+- [How to prevent duplicate symbols when linking in a module in a pass](https://discourse.llvm.org/t/how-to-prevent-duplicate-symbols-when-linking-in-a-module-in-a-pass/80879#post_2)
+- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_6)
+- [Inconsistency between hasDescendant in clang-query and Clang/LibTooling matchers](https://discourse.llvm.org/t/inconsistency-between-hasdescendant-in-clang-query-and-clang-libtooling-matchers/80799#post_5)
+- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_5)
+- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_4)
 <!-- DISCOURSE-LLVM:END -->
