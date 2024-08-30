@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Control-Z returning to shell](https://discourse.llvm.org/t/control-z-returning-to-shell/80971#post_3)
+- [RFC: Vectorization of Conditional Scalar Assignment &lpar;CSA&rpar;](https://discourse.llvm.org/t/rfc-vectorization-of-conditional-scalar-assignment-csa/80964#post_2)
+- [Speculative LICM?](https://discourse.llvm.org/t/speculative-licm/80977#post_1)
 - [Inconsistency between hasDescendant in clang-query and Clang/LibTooling matchers](https://discourse.llvm.org/t/inconsistency-between-hasdescendant-in-clang-query-and-clang-libtooling-matchers/80799#post_6)
 - [How to prevent duplicate symbols when linking in a module in a pass](https://discourse.llvm.org/t/how-to-prevent-duplicate-symbols-when-linking-in-a-module-in-a-pass/80879#post_2)
-- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_6)
-- [Inconsistency between hasDescendant in clang-query and Clang/LibTooling matchers](https://discourse.llvm.org/t/inconsistency-between-hasdescendant-in-clang-query-and-clang-libtooling-matchers/80799#post_5)
-- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_5)
 <!-- DISCOURSE-LLVM:END -->
