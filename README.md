@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Control-Z returning to shell](https://discourse.llvm.org/t/control-z-returning-to-shell/80971#post_3)
-- [RFC: Vectorization of Conditional Scalar Assignment &lpar;CSA&rpar;](https://discourse.llvm.org/t/rfc-vectorization-of-conditional-scalar-assignment-csa/80964#post_2)
-- [Speculative LICM?](https://discourse.llvm.org/t/speculative-licm/80977#post_1)
-- [Inconsistency between hasDescendant in clang-query and Clang/LibTooling matchers](https://discourse.llvm.org/t/inconsistency-between-hasdescendant-in-clang-query-and-clang-libtooling-matchers/80799#post_6)
-- [How to prevent duplicate symbols when linking in a module in a pass](https://discourse.llvm.org/t/how-to-prevent-duplicate-symbols-when-linking-in-a-module-in-a-pass/80879#post_2)
+- [Control-Z returning to shell](https://discourse.llvm.org/t/control-z-returning-to-shell/80971#post_4)
+- [Clang-tidy issue:WRAPPER_ESCAPE problem.&lpar;about innerpointerchecker&rpar;](https://discourse.llvm.org/t/clang-tidy-issue-wrapper-escape-problem-about-innerpointerchecker/80812#post_4)
+- [[RFC] Windows Basic Block Section Support](https://discourse.llvm.org/t/rfc-windows-basic-block-section-support/80950#post_7)
+- [Cambridge Compiler Social 3rd September at the University’s Computer Laboratory](https://discourse.llvm.org/t/cambridge-compiler-social-3rd-september-at-the-university-s-computer-laboratory/80922#post_4)
+- [Using SSE2 operation PMULHW](https://discourse.llvm.org/t/using-sse2-operation-pmulhw/80975#post_2)
 <!-- DISCOURSE-LLVM:END -->
