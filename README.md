@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Implement conditional branch](https://discourse.llvm.org/t/implement-conditional-branch/81012#post_1)
 - [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_2)
 - [Not all symbol not found until when didOpen request is sent](https://discourse.llvm.org/t/not-all-symbol-not-found-until-when-didopen-request-is-sent/81011#post_1)
 - [LLVM 19 Release Schedule and Planning](https://discourse.llvm.org/t/llvm-19-release-schedule-and-planning/79828#post_3)
 - [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_1)
-- [LLVM 19 Release Schedule and Planning](https://discourse.llvm.org/t/llvm-19-release-schedule-and-planning/79828#post_2)
 <!-- DISCOURSE-LLVM:END -->
