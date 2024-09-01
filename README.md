@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Not all symbol not found until when didOpen request is sent](https://discourse.llvm.org/t/not-all-symbol-not-found-until-when-didopen-request-is-sent/81011#post_1)
+- [LLVM 19 Release Schedule and Planning](https://discourse.llvm.org/t/llvm-19-release-schedule-and-planning/79828#post_3)
+- [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_1)
+- [LLVM 19 Release Schedule and Planning](https://discourse.llvm.org/t/llvm-19-release-schedule-and-planning/79828#post_2)
 - [Different Thread Plan Depending on when `target module add` is Invoked](https://discourse.llvm.org/t/different-thread-plan-depending-on-when-target-module-add-is-invoked/80987#post_9)
-- [LLVM-19 broken symlink when installing using apt.sh](https://discourse.llvm.org/t/llvm-19-broken-symlink-when-installing-using-apt-sh/81003#post_2)
-- [LLVM-19 broken symlink when installing using apt.sh](https://discourse.llvm.org/t/llvm-19-broken-symlink-when-installing-using-apt-sh/81003#post_1)
-- [Cross-platform port of NetBSD libedit for possible use in LLDB](https://discourse.llvm.org/t/cross-platform-port-of-netbsd-libedit-for-possible-use-in-lldb/80998#post_4)
-- [Different Thread Plan Depending on when `target module add` is Invoked](https://discourse.llvm.org/t/different-thread-plan-depending-on-when-target-module-add-is-invoked/80987#post_8)
 <!-- DISCOURSE-LLVM:END -->
