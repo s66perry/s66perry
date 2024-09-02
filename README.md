@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #557, September 2nd 2024](https://discourse.llvm.org/t/llvm-weekly-557-september-2nd-2024/81022#post_1)
+- [Changing TableGen getAllDerivedDefinitions to return `ArrayRef&lt;const Record *&gt;`?](https://discourse.llvm.org/t/changing-tablegen-getallderiveddefinitions-to-return-arrayref-const-record/80586#post_5)
 - [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710#post_20)
 - [Building clang on macos](https://discourse.llvm.org/t/building-clang-on-macos/81019#post_3)
 - [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021#post_1)
-- [Building clang on macos](https://discourse.llvm.org/t/building-clang-on-macos/81019#post_2)
-- [Building clang on macos](https://discourse.llvm.org/t/building-clang-on-macos/81019#post_1)
 <!-- DISCOURSE-LLVM:END -->
