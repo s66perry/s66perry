@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AArch64 sync up call 3 September 2024](https://discourse.llvm.org/t/aarch64-sync-up-call-3-september-2024/81018#post_1)
+- [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_5)
+- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_15)
 - [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_4)
 - [Difficulty registering a defined compiler pass into Bazel system](https://discourse.llvm.org/t/difficulty-registering-a-defined-compiler-pass-into-bazel-system/81015#post_2)
-- [Difficulty registering a defined compiler pass into Bazel system](https://discourse.llvm.org/t/difficulty-registering-a-defined-compiler-pass-into-bazel-system/81015#post_1)
-- [Not all symbol not found until when didOpen request is sent](https://discourse.llvm.org/t/not-all-symbol-not-found-until-when-didopen-request-is-sent/81011#post_5)
-- [Not all symbol not found until when didOpen request is sent](https://discourse.llvm.org/t/not-all-symbol-not-found-until-when-didopen-request-is-sent/81011#post_4)
 <!-- DISCOURSE-LLVM:END -->
