@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Installatin failure](https://discourse.llvm.org/t/installatin-failure/81002#post_3)
 - [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_4)
 - [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_3)
 - [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_2)
 - [$7.5M &lpar;up to&rpar; for teams of open-source compiler engineers](https://discourse.llvm.org/t/7-5m-up-to-for-teams-of-open-source-compiler-engineers/81025#post_1)
-- [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_1)
 <!-- DISCOURSE-LLVM:END -->
