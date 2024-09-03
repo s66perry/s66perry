@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_9)
-- [[RFC] Windows Basic Block Section Support](https://discourse.llvm.org/t/rfc-windows-basic-block-section-support/80950#post_9)
-- [[RFC] Malfunction-safe DenseMap/DenseSet](https://discourse.llvm.org/t/rfc-malfunction-safe-densemap-denseset/81036#post_1)
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_8)
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_7)
+- [[RFC] Compound constructs in OpenMP](https://discourse.llvm.org/t/rfc-compound-constructs-in-openmp/79784#post_3)
+- [LLVM 19.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc4-tagged/81040#post_1)
+- [LLVM 19.1.0-rc4 Released!](https://discourse.llvm.org/t/llvm-19-1-0-rc4-released/81039#post_1)
+- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_17)
+- [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_6)
 <!-- DISCOURSE-LLVM:END -->
