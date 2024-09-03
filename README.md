@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where is LLVM&#39;s interface for describing the instructions of an ISA?](https://discourse.llvm.org/t/where-is-llvms-interface-for-describing-the-instructions-of-an-isa/81031#post_4)
-- [[RFC] Compound constructs in OpenMP](https://discourse.llvm.org/t/rfc-compound-constructs-in-openmp/79784#post_4)
-- [[RFC] Compound constructs in OpenMP](https://discourse.llvm.org/t/rfc-compound-constructs-in-openmp/79784#post_3)
-- [LLVM 19.1.0-rc4 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc4-tagged/81040#post_1)
-- [LLVM 19.1.0-rc4 Released!](https://discourse.llvm.org/t/llvm-19-1-0-rc4-released/81039#post_1)
+- [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_8)
+- [LLVM 19.1.0-final update and possible RC4](https://discourse.llvm.org/t/llvm-19-1-0-final-update-and-possible-rc4/81010#post_7)
+- [[RFC] Avoid exposing unknown git repositories](https://discourse.llvm.org/t/rfc-avoid-exposing-unknown-git-repositories/80962#post_14)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_10)
+- [[RFC] Add suport for QuantileQuantizedType in Quant dialect](https://discourse.llvm.org/t/rfc-add-suport-for-quantilequantizedtype-in-quant-dialect/80346#post_9)
 <!-- DISCOURSE-LLVM:END -->
