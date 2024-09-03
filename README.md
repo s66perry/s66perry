@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_6)
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_5)
-- [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_7)
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_4)
-- [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_6)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_9)
+- [[RFC] Windows Basic Block Section Support](https://discourse.llvm.org/t/rfc-windows-basic-block-section-support/80950#post_9)
+- [[RFC] Malfunction-safe DenseMap/DenseSet](https://discourse.llvm.org/t/rfc-malfunction-safe-densemap-denseset/81036#post_1)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_8)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_7)
 <!-- DISCOURSE-LLVM:END -->
