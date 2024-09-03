@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710?page=2#post_21)
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_12)
-- [[RFC] [tsan] Implementing a Fuzz Scheduler for TSAN](https://discourse.llvm.org/t/rfc-tsan-implementing-a-fuzz-scheduler-for-tsan/80969#post_3)
-- [Print template instantiation stack on warnings?](https://discourse.llvm.org/t/print-template-instantiation-stack-on-warnings/81046#post_1)
-- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836?page=2#post_35)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_15)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_14)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029#post_13)
+- [[RFC] Proposing changes to the community code ownership policy](https://discourse.llvm.org/t/rfc-proposing-changes-to-the-community-code-ownership-policy/80714?page=4#post_69)
+- [Where is LLVM&#39;s interface for describing the instructions of an ISA?](https://discourse.llvm.org/t/where-is-llvms-interface-for-describing-the-instructions-of-an-isa/81031#post_6)
 <!-- DISCOURSE-LLVM:END -->
