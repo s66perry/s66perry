@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding VARGS support for custom backend](https://discourse.llvm.org/t/adding-vargs-support-for-custom-backend/81085#post_3)
-- [Detecting loops that iterate a deterministic number of times in a transform pass](https://discourse.llvm.org/t/detecting-loops-that-iterate-a-deterministic-number-of-times-in-a-transform-pass/80972#post_11)
-- [Adding VARGS support for custom backend](https://discourse.llvm.org/t/adding-vargs-support-for-custom-backend/81085#post_2)
-- [[RFC] Malfunction-safe DenseMap/DenseSet](https://discourse.llvm.org/t/rfc-malfunction-safe-densemap-denseset/81036#post_6)
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029?page=2#post_24)
+- [Why cann&#39;t the basic block address of an entry be taken](https://discourse.llvm.org/t/why-cannt-the-basic-block-address-of-an-entry-be-taken/81088#post_1)
+- [Can&#39;t create Attribute &#39;mlir::TypeAttr&#39; because storage uniquer isn&#39;t initialized](https://discourse.llvm.org/t/cant-create-attribute-mlir-typeattr-because-storage-uniquer-isnt-initialized/81069#post_6)
+- [Can&#39;t create Attribute &#39;mlir::TypeAttr&#39; because storage uniquer isn&#39;t initialized](https://discourse.llvm.org/t/cant-create-attribute-mlir-typeattr-because-storage-uniquer-isnt-initialized/81069#post_5)
+- [Mlir-pdll-lsp-server/completion.test failing after MLIR build](https://discourse.llvm.org/t/mlir-pdll-lsp-server-completion-test-failing-after-mlir-build/80814#post_2)
+- [AllowFPOpFusion vs. SDNodeFlags::hasAllowContract&lpar;&rpar;](https://discourse.llvm.org/t/allowfpopfusion-vs-sdnodeflags-hasallowcontract/80909#post_8)
 <!-- DISCOURSE-LLVM:END -->
