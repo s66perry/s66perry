@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to add verifier for MLIR location of custom attr?](https://discourse.llvm.org/t/how-to-add-verifier-for-mlir-location-of-custom-attr/81081#post_1)
+- [[clang-tidy][RFC] Add Autosar C++14 clang-tidy module?](https://discourse.llvm.org/t/clang-tidy-rfc-add-autosar-c-14-clang-tidy-module/59223#post_14)
+- [[RFC] Malfunction-safe DenseMap/DenseSet](https://discourse.llvm.org/t/rfc-malfunction-safe-densemap-denseset/81036#post_4)
 - [[clang-tidy][RFC] Add Autosar C++14 clang-tidy module?](https://discourse.llvm.org/t/clang-tidy-rfc-add-autosar-c-14-clang-tidy-module/59223#post_13)
 - [Steps of migrating to one-shot bufferization](https://discourse.llvm.org/t/steps-of-migrating-to-one-shot-bufferization/81062#post_2)
-- [In place memory bufferization](https://discourse.llvm.org/t/in-place-memory-bufferization/80899#post_7)
-- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_11)
-- [In place memory bufferization](https://discourse.llvm.org/t/in-place-memory-bufferization/80899#post_6)
 <!-- DISCOURSE-LLVM:END -->
