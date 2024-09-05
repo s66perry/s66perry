@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_77)
+- [[RFC] Move ORC executor support into top-level project](https://discourse.llvm.org/t/rfc-move-orc-executor-support-into-top-level-project/81049#post_3)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=4#post_76)
+- [Tablegen pattern for multiply by fp 1.0](https://discourse.llvm.org/t/tablegen-pattern-for-multiply-by-fp-1-0/81079#post_1)
 - [[RFC] Multilib custom flags](https://discourse.llvm.org/t/rfc-multilib-custom-flags/81058#post_5)
-- [[RFC] [tsan] Implementing a Fuzz Scheduler for TSAN](https://discourse.llvm.org/t/rfc-tsan-implementing-a-fuzz-scheduler-for-tsan/80969#post_4)
-- [What is the general approach for adapting scheduling algorithms to VLIW scenarios?](https://discourse.llvm.org/t/what-is-the-general-approach-for-adapting-scheduling-algorithms-to-vliw-scenarios/81078#post_1)
-- [[RFC] Multilib custom flags](https://discourse.llvm.org/t/rfc-multilib-custom-flags/81058#post_4)
-- [Lowering tosa to linalg problem with unsigned types](https://discourse.llvm.org/t/lowering-tosa-to-linalg-problem-with-unsigned-types/80704#post_11)
 <!-- DISCOURSE-LLVM:END -->
