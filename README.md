@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang-tidy][RFC] Add Autosar C++14 clang-tidy module?](https://discourse.llvm.org/t/clang-tidy-rfc-add-autosar-c-14-clang-tidy-module/59223#post_15)
-- [Adding VARGS support](https://discourse.llvm.org/t/adding-vargs-support/81085#post_1)
-- [What am I doing wrong when creating a new TypeSystemClang?](https://discourse.llvm.org/t/what-am-i-doing-wrong-when-creating-a-new-typesystemclang/81083#post_3)
-- [What am I doing wrong when creating a new TypeSystemClang?](https://discourse.llvm.org/t/what-am-i-doing-wrong-when-creating-a-new-typesystemclang/81083#post_2)
-- [Debug information symbols of downstream target due to linker relaxation](https://discourse.llvm.org/t/debug-information-symbols-of-downstream-target-due-to-linker-relaxation/79837?page=2#post_21)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029?page=2#post_24)
+- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029?page=2#post_23)
+- [Detecting loops that iterate a deterministic number of times in a transform pass](https://discourse.llvm.org/t/detecting-loops-that-iterate-a-deterministic-number-of-times-in-a-transform-pass/80972#post_10)
+- [[RFC] Malfunction-safe DenseMap/DenseSet](https://discourse.llvm.org/t/rfc-malfunction-safe-densemap-denseset/81036#post_5)
+- [What am I doing wrong when creating a new TypeSystemClang?](https://discourse.llvm.org/t/what-am-i-doing-wrong-when-creating-a-new-typesystemclang/81083#post_4)
 <!-- DISCOURSE-LLVM:END -->
