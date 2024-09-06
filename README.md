@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LNT Server Status](https://discourse.llvm.org/t/lnt-server-status/81059#post_2)
+- [Wrong scope in !dbg on a branch &lpar;or: How to find BranchInst::Create?&rpar;](https://discourse.llvm.org/t/wrong-scope-in-dbg-on-a-branch-or-how-to-find-branchinst-create/81112#post_1)
 - [About the Job Postings category](https://discourse.llvm.org/t/about-the-job-postings-category/24#post_3)
 - [LLVM Foundation - Program Director position](https://discourse.llvm.org/t/llvm-foundation-program-director-position/81111#post_1)
 - [LLVM MLGO Sept. 13, 2024 &lpar;in lieu of Sept. 6&rpar;](https://discourse.llvm.org/t/llvm-mlgo-sept-13-2024-in-lieu-of-sept-6/81110#post_1)
-- [[RFC] Malfunction-safe DenseMap/DenseSet](https://discourse.llvm.org/t/rfc-malfunction-safe-densemap-denseset/81036#post_7)
-- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=4#post_75)
 <!-- DISCOURSE-LLVM:END -->
