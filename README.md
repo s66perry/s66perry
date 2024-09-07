@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Not all symbol not found until when didOpen request is sent](https://discourse.llvm.org/t/not-all-symbol-not-found-until-when-didopen-request-is-sent/81011#post_6)
+- [Using SSE operation phminposuw](https://discourse.llvm.org/t/using-sse-operation-phminposuw/81099#post_2)
 - [Wrong scope in !dbg on a branch &lpar;or: How to find BranchInst::Create?&rpar;](https://discourse.llvm.org/t/wrong-scope-in-dbg-on-a-branch-or-how-to-find-branchinst-create/81112#post_2)
 - [Problem between clan 14 and 18](https://discourse.llvm.org/t/problem-between-clan-14-and-18/81117#post_3)
 - [Problem between clan 14 and 18](https://discourse.llvm.org/t/problem-between-clan-14-and-18/81117#post_2)
-- [Problem between clan 14 and 18](https://discourse.llvm.org/t/problem-between-clan-14-and-18/81117#post_1)
-- [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_14)
 <!-- DISCOURSE-LLVM:END -->
