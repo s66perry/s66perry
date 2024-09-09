@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coverage from multiple Test Executables](https://discourse.llvm.org/t/coverage-from-multiple-test-executables/81024#post_16)
+- [Using SSE operation phminposuw](https://discourse.llvm.org/t/using-sse-operation-phminposuw/81099#post_6)
+- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_3)
+- [[torch-mlir][onnx] how to run torch-mlir python lit unittest](https://discourse.llvm.org/t/torch-mlir-onnx-how-to-run-torch-mlir-python-lit-unittest/81144#post_1)
 - [[DWARF] Specifying that a DILocation should be is_stmt=false](https://discourse.llvm.org/t/dwarf-specifying-that-a-dilocation-should-be-is-stmt-false/81115#post_3)
-- [[RFC] Multilib selection for bare-metal](https://discourse.llvm.org/t/rfc-multilib-selection-for-bare-metal/80505#post_9)
-- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_18)
-- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_4)
-- [[RFC] Debug info coverage tool](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool/81142#post_1)
 <!-- DISCOURSE-LLVM:END -->
