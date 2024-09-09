@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Trouble lowering integer SDIV by constant](https://discourse.llvm.org/t/trouble-lowering-integer-sdiv-by-constant/81132#post_1)
-- [Why a struct in LR have two name when generate the LR?](https://discourse.llvm.org/t/why-a-struct-in-lr-have-two-name-when-generate-the-lr/81131#post_2)
-- [Why a struct in LR have two name when generate the LR?](https://discourse.llvm.org/t/why-a-struct-in-lr-have-two-name-when-generate-the-lr/81131#post_1)
-- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_9)
-- [MLIR C/C++ Frontend Working Group [Mon, Sept 9th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-sept-9th/80904#post_2)
+- [Using SSE operation phminposuw](https://discourse.llvm.org/t/using-sse-operation-phminposuw/81099#post_5)
+- [Clang with VS Code](https://discourse.llvm.org/t/clang-with-vs-code/81126#post_6)
+- [Clang with VS Code](https://discourse.llvm.org/t/clang-with-vs-code/81126#post_5)
+- [Trouble lowering integer SDIV by constant](https://discourse.llvm.org/t/trouble-lowering-integer-sdiv-by-constant/81132#post_2)
+- [Clang with VS Code](https://discourse.llvm.org/t/clang-with-vs-code/81126#post_4)
 <!-- DISCOURSE-LLVM:END -->
