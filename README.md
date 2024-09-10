@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Keeping sample profiles across optimization passes](https://discourse.llvm.org/t/keeping-sample-profiles-across-optimization-passes/81180#post_2)
+- [Keeping sample profiles across optimization passes](https://discourse.llvm.org/t/keeping-sample-profiles-across-optimization-passes/81180#post_1)
 - [[RFC] Add struct-returning intrinsics for math functions with output pointers](https://discourse.llvm.org/t/rfc-add-struct-returning-intrinsics-for-math-functions-with-output-pointers/81164#post_3)
 - [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720?page=2#post_29)
 - [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836?page=3#post_45)
-- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836?page=3#post_44)
-- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
