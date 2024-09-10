@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710?page=2#post_25)
-- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_9)
-- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_8)
-- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_7)
-- [Func.FuncOp conversion with MemRefType inputs](https://discourse.llvm.org/t/func-funcop-conversion-with-memreftype-inputs/79610#post_3)
+- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_12)
+- [[RFC] Vectors of complex type?](https://discourse.llvm.org/t/rfc-vectors-of-complex-type/81162#post_1)
+- [Usage of restrict keyword for the local variables](https://discourse.llvm.org/t/usage-of-restrict-keyword-for-the-local-variables/81161#post_1)
+- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_11)
+- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_10)
 <!-- DISCOURSE-LLVM:END -->
