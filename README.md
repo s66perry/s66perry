@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[dialect conversion] How to change the return type of `func.func`?](https://discourse.llvm.org/t/dialect-conversion-how-to-change-the-return-type-of-func-func/76419#post_6)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Sep 12](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-sep-12/81160#post_1)
 - [[torch-mlir][onnx] how to run torch-mlir python lit unittest](https://discourse.llvm.org/t/torch-mlir-onnx-how-to-run-torch-mlir-python-lit-unittest/81144#post_4)
 - [[torch-mlir][onnx] how to run torch-mlir python lit unittest](https://discourse.llvm.org/t/torch-mlir-onnx-how-to-run-torch-mlir-python-lit-unittest/81144#post_3)
 - [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_16)
-- [[RFC] [Modules] Should we embed sources to the BMI?](https://discourse.llvm.org/t/rfc-modules-should-we-embed-sources-to-the-bmi/81029?page=2#post_32)
-- [New Community Meeting / Developer Hour Schedule](https://discourse.llvm.org/t/new-community-meeting-developer-hour-schedule/73868#post_3)
 <!-- DISCOURSE-LLVM:END -->
