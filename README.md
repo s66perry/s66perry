@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_7)
-- [LLVM 19.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-19-1-0-rc2-tagged/80551#post_19)
-- [[RFC] Add struct-returning intrinsics for math functions with output pointers](https://discourse.llvm.org/t/rfc-add-struct-returning-intrinsics-for-math-functions-with-output-pointers/81164#post_2)
-- [[RFC] Add struct-returning intrinsics for math functions with output pointers](https://discourse.llvm.org/t/rfc-add-struct-returning-intrinsics-for-math-functions-with-output-pointers/81164#post_1)
-- [Add a DefaultValuedParameter, but still need to pass the value when call the constructor](https://discourse.llvm.org/t/add-a-defaultvaluedparameter-but-still-need-to-pass-the-value-when-call-the-constructor/81163#post_1)
+- [[RFC] Vectors of complex type?](https://discourse.llvm.org/t/rfc-vectors-of-complex-type/81162#post_2)
+- [[RFC] SPIR-V Simulator](https://discourse.llvm.org/t/rfc-spir-v-simulator/81168#post_1)
+- [How to use the pass &#39;Unroll and Jam&#39;](https://discourse.llvm.org/t/how-to-use-the-pass-unroll-and-jam/51849#post_4)
+- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_15)
+- [Is Using the &quot;mangledName&quot; Field in Clang AST Reliable for Determining Member Function Scope?](https://discourse.llvm.org/t/is-using-the-mangledname-field-in-clang-ast-reliable-for-determining-member-function-scope/81167#post_1)
 <!-- DISCOURSE-LLVM:END -->
