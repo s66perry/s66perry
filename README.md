@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[dialect conversion] How to change the return type of `func.func`?](https://discourse.llvm.org/t/dialect-conversion-how-to-change-the-return-type-of-func-func/76419#post_10)
-- [[dialect conversion] How to change the return type of `func.func`?](https://discourse.llvm.org/t/dialect-conversion-how-to-change-the-return-type-of-func-func/76419#post_9)
-- [[RFC] Debug info coverage tool](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool/81142#post_4)
-- [Is Using the &quot;mangledName&quot; Field in Clang AST Reliable for Determining Member Function Scope?](https://discourse.llvm.org/t/is-using-the-mangledname-field-in-clang-ast-reliable-for-determining-member-function-scope/81167#post_4)
-- [Is Using the &quot;mangledName&quot; Field in Clang AST Reliable for Determining Member Function Scope?](https://discourse.llvm.org/t/is-using-the-mangledname-field-in-clang-ast-reliable-for-determining-member-function-scope/81167#post_3)
+- [[RFC] Vectors of complex type?](https://discourse.llvm.org/t/rfc-vectors-of-complex-type/81162#post_3)
+- [Clang auto generate wrong variadic argument to function declaration](https://discourse.llvm.org/t/clang-auto-generate-wrong-variadic-argument-to-function-declaration/81176#post_3)
+- [Clang auto generate wrong variadic argument to function declaration](https://discourse.llvm.org/t/clang-auto-generate-wrong-variadic-argument-to-function-declaration/81176#post_2)
+- [Clang auto generate wrong variadic argument to function declaration](https://discourse.llvm.org/t/clang-auto-generate-wrong-variadic-argument-to-function-declaration/81176#post_1)
+- [MacOS Intel Binaries](https://discourse.llvm.org/t/macos-intel-binaries/81174#post_2)
 <!-- DISCOURSE-LLVM:END -->
