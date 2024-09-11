@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_6)
-- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_5)
-- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_4)
-- [Dialect Conversion: arbitrarily lookup &quot;updated&quot; operand of an OP](https://discourse.llvm.org/t/dialect-conversion-arbitrarily-lookup-updated-operand-of-an-op/81190#post_2)
-- [[RFC] Add struct-returning intrinsics for math functions with output pointers](https://discourse.llvm.org/t/rfc-add-struct-returning-intrinsics-for-math-functions-with-output-pointers/81164#post_4)
+- [Module equivalence using MLIR Python bindings](https://discourse.llvm.org/t/module-equivalence-using-mlir-python-bindings/81194#post_1)
+- [[RFC] OpenMP dialect representation of num_teams, thread_limit and target SPMD](https://discourse.llvm.org/t/rfc-openmp-dialect-representation-of-num-teams-thread-limit-and-target-spmd/81106#post_7)
+- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_7)
+- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_18)
+- [COO format and `sparse-assembler` fails with Python bindings](https://discourse.llvm.org/t/coo-format-and-sparse-assembler-fails-with-python-bindings/81193#post_1)
 <!-- DISCOURSE-LLVM:END -->
