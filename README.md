@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] SPIR-V backend testing using spirv-sim &lpar;LLVM-IR -&gt; SPIR-V + interpreter&rpar;](https://discourse.llvm.org/t/rfc-spir-v-backend-testing-using-spirv-sim-llvm-ir-spir-v-interpreter/81168#post_11)
+- [Dialect Conversion: arbitrarily lookup &quot;updated&quot; operand of an OP](https://discourse.llvm.org/t/dialect-conversion-arbitrarily-lookup-updated-operand-of-an-op/81190#post_1)
+- [[RFC] SPIR-V backend testing using spirv-sim &lpar;LLVM-IR -&gt; SPIR-V + interpreter&rpar;](https://discourse.llvm.org/t/rfc-spir-v-backend-testing-using-spirv-sim-llvm-ir-spir-v-interpreter/81168#post_10)
+- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_3)
 - [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_16)
-- [2024 LLVM Developers’ Meeting Embedded Toolchains Workshop](https://discourse.llvm.org/t/2024-llvm-developers-meeting-embedded-toolchains-workshop/81189#post_1)
-- [Problem about memcpy elimination](https://discourse.llvm.org/t/problem-about-memcpy-elimination/81121#post_4)
-- [Func.FuncOp conversion with MemRefType inputs](https://discourse.llvm.org/t/func-funcop-conversion-with-memreftype-inputs/79610#post_7)
-- [[Intrinsic]How to define an intrinsic where a return value is both a use and a def?](https://discourse.llvm.org/t/intrinsic-how-to-define-an-intrinsic-where-a-return-value-is-both-a-use-and-a-def/81182#post_5)
 <!-- DISCOURSE-LLVM:END -->
