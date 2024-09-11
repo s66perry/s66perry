@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_19)
-- [Module equivalence using MLIR Python bindings](https://discourse.llvm.org/t/module-equivalence-using-mlir-python-bindings/81194#post_1)
-- [[RFC] OpenMP dialect representation of num_teams, thread_limit and target SPMD](https://discourse.llvm.org/t/rfc-openmp-dialect-representation-of-num-teams-thread-limit-and-target-spmd/81106#post_7)
-- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_7)
-- [Clang development environment](https://discourse.llvm.org/t/clang-development-environment/81140#post_18)
+- [[RFC] SPIR-V backend testing using spirv-sim &lpar;LLVM-IR -&gt; SPIR-V + interpreter&rpar;](https://discourse.llvm.org/t/rfc-spir-v-backend-testing-using-spirv-sim-llvm-ir-spir-v-interpreter/81168#post_13)
+- [How can I resolve the issue where an error occurs during the conversion from memref op to emitc op when the memref op contains parameters?](https://discourse.llvm.org/t/how-can-i-resolve-the-issue-where-an-error-occurs-during-the-conversion-from-memref-op-to-emitc-op-when-the-memref-op-contains-parameters/81196#post_1)
+- [Module equivalence using MLIR Python bindings](https://discourse.llvm.org/t/module-equivalence-using-mlir-python-bindings/81194#post_3)
+- [[RFC] Malfunction-safe DenseMap/DenseSet](https://discourse.llvm.org/t/rfc-malfunction-safe-densemap-denseset/81036#post_9)
+- [Module equivalence using MLIR Python bindings](https://discourse.llvm.org/t/module-equivalence-using-mlir-python-bindings/81194#post_2)
 <!-- DISCOURSE-LLVM:END -->
