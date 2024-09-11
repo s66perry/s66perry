@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Func.FuncOp conversion with MemRefType inputs](https://discourse.llvm.org/t/func-funcop-conversion-with-memreftype-inputs/79610#post_4)
 - [RFC: Define policy on AI tool usage in contributions](https://discourse.llvm.org/t/rfc-define-policy-on-ai-tool-usage-in-contributions/78758?page=2#post_36)
 - [Keeping sample profiles across optimization passes](https://discourse.llvm.org/t/keeping-sample-profiles-across-optimization-passes/81180#post_2)
 - [Keeping sample profiles across optimization passes](https://discourse.llvm.org/t/keeping-sample-profiles-across-optimization-passes/81180#post_1)
 - [[RFC] Add struct-returning intrinsics for math functions with output pointers](https://discourse.llvm.org/t/rfc-add-struct-returning-intrinsics-for-math-functions-with-output-pointers/81164#post_3)
-- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
