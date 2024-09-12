@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Comments on macros with libclang?](https://discourse.llvm.org/t/comments-on-macros-with-libclang/81228#post_1)
-- [[noob] linking against clang/llvm](https://discourse.llvm.org/t/noob-linking-against-clang-llvm/81206#post_3)
-- [LLVM emitting wrong machine code for x64 MSVC](https://discourse.llvm.org/t/llvm-emitting-wrong-machine-code-for-x64-msvc/81226#post_1)
-- [[RFC][OpenMP] Fix issue in MLIR to LLVMIR translation for delayed privatisation](https://discourse.llvm.org/t/rfc-openmp-fix-issue-in-mlir-to-llvmir-translation-for-delayed-privatisation/81225#post_4)
-- [[RFC][OpenMP] Fix issue in MLIR to LLVMIR translation for delayed privatisation](https://discourse.llvm.org/t/rfc-openmp-fix-issue-in-mlir-to-llvmir-translation-for-delayed-privatisation/81225#post_3)
+- [-fsyntax-only with C++20 modules](https://discourse.llvm.org/t/fsyntax-only-with-c-20-modules/81230#post_1)
+- [[RFC] Multilib custom flags](https://discourse.llvm.org/t/rfc-multilib-custom-flags/81058#post_6)
+- [How to write an interceptor for fcntl?](https://discourse.llvm.org/t/how-to-write-an-interceptor-for-fcntl/81203#post_5)
+- [How to call MLIR Sparse module with only Dense inputs with Python bindings](https://discourse.llvm.org/t/how-to-call-mlir-sparse-module-with-only-dense-inputs-with-python-bindings/81229#post_1)
+- [Comments on macros with libclang?](https://discourse.llvm.org/t/comments-on-macros-with-libclang/81228#post_2)
 <!-- DISCOURSE-LLVM:END -->
