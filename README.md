@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_19)
+- [-fsyntax-only with C++20 modules](https://discourse.llvm.org/t/fsyntax-only-with-c-20-modules/81230#post_4)
+- [Contributing to loop optimizations](https://discourse.llvm.org/t/contributing-to-loop-optimizations/81232#post_2)
+- [Dxils-dis binary not generated in LLVM build](https://discourse.llvm.org/t/dxils-dis-binary-not-generated-in-llvm-build/81236#post_5)
 - [Dxils-dis binary not generated in LLVM build](https://discourse.llvm.org/t/dxils-dis-binary-not-generated-in-llvm-build/81236#post_4)
-- [How can I resolve the issue where an error occurs during the conversion from memref op to emitc op when the memref op contains parameters?](https://discourse.llvm.org/t/how-can-i-resolve-the-issue-where-an-error-occurs-during-the-conversion-from-memref-op-to-emitc-op-when-the-memref-op-contains-parameters/81196#post_5)
-- [How can I resolve the issue where an error occurs during the conversion from memref op to emitc op when the memref op contains parameters?](https://discourse.llvm.org/t/how-can-i-resolve-the-issue-where-an-error-occurs-during-the-conversion-from-memref-op-to-emitc-op-when-the-memref-op-contains-parameters/81196#post_4)
-- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=2#post_25)
-- [How can I resolve the issue where an error occurs during the conversion from memref op to emitc op when the memref op contains parameters?](https://discourse.llvm.org/t/how-can-i-resolve-the-issue-where-an-error-occurs-during-the-conversion-from-memref-op-to-emitc-op-when-the-memref-op-contains-parameters/81196#post_3)
 <!-- DISCOURSE-LLVM:END -->
