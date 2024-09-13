@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=2#post_27)
-- [COO format and `sparse-assembler` fails with Python bindings](https://discourse.llvm.org/t/coo-format-and-sparse-assembler-fails-with-python-bindings/81193#post_2)
-- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423#post_20)
-- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=2#post_26)
-- [Better location of `affine.delinearize` operation](https://discourse.llvm.org/t/better-location-of-affine-delinearize-operation/80565#post_16)
+- [-fsyntax-only with C++20 modules](https://discourse.llvm.org/t/fsyntax-only-with-c-20-modules/81230#post_7)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423?page=2#post_21)
+- [PassManager fails on simple COO addition example](https://discourse.llvm.org/t/passmanager-fails-on-simple-coo-addition-example/81247#post_1)
+- [-fsyntax-only with C++20 modules](https://discourse.llvm.org/t/fsyntax-only-with-c-20-modules/81230#post_6)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
