@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help: Lowering linalg.matmul to vector.outer_product](https://discourse.llvm.org/t/help-lowering-linalg-matmul-to-vector-outer-product/81238#post_3)
 - [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423?page=2#post_23)
 - [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423?page=2#post_22)
 - [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=2#post_31)
 - [-fsyntax-only with C++20 modules](https://discourse.llvm.org/t/fsyntax-only-with-c-20-modules/81230#post_8)
-- [-fsyntax-only with C++20 modules](https://discourse.llvm.org/t/fsyntax-only-with-c-20-modules/81230#post_7)
 <!-- DISCOURSE-LLVM:END -->
