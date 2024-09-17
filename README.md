@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does scheduler generate NOPs? Simple in order backend no hardware based hazard detection](https://discourse.llvm.org/t/does-scheduler-generate-nops-simple-in-order-backend-no-hardware-based-hazard-detection/81201#post_9)
 - [How do you code a generate &lpar;parallel for loop&rpar; in FIRRTL?](https://discourse.llvm.org/t/how-do-you-code-a-generate-parallel-for-loop-in-firrtl/81271#post_6)
 - [How do you code a generate &lpar;parallel for loop&rpar; in FIRRTL?](https://discourse.llvm.org/t/how-do-you-code-a-generate-parallel-for-loop-in-firrtl/81271#post_5)
 - [How do you code a generate &lpar;parallel for loop&rpar; in FIRRTL?](https://discourse.llvm.org/t/how-do-you-code-a-generate-parallel-for-loop-in-firrtl/81271#post_4)
 - [How do you code a generate &lpar;parallel for loop&rpar; in FIRRTL?](https://discourse.llvm.org/t/how-do-you-code-a-generate-parallel-for-loop-in-firrtl/81271#post_3)
-- [Is there an accepted flow for modern C++ Linux backwards compatibility?](https://discourse.llvm.org/t/is-there-an-accepted-flow-for-modern-c-linux-backwards-compatibility/81278#post_1)
 <!-- DISCOURSE-LLVM:END -->
