@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_8)
-- [Trying to build clang and runtimes but linking fails, need help](https://discourse.llvm.org/t/trying-to-build-clang-and-runtimes-but-linking-fails-need-help/72851#post_19)
-- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_11)
-- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_10)
-- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_14)
+- [Trying to build clang and runtimes but linking fails, need help](https://discourse.llvm.org/t/trying-to-build-clang-and-runtimes-but-linking-fails-need-help/72851#post_20)
+- [Clang-tidy check for fixing over-qualification of namespaces in C++](https://discourse.llvm.org/t/clang-tidy-check-for-fixing-over-qualification-of-namespaces-in-c/81318#post_1)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_15)
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374#post_16)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
