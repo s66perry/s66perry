@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_11)
+- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_10)
+- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_14)
+- [Flang Fortran plugin for LLDB status?](https://discourse.llvm.org/t/flang-fortran-plugin-for-lldb-status/81301#post_4)
 - [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_13)
-- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_13)
-- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_12)
-- [RFC: Compartmentalization Support](https://discourse.llvm.org/t/rfc-compartmentalization-support/81313#post_3)
-- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_11)
 <!-- DISCOURSE-LLVM:END -->
