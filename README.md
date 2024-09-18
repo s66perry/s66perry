@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Create own programming language &lpar;OOP&rpar;](https://discourse.llvm.org/t/create-own-programming-language-oop/81235#post_6)
-- [Create own programming language &lpar;OOP&rpar;](https://discourse.llvm.org/t/create-own-programming-language-oop/81235#post_5)
-- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_10)
-- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_8)
-- [Create own programming language &lpar;OOP&rpar;](https://discourse.llvm.org/t/create-own-programming-language-oop/81235#post_4)
+- [Flang Fortran plugin for LLDB status?](https://discourse.llvm.org/t/flang-fortran-plugin-for-lldb-status/81301#post_3)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_7)
+- [RFC: Convert LLVM&#39;s Release Notes to Markdown](https://discourse.llvm.org/t/rfc-convert-llvms-release-notes-to-markdown/81307#post_2)
+- [RFC: Convert LLVM&#39;s Release Notes to Markdown](https://discourse.llvm.org/t/rfc-convert-llvms-release-notes-to-markdown/81307#post_1)
+- [Flang Fortran plugin for LLDB status?](https://discourse.llvm.org/t/flang-fortran-plugin-for-lldb-status/81301#post_2)
 <!-- DISCOURSE-LLVM:END -->
