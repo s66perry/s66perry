@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_11)
-- [How to get all debug messages in IR with type DICompositeType?](https://discourse.llvm.org/t/how-to-get-all-debug-messages-in-ir-with-type-dicompositetype/81315#post_1)
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_10)
-- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_10)
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_9)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_10)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_9)
+- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_12)
+- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_13)
+- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_11)
 <!-- DISCOURSE-LLVM:END -->
