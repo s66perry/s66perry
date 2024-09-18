@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Debug info coverage tool](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool/81142#post_17)
-- [PassManager fails on simple COO addition example](https://discourse.llvm.org/t/passmanager-fails-on-simple-coo-addition-example/81247#post_3)
-- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_11)
-- [Compilation issues with non-standard C keywords and functions](https://discourse.llvm.org/t/compilation-issues-with-non-standard-c-keywords-and-functions/81309#post_2)
-- [RFC: Convert LLVM&#39;s Release Notes to Markdown](https://discourse.llvm.org/t/rfc-convert-llvms-release-notes-to-markdown/81307#post_3)
+- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_11)
+- [How to get all debug messages in IR with type DICompositeType?](https://discourse.llvm.org/t/how-to-get-all-debug-messages-in-ir-with-type-dicompositetype/81315#post_1)
+- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_10)
+- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_10)
+- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_9)
 <!-- DISCOURSE-LLVM:END -->
