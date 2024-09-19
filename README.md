@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Removing pseudo parser](https://discourse.llvm.org/t/removing-pseudo-parser/71131#post_14)
-- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_18)
-- [[RFC] Automatically download lldb-dap](https://discourse.llvm.org/t/rfc-automatically-download-lldb-dap/81322#post_3)
-- [RFC: Convert LLVM&#39;s Release Notes to Markdown](https://discourse.llvm.org/t/rfc-convert-llvms-release-notes-to-markdown/81307#post_4)
-- [Drastically reducing documented scope of project](https://discourse.llvm.org/t/drastically-reducing-documented-scope-of-project/80484#post_15)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=3#post_43)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=3#post_42)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=3#post_41)
+- [How to get all debug messages in IR with type DICompositeType?](https://discourse.llvm.org/t/how-to-get-all-debug-messages-in-ir-with-type-dicompositetype/81315#post_2)
+- [[RFC] Automatically download lldb-dap](https://discourse.llvm.org/t/rfc-automatically-download-lldb-dap/81322#post_4)
 <!-- DISCOURSE-LLVM:END -->
