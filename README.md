@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_10)
+- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_9)
 - [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_8)
 - [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_7)
 - [Force TEXT relocations only rather than GOT/PLT](https://discourse.llvm.org/t/force-text-relocations-only-rather-than-got-plt/81329#post_4)
-- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_6)
-- [[RFC] Debug info coverage tool](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool/81142?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
