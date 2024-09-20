@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What are &quot;ChainedOriginDepot&quot; and &quot;StackDepot&quot;?](https://discourse.llvm.org/t/what-are-chainedorigindepot-and-stackdepot/81340#post_1)
-- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_14)
-- [[RFC] Debug info coverage tool](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool/81142?page=2#post_23)
-- [Build LLVM error](https://discourse.llvm.org/t/build-llvm-error/81331#post_3)
-- [How to separate the body and dialect resources from a module in torch-mlir and how to reload it?](https://discourse.llvm.org/t/how-to-separate-the-body-and-dialect-resources-from-a-module-in-torch-mlir-and-how-to-reload-it/81338#post_3)
+- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_17)
+- [Review availability](https://discourse.llvm.org/t/review-availability/81342#post_1)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_23)
+- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_16)
+- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327#post_15)
 <!-- DISCOURSE-LLVM:END -->
