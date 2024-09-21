@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposing a new lead maintainer for LLVM](https://discourse.llvm.org/t/rfc-proposing-a-new-lead-maintainer-for-llvm/81290#post_8)
+- [Llvm 19.1.0: no library &#39;libomptarget-nvptx-sm_80.bc&#39; found](https://discourse.llvm.org/t/llvm-19-1-0-no-library-libomptarget-nvptx-sm-80-bc-found/81343#post_2)
 - [LLVM Installation requirements](https://discourse.llvm.org/t/llvm-installation-requirements/81347#post_2)
 - [LLVM Installation requirements](https://discourse.llvm.org/t/llvm-installation-requirements/81347#post_1)
 - [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_10)
-- [[RFC] Introducing new Clang builtin __builtin_get_counted_by](https://discourse.llvm.org/t/rfc-introducing-new-clang-builtin-builtin-get-counted-by/80836?page=3#post_49)
-- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
