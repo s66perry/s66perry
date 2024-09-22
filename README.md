@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Which pass is supposed to handle index type to integer conversion?](https://discourse.llvm.org/t/which-pass-is-supposed-to-handle-index-type-to-integer-conversion/80798#post_10)
 - [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_25)
 - [How to parse and save AST for just ONE file &lpar;and ignore includes&rpar;](https://discourse.llvm.org/t/how-to-parse-and-save-ast-for-just-one-file-and-ignore-includes/81359#post_1)
 - [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_24)
 - [How to make UBSAN detect this wrong usage of setjmp?](https://discourse.llvm.org/t/how-to-make-ubsan-detect-this-wrong-usage-of-setjmp/81357#post_1)
-- [Llvm 19.1.0: no library &#39;libomptarget-nvptx-sm_80.bc&#39; found](https://discourse.llvm.org/t/llvm-19-1-0-no-library-libomptarget-nvptx-sm-80-bc-found/81343#post_4)
 <!-- DISCOURSE-LLVM:END -->
