@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding llvm DWARFDie APIs to LLDB DWARFDIE](https://discourse.llvm.org/t/adding-llvm-dwarfdie-apis-to-lldb-dwarfdie/81390#post_2)
+- [Create own programming language &lpar;OOP&rpar;](https://discourse.llvm.org/t/create-own-programming-language-oop/81235#post_7)
+- [[Optimization] Is there any chance to optimize duplicated load for `this`?](https://discourse.llvm.org/t/optimization-is-there-any-chance-to-optimize-duplicated-load-for-this/81336#post_7)
+- [Adding llvm DWARFDie APIs to LLDB DWARFDIE](https://discourse.llvm.org/t/adding-llvm-dwarfdie-apis-to-lldb-dwarfdie/81390#post_1)
 - [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_3)
-- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_2)
-- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_1)
-- [Is the documentation for building the LLVM toolchain outdated?](https://discourse.llvm.org/t/is-the-documentation-for-building-the-llvm-toolchain-outdated/81387#post_1)
-- [[RFC][OpenMP] Should type declaration be allowed after threadprivate?](https://discourse.llvm.org/t/rfc-openmp-should-type-declaration-be-allowed-after-threadprivate/81345#post_3)
 <!-- DISCOURSE-LLVM:END -->
