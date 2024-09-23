@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can I comment some of the code in verifier.cpp?](https://discourse.llvm.org/t/can-i-comment-some-of-the-code-in-verifier-cpp/81386#post_2)
-- [[RFC] Proposing a new lead maintainer for LLVM](https://discourse.llvm.org/t/rfc-proposing-a-new-lead-maintainer-for-llvm/81290#post_11)
-- [Can I comment some of the code in verifier.cpp?](https://discourse.llvm.org/t/can-i-comment-some-of-the-code-in-verifier-cpp/81386#post_1)
-- [[RFC] Make SLP Vectorizer revectorize vector instructions](https://discourse.llvm.org/t/rfc-make-slp-vectorizer-revectorize-vector-instructions/79436#post_14)
-- [[RFC] Proposing a new lead maintainer for LLVM](https://discourse.llvm.org/t/rfc-proposing-a-new-lead-maintainer-for-llvm/81290#post_10)
+- [[RFC] Proposing a new lead maintainer for LLVM](https://discourse.llvm.org/t/rfc-proposing-a-new-lead-maintainer-for-llvm/81290#post_12)
+- [Can I comment some of the code in verifier.cpp?](https://discourse.llvm.org/t/can-i-comment-some-of-the-code-in-verifier-cpp/81386#post_4)
+- [Can I comment some of the code in verifier.cpp?](https://discourse.llvm.org/t/can-i-comment-some-of-the-code-in-verifier-cpp/81386#post_3)
+- [&quot;Hidden emails&quot; on GitHub: should we do something about it?](https://discourse.llvm.org/t/hidden-emails-on-github-should-we-do-something-about-it/74223?page=4#post_77)
+- [Open MLIR Meeting 3/30/2023: Representing Dataflow with MLIR](https://discourse.llvm.org/t/open-mlir-meeting-3-30-2023-representing-dataflow-with-mlir/69557#post_5)
 <!-- DISCOURSE-LLVM:END -->
