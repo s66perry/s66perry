@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Frontend] How to use register union or struct in c?](https://discourse.llvm.org/t/frontend-how-to-use-register-union-or-struct-in-c/81392#post_4)
-- [[Frontend] How to use register union or struct in c?](https://discourse.llvm.org/t/frontend-how-to-use-register-union-or-struct-in-c/81392#post_3)
-- [[Frontend] How to use register union or struct in c?](https://discourse.llvm.org/t/frontend-how-to-use-register-union-or-struct-in-c/81392#post_2)
-- [Handling First Element of a Struct in LLVM Store Instruction after O3 Optimization](https://discourse.llvm.org/t/handling-first-element-of-a-struct-in-llvm-store-instruction-after-o3-optimization/81402#post_1)
-- [Applying the `nocapture` attribute to reference-passed arguments in Fortran subroutines](https://discourse.llvm.org/t/applying-the-nocapture-attribute-to-reference-passed-arguments-in-fortran-subroutines/81401#post_1)
+- [Is the documentation for building the LLVM toolchain outdated?](https://discourse.llvm.org/t/is-the-documentation-for-building-the-llvm-toolchain-outdated/81387#post_3)
+- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_7)
+- [Is the documentation for building the LLVM toolchain outdated?](https://discourse.llvm.org/t/is-the-documentation-for-building-the-llvm-toolchain-outdated/81387#post_2)
+- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_6)
+- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_5)
 <!-- DISCOURSE-LLVM:END -->
