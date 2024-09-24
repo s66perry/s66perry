@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is the documentation for building the LLVM toolchain outdated?](https://discourse.llvm.org/t/is-the-documentation-for-building-the-llvm-toolchain-outdated/81387#post_3)
-- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_7)
-- [Is the documentation for building the LLVM toolchain outdated?](https://discourse.llvm.org/t/is-the-documentation-for-building-the-llvm-toolchain-outdated/81387#post_2)
-- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_6)
-- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_5)
+- [Illegal operation when slicing CSR tensor](https://discourse.llvm.org/t/illegal-operation-when-slicing-csr-tensor/81404#post_1)
+- [Handling First Element of a Struct in LLVM Store Instruction after O3 Optimization](https://discourse.llvm.org/t/handling-first-element-of-a-struct-in-llvm-store-instruction-after-o3-optimization/81402#post_4)
+- [Lifetime Analysis Improvements in Clang](https://discourse.llvm.org/t/lifetime-analysis-improvements-in-clang/81374#post_4)
+- [How to Fix toctree Error in Upstream Doc Generation Due to Addition of New Section?](https://discourse.llvm.org/t/how-to-fix-toctree-error-in-upstream-doc-generation-due-to-addition-of-new-section/81368#post_3)
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
