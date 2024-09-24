@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Customizing Function Export with fx.export_and_import](https://discourse.llvm.org/t/customizing-function-export-with-fx-export-and-import/81395#post_2)
-- [Customizing Function Export with fx.export_and_import](https://discourse.llvm.org/t/customizing-function-export-with-fx-export-and-import/81395#post_1)
-- [Register saving and restoring during function calls with -O3 optimization](https://discourse.llvm.org/t/register-saving-and-restoring-during-function-calls-with-o3-optimization/81394#post_1)
-- [[Frontend] How to use register union or struct in c?](https://discourse.llvm.org/t/frontend-how-to-use-register-union-or-struct-in-c/81392#post_1)
-- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_29)
+- [Adding llvm DWARFDie APIs to LLDB DWARFDIE](https://discourse.llvm.org/t/adding-llvm-dwarfdie-apis-to-lldb-dwarfdie/81390#post_3)
+- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_3)
+- [[RFC] Proposing a new lead maintainer for LLVM](https://discourse.llvm.org/t/rfc-proposing-a-new-lead-maintainer-for-llvm/81290#post_14)
+- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_2)
+- [Memref AffineMap Convert](https://discourse.llvm.org/t/memref-affinemap-convert/81399#post_1)
 <!-- DISCOURSE-LLVM:END -->
