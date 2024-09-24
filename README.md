@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding llvm DWARFDie APIs to LLDB DWARFDIE](https://discourse.llvm.org/t/adding-llvm-dwarfdie-apis-to-lldb-dwarfdie/81390#post_2)
-- [Create own programming language &lpar;OOP&rpar;](https://discourse.llvm.org/t/create-own-programming-language-oop/81235#post_7)
-- [[Optimization] Is there any chance to optimize duplicated load for `this`?](https://discourse.llvm.org/t/optimization-is-there-any-chance-to-optimize-duplicated-load-for-this/81336#post_7)
-- [Adding llvm DWARFDie APIs to LLDB DWARFDIE](https://discourse.llvm.org/t/adding-llvm-dwarfdie-apis-to-lldb-dwarfdie/81390#post_1)
-- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_3)
+- [LLVM Pointer Authentication sync-ups](https://discourse.llvm.org/t/llvm-pointer-authentication-sync-ups/62661?page=2#post_29)
+- [LLVM Bay Area Monthly Meetup &lpar;Wed Sep 25 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-wed-sep-25-24-6pm/81391#post_2)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 12 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-12-24-6pm/80631#post_3)
+- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_4)
+- [LLVM Bay Area Monthly Meetup &lpar;Wed Sep 25 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-wed-sep-25-24-6pm/81391#post_1)
 <!-- DISCOURSE-LLVM:END -->
