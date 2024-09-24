@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Traversing Operations in a block](https://discourse.llvm.org/t/traversing-operations-in-a-block/81410#post_1)
-- [Adding llvm DWARFDie APIs to LLDB DWARFDIE](https://discourse.llvm.org/t/adding-llvm-dwarfdie-apis-to-lldb-dwarfdie/81390#post_4)
-- [[RFC] Introduce [[clang::lifetime_capture_by&lpar;X&rpar;]]](https://discourse.llvm.org/t/rfc-introduce-clang-lifetime-capture-by-x/81371#post_3)
-- [RFC: auto support in TableGen files](https://discourse.llvm.org/t/rfc-auto-support-in-tablegen-files/81408#post_1)
-- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986#post_20)
+- [2024 LLVM Developers Meeting - Early Bird Registration Extended &lpar;Sept 25&rpar; and more announcements](https://discourse.llvm.org/t/2024-llvm-developers-meeting-early-bird-registration-extended-sept-25-and-more-announcements/81411#post_1)
+- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_6)
+- [Pseudo Template Instantiation in Clang](https://discourse.llvm.org/t/pseudo-template-instantiation-in-clang/81406#post_3)
+- [RFC: Convert LLVM&#39;s Release Notes to Markdown](https://discourse.llvm.org/t/rfc-convert-llvms-release-notes-to-markdown/81307#post_6)
+- [Pseudo Template Instantiation in Clang](https://discourse.llvm.org/t/pseudo-template-instantiation-in-clang/81406#post_2)
 <!-- DISCOURSE-LLVM:END -->
