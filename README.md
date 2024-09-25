@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Pseudo Template Instantiation in Clang](https://discourse.llvm.org/t/pseudo-template-instantiation-in-clang/81406#post_6)
-- [[RFC] nolock and noalloc attributes](https://discourse.llvm.org/t/rfc-nolock-and-noalloc-attributes/76837?page=6#post_114)
-- [Pseudo Template Instantiation in Clang](https://discourse.llvm.org/t/pseudo-template-instantiation-in-clang/81406#post_5)
-- [Pseudo Template Instantiation in Clang](https://discourse.llvm.org/t/pseudo-template-instantiation-in-clang/81406#post_4)
-- [Evaluation mode behavior for training-specific parameters for pytorch model](https://discourse.llvm.org/t/evaluation-mode-behavior-for-training-specific-parameters-for-pytorch-model/81422#post_1)
+- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_4)
+- [RFC: auto support in TableGen files](https://discourse.llvm.org/t/rfc-auto-support-in-tablegen-files/81408#post_4)
+- [Incoming change to SPIRV JSON schema](https://discourse.llvm.org/t/incoming-change-to-spirv-json-schema/81425#post_1)
+- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_3)
+- [Target ABI: improve call parameters extensions handling](https://discourse.llvm.org/t/target-abi-improve-call-parameters-extensions-handling/80553#post_14)
 <!-- DISCOURSE-LLVM:END -->
