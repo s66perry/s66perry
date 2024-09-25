@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Register saving and restoring during function calls with -O3 optimization](https://discourse.llvm.org/t/register-saving-and-restoring-during-function-calls-with-o3-optimization/81394#post_5)
+- [Register saving and restoring during function calls with -O3 optimization](https://discourse.llvm.org/t/register-saving-and-restoring-during-function-calls-with-o3-optimization/81394#post_4)
+- [[Frontend] How to use register union or struct in c?](https://discourse.llvm.org/t/frontend-how-to-use-register-union-or-struct-in-c/81392#post_10)
 - [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_41)
 - [Inconsistent analyze result between default copy ctor and customized copy ctor](https://discourse.llvm.org/t/inconsistent-analyze-result-between-default-copy-ctor-and-customized-copy-ctor/81417#post_1)
-- [Qeustion of poison produced by shift instruction?](https://discourse.llvm.org/t/qeustion-of-poison-produced-by-shift-instruction/81413#post_2)
-- [RFC: auto support in TableGen files](https://discourse.llvm.org/t/rfc-auto-support-in-tablegen-files/81408#post_2)
-- [Qeustion of poison produced by shift instruction?](https://discourse.llvm.org/t/qeustion-of-poison-produced-by-shift-instruction/81413#post_1)
 <!-- DISCOURSE-LLVM:END -->
