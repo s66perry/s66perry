@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improvements to capture tracking](https://discourse.llvm.org/t/rfc-improvements-to-capture-tracking/81420#post_3)
+- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327?page=2#post_24)
+- [[RFC]Updating Supported Host Compiler versions for LLVM20](https://discourse.llvm.org/t/rfc-updating-supported-host-compiler-versions-for-llvm20/81327?page=2#post_23)
+- [RISC-V LLVM sync-up call September 26th 2024](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-september-26th-2024/81427#post_1)
 - [RFC: auto support in TableGen files](https://discourse.llvm.org/t/rfc-auto-support-in-tablegen-files/81408#post_5)
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_6)
-- [[RFC] Improvements to capture tracking](https://discourse.llvm.org/t/rfc-improvements-to-capture-tracking/81420#post_2)
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_5)
-- [Incoming change to SPIRV JSON schema](https://discourse.llvm.org/t/incoming-change-to-spirv-json-schema/81425#post_2)
 <!-- DISCOURSE-LLVM:END -->
