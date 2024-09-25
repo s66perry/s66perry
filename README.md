@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_4)
-- [RFC: auto support in TableGen files](https://discourse.llvm.org/t/rfc-auto-support-in-tablegen-files/81408#post_4)
-- [Incoming change to SPIRV JSON schema](https://discourse.llvm.org/t/incoming-change-to-spirv-json-schema/81425#post_1)
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_3)
-- [Target ABI: improve call parameters extensions handling](https://discourse.llvm.org/t/target-abi-improve-call-parameters-extensions-handling/80553#post_14)
+- [RFC: auto support in TableGen files](https://discourse.llvm.org/t/rfc-auto-support-in-tablegen-files/81408#post_5)
+- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_6)
+- [[RFC] Improvements to capture tracking](https://discourse.llvm.org/t/rfc-improvements-to-capture-tracking/81420#post_2)
+- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_5)
+- [Incoming change to SPIRV JSON schema](https://discourse.llvm.org/t/incoming-change-to-spirv-json-schema/81425#post_2)
 <!-- DISCOURSE-LLVM:END -->
