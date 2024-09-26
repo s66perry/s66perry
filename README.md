@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Handling undefined sub-registers when lowering COPY](https://discourse.llvm.org/t/handling-undefined-sub-registers-when-lowering-copy/81442#post_1)
+- [[RFC][OpenMP] Fix issue in MLIR to LLVMIR translation for delayed privatisation](https://discourse.llvm.org/t/rfc-openmp-fix-issue-in-mlir-to-llvmir-translation-for-delayed-privatisation/81225#post_8)
+- [Can anyone share lldb build steps for RISC-V?](https://discourse.llvm.org/t/can-anyone-share-lldb-build-steps-for-risc-v/81441#post_1)
+- [Handling sub-reg constraints](https://discourse.llvm.org/t/handling-sub-reg-constraints/81440#post_1)
 - [One-Shot-Bufferization Compilation Time Issue with Large IRs](https://discourse.llvm.org/t/one-shot-bufferization-compilation-time-issue-with-large-irs/81439#post_1)
-- [[GSoC 2024] Remove undefined behavior from tests](https://discourse.llvm.org/t/gsoc-2024-remove-undefined-behavior-from-tests/77236?page=2#post_29)
-- [Issue with Removing Redundant memref.subview and memref.copy Operations in MLIR IR](https://discourse.llvm.org/t/issue-with-removing-redundant-memref-subview-and-memref-copy-operations-in-mlir-ir/81367#post_2)
-- [[RFC] Slight tweak to header inclusion policy to promote IWYU](https://discourse.llvm.org/t/rfc-slight-tweak-to-header-inclusion-policy-to-promote-iwyu/81430#post_3)
-- [[RFC] Slight tweak to header inclusion policy to promote IWYU](https://discourse.llvm.org/t/rfc-slight-tweak-to-header-inclusion-policy-to-promote-iwyu/81430#post_2)
 <!-- DISCOURSE-LLVM:END -->
