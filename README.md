@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD ignores TLS contents with custom PHDRS](https://discourse.llvm.org/t/lld-ignores-tls-contents-with-custom-phdrs/81453#post_1)
+- [One-Shot-Bufferization Compilation Time Issue with Large IRs](https://discourse.llvm.org/t/one-shot-bufferization-compilation-time-issue-with-large-irs/81439#post_3)
+- [One-Shot-Bufferization Compilation Time Issue with Large IRs](https://discourse.llvm.org/t/one-shot-bufferization-compilation-time-issue-with-large-irs/81439#post_2)
+- [[RFC] Slight tweak to header inclusion policy to promote IWYU](https://discourse.llvm.org/t/rfc-slight-tweak-to-header-inclusion-policy-to-promote-iwyu/81430#post_7)
 - [[RFC] Slight tweak to header inclusion policy to promote IWYU](https://discourse.llvm.org/t/rfc-slight-tweak-to-header-inclusion-policy-to-promote-iwyu/81430#post_6)
-- [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753#post_11)
-- [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753#post_10)
-- [[RFC] Slight tweak to header inclusion policy to promote IWYU](https://discourse.llvm.org/t/rfc-slight-tweak-to-header-inclusion-policy-to-promote-iwyu/81430#post_5)
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=5#post_84)
 <!-- DISCOURSE-LLVM:END -->
