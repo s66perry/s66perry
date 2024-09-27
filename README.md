@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_15)
-- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_14)
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_6)
-- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_13)
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_5)
+- [[RFC] Add clang atomic control options and pragmas](https://discourse.llvm.org/t/rfc-add-clang-atomic-control-options-and-pragmas/80641?page=2#post_27)
+- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_8)
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_17)
+- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_49)
+- [Building libcxx benchmarks with GCC 12?](https://discourse.llvm.org/t/building-libcxx-benchmarks-with-gcc-12/81477#post_1)
 <!-- DISCOURSE-LLVM:END -->
