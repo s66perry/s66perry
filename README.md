@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_47)
+- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_4)
+- [Atomic floating point operations and libstdc++](https://discourse.llvm.org/t/atomic-floating-point-operations-and-libstdc/81461#post_1)
+- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_8)
 - [Issue with Dead Code in IR after Lowering Convolution with Padding in MLIR](https://discourse.llvm.org/t/issue-with-dead-code-in-ir-after-lowering-convolution-with-padding-in-mlir/81447#post_3)
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_7)
-- [Adding llvm DWARFDie APIs to LLDB DWARFDIE](https://discourse.llvm.org/t/adding-llvm-dwarfdie-apis-to-lldb-dwarfdie/81390#post_5)
-- [LLD ignores TLS contents with custom PHDRS](https://discourse.llvm.org/t/lld-ignores-tls-contents-with-custom-phdrs/81453#post_2)
-- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_11)
 <!-- DISCOURSE-LLVM:END -->
