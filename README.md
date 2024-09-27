@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_47)
-- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_4)
-- [Atomic floating point operations and libstdc++](https://discourse.llvm.org/t/atomic-floating-point-operations-and-libstdc/81461#post_1)
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_8)
-- [Issue with Dead Code in IR after Lowering Convolution with Padding in MLIR](https://discourse.llvm.org/t/issue-with-dead-code-in-ir-after-lowering-convolution-with-padding-in-mlir/81447#post_3)
+- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_9)
+- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_18)
+- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_17)
+- [[RFC] Upstreaming Renesas RL78 MCU backend](https://discourse.llvm.org/t/rfc-upstreaming-renesas-rl78-mcu-backend/81264#post_16)
+- [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_4)
 <!-- DISCOURSE-LLVM:END -->
