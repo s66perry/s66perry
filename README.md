@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753#post_13)
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_2)
-- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_5)
-- [LLD ignores TLS contents with custom PHDRS](https://discourse.llvm.org/t/lld-ignores-tls-contents-with-custom-phdrs/81453#post_3)
-- [Applying the `nocapture` attribute to reference-passed arguments in Fortran subroutines](https://discourse.llvm.org/t/applying-the-nocapture-attribute-to-reference-passed-arguments-in-fortran-subroutines/81401#post_7)
+- [Running clang --analyze on LLVM-IR and clang --analyze vs scan-build](https://discourse.llvm.org/t/running-clang-analyze-on-llvm-ir-and-clang-analyze-vs-scan-build/81472#post_2)
+- [Coding style: `isa&lt;&gt; &amp;&amp; cast&lt;&gt;` pattern](https://discourse.llvm.org/t/coding-style-isa-cast-pattern/81473#post_2)
+- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_6)
+- [Coding style: `isa&lt;&gt; &amp;&amp; cast&lt;&gt;` pattern](https://discourse.llvm.org/t/coding-style-isa-cast-pattern/81473#post_1)
+- [Running clang --analyze on LLVM-IR and clang --analyze vs scan-build](https://discourse.llvm.org/t/running-clang-analyze-on-llvm-ir-and-clang-analyze-vs-scan-build/81472#post_1)
 <!-- DISCOURSE-LLVM:END -->
