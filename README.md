@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_10)
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_9)
-- [Lifetime Analysis Improvements in Clang](https://discourse.llvm.org/t/lifetime-analysis-improvements-in-clang/81374#post_5)
-- [[RFC] Add clang atomic control options and pragmas](https://discourse.llvm.org/t/rfc-add-clang-atomic-control-options-and-pragmas/80641?page=2#post_27)
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_8)
+- [[RFC] Add pragma force_vectorize](https://discourse.llvm.org/t/rfc-add-pragma-force-vectorize/80555#post_18)
+- [Ideas for removing test binaries from the git repo](https://discourse.llvm.org/t/ideas-for-removing-test-binaries-from-the-git-repo/81480#post_1)
+- [[PSA] program point semantics change](https://discourse.llvm.org/t/psa-program-point-semantics-change/81479#post_1)
+- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_12)
+- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_11)
 <!-- DISCOURSE-LLVM:END -->
