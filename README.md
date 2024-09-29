@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why did IR&#39;s callsite for “llvm.public.type.test” disappear after the merge?](https://discourse.llvm.org/t/why-did-irs-callsite-for-llvm-public-type-test-disappear-after-the-merge/82277#post_1)
 - [Ideas for removing test binaries from the git repo](https://discourse.llvm.org/t/ideas-for-removing-test-binaries-from-the-git-repo/81480#post_5)
 - [Ideas for removing test binaries from the git repo](https://discourse.llvm.org/t/ideas-for-removing-test-binaries-from-the-git-repo/81480#post_4)
 - [How is the frame pointer set to i64 for riscv64](https://discourse.llvm.org/t/how-is-the-frame-pointer-set-to-i64-for-riscv64/81525#post_3)
 - [How is the frame pointer set to i64 for riscv64](https://discourse.llvm.org/t/how-is-the-frame-pointer-set-to-i64-for-riscv64/81525#post_2)
-- [How is the frame pointer set to i64 for riscv64](https://discourse.llvm.org/t/how-is-the-frame-pointer-set-to-i64-for-riscv64/81525#post_1)
 <!-- DISCOURSE-LLVM:END -->
