@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Granular per-operation declaration inclusion](https://discourse.llvm.org/t/granular-per-operation-declaration-inclusion/81464#post_3)
-- [[RFC] OpenMP dialect representation of num_teams, thread_limit and target SPMD](https://discourse.llvm.org/t/rfc-openmp-dialect-representation-of-num-teams-thread-limit-and-target-spmd/81106#post_8)
-- [Applying the `nocapture` attribute to reference-passed arguments in Fortran subroutines](https://discourse.llvm.org/t/applying-the-nocapture-attribute-to-reference-passed-arguments-in-fortran-subroutines/81401#post_8)
-- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_12)
-- [[Frontend] How to use register union or struct in c?](https://discourse.llvm.org/t/frontend-how-to-use-register-union-or-struct-in-c/81392#post_11)
+- [[RFC][flang] replace usages of fir.complex by mlir complex type](https://discourse.llvm.org/t/rfc-flang-replace-usages-of-fir-complex-by-mlir-complex-type/82292#post_1)
+- [Current state of function vectorization in LLVM](https://discourse.llvm.org/t/current-state-of-function-vectorization-in-llvm/82291#post_1)
+- [Issue with Removing Redundant memref.subview and memref.copy Operations in MLIR IR](https://discourse.llvm.org/t/issue-with-removing-redundant-memref-subview-and-memref-copy-operations-in-mlir-ir/81367#post_5)
+- [Applying the `nocapture` attribute to reference-passed arguments in Fortran subroutines](https://discourse.llvm.org/t/applying-the-nocapture-attribute-to-reference-passed-arguments-in-fortran-subroutines/81401#post_9)
+- [Where does lto optimize global functions to local functions?](https://discourse.llvm.org/t/where-does-lto-optimize-global-functions-to-local-functions/82282#post_3)
 <!-- DISCOURSE-LLVM:END -->
