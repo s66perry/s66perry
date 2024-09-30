@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [One-Shot-Bufferization Compilation Time Issue with Large IRs](https://discourse.llvm.org/t/one-shot-bufferization-compilation-time-issue-with-large-irs/81439#post_6)
-- [Indexing into arrays &quot;by value&quot;](https://discourse.llvm.org/t/indexing-into-arrays-by-value/82293#post_4)
-- [[RFC] OpenMP dialect representation of num_teams, thread_limit and target SPMD](https://discourse.llvm.org/t/rfc-openmp-dialect-representation-of-num-teams-thread-limit-and-target-spmd/81106#post_9)
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_10)
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_15)
+- [Inconsistent analyze result between default copy ctor and customized copy ctor](https://discourse.llvm.org/t/inconsistent-analyze-result-between-default-copy-ctor-and-customized-copy-ctor/81417#post_2)
+- [RFC: auto support in TableGen files](https://discourse.llvm.org/t/rfc-auto-support-in-tablegen-files/81408#post_6)
+- [[RFC] Support statement attributes for plugins](https://discourse.llvm.org/t/rfc-support-statement-attributes-for-plugins/82299#post_1)
+- [How to Decompose or Transform Dimension-Manipulating Ops &lpar;e.g., memref.expand_shape&rpar; in MLIR?](https://discourse.llvm.org/t/how-to-decompose-or-transform-dimension-manipulating-ops-e-g-memref-expand-shape-in-mlir/82279#post_2)
+- [[RFC] Use LLVM_ENABLE_RUNTIMES for Flang&#39;s runtime](https://discourse.llvm.org/t/rfc-use-llvm-enable-runtimes-for-flangs-runtime/80826#post_15)
 <!-- DISCOURSE-LLVM:END -->
