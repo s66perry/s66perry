@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Current state of function vectorization in LLVM](https://discourse.llvm.org/t/current-state-of-function-vectorization-in-llvm/82291#post_3)
+- [Multiline StringAttr?](https://discourse.llvm.org/t/multiline-stringattr/81418#post_4)
 - [RFC: Archive some old repositories](https://discourse.llvm.org/t/rfc-archive-some-old-repositories/82313#post_4)
 - [RFC: Archive some old repositories](https://discourse.llvm.org/t/rfc-archive-some-old-repositories/82313#post_3)
 - [Why did IR&#39;s callsite for “llvm.public.type.test” disappear after the merge?](https://discourse.llvm.org/t/why-did-irs-callsite-for-llvm-public-type-test-disappear-after-the-merge/82277#post_4)
-- [[RFC] OpenMP dialect representation of num_teams, thread_limit and target SPMD](https://discourse.llvm.org/t/rfc-openmp-dialect-representation-of-num-teams-thread-limit-and-target-spmd/81106#post_10)
-- [Why did IR&#39;s callsite for “llvm.public.type.test” disappear after the merge?](https://discourse.llvm.org/t/why-did-irs-callsite-for-llvm-public-type-test-disappear-after-the-merge/82277#post_3)
 <!-- DISCOURSE-LLVM:END -->
