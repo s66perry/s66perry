@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why did IR&#39;s callsite for “llvm.public.type.test” disappear after the merge?](https://discourse.llvm.org/t/why-did-irs-callsite-for-llvm-public-type-test-disappear-after-the-merge/82277#post_4)
+- [[RFC] OpenMP dialect representation of num_teams, thread_limit and target SPMD](https://discourse.llvm.org/t/rfc-openmp-dialect-representation-of-num-teams-thread-limit-and-target-spmd/81106#post_10)
+- [Why did IR&#39;s callsite for “llvm.public.type.test” disappear after the merge?](https://discourse.llvm.org/t/why-did-irs-callsite-for-llvm-public-type-test-disappear-after-the-merge/82277#post_3)
+- [RFC: Archive some old repositories](https://discourse.llvm.org/t/rfc-archive-some-old-repositories/82313#post_2)
 - [Is there any scripting tool that can convert .def inside llvm to .h header file?](https://discourse.llvm.org/t/is-there-any-scripting-tool-that-can-convert-def-inside-llvm-to-h-header-file/82311#post_2)
-- [RFC: Archive some old repositories](https://discourse.llvm.org/t/rfc-archive-some-old-repositories/82313#post_1)
-- [RFC: DWARF reduction tool](https://discourse.llvm.org/t/rfc-dwarf-reduction-tool/80781#post_14)
-- [Ideas for removing test binaries from the git repo](https://discourse.llvm.org/t/ideas-for-removing-test-binaries-from-the-git-repo/81480#post_9)
-- [Is TOSA dialect compatible with SparseTensor? How to broadcast+elemwise with SparseTensor?](https://discourse.llvm.org/t/is-tosa-dialect-compatible-with-sparsetensor-how-to-broadcast-elemwise-with-sparsetensor/82295#post_2)
 <!-- DISCOURSE-LLVM:END -->
