@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building simple c++ MLIR program with local LLVM build](https://discourse.llvm.org/t/building-simple-c-mlir-program-with-local-llvm-build/82325#post_1)
 - [Profiling report with branch coverage for templates is misleading](https://discourse.llvm.org/t/profiling-report-with-branch-coverage-for-templates-is-misleading/82323#post_2)
 - [Anything like a source span location?](https://discourse.llvm.org/t/anything-like-a-source-span-location/82324#post_4)
 - [Anything like a source span location?](https://discourse.llvm.org/t/anything-like-a-source-span-location/82324#post_3)
 - [Anything like a source span location?](https://discourse.llvm.org/t/anything-like-a-source-span-location/82324#post_2)
-- [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021#post_8)
 <!-- DISCOURSE-LLVM:END -->
