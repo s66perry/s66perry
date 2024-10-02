@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Use LLVM_ENABLE_RUNTIMES for Flang&#39;s runtime](https://discourse.llvm.org/t/rfc-use-llvm-enable-runtimes-for-flangs-runtime/80826#post_17)
+- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_17)
+- [Open MLIR Meeting 9/12/2024: XLA Indexing Maps](https://discourse.llvm.org/t/open-mlir-meeting-9-12-2024-xla-indexing-maps/81166#post_2)
+- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_16)
 - [SCI Semiconductor hiring two people to maintain / upstream CHERIoT LLVM](https://discourse.llvm.org/t/sci-semiconductor-hiring-two-people-to-maintain-upstream-cheriot-llvm/82336#post_1)
-- [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021#post_11)
-- [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021#post_10)
-- [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021#post_9)
-- [[RFC][OpenMP] Remove support for Privatisation of Statement Function Variables](https://discourse.llvm.org/t/rfc-openmp-remove-support-for-privatisation-of-statement-function-variables/81138#post_15)
 <!-- DISCOURSE-LLVM:END -->
