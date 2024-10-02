@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_18)
-- [Building simple c++ MLIR program with local LLVM build](https://discourse.llvm.org/t/building-simple-c-mlir-program-with-local-llvm-build/82325#post_4)
-- [[RFC] Use LLVM_ENABLE_RUNTIMES for Flang&#39;s runtime](https://discourse.llvm.org/t/rfc-use-llvm-enable-runtimes-for-flangs-runtime/80826#post_17)
-- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_17)
-- [Open MLIR Meeting 9/12/2024: XLA Indexing Maps](https://discourse.llvm.org/t/open-mlir-meeting-9-12-2024-xla-indexing-maps/81166#post_2)
+- [__atomic_{OP}_{1,2,4,8,16}](https://discourse.llvm.org/t/atomic-op-1-2-4-8-16/82340#post_1)
+- [[RFC][flang] replace usages of fir.complex by mlir complex type](https://discourse.llvm.org/t/rfc-flang-replace-usages-of-fir-complex-by-mlir-complex-type/82292#post_2)
+- [RFC: Enabling fexec-charset support to LLVM and clang &lpar;Reposting&rpar;](https://discourse.llvm.org/t/rfc-enabling-fexec-charset-support-to-llvm-and-clang-reposting/71512?page=4#post_65)
+- [Building simple c++ MLIR program with local LLVM build](https://discourse.llvm.org/t/building-simple-c-mlir-program-with-local-llvm-build/82325#post_5)
+- [SLP vectorizer PHI sorting produces different results between platforms](https://discourse.llvm.org/t/slp-vectorizer-phi-sorting-produces-different-results-between-platforms/81467#post_19)
 <!-- DISCOURSE-LLVM:END -->
