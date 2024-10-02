@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Building simple c++ MLIR program with local LLVM build](https://discourse.llvm.org/t/building-simple-c-mlir-program-with-local-llvm-build/82325#post_1)
-- [Profiling report with branch coverage for templates is misleading](https://discourse.llvm.org/t/profiling-report-with-branch-coverage-for-templates-is-misleading/82323#post_2)
-- [Anything like a source span location?](https://discourse.llvm.org/t/anything-like-a-source-span-location/82324#post_4)
-- [Anything like a source span location?](https://discourse.llvm.org/t/anything-like-a-source-span-location/82324#post_3)
-- [Anything like a source span location?](https://discourse.llvm.org/t/anything-like-a-source-span-location/82324#post_2)
+- [Sydney LLVM Meet-up](https://discourse.llvm.org/t/sydney-llvm-meet-up/82329#post_1)
+- [Building simple c++ MLIR program with local LLVM build](https://discourse.llvm.org/t/building-simple-c-mlir-program-with-local-llvm-build/82325#post_2)
+- [Ideas for removing test binaries from the git repo](https://discourse.llvm.org/t/ideas-for-removing-test-binaries-from-the-git-repo/81480#post_10)
+- [[RFC] Proposing a new CI/CD admin for the project](https://discourse.llvm.org/t/rfc-proposing-a-new-ci-cd-admin-for-the-project/82328#post_2)
+- [[RFC] Proposing a new CI/CD admin for the project](https://discourse.llvm.org/t/rfc-proposing-a-new-ci-cd-admin-for-the-project/82328#post_1)
 <!-- DISCOURSE-LLVM:END -->
