@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coding style: `isa&lt;&gt; &amp;&amp; cast&lt;&gt;` pattern](https://discourse.llvm.org/t/coding-style-isa-cast-pattern/81473#post_7)
 - [Pseudo Template Instantiation in Clang](https://discourse.llvm.org/t/pseudo-template-instantiation-in-clang/81406#post_10)
 - [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_15)
 - [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_14)
 - [__atomic_{OP}_{1,2,4,8,16}](https://discourse.llvm.org/t/atomic-op-1-2-4-8-16/82340#post_8)
-- [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_13)
 <!-- DISCOURSE-LLVM:END -->
