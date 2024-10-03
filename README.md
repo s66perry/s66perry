@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Pseudo Template Instantiation in Clang](https://discourse.llvm.org/t/pseudo-template-instantiation-in-clang/81406#post_10)
+- [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_15)
+- [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_14)
 - [__atomic_{OP}_{1,2,4,8,16}](https://discourse.llvm.org/t/atomic-op-1-2-4-8-16/82340#post_8)
 - [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_13)
-- [[RFC] Make asserts runtime togglable](https://discourse.llvm.org/t/rfc-make-asserts-runtime-togglable/81446#post_12)
-- [[RFC][OpenMP] Should type declaration be allowed after threadprivate?](https://discourse.llvm.org/t/rfc-openmp-should-type-declaration-be-allowed-after-threadprivate/81345#post_9)
-- [Performance analysis for TSVC](https://discourse.llvm.org/t/performance-analysis-for-tsvc/75413#post_14)
 <!-- DISCOURSE-LLVM:END -->
