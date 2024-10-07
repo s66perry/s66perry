@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #562, October 7th 2024](https://discourse.llvm.org/t/llvm-weekly-562-october-7th-2024/82405#post_1)
-- [The return value issue of scf.forOp and scf.ifOp](https://discourse.llvm.org/t/the-return-value-issue-of-scf-forop-and-scf-ifop/82403#post_1)
-- [`emits::CallOpaqueOp` returning `void`?](https://discourse.llvm.org/t/emits-callopaqueop-returning-void/82369#post_2)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Oct 10](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-oct-10/82400#post_1)
-- [Guidance for implementing P1045R1 &quot;constexpr Function Parameters&quot;](https://discourse.llvm.org/t/guidance-for-implementing-p1045r1-constexpr-function-parameters/82387#post_4)
+- [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_6)
+- [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_5)
+- [[RFC] Deprecate and eventually remove RenderScript support](https://discourse.llvm.org/t/rfc-deprecate-and-eventually-remove-renderscript-support/81284#post_7)
+- [[RFC] Proposing a new lead maintainer for LLVM](https://discourse.llvm.org/t/rfc-proposing-a-new-lead-maintainer-for-llvm/81290#post_17)
+- [[ADT] Can you use `Any` across shared libraries?](https://discourse.llvm.org/t/adt-can-you-use-any-across-shared-libraries/82373#post_2)
 <!-- DISCOURSE-LLVM:END -->
