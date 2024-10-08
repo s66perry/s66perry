@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why are structs flagged with misc-non-private-member-variables-in-classes?](https://discourse.llvm.org/t/why-are-structs-flagged-with-misc-non-private-member-variables-in-classes/82411#post_2)
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_14)
+- [The return value issue of scf.forOp and scf.ifOp](https://discourse.llvm.org/t/the-return-value-issue-of-scf-forop-and-scf-ifop/82403#post_4)
+- [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_2)
 - [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412#post_2)
-- [[bug] -ffixed-reg being ignored in function epilog/prolog](https://discourse.llvm.org/t/bug-ffixed-reg-being-ignored-in-function-epilog-prolog/82419#post_1)
-- [How to use -analyzer-config with --sysroot](https://discourse.llvm.org/t/how-to-use-analyzer-config-with-sysroot/82394#post_3)
-- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=2#post_29)
-- [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_1)
 <!-- DISCOURSE-LLVM:END -->
