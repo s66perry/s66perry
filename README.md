@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_19)
+- [Why are structs flagged with misc-non-private-member-variables-in-classes?](https://discourse.llvm.org/t/why-are-structs-flagged-with-misc-non-private-member-variables-in-classes/82411#post_4)
+- [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_2)
+- [Why are structs flagged with misc-non-private-member-variables-in-classes?](https://discourse.llvm.org/t/why-are-structs-flagged-with-misc-non-private-member-variables-in-classes/82411#post_3)
 - [Why are structs flagged with misc-non-private-member-variables-in-classes?](https://discourse.llvm.org/t/why-are-structs-flagged-with-misc-non-private-member-variables-in-classes/82411#post_2)
-- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_14)
-- [The return value issue of scf.forOp and scf.ifOp](https://discourse.llvm.org/t/the-return-value-issue-of-scf-forop-and-scf-ifop/82403#post_4)
-- [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_2)
-- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412#post_2)
 <!-- DISCOURSE-LLVM:END -->
