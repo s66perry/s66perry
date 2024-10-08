@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][OpenMP] Should type declaration be allowed after threadprivate?](https://discourse.llvm.org/t/rfc-openmp-should-type-declaration-be-allowed-after-threadprivate/81345#post_11)
+- [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_7)
+- [Can the `tensor.reshape` op not convert input to a zero ranked tensor?](https://discourse.llvm.org/t/can-the-tensor-reshape-op-not-convert-input-to-a-zero-ranked-tensor/82415#post_3)
 - [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_6)
 - [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_5)
-- [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_4)
-- [Ideas for removing test binaries from the git repo](https://discourse.llvm.org/t/ideas-for-removing-test-binaries-from-the-git-repo/81480?page=2#post_29)
-- [[mlir][linalg] Canonicalize `linalg.generic`](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic/82420#post_3)
 <!-- DISCOURSE-LLVM:END -->
