@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[mlir][linalg] Canonicalize `linalg.generic`](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic/82420#post_2)
+- [[mlir][linalg] Canonicalize `linalg.generic`](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic/82420#post_1)
 - [[RFC][LLDB] Support remote run of Shell tests](https://discourse.llvm.org/t/rfc-lldb-support-remote-run-of-shell-tests/80072#post_19)
 - [Why are structs flagged with misc-non-private-member-variables-in-classes?](https://discourse.llvm.org/t/why-are-structs-flagged-with-misc-non-private-member-variables-in-classes/82411#post_4)
 - [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_2)
-- [Why are structs flagged with misc-non-private-member-variables-in-classes?](https://discourse.llvm.org/t/why-are-structs-flagged-with-misc-non-private-member-variables-in-classes/82411#post_3)
-- [Why are structs flagged with misc-non-private-member-variables-in-classes?](https://discourse.llvm.org/t/why-are-structs-flagged-with-misc-non-private-member-variables-in-classes/82411#post_2)
 <!-- DISCOURSE-LLVM:END -->
