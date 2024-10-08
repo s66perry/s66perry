@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Generating weaker barriers via LLVM IR](https://discourse.llvm.org/t/generating-weaker-barriers-via-llvm-ir/82364#post_11)
-- [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_8)
-- [[RFC][OpenMP] Should type declaration be allowed after threadprivate?](https://discourse.llvm.org/t/rfc-openmp-should-type-declaration-be-allowed-after-threadprivate/81345#post_11)
-- [Callback to iterate over all dialect op classes](https://discourse.llvm.org/t/callback-to-iterate-over-all-dialect-op-classes/82417#post_7)
-- [Can the `tensor.reshape` op not convert input to a zero ranked tensor?](https://discourse.llvm.org/t/can-the-tensor-reshape-op-not-convert-input-to-a-zero-ranked-tensor/82415#post_3)
+- [Impossible to find build instructions](https://discourse.llvm.org/t/impossible-to-find-build-instructions/82432#post_1)
+- [404 when trying to join libcxx chat](https://discourse.llvm.org/t/404-when-trying-to-join-libcxx-chat/82431#post_1)
+- [Profiling report with branch coverage for templates is misleading](https://discourse.llvm.org/t/profiling-report-with-branch-coverage-for-templates-is-misleading/82323#post_6)
+- [[RFC] .symtab_meta - a .symtab extension to communicate symbol metadata from the compiler to the linker](https://discourse.llvm.org/t/rfc-symtab-meta-a-symtab-extension-to-communicate-symbol-metadata-from-the-compiler-to-the-linker/82352#post_4)
+- [[RFC] Pretty printing for LLVM Intrinsic arguments](https://discourse.llvm.org/t/rfc-pretty-printing-for-llvm-intrinsic-arguments/82429#post_1)
 <!-- DISCOURSE-LLVM:END -->
