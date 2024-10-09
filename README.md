@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Compound directive splitting in OpenMP](https://discourse.llvm.org/t/rfc-compound-directive-splitting-in-openmp/81272#post_3)
-- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_16)
-- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_15)
-- [DenseMap vs std::map for cache](https://discourse.llvm.org/t/densemap-vs-std-map-for-cache/82436#post_7)
-- [RFC: Compound directive splitting in OpenMP](https://discourse.llvm.org/t/rfc-compound-directive-splitting-in-openmp/81272#post_2)
+- [Adding language support for cpp2 in clangd](https://discourse.llvm.org/t/adding-language-support-for-cpp2-in-clangd/82434#post_3)
+- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_7)
+- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_6)
+- [Constant linalg.reduce](https://discourse.llvm.org/t/constant-linalg-reduce/82447#post_2)
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_17)
 <!-- DISCOURSE-LLVM:END -->
