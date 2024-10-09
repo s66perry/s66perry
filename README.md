@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DenseMap vs std::map for cache](https://discourse.llvm.org/t/densemap-vs-std-map-for-cache/82436#post_1)
+- [Adjusting LLVM discourse width](https://discourse.llvm.org/t/adjusting-llvm-discourse-width/82435#post_1)
 - [Adding language support for cpp2 in clangd](https://discourse.llvm.org/t/adding-language-support-for-cpp2-in-clangd/82434#post_2)
 - [Adding language support for cpp2 in clangd](https://discourse.llvm.org/t/adding-language-support-for-cpp2-in-clangd/82434#post_1)
 - [Impossible to find build instructions](https://discourse.llvm.org/t/impossible-to-find-build-instructions/82432#post_1)
-- [404 when trying to join libcxx chat](https://discourse.llvm.org/t/404-when-trying-to-join-libcxx-chat/82431#post_1)
-- [Profiling report with branch coverage for templates is misleading](https://discourse.llvm.org/t/profiling-report-with-branch-coverage-for-templates-is-misleading/82323#post_6)
 <!-- DISCOURSE-LLVM:END -->
