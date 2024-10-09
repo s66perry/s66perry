@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_11)
-- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_10)
-- [DenseMap vs std::map for cache](https://discourse.llvm.org/t/densemap-vs-std-map-for-cache/82436#post_8)
-- [[RFC] .symtab_meta - a .symtab extension to communicate symbol metadata from the compiler to the linker](https://discourse.llvm.org/t/rfc-symtab-meta-a-symtab-extension-to-communicate-symbol-metadata-from-the-compiler-to-the-linker/82352#post_5)
-- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_9)
+- [Brace rules for single line else/multi-line if](https://discourse.llvm.org/t/brace-rules-for-single-line-else-multi-line-if/82452#post_2)
+- [Brace rules for single line else/multi-line if](https://discourse.llvm.org/t/brace-rules-for-single-line-else-multi-line-if/82452#post_1)
+- [[RFC] Support statement attributes for plugins](https://discourse.llvm.org/t/rfc-support-statement-attributes-for-plugins/82299#post_3)
+- [TOSA to LLVM MLIR](https://discourse.llvm.org/t/tosa-to-llvm-mlir/82451#post_1)
+- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_13)
 <!-- DISCOURSE-LLVM:END -->
