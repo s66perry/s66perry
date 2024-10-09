@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Getting variable names in LLVM IR](https://discourse.llvm.org/t/getting-variable-names-in-llvm-ir/43970#post_4)
+- [[mlir][linalg] Canonicalize `linalg.generic`](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic/82420#post_4)
+- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584#post_20)
 - [DenseMap vs std::map for cache](https://discourse.llvm.org/t/densemap-vs-std-map-for-cache/82436#post_1)
 - [Adjusting LLVM discourse width](https://discourse.llvm.org/t/adjusting-llvm-discourse-width/82435#post_1)
-- [Adding language support for cpp2 in clangd](https://discourse.llvm.org/t/adding-language-support-for-cpp2-in-clangd/82434#post_2)
-- [Adding language support for cpp2 in clangd](https://discourse.llvm.org/t/adding-language-support-for-cpp2-in-clangd/82434#post_1)
-- [Impossible to find build instructions](https://discourse.llvm.org/t/impossible-to-find-build-instructions/82432#post_1)
 <!-- DISCOURSE-LLVM:END -->
