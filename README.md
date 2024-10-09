@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [One-shot-bufferize pass fails due to the `builtin.unrealized_conversion_cast`](https://discourse.llvm.org/t/one-shot-bufferize-pass-fails-due-to-the-builtin-unrealized-conversion-cast/82342#post_4)
-- [The return value issue of scf.forOp and scf.ifOp](https://discourse.llvm.org/t/the-return-value-issue-of-scf-forop-and-scf-ifop/82403#post_5)
-- [[RFC][CMake] Linker flags need -Wl equivalent for Intel C++ &lpar;icx&rpar; on Windows](https://discourse.llvm.org/t/rfc-cmake-linker-flags-need-wl-equivalent-for-intel-c-icx-on-windows/82446#post_1)
-- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_2)
-- [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584?page=2#post_21)
+- [RFC: Compound directive splitting in OpenMP](https://discourse.llvm.org/t/rfc-compound-directive-splitting-in-openmp/81272#post_3)
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_16)
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_15)
+- [DenseMap vs std::map for cache](https://discourse.llvm.org/t/densemap-vs-std-map-for-cache/82436#post_7)
+- [RFC: Compound directive splitting in OpenMP](https://discourse.llvm.org/t/rfc-compound-directive-splitting-in-openmp/81272#post_2)
 <!-- DISCOURSE-LLVM:END -->
