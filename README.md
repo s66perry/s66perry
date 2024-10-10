@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC]: Fix llvm.min*.f and llvm.max*.f* intrinsics](https://discourse.llvm.org/t/rfc-fix-llvm-min-f-and-llvm-max-f-intrinsics/79735#post_8)
+- [[RFC] Improvements to capture tracking](https://discourse.llvm.org/t/rfc-improvements-to-capture-tracking/81420#post_8)
 - [Idea: To modernize C++ package/dependency management](https://discourse.llvm.org/t/idea-to-modernize-c-package-dependency-management/81407#post_4)
 - [[RFC][OpenMP] Fix issue in MLIR to LLVMIR translation for delayed privatisation](https://discourse.llvm.org/t/rfc-openmp-fix-issue-in-mlir-to-llvmir-translation-for-delayed-privatisation/81225#post_10)
 - [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=2#post_39)
-- [Idea: To modernize C++ package/dependency management](https://discourse.llvm.org/t/idea-to-modernize-c-package-dependency-management/81407#post_3)
-- [Prevent new SP operations from breaking the code](https://discourse.llvm.org/t/prevent-new-sp-operations-from-breaking-the-code/82472#post_2)
 <!-- DISCOURSE-LLVM:END -->
