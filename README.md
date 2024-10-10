@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Generating weaker barriers via LLVM IR](https://discourse.llvm.org/t/generating-weaker-barriers-via-llvm-ir/82364#post_12)
-- [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021#post_15)
-- [Brace rules for single line else/multi-line if](https://discourse.llvm.org/t/brace-rules-for-single-line-else-multi-line-if/82452#post_8)
-- [[RFC][Pipeline] Avoid running transform passes that have just been run](https://discourse.llvm.org/t/rfc-pipeline-avoid-running-transform-passes-that-have-just-been-run/82467#post_6)
-- [LNT Server Status](https://discourse.llvm.org/t/lnt-server-status/81059#post_4)
+- [GlobalISel: Scalable vectors and predicates](https://discourse.llvm.org/t/globalisel-scalable-vectors-and-predicates/82476#post_3)
+- [GlobalISel: Scalable vectors and predicates](https://discourse.llvm.org/t/globalisel-scalable-vectors-and-predicates/82476#post_2)
+- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_16)
+- [GlobalISel: Scalable vectors and predicates](https://discourse.llvm.org/t/globalisel-scalable-vectors-and-predicates/82476#post_1)
+- [`TargetIntrinsicInfo` dead?](https://discourse.llvm.org/t/targetintrinsicinfo-dead/82456#post_5)
 <!-- DISCOURSE-LLVM:END -->
