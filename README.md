@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Printing strings with \xNN escapes instead of \Unnnnnn](https://discourse.llvm.org/t/printing-strings-with-xnn-escapes-instead-of-unnnnnn/82473#post_1)
+- [Prevent new SP operations from breaking the code](https://discourse.llvm.org/t/prevent-new-sp-operations-from-breaking-the-code/82472#post_1)
+- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=5#post_86)
 - [Idea: To modernize C++ package/dependency management](https://discourse.llvm.org/t/idea-to-modernize-c-package-dependency-management/81407#post_2)
 - [Shared library support?](https://discourse.llvm.org/t/shared-library-support/82470#post_2)
-- [Shared library support?](https://discourse.llvm.org/t/shared-library-support/82470#post_1)
-- [Correct way to support multiple types for an op](https://discourse.llvm.org/t/correct-way-to-support-multiple-types-for-an-op/82469#post_1)
-- [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_10)
 <!-- DISCOURSE-LLVM:END -->
