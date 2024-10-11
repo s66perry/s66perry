@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[TSAN] std::call_once interceptor for linux](https://discourse.llvm.org/t/tsan-std-call-once-interceptor-for-linux/82486#post_1)
-- [[RFC] Add DW_AT_byte_size attribute to DW_TAG_pointer_type](https://discourse.llvm.org/t/rfc-add-dw-at-byte-size-attribute-to-dw-tag-pointer-type/82485#post_1)
-- [Prevent new SP operations from breaking the code](https://discourse.llvm.org/t/prevent-new-sp-operations-from-breaking-the-code/82472#post_3)
-- [Printing strings with \xNN escapes instead of \Unnnnnn](https://discourse.llvm.org/t/printing-strings-with-xnn-escapes-instead-of-unnnnnn/82473#post_3)
-- [Printing strings with \xNN escapes instead of \Unnnnnn](https://discourse.llvm.org/t/printing-strings-with-xnn-escapes-instead-of-unnnnnn/82473#post_2)
+- [GlobalISel: Scalable vectors and predicates](https://discourse.llvm.org/t/globalisel-scalable-vectors-and-predicates/82476#post_5)
+- [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021#post_16)
+- [[RFC] Make the MachineOutliner take section attribute into account](https://discourse.llvm.org/t/rfc-make-the-machineoutliner-take-section-attribute-into-account/82489#post_1)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_72)
+- [Printing strings with \xNN escapes instead of \Unnnnnn](https://discourse.llvm.org/t/printing-strings-with-xnn-escapes-instead-of-unnnnnn/82473#post_4)
 <!-- DISCOURSE-LLVM:END -->
