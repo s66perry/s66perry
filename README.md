@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[TSAN] std::call_once interceptor for linux](https://discourse.llvm.org/t/tsan-std-call-once-interceptor-for-linux/82486#post_1)
+- [[RFC] Add DW_AT_byte_size attribute to DW_TAG_pointer_type](https://discourse.llvm.org/t/rfc-add-dw-at-byte-size-attribute-to-dw-tag-pointer-type/82485#post_1)
+- [Prevent new SP operations from breaking the code](https://discourse.llvm.org/t/prevent-new-sp-operations-from-breaking-the-code/82472#post_3)
 - [Printing strings with \xNN escapes instead of \Unnnnnn](https://discourse.llvm.org/t/printing-strings-with-xnn-escapes-instead-of-unnnnnn/82473#post_3)
 - [Printing strings with \xNN escapes instead of \Unnnnnn](https://discourse.llvm.org/t/printing-strings-with-xnn-escapes-instead-of-unnnnnn/82473#post_2)
-- [[RFC][Pipeline] Avoid running transform passes that have just been run](https://discourse.llvm.org/t/rfc-pipeline-avoid-running-transform-passes-that-have-just-been-run/82467#post_10)
-- [[RFC][Pipeline] Avoid running transform passes that have just been run](https://discourse.llvm.org/t/rfc-pipeline-avoid-running-transform-passes-that-have-just-been-run/82467#post_9)
-- [[RFC]: Fix llvm.min*.f and llvm.max*.f* intrinsics](https://discourse.llvm.org/t/rfc-fix-llvm-min-f-and-llvm-max-f-intrinsics/79735#post_9)
 <!-- DISCOURSE-LLVM:END -->
