@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TOSA to LLVM MLIR](https://discourse.llvm.org/t/tosa-to-llvm-mlir/82451#post_3)
+- [Addrspacecast and gep transform](https://discourse.llvm.org/t/addrspacecast-and-gep-transform/82499#post_1)
+- [TOSA to LLVM MLIR](https://discourse.llvm.org/t/tosa-to-llvm-mlir/82451#post_2)
 - [Brace rules for single line else/multi-line if](https://discourse.llvm.org/t/brace-rules-for-single-line-else-multi-line-if/82452#post_9)
 - [Build LLVM error](https://discourse.llvm.org/t/build-llvm-error/81331#post_5)
-- [What is the way that create an optimization tool using new pass manager outside llvm project?](https://discourse.llvm.org/t/what-is-the-way-that-create-an-optimization-tool-using-new-pass-manager-outside-llvm-project/82497#post_1)
-- [[LLD] starting lma address without linker script](https://discourse.llvm.org/t/lld-starting-lma-address-without-linker-script/81476#post_2)
-- [[RFC] .symtab_meta - a .symtab extension to communicate symbol metadata from the compiler to the linker](https://discourse.llvm.org/t/rfc-symtab-meta-a-symtab-extension-to-communicate-symbol-metadata-from-the-compiler-to-the-linker/82352#post_9)
 <!-- DISCOURSE-LLVM:END -->
