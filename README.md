@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [IR has changed after the link %struct, is this a bug or a mechanism?](https://discourse.llvm.org/t/ir-has-changed-after-the-link-struct-is-this-a-bug-or-a-mechanism/82501#post_10)
 - [IR has changed after the link %struct, is this a bug or a mechanism?](https://discourse.llvm.org/t/ir-has-changed-after-the-link-struct-is-this-a-bug-or-a-mechanism/82501#post_9)
 - [IR has changed after the link %struct, is this a bug or a mechanism?](https://discourse.llvm.org/t/ir-has-changed-after-the-link-struct-is-this-a-bug-or-a-mechanism/82501#post_8)
 - [IR has changed after the link %struct, is this a bug or a mechanism?](https://discourse.llvm.org/t/ir-has-changed-after-the-link-struct-is-this-a-bug-or-a-mechanism/82501#post_7)
 - [IR has changed after the link %struct, is this a bug or a mechanism?](https://discourse.llvm.org/t/ir-has-changed-after-the-link-struct-is-this-a-bug-or-a-mechanism/82501#post_6)
-- [IR has changed after the link %struct, is this a bug or a mechanism?](https://discourse.llvm.org/t/ir-has-changed-after-the-link-struct-is-this-a-bug-or-a-mechanism/82501#post_5)
 <!-- DISCOURSE-LLVM:END -->
