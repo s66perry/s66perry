@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 - [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_11)
 - [[RFC] Merging 1:1 and 1:N Dialect Conversions](https://discourse.llvm.org/t/rfc-merging-1-1-and-1-n-dialect-conversions/82513#post_4)
 - [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_14)
-- [We are hiring a senior Backend Developer &lpar;Remote - Pasific Timezone&rpar;](https://discourse.llvm.org/t/we-are-hiring-a-senior-backend-developer-remote-pasific-timezone/82517#post_1)
 - [Parsing C header files](https://discourse.llvm.org/t/parsing-c-header-files/48583#post_3)
+- [Using Clang to Parse C Headers](https://discourse.llvm.org/t/using-clang-to-parse-c-headers/82515#post_2)
 <!-- DISCOURSE-LLVM:END -->
