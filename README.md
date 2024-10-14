@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TOSA to LLVM MLIR](https://discourse.llvm.org/t/tosa-to-llvm-mlir/82451#post_4)
 - [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_12)
 - [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_11)
 - [How to add new memory symbol like cuda &quot;__constant__&quot;](https://discourse.llvm.org/t/how-to-add-new-memory-symbol-like-cuda-constant/78284#post_8)
 - [DenseMap vs std::map for cache](https://discourse.llvm.org/t/densemap-vs-std-map-for-cache/82436#post_9)
-- [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_11)
 <!-- DISCOURSE-LLVM:END -->
