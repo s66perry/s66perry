@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to add new memory symbol like cuda &quot;__constant__&quot;](https://discourse.llvm.org/t/how-to-add-new-memory-symbol-like-cuda-constant/78284#post_8)
 - [DenseMap vs std::map for cache](https://discourse.llvm.org/t/densemap-vs-std-map-for-cache/82436#post_9)
 - [[RFC] Signedness-independent icmps](https://discourse.llvm.org/t/rfc-signedness-independent-icmps/81423#post_11)
 - [[RFC] Merging 1:1 and 1:N Dialect Conversions](https://discourse.llvm.org/t/rfc-merging-1-1-and-1-n-dialect-conversions/82513#post_4)
 - [Official Mascot for LLVM](https://discourse.llvm.org/t/official-mascot-for-llvm/76885#post_14)
-- [Parsing C header files](https://discourse.llvm.org/t/parsing-c-header-files/48583#post_3)
 <!-- DISCOURSE-LLVM:END -->
