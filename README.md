@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cf.br - Dialect `cf&#39; not found for custom op &#39;cf.br&#39;](https://discourse.llvm.org/t/cf-br-dialect-cf-not-found-for-custom-op-cf-br/82527#post_1)
+- [Using Clang to Parse C Headers](https://discourse.llvm.org/t/using-clang-to-parse-c-headers/82515#post_4)
+- [Using Clang to Parse C Headers](https://discourse.llvm.org/t/using-clang-to-parse-c-headers/82515#post_3)
 - [[RFC] .symtab_meta - a .symtab extension to communicate symbol metadata from the compiler to the linker](https://discourse.llvm.org/t/rfc-symtab-meta-a-symtab-extension-to-communicate-symbol-metadata-from-the-compiler-to-the-linker/82352#post_11)
 - [TOSA to LLVM MLIR](https://discourse.llvm.org/t/tosa-to-llvm-mlir/82451#post_4)
-- [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_12)
-- [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_11)
-- [How to add new memory symbol like cuda &quot;__constant__&quot;](https://discourse.llvm.org/t/how-to-add-new-memory-symbol-like-cuda-constant/78284#post_8)
 <!-- DISCOURSE-LLVM:END -->
