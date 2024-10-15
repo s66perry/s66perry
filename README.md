@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Impossible to pass LLVM code generation flags in command line from driver invocation?](https://discourse.llvm.org/t/impossible-to-pass-llvm-code-generation-flags-in-command-line-from-driver-invocation/82548#post_1)
+- [[RFC] .symtab_meta - a .symtab extension to communicate symbol metadata from the compiler to the linker](https://discourse.llvm.org/t/rfc-symtab-meta-a-symtab-extension-to-communicate-symbol-metadata-from-the-compiler-to-the-linker/82352#post_14)
 - [Clang accepts calls to undeclared &lpar;use-then declared&rpar; overloaded operators inside template functions](https://discourse.llvm.org/t/clang-accepts-calls-to-undeclared-use-then-declared-overloaded-operators-inside-template-functions/82547#post_1)
 - [LLVM LLD veneer optimization](https://discourse.llvm.org/t/llvm-lld-veneer-optimization/82546#post_1)
 - [Unrolling loop with known upper bound on trip count into a switch](https://discourse.llvm.org/t/unrolling-loop-with-known-upper-bound-on-trip-count-into-a-switch/82545#post_1)
-- [[RFC] Stack arenas using alloca](https://discourse.llvm.org/t/rfc-stack-arenas-using-alloca/80716#post_12)
-- [[RFC] Merging 1:1 and 1:N Dialect Conversions](https://discourse.llvm.org/t/rfc-merging-1-1-and-1-n-dialect-conversions/82513#post_6)
 <!-- DISCOURSE-LLVM:END -->
