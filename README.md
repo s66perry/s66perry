@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Guidelines for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-guidelines-for-fuzzer-generated-issues/82556#post_1)
-- [Clang-cl: Adding /std:c++23preview](https://discourse.llvm.org/t/clang-cl-adding-std-c-23preview/82553#post_3)
-- [Addrspacecast and gep transform](https://discourse.llvm.org/t/addrspacecast-and-gep-transform/82499#post_3)
-- [Clang-cl: Adding /std:c++23preview](https://discourse.llvm.org/t/clang-cl-adding-std-c-23preview/82553#post_2)
-- [Clang-cl: Adding /std:c++23preview](https://discourse.llvm.org/t/clang-cl-adding-std-c-23preview/82553#post_1)
+- [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_14)
+- [Clang-cl: Adding /std:c++23preview](https://discourse.llvm.org/t/clang-cl-adding-std-c-23preview/82553#post_6)
+- [RFC: A proposal to revise the lldb private ReadMemory APIs](https://discourse.llvm.org/t/rfc-a-proposal-to-revise-the-lldb-private-readmemory-apis/82360#post_13)
+- [Clang-cl: Adding /std:c++23preview](https://discourse.llvm.org/t/clang-cl-adding-std-c-23preview/82553#post_5)
+- [Clang-cl: Adding /std:c++23preview](https://discourse.llvm.org/t/clang-cl-adding-std-c-23preview/82553#post_4)
 <!-- DISCOURSE-LLVM:END -->
