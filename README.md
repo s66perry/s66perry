@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Constant linalg.reduce](https://discourse.llvm.org/t/constant-linalg-reduce/82447#post_6)
+- [Agenda for the 5th MLIR Workshop @ US LLVM Developer Meeting &lpar;October 22, 2024&rpar;](https://discourse.llvm.org/t/agenda-for-the-5th-mlir-workshop-us-llvm-developer-meeting-october-22-2024/82539#post_1)
+- [[RFC] Add DW_AT_byte_size attribute to DW_TAG_pointer_type](https://discourse.llvm.org/t/rfc-add-dw-at-byte-size-attribute-to-dw-tag-pointer-type/82485#post_6)
+- [Open MLIR Meeting 9/17/2024: GLSL Frontend for MLIR SPIR-V](https://discourse.llvm.org/t/open-mlir-meeting-9-17-2024-glsl-frontend-for-mlir-spir-v/82538#post_1)
 - [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412#post_14)
-- [LLVM Weekly - #563, October 14th 2024](https://discourse.llvm.org/t/llvm-weekly-563-october-14th-2024/82536#post_1)
-- [What is the correct way to pass multidimensional arrays into a function and declare them?](https://discourse.llvm.org/t/what-is-the-correct-way-to-pass-multidimensional-arrays-into-a-function-and-declare-them/82511#post_7)
-- [[RFC] Add DW_AT_byte_size attribute to DW_TAG_pointer_type](https://discourse.llvm.org/t/rfc-add-dw-at-byte-size-attribute-to-dw-tag-pointer-type/82485#post_5)
-- [What is the correct way to pass multidimensional arrays into a function and declare them?](https://discourse.llvm.org/t/what-is-the-correct-way-to-pass-multidimensional-arrays-into-a-function-and-declare-them/82511#post_6)
 <!-- DISCOURSE-LLVM:END -->
