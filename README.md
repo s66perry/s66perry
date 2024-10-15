@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Stack arenas using alloca](https://discourse.llvm.org/t/rfc-stack-arenas-using-alloca/80716#post_15)
-- [[RFC] Stack arenas using alloca](https://discourse.llvm.org/t/rfc-stack-arenas-using-alloca/80716#post_14)
-- [[RFC] Guidelines for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-guidelines-for-fuzzer-generated-issues/82556#post_5)
-- [[RFC] Guidelines for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-guidelines-for-fuzzer-generated-issues/82556#post_4)
-- [[RFC] Guidelines for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-guidelines-for-fuzzer-generated-issues/82556#post_3)
+- [[RFC][OpenMP] Should type declaration be allowed after threadprivate?](https://discourse.llvm.org/t/rfc-openmp-should-type-declaration-be-allowed-after-threadprivate/81345#post_12)
+- [[RFC] Stack arenas using alloca](https://discourse.llvm.org/t/rfc-stack-arenas-using-alloca/80716#post_18)
+- [[RFC] Stack arenas using alloca](https://discourse.llvm.org/t/rfc-stack-arenas-using-alloca/80716#post_17)
+- [[RFC] Pretty printing for LLVM Intrinsic arguments](https://discourse.llvm.org/t/rfc-pretty-printing-for-llvm-intrinsic-arguments/82429#post_4)
+- [[RFC] Stack arenas using alloca](https://discourse.llvm.org/t/rfc-stack-arenas-using-alloca/80716#post_16)
 <!-- DISCOURSE-LLVM:END -->
