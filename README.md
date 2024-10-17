@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Signal Sanitizer &lpar;-fsanitize=signals&rpar;](https://discourse.llvm.org/t/signal-sanitizer-fsanitize-signals/79991#post_9)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_51)
+- [LLVM test suite improvements](https://discourse.llvm.org/t/llvm-test-suite-improvements/82570#post_3)
 - [LLVM LLD veneer optimization](https://discourse.llvm.org/t/llvm-lld-veneer-optimization/82546#post_2)
 - [Using Clang to Parse C Headers](https://discourse.llvm.org/t/using-clang-to-parse-c-headers/82515#post_16)
-- [Using Clang to Parse C Headers](https://discourse.llvm.org/t/using-clang-to-parse-c-headers/82515#post_15)
-- [Unrolling loop with known upper bound on trip count into a switch](https://discourse.llvm.org/t/unrolling-loop-with-known-upper-bound-on-trip-count-into-a-switch/82545#post_4)
-- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_3)
 <!-- DISCOURSE-LLVM:END -->
