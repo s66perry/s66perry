@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_10)
+- [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_2)
 - [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_1)
 - [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_9)
 - [Large global arrays fail on MacOS](https://discourse.llvm.org/t/large-global-arrays-fail-on-macos/82587#post_1)
-- [Flang fails to compile FEHM](https://discourse.llvm.org/t/flang-fails-to-compile-fehm/82552#post_2)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_52)
 <!-- DISCOURSE-LLVM:END -->
