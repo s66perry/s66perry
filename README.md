@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_5)
-- [Applying the `nocapture` attribute to reference-passed arguments in Fortran subroutines](https://discourse.llvm.org/t/applying-the-nocapture-attribute-to-reference-passed-arguments-in-fortran-subroutines/81401?page=2#post_23)
-- [Windows premerge buildbot broken for 5 days](https://discourse.llvm.org/t/windows-premerge-buildbot-broken-for-5-days/82571#post_2)
-- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_4)
-- [[mlir][linalg] Is tiling of linalg.fill implemented now?](https://discourse.llvm.org/t/mlir-linalg-is-tiling-of-linalg-fill-implemented-now/80963#post_6)
+- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_9)
+- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_8)
+- [[Sinking] Does any LLVM pass currently handle load sinking for invariant loads?](https://discourse.llvm.org/t/sinking-does-any-llvm-pass-currently-handle-load-sinking-for-invariant-loads/79643#post_4)
+- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_7)
+- [[LV] extracting loop DataDependenceGraph](https://discourse.llvm.org/t/lv-extracting-loop-datadependencegraph/78815#post_3)
 <!-- DISCOURSE-LLVM:END -->
