@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412#post_17)
-- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_2)
-- [LLVM test suite improvements](https://discourse.llvm.org/t/llvm-test-suite-improvements/82570#post_2)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 12 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-12-24-6pm/80631#post_5)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 21 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-21-24-6pm/82576#post_1)
+- [Multiline StringAttr?](https://discourse.llvm.org/t/multiline-stringattr/81418#post_8)
+- [Multiline StringAttr?](https://discourse.llvm.org/t/multiline-stringattr/81418#post_7)
+- [[RFC] Merging 1:1 and 1:N Dialect Conversions](https://discourse.llvm.org/t/rfc-merging-1-1-and-1-n-dialect-conversions/82513#post_7)
+- [Multiline StringAttr?](https://discourse.llvm.org/t/multiline-stringattr/81418#post_6)
+- [Cf.br - Dialect `cf&#39; not found for custom op &#39;cf.br&#39;](https://discourse.llvm.org/t/cf-br-dialect-cf-not-found-for-custom-op-cf-br/82527#post_2)
 <!-- DISCOURSE-LLVM:END -->
