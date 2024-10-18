@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PROPOSAL] Rename `flang-new` to `flang`](https://discourse.llvm.org/t/proposal-rename-flang-new-to-flang/69462?page=5#post_87)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 21 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-21-24-6pm/82576#post_4)
-- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412#post_20)
-- [RFC: General aligned_alloc interception on mac](https://discourse.llvm.org/t/rfc-general-aligned-alloc-interception-on-mac/82599#post_1)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 21 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-21-24-6pm/82576#post_3)
+- [LLDB failed to start on windows](https://discourse.llvm.org/t/lldb-failed-to-start-on-windows/82594#post_2)
+- [Large global arrays fail on MacOS](https://discourse.llvm.org/t/large-global-arrays-fail-on-macos/82587#post_2)
+- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=2#post_22)
+- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=2#post_21)
+- [LLVM Dev Meeting CIRCT Meetup?](https://discourse.llvm.org/t/llvm-dev-meeting-circt-meetup/82584#post_7)
 <!-- DISCOURSE-LLVM:END -->
