@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Pretty printing for LLVM Intrinsic arguments &lpar;Short&rpar;](https://discourse.llvm.org/t/rfc-pretty-printing-for-llvm-intrinsic-arguments-short/82629#post_2)
+- [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_12)
+- [[RFC] Pretty printing for LLVM Intrinsic arguments](https://discourse.llvm.org/t/rfc-pretty-printing-for-llvm-intrinsic-arguments/82429#post_5)
+- [[RFC] Pretty printing for LLVM Intrinsic arguments &lpar;Short&rpar;](https://discourse.llvm.org/t/rfc-pretty-printing-for-llvm-intrinsic-arguments-short/82629#post_1)
 - [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_11)
-- [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_10)
-- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_15)
-- [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_9)
-- [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_8)
 <!-- DISCOURSE-LLVM:END -->
