@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Where can I find non-complex examples of programming languages that use llvm?](https://discourse.llvm.org/t/where-can-i-find-non-complex-examples-of-programming-languages-that-use-llvm/82635#post_2)
 - [Unrolling loop with known upper bound on trip count into a switch](https://discourse.llvm.org/t/unrolling-loop-with-known-upper-bound-on-trip-count-into-a-switch/82545#post_5)
 - [Is it possible to move entry block forward?](https://discourse.llvm.org/t/is-it-possible-to-move-entry-block-forward/82638#post_1)
 - [LLVM Dev Meeting CIRCT Meetup?](https://discourse.llvm.org/t/llvm-dev-meeting-circt-meetup/82584#post_9)
 - [Where can I find non-complex examples of programming languages that use llvm?](https://discourse.llvm.org/t/where-can-i-find-non-complex-examples-of-programming-languages-that-use-llvm/82635#post_1)
-- [Open MLIR Meeting 10/17/2024: GLSL Frontend for MLIR SPIR-V](https://discourse.llvm.org/t/open-mlir-meeting-10-17-2024-glsl-frontend-for-mlir-spir-v/82538#post_3)
 <!-- DISCOURSE-LLVM:END -->
