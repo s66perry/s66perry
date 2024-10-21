@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575#post_17)
-- [LLVM Weekly - #564, October 21st 2024](https://discourse.llvm.org/t/llvm-weekly-564-october-21st-2024/82666#post_1)
-- [[Question] Use `-&gt;` or `.` with an operation?](https://discourse.llvm.org/t/question-use-or-with-an-operation/82648#post_4)
-- [[RFC] The SPIR-V backend should change its address space mappings](https://discourse.llvm.org/t/rfc-the-spir-v-backend-should-change-its-address-space-mappings/82640#post_10)
-- [[RFC] The SPIR-V backend should change its address space mappings](https://discourse.llvm.org/t/rfc-the-spir-v-backend-should-change-its-address-space-mappings/82640#post_9)
+- [[RFC] The SPIR-V backend should change its address space mappings](https://discourse.llvm.org/t/rfc-the-spir-v-backend-should-change-its-address-space-mappings/82640#post_11)
+- [[RFC] Identify Func Signature Change in LLVM Compiled Kernel Image](https://discourse.llvm.org/t/rfc-identify-func-signature-change-in-llvm-compiled-kernel-image/82609#post_2)
+- [[DWARF] Specifying that a DILocation should be is_stmt=false](https://discourse.llvm.org/t/dwarf-specifying-that-a-dilocation-should-be-is-stmt-false/81115#post_6)
+- [[RFC] Improving is_stmt placement for better interactive debugging](https://discourse.llvm.org/t/rfc-improving-is-stmt-placement-for-better-interactive-debugging/82668#post_1)
+- [[RFC] Guidelines for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-guidelines-for-fuzzer-generated-issues/82556#post_6)
 <!-- DISCOURSE-LLVM:END -->
