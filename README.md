@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Tensor Ops with dynamic sizes - which behaviour is &quot;more correct&quot;?](https://discourse.llvm.org/t/tensor-ops-with-dynamic-sizes-which-behaviour-is-more-correct/82612#post_9)
+- [Tensor Ops with dynamic sizes - which behaviour is &quot;more correct&quot;?](https://discourse.llvm.org/t/tensor-ops-with-dynamic-sizes-which-behaviour-is-more-correct/82612#post_8)
 - [Understanding prerequisites for libunwind unw_get_proc_name](https://discourse.llvm.org/t/understanding-prerequisites-for-libunwind-unw-get-proc-name/82631#post_4)
 - [[RFC] The SPIR-V backend should change its address space mappings](https://discourse.llvm.org/t/rfc-the-spir-v-backend-should-change-its-address-space-mappings/82640#post_2)
 - [Tensor Ops with dynamic sizes - which behaviour is &quot;more correct&quot;?](https://discourse.llvm.org/t/tensor-ops-with-dynamic-sizes-which-behaviour-is-more-correct/82612#post_7)
-- [Where can I find non-complex examples of programming languages that use llvm?](https://discourse.llvm.org/t/where-can-i-find-non-complex-examples-of-programming-languages-that-use-llvm/82635#post_3)
-- [Understanding prerequisites for libunwind unw_get_proc_name](https://discourse.llvm.org/t/understanding-prerequisites-for-libunwind-unw-get-proc-name/82631#post_3)
 <!-- DISCOURSE-LLVM:END -->
