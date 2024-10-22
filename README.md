@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 21 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-21-24-6pm/82576#post_5)
+- [Embedded Toolchains Unconference Notes](https://discourse.llvm.org/t/embedded-toolchains-unconference-notes/82695#post_1)
 - [[RFC] Changes in libcxx for 16 bit architecture](https://discourse.llvm.org/t/rfc-changes-in-libcxx-for-16-bit-architecture/82619#post_6)
 - [RFC: Supporting Sub-Channel Quantization in MLIR](https://discourse.llvm.org/t/rfc-supporting-sub-channel-quantization-in-mlir/82694#post_2)
 - [Why has return symbol &quot;signext&quot; in generated LLVM IR?](https://discourse.llvm.org/t/why-has-return-symbol-signext-in-generated-llvm-ir/82679#post_7)
-- [Round Table about Profiling &amp; Coverage in 2023 LLVM Dev Meeting](https://discourse.llvm.org/t/round-table-about-profiling-coverage-in-2023-llvm-dev-meeting/73982#post_6)
-- [[RFC] Changes in libcxx for 16 bit architecture](https://discourse.llvm.org/t/rfc-changes-in-libcxx-for-16-bit-architecture/82619#post_5)
 <!-- DISCOURSE-LLVM:END -->
