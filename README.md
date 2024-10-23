@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Move ORC executor support into top-level project](https://discourse.llvm.org/t/rfc-move-orc-executor-support-into-top-level-project/81049#post_8)
+- [LLVM Dev Meeting CIRCT Meetup?](https://discourse.llvm.org/t/llvm-dev-meeting-circt-meetup/82584#post_12)
+- [[RFC] Move ORC executor support into top-level project](https://discourse.llvm.org/t/rfc-move-orc-executor-support-into-top-level-project/81049#post_7)
 - [LLVM LLD veneer optimization](https://discourse.llvm.org/t/llvm-lld-veneer-optimization/82546#post_5)
 - [Round Table about Profiling &amp; Coverage in 2023 LLVM Dev Meeting](https://discourse.llvm.org/t/round-table-about-profiling-coverage-in-2023-llvm-dev-meeting/73982#post_9)
-- [LLVM LLD veneer optimization](https://discourse.llvm.org/t/llvm-lld-veneer-optimization/82546#post_4)
-- [RFC: Supporting Sub-Channel Quantization in MLIR](https://discourse.llvm.org/t/rfc-supporting-sub-channel-quantization-in-mlir/82694#post_3)
-- [How to profile edge frequencies in the CFG of a program?](https://discourse.llvm.org/t/how-to-profile-edge-frequencies-in-the-cfg-of-a-program/82719#post_1)
 <!-- DISCOURSE-LLVM:END -->
