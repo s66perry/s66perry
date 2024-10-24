@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm backend map inst&#39;s encoding to an opcode](https://discourse.llvm.org/t/llvm-backend-map-insts-encoding-to-an-opcode/82736#post_1)
+- [Extending post-regalloc MachineLICM](https://discourse.llvm.org/t/extending-post-regalloc-machinelicm/82725#post_3)
+- [[RFC] The SPIR-V backend should change its address space mappings](https://discourse.llvm.org/t/rfc-the-spir-v-backend-should-change-its-address-space-mappings/82640#post_17)
+- [Tracking and prioritizing cleanup tasks in the Static Analyzer code base](https://discourse.llvm.org/t/tracking-and-prioritizing-cleanup-tasks-in-the-static-analyzer-code-base/82568#post_2)
 - [[RFC] The SPIR-V backend should change its address space mappings](https://discourse.llvm.org/t/rfc-the-spir-v-backend-should-change-its-address-space-mappings/82640#post_16)
-- [[RFC] The SPIR-V backend should change its address space mappings](https://discourse.llvm.org/t/rfc-the-spir-v-backend-should-change-its-address-space-mappings/82640#post_15)
-- [Support Instructions through instrinsic function in both riscv32 and riscv64](https://discourse.llvm.org/t/support-instructions-through-instrinsic-function-in-both-riscv32-and-riscv64/82733#post_1)
-- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696#post_13)
-- [RFC: Let&#39;s document &lpar;and enforce?&rpar; a minimum Python version for LLDB](https://discourse.llvm.org/t/rfc-lets-document-and-enforce-a-minimum-python-version-for-lldb/82731#post_2)
 <!-- DISCOURSE-LLVM:END -->
