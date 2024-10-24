@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extending post-regalloc MachineLICM](https://discourse.llvm.org/t/extending-post-regalloc-machinelicm/82725#post_2)
+- [String attributes for function arguments and return values](https://discourse.llvm.org/t/string-attributes-for-function-arguments-and-return-values/37357#post_13)
 - [Extending post-regalloc MachineLICM](https://discourse.llvm.org/t/extending-post-regalloc-machinelicm/82725#post_1)
 - [Limiting number of threads in *-opt tools](https://discourse.llvm.org/t/limiting-number-of-threads-in-opt-tools/82724#post_1)
 - [Sparsifier crash while lowering softmax](https://discourse.llvm.org/t/sparsifier-crash-while-lowering-softmax/82721#post_2)
-- [Understanding prerequisites for libunwind unw_get_proc_name](https://discourse.llvm.org/t/understanding-prerequisites-for-libunwind-unw-get-proc-name/82631#post_6)
-- [Sparsifier crash while lowering softmax](https://discourse.llvm.org/t/sparsifier-crash-while-lowering-softmax/82721#post_1)
 <!-- DISCOURSE-LLVM:END -->
