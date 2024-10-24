@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support Instructions through instrinsic function in both riscv32 and riscv64](https://discourse.llvm.org/t/support-instructions-through-instrinsic-function-in-both-riscv32-and-riscv64/82733#post_5)
+- [[Question] How to raise `llvm` to `scf`? Or lower C code to `scf`?](https://discourse.llvm.org/t/question-how-to-raise-llvm-to-scf-or-lower-c-code-to-scf/82741#post_2)
 - [LLVM Dev Meeting CIRCT Meetup?](https://discourse.llvm.org/t/llvm-dev-meeting-circt-meetup/82584#post_15)
 - [LLVM-libc Roundtable Meeting](https://discourse.llvm.org/t/llvm-libc-roundtable-meeting/82747#post_1)
 - [Embedded Toolchains Roundtable Notes](https://discourse.llvm.org/t/embedded-toolchains-roundtable-notes/82746#post_1)
-- [Support Instructions through instrinsic function in both riscv32 and riscv64](https://discourse.llvm.org/t/support-instructions-through-instrinsic-function-in-both-riscv32-and-riscv64/82733#post_4)
-- [Distributed Thin LTO](https://discourse.llvm.org/t/distributed-thin-lto/82745#post_1)
 <!-- DISCOURSE-LLVM:END -->
