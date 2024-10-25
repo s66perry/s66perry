@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Recursive types](https://discourse.llvm.org/t/recursive-types/82707#post_5)
+- [[RFC][LLDB] A proposal to refactor Platform](https://discourse.llvm.org/t/rfc-lldb-a-proposal-to-refactor-platform/82697#post_2)
 - [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=2#post_26)
 - [[RFC] Improving is_stmt placement for better interactive debugging](https://discourse.llvm.org/t/rfc-improving-is-stmt-placement-for-better-interactive-debugging/82668#post_2)
 - [[Question] How to raise `llvm` to `scf`? Or lower C code to `scf`?](https://discourse.llvm.org/t/question-how-to-raise-llvm-to-scf-or-lower-c-code-to-scf/82741#post_4)
-- [Regarding the inclusion of headers](https://discourse.llvm.org/t/regarding-the-inclusion-of-headers/82752#post_5)
-- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
