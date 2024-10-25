@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696#post_19)
-- [&quot;cannot guarantee tail call due to mismatched varargs&quot;](https://discourse.llvm.org/t/cannot-guarantee-tail-call-due-to-mismatched-varargs/82769#post_1)
-- [Help with Quant dialect](https://discourse.llvm.org/t/help-with-quant-dialect/82758#post_2)
-- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696#post_18)
-- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696#post_17)
+- [&quot;cannot guarantee tail call due to mismatched varargs&quot;](https://discourse.llvm.org/t/cannot-guarantee-tail-call-due-to-mismatched-varargs/82769#post_3)
+- [&quot;cannot guarantee tail call due to mismatched varargs&quot;](https://discourse.llvm.org/t/cannot-guarantee-tail-call-due-to-mismatched-varargs/82769#post_2)
+- [Synthetic Data Providers and lldb-dap](https://discourse.llvm.org/t/synthetic-data-providers-and-lldb-dap/82768#post_2)
+- [[RFC] lldb-dap: Update server mode to allow multiple connections](https://discourse.llvm.org/t/rfc-lldb-dap-update-server-mode-to-allow-multiple-connections/82770#post_1)
+- [[RFC] Typed allocator support](https://discourse.llvm.org/t/rfc-typed-allocator-support/79720?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
