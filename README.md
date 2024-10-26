@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CFP FOSDEM 2025 LLVM dev room](https://discourse.llvm.org/t/cfp-fosdem-2025-llvm-dev-room/82779#post_1)
 - [Some questions about memref.subview](https://discourse.llvm.org/t/some-questions-about-memref-subview/69497#post_8)
 - [How to create dynamic memref.subview using c++?](https://discourse.llvm.org/t/how-to-create-dynamic-memref-subview-using-c/82777#post_1)
 - [When I use c++ to create memref::SubViewOp, I get garbled code](https://discourse.llvm.org/t/when-i-use-c-to-create-memref-subviewop-i-get-garbled-code/69471#post_8)
 - [What are operand_segment_sizes?](https://discourse.llvm.org/t/what-are-operand-segment-sizes/82651#post_2)
-- [Building clang in container](https://discourse.llvm.org/t/building-clang-in-container/82761#post_2)
 <!-- DISCOURSE-LLVM:END -->
