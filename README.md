@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Additional information when using readability-function-size.BranchThreshold](https://discourse.llvm.org/t/additional-information-when-using-readability-function-size-branchthreshold/82791#post_1)
 - [[RFC][PSA?] Remove `vector.extractelement` and `vector.insertelement` ops in favor of `vector.extract` and `vector.insert` ops](https://discourse.llvm.org/t/rfc-psa-remove-vector-extractelement-and-vector-insertelement-ops-in-favor-of-vector-extract-and-vector-insert-ops/71116#post_9)
 - [Exploring LLVM&#39;s Role in FPS and Power Consumption Optimizations for GPUs](https://discourse.llvm.org/t/exploring-llvms-role-in-fps-and-power-consumption-optimizations-for-gpus/82688#post_3)
 - [Migrating llvm::StringRef to std::string_view](https://discourse.llvm.org/t/migrating-llvm-stringref-to-std-string-view/82785#post_5)
 - [Migrating llvm::StringRef to std::string_view](https://discourse.llvm.org/t/migrating-llvm-stringref-to-std-string-view/82785#post_4)
-- [Migrating llvm::StringRef to std::string_view](https://discourse.llvm.org/t/migrating-llvm-stringref-to-std-string-view/82785#post_3)
 <!-- DISCOURSE-LLVM:END -->
