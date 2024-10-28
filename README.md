@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Exploring LLVM&#39;s Role in FPS and Power Consumption Optimizations for GPUs](https://discourse.llvm.org/t/exploring-llvms-role-in-fps-and-power-consumption-optimizations-for-gpus/82688#post_4)
+- [Building clang in container](https://discourse.llvm.org/t/building-clang-in-container/82761#post_3)
+- [Failed to convert vector::StoreOp into my::MaskedStoreOp + vector::ConstantMaskOp &lpar;full 1 mask&rpar;](https://discourse.llvm.org/t/failed-to-convert-vector-storeop-into-my-maskedstoreop-vector-constantmaskop-full-1-mask/82798#post_1)
 - [Potentially missed GVN/PRE optimization for prefix sum pattern?](https://discourse.llvm.org/t/potentially-missed-gvn-pre-optimization-for-prefix-sum-pattern/82796#post_1)
 - [[RFC] add nsw flags to arithmetic integer operations using the option -fno-wrapv](https://discourse.llvm.org/t/rfc-add-nsw-flags-to-arithmetic-integer-operations-using-the-option-fno-wrapv/77584?page=2#post_24)
-- [Migrating llvm::StringRef to std::string_view](https://discourse.llvm.org/t/migrating-llvm-stringref-to-std-string-view/82785#post_6)
-- [Getting &quot;failed to legalize operation &#39;builtin.unrealized_conversion_cast&#39; that was explicitly marked illegal&quot; with memrefs](https://discourse.llvm.org/t/getting-failed-to-legalize-operation-builtin-unrealized-conversion-cast-that-was-explicitly-marked-illegal-with-memrefs/82793#post_2)
-- [Getting &quot;failed to legalize operation &#39;builtin.unrealized_conversion_cast&#39; that was explicitly marked illegal&quot; with memrefs](https://discourse.llvm.org/t/getting-failed-to-legalize-operation-builtin-unrealized-conversion-cast-that-was-explicitly-marked-illegal-with-memrefs/82793#post_1)
 <!-- DISCOURSE-LLVM:END -->
