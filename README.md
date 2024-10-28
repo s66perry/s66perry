@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLGO meeting Nov. 1, 2024 8AM PST](https://discourse.llvm.org/t/mlgo-meeting-nov-1-2024-8am-pst/82807#post_1)
 - [RFC: Supporting Sub-Channel Quantization in MLIR](https://discourse.llvm.org/t/rfc-supporting-sub-channel-quantization-in-mlir/82694#post_6)
 - [LLVM Weekly - #565, October 28th 2024](https://discourse.llvm.org/t/llvm-weekly-565-october-28th-2024/82806#post_1)
 - [Clang/docs/tools/clang-formatted-files.txt](https://discourse.llvm.org/t/clang-docs-tools-clang-formatted-files-txt/82803#post_5)
 - [Clang/docs/tools/clang-formatted-files.txt](https://discourse.llvm.org/t/clang-docs-tools-clang-formatted-files-txt/82803#post_4)
-- [Optionally turn off verifier during parsing?](https://discourse.llvm.org/t/optionally-turn-off-verifier-during-parsing/82805#post_1)
 <!-- DISCOURSE-LLVM:END -->
