@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][LLDB] Handling abi_tagged Constructors/Destructors in Expression Evaluator](https://discourse.llvm.org/t/rfc-lldb-handling-abi-tagged-constructors-destructors-in-expression-evaluator/82816#post_4)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=2#post_34)
+- [[CFP] Ninth LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-ninth-llvm-performance-workshop-at-cgo/82824#post_1)
+- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_6)
 - [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_5)
-- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_4)
-- [[RFC] Proposing a new CI/CD admin for the project](https://discourse.llvm.org/t/rfc-proposing-a-new-ci-cd-admin-for-the-project/82328#post_7)
-- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864?page=3#post_50)
-- [[RFC] Proposing a new CI/CD admin for the project](https://discourse.llvm.org/t/rfc-proposing-a-new-ci-cd-admin-for-the-project/82328#post_6)
 <!-- DISCOURSE-LLVM:END -->
