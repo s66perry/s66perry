@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [# Office Hours round table notes](https://discourse.llvm.org/t/office-hours-round-table-notes/82839#post_4)
-- [[RFC] Remove IRC as a recommended communication channel](https://discourse.llvm.org/t/rfc-remove-irc-as-a-recommended-communication-channel/82808#post_6)
-- [Lowering arith.constant to EmitC: signedness mismatch?](https://discourse.llvm.org/t/lowering-arith-constant-to-emitc-signedness-mismatch/82820#post_3)
-- [[Question] How to raise `llvm` to `scf`? Or lower C code to `scf`?](https://discourse.llvm.org/t/question-how-to-raise-llvm-to-scf-or-lower-c-code-to-scf/82741#post_9)
-- [# Office Hours round table notes](https://discourse.llvm.org/t/office-hours-round-table-notes/82839#post_3)
+- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_17)
+- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_16)
+- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_15)
+- [RFC: an incubator for language frontends &lpar;bindings&rpar;](https://discourse.llvm.org/t/rfc-an-incubator-for-language-frontends-bindings/82832#post_2)
+- [[RFC][LLDB] Handling abi_tagged Constructors/Destructors in Expression Evaluator](https://discourse.llvm.org/t/rfc-lldb-handling-abi-tagged-constructors-destructors-in-expression-evaluator/82816#post_13)
 <!-- DISCOURSE-LLVM:END -->
