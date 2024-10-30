@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_46)
+- [[RFC] Improving is_stmt placement for better interactive debugging](https://discourse.llvm.org/t/rfc-improving-is-stmt-placement-for-better-interactive-debugging/82668#post_9)
+- [Debugging a simple Loop Unrolling Pass](https://discourse.llvm.org/t/debugging-a-simple-loop-unrolling-pass/82849#post_2)
+- [Debugging a simple Loop Unrolling Pass](https://discourse.llvm.org/t/debugging-a-simple-loop-unrolling-pass/82849#post_1)
 - [Target triple of llvm-libc &lpar;Environment Component&rpar;](https://discourse.llvm.org/t/target-triple-of-llvm-libc-environment-component/82845#post_3)
-- [Using -report-bad-layout and --funcs-file to optimize functions](https://discourse.llvm.org/t/using-report-bad-layout-and-funcs-file-to-optimize-functions/82836#post_4)
-- [Using -report-bad-layout and --funcs-file to optimize functions](https://discourse.llvm.org/t/using-report-bad-layout-and-funcs-file-to-optimize-functions/82836#post_3)
-- [Passing commandline options and their help info](https://discourse.llvm.org/t/passing-commandline-options-and-their-help-info/82753#post_2)
-- [Using -report-bad-layout and --funcs-file to optimize functions](https://discourse.llvm.org/t/using-report-bad-layout-and-funcs-file-to-optimize-functions/82836#post_2)
 <!-- DISCOURSE-LLVM:END -->
