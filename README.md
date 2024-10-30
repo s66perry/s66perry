@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_11)
+- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_10)
+- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_9)
 - [LLVM 19.1.3 Relased!](https://discourse.llvm.org/t/llvm-19-1-3-relased/82829#post_1)
 - [Why vector recognized int](https://discourse.llvm.org/t/why-vector-recognized-int/82826#post_3)
-- [Why vector recognized int](https://discourse.llvm.org/t/why-vector-recognized-int/82826#post_2)
-- [[RFC] Remove IRC as a recommended communication channel](https://discourse.llvm.org/t/rfc-remove-irc-as-a-recommended-communication-channel/82808#post_5)
-- [PDX-area September 2024 social](https://discourse.llvm.org/t/pdx-area-september-2024-social/81184#post_5)
 <!-- DISCOURSE-LLVM:END -->
