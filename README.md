@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_14)
-- [Why vector recognized int](https://discourse.llvm.org/t/why-vector-recognized-int/82826#post_4)
-- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819#post_13)
-- [[RFC][LLDB] Handling abi_tagged Constructors/Destructors in Expression Evaluator](https://discourse.llvm.org/t/rfc-lldb-handling-abi-tagged-constructors-destructors-in-expression-evaluator/82816#post_12)
-- [[RFC][LLDB] Handling abi_tagged Constructors/Destructors in Expression Evaluator](https://discourse.llvm.org/t/rfc-lldb-handling-abi-tagged-constructors-destructors-in-expression-evaluator/82816#post_11)
+- [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_9)
+- [Lowering arith.constant to EmitC: signedness mismatch?](https://discourse.llvm.org/t/lowering-arith-constant-to-emitc-signedness-mismatch/82820#post_2)
+- [Using -report-bad-layout and --funcs-file to optimize functions](https://discourse.llvm.org/t/using-report-bad-layout-and-funcs-file-to-optimize-functions/82836#post_1)
+- [[RFC] Pretty printing for LLVM Intrinsic arguments &lpar;Short&rpar;](https://discourse.llvm.org/t/rfc-pretty-printing-for-llvm-intrinsic-arguments-short/82629#post_7)
+- [[RFC] Clang diagnostic for demangling failures](https://discourse.llvm.org/t/rfc-clang-diagnostic-for-demangling-failures/82835#post_1)
 <!-- DISCOURSE-LLVM:END -->
