@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863#post_1)
-- [PGO profile reproducibility](https://discourse.llvm.org/t/pgo-profile-reproducibility/82861#post_1)
-- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_14)
-- [[RFC] Clang diagnostic for demangling failures](https://discourse.llvm.org/t/rfc-clang-diagnostic-for-demangling-failures/82835#post_5)
-- [[RFC][ItaniumDemangler] New option to print compact C++ names](https://discourse.llvm.org/t/rfc-itaniumdemangler-new-option-to-print-compact-c-names/82819?page=2#post_21)
+- [LLVM Meetup in Munich – October 30th 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-october-30th-2024/82301#post_2)
+- [Potential ABI break in 19.1.3](https://discourse.llvm.org/t/potential-abi-break-in-19-1-3/82865#post_3)
+- [Potential ABI break in 19.1.3](https://discourse.llvm.org/t/potential-abi-break-in-19-1-3/82865#post_2)
+- [Target triple of llvm-libc &lpar;Environment Component&rpar;](https://discourse.llvm.org/t/target-triple-of-llvm-libc-environment-component/82845#post_6)
+- [Potential ABI break in 19.1.3](https://discourse.llvm.org/t/potential-abi-break-in-19-1-3/82865#post_1)
 <!-- DISCOURSE-LLVM:END -->
