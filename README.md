@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Debugging a simple Loop Unrolling Pass](https://discourse.llvm.org/t/debugging-a-simple-loop-unrolling-pass/82849#post_4)
-- [Debugging a simple Loop Unrolling Pass](https://discourse.llvm.org/t/debugging-a-simple-loop-unrolling-pass/82849#post_3)
-- [Target triple of llvm-libc &lpar;Environment Component&rpar;](https://discourse.llvm.org/t/target-triple-of-llvm-libc-environment-component/82845#post_4)
-- [Using -report-bad-layout and --funcs-file to optimize functions](https://discourse.llvm.org/t/using-report-bad-layout-and-funcs-file-to-optimize-functions/82836#post_7)
-- [Using -report-bad-layout and --funcs-file to optimize functions](https://discourse.llvm.org/t/using-report-bad-layout-and-funcs-file-to-optimize-functions/82836#post_6)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=2#post_37)
+- [RFC: an incubator for language frontends &lpar;bindings&rpar;](https://discourse.llvm.org/t/rfc-an-incubator-for-language-frontends-bindings/82832#post_6)
+- [RFC: an incubator for language frontends &lpar;bindings&rpar;](https://discourse.llvm.org/t/rfc-an-incubator-for-language-frontends-bindings/82832#post_5)
+- [RFC: an incubator for language frontends &lpar;bindings&rpar;](https://discourse.llvm.org/t/rfc-an-incubator-for-language-frontends-bindings/82832#post_4)
+- [[RFC] lldb-dap: Update server mode to allow multiple connections](https://discourse.llvm.org/t/rfc-lldb-dap-update-server-mode-to-allow-multiple-connections/82770#post_13)
 <!-- DISCOURSE-LLVM:END -->
