@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unexpected peeling decision when trying to eliminate compares inside loop](https://discourse.llvm.org/t/unexpected-peeling-decision-when-trying-to-eliminate-compares-inside-loop/82866#post_3)
-- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=3#post_46)
-- [[RFC] Use libm&#39;s logf128 for constant folding](https://discourse.llvm.org/t/rfc-use-libms-logf128-for-constant-folding/81217#post_7)
-- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=3#post_45)
-- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=2#post_39)
+- [What is length-changing shuffle?](https://discourse.llvm.org/t/what-is-length-changing-shuffle/82886#post_2)
+- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_17)
+- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_16)
+- [DLL integration between Clang and MSVC](https://discourse.llvm.org/t/dll-integration-between-clang-and-msvc/82881#post_6)
+- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=3#post_48)
 <!-- DISCOURSE-LLVM:END -->
