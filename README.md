@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_1)
-- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_50)
-- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_49)
-- [Removing instructions from LLVM Compilation steps &lpar;without using Passes&rpar;](https://discourse.llvm.org/t/removing-instructions-from-llvm-compilation-steps-without-using-passes/82873#post_6)
-- [Potential ABI break in 19.1.3](https://discourse.llvm.org/t/potential-abi-break-in-19-1-3/82865#post_8)
+- [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753#post_20)
+- [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_5)
+- [[mlir][linalg] Canonicalize `linalg.generic` with brocast semantic meaning](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic-with-brocast-semantic-meaning/82700#post_7)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_3)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=3#post_59)
 <!-- DISCOURSE-LLVM:END -->
