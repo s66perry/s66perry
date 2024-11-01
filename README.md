@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DLL integration between Clang and MSVC](https://discourse.llvm.org/t/dll-integration-between-clang-and-msvc/82881#post_7)
 - [What is length-changing shuffle?](https://discourse.llvm.org/t/what-is-length-changing-shuffle/82886#post_2)
 - [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_17)
 - [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_16)
 - [DLL integration between Clang and MSVC](https://discourse.llvm.org/t/dll-integration-between-clang-and-msvc/82881#post_6)
-- [[RFC] Compress Intrinsic Name Table](https://discourse.llvm.org/t/rfc-compress-intrinsic-name-table/82412?page=3#post_48)
 <!-- DISCOURSE-LLVM:END -->
