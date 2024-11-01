@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Computing, storing, and restoring conservative call graphs with LLVM](https://discourse.llvm.org/t/rfc-computing-storing-and-restoring-conservative-call-graphs-with-llvm/58446#post_4)
+- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_30)
+- [Help Needed to Eliminate Redundant Tensor Transformations in MLIR](https://discourse.llvm.org/t/help-needed-to-eliminate-redundant-tensor-transformations-in-mlir/82614#post_2)
+- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_29)
 - [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753#post_20)
-- [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_5)
-- [[mlir][linalg] Canonicalize `linalg.generic` with brocast semantic meaning](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic-with-brocast-semantic-meaning/82700#post_7)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_3)
-- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=3#post_59)
 <!-- DISCOURSE-LLVM:END -->
