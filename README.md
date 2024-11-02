@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Synthetic Data Providers and lldb-dap](https://discourse.llvm.org/t/synthetic-data-providers-and-lldb-dap/82768#post_9)
 - [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753?page=2#post_23)
 - [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753?page=2#post_22)
 - [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753?page=2#post_21)
 - [[RFC] Computing, storing, and restoring conservative call graphs with LLVM](https://discourse.llvm.org/t/rfc-computing-storing-and-restoring-conservative-call-graphs-with-llvm/58446#post_4)
-- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
