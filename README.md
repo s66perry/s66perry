@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_4)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=3#post_41)
 - [Parallel Loops Clarification](https://discourse.llvm.org/t/parallel-loops-clarification/82902#post_1)
 - [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_51)
 - [MLIR C/C++ Frontend Working Group [Mon, Nov 4th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-nov-4th/82898#post_1)
-- [Synthetic Data Providers and lldb-dap](https://discourse.llvm.org/t/synthetic-data-providers-and-lldb-dap/82768#post_9)
-- [[RFC] Enhanced Machine Outliner – Part 2: ThinLTO/NoLTO](https://discourse.llvm.org/t/rfc-enhanced-machine-outliner-part-2-thinlto-nolto/78753?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
