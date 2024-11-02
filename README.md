@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_7)
 - [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_31)
 - [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_6)
 - [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_6)
 - [PGO profile reproducibility](https://discourse.llvm.org/t/pgo-profile-reproducibility/82861#post_6)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_5)
 <!-- DISCOURSE-LLVM:END -->
