@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Debug information symbols of downstream target due to linker relaxation](https://discourse.llvm.org/t/debug-information-symbols-of-downstream-target-due-to-linker-relaxation/79837?page=2#post_23)
 - [Introducing LLQL Project to run SQL query on LLVM IR/BC](https://discourse.llvm.org/t/introducing-llql-project-to-run-sql-query-on-llvm-ir-bc/82910#post_1)
 - [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_33)
 - [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_32)
 - [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_7)
-- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
