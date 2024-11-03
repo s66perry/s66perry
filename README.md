@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[mlir][linalg] Canonicalize `linalg.generic` with brocast semantic meaning](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic-with-brocast-semantic-meaning/82700#post_9)
+- [[mlir][linalg] Canonicalize `linalg.generic` with brocast semantic meaning](https://discourse.llvm.org/t/mlir-linalg-canonicalize-linalg-generic-with-brocast-semantic-meaning/82700#post_8)
+- [WIP- MLIR News 71stedition &lpar;3rd Nov 2024&rpar;](https://discourse.llvm.org/t/wip-mlir-news-71stedition-3rd-nov-2024/82913#post_1)
 - [Idiomatic way of handling &quot;restricted&quot; types in MLIR?](https://discourse.llvm.org/t/idiomatic-way-of-handling-restricted-types-in-mlir/82912#post_2)
 - [Idiomatic way of handling &quot;restricted&quot; types in MLIR?](https://discourse.llvm.org/t/idiomatic-way-of-handling-restricted-types-in-mlir/82912#post_1)
-- [Debug information symbols of downstream target due to linker relaxation](https://discourse.llvm.org/t/debug-information-symbols-of-downstream-target-due-to-linker-relaxation/79837?page=2#post_23)
-- [Introducing LLQL Project to run SQL query on LLVM IR/BC](https://discourse.llvm.org/t/introducing-llql-project-to-run-sql-query-on-llvm-ir-bc/82910#post_1)
-- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
