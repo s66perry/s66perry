@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_21)
-- [Non-standard integer size in SelectionDAG](https://discourse.llvm.org/t/non-standard-integer-size-in-selectiondag/82933#post_2)
-- [RFC: Let&#39;s document &lpar;and enforce?&rpar; a minimum Python version for LLDB](https://discourse.llvm.org/t/rfc-lets-document-and-enforce-a-minimum-python-version-for-lldb/82731#post_18)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896#post_20)
-- [Non-standard integer size in SelectionDAG](https://discourse.llvm.org/t/non-standard-integer-size-in-selectiondag/82933#post_1)
+- [Verifier Pass doesn&#39;t catch calls with different number of parameters than the definition](https://discourse.llvm.org/t/verifier-pass-doesnt-catch-calls-with-different-number-of-parameters-than-the-definition/82925#post_3)
+- [[RFC] Add memory scope to GPU barrier](https://discourse.llvm.org/t/rfc-add-memory-scope-to-gpu-barrier/81021?page=2#post_23)
+- [Refactoring llvm::SpecialCaseList](https://discourse.llvm.org/t/refactoring-llvm-specialcaselist/82931#post_2)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=2#post_23)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
