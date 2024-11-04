@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How does sanitizer_common_syscalls.inc work?](https://discourse.llvm.org/t/how-does-sanitizer-common-syscalls-inc-work/82941#post_3)
-- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_18)
-- [Compiling Test Suite Binaries with a Custom Pass](https://discourse.llvm.org/t/compiling-test-suite-binaries-with-a-custom-pass/82935#post_2)
-- [Generic syscall interceptor?](https://discourse.llvm.org/t/generic-syscall-interceptor/68833#post_2)
-- [How does sanitizer_common_syscalls.inc work?](https://discourse.llvm.org/t/how-does-sanitizer-common-syscalls-inc-work/82941#post_2)
+- [LLVM ERROR: Attempting to attach an interface to an unregistered operation builtin.unrealized_conversion_cast](https://discourse.llvm.org/t/llvm-error-attempting-to-attach-an-interface-to-an-unregistered-operation-builtin-unrealized-conversion-cast/82946#post_1)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=3#post_46)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=2#post_32)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=2#post_31)
+- [[RFC] lldb-dap: Update server mode to allow multiple connections](https://discourse.llvm.org/t/rfc-lldb-dap-update-server-mode-to-allow-multiple-connections/82770#post_14)
 <!-- DISCOURSE-LLVM:END -->
