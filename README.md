@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How does sanitizer_common_syscalls.inc work?](https://discourse.llvm.org/t/how-does-sanitizer-common-syscalls-inc-work/82941#post_7)
+- [[RFC] ObjectYAML with Coverage Map sections](https://discourse.llvm.org/t/rfc-objectyaml-with-coverage-map-sections/82953#post_2)
+- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_20)
+- [[libcxx] [testing] [benchmarks] How to build libcxx benchmark tests?](https://discourse.llvm.org/t/libcxx-testing-benchmarks-how-to-build-libcxx-benchmark-tests/82954#post_1)
 - [Potential ABI break in 19.1.3](https://discourse.llvm.org/t/potential-abi-break-in-19-1-3/82865#post_11)
-- [[RFC] ObjectYAML with Coverage Map sections](https://discourse.llvm.org/t/rfc-objectyaml-with-coverage-map-sections/82953#post_1)
-- [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_11)
-- [DLL integration between Clang and MSVC](https://discourse.llvm.org/t/dll-integration-between-clang-and-msvc/82881#post_10)
-- [Potential ABI break in 19.1.3](https://discourse.llvm.org/t/potential-abi-break-in-19-1-3/82865#post_10)
 <!-- DISCOURSE-LLVM:END -->
