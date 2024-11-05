@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Synthetic Data Providers and lldb-dap](https://discourse.llvm.org/t/synthetic-data-providers-and-lldb-dap/82768#post_10)
-- [Error when importing custom dialect Python bindings on Windows](https://discourse.llvm.org/t/error-when-importing-custom-dialect-python-bindings-on-windows/82946#post_3)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=2#post_33)
-- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292#post_19)
-- [Error when importing custom dialect Python bindings on Windows](https://discourse.llvm.org/t/error-when-importing-custom-dialect-python-bindings-on-windows/82946#post_2)
+- [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_8)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=3#post_48)
+- [Target triple of llvm-libc &lpar;Environment Component&rpar;](https://discourse.llvm.org/t/target-triple-of-llvm-libc-environment-component/82845#post_8)
+- [How does sanitizer_common_syscalls.inc work?](https://discourse.llvm.org/t/how-does-sanitizer-common-syscalls-inc-work/82941#post_5)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
