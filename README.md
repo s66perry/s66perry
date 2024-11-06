@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=3#post_53)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=3#post_52)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_2)
-- [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_10)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_1)
+- [[RFC] Proposal: Clang C/C++ language working group](https://discourse.llvm.org/t/rfc-proposal-clang-c-c-language-working-group/59840?page=3#post_55)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=3#post_54)
+- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_4)
+- [[RFC] ObjectYAML with Coverage Map sections](https://discourse.llvm.org/t/rfc-objectyaml-with-coverage-map-sections/82953#post_5)
+- [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_15)
 <!-- DISCOURSE-LLVM:END -->
