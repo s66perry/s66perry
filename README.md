@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Lowering scf::while to emitc](https://discourse.llvm.org/t/lowering-scf-while-to-emitc/82977#post_1)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_8)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_7)
-- [[RFC] Proposing a new CI/CD admin for the project](https://discourse.llvm.org/t/rfc-proposing-a-new-ci-cd-admin-for-the-project/82328#post_12)
-- [[Feature Request] Declaring C/C++ intrinsic arguments as compile-time immediates](https://discourse.llvm.org/t/feature-request-declaring-c-c-intrinsic-arguments-as-compile-time-immediates/82971#post_2)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_64)
+- [[RFC] Floating-point literals in LLVM IR](https://discourse.llvm.org/t/rfc-floating-point-literals-in-llvm-ir/82974#post_4)
+- [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_16)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_63)
+- [[RFC] FMF on more instructions](https://discourse.llvm.org/t/rfc-fmf-on-more-instructions/82978#post_1)
 <!-- DISCOURSE-LLVM:END -->
