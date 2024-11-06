@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extending vector distribution to support other types](https://discourse.llvm.org/t/rfc-extending-vector-distribution-to-support-other-types/82833#post_13)
-- [Dangling std::string_view checker](https://discourse.llvm.org/t/dangling-std-string-view-checker/82920#post_5)
-- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963#post_3)
-- [RFC: Supporting Sub-Channel Quantization in MLIR](https://discourse.llvm.org/t/rfc-supporting-sub-channel-quantization-in-mlir/82694#post_7)
-- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963#post_2)
+- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963#post_6)
+- [[RFC] Proposing a new CI/CD admin for the project](https://discourse.llvm.org/t/rfc-proposing-a-new-ci-cd-admin-for-the-project/82328#post_9)
+- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963#post_5)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=3#post_47)
+- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963#post_4)
 <!-- DISCOURSE-LLVM:END -->
