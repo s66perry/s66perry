@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_66)
+- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_1)
+- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=3#post_60)
 - [How intelligent is LLVM backend?](https://discourse.llvm.org/t/how-intelligent-is-llvm-backend/82994#post_7)
 - [How intelligent is LLVM backend?](https://discourse.llvm.org/t/how-intelligent-is-llvm-backend/82994#post_6)
-- [How intelligent is LLVM backend?](https://discourse.llvm.org/t/how-intelligent-is-llvm-backend/82994#post_5)
-- [[RFC] Allow ThinLTO to Rename Local Functions with Sections](https://discourse.llvm.org/t/rfc-allow-thinlto-to-rename-local-functions-with-sections/82981#post_3)
-- [How intelligent is LLVM backend?](https://discourse.llvm.org/t/how-intelligent-is-llvm-backend/82994#post_4)
 <!-- DISCOURSE-LLVM:END -->
