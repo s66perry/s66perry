@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_53)
+- [Why is BCA considered a valid ordering for library layering in code standards?](https://discourse.llvm.org/t/why-is-bca-considered-a-valid-ordering-for-library-layering-in-code-standards/82969#post_4)
+- [[RFC][LLDB] Handling abi_tagged Constructors/Destructors in Expression Evaluator](https://discourse.llvm.org/t/rfc-lldb-handling-abi-tagged-constructors-destructors-in-expression-evaluator/82816?page=2#post_22)
 - [[Question] Conditional OneToN conversion using `OneToNOpConversionPattern`](https://discourse.llvm.org/t/question-conditional-oneton-conversion-using-onetonopconversionpattern/82964#post_4)
 - [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_65)
-- [[RFC] Allow ThinLTO to Rename Local Functions with Sections](https://discourse.llvm.org/t/rfc-allow-thinlto-to-rename-local-functions-with-sections/82981#post_1)
-- [LLVM backend senior engineer at Rivos Inc](https://discourse.llvm.org/t/llvm-backend-senior-engineer-at-rivos-inc/82980#post_1)
-- [Lowering scf::while to emitc](https://discourse.llvm.org/t/lowering-scf-while-to-emitc/82977#post_2)
 <!-- DISCOURSE-LLVM:END -->
