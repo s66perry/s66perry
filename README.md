@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Section groups without GRP_COMDAT](https://discourse.llvm.org/t/section-groups-without-grp-comdat/83001#post_2)
+- [Lowering scf::while to emitc](https://discourse.llvm.org/t/lowering-scf-while-to-emitc/82977#post_3)
 - [How to run my pass during LTO](https://discourse.llvm.org/t/how-to-run-my-pass-during-lto/83009#post_1)
 - [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_74)
 - [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83008#post_1)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_73)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_72)
 <!-- DISCOURSE-LLVM:END -->
