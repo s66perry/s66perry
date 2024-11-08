@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to run my pass during LTO](https://discourse.llvm.org/t/how-to-run-my-pass-during-lto/83009#post_3)
-- [OptimizerLast EP callbacks not really last?](https://discourse.llvm.org/t/optimizerlast-ep-callbacks-not-really-last/83024#post_2)
-- [Newbee question about GlobalISel](https://discourse.llvm.org/t/newbee-question-about-globalisel/83020#post_5)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_76)
-- [OptimizerLast EP callbacks not really last?](https://discourse.llvm.org/t/optimizerlast-ep-callbacks-not-really-last/83024#post_1)
+- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963?page=2#post_22)
+- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963?page=2#post_21)
+- [RFC: Supporting Sub-Channel Quantization in MLIR](https://discourse.llvm.org/t/rfc-supporting-sub-channel-quantization-in-mlir/82694#post_10)
+- [RFC: Supporting Sub-Channel Quantization in MLIR](https://discourse.llvm.org/t/rfc-supporting-sub-channel-quantization-in-mlir/82694#post_9)
+- [Help needed to fix an issue with transform](https://discourse.llvm.org/t/help-needed-to-fix-an-issue-with-transform/83017#post_3)
 <!-- DISCOURSE-LLVM:END -->
