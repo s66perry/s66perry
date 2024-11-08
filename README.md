@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help needed to fix an issue with transform](https://discourse.llvm.org/t/help-needed-to-fix-an-issue-with-transform/83017#post_2)
+- [[RFC] Move execute_on_lane_0 from vector to gpu dialect](https://discourse.llvm.org/t/rfc-move-execute-on-lane-0-from-vector-to-gpu-dialect/82989#post_5)
+- [Using -report-bad-layout and --funcs-file to optimize functions](https://discourse.llvm.org/t/using-report-bad-layout-and-funcs-file-to-optimize-functions/82836#post_9)
+- [Help needed to fix an issue with transform](https://discourse.llvm.org/t/help-needed-to-fix-an-issue-with-transform/83017#post_1)
 - [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963#post_17)
-- [Help Needed to Eliminate Redundant Tensor Transformations in MLIR](https://discourse.llvm.org/t/help-needed-to-eliminate-redundant-tensor-transformations-in-mlir/82614#post_3)
-- [[RFC][LLDB] Handling abi_tagged Constructors/Destructors in Expression Evaluator](https://discourse.llvm.org/t/rfc-lldb-handling-abi-tagged-constructors-destructors-in-expression-evaluator/82816?page=2#post_24)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_73)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_12)
 <!-- DISCOURSE-LLVM:END -->
