@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_68)
-- [[RFC] Floating-point literals in LLVM IR](https://discourse.llvm.org/t/rfc-floating-point-literals-in-llvm-ir/82974#post_9)
-- [[RFC] Floating-point literals in LLVM IR](https://discourse.llvm.org/t/rfc-floating-point-literals-in-llvm-ir/82974#post_8)
-- [[RFC] Floating-point literals in LLVM IR](https://discourse.llvm.org/t/rfc-floating-point-literals-in-llvm-ir/82974#post_7)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=4#post_67)
+- [Failing windows-buildkite-66bb9c8f49-65hn7-1 machine on windows builds](https://discourse.llvm.org/t/failing-windows-buildkite-66bb9c8f49-65hn7-1-machine-on-windows-builds/83005#post_4)
+- [Failing windows-buildkite-66bb9c8f49-65hn7-1 machine on windows builds](https://discourse.llvm.org/t/failing-windows-buildkite-66bb9c8f49-65hn7-1-machine-on-windows-builds/83005#post_3)
+- [PDX-area November 2024 social](https://discourse.llvm.org/t/pdx-area-november-2024-social/82827#post_2)
+- [Failing windows-buildkite-66bb9c8f49-65hn7-1 machine on windows builds](https://discourse.llvm.org/t/failing-windows-buildkite-66bb9c8f49-65hn7-1-machine-on-windows-builds/83005#post_2)
+- [Failing windows-buildkite-66bb9c8f49-65hn7-1 machine on windows builds](https://discourse.llvm.org/t/failing-windows-buildkite-66bb9c8f49-65hn7-1-machine-on-windows-builds/83005#post_1)
 <!-- DISCOURSE-LLVM:END -->
