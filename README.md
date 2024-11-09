@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Synthetic Data Providers and lldb-dap](https://discourse.llvm.org/t/synthetic-data-providers-and-lldb-dap/82768#post_14)
 - [How to pass a cli flag to enable or disable a LTO pass?](https://discourse.llvm.org/t/how-to-pass-a-cli-flag-to-enable-or-disable-a-lto-pass/83034#post_2)
 - [How to pass a cli flag to enable or disable a LTO pass?](https://discourse.llvm.org/t/how-to-pass-a-cli-flag-to-enable-or-disable-a-lto-pass/83034#post_1)
 - [Anyone using MachineInstr bundles in SSA form?](https://discourse.llvm.org/t/anyone-using-machineinstr-bundles-in-ssa-form/83026#post_3)
 - [Synthetic Data Providers and lldb-dap](https://discourse.llvm.org/t/synthetic-data-providers-and-lldb-dap/82768#post_13)
-- [Help needed to fix an issue with transform](https://discourse.llvm.org/t/help-needed-to-fix-an-issue-with-transform/83017#post_5)
 <!-- DISCOURSE-LLVM:END -->
