@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Issue with Converting memref Parameters to emitc Types in MLIR](https://discourse.llvm.org/t/issue-with-converting-memref-parameters-to-emitc-types-in-mlir/83029#post_1)
+- [Building LLVM on Mac](https://discourse.llvm.org/t/building-llvm-on-mac/58198#post_6)
+- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_2)
+- [Building LLVM on Mac](https://discourse.llvm.org/t/building-llvm-on-mac/58198#post_5)
 - [Anyone using MachineInstr bundles in SSA form?](https://discourse.llvm.org/t/anyone-using-machineinstr-bundles-in-ssa-form/83026#post_2)
-- [Anyone using MachineInstr bundles in SSA form?](https://discourse.llvm.org/t/anyone-using-machineinstr-bundles-in-ssa-form/83026#post_1)
-- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963?page=2#post_28)
-- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963?page=2#post_27)
-- [Help needed to fix an issue with transform](https://discourse.llvm.org/t/help-needed-to-fix-an-issue-with-transform/83017#post_4)
 <!-- DISCOURSE-LLVM:END -->
