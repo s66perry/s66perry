@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to run my pass during LTO](https://discourse.llvm.org/t/how-to-run-my-pass-during-lto/83009#post_4)
+- [Failed to materialize conversion for result #0 of operation ... that remained live after conversion](https://discourse.llvm.org/t/failed-to-materialize-conversion-for-result-0-of-operation-that-remained-live-after-conversion/83023#post_2)
+- [[Question] Conditional OneToN conversion using `OneToNOpConversionPattern`](https://discourse.llvm.org/t/question-conditional-oneton-conversion-using-onetonopconversionpattern/82964#post_6)
 - [TOSA to LLVM MLIR](https://discourse.llvm.org/t/tosa-to-llvm-mlir/82451#post_6)
 - [TOSA to LLVM MLIR](https://discourse.llvm.org/t/tosa-to-llvm-mlir/82451#post_5)
-- [Adding --load-pass-plugin for MachO and COFF](https://discourse.llvm.org/t/adding-load-pass-plugin-for-macho-and-coff/83031#post_1)
-- [Issue with Converting memref Parameters to emitc Types in MLIR](https://discourse.llvm.org/t/issue-with-converting-memref-parameters-to-emitc-types-in-mlir/83029#post_1)
-- [Building LLVM on Mac](https://discourse.llvm.org/t/building-llvm-on-mac/58198#post_6)
 <!-- DISCOURSE-LLVM:END -->
