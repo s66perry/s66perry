@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help Needed to Eliminate Redundant Tensor Transformations in MLIR](https://discourse.llvm.org/t/help-needed-to-eliminate-redundant-tensor-transformations-in-mlir/82614#post_6)
+- [Help Needed to Eliminate Redundant Tensor Transformations in MLIR](https://discourse.llvm.org/t/help-needed-to-eliminate-redundant-tensor-transformations-in-mlir/82614#post_5)
+- [Help Needed to Eliminate Redundant Tensor Transformations in MLIR](https://discourse.llvm.org/t/help-needed-to-eliminate-redundant-tensor-transformations-in-mlir/82614#post_4)
 - [Problems during adding a pass in Affine Dialect](https://discourse.llvm.org/t/problems-during-adding-a-pass-in-affine-dialect/83036#post_1)
 - [Synthetic Data Providers and lldb-dap](https://discourse.llvm.org/t/synthetic-data-providers-and-lldb-dap/82768#post_14)
-- [How to pass a cli flag to enable or disable a LTO pass?](https://discourse.llvm.org/t/how-to-pass-a-cli-flag-to-enable-or-disable-a-lto-pass/83034#post_2)
-- [How to pass a cli flag to enable or disable a LTO pass?](https://discourse.llvm.org/t/how-to-pass-a-cli-flag-to-enable-or-disable-a-lto-pass/83034#post_1)
-- [Anyone using MachineInstr bundles in SSA form?](https://discourse.llvm.org/t/anyone-using-machineinstr-bundles-in-ssa-form/83026#post_3)
 <!-- DISCOURSE-LLVM:END -->
