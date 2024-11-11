@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Clang diagnostic for demangling failures](https://discourse.llvm.org/t/rfc-clang-diagnostic-for-demangling-failures/82835#post_9)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_18)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=5#post_83)
-- [LLVM Weekly - #567, November 11th 2024](https://discourse.llvm.org/t/llvm-weekly-567-november-11th-2024/83073#post_1)
-- [Beginner Stack Memory Allocation](https://discourse.llvm.org/t/beginner-stack-memory-allocation/83042#post_3)
+- [Section groups without GRP_COMDAT](https://discourse.llvm.org/t/section-groups-without-grp-comdat/83001#post_4)
+- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_19)
+- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_1)
+- [Beginner Stack Memory Allocation](https://discourse.llvm.org/t/beginner-stack-memory-allocation/83042#post_4)
+- [Building with CUDA support, not sure if working](https://discourse.llvm.org/t/building-with-cuda-support-not-sure-if-working/83070#post_4)
 <!-- DISCOURSE-LLVM:END -->
