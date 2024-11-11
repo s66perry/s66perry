@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Python: expose `replaceAllUsesExcept`](https://discourse.llvm.org/t/mlir-python-expose-replaceallusesexcept/83068#post_1)
-- [Newbee question about GlobalISel](https://discourse.llvm.org/t/newbee-question-about-globalisel/83020#post_6)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_15)
-- [Fixed Register Being Spill and Restored in Clang](https://discourse.llvm.org/t/fixed-register-being-spill-and-restored-in-clang/83058#post_4)
-- [Fixed Register Being Spill and Restored in Clang](https://discourse.llvm.org/t/fixed-register-being-spill-and-restored-in-clang/83058#post_3)
+- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_18)
+- [[RFC] Provide a resource directory header for common GPU intrinsics](https://discourse.llvm.org/t/rfc-provide-a-resource-directory-header-for-common-gpu-intrinsics/81454#post_17)
+- [Fixed Register Being Spill and Restored in Clang](https://discourse.llvm.org/t/fixed-register-being-spill-and-restored-in-clang/83058#post_6)
+- [Fixed Register Being Spill and Restored in Clang](https://discourse.llvm.org/t/fixed-register-being-spill-and-restored-in-clang/83058#post_5)
+- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_17)
 <!-- DISCOURSE-LLVM:END -->
