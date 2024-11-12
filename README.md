@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][OpenMP] supporting delayed task execution with firstprivate variables](https://discourse.llvm.org/t/rfc-openmp-supporting-delayed-task-execution-with-firstprivate-variables/83084#post_1)
 - [[MLIR] Lowering CustomOp to Affine Nested for](https://discourse.llvm.org/t/mlir-lowering-customop-to-affine-nested-for/83083#post_1)
 - [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_5)
 - [Question about LiveRangeCalc::isJointlyDominated](https://discourse.llvm.org/t/question-about-liverangecalc-isjointlydominated/83082#post_1)
 - [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_4)
-- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_3)
 <!-- DISCOURSE-LLVM:END -->
