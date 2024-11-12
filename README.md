@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR] Lowering CustomOp to Affine Nested for](https://discourse.llvm.org/t/mlir-lowering-customop-to-affine-nested-for/83083#post_1)
+- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_5)
+- [Question about LiveRangeCalc::isJointlyDominated](https://discourse.llvm.org/t/question-about-liverangecalc-isjointlydominated/83082#post_1)
+- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_4)
 - [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_3)
-- [Storing constants in signed memref](https://discourse.llvm.org/t/storing-constants-in-signed-memref/83051#post_4)
-- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_2)
-- [Installing target-specific headers for out-of-tree usage](https://discourse.llvm.org/t/installing-target-specific-headers-for-out-of-tree-usage/83080#post_1)
-- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_1)
 <!-- DISCOURSE-LLVM:END -->
