@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_5)
+- [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_4)
+- [Behavior of __builtin_object_size in presence of &lpar;potential&rpar; negative offset](https://discourse.llvm.org/t/behavior-of-builtin-object-size-in-presence-of-potential-negative-offset/83091#post_2)
+- [Converting `memref.get_global` to `llvm.ptr`?](https://discourse.llvm.org/t/converting-memref-get-global-to-llvm-ptr/83099#post_2)
 - [[RFC] Clang diagnostic for demangling failures](https://discourse.llvm.org/t/rfc-clang-diagnostic-for-demangling-failures/82835#post_10)
-- [GIComplexPatternEquiv for predicates instead of ComplexRendererFns](https://discourse.llvm.org/t/gicomplexpatternequiv-for-predicates-instead-of-complexrendererfns/83100#post_2)
-- [RFC: Add Clang attribute to ensure that fields are initialized explicitly](https://discourse.llvm.org/t/rfc-add-clang-attribute-to-ensure-that-fields-are-initialized-explicitly/80626?page=4#post_65)
-- [GIComplexPatternEquiv for predicates instead of ComplexRendererFns](https://discourse.llvm.org/t/gicomplexpatternequiv-for-predicates-instead-of-complexrendererfns/83100#post_1)
-- [Fixed Register Being Spill and Restored in Clang](https://discourse.llvm.org/t/fixed-register-being-spill-and-restored-in-clang/83058#post_11)
 <!-- DISCOURSE-LLVM:END -->
