@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Installing target-specific headers for out-of-tree usage](https://discourse.llvm.org/t/installing-target-specific-headers-for-out-of-tree-usage/83080#post_2)
+- [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_6)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=5#post_88)
 - [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_5)
 - [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_4)
-- [Behavior of __builtin_object_size in presence of &lpar;potential&rpar; negative offset](https://discourse.llvm.org/t/behavior-of-builtin-object-size-in-presence-of-potential-negative-offset/83091#post_2)
-- [Converting `memref.get_global` to `llvm.ptr`?](https://discourse.llvm.org/t/converting-memref-get-global-to-llvm-ptr/83099#post_2)
-- [[RFC] Clang diagnostic for demangling failures](https://discourse.llvm.org/t/rfc-clang-diagnostic-for-demangling-failures/82835#post_10)
 <!-- DISCOURSE-LLVM:END -->
