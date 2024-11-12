@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972?page=2#post_21)
-- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=5#post_86)
-- [Storing constants in signed memref](https://discourse.llvm.org/t/storing-constants-in-signed-memref/83051#post_3)
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972#post_20)
-- [MLIR Python: expose `replaceAllUsesExcept`](https://discourse.llvm.org/t/mlir-python-expose-replaceallusesexcept/83068#post_2)
+- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_3)
+- [Storing constants in signed memref](https://discourse.llvm.org/t/storing-constants-in-signed-memref/83051#post_4)
+- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_2)
+- [Installing target-specific headers for out-of-tree usage](https://discourse.llvm.org/t/installing-target-specific-headers-for-out-of-tree-usage/83080#post_1)
+- [Affine fusion legality for vector types](https://discourse.llvm.org/t/affine-fusion-legality-for-vector-types/83079#post_1)
 <!-- DISCOURSE-LLVM:END -->
