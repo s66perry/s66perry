@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963?page=2#post_32)
-- [Section groups without GRP_COMDAT](https://discourse.llvm.org/t/section-groups-without-grp-comdat/83001#post_6)
-- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_2)
-- [Question about LiveRangeCalc::isJointlyDominated](https://discourse.llvm.org/t/question-about-liverangecalc-isjointlydominated/83082#post_4)
-- [[RFC] Removing offset from memref type and lowering](https://discourse.llvm.org/t/rfc-removing-offset-from-memref-type-and-lowering/82963?page=2#post_31)
+- [Sanitizer crash on Windows when using exceptions](https://discourse.llvm.org/t/sanitizer-crash-on-windows-when-using-exceptions/83093#post_1)
+- [Behavior of __builtin_object_size in presence of &lpar;potential&rpar; negative offset](https://discourse.llvm.org/t/behavior-of-builtin-object-size-in-presence-of-potential-negative-offset/83091#post_1)
+- [Adding ffmpeg in LLVM test suite?](https://discourse.llvm.org/t/adding-ffmpeg-in-llvm-test-suite/82575?page=2#post_22)
+- [LLVM 19.1.4 Release Update](https://discourse.llvm.org/t/llvm-19-1-4-release-update/83088#post_1)
+- [Extract an embedded FATBIN from a lowered MLIR model](https://discourse.llvm.org/t/extract-an-embedded-fatbin-from-a-lowered-mlir-model/83074#post_2)
 <!-- DISCOURSE-LLVM:END -->
