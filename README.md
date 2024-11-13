@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [AST Structure Strings](https://discourse.llvm.org/t/ast-structure-strings/83095#post_3)
-- [[RFC] Clang proposal to add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-clang-proposal-to-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/83117#post_1)
-- [Newbee question about GlobalISel](https://discourse.llvm.org/t/newbee-question-about-globalisel/83020#post_7)
-- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_1)
-- [Ideas on improving Pre-commit buildbot output on the Buildkite page](https://discourse.llvm.org/t/ideas-on-improving-pre-commit-buildbot-output-on-the-buildkite-page/79377#post_5)
+- [[RFC] Clang proposal to add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-clang-proposal-to-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/83117#post_2)
+- [Error when using &quot;one-shot-bufferize&quot; on a function that contains a `tensor.concat` op](https://discourse.llvm.org/t/error-when-using-one-shot-bufferize-on-a-function-that-contains-a-tensor-concat-op/83112#post_4)
+- [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_10)
+- [Error when using &quot;one-shot-bufferize&quot; on a function that contains a `tensor.concat` op](https://discourse.llvm.org/t/error-when-using-one-shot-bufferize-on-a-function-that-contains-a-tensor-concat-op/83112#post_3)
+- [Error when using &quot;one-shot-bufferize&quot; on a function that contains a `tensor.concat` op](https://discourse.llvm.org/t/error-when-using-one-shot-bufferize-on-a-function-that-contains-a-tensor-concat-op/83112#post_2)
 <!-- DISCOURSE-LLVM:END -->
