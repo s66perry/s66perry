@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Clang proposal to add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-clang-proposal-to-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/83117#post_2)
-- [Error when using &quot;one-shot-bufferize&quot; on a function that contains a `tensor.concat` op](https://discourse.llvm.org/t/error-when-using-one-shot-bufferize-on-a-function-that-contains-a-tensor-concat-op/83112#post_4)
-- [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_10)
-- [Error when using &quot;one-shot-bufferize&quot; on a function that contains a `tensor.concat` op](https://discourse.llvm.org/t/error-when-using-one-shot-bufferize-on-a-function-that-contains-a-tensor-concat-op/83112#post_3)
-- [Error when using &quot;one-shot-bufferize&quot; on a function that contains a `tensor.concat` op](https://discourse.llvm.org/t/error-when-using-one-shot-bufferize-on-a-function-that-contains-a-tensor-concat-op/83112#post_2)
+- [How can I lower `tosa.maximum` to `arith.maxnumf`](https://discourse.llvm.org/t/how-can-i-lower-tosa-maximum-to-arith-maxnumf/83118#post_3)
+- [[RFC] IR2Builder - An LLVM IR converter to C++ IRBuilder calls](https://discourse.llvm.org/t/rfc-ir2builder-an-llvm-ir-converter-to-c-irbuilder-calls/83122#post_1)
+- [[RFC] MLIR Project Charter and Restructuring](https://discourse.llvm.org/t/rfc-mlir-project-charter-and-restructuring/82896?page=5#post_93)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_5)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_4)
 <!-- DISCOURSE-LLVM:END -->
