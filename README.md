@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Preventing Canonicalization of SCF::forall with Conditional Branches Producing Outputs of Different Dimensions](https://discourse.llvm.org/t/preventing-canonicalization-of-scf-forall-with-conditional-branches-producing-outputs-of-different-dimensions/83108#post_5)
-- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292?page=2#post_22)
-- [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_1)
-- [FYI: New test result reporting in pre-commit builds](https://discourse.llvm.org/t/fyi-new-test-result-reporting-in-pre-commit-builds/83114#post_3)
-- [FYI: New test result reporting in pre-commit builds](https://discourse.llvm.org/t/fyi-new-test-result-reporting-in-pre-commit-builds/83114#post_2)
+- [AST Structure Strings](https://discourse.llvm.org/t/ast-structure-strings/83095#post_3)
+- [[RFC] Clang proposal to add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-clang-proposal-to-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/83117#post_1)
+- [Newbee question about GlobalISel](https://discourse.llvm.org/t/newbee-question-about-globalisel/83020#post_7)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_1)
+- [Ideas on improving Pre-commit buildbot output on the Buildkite page](https://discourse.llvm.org/t/ideas-on-improving-pre-commit-buildbot-output-on-the-buildkite-page/79377#post_5)
 <!-- DISCOURSE-LLVM:END -->
