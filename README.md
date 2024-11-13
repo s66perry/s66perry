@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_7)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_6)
+- [[RFC] IR2Builder - An LLVM IR converter to C++ IRBuilder calls](https://discourse.llvm.org/t/rfc-ir2builder-an-llvm-ir-converter-to-c-irbuilder-calls/83122#post_2)
+- [[RFC][OpenMP] supporting delayed task execution with firstprivate variables](https://discourse.llvm.org/t/rfc-openmp-supporting-delayed-task-execution-with-firstprivate-variables/83084#post_3)
 - [[RFC][OpenMP] supporting delayed task execution with firstprivate variables](https://discourse.llvm.org/t/rfc-openmp-supporting-delayed-task-execution-with-firstprivate-variables/83084#post_2)
-- [Ideas on improving Pre-commit buildbot output on the Buildkite page](https://discourse.llvm.org/t/ideas-on-improving-pre-commit-buildbot-output-on-the-buildkite-page/79377#post_6)
-- [FYI: New test result reporting in pre-commit builds](https://discourse.llvm.org/t/fyi-new-test-result-reporting-in-pre-commit-builds/83114#post_4)
-- [Installing target-specific headers for out-of-tree usage](https://discourse.llvm.org/t/installing-target-specific-headers-for-out-of-tree-usage/83080#post_4)
-- [[RFC] Floating-point literals in LLVM IR](https://discourse.llvm.org/t/rfc-floating-point-literals-in-llvm-ir/82974#post_10)
 <!-- DISCOURSE-LLVM:END -->
