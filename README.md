@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_1)
-- [[RFC] ObjectYAML with Coverage Map sections](https://discourse.llvm.org/t/rfc-objectyaml-with-coverage-map-sections/82953#post_8)
-- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_6)
-- [Building an llvm/clang/ast tool on windows](https://discourse.llvm.org/t/building-an-llvm-clang-ast-tool-on-windows/83136#post_3)
-- [BPF target and 32-bit pointer size](https://discourse.llvm.org/t/bpf-target-and-32-bit-pointer-size/83145#post_1)
+- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_1)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116?page=2#post_21)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_20)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_19)
+- [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096#post_18)
 <!-- DISCOURSE-LLVM:END -->
