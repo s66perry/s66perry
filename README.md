@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_5)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_4)
 - [Can&#39;t/cannot/can not in diagnostic messages](https://discourse.llvm.org/t/cant-cannot-can-not-in-diagnostic-messages/83171#post_5)
 - [Can&#39;t/cannot/can not in diagnostic messages](https://discourse.llvm.org/t/cant-cannot-can-not-in-diagnostic-messages/83171#post_4)
 - [Can&#39;t/cannot/can not in diagnostic messages](https://discourse.llvm.org/t/cant-cannot-can-not-in-diagnostic-messages/83171#post_3)
-- [Can&#39;t/cannot/can not in diagnostic messages](https://discourse.llvm.org/t/cant-cannot-can-not-in-diagnostic-messages/83171#post_2)
-- [[Tablegen] Suggestion about tablegen error message](https://discourse.llvm.org/t/tablegen-suggestion-about-tablegen-error-message/83149#post_6)
 <!-- DISCOURSE-LLVM:END -->
