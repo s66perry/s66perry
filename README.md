@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR and LLVM-related Activites @ SC&#39;24](https://discourse.llvm.org/t/mlir-and-llvm-related-activites-sc24/83163#post_1)
-- [Can&#39;t fold LOAD into user during ISel](https://discourse.llvm.org/t/cant-fold-load-into-user-during-isel/83137#post_13)
-- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_4)
-- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_3)
-- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_15)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116?page=2#post_24)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=4#post_61)
+- [[RFC][OpenMP] Translation of allocate clause to LLVM IR in taskgroup directive](https://discourse.llvm.org/t/rfc-openmp-translation-of-allocate-clause-to-llvm-ir-in-taskgroup-directive/83065#post_3)
+- [[RFC][Clang][OpenMP] How does Clang handles LLVM translation for allocate clause in taskgroup directive?](https://discourse.llvm.org/t/rfc-clang-openmp-how-does-clang-handles-llvm-translation-for-allocate-clause-in-taskgroup-directive/83165#post_1)
+- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
