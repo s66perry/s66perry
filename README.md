@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why the &quot;volatile&quot; of volatile global register is ignored?](https://discourse.llvm.org/t/why-the-volatile-of-volatile-global-register-is-ignored/82416#post_2)
+- [setOperand of a newly created op in matchAndRewrite](https://discourse.llvm.org/t/setoperand-of-a-newly-created-op-in-matchandrewrite/83152#post_1)
+- [[Tablegen] Suggestion about tablegen error message](https://discourse.llvm.org/t/tablegen-suggestion-about-tablegen-error-message/83149#post_1)
 - [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_2)
 - [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_1)
-- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116?page=2#post_21)
-- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_20)
-- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116#post_19)
 <!-- DISCOURSE-LLVM:END -->
