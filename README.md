@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR and LLVM-related Activites @ SC&#39;24](https://discourse.llvm.org/t/mlir-and-llvm-related-activites-sc24/83163#post_1)
+- [Can&#39;t fold LOAD into user during ISel](https://discourse.llvm.org/t/cant-fold-load-into-user-during-isel/83137#post_13)
 - [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_4)
 - [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_3)
 - [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_15)
-- [[RFC] Multilib custom flags](https://discourse.llvm.org/t/rfc-multilib-custom-flags/81058#post_14)
-- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
