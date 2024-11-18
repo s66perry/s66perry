@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Tablegen] Suggestion about tablegen error message](https://discourse.llvm.org/t/tablegen-suggestion-about-tablegen-error-message/83149#post_7)
+- [[Question] How to raise `llvm` to `scf`? Or lower C code to `scf`?](https://discourse.llvm.org/t/question-how-to-raise-llvm-to-scf-or-lower-c-code-to-scf/82741#post_12)
+- [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_1)
 - [Generating dialect specific builder from tablegen](https://discourse.llvm.org/t/generating-dialect-specific-builder-from-tablegen/83194#post_3)
 - [Generating dialect specific builder from tablegen](https://discourse.llvm.org/t/generating-dialect-specific-builder-from-tablegen/83194#post_2)
-- [Problems during adding a pass in Affine Dialect](https://discourse.llvm.org/t/problems-during-adding-a-pass-in-affine-dialect/83036#post_2)
-- [Generating dialect specific builder from tablegen](https://discourse.llvm.org/t/generating-dialect-specific-builder-from-tablegen/83194#post_1)
-- [How to solve the problem of stale Profile data when Bolt is used with pgo?](https://discourse.llvm.org/t/how-to-solve-the-problem-of-stale-profile-data-when-bolt-is-used-with-pgo/78007#post_11)
 <!-- DISCOURSE-LLVM:END -->
