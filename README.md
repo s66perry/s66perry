@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Tablegen] Suggestion about tablegen error message](https://discourse.llvm.org/t/tablegen-suggestion-about-tablegen-error-message/83149#post_9)
-- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_2)
-- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_7)
-- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_5)
-- [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326?page=2#post_28)
+- [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_3)
+- [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_2)
+- [I&#39;m having some problems with share memory in GPU dialect](https://discourse.llvm.org/t/im-having-some-problems-with-share-memory-in-gpu-dialect/83206#post_2)
+- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_4)
+- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_3)
 <!-- DISCOURSE-LLVM:END -->
