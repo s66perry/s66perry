@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_7)
 - [How to add custom linalg named ops using OpDSL?](https://discourse.llvm.org/t/how-to-add-custom-linalg-named-ops-using-opdsl/83200#post_5)
 - [How to add custom linalg named ops using OpDSL?](https://discourse.llvm.org/t/how-to-add-custom-linalg-named-ops-using-opdsl/83200#post_4)
 - [How to add custom linalg named ops using OpDSL?](https://discourse.llvm.org/t/how-to-add-custom-linalg-named-ops-using-opdsl/83200#post_3)
 - [[RFC] Global Function Merging](https://discourse.llvm.org/t/rfc-global-function-merging/82608#post_7)
-- [How to add custom linalg named ops using OpDSL?](https://discourse.llvm.org/t/how-to-add-custom-linalg-named-ops-using-opdsl/83200#post_2)
 <!-- DISCOURSE-LLVM:END -->
