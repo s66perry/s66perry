@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_3)
+- [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_4)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_10)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_9)
 - [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_3)
-- [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_2)
-- [I&#39;m having some problems with share memory in GPU dialect](https://discourse.llvm.org/t/im-having-some-problems-with-share-memory-in-gpu-dialect/83206#post_2)
-- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_4)
-- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_3)
 <!-- DISCOURSE-LLVM:END -->
