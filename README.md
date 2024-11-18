@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_5)
+- [[RFC] Finer-grained non-integral pointer properties](https://discourse.llvm.org/t/rfc-finer-grained-non-integral-pointer-properties/83176#post_2)
+- [Function level Instrumented PGO](https://discourse.llvm.org/t/function-level-instrumented-pgo/83174#post_6)
 - [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_6)
 - [Question about static auto-initialization](https://discourse.llvm.org/t/question-about-static-auto-initialization/83177#post_5)
-- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_13)
-- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_12)
-- [&quot;cannot guarantee tail call due to mismatched varargs&quot;](https://discourse.llvm.org/t/cannot-guarantee-tail-call-due-to-mismatched-varargs/82769#post_7)
 <!-- DISCOURSE-LLVM:END -->
