@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #568, November 18th 2024](https://discourse.llvm.org/t/llvm-weekly-568-november-18th-2024/83214#post_1)
+- [Function level Instrumented PGO](https://discourse.llvm.org/t/function-level-instrumented-pgo/83174#post_7)
+- [Tuning up constraint elimination?](https://discourse.llvm.org/t/tuning-up-constraint-elimination/83213#post_1)
 - [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_5)
 - [[RFC] Finer-grained non-integral pointer properties](https://discourse.llvm.org/t/rfc-finer-grained-non-integral-pointer-properties/83176#post_2)
-- [Function level Instrumented PGO](https://discourse.llvm.org/t/function-level-instrumented-pgo/83174#post_6)
-- [Memref pass help](https://discourse.llvm.org/t/memref-pass-help/83197#post_6)
-- [Question about static auto-initialization](https://discourse.llvm.org/t/question-about-static-auto-initialization/83177#post_5)
 <!-- DISCOURSE-LLVM:END -->
