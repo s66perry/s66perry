@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_2)
-- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_1)
-- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_2)
-- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=4#post_62)
-- [Generating dialect specific builder from tablegen](https://discourse.llvm.org/t/generating-dialect-specific-builder-from-tablegen/83194#post_5)
+- [Can&#39;t/cannot/can not in diagnostic messages](https://discourse.llvm.org/t/cant-cannot-can-not-in-diagnostic-messages/83171#post_6)
+- [[RFC] Global Function Merging](https://discourse.llvm.org/t/rfc-global-function-merging/82608#post_8)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=4#post_63)
+- [I&#39;m having some problems with share memory in GPU dialect](https://discourse.llvm.org/t/im-having-some-problems-with-share-memory-in-gpu-dialect/83206#post_1)
+- [[Tablegen] Suggestion about tablegen error message](https://discourse.llvm.org/t/tablegen-suggestion-about-tablegen-error-message/83149#post_8)
 <!-- DISCOURSE-LLVM:END -->
