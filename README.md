@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Generating dialect specific builder from tablegen](https://discourse.llvm.org/t/generating-dialect-specific-builder-from-tablegen/83194#post_4)
-- [[RFC] Replacing getelementptr with ptradd](https://discourse.llvm.org/t/rfc-replacing-getelementptr-with-ptradd/68699?page=2#post_39)
-- [How to add custom linalg named ops using OpDSL?](https://discourse.llvm.org/t/how-to-add-custom-linalg-named-ops-using-opdsl/83200#post_6)
-- [Leak Sanitizer unable to detect leak for global dynamic variables.&lpar;Some exceptional cases&rpar;&rpar;](https://discourse.llvm.org/t/leak-sanitizer-unable-to-detect-leak-for-global-dynamic-variables-some-exceptional-cases/83199#post_2)
-- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_7)
+- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_1)
+- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_2)
+- [A bytecode for &lpar;LLDB&rpar; data formatters](https://discourse.llvm.org/t/a-bytecode-for-lldb-data-formatters/82696?page=4#post_62)
+- [Generating dialect specific builder from tablegen](https://discourse.llvm.org/t/generating-dialect-specific-builder-from-tablegen/83194#post_5)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_8)
 <!-- DISCOURSE-LLVM:END -->
