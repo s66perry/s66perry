@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Verification of Accurate Debug Information in BOLT After Optimizations](https://discourse.llvm.org/t/verification-of-accurate-debug-information-in-bolt-after-optimizations/82391#post_12)
-- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_8)
-- [Add reduction support to SCFToGPU](https://discourse.llvm.org/t/add-reduction-support-to-scftogpu/83232#post_3)
-- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_8)
-- [Add reduction support to SCFToGPU](https://discourse.llvm.org/t/add-reduction-support-to-scftogpu/83232#post_2)
+- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_11)
+- [[RFC] Multilib custom flags](https://discourse.llvm.org/t/rfc-multilib-custom-flags/81058#post_18)
+- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_10)
+- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_8)
+- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_9)
 <!-- DISCOURSE-LLVM:END -->
