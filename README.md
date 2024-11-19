@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_18)
+- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_12)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_17)
+- [&quot;cannot guarantee tail call due to mismatched varargs&quot;](https://discourse.llvm.org/t/cannot-guarantee-tail-call-due-to-mismatched-varargs/82769#post_8)
 - [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_6)
-- [[Clang 19.1.1 Debugging Issue] breaking on first line of any function has *this undefined](https://discourse.llvm.org/t/clang-19-1-1-debugging-issue-breaking-on-first-line-of-any-function-has-this-undefined/83169#post_3)
-- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_13)
-- [[RFC] Finer-grained non-integral pointer properties](https://discourse.llvm.org/t/rfc-finer-grained-non-integral-pointer-properties/83176#post_3)
-- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
