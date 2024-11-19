@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Multilib custom flags](https://discourse.llvm.org/t/rfc-multilib-custom-flags/81058#post_17)
-- [Verification of Accurate Debug Information in BOLT After Optimizations](https://discourse.llvm.org/t/verification-of-accurate-debug-information-in-bolt-after-optimizations/82391#post_11)
-- [[RFC] Multilib custom flags](https://discourse.llvm.org/t/rfc-multilib-custom-flags/81058#post_16)
-- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_11)
-- [Verification of Accurate Debug Information in BOLT After Optimizations](https://discourse.llvm.org/t/verification-of-accurate-debug-information-in-bolt-after-optimizations/82391#post_10)
+- [[CFP] The 16th Open Source Development Tools Conference &lpar;OSDTConf2024&rpar;](https://discourse.llvm.org/t/cfp-the-16th-open-source-development-tools-conference-osdtconf2024/83231#post_1)
+- [LLVM 19.1.4 Released!](https://discourse.llvm.org/t/llvm-19-1-4-released/83230#post_1)
+- [Symbol resolution: where it should be done?](https://discourse.llvm.org/t/symbol-resolution-where-it-should-be-done/80089#post_4)
+- [Unable to distinguish between AggregatedLBREntry types FT and FT_EXTERNAL_ORIGIN without binary information](https://discourse.llvm.org/t/unable-to-distinguish-between-aggregatedlbrentry-types-ft-and-ft-external-origin-without-binary-information/80672#post_2)
+- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_7)
 <!-- DISCOURSE-LLVM:END -->
