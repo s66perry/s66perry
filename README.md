@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_4)
-- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_6)
-- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_5)
-- [Emit MLIR in &quot;standard&quot; dialect from flang &lpar;flang-new&rpar; instead of MLIR in FIR dialect?](https://discourse.llvm.org/t/emit-mlir-in-standard-dialect-from-flang-flang-new-instead-of-mlir-in-fir-dialect/83229#post_1)
-- [Leak Sanitizer unable to detect leak for global dynamic variables.&lpar;Some exceptional cases&rpar;&rpar;](https://discourse.llvm.org/t/leak-sanitizer-unable-to-detect-leak-for-global-dynamic-variables-some-exceptional-cases/83199#post_3)
+- [How to preserve custom attributes in memref.alloca during -normalize-memrefs pass](https://discourse.llvm.org/t/how-to-preserve-custom-attributes-in-memref-alloca-during-normalize-memrefs-pass/83218#post_4)
+- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_10)
+- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_9)
+- [RFC: `LLVM_EXPERIMENTAL_TARGETS_TO_BUILD` helps no one](https://discourse.llvm.org/t/rfc-llvm-experimental-targets-to-build-helps-no-one/83148#post_7)
+- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_8)
 <!-- DISCOURSE-LLVM:END -->
