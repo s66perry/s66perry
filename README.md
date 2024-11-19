@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Verification of Accurate Debug Information in BOLT After Optimizations](https://discourse.llvm.org/t/verification-of-accurate-debug-information-in-bolt-after-optimizations/82391#post_12)
+- [RFC: Function pointers as integers beyond wasm](https://discourse.llvm.org/t/rfc-function-pointers-as-integers-beyond-wasm/83208#post_8)
+- [Add reduction support to SCFToGPU](https://discourse.llvm.org/t/add-reduction-support-to-scftogpu/83232#post_3)
 - [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_8)
 - [Add reduction support to SCFToGPU](https://discourse.llvm.org/t/add-reduction-support-to-scftogpu/83232#post_2)
-- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_7)
-- [Add reduction support to SCFToGPU](https://discourse.llvm.org/t/add-reduction-support-to-scftogpu/83232#post_1)
-- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_6)
 <!-- DISCOURSE-LLVM:END -->
