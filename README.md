@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to translate C/C++ code to MLIR directly?](https://discourse.llvm.org/t/how-to-translate-c-c-code-to-mlir-directly/83222#post_3)
-- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_4)
-- [Verification of Accurate Debug Information in BOLT After Optimizations](https://discourse.llvm.org/t/verification-of-accurate-debug-information-in-bolt-after-optimizations/82391#post_8)
-- [How to translate C/C++ code to MLIR directly?](https://discourse.llvm.org/t/how-to-translate-c-c-code-to-mlir-directly/83222#post_2)
-- [Tuning up constraint elimination?](https://discourse.llvm.org/t/tuning-up-constraint-elimination/83213#post_2)
+- [Running execution engine from Python](https://discourse.llvm.org/t/running-execution-engine-from-python/83205#post_4)
+- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_6)
+- [[RFC] Vector-DDG: For Better Visualization and Verification of Vectorized LLVM-IR](https://discourse.llvm.org/t/rfc-vector-ddg-for-better-visualization-and-verification-of-vectorized-llvm-ir/83202#post_5)
+- [Emit MLIR in &quot;standard&quot; dialect from flang &lpar;flang-new&rpar; instead of MLIR in FIR dialect?](https://discourse.llvm.org/t/emit-mlir-in-standard-dialect-from-flang-flang-new-instead-of-mlir-in-fir-dialect/83229#post_1)
+- [Leak Sanitizer unable to detect leak for global dynamic variables.&lpar;Some exceptional cases&rpar;&rpar;](https://discourse.llvm.org/t/leak-sanitizer-unable-to-detect-leak-for-global-dynamic-variables-some-exceptional-cases/83199#post_3)
 <!-- DISCOURSE-LLVM:END -->
