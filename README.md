@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_9)
-- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_8)
-- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_7)
-- [Why was post-misched originally designed with only a TopDown direction?](https://discourse.llvm.org/t/why-was-post-misched-originally-designed-with-only-a-topdown-direction/82967#post_8)
-- [Is this a bug releated to copy constructor and constexpr?](https://discourse.llvm.org/t/is-this-a-bug-releated-to-copy-constructor-and-constexpr/83228#post_5)
+- [Ideas about C calling convention lowering to LLVM IR](https://discourse.llvm.org/t/ideas-about-c-calling-convention-lowering-to-llvm-ir/83126#post_14)
+- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245#post_1)
+- [[RFCish] Support for discontinuous functions](https://discourse.llvm.org/t/rfcish-support-for-discontinuous-functions/83244#post_1)
+- [Some issues with converting func and memref to emitc](https://discourse.llvm.org/t/some-issues-with-converting-func-and-memref-to-emitc/81136#post_2)
+- [How to transform old MLIR version of code to newest/other version?](https://discourse.llvm.org/t/how-to-transform-old-mlir-version-of-code-to-newest-other-version/83243#post_1)
 <!-- DISCOURSE-LLVM:END -->
