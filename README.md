@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Clang 19.1.1 Debugging Issue] breaking on first line of any function has *this undefined](https://discourse.llvm.org/t/clang-19-1-1-debugging-issue-breaking-on-first-line-of-any-function-has-this-undefined/83169#post_6)
+- [[OpenMP] Should -fopenmp-version=&lt;less-than-45&gt; be allowed?](https://discourse.llvm.org/t/openmp-should-fopenmp-version-less-than-45-be-allowed/83257#post_1)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146#post_20)
+- [Emit MLIR in &quot;standard&quot; dialect from flang &lpar;flang-new&rpar; instead of MLIR in FIR dialect?](https://discourse.llvm.org/t/emit-mlir-in-standard-dialect-from-flang-flang-new-instead-of-mlir-in-fir-dialect/83229#post_4)
 - [Guidance on modelling numerical types in operations](https://discourse.llvm.org/t/guidance-on-modelling-numerical-types-in-operations/83256#post_2)
-- [Guidance on modelling numerical types in operations](https://discourse.llvm.org/t/guidance-on-modelling-numerical-types-in-operations/83256#post_1)
-- [How to exit with error message in MLIR](https://discourse.llvm.org/t/how-to-exit-with-error-message-in-mlir/83204#post_2)
-- [Building clang 19 on old machine](https://discourse.llvm.org/t/building-clang-19-on-old-machine/83249#post_2)
-- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_57)
 <!-- DISCOURSE-LLVM:END -->
