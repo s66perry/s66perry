@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Guidance on modelling numerical types in operations](https://discourse.llvm.org/t/guidance-on-modelling-numerical-types-in-operations/83256#post_2)
+- [Guidance on modelling numerical types in operations](https://discourse.llvm.org/t/guidance-on-modelling-numerical-types-in-operations/83256#post_1)
 - [How to exit with error message in MLIR](https://discourse.llvm.org/t/how-to-exit-with-error-message-in-mlir/83204#post_2)
 - [Building clang 19 on old machine](https://discourse.llvm.org/t/building-clang-19-on-old-machine/83249#post_2)
 - [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_57)
-- [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_11)
-- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245#post_8)
 <!-- DISCOURSE-LLVM:END -->
