@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] IR2Builder - An LLVM IR converter to C++ IRBuilder calls](https://discourse.llvm.org/t/rfc-ir2builder-an-llvm-ir-converter-to-c-irbuilder-calls/83122#post_10)
-- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_9)
-- [How to transform old MLIR version of code to newest/other version?](https://discourse.llvm.org/t/how-to-transform-old-mlir-version-of-code-to-newest-other-version/83243#post_2)
-- [[Clang 19.1.1 Debugging Issue] breaking on first line of any function has *this undefined](https://discourse.llvm.org/t/clang-19-1-1-debugging-issue-breaking-on-first-line-of-any-function-has-this-undefined/83169#post_5)
-- [[RFC] IR2Builder - An LLVM IR converter to C++ IRBuilder calls](https://discourse.llvm.org/t/rfc-ir2builder-an-llvm-ir-converter-to-c-irbuilder-calls/83122#post_9)
+- [How to exit with error message in MLIR](https://discourse.llvm.org/t/how-to-exit-with-error-message-in-mlir/83204#post_2)
+- [Building clang 19 on old machine](https://discourse.llvm.org/t/building-clang-19-on-old-machine/83249#post_2)
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_57)
+- [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_11)
+- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245#post_8)
 <!-- DISCOURSE-LLVM:END -->
