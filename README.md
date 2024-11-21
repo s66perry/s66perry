@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] IR2Builder - An LLVM IR converter to C++ IRBuilder calls](https://discourse.llvm.org/t/rfc-ir2builder-an-llvm-ir-converter-to-c-irbuilder-calls/83122#post_11)
-- [Register indexed with update addressing mode support using ComplexPattern in td file](https://discourse.llvm.org/t/register-indexed-with-update-addressing-mode-support-using-complexpattern-in-td-file/83265#post_1)
-- [Building clang 19 on old machine](https://discourse.llvm.org/t/building-clang-19-on-old-machine/83249#post_3)
-- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_10)
-- [Add a MIPeephole pass for ARM in Machine SSA step](https://discourse.llvm.org/t/add-a-mipeephole-pass-for-arm-in-machine-ssa-step/83237#post_3)
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_59)
+- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245#post_13)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146?page=2#post_22)
+- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245#post_12)
+- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245#post_11)
 <!-- DISCOURSE-LLVM:END -->
