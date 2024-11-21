@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[OpenMP] Should -fopenmp-version=&lt;less-than-45&gt; be allowed?](https://discourse.llvm.org/t/openmp-should-fopenmp-version-less-than-45-be-allowed/83257#post_2)
+- [Tuning up constraint elimination?](https://discourse.llvm.org/t/tuning-up-constraint-elimination/83213#post_8)
+- [Tuning up constraint elimination?](https://discourse.llvm.org/t/tuning-up-constraint-elimination/83213#post_7)
 - [Tuning up constraint elimination?](https://discourse.llvm.org/t/tuning-up-constraint-elimination/83213#post_6)
 - [Tuning up constraint elimination?](https://discourse.llvm.org/t/tuning-up-constraint-elimination/83213#post_5)
-- [Tuning up constraint elimination?](https://discourse.llvm.org/t/tuning-up-constraint-elimination/83213#post_4)
-- [Builtin overload](https://discourse.llvm.org/t/builtin-overload/83239#post_4)
-- [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245#post_9)
 <!-- DISCOURSE-LLVM:END -->
