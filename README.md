@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RISC-V tests show reduced spills in llvm-mos backend](https://discourse.llvm.org/t/risc-v-tests-show-reduced-spills-in-llvm-mos-backend/83290#post_2)
 - [RISC-V tests show reduced spills in llvm-mos backend](https://discourse.llvm.org/t/risc-v-tests-show-reduced-spills-in-llvm-mos-backend/83290#post_1)
 - [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146?page=2#post_25)
 - [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361#post_18)
 - [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361#post_17)
-- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
