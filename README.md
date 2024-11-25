@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unresolved externals with appendend underscore](https://discourse.llvm.org/t/unresolved-externals-with-appendend-underscore/83305#post_10)
+- [Flang-new link issue with complex number division](https://discourse.llvm.org/t/flang-new-link-issue-with-complex-number-division/83328#post_4)
+- [Cancelling currently scheduled November and December TOSA community meetings](https://discourse.llvm.org/t/cancelling-currently-scheduled-november-and-december-tosa-community-meetings/83333#post_1)
 - [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_5)
 - [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_4)
-- [Vector dialect and Google Highway?](https://discourse.llvm.org/t/vector-dialect-and-google-highway/83332#post_1)
-- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_3)
-- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_2)
 <!-- DISCOURSE-LLVM:END -->
