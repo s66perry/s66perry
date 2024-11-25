@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Extending MachO&#39;s Balanced Partitioning Feature to ELF](https://discourse.llvm.org/t/rfc-extending-machos-balanced-partitioning-feature-to-elf/83157#post_3)
+- [Use Smallest types in IR](https://discourse.llvm.org/t/use-smallest-types-in-ir/83301#post_3)
+- [Use Smallest types in IR](https://discourse.llvm.org/t/use-smallest-types-in-ir/83301#post_2)
 - [[RFC] Introducing classes for the codegen driven by new pass manager](https://discourse.llvm.org/t/rfc-introducing-classes-for-the-codegen-driven-by-new-pass-manager/55877?page=2#post_26)
 - [Unresolved externals with appendend underscore](https://discourse.llvm.org/t/unresolved-externals-with-appendend-underscore/83305#post_1)
-- [WIP - MLIR News 72th Edition &lpar;26th Nov 2024&rpar;](https://discourse.llvm.org/t/wip-mlir-news-72th-edition-26th-nov-2024/83304#post_1)
-- [Stack_save and Stack_restore Intrinsics](https://discourse.llvm.org/t/stack-save-and-stack-restore-intrinsics/83297#post_4)
-- [Clang&#39;s tooling could use your help!](https://discourse.llvm.org/t/clangs-tooling-could-use-your-help/83116?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
