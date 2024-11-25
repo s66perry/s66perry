@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISC-V tests show reduced spills in llvm-mos backend](https://discourse.llvm.org/t/risc-v-tests-show-reduced-spills-in-llvm-mos-backend/83290#post_5)
-- [Unresolved externals with appendend underscore](https://discourse.llvm.org/t/unresolved-externals-with-appendend-underscore/83305#post_8)
-- [[RFCish] Support for discontinuous functions](https://discourse.llvm.org/t/rfcish-support-for-discontinuous-functions/83244#post_5)
-- [[RFC] Add Template Mustache Language to the Support library](https://discourse.llvm.org/t/rfc-add-template-mustache-language-to-the-support-library/82439#post_18)
-- [Flang-new vs Universal C Runtime &lpar;ucrt&rpar;](https://discourse.llvm.org/t/flang-new-vs-universal-c-runtime-ucrt/83293#post_17)
+- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_1)
+- [Flang-new vs Universal C Runtime &lpar;ucrt&rpar;](https://discourse.llvm.org/t/flang-new-vs-universal-c-runtime-ucrt/83293#post_18)
+- [Unresolved externals with appendend underscore](https://discourse.llvm.org/t/unresolved-externals-with-appendend-underscore/83305#post_9)
+- [Flang-new link issue with complex number division](https://discourse.llvm.org/t/flang-new-link-issue-with-complex-number-division/83328#post_3)
+- [Flang-new link issue with complex number division](https://discourse.llvm.org/t/flang-new-link-issue-with-complex-number-division/83328#post_2)
 <!-- DISCOURSE-LLVM:END -->
