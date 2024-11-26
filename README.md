@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Cambridge Compiler Social Dec. 4th at the University&#39;s Computer Laboratory](https://discourse.llvm.org/t/cambridge-compiler-social-dec-4th-at-the-universitys-computer-laboratory/83343#post_1)
-- [[RFC][SPGO][PassPipelines] Adding InstCombinePass and SimplifyCFGPass before SampleProfileLoaderPass when building in SPGO mode](https://discourse.llvm.org/t/rfc-spgo-passpipelines-adding-instcombinepass-and-simplifycfgpass-before-sampleprofileloaderpass-when-building-in-spgo-mode/83340#post_1)
-- [Flang-new vs exceptions](https://discourse.llvm.org/t/flang-new-vs-exceptions/83338#post_1)
-- [Flang-new optimization](https://discourse.llvm.org/t/flang-new-optimization/83337#post_1)
-- [Unresolved externals with appendend underscore](https://discourse.llvm.org/t/unresolved-externals-with-appendend-underscore/83305#post_12)
+- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=3#post_46)
+- [RISC-V tests show reduced spills in llvm-mos backend](https://discourse.llvm.org/t/risc-v-tests-show-reduced-spills-in-llvm-mos-backend/83290#post_6)
+- [Missing mlir::LLVM::DIFlags in mlir::LLVM::DISubprogram](https://discourse.llvm.org/t/missing-mlir-diflags-in-mlir-disubprogram/83287#post_3)
+- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=3#post_45)
+- [Flang-new vs Universal C Runtime &lpar;ucrt&rpar;](https://discourse.llvm.org/t/flang-new-vs-universal-c-runtime-ucrt/83293?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
