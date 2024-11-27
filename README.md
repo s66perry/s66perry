@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Flang-new vs exceptions](https://discourse.llvm.org/t/flang-new-vs-exceptions/83338#post_8)
-- [Flang-new vs exceptions](https://discourse.llvm.org/t/flang-new-vs-exceptions/83338#post_7)
-- [Why we need &quot;Rename Disconnected Subregister Components&quot; Pass?](https://discourse.llvm.org/t/why-we-need-rename-disconnected-subregister-components-pass/83351#post_3)
-- [[RFC] autocheck: A Source Code Analysis Tool based on Clang/LLVM for Automotive](https://discourse.llvm.org/t/rfc-autocheck-a-source-code-analysis-tool-based-on-clang-llvm-for-automotive/76333#post_15)
-- [[RFC][RISC-V] Add support for MIPS P8700 CPU](https://discourse.llvm.org/t/rfc-risc-v-add-support-for-mips-p8700-cpu/83365#post_1)
+- [PGO continuation mode reports `__llvm_profile_counter_bias is undefined` on large shared library&lpar;.so&rpar; LLVM-15](https://discourse.llvm.org/t/pgo-continuation-mode-reports-llvm-profile-counter-bias-is-undefined-on-large-shared-library-so-llvm-15/83370#post_1)
+- [Flang-new vs Universal C Runtime &lpar;ucrt&rpar;](https://discourse.llvm.org/t/flang-new-vs-universal-c-runtime-ucrt/83293?page=2#post_23)
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_2)
+- [Flang-new vs exceptions](https://discourse.llvm.org/t/flang-new-vs-exceptions/83338#post_10)
+- [Flang-new vs exceptions](https://discourse.llvm.org/t/flang-new-vs-exceptions/83338#post_9)
 <!-- DISCOURSE-LLVM:END -->
