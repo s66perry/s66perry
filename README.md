@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Use Smallest types in IR](https://discourse.llvm.org/t/use-smallest-types-in-ir/83301#post_6)
+- [Why does clang parse device/global functions once again when compiling for host target?](https://discourse.llvm.org/t/why-does-clang-parse-device-global-functions-once-again-when-compiling-for-host-target/83357#post_1)
+- [Memory leak detection questions](https://discourse.llvm.org/t/memory-leak-detection-questions/83356#post_1)
+- [Vector dialect and Google Highway?](https://discourse.llvm.org/t/vector-dialect-and-google-highway/83332#post_9)
 - [Looking for good starting tasks](https://discourse.llvm.org/t/looking-for-good-starting-tasks/83354#post_4)
-- [How to translate C/C++ code to MLIR directly?](https://discourse.llvm.org/t/how-to-translate-c-c-code-to-mlir-directly/83222#post_5)
-- [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_15)
-- [Add reduction support to SCFToGPU](https://discourse.llvm.org/t/add-reduction-support-to-scftogpu/83232#post_5)
-- [LOH conflicting with MachineOutliner](https://discourse.llvm.org/t/loh-conflicting-with-machineoutliner/83279#post_4)
 <!-- DISCOURSE-LLVM:END -->
