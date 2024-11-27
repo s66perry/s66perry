@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_17)
 - [MLIR - NumOfOperands limitation](https://discourse.llvm.org/t/mlir-numofoperands-limitation/83362#post_10)
 - [MLIR - NumOfOperands limitation](https://discourse.llvm.org/t/mlir-numofoperands-limitation/83362#post_9)
 - [MLIR - NumOfOperands limitation](https://discourse.llvm.org/t/mlir-numofoperands-limitation/83362#post_8)
 - [MLIR - NumOfOperands limitation](https://discourse.llvm.org/t/mlir-numofoperands-limitation/83362#post_7)
-- [Sanitizer crash on Windows when using exceptions](https://discourse.llvm.org/t/sanitizer-crash-on-windows-when-using-exceptions/83093#post_2)
 <!-- DISCOURSE-LLVM:END -->
