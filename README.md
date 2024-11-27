@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR - NumOfOperands limitation](https://discourse.llvm.org/t/mlir-numofoperands-limitation/83362#post_3)
+- [MLIR - NumOfOperands limitation](https://discourse.llvm.org/t/mlir-numofoperands-limitation/83362#post_2)
+- [MLIR - NumOfOperands limitation](https://discourse.llvm.org/t/mlir-numofoperands-limitation/83362#post_1)
+- [Why does clang parse device/global functions once again when compiling for host target?](https://discourse.llvm.org/t/why-does-clang-parse-device-global-functions-once-again-when-compiling-for-host-target/83357#post_3)
 - [Flang-new vs exceptions](https://discourse.llvm.org/t/flang-new-vs-exceptions/83338#post_6)
-- [PGO optimization using optimization report](https://discourse.llvm.org/t/pgo-optimization-using-optimization-report/83346#post_2)
-- [Dynamic shadow and origin bases for MSan?](https://discourse.llvm.org/t/dynamic-shadow-and-origin-bases-for-msan/83361#post_1)
-- [Why does clang parse device/global functions once again when compiling for host target?](https://discourse.llvm.org/t/why-does-clang-parse-device-global-functions-once-again-when-compiling-for-host-target/83357#post_2)
-- [Use Smallest types in IR](https://discourse.llvm.org/t/use-smallest-types-in-ir/83301#post_6)
 <!-- DISCOURSE-LLVM:END -->
