@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Flang-new vs exceptions](https://discourse.llvm.org/t/flang-new-vs-exceptions/83338#post_6)
+- [PGO optimization using optimization report](https://discourse.llvm.org/t/pgo-optimization-using-optimization-report/83346#post_2)
+- [Dynamic shadow and origin bases for MSan?](https://discourse.llvm.org/t/dynamic-shadow-and-origin-bases-for-msan/83361#post_1)
+- [Why does clang parse device/global functions once again when compiling for host target?](https://discourse.llvm.org/t/why-does-clang-parse-device-global-functions-once-again-when-compiling-for-host-target/83357#post_2)
 - [Use Smallest types in IR](https://discourse.llvm.org/t/use-smallest-types-in-ir/83301#post_6)
-- [Why does clang parse device/global functions once again when compiling for host target?](https://discourse.llvm.org/t/why-does-clang-parse-device-global-functions-once-again-when-compiling-for-host-target/83357#post_1)
-- [Memory leak detection questions](https://discourse.llvm.org/t/memory-leak-detection-questions/83356#post_1)
-- [Vector dialect and Google Highway?](https://discourse.llvm.org/t/vector-dialect-and-google-highway/83332#post_9)
-- [Looking for good starting tasks](https://discourse.llvm.org/t/looking-for-good-starting-tasks/83354#post_4)
 <!-- DISCOURSE-LLVM:END -->
