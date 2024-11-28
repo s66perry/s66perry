@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_14)
+- [PSA: Python binding dependencies changing](https://discourse.llvm.org/t/psa-python-binding-dependencies-changing/83376#post_1)
+- [Use Smallest types in IR](https://discourse.llvm.org/t/use-smallest-types-in-ir/83301#post_10)
 - [RFC: LLD feature for controlling for code-size-dependent measurement bias](https://discourse.llvm.org/t/rfc-lld-feature-for-controlling-for-code-size-dependent-measurement-bias/83334#post_4)
 - [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_13)
-- [How to profile edge frequencies in the CFG of a program?](https://discourse.llvm.org/t/how-to-profile-edge-frequencies-in-the-cfg-of-a-program/82719#post_2)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349#post_4)
-- [Recursive types](https://discourse.llvm.org/t/recursive-types/82707#post_8)
 <!-- DISCOURSE-LLVM:END -->
