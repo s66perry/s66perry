@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR] How to know the value defined inside the region?](https://discourse.llvm.org/t/mlir-how-to-know-the-value-defined-inside-the-region/83378#post_3)
+- [[MLIR] How to know the value defined inside the region?](https://discourse.llvm.org/t/mlir-how-to-know-the-value-defined-inside-the-region/83378#post_2)
+- [Potentially missed GVN/PRE optimization for prefix sum pattern?](https://discourse.llvm.org/t/potentially-missed-gvn-pre-optimization-for-prefix-sum-pattern/82796#post_7)
 - [Potentially missed GVN/PRE optimization for prefix sum pattern?](https://discourse.llvm.org/t/potentially-missed-gvn-pre-optimization-for-prefix-sum-pattern/82796#post_6)
 - [Potentially missed GVN/PRE optimization for prefix sum pattern?](https://discourse.llvm.org/t/potentially-missed-gvn-pre-optimization-for-prefix-sum-pattern/82796#post_5)
-- [Potentially missed GVN/PRE optimization for prefix sum pattern?](https://discourse.llvm.org/t/potentially-missed-gvn-pre-optimization-for-prefix-sum-pattern/82796#post_4)
-- [Simple addressing mode generation for MOV instruction](https://discourse.llvm.org/t/simple-addressing-mode-generation-for-mov-instruction/83379#post_1)
-- [[MLIR] How to know the value defined inside the region?](https://discourse.llvm.org/t/mlir-how-to-know-the-value-defined-inside-the-region/83378#post_1)
 <!-- DISCOURSE-LLVM:END -->
