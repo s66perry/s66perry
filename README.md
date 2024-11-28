@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Flang-new does not compile with clang-cl](https://discourse.llvm.org/t/flang-new-does-not-compile-with-clang-cl/83319#post_3)
+- [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388#post_7)
 - [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388#post_6)
 - [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388#post_5)
 - [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388#post_4)
-- [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388#post_3)
-- [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388#post_2)
 <!-- DISCOURSE-LLVM:END -->
