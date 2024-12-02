@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_5)
+- [Remote Debug of AArch64 Targets Running QNX](https://discourse.llvm.org/t/remote-debug-of-aarch64-targets-running-qnx/83326#post_5)
+- [[RFC] Attribute for creating function clones with callsite information](https://discourse.llvm.org/t/rfc-attribute-for-creating-function-clones-with-callsite-information/83419#post_7)
 - [Dual types](https://discourse.llvm.org/t/dual-types/83443#post_2)
 - [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_8)
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_1)
-- [Dual types](https://discourse.llvm.org/t/dual-types/83443#post_1)
-- [2025 EuroLLVM Program Committee Volunteers Needed](https://discourse.llvm.org/t/2025-eurollvm-program-committee-volunteers-needed/83441#post_1)
 <!-- DISCOURSE-LLVM:END -->
