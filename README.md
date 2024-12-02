@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[analyzer][RFC] Taming Z3 query times](https://discourse.llvm.org/t/analyzer-rfc-taming-z3-query-times/79520?page=2#post_25)
-- [Lowering scf::while to emitc](https://discourse.llvm.org/t/lowering-scf-while-to-emitc/82977#post_6)
-- [[RFC] Attribute for creating function clones with callsite information](https://discourse.llvm.org/t/rfc-attribute-for-creating-function-clones-with-callsite-information/83419#post_4)
-- [Hey guys, a compiler with llvm18 and for beginners!](https://discourse.llvm.org/t/hey-guys-a-compiler-with-llvm18-and-for-beginners/83438#post_1)
-- [What is &quot;Your org has enabled the Graphite merge queue for merging into main&quot; on a PR?](https://discourse.llvm.org/t/what-is-your-org-has-enabled-the-graphite-merge-queue-for-merging-into-main-on-a-pr/83433#post_3)
+- [[RFC] Attribute for creating function clones with callsite information](https://discourse.llvm.org/t/rfc-attribute-for-creating-function-clones-with-callsite-information/83419#post_5)
+- [How to reserve a speical register for partial instrunction](https://discourse.llvm.org/t/how-to-reserve-a-speical-register-for-partial-instrunction/83426#post_3)
+- [Register indexed with update addressing mode support using ComplexPattern in td file](https://discourse.llvm.org/t/register-indexed-with-update-addressing-mode-support-using-complexpattern-in-td-file/83265#post_6)
+- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_8)
+- [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_17)
 <!-- DISCOURSE-LLVM:END -->
