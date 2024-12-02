@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Attribute for creating function clones with callsite information](https://discourse.llvm.org/t/rfc-attribute-for-creating-function-clones-with-callsite-information/83419#post_5)
-- [How to reserve a speical register for partial instrunction](https://discourse.llvm.org/t/how-to-reserve-a-speical-register-for-partial-instrunction/83426#post_3)
-- [Register indexed with update addressing mode support using ComplexPattern in td file](https://discourse.llvm.org/t/register-indexed-with-update-addressing-mode-support-using-complexpattern-in-td-file/83265#post_6)
-- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_8)
-- [Optimizing the Linux kernel with AutoFDO including ThinLTO and Propeller](https://discourse.llvm.org/t/optimizing-the-linux-kernel-with-autofdo-including-thinlto-and-propeller/79108#post_17)
+- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_13)
+- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_12)
+- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_11)
+- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_10)
+- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_6)
 <!-- DISCOURSE-LLVM:END -->
