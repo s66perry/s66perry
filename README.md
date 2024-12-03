@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349#post_9)
-- [Tile linalg.batch_matmul](https://discourse.llvm.org/t/tile-linalg-batch-matmul/83451#post_3)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349#post_8)
-- [Tile linalg.batch_matmul](https://discourse.llvm.org/t/tile-linalg-batch-matmul/83451#post_2)
-- [LLVM 19.1.5 Released!](https://discourse.llvm.org/t/llvm-19-1-5-released/83455#post_1)
+- [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_7)
+- [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_6)
+- [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_5)
+- [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_4)
+- [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_3)
 <!-- DISCOURSE-LLVM:END -->
