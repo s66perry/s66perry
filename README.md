@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_7)
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_13)
-- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_6)
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_12)
-- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541?page=2#post_34)
+- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_9)
+- [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_15)
+- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_16)
+- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_8)
+- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_10)
 <!-- DISCOURSE-LLVM:END -->
