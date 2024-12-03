@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_6)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Nov 18 ‘24 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-nov-18-24-6pm/83003#post_2)
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_5)
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_4)
-- [Compilation fails when stdin is read multiple times](https://discourse.llvm.org/t/compilation-fails-when-stdin-is-read-multiple-times/83459#post_1)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_54)
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541?page=2#post_33)
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541?page=2#post_32)
+- [[RFC] libc -ffreestanding / -fno-builtin](https://discourse.llvm.org/t/rfc-libc-ffreestanding-fno-builtin/75883?page=3#post_51)
+- [[RFC] Separate LLVM Vim utils into its own repo](https://discourse.llvm.org/t/rfc-separate-llvm-vim-utils-into-its-own-repo/67541?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
