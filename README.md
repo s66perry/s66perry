@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lowering scf::while to emitc](https://discourse.llvm.org/t/lowering-scf-while-to-emitc/82977#post_8)
 - [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_19)
 - [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117#post_18)
 - [Lowering scf::while to emitc](https://discourse.llvm.org/t/lowering-scf-while-to-emitc/82977#post_7)
 - [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_5)
-- [Remote Debug of AArch64 Targets Running QNX](https://discourse.llvm.org/t/remote-debug-of-aarch64-targets-running-qnx/83326#post_5)
 <!-- DISCOURSE-LLVM:END -->
