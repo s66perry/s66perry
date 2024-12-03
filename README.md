@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_9)
 - [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_7)
 - [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_6)
 - [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_5)
 - [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_4)
-- [Issue with Using !listflatten Operator in llvm-tblgen Compilation](https://discourse.llvm.org/t/issue-with-using-listflatten-operator-in-llvm-tblgen-compilation/83456#post_3)
 <!-- DISCOURSE-LLVM:END -->
