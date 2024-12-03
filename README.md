@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_14)
-- [How to relax instruction to the insturction sequence?](https://discourse.llvm.org/t/how-to-relax-instruction-to-the-insturction-sequence/83311#post_2)
-- [[RFC] Format attribute: `__attribute__&lpar;&lpar;format_like&lpar;...&rpar;&rpar;&rpar;`](https://discourse.llvm.org/t/rfc-format-attribute-attribute-format-like/83076#post_17)
-- [Compiler crash](https://discourse.llvm.org/t/compiler-crash/83401#post_5)
-- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_9)
+- [Encoding intrinsic overload types in GMIR](https://discourse.llvm.org/t/encoding-intrinsic-overload-types-in-gmir/83462#post_3)
+- [[RFC] Debug info coverage tool v2](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool-v2/83266#post_2)
+- [Encoding intrinsic overload types in GMIR](https://discourse.llvm.org/t/encoding-intrinsic-overload-types-in-gmir/83462#post_2)
+- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_16)
+- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
