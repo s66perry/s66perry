@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Subscribing to GitHub issue labels](https://discourse.llvm.org/t/subscribing-to-github-issue-labels/59527#post_7)
-- [Adding LLVM backend for RISC-V custom tensor instructions](https://discourse.llvm.org/t/adding-llvm-backend-for-risc-v-custom-tensor-instructions/79312#post_6)
-- [Subscribing to GitHub issue labels](https://discourse.llvm.org/t/subscribing-to-github-issue-labels/59527#post_6)
-- [Is propeller necessarily better than bolt?](https://discourse.llvm.org/t/is-propeller-necessarily-better-than-bolt/83387#post_5)
-- [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434?page=2#post_28)
+- [What might be the reasons to receive the message “Failed to set breakpoint site at ….. Unable to write breakpoint trap to memory”](https://discourse.llvm.org/t/what-might-be-the-reasons-to-receive-the-message-failed-to-set-breakpoint-site-at-unable-to-write-breakpoint-trap-to-memory/83464#post_4)
+- [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_16)
+- [[RFC] Spill2Reg: Selectively replace spills to stack with spills to vector registers](https://discourse.llvm.org/t/rfc-spill2reg-selectively-replace-spills-to-stack-with-spills-to-vector-registers/59630?page=2#post_22)
+- [MLIR - Assertion in PropertiesCapacity](https://discourse.llvm.org/t/mlir-assertion-in-propertiescapacity/83470#post_2)
+- [[RFC] Spill2Reg: Selectively replace spills to stack with spills to vector registers](https://discourse.llvm.org/t/rfc-spill2reg-selectively-replace-spills-to-stack-with-spills-to-vector-registers/59630?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
