@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Encoding intrinsic overload types in GMIR](https://discourse.llvm.org/t/encoding-intrinsic-overload-types-in-gmir/83462#post_7)
-- [[RFC] Debug info coverage tool v2](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool-v2/83266#post_3)
-- [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468#post_3)
-- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_61)
-- [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468#post_2)
+- [Subscribing to GitHub issue labels](https://discourse.llvm.org/t/subscribing-to-github-issue-labels/59527#post_7)
+- [Adding LLVM backend for RISC-V custom tensor instructions](https://discourse.llvm.org/t/adding-llvm-backend-for-risc-v-custom-tensor-instructions/79312#post_6)
+- [Subscribing to GitHub issue labels](https://discourse.llvm.org/t/subscribing-to-github-issue-labels/59527#post_6)
+- [Is propeller necessarily better than bolt?](https://discourse.llvm.org/t/is-propeller-necessarily-better-than-bolt/83387#post_5)
+- [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
