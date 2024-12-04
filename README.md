@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[feature requests]coverting wsl-path to windows-path when clangd run on WSL](https://discourse.llvm.org/t/feature-requests-coverting-wsl-path-to-windows-path-when-clangd-run-on-wsl/83474#post_1)
+- [[feature requests]Making clangd support compile_commands generated on WSL](https://discourse.llvm.org/t/feature-requests-making-clangd-support-compile-commands-generated-on-wsl/83473#post_1)
 - [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444?page=2#post_22)
 - [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444?page=2#post_21)
 - [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_20)
-- [[RFC] LLVM.org Website Redesign](https://discourse.llvm.org/t/rfc-llvm-org-website-redesign/79117?page=2#post_28)
-- [[analyzer][RFC] Taming Z3 query times](https://discourse.llvm.org/t/analyzer-rfc-taming-z3-query-times/79520?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
