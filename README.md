@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Encoding intrinsic overload types in GMIR](https://discourse.llvm.org/t/encoding-intrinsic-overload-types-in-gmir/83462#post_7)
+- [[RFC] Debug info coverage tool v2](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool-v2/83266#post_3)
+- [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468#post_3)
+- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=3#post_61)
 - [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468#post_2)
-- [NewGVN enablement shortcomings](https://discourse.llvm.org/t/newgvn-enablement-shortcomings/83476#post_1)
-- [[feature requests]coverting wsl-path to windows-path when clangd run on WSL](https://discourse.llvm.org/t/feature-requests-coverting-wsl-path-to-windows-path-when-clangd-run-on-wsl/83474#post_1)
-- [[feature requests]Making clangd support compile_commands generated on WSL](https://discourse.llvm.org/t/feature-requests-making-clangd-support-compile-commands-generated-on-wsl/83473#post_1)
-- [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
