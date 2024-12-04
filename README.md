@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What might be the reasons to receive the message “Failed to set breakpoint site at ….. Unable to write breakpoint trap to memory”](https://discourse.llvm.org/t/what-might-be-the-reasons-to-receive-the-message-failed-to-set-breakpoint-site-at-unable-to-write-breakpoint-trap-to-memory/83464#post_4)
-- [Is &quot;*- C++ -*-&quot; in header files still relevant?](https://discourse.llvm.org/t/is-c-in-header-files-still-relevant/83124#post_16)
-- [[RFC] Spill2Reg: Selectively replace spills to stack with spills to vector registers](https://discourse.llvm.org/t/rfc-spill2reg-selectively-replace-spills-to-stack-with-spills-to-vector-registers/59630?page=2#post_22)
-- [MLIR - Assertion in PropertiesCapacity](https://discourse.llvm.org/t/mlir-assertion-in-propertiescapacity/83470#post_2)
-- [[RFC] Spill2Reg: Selectively replace spills to stack with spills to vector registers](https://discourse.llvm.org/t/rfc-spill2reg-selectively-replace-spills-to-stack-with-spills-to-vector-registers/59630?page=2#post_21)
+- [runOneShotModuleBufferize generate bug when op is a region with memref.subview](https://discourse.llvm.org/t/runoneshotmodulebufferize-generate-bug-when-op-is-a-region-with-memref-subview/83467#post_2)
+- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_10)
+- [Maintainer availability over the holidays](https://discourse.llvm.org/t/maintainer-availability-over-the-holidays/83477#post_3)
+- [Maintainer availability over the holidays](https://discourse.llvm.org/t/maintainer-availability-over-the-holidays/83477#post_2)
+- [Maintainer availability over the holidays](https://discourse.llvm.org/t/maintainer-availability-over-the-holidays/83477#post_1)
 <!-- DISCOURSE-LLVM:END -->
