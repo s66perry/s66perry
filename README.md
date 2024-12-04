@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ConvertToLLVM and target-dependence](https://discourse.llvm.org/t/converttollvm-and-target-dependence/83481#post_1)
-- [Encoding intrinsic overload types in GMIR](https://discourse.llvm.org/t/encoding-intrinsic-overload-types-in-gmir/83462#post_8)
-- [What might be the reasons to receive the message “Failed to set breakpoint site at ….. Unable to write breakpoint trap to memory”](https://discourse.llvm.org/t/what-might-be-the-reasons-to-receive-the-message-failed-to-set-breakpoint-site-at-unable-to-write-breakpoint-trap-to-memory/83464#post_5)
-- [NewGVN enablement shortcomings](https://discourse.llvm.org/t/newgvn-enablement-shortcomings/83476#post_2)
-- [Question about custom op error](https://discourse.llvm.org/t/question-about-custom-op-error/83480#post_1)
+- [Is it possible to build Flang based on the llvmdev conda package?](https://discourse.llvm.org/t/is-it-possible-to-build-flang-based-on-the-llvmdev-conda-package/83452#post_2)
+- [ConvertToLLVM and target-dependence](https://discourse.llvm.org/t/converttollvm-and-target-dependence/83481#post_3)
+- [Question about custom op error](https://discourse.llvm.org/t/question-about-custom-op-error/83480#post_2)
+- [ConvertToLLVM and target-dependence](https://discourse.llvm.org/t/converttollvm-and-target-dependence/83481#post_2)
+- [RISC-V LLVM sync-up call December 5th 2024](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-december-5th-2024/83483#post_1)
 <!-- DISCOURSE-LLVM:END -->
