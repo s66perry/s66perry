@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[InstCombine] Can two Src type be consistent in select&lpar;cmp&rpar; pattern even width wider?](https://discourse.llvm.org/t/instcombine-can-two-src-type-be-consistent-in-select-cmp-pattern-even-width-wider/83466#post_1)
 - [[RFC] Add RISC-V Vector Extension &lpar;RVV&rpar; Dialect](https://discourse.llvm.org/t/rfc-add-risc-v-vector-extension-rvv-dialect/4146?page=3#post_43)
 - [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434?page=2#post_26)
 - [Tail padding promoted to a field with non-trivial constructors](https://discourse.llvm.org/t/tail-padding-promoted-to-a-field-with-non-trivial-constructors/83444#post_18)
 - [[RFC] New DWARF attribute for symbolication of merged functions](https://discourse.llvm.org/t/rfc-new-dwarf-attribute-for-symbolication-of-merged-functions/79434?page=2#post_25)
-- [How to relax instruction to the insturction sequence?](https://discourse.llvm.org/t/how-to-relax-instruction-to-the-insturction-sequence/83311#post_3)
 <!-- DISCOURSE-LLVM:END -->
