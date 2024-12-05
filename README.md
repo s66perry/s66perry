@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question about custom op error](https://discourse.llvm.org/t/question-about-custom-op-error/83480#post_5)
-- [[RFC] llvm-objcopy feature for editing notes](https://discourse.llvm.org/t/rfc-llvm-objcopy-feature-for-editing-notes/83491#post_4)
-- [Merging RISCVToolChain and BareMetal toolchains](https://discourse.llvm.org/t/merging-riscvtoolchain-and-baremetal-toolchains/75524#post_6)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349?page=2#post_21)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349#post_20)
+- [ConvertToLLVM and target-dependence](https://discourse.llvm.org/t/converttollvm-and-target-dependence/83481#post_6)
+- [[RFC] Raising minimum MSVC version by one patch release](https://discourse.llvm.org/t/rfc-raising-minimum-msvc-version-by-one-patch-release/83490#post_6)
+- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349?page=2#post_22)
+- [NewGVN enablement shortcomings](https://discourse.llvm.org/t/newgvn-enablement-shortcomings/83476#post_3)
+- [[RFC] Raising minimum MSVC version by one patch release](https://discourse.llvm.org/t/rfc-raising-minimum-msvc-version-by-one-patch-release/83490#post_5)
 <!-- DISCOURSE-LLVM:END -->
