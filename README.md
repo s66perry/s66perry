@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Raising minimum MSVC version by one patch release](https://discourse.llvm.org/t/rfc-raising-minimum-msvc-version-by-one-patch-release/83490#post_2)
-- [Is propeller necessarily better than bolt?](https://discourse.llvm.org/t/is-propeller-necessarily-better-than-bolt/83387#post_7)
-- [[RFC] llvm-objcopy feature for editing notes](https://discourse.llvm.org/t/rfc-llvm-objcopy-feature-for-editing-notes/83491#post_1)
-- [Is propeller necessarily better than bolt?](https://discourse.llvm.org/t/is-propeller-necessarily-better-than-bolt/83387#post_6)
-- [RFC: LLD feature for controlling for code-size-dependent measurement bias](https://discourse.llvm.org/t/rfc-lld-feature-for-controlling-for-code-size-dependent-measurement-bias/83334#post_5)
+- [I don&#39;t know how to install llvm](https://discourse.llvm.org/t/i-dont-know-how-to-install-llvm/83495#post_4)
+- [Basic block reordering and stack coloring](https://discourse.llvm.org/t/basic-block-reordering-and-stack-coloring/83496#post_1)
+- [I don&#39;t know how to install llvm](https://discourse.llvm.org/t/i-dont-know-how-to-install-llvm/83495#post_3)
+- [I don&#39;t know how to install llvm](https://discourse.llvm.org/t/i-dont-know-how-to-install-llvm/83495#post_2)
+- [I don&#39;t know how to install llvm](https://discourse.llvm.org/t/i-dont-know-how-to-install-llvm/83495#post_1)
 <!-- DISCOURSE-LLVM:END -->
