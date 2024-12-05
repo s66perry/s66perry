@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ConvertToLLVM and target-dependence](https://discourse.llvm.org/t/converttollvm-and-target-dependence/83481#post_6)
-- [[RFC] Raising minimum MSVC version by one patch release](https://discourse.llvm.org/t/rfc-raising-minimum-msvc-version-by-one-patch-release/83490#post_6)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349?page=2#post_22)
-- [NewGVN enablement shortcomings](https://discourse.llvm.org/t/newgvn-enablement-shortcomings/83476#post_3)
-- [[RFC] Raising minimum MSVC version by one patch release](https://discourse.llvm.org/t/rfc-raising-minimum-msvc-version-by-one-patch-release/83490#post_5)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=2#post_40)
+- [Llvm-19.1.4 build error: libclangAST.a&lpar;ParentMap.cpp.o&rpar;:&lpar;.debug_loclists+0x1de&rpar;: relocation truncated to fit: R_X86_64_32 against `.debug_info&#39;](https://discourse.llvm.org/t/llvm-19-1-4-build-error-libclangast-a-parentmap-cpp-o-debug-loclists-0x1de-relocation-truncated-to-fit-r-x86-64-32-against-debug-info/83505#post_1)
+- [[RFC] Identifying contact information for voter registration](https://discourse.llvm.org/t/rfc-identifying-contact-information-for-voter-registration/83503#post_1)
+- [Is it possible to build Flang based on the llvmdev conda package?](https://discourse.llvm.org/t/is-it-possible-to-build-flang-based-on-the-llvmdev-conda-package/83452#post_7)
+- [LLDB Debugger/Compiler Engineering, Linux | Windows @ Apple London](https://discourse.llvm.org/t/lldb-debugger-compiler-engineering-linux-windows-apple-london/83502#post_1)
 <!-- DISCOURSE-LLVM:END -->
