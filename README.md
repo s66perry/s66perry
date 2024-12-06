@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=3#post_44)
-- [[InstCombine] Can two Src type be consistent in select&lpar;cmp&rpar; pattern even width wider?](https://discourse.llvm.org/t/instcombine-can-two-src-type-be-consistent-in-select-cmp-pattern-even-width-wider/83466#post_4)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_74)
-- [[RFC] Raising minimum MSVC version by one dot release](https://discourse.llvm.org/t/rfc-raising-minimum-msvc-version-by-one-dot-release/83490#post_8)
-- [Deletion of topics](https://discourse.llvm.org/t/deletion-of-topics/83516#post_1)
+- [2023 US Dev Meeting list of talks with slides missing](https://discourse.llvm.org/t/2023-us-dev-meeting-list-of-talks-with-slides-missing/83521#post_1)
+- [How CLANG decides a floating point constant should be float or double?](https://discourse.llvm.org/t/how-clang-decides-a-floating-point-constant-should-be-float-or-double/83520#post_2)
+- [How CLANG decides a floating point constant should be float or double?](https://discourse.llvm.org/t/how-clang-decides-a-floating-point-constant-should-be-float-or-double/83520#post_1)
+- [RFC: `__ptrauth` qualifier](https://discourse.llvm.org/t/rfc-ptrauth-qualifier/80710?page=2#post_31)
+- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
