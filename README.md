@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=3#post_45)
+- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361#post_19)
+- [[RFC] Introducing `llvm-project/offload`](https://discourse.llvm.org/t/rfc-introducing-llvm-project-offload/74302?page=3#post_44)
 - [Llvm-19.1.4 build error: libclangAST.a&lpar;ParentMap.cpp.o&rpar;:&lpar;.debug_loclists+0x1de&rpar;: relocation truncated to fit: R_X86_64_32 against `.debug_info&#39;](https://discourse.llvm.org/t/llvm-19-1-4-build-error-libclangast-a-parentmap-cpp-o-debug-loclists-0x1de-relocation-truncated-to-fit-r-x86-64-32-against-debug-info/83505#post_7)
 - [Llvm-19.1.4 build error: libclangAST.a&lpar;ParentMap.cpp.o&rpar;:&lpar;.debug_loclists+0x1de&rpar;: relocation truncated to fit: R_X86_64_32 against `.debug_info&#39;](https://discourse.llvm.org/t/llvm-19-1-4-build-error-libclangast-a-parentmap-cpp-o-debug-loclists-0x1de-relocation-truncated-to-fit-r-x86-64-32-against-debug-info/83505#post_6)
-- [Llvm-19.1.4 build error: libclangAST.a&lpar;ParentMap.cpp.o&rpar;:&lpar;.debug_loclists+0x1de&rpar;: relocation truncated to fit: R_X86_64_32 against `.debug_info&#39;](https://discourse.llvm.org/t/llvm-19-1-4-build-error-libclangast-a-parentmap-cpp-o-debug-loclists-0x1de-relocation-truncated-to-fit-r-x86-64-32-against-debug-info/83505#post_5)
-- [Llvm-19.1.4 build error: libclangAST.a&lpar;ParentMap.cpp.o&rpar;:&lpar;.debug_loclists+0x1de&rpar;: relocation truncated to fit: R_X86_64_32 against `.debug_info&#39;](https://discourse.llvm.org/t/llvm-19-1-4-build-error-libclangast-a-parentmap-cpp-o-debug-loclists-0x1de-relocation-truncated-to-fit-r-x86-64-32-against-debug-info/83505#post_4)
-- [RFC: Compound directive splitting in OpenMP](https://discourse.llvm.org/t/rfc-compound-directive-splitting-in-openmp/81272#post_7)
 <!-- DISCOURSE-LLVM:END -->
