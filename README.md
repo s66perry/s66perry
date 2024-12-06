@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Fixed Register Being Spill and Restored in Clang](https://discourse.llvm.org/t/fixed-register-being-spill-and-restored-in-clang/83058#post_12)
+- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_11)
 - [Simple GPU Memory Allocation](https://discourse.llvm.org/t/simple-gpu-memory-allocation/83527#post_2)
 - [Simple GPU Memory Allocation](https://discourse.llvm.org/t/simple-gpu-memory-allocation/83527#post_1)
 - [[RFC] Debug info coverage tool v2](https://discourse.llvm.org/t/rfc-debug-info-coverage-tool-v2/83266#post_4)
-- [Compiler LLVM Developer @ IBM India Software Lab](https://discourse.llvm.org/t/compiler-llvm-developer-ibm-india-software-lab/82871#post_2)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
