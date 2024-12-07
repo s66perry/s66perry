@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to get address of a global variable during compilation?](https://discourse.llvm.org/t/how-to-get-address-of-a-global-variable-during-compilation/83538#post_2)
-- [How to get address of a global variable during compilation?](https://discourse.llvm.org/t/how-to-get-address-of-a-global-variable-during-compilation/83538#post_1)
-- [PSA: Python binding dependencies changing](https://discourse.llvm.org/t/psa-python-binding-dependencies-changing/83376#post_5)
-- [When formatting .h files using the default .clang-format file, the format seems incorrect.](https://discourse.llvm.org/t/when-formatting-h-files-using-the-default-clang-format-file-the-format-seems-incorrect/83536#post_1)
-- [PSA: Python binding dependencies changing](https://discourse.llvm.org/t/psa-python-binding-dependencies-changing/83376#post_4)
+- [Question: Typo in the documentation for tensor.dim?](https://discourse.llvm.org/t/question-typo-in-the-documentation-for-tensor-dim/83539#post_3)
+- [Question: Typo in the documentation for tensor.dim?](https://discourse.llvm.org/t/question-typo-in-the-documentation-for-tensor-dim/83539#post_2)
+- [Question: Typo in the documentation for tensor.dim?](https://discourse.llvm.org/t/question-typo-in-the-documentation-for-tensor-dim/83539#post_1)
+- [How to get offset between a global and its user during compilation?](https://discourse.llvm.org/t/how-to-get-offset-between-a-global-and-its-user-during-compilation/83538#post_3)
+- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_12)
 <!-- DISCOURSE-LLVM:END -->
