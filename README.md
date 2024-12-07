@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to get address of a global variable during compilation?](https://discourse.llvm.org/t/how-to-get-address-of-a-global-variable-during-compilation/83538#post_1)
+- [PSA: Python binding dependencies changing](https://discourse.llvm.org/t/psa-python-binding-dependencies-changing/83376#post_5)
 - [When formatting .h files using the default .clang-format file, the format seems incorrect.](https://discourse.llvm.org/t/when-formatting-h-files-using-the-default-clang-format-file-the-format-seems-incorrect/83536#post_1)
 - [PSA: Python binding dependencies changing](https://discourse.llvm.org/t/psa-python-binding-dependencies-changing/83376#post_4)
 - [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468#post_5)
-- [Simple GPU Memory Allocation](https://discourse.llvm.org/t/simple-gpu-memory-allocation/83527#post_4)
-- [Tile linalg.batch_matmul](https://discourse.llvm.org/t/tile-linalg-batch-matmul/83451#post_6)
 <!-- DISCOURSE-LLVM:END -->
