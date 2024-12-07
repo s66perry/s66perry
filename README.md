@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to get offset between a global and its user during compilation?](https://discourse.llvm.org/t/how-to-get-offset-between-a-global-and-its-user-during-compilation/83538#post_4)
 - [Question: Typo in the documentation for tensor.dim?](https://discourse.llvm.org/t/question-typo-in-the-documentation-for-tensor-dim/83539#post_3)
 - [Question: Typo in the documentation for tensor.dim?](https://discourse.llvm.org/t/question-typo-in-the-documentation-for-tensor-dim/83539#post_2)
 - [Question: Typo in the documentation for tensor.dim?](https://discourse.llvm.org/t/question-typo-in-the-documentation-for-tensor-dim/83539#post_1)
 - [How to get offset between a global and its user during compilation?](https://discourse.llvm.org/t/how-to-get-offset-between-a-global-and-its-user-during-compilation/83538#post_3)
-- [[Survey] MLIR Project Charter and Restructuring Survey](https://discourse.llvm.org/t/survey-mlir-project-charter-and-restructuring-survey/82996#post_12)
 <!-- DISCOURSE-LLVM:END -->
