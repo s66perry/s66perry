@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Seeking Advice on Using the PDL Dialect for Dynamic Library Function Integration](https://discourse.llvm.org/t/seeking-advice-on-using-the-pdl-dialect-for-dynamic-library-function-integration/83563#post_1)
+- [CMake CUDA opinions](https://discourse.llvm.org/t/cmake-cuda-opinions/83561#post_1)
+- [[mlir][func] Eliminate useless function](https://discourse.llvm.org/t/mlir-func-eliminate-useless-function/83559#post_1)
 - [Help with `ub.poison` and partially poisoned vectors](https://discourse.llvm.org/t/help-with-ub-poison-and-partially-poisoned-vectors/83549#post_3)
 - [runOneShotModuleBufferize generate bug when op is a region with memref.subview](https://discourse.llvm.org/t/runoneshotmodulebufferize-generate-bug-when-op-is-a-region-with-memref-subview/83467#post_3)
-- [How CLANG decides a floating point constant should be float or double?](https://discourse.llvm.org/t/how-clang-decides-a-floating-point-constant-should-be-float-or-double/83520#post_3)
-- [Patterns for SDNode and RISCV instruction with no result/output](https://discourse.llvm.org/t/patterns-for-sdnode-and-riscv-instruction-with-no-result-output/83557#post_4)
-- [Patterns for SDNode and RISCV instruction with no result/output](https://discourse.llvm.org/t/patterns-for-sdnode-and-riscv-instruction-with-no-result-output/83557#post_3)
 <!-- DISCOURSE-LLVM:END -->
