@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [runOneShotModuleBufferize generate bug when op is a region with memref.subview](https://discourse.llvm.org/t/runoneshotmodulebufferize-generate-bug-when-op-is-a-region-with-memref-subview/83467#post_3)
 - [How CLANG decides a floating point constant should be float or double?](https://discourse.llvm.org/t/how-clang-decides-a-floating-point-constant-should-be-float-or-double/83520#post_3)
 - [Patterns for SDNode and RISCV instruction with no result/output](https://discourse.llvm.org/t/patterns-for-sdnode-and-riscv-instruction-with-no-result-output/83557#post_4)
 - [Patterns for SDNode and RISCV instruction with no result/output](https://discourse.llvm.org/t/patterns-for-sdnode-and-riscv-instruction-with-no-result-output/83557#post_3)
 - [Patterns for SDNode and RISCV instruction with no result/output](https://discourse.llvm.org/t/patterns-for-sdnode-and-riscv-instruction-with-no-result-output/83557#post_2)
-- [Patterns for SDNode and RISCV instruction with no result/output](https://discourse.llvm.org/t/patterns-for-sdnode-and-riscv-instruction-with-no-result-output/83557#post_1)
 <!-- DISCOURSE-LLVM:END -->
