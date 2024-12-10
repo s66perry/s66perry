@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [FFT algorithms in RISC-V Vector Extensons](https://discourse.llvm.org/t/fft-algorithms-in-risc-v-vector-extensons/83582#post_1)
 - [LLVM opt inlines function and breaks code](https://discourse.llvm.org/t/llvm-opt-inlines-function-and-breaks-code/83573#post_12)
 - [LLVM opt inlines function and breaks code](https://discourse.llvm.org/t/llvm-opt-inlines-function-and-breaks-code/83573#post_11)
 - [LLVM opt inlines function and breaks code](https://discourse.llvm.org/t/llvm-opt-inlines-function-and-breaks-code/83573#post_10)
 - [LLVM opt inlines function and breaks code](https://discourse.llvm.org/t/llvm-opt-inlines-function-and-breaks-code/83573#post_9)
-- [New version scheme?](https://discourse.llvm.org/t/new-version-scheme/83570#post_5)
 <!-- DISCOURSE-LLVM:END -->
