@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [New version scheme?](https://discourse.llvm.org/t/new-version-scheme/83570#post_9)
-- [New version scheme?](https://discourse.llvm.org/t/new-version-scheme/83570#post_8)
-- [PSA: Python binding dependencies changing](https://discourse.llvm.org/t/psa-python-binding-dependencies-changing/83376#post_7)
-- [[RFC] Should We Restrict the Usage of 0-D Vectors in the Vector Dialect?](https://discourse.llvm.org/t/rfc-should-we-restrict-the-usage-of-0-d-vectors-in-the-vector-dialect/83565#post_8)
-- [[RFC] Should We Restrict the Usage of 0-D Vectors in the Vector Dialect?](https://discourse.llvm.org/t/rfc-should-we-restrict-the-usage-of-0-d-vectors-in-the-vector-dialect/83565#post_7)
+- [RFC: LLD feature for controlling for code-size-dependent measurement bias](https://discourse.llvm.org/t/rfc-lld-feature-for-controlling-for-code-size-dependent-measurement-bias/83334#post_7)
+- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146?page=2#post_28)
+- [Speculative LICM?](https://discourse.llvm.org/t/speculative-licm/80977#post_10)
+- [Speculative LICM?](https://discourse.llvm.org/t/speculative-licm/80977#post_9)
+- [New version scheme?](https://discourse.llvm.org/t/new-version-scheme/83570#post_10)
 <!-- DISCOURSE-LLVM:END -->
