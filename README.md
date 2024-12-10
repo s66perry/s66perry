@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Should We Restrict the Usage of 0-D Vectors in the Vector Dialect?](https://discourse.llvm.org/t/rfc-should-we-restrict-the-usage-of-0-d-vectors-in-the-vector-dialect/83565#post_3)
+- [&quot;new issue&quot; label](https://discourse.llvm.org/t/new-issue-label/83583#post_3)
 - [&quot;new issue&quot; label](https://discourse.llvm.org/t/new-issue-label/83583#post_2)
 - [&quot;new issue&quot; label](https://discourse.llvm.org/t/new-issue-label/83583#post_1)
 - [Flang-new vs Universal C Runtime &lpar;ucrt&rpar;](https://discourse.llvm.org/t/flang-new-vs-universal-c-runtime-ucrt/83293?page=2#post_32)
-- [LLVM opt inlines function and breaks code](https://discourse.llvm.org/t/llvm-opt-inlines-function-and-breaks-code/83573#post_13)
-- [FFT algorithms in RISC-V Vector Extensons](https://discourse.llvm.org/t/fft-algorithms-in-risc-v-vector-extensons/83582#post_1)
 <!-- DISCOURSE-LLVM:END -->
