@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Global constant variable value evaluation in AST](https://discourse.llvm.org/t/global-constant-variable-value-evaluation-in-ast/83643#post_2)
+- [[RFC] add configuration options globally to control the common libraries supported in the project](https://discourse.llvm.org/t/rfc-add-configuration-options-globally-to-control-the-common-libraries-supported-in-the-project/83574#post_5)
+- [[RFC] add configuration options globally to control the common libraries supported in the project](https://discourse.llvm.org/t/rfc-add-configuration-options-globally-to-control-the-common-libraries-supported-in-the-project/83574#post_4)
 - [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_3)
 - [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_2)
-- [Global constant variable value evaluation in AST](https://discourse.llvm.org/t/global-constant-variable-value-evaluation-in-ast/83643#post_1)
-- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_25)
-- [[RFC] LLVM Project Governance - October 2024 Update](https://discourse.llvm.org/t/rfc-llvm-project-governance-october-2024-update/82559#post_4)
 <!-- DISCOURSE-LLVM:END -->
