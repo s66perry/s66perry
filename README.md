@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] global option rules for clang-tidy](https://discourse.llvm.org/t/rfc-global-option-rules-for-clang-tidy/83647#post_2)
-- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_6)
-- [[RFC][MLIR] Linalg operation tree](https://discourse.llvm.org/t/rfc-mlir-linalg-operation-tree/83586#post_8)
-- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_5)
-- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_4)
+- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_14)
+- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_13)
+- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_12)
+- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_11)
+- [How to understand `PatFrags` in backend codegen?](https://discourse.llvm.org/t/how-to-understand-patfrags-in-backend-codegen/83657#post_10)
 <!-- DISCOURSE-LLVM:END -->
