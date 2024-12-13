@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Blackout period for controversial design decisions](https://discourse.llvm.org/t/rfc-blackout-period-for-controversial-design-decisions/83670#post_2)
-- [[MLIR][RFC] Semantics of `linalg.reduce` with variadic operands](https://discourse.llvm.org/t/mlir-rfc-semantics-of-linalg-reduce-with-variadic-operands/83662#post_2)
-- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_4)
-- [RFC: Blackout period for controversial design decisions](https://discourse.llvm.org/t/rfc-blackout-period-for-controversial-design-decisions/83670#post_1)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349?page=2#post_37)
+- [Can&#39;t remote debug arm-*-linux-musleabihf](https://discourse.llvm.org/t/cant-remote-debug-arm-linux-musleabihf/83672#post_2)
+- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417?page=3#post_46)
+- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_7)
+- [Can&#39;t remote debug arm-*-linux-musleabihf](https://discourse.llvm.org/t/cant-remote-debug-arm-linux-musleabihf/83672#post_1)
+- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_6)
 <!-- DISCOURSE-LLVM:END -->
