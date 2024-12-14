@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can&#39;t remote debug arm-*-linux-musleabihf](https://discourse.llvm.org/t/cant-remote-debug-arm-linux-musleabihf/83672#post_2)
-- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417?page=3#post_46)
-- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_7)
-- [Can&#39;t remote debug arm-*-linux-musleabihf](https://discourse.llvm.org/t/cant-remote-debug-arm-linux-musleabihf/83672#post_1)
-- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_6)
+- [Retain original identifier names for debugging](https://discourse.llvm.org/t/retain-original-identifier-names-for-debugging/76417?page=3#post_47)
+- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_15)
+- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_14)
+- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_13)
+- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_12)
 <!-- DISCOURSE-LLVM:END -->
