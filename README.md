@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [One-shot bufferization - using MaterializeInDestinationOp](https://discourse.llvm.org/t/one-shot-bufferization-using-materializeindestinationop/83688#post_2)
+- [One-shot bufferization - using MaterializeInDestinationOp](https://discourse.llvm.org/t/one-shot-bufferization-using-materializeindestinationop/83688#post_1)
 - [[RFC] global option rules for clang-tidy](https://discourse.llvm.org/t/rfc-global-option-rules-for-clang-tidy/83647#post_6)
 - [[RFC] Deprecation warnings for clang-tidy](https://discourse.llvm.org/t/rfc-deprecation-warnings-for-clang-tidy/83666#post_2)
 - [Can I get do substraction of two affine map and get the result?](https://discourse.llvm.org/t/can-i-get-do-substraction-of-two-affine-map-and-get-the-result/83675#post_6)
-- [Possibly adding a pdp11 Target](https://discourse.llvm.org/t/possibly-adding-a-pdp11-target/83684#post_1)
-- [Lldb-dap frozen on Windows](https://discourse.llvm.org/t/lldb-dap-frozen-on-windows/83652#post_5)
 <!-- DISCOURSE-LLVM:END -->
