@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add nopoison attribute/metadata](https://discourse.llvm.org/t/rfc-add-nopoison-attribute-metadata/79833#post_17)
+- [[RFC] Add nopoison attribute/metadata](https://discourse.llvm.org/t/rfc-add-nopoison-attribute-metadata/79833#post_16)
 - [[RFC] Add nopoison attribute/metadata](https://discourse.llvm.org/t/rfc-add-nopoison-attribute-metadata/79833#post_15)
 - [[RFC] Add per channel quantized convolution ops in Linalg](https://discourse.llvm.org/t/rfc-add-per-channel-quantized-convolution-ops-in-linalg/83698#post_5)
 - [Shrink Wrap Save/Restore Points Splitting](https://discourse.llvm.org/t/shrink-wrap-save-restore-points-splitting/83581#post_8)
-- [Shrink Wrap Save/Restore Points Splitting](https://discourse.llvm.org/t/shrink-wrap-save-restore-points-splitting/83581#post_7)
-- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_1)
 <!-- DISCOURSE-LLVM:END -->
