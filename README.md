@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add support for controlling diagnostics severities at file-level granularity through command line](https://discourse.llvm.org/t/rfc-add-support-for-controlling-diagnostics-severities-at-file-level-granularity-through-command-line/81292?page=2#post_23)
+- [Design: gathering locations of instructions to emit into a section](https://discourse.llvm.org/t/design-gathering-locations-of-instructions-to-emit-into-a-section/83729#post_1)
 - [Reviving TypeSanitizer - a sanitizer to catch type-based aliasing violations](https://discourse.llvm.org/t/reviving-typesanitizer-a-sanitizer-to-catch-type-based-aliasing-violations/66092?page=2#post_38)
 - [Speculative LICM?](https://discourse.llvm.org/t/speculative-licm/80977#post_11)
 - [Nanobind for MLIR python bindings](https://discourse.llvm.org/t/nanobind-for-mlir-python-bindings/83511#post_12)
-- [Shrink Wrap Save/Restore Points Splitting](https://discourse.llvm.org/t/shrink-wrap-save-restore-points-splitting/83581#post_12)
-- [RISC-V LLVM sync-up call December 19th 2024](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-december-19th-2024/83728#post_1)
 <!-- DISCOURSE-LLVM:END -->
