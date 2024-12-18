@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Crash with &quot;undefined temporary symbol&quot;](https://discourse.llvm.org/t/crash-with-undefined-temporary-symbol/83622#post_2)
-- [[RFC] Deprecate Ofast in Flang](https://discourse.llvm.org/t/rfc-deprecate-ofast-in-flang/80243#post_7)
-- [Linker error and syntax warnings when building clang 19.1.5 on Windows](https://discourse.llvm.org/t/linker-error-and-syntax-warnings-when-building-clang-19-1-5-on-windows/83714#post_4)
-- [[RFC] Promoting SPIR-V to an official target](https://discourse.llvm.org/t/rfc-promoting-spir-v-to-an-official-target/83614#post_8)
-- [RFC: Change driver vectorization behaviour to match Clang](https://discourse.llvm.org/t/rfc-change-driver-vectorization-behaviour-to-match-clang/83631#post_3)
+- [[RFC] Promoting SPIR-V to an official target](https://discourse.llvm.org/t/rfc-promoting-spir-v-to-an-official-target/83614#post_9)
+- [Linalg vectorizer, reductions, and bufferization](https://discourse.llvm.org/t/linalg-vectorizer-reductions-and-bufferization/83742#post_4)
+- [Linalg vectorizer, reductions, and bufferization](https://discourse.llvm.org/t/linalg-vectorizer-reductions-and-bufferization/83742#post_3)
+- [Design: gathering locations of instructions to emit into a section](https://discourse.llvm.org/t/design-gathering-locations-of-instructions-to-emit-into-a-section/83729#post_3)
+- [Linalg vectorizer, reductions, and bufferization](https://discourse.llvm.org/t/linalg-vectorizer-reductions-and-bufferization/83742#post_2)
 <!-- DISCOURSE-LLVM:END -->
