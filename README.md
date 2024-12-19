@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: c-a*b vs &lpar;-a*b&rpar;+c for strict mode](https://discourse.llvm.org/t/rfc-c-a-b-vs-a-b-c-for-strict-mode/83745#post_5)
-- [[analyzer][RFC] Retry Z3 crosscheck queries on timeout](https://discourse.llvm.org/t/analyzer-rfc-retry-z3-crosscheck-queries-on-timeout/83711#post_9)
-- [Inquiry About mlir-cpu-runner Support for RISC-V Platform](https://discourse.llvm.org/t/inquiry-about-mlir-cpu-runner-support-for-risc-v-platform/83758#post_2)
-- [[TySan] Outlining instrumentation as default](https://discourse.llvm.org/t/tysan-outlining-instrumentation-as-default/83762#post_2)
-- [[TySan] Outlining instrumentation as default](https://discourse.llvm.org/t/tysan-outlining-instrumentation-as-default/83762#post_1)
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_4)
+- [[IR] Segmentation fault on loop](https://discourse.llvm.org/t/ir-segmentation-fault-on-loop/83765#post_1)
+- [Splitting clang’s CGBuiltin.cpp -- over 23k lines long, takes &gt; 1min to compile](https://discourse.llvm.org/t/splitting-clang-s-cgbuiltin-cpp-over-23k-lines-long-takes-1min-to-compile/83763#post_2)
+- [[TySan] Outlining instrumentation as default](https://discourse.llvm.org/t/tysan-outlining-instrumentation-as-default/83762#post_3)
+- [Splitting clang’s CGBuiltin.cpp -- over 23k lines long, takes &gt; 1min to compile](https://discourse.llvm.org/t/splitting-clang-s-cgbuiltin-cpp-over-23k-lines-long-takes-1min-to-compile/83763#post_1)
 <!-- DISCOURSE-LLVM:END -->
