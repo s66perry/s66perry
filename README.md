@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Shrink Wrap Save/Restore Points Splitting](https://discourse.llvm.org/t/shrink-wrap-save-restore-points-splitting/83581#post_13)
-- [Implicit underlying enum type with MSVC compatibility &lpar;/Zc:enumTypes flag&rpar;](https://discourse.llvm.org/t/implicit-underlying-enum-type-with-msvc-compatibility-zc-enumtypes-flag/83775#post_3)
-- [How to match the parameter of the complex pattern?](https://discourse.llvm.org/t/how-to-match-the-parameter-of-the-complex-pattern/83779#post_1)
-- [Implicit underlying enum type with MSVC compatibility &lpar;/Zc:enumTypes flag&rpar;](https://discourse.llvm.org/t/implicit-underlying-enum-type-with-msvc-compatibility-zc-enumtypes-flag/83775#post_2)
-- [Splitting clang’s CGBuiltin.cpp -- over 23k lines long, takes &gt; 1min to compile](https://discourse.llvm.org/t/splitting-clang-s-cgbuiltin-cpp-over-23k-lines-long-takes-1min-to-compile/83763#post_6)
+- [Does instruction define allow pattern has less operands than input?](https://discourse.llvm.org/t/does-instruction-define-allow-pattern-has-less-operands-than-input/83780#post_2)
+- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_14)
+- [[TySan] Outlining instrumentation as default](https://discourse.llvm.org/t/tysan-outlining-instrumentation-as-default/83762#post_7)
+- [Std::invoke_result_t of functor&#39;s __device__ operator&lpar;&rpar;](https://discourse.llvm.org/t/std-invoke-result-t-of-functors-device-operator/83750#post_6)
+- [Does instruction define allow pattern has less operands than input?](https://discourse.llvm.org/t/does-instruction-define-allow-pattern-has-less-operands-than-input/83780#post_1)
 <!-- DISCOURSE-LLVM:END -->
