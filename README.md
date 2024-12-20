@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Speculative LICM?](https://discourse.llvm.org/t/speculative-licm/80977#post_13)
+- [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_12)
+- [Speculative LICM?](https://discourse.llvm.org/t/speculative-licm/80977#post_12)
 - [Does instruction define allow pattern has less operands than input?](https://discourse.llvm.org/t/does-instruction-define-allow-pattern-has-less-operands-than-input/83780#post_2)
 - [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_14)
-- [[TySan] Outlining instrumentation as default](https://discourse.llvm.org/t/tysan-outlining-instrumentation-as-default/83762#post_7)
-- [Std::invoke_result_t of functor&#39;s __device__ operator&lpar;&rpar;](https://discourse.llvm.org/t/std-invoke-result-t-of-functors-device-operator/83750#post_6)
-- [Does instruction define allow pattern has less operands than input?](https://discourse.llvm.org/t/does-instruction-define-allow-pattern-has-less-operands-than-input/83780#post_1)
 <!-- DISCOURSE-LLVM:END -->
