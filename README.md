@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_8)
 - [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_5)
 - [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_4)
 - [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_3)
 - [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_2)
-- [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_1)
 <!-- DISCOURSE-LLVM:END -->
