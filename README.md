@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can&#39;t emit LLVM from a C file with OpenMP](https://discourse.llvm.org/t/cant-emit-llvm-from-a-c-file-with-openmp/83783#post_3)
+- [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_13)
 - [Can&#39;t remote debug arm-*-linux-musleabihf](https://discourse.llvm.org/t/cant-remote-debug-arm-linux-musleabihf/83672#post_8)
 - [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_15)
 - [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_9)
-- [Can&#39;t emit LLVM from a C file with OpenMP](https://discourse.llvm.org/t/cant-emit-llvm-from-a-c-file-with-openmp/83783#post_2)
-- [Can&#39;t emit LLVM from a C file with OpenMP](https://discourse.llvm.org/t/cant-emit-llvm-from-a-c-file-with-openmp/83783#post_1)
 <!-- DISCOURSE-LLVM:END -->
