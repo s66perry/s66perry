@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to match the parameter of the complex pattern?](https://discourse.llvm.org/t/how-to-match-the-parameter-of-the-complex-pattern/83779#post_5)
+- [How to match the parameter of the complex pattern?](https://discourse.llvm.org/t/how-to-match-the-parameter-of-the-complex-pattern/83779#post_4)
+- [How to match the parameter of the complex pattern?](https://discourse.llvm.org/t/how-to-match-the-parameter-of-the-complex-pattern/83779#post_3)
 - [How to match the parameter of the complex pattern?](https://discourse.llvm.org/t/how-to-match-the-parameter-of-the-complex-pattern/83779#post_2)
 - [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_17)
-- [[RFC] Introduce OpAsm{Type,Attr}Interface for pretty-print in AsmPrinter](https://discourse.llvm.org/t/rfc-introduce-opasm-type-attr-interface-for-pretty-print-in-asmprinter/83792#post_1)
-- [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_9)
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
