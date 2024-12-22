@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=3#post_45)
+- [LLVM build clang error](https://discourse.llvm.org/t/llvm-build-clang-error/83791#post_1)
 - [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_8)
 - [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_7)
 - [[OpenMP][IR] OMP: Error #132: Thread identifier invalid](https://discourse.llvm.org/t/openmp-ir-omp-error-132-thread-identifier-invalid/83788#post_6)
-- [[RFC] Add TargetBuiltins for SPIRV to support HLSL](https://discourse.llvm.org/t/rfc-add-targetbuiltins-for-spirv-to-support-hlsl/83329#post_16)
-- [LLVM 19.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-19-x-release-third-party-binaries/80374?page=4#post_64)
 <!-- DISCOURSE-LLVM:END -->
