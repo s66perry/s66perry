@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compiling v8 on windows. LLVM ERROR: out of memory. Allocation failed](https://discourse.llvm.org/t/compiling-v8-on-windows-llvm-error-out-of-memory-allocation-failed/83796#post_5)
+- [How to use MLIR efficient codegen gpu code?](https://discourse.llvm.org/t/how-to-use-mlir-efficient-codegen-gpu-code/83802#post_10)
 - [LLVM build clang error](https://discourse.llvm.org/t/llvm-build-clang-error/83791#post_2)
 - [LLVM Meetup in Munich – October 30th 2024](https://discourse.llvm.org/t/llvm-meetup-in-munich-october-30th-2024/82301#post_3)
 - [LLVM Meetup in Munich – January 28th 2025](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-28th-2025/83805#post_1)
-- [LLVM Weekly - #573, December 23rd 2024](https://discourse.llvm.org/t/llvm-weekly-573-december-23rd-2024/83804#post_1)
-- [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_16)
 <!-- DISCOURSE-LLVM:END -->
