@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Maybe we need optimize READ_REGISTER AND WRITE_REGISTER](https://discourse.llvm.org/t/maybe-we-need-optimize-read-register-and-write-register/83818#post_1)
 - [Closure Op in MLIR](https://discourse.llvm.org/t/closure-op-in-mlir/83817#post_1)
 - [Some issues with converting func and memref to emitc](https://discourse.llvm.org/t/some-issues-with-converting-func-and-memref-to-emitc/81136#post_4)
 - [Some issues with converting func and memref to emitc](https://discourse.llvm.org/t/some-issues-with-converting-func-and-memref-to-emitc/81136#post_3)
 - [[RFC] global option rules for clang-tidy](https://discourse.llvm.org/t/rfc-global-option-rules-for-clang-tidy/83647#post_11)
-- [RFC: HWPGO, i.e., adding new SPGO feedback types](https://discourse.llvm.org/t/rfc-hwpgo-i-e-adding-new-spgo-feedback-types/80582?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
