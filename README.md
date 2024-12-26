@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: c-a*b vs &lpar;-a*b&rpar;+c for strict mode](https://discourse.llvm.org/t/rfc-c-a-b-vs-a-b-c-for-strict-mode/83745#post_15)
+- [RFC: c-a*b vs &lpar;-a*b&rpar;+c for strict mode](https://discourse.llvm.org/t/rfc-c-a-b-vs-a-b-c-for-strict-mode/83745#post_14)
+- [Registering Dialects](https://discourse.llvm.org/t/registering-dialects/83822#post_1)
 - [[RFC] Support pseudo probe for Windows COFF](https://discourse.llvm.org/t/rfc-support-pseudo-probe-for-windows-coff/83820#post_1)
 - [Closure Op in MLIR](https://discourse.llvm.org/t/closure-op-in-mlir/83817#post_2)
-- [Some issues with converting func and memref to emitc](https://discourse.llvm.org/t/some-issues-with-converting-func-and-memref-to-emitc/81136#post_5)
-- [Maybe we need optimize READ_REGISTER AND WRITE_REGISTER](https://discourse.llvm.org/t/maybe-we-need-optimize-read-register-and-write-register/83818#post_1)
-- [Closure Op in MLIR](https://discourse.llvm.org/t/closure-op-in-mlir/83817#post_1)
 <!-- DISCOURSE-LLVM:END -->
