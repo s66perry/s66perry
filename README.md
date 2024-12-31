@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[llvm-xray] unable to account multithreaded programs](https://discourse.llvm.org/t/llvm-xray-unable-to-account-multithreaded-programs/83874#post_3)
 - [[llvm-xray] unable to account multithreaded programs](https://discourse.llvm.org/t/llvm-xray-unable-to-account-multithreaded-programs/83874#post_2)
 - [Adding AIX core file format support to LLDB](https://discourse.llvm.org/t/adding-aix-core-file-format-support-to-lldb/83867#post_4)
 - [Question about rv32imfc march and double operation insertion](https://discourse.llvm.org/t/question-about-rv32imfc-march-and-double-operation-insertion/83883#post_1)
 - [How to use MLIR efficient codegen gpu code?](https://discourse.llvm.org/t/how-to-use-mlir-efficient-codegen-gpu-code/83802#post_15)
-- [How to use MLIR efficient codegen gpu code?](https://discourse.llvm.org/t/how-to-use-mlir-efficient-codegen-gpu-code/83802#post_14)
 <!-- DISCOURSE-LLVM:END -->
