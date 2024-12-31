@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding AIX core file format support to LLDB](https://discourse.llvm.org/t/adding-aix-core-file-format-support-to-lldb/83867#post_4)
 - [Question about rv32imfc march and double operation insertion](https://discourse.llvm.org/t/question-about-rv32imfc-march-and-double-operation-insertion/83883#post_1)
 - [How to use MLIR efficient codegen gpu code?](https://discourse.llvm.org/t/how-to-use-mlir-efficient-codegen-gpu-code/83802#post_15)
 - [How to use MLIR efficient codegen gpu code?](https://discourse.llvm.org/t/how-to-use-mlir-efficient-codegen-gpu-code/83802#post_14)
 - [Maybe we need optimize READ_REGISTER AND WRITE_REGISTER](https://discourse.llvm.org/t/maybe-we-need-optimize-read-register-and-write-register/83818#post_10)
-- [Maybe we need optimize READ_REGISTER AND WRITE_REGISTER](https://discourse.llvm.org/t/maybe-we-need-optimize-read-register-and-write-register/83818#post_9)
 <!-- DISCOURSE-LLVM:END -->
