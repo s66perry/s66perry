@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][OpenMP] supporting delayed task execution with firstprivate variables](https://discourse.llvm.org/t/rfc-openmp-supporting-delayed-task-execution-with-firstprivate-variables/83084#post_7)
+- [[GlobalISel] Are register banks allowed to overlap?](https://discourse.llvm.org/t/globalisel-are-register-banks-allowed-to-overlap/83863#post_3)
+- [Why only part of `vector` Ops Implements `VectorUnrollOpInterface`?](https://discourse.llvm.org/t/why-only-part-of-vector-ops-implements-vectorunrollopinterface/83898#post_1)
+- [[RFC] Should We Restrict the Usage of 0-D Vectors in the Vector Dialect?](https://discourse.llvm.org/t/rfc-should-we-restrict-the-usage-of-0-d-vectors-in-the-vector-dialect/83565?page=2#post_30)
 - [Double Free in my InstCombine optimization](https://discourse.llvm.org/t/double-free-in-my-instcombine-optimization/83893#post_2)
-- [[GlobalISel] Are register banks allowed to overlap?](https://discourse.llvm.org/t/globalisel-are-register-banks-allowed-to-overlap/83863#post_2)
-- [Double Free in my InstCombine optimization](https://discourse.llvm.org/t/double-free-in-my-instcombine-optimization/83893#post_1)
-- [Adding AIX core file format support to LLDB](https://discourse.llvm.org/t/adding-aix-core-file-format-support-to-lldb/83867#post_5)
-- [New post being deleted](https://discourse.llvm.org/t/new-post-being-deleted/83547#post_4)
 <!-- DISCOURSE-LLVM:END -->
