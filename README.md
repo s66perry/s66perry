@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_13)
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_12)
+- [[GlobalISel] Are register banks allowed to overlap?](https://discourse.llvm.org/t/globalisel-are-register-banks-allowed-to-overlap/83863#post_8)
 - [[GlobalISel] Are register banks allowed to overlap?](https://discourse.llvm.org/t/globalisel-are-register-banks-allowed-to-overlap/83863#post_7)
 - [Double Free in my InstCombine optimization](https://discourse.llvm.org/t/double-free-in-my-instcombine-optimization/83893#post_4)
-- [[GlobalISel] Are register banks allowed to overlap?](https://discourse.llvm.org/t/globalisel-are-register-banks-allowed-to-overlap/83863#post_6)
-- [[GlobalISel] Are register banks allowed to overlap?](https://discourse.llvm.org/t/globalisel-are-register-banks-allowed-to-overlap/83863#post_5)
-- [RFC: c-a*b vs &lpar;-a*b&rpar;+c for strict mode](https://discourse.llvm.org/t/rfc-c-a-b-vs-a-b-c-for-strict-mode/83745#post_18)
 <!-- DISCOURSE-LLVM:END -->
