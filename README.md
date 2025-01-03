@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Remote Debug of AArch64 Targets Running QNX](https://discourse.llvm.org/t/remote-debug-of-aarch64-targets-running-qnx/83326#post_10)
 - [Tosa to emitC conversion](https://discourse.llvm.org/t/tosa-to-emitc-conversion/83850#post_2)
 - [[MLIR] vector unrolling with reminder](https://discourse.llvm.org/t/mlir-vector-unrolling-with-reminder/79814#post_2)
 - [[RFC] Finer-grained non-integral pointer properties](https://discourse.llvm.org/t/rfc-finer-grained-non-integral-pointer-properties/83176#post_8)
 - [Difference between call site attributes and declaration attributes](https://discourse.llvm.org/t/difference-between-call-site-attributes-and-declaration-attributes/83902#post_5)
-- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_11)
 <!-- DISCOURSE-LLVM:END -->
