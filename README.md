@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_17)
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_16)
 - [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_15)
 - [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_14)
 - [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_13)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_12)
-- [Nvidia - CUDA Compiler Engineer Jobs](https://discourse.llvm.org/t/nvidia-cuda-compiler-engineer-jobs/83914#post_2)
 <!-- DISCOURSE-LLVM:END -->
