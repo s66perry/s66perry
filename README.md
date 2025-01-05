@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_22)
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_21)
 - [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_20)
 - [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_5)
 - [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_4)
-- [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_3)
-- [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_2)
 <!-- DISCOURSE-LLVM:END -->
