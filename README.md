@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MLIR] vector unrolling with reminder](https://discourse.llvm.org/t/mlir-vector-unrolling-with-reminder/79814#post_3)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_18)
-- [I want to default to ZEXT instead of SEXT after loads on a custom backend. How do I achieve that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-instead-of-sext-after-loads-on-a-custom-backend-how-do-i-achieve-that/83920#post_1)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_17)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_16)
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589#post_20)
+- [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_5)
+- [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_4)
+- [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_3)
+- [I want to default to ZEXT Loads instead of SEXT on my custom backend. Where should I look to change that?](https://discourse.llvm.org/t/i-want-to-default-to-zext-loads-instead-of-sext-on-my-custom-backend-where-should-i-look-to-change-that/83920#post_2)
 <!-- DISCOURSE-LLVM:END -->
