@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC]: Extend Linalg elemwise named ops semantics](https://discourse.llvm.org/t/rfc-extend-linalg-elemwise-named-ops-semantics/83927#post_3)
+- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_13)
+- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_1)
 - [Running LLVM 19 tests returns different tests](https://discourse.llvm.org/t/running-llvm-19-tests-returns-different-tests/83946#post_2)
 - [Running LLVM 19 tests returns different tests](https://discourse.llvm.org/t/running-llvm-19-tests-returns-different-tests/83946#post_1)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_34)
-- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_12)
-- [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_8)
 <!-- DISCOURSE-LLVM:END -->
