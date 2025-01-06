@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_12)
+- [The tablegen-lsp-server of MLIR is well-intentioned, but difficult to use in practice](https://discourse.llvm.org/t/the-tablegen-lsp-server-of-mlir-is-well-intentioned-but-difficult-to-use-in-practice/70600#post_8)
+- [[emitC][bufferization] convert arith.constant to bufferization.to_memref to emitC](https://discourse.llvm.org/t/emitc-bufferization-convert-arith-constant-to-bufferization-to-memref-to-emitc/83940#post_2)
 - [LLVM Weekly - #575, January 6th 2025](https://discourse.llvm.org/t/llvm-weekly-575-january-6th-2025/83943#post_1)
 - [How to link library created by `add_llvm_library`](https://discourse.llvm.org/t/how-to-link-library-created-by-add-llvm-library/83941#post_2)
-- [Type cast SplatElementsAttributes to another type](https://discourse.llvm.org/t/type-cast-splatelementsattributes-to-another-type/83942#post_1)
-- [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_8)
-- [How to link library created by `add_llvm_library`](https://discourse.llvm.org/t/how-to-link-library-created-by-add-llvm-library/83941#post_1)
 <!-- DISCOURSE-LLVM:END -->
