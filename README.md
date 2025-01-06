@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Mapping DILocation Metadata Between Output IR and -dot-cfg Generated DOT Files](https://discourse.llvm.org/t/mapping-dilocation-metadata-between-output-ir-and-dot-cfg-generated-dot-files/83918#post_2)
-- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_18)
-- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_17)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_33)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_32)
+- [Make threadid op is valid symbol.Introduce AffineSymbol Trait](https://discourse.llvm.org/t/make-threadid-op-is-valid-symbol-introduce-affinesymbol-trait/83702#post_2)
+- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915#post_19)
+- [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_1)
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_18)
+- [Extending post-regalloc MachineLICM](https://discourse.llvm.org/t/extending-post-regalloc-machinelicm/82725#post_4)
 <!-- DISCOURSE-LLVM:END -->
