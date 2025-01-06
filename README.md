@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_8)
+- [How to link library created by `add_llvm_library`](https://discourse.llvm.org/t/how-to-link-library-created-by-add-llvm-library/83941#post_1)
 - [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_7)
 - [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_6)
-- [[emitC][bufferization]](https://discourse.llvm.org/t/emitc-bufferization/83940#post_1)
-- [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_5)
-- [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_4)
+- [[emitC][bufferization] convert arith.constant to bufferization.to_memref to emitC](https://discourse.llvm.org/t/emitc-bufferization-convert-arith-constant-to-bufferization-to-memref-to-emitc/83940#post_1)
 <!-- DISCOURSE-LLVM:END -->
