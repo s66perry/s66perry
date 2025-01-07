@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC]: Extend Linalg elemwise named ops semantics](https://discourse.llvm.org/t/rfc-extend-linalg-elemwise-named-ops-semantics/83927#post_3)
-- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_13)
-- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_1)
-- [Running LLVM 19 tests returns different tests](https://discourse.llvm.org/t/running-llvm-19-tests-returns-different-tests/83946#post_2)
-- [Running LLVM 19 tests returns different tests](https://discourse.llvm.org/t/running-llvm-19-tests-returns-different-tests/83946#post_1)
+- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_6)
+- [Make threadid op is valid symbol.Introduce AffineSymbol Trait](https://discourse.llvm.org/t/make-threadid-op-is-valid-symbol-introduce-affinesymbol-trait/83702#post_3)
+- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_5)
+- [Need Help with Failing Clang-Unit Tests on My LLVM PR](https://discourse.llvm.org/t/need-help-with-failing-clang-unit-tests-on-my-llvm-pr/83848#post_3)
+- [Difference between call site attributes and declaration attributes](https://discourse.llvm.org/t/difference-between-call-site-attributes-and-declaration-attributes/83902#post_6)
 <!-- DISCOURSE-LLVM:END -->
