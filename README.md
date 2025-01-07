@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to link library created by `add_llvm_library` to googletest/catch2](https://discourse.llvm.org/t/how-to-link-library-created-by-add-llvm-library-to-googletest-catch2/83941#post_7)
+- [Set Clang config file directory relative to Clang executable](https://discourse.llvm.org/t/set-clang-config-file-directory-relative-to-clang-executable/83962#post_2)
+- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_17)
+- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_7)
 - [Different output of UnformattedInputFunction between libc++ and libstdc++](https://discourse.llvm.org/t/different-output-of-unformattedinputfunction-between-libc-and-libstdc/83963#post_1)
-- [Set Clang config file directory relative to Clang executable](https://discourse.llvm.org/t/set-clang-config-file-directory-relative-to-clang-executable/83962#post_1)
-- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_16)
-- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_15)
-- [RFC: Change driver vectorization behaviour to match Clang](https://discourse.llvm.org/t/rfc-change-driver-vectorization-behaviour-to-match-clang/83631#post_4)
 <!-- DISCOURSE-LLVM:END -->
