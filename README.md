@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Difference between call site attributes and declaration attributes](https://discourse.llvm.org/t/difference-between-call-site-attributes-and-declaration-attributes/83902#post_7)
+- [[emitC][bufferization] convert arith.constant to bufferization.to_memref to emitC](https://discourse.llvm.org/t/emitc-bufferization-convert-arith-constant-to-bufferization-to-memref-to-emitc/83940#post_3)
+- [Issue with Converting memref Parameters to emitc Types in MLIR](https://discourse.llvm.org/t/issue-with-converting-memref-parameters-to-emitc-types-in-mlir/83029#post_2)
+- [Please share your opinions for Linux&#39;s new note name macros](https://discourse.llvm.org/t/please-share-your-opinions-for-linuxs-new-note-name-macros/83959#post_1)
 - [How does MLIR decide when to drop dialect prefix when printing operations?](https://discourse.llvm.org/t/how-does-mlir-decide-when-to-drop-dialect-prefix-when-printing-operations/83957#post_1)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_36)
-- [How do I get desired &#39;align&#39; for byVal passes of struct vars to procedure calls in IR code? Where should I look to configure that?](https://discourse.llvm.org/t/how-do-i-get-desired-align-for-byval-passes-of-struct-vars-to-procedure-calls-in-ir-code-where-should-i-look-to-configure-that/83956#post_1)
-- [The problem while using opt passes](https://discourse.llvm.org/t/the-problem-while-using-opt-passes/83953#post_3)
-- [The problem while using opt passes](https://discourse.llvm.org/t/the-problem-while-using-opt-passes/83953#post_2)
 <!-- DISCOURSE-LLVM:END -->
