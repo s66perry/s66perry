@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Different output of UnformattedInputFunction between libc++ and libstdc++](https://discourse.llvm.org/t/different-output-of-unformattedinputfunction-between-libc-and-libstdc/83963#post_1)
+- [Set Clang config file directory relative to Clang executable](https://discourse.llvm.org/t/set-clang-config-file-directory-relative-to-clang-executable/83962#post_1)
+- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_16)
+- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_15)
 - [RFC: Change driver vectorization behaviour to match Clang](https://discourse.llvm.org/t/rfc-change-driver-vectorization-behaviour-to-match-clang/83631#post_4)
-- [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_10)
-- [Difference between call site attributes and declaration attributes](https://discourse.llvm.org/t/difference-between-call-site-attributes-and-declaration-attributes/83902#post_7)
-- [[emitC][bufferization] convert arith.constant to bufferization.to_memref to emitC](https://discourse.llvm.org/t/emitc-bufferization-convert-arith-constant-to-bufferization-to-memref-to-emitc/83940#post_3)
-- [Issue with Converting memref Parameters to emitc Types in MLIR](https://discourse.llvm.org/t/issue-with-converting-memref-parameters-to-emitc-types-in-mlir/83029#post_2)
 <!-- DISCOURSE-LLVM:END -->
