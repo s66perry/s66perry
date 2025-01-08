@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545#post_18)
+- [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_12)
+- [How to generate the CFG of whole program with dot-cfg pass](https://discourse.llvm.org/t/how-to-generate-the-cfg-of-whole-program-with-dot-cfg-pass/83970#post_1)
+- [The problem while using opt passes](https://discourse.llvm.org/t/the-problem-while-using-opt-passes/83953#post_4)
 - [Passing structs to C functions](https://discourse.llvm.org/t/passing-structs-to-c-functions/83938#post_11)
-- [[RFC] Sandbox Vectorizer: An experimental modular vectorizer](https://discourse.llvm.org/t/rfc-sandbox-vectorizer-an-experimental-modular-vectorizer/79059?page=2#post_37)
-- [Call for Nominations for LLVM Project Area Teams](https://discourse.llvm.org/t/call-for-nominations-for-llvm-project-area-teams/83965#post_2)
-- [Issue with Converting memref Parameters to emitc Types in MLIR](https://discourse.llvm.org/t/issue-with-converting-memref-parameters-to-emitc-types-in-mlir/83029#post_3)
-- [[emitC][bufferization] convert arith.constant to bufferization.to_memref to emitC](https://discourse.llvm.org/t/emitc-bufferization-convert-arith-constant-to-bufferization-to-memref-to-emitc/83940#post_4)
 <!-- DISCOURSE-LLVM:END -->
