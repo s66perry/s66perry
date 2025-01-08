@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why are the branch instructions not ```isBarrier = 1```](https://discourse.llvm.org/t/why-are-the-branch-instructions-not-isbarrier-1/83975#post_3)
-- [Why are the branch instructions not ```isBarrier = 1```](https://discourse.llvm.org/t/why-are-the-branch-instructions-not-isbarrier-1/83975#post_2)
-- [Why are the branch instructions not ```isBarrier = 1```](https://discourse.llvm.org/t/why-are-the-branch-instructions-not-isbarrier-1/83975#post_1)
-- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_1)
-- [What dose FP in ISD::INT_TO_FP mean?](https://discourse.llvm.org/t/what-dose-fp-in-isd-int-to-fp-mean/83972#post_3)
+- [Can&#39;t fold LOAD into user during ISel](https://discourse.llvm.org/t/cant-fold-load-into-user-during-isel/83137#post_15)
+- [Set Clang config file directory relative to Clang executable](https://discourse.llvm.org/t/set-clang-config-file-directory-relative-to-clang-executable/83962#post_4)
+- [Can&#39;t fold LOAD into user during ISel](https://discourse.llvm.org/t/cant-fold-load-into-user-during-isel/83137#post_14)
+- [Buildbot changes with LLVM_ENABLE_RUNTIMES=flang-rt](https://discourse.llvm.org/t/buildbot-changes-with-llvm-enable-runtimes-flang-rt/83571#post_3)
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
