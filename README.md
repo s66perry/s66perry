@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[emitC][bufferization] convert arith.constant to bufferization.to_memref to emitC](https://discourse.llvm.org/t/emitc-bufferization-convert-arith-constant-to-bufferization-to-memref-to-emitc/83940#post_7)
+- [RFC: Surveying LLDB&#39;s supported platforms and architectures](https://discourse.llvm.org/t/rfc-surveying-lldbs-supported-platforms-and-architectures/83978#post_4)
+- [&quot;RFC: Enforcing pointer type alignment in Clang&quot; and UBSan](https://discourse.llvm.org/t/rfc-enforcing-pointer-type-alignment-in-clang-and-ubsan/83922#post_4)
+- [Leveraging SIV in the DA Pass to Detect Loop Carried Dependencies](https://discourse.llvm.org/t/leveraging-siv-in-the-da-pass-to-detect-loop-carried-dependencies/83885#post_4)
 - [[emitC][bufferization] convert arith.constant to bufferization.to_memref to emitC](https://discourse.llvm.org/t/emitc-bufferization-convert-arith-constant-to-bufferization-to-memref-to-emitc/83940#post_6)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jan 27 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jan-27-25-6pm/83981#post_1)
-- [Joining the LLVM organization?](https://discourse.llvm.org/t/joining-the-llvm-organization/83980#post_4)
-- [Difference between call site attributes and declaration attributes](https://discourse.llvm.org/t/difference-between-call-site-attributes-and-declaration-attributes/83902#post_8)
-- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_3)
 <!-- DISCOURSE-LLVM:END -->
