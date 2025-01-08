@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Joining the LLVM organization?](https://discourse.llvm.org/t/joining-the-llvm-organization/83980#post_2)
-- [Joining the LLVM organization?](https://discourse.llvm.org/t/joining-the-llvm-organization/83980#post_1)
-- [[RFC] Speeding up DWARF indexing &lpar;again&rpar;](https://discourse.llvm.org/t/rfc-speeding-up-dwarf-indexing-again/83979#post_2)
-- [RFC: Surveying LLDB&#39;s supported platforms and architectures](https://discourse.llvm.org/t/rfc-surveying-lldbs-supported-platforms-and-architectures/83978#post_3)
-- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_10)
+- [Joining the LLVM organization?](https://discourse.llvm.org/t/joining-the-llvm-organization/83980#post_4)
+- [Difference between call site attributes and declaration attributes](https://discourse.llvm.org/t/difference-between-call-site-attributes-and-declaration-attributes/83902#post_8)
+- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_3)
+- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_2)
+- [Joining the LLVM organization?](https://discourse.llvm.org/t/joining-the-llvm-organization/83980#post_3)
 <!-- DISCOURSE-LLVM:END -->
