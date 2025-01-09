@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang warning on unknown pragma for extended bit op used in opencl kernel](https://discourse.llvm.org/t/clang-warning-on-unknown-pragma-for-extended-bit-op-used-in-opencl-kernel/83870#post_3)
+- [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280?page=2#post_21)
 - [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_3)
 - [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_2)
 - [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_5)
-- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_4)
-- [RFC: c-a*b vs &lpar;-a*b&rpar;+c for strict mode](https://discourse.llvm.org/t/rfc-c-a-b-vs-a-b-c-for-strict-mode/83745#post_20)
 <!-- DISCOURSE-LLVM:END -->
