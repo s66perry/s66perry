@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang warning on unknown pragma for extended bit op used in opencl kernel](https://discourse.llvm.org/t/clang-warning-on-unknown-pragma-for-extended-bit-op-used-in-opencl-kernel/83870#post_3)
-- [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280?page=2#post_21)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_3)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_2)
-- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_5)
+- [Delayed privatization for `omp.wsloop` &lpar;or the need for pure `alloca` regions in `omp.private`&rpar;](https://discourse.llvm.org/t/delayed-privatization-for-omp-wsloop-or-the-need-for-pure-alloca-regions-in-omp-private/83989#post_3)
+- [RFC: Surveying LLDB&#39;s supported platforms and architectures](https://discourse.llvm.org/t/rfc-surveying-lldbs-supported-platforms-and-architectures/83978#post_6)
+- [Delayed privatization for `omp.wsloop` &lpar;or the need for pure `alloca` regions in `omp.private`&rpar;](https://discourse.llvm.org/t/delayed-privatization-for-omp-wsloop-or-the-need-for-pure-alloca-regions-in-omp-private/83989#post_2)
+- [Delayed privatization for `omp.wsloop` &lpar;or the need for pure `alloca` regions in `omp.private`&rpar;](https://discourse.llvm.org/t/delayed-privatization-for-omp-wsloop-or-the-need-for-pure-alloca-regions-in-omp-private/83989#post_1)
+- [[RFC] Speeding up DWARF indexing &lpar;again&rpar;](https://discourse.llvm.org/t/rfc-speeding-up-dwarf-indexing-again/83979#post_3)
 <!-- DISCOURSE-LLVM:END -->
