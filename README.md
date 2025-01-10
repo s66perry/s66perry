@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_28)
 - [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_27)
 - [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280?page=2#post_24)
 - [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280?page=2#post_23)
 - [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280?page=2#post_22)
-- [Can&#39;t fold LOAD into user during ISel](https://discourse.llvm.org/t/cant-fold-load-into-user-during-isel/83137#post_17)
 <!-- DISCOURSE-LLVM:END -->
