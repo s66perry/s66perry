@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Experimental implementation of P2719 - Type-aware allocation and deallocation functions](https://discourse.llvm.org/t/rfc-experimental-implementation-of-p2719-type-aware-allocation-and-deallocation-functions/83876#post_2)
 - [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_5)
 - [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_4)
 - [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_3)
 - [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_10)
-- [How `shard_out` of `scf.forall` works in Tensor](https://discourse.llvm.org/t/how-shard-out-of-scf-forall-works-in-tensor/84008#post_1)
 <!-- DISCOURSE-LLVM:END -->
