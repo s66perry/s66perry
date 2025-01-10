@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280?page=2#post_22)
+- [Can&#39;t fold LOAD into user during ISel](https://discourse.llvm.org/t/cant-fold-load-into-user-during-isel/83137#post_17)
 - [Compiler LLVM Developer @ IBM India Software Lab](https://discourse.llvm.org/t/compiler-llvm-developer-ibm-india-software-lab/82871#post_3)
 - [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_6)
 - [[RFC] Introduce OpAsm{Type,Attr}Interface for pretty-print in AsmPrinter](https://discourse.llvm.org/t/rfc-introduce-opasm-type-attr-interface-for-pretty-print-in-asmprinter/83792#post_6)
-- [[RFC] Experimental implementation of P2719 - Type-aware allocation and deallocation functions](https://discourse.llvm.org/t/rfc-experimental-implementation-of-p2719-type-aware-allocation-and-deallocation-functions/83876#post_2)
-- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_5)
 <!-- DISCOURSE-LLVM:END -->
