@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Upstream HeuristicResolver from clangd to libSema](https://discourse.llvm.org/t/rfc-upstream-heuristicresolver-from-clangd-to-libsema/84004#post_2)
 - [Changing default C++ mode to C++20](https://discourse.llvm.org/t/changing-default-c-mode-to-c-20/84015#post_3)
 - [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_11)
 - [2025 EuroLLVM Call for Proposals - Deadline Feb 14](https://discourse.llvm.org/t/2025-eurollvm-call-for-proposals-deadline-feb-14/84017#post_1)
 - [MLIR C/C++ Frontend Working Group [Mon, Jan 13th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jan-13th/84016#post_1)
-- [Need Help with Failing Clang-Unit Tests on My LLVM PR](https://discourse.llvm.org/t/need-help-with-failing-clang-unit-tests-on-my-llvm-pr/83848#post_8)
 <!-- DISCOURSE-LLVM:END -->
