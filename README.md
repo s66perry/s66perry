@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Speeding up DWARF indexing &lpar;again&rpar;](https://discourse.llvm.org/t/rfc-speeding-up-dwarf-indexing-again/83979#post_5)
+- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_12)
+- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_11)
+- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_10)
 - [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_9)
-- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_8)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=2#post_40)
-- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006#post_7)
-- [How `shard_out` of `scf.forall` works in Tensor](https://discourse.llvm.org/t/how-shard-out-of-scf-forall-works-in-tensor/84008#post_6)
 <!-- DISCOURSE-LLVM:END -->
