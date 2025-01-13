@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How `shard_out` of `scf.forall` works in Tensor](https://discourse.llvm.org/t/how-shard-out-of-scf-forall-works-in-tensor/84008#post_3)
 - [How `shard_out` of `scf.forall` works in Tensor](https://discourse.llvm.org/t/how-shard-out-of-scf-forall-works-in-tensor/84008#post_2)
 - [Evaluate register allocation schemes](https://discourse.llvm.org/t/evaluate-register-allocation-schemes/84031#post_1)
 - [Static rounding mode in IR](https://discourse.llvm.org/t/static-rounding-mode-in-ir/80621?page=2#post_23)
 - [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_5)
-- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_4)
 <!-- DISCOURSE-LLVM:END -->
