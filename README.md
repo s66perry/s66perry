@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introduce OpAsm{Type,Attr}Interface for pretty-print in AsmPrinter](https://discourse.llvm.org/t/rfc-introduce-opasm-type-attr-interface-for-pretty-print-in-asmprinter/83792#post_9)
-- [LLDB 20 Request For Release Notes!](https://discourse.llvm.org/t/lldb-20-request-for-release-notes/84034#post_6)
-- [Deprecate -forder-file-instrumentation in favor of Temporal Profiling](https://discourse.llvm.org/t/deprecate-forder-file-instrumentation-in-favor-of-temporal-profiling/83903#post_2)
-- [LLDB 20 Request For Release Notes!](https://discourse.llvm.org/t/lldb-20-request-for-release-notes/84034#post_5)
-- [LLDB 20 Request For Release Notes!](https://discourse.llvm.org/t/lldb-20-request-for-release-notes/84034#post_4)
+- [Call for Nominations for LLVM Project Area Teams](https://discourse.llvm.org/t/call-for-nominations-for-llvm-project-area-teams/83965#post_4)
+- [Add reduction support to SCFToGPU](https://discourse.llvm.org/t/add-reduction-support-to-scftogpu/83232#post_7)
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=3#post_43)
+- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_12)
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=3#post_42)
 <!-- DISCOURSE-LLVM:END -->
