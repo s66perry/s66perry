@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_13)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_12)
-- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049#post_2)
-- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_8)
-- [Some thoughts about `ValueBoundsConstraintSet`](https://discourse.llvm.org/t/some-thoughts-about-valueboundsconstraintset/84055#post_1)
+- [Why is this not vectorized on x86?](https://discourse.llvm.org/t/why-is-this-not-vectorized-on-x86/84052#post_2)
+- [Issues with the Lowering Path for Generating GPU Code Using MLIR](https://discourse.llvm.org/t/issues-with-the-lowering-path-for-generating-gpu-code-using-mlir/84060#post_1)
+- [Reason for `alignas&lpar;8&rpar;` in many classes](https://discourse.llvm.org/t/reason-for-alignas-8-in-many-classes/84035#post_5)
+- [Some thoughts about `ValueBoundsConstraintSet`](https://discourse.llvm.org/t/some-thoughts-about-valueboundsconstraintset/84055#post_2)
+- [LLDB 20 Request For Release Notes!](https://discourse.llvm.org/t/lldb-20-request-for-release-notes/84034#post_9)
 <!-- DISCOURSE-LLVM:END -->
