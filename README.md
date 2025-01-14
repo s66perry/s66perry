@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Evaluate register allocation schemes](https://discourse.llvm.org/t/evaluate-register-allocation-schemes/84031#post_2)
-- [LLDB 20 Request For Release Notes!](https://discourse.llvm.org/t/lldb-20-request-for-release-notes/84034#post_8)
-- [LLDB 20 Request For Release Notes!](https://discourse.llvm.org/t/lldb-20-request-for-release-notes/84034#post_7)
-- [RFC: Surveying LLDB&#39;s supported platforms and architectures](https://discourse.llvm.org/t/rfc-surveying-lldbs-supported-platforms-and-architectures/83978#post_7)
-- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=3#post_45)
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_11)
+- [[Driver] Volunteer wanted for modules support in driver for Mac, Ubuntu and Windows](https://discourse.llvm.org/t/driver-volunteer-wanted-for-modules-support-in-driver-for-mac-ubuntu-and-windows/83768#post_7)
+- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049#post_1)
+- [How `shard_out` of `scf.forall` works in Tensor](https://discourse.llvm.org/t/how-shard-out-of-scf-forall-works-in-tensor/84008#post_7)
+- [Reason for `alignas&lpar;8&rpar;` in many classes](https://discourse.llvm.org/t/reason-for-alignas-8-in-many-classes/84035#post_4)
 <!-- DISCOURSE-LLVM:END -->
