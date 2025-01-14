@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_1)
 - [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_11)
 - [[Driver] Volunteer wanted for modules support in driver for Mac, Ubuntu and Windows](https://discourse.llvm.org/t/driver-volunteer-wanted-for-modules-support-in-driver-for-mac-ubuntu-and-windows/83768#post_7)
 - [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049#post_1)
 - [How `shard_out` of `scf.forall` works in Tensor](https://discourse.llvm.org/t/how-shard-out-of-scf-forall-works-in-tensor/84008#post_7)
-- [Reason for `alignas&lpar;8&rpar;` in many classes](https://discourse.llvm.org/t/reason-for-alignas-8-in-many-classes/84035#post_4)
 <!-- DISCOURSE-LLVM:END -->
