@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Issues with the Lowering Path for Generating GPU Code Using MLIR](https://discourse.llvm.org/t/issues-with-the-lowering-path-for-generating-gpu-code-using-mlir/84060#post_4)
+- [WDYT: `#pragma pretty-print-the-type-of&lpar;T&rpar;`](https://discourse.llvm.org/t/wdyt-pragma-pretty-print-the-type-of-t/84061#post_1)
+- [[RFC]: Extend Linalg elemwise named ops semantics](https://discourse.llvm.org/t/rfc-extend-linalg-elemwise-named-ops-semantics/83927#post_4)
+- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_3)
 - [Issues with the Lowering Path for Generating GPU Code Using MLIR](https://discourse.llvm.org/t/issues-with-the-lowering-path-for-generating-gpu-code-using-mlir/84060#post_3)
-- [Issues with the Lowering Path for Generating GPU Code Using MLIR](https://discourse.llvm.org/t/issues-with-the-lowering-path-for-generating-gpu-code-using-mlir/84060#post_2)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_14)
-- [Why is this not vectorized on x86?](https://discourse.llvm.org/t/why-is-this-not-vectorized-on-x86/84052#post_2)
-- [Issues with the Lowering Path for Generating GPU Code Using MLIR](https://discourse.llvm.org/t/issues-with-the-lowering-path-for-generating-gpu-code-using-mlir/84060#post_1)
 <!-- DISCOURSE-LLVM:END -->
