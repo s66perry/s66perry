@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Experimental implementation of P2719 - Type-aware allocation and deallocation functions](https://discourse.llvm.org/t/rfc-experimental-implementation-of-p2719-type-aware-allocation-and-deallocation-functions/83876#post_3)
 - [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_7)
 - [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_6)
 - [Optimization Levels Result Differently](https://discourse.llvm.org/t/optimization-levels-result-differently/84033#post_4)
 - [Question about custom op error](https://discourse.llvm.org/t/question-about-custom-op-error/83480#post_8)
-- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049#post_7)
 <!-- DISCOURSE-LLVM:END -->
