@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Issues with the Lowering Path for Generating GPU Code Using MLIR](https://discourse.llvm.org/t/issues-with-the-lowering-path-for-generating-gpu-code-using-mlir/84060#post_4)
-- [WDYT: `#pragma pretty-print-the-type-of&lpar;T&rpar;`](https://discourse.llvm.org/t/wdyt-pragma-pretty-print-the-type-of-t/84061#post_1)
-- [[RFC]: Extend Linalg elemwise named ops semantics](https://discourse.llvm.org/t/rfc-extend-linalg-elemwise-named-ops-semantics/83927#post_4)
-- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_3)
-- [Issues with the Lowering Path for Generating GPU Code Using MLIR](https://discourse.llvm.org/t/issues-with-the-lowering-path-for-generating-gpu-code-using-mlir/84060#post_3)
+- [WDYT: `#pragma pretty-print-the-type-of&lpar;T&rpar;`](https://discourse.llvm.org/t/wdyt-pragma-pretty-print-the-type-of-t/84061#post_5)
+- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049#post_3)
+- [RFC: Surveying LLDB&#39;s supported platforms and architectures](https://discourse.llvm.org/t/rfc-surveying-lldbs-supported-platforms-and-architectures/83978#post_9)
+- [WDYT: `#pragma pretty-print-the-type-of&lpar;T&rpar;`](https://discourse.llvm.org/t/wdyt-pragma-pretty-print-the-type-of-t/84061#post_4)
+- [LLVM 19.1.7 Released!](https://discourse.llvm.org/t/llvm-19-1-7-released/84062#post_1)
 <!-- DISCOURSE-LLVM:END -->
