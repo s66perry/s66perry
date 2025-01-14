@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Some thoughts about `ValueBoundsConstraintSet`](https://discourse.llvm.org/t/some-thoughts-about-valueboundsconstraintset/84055#post_1)
+- [Defining Lambda function inside a loop](https://discourse.llvm.org/t/defining-lambda-function-inside-a-loop/84043#post_2)
+- [[OpenACC] Is OpenACC available in LLVM now?](https://discourse.llvm.org/t/openacc-is-openacc-available-in-llvm-now/83974#post_7)
+- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_2)
 - [Why is this not vectorized on x86?](https://discourse.llvm.org/t/why-is-this-not-vectorized-on-x86/84052#post_1)
-- [[MLIR] MLIR Visualization Project](https://discourse.llvm.org/t/mlir-mlir-visualization-project/4280?page=2#post_25)
-- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_1)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_11)
-- [[Driver] Volunteer wanted for modules support in driver for Mac, Ubuntu and Windows](https://discourse.llvm.org/t/driver-volunteer-wanted-for-modules-support-in-driver-for-mac-ubuntu-and-windows/83768#post_7)
 <!-- DISCOURSE-LLVM:END -->
