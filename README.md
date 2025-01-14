@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Defining Lambda function inside a loop](https://discourse.llvm.org/t/defining-lambda-function-inside-a-loop/84043#post_4)
+- [Defining Lambda function inside a loop](https://discourse.llvm.org/t/defining-lambda-function-inside-a-loop/84043#post_3)
+- [Optimization Levels Result Differently](https://discourse.llvm.org/t/optimization-levels-result-differently/84033#post_3)
+- [Per Thread Resources in Thread Pool](https://discourse.llvm.org/t/per-thread-resources-in-thread-pool/84027#post_2)
 - [[RFC] [MLIR] [Vector] Constant Folding Vector Reduction &lpar;Splat-Splat&rpar;](https://discourse.llvm.org/t/rfc-mlir-vector-constant-folding-vector-reduction-splat-splat/84066#post_1)
-- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_5)
-- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_4)
-- [Accessing the operands in a func.func op](https://discourse.llvm.org/t/accessing-the-operands-in-a-func-func-op/84065#post_1)
-- [[llvm-pdbutil] Using pdbutil to generate PDB from Embarcadero TDS](https://discourse.llvm.org/t/llvm-pdbutil-using-pdbutil-to-generate-pdb-from-embarcadero-tds/84064#post_1)
 <!-- DISCOURSE-LLVM:END -->
