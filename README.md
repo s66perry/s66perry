@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073#post_20)
+- [[RFC] Incubating TCP take 2](https://discourse.llvm.org/t/rfc-incubating-tcp-take-2/84081#post_5)
 - [[RFC] Incubating TCP take 2](https://discourse.llvm.org/t/rfc-incubating-tcp-take-2/84081#post_4)
 - [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073#post_19)
 - [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073#post_18)
-- [[RFC] Incubating TCP take 2](https://discourse.llvm.org/t/rfc-incubating-tcp-take-2/84081#post_3)
-- [CIRCT: Lowering Upstream MLIR into Verilog](https://discourse.llvm.org/t/circt-lowering-upstream-mlir-into-verilog/84076#post_2)
 <!-- DISCOURSE-LLVM:END -->
