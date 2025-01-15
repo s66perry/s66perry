@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_9)
+- [[Driver] Volunteer wanted for modules support in driver for Mac, Ubuntu and Windows](https://discourse.llvm.org/t/driver-volunteer-wanted-for-modules-support-in-driver-for-mac-ubuntu-and-windows/83768#post_9)
+- [[Driver] Volunteer wanted for modules support in driver for Mac, Ubuntu and Windows](https://discourse.llvm.org/t/driver-volunteer-wanted-for-modules-support-in-driver-for-mac-ubuntu-and-windows/83768#post_8)
+- [How to handle host-side global data automatically when lowering to GPU with MLIR?](https://discourse.llvm.org/t/how-to-handle-host-side-global-data-automatically-when-lowering-to-gpu-with-mlir/84080#post_1)
 - [Question and Proposal Regarding Complex Number Division Algorithm in the complex dialect](https://discourse.llvm.org/t/question-and-proposal-regarding-complex-number-division-algorithm-in-the-complex-dialect/83772#post_8)
-- [[RFC] [MLIR] [Vector] Constant Folding Vector Reduction &lpar;Splat-Splat&rpar;](https://discourse.llvm.org/t/rfc-mlir-vector-constant-folding-vector-reduction-splat-splat/84066#post_3)
-- [RFC: Upstream HeuristicResolver from clangd to libSema](https://discourse.llvm.org/t/rfc-upstream-heuristicresolver-from-clangd-to-libsema/84004#post_4)
-- [Please share your opinions for Linux&#39;s new note name macros](https://discourse.llvm.org/t/please-share-your-opinions-for-linuxs-new-note-name-macros/83959#post_3)
-- [Is noalias propagated in MachineIR after lowering?](https://discourse.llvm.org/t/is-noalias-propagated-in-machineir-after-lowering/84075#post_3)
 <!-- DISCOURSE-LLVM:END -->
