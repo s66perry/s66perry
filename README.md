@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Incubating TCP take 2](https://discourse.llvm.org/t/rfc-incubating-tcp-take-2/84081#post_7)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=2#post_21)
-- [Changing default C++ mode to C++20](https://discourse.llvm.org/t/changing-default-c-mode-to-c-20/84015#post_6)
-- [Changing default C++ mode to C++20](https://discourse.llvm.org/t/changing-default-c-mode-to-c-20/84015#post_5)
-- [Optimization Levels Result Differently](https://discourse.llvm.org/t/optimization-levels-result-differently/84033#post_5)
+- [Control Flow Integrity + PC-Relative VTables](https://discourse.llvm.org/t/control-flow-integrity-pc-relative-vtables/84071#post_5)
+- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_4)
+- [Changing default C++ mode to C++20](https://discourse.llvm.org/t/changing-default-c-mode-to-c-20/84015#post_7)
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=2#post_22)
+- [CIRCT: Lowering Upstream MLIR into Verilog](https://discourse.llvm.org/t/circt-lowering-upstream-mlir-into-verilog/84076#post_4)
 <!-- DISCOURSE-LLVM:END -->
