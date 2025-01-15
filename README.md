@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Dangerous tests in release 19 make OOM](https://discourse.llvm.org/t/dangerous-tests-in-release-19-make-oom/84085#post_1)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073#post_12)
-- [Clang: warning, variable length array folded to constant array as an extension](https://discourse.llvm.org/t/clang-warning-variable-length-array-folded-to-constant-array-as-an-extension/84082#post_2)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073#post_11)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073#post_10)
+- [[Driver] Volunteer wanted for modules support in driver for Mac, Ubuntu and Windows](https://discourse.llvm.org/t/driver-volunteer-wanted-for-modules-support-in-driver-for-mac-ubuntu-and-windows/83768#post_11)
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073#post_15)
+- [[RFC] [MLIR] [Vector] Constant Folding Vector Reduction &lpar;Splat-Splat&rpar;](https://discourse.llvm.org/t/rfc-mlir-vector-constant-folding-vector-reduction-splat-splat/84066#post_4)
+- [Tablegen results have undefined entries](https://discourse.llvm.org/t/tablegen-results-have-undefined-entries/84086#post_1)
+- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_13)
 <!-- DISCOURSE-LLVM:END -->
