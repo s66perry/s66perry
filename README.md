@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[mlir][RFC] Adding argument and result attributes to llvm.call](https://discourse.llvm.org/t/mlir-rfc-adding-argument-and-result-attributes-to-llvm-call/84107#post_1)
-- [Tablegen results have undefined entries](https://discourse.llvm.org/t/tablegen-results-have-undefined-entries/84086#post_4)
-- [Tablegen results have undefined entries](https://discourse.llvm.org/t/tablegen-results-have-undefined-entries/84086#post_3)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=2#post_23)
-- [[Driver] Volunteer wanted for modules support in driver for Mac, Ubuntu and Windows](https://discourse.llvm.org/t/driver-volunteer-wanted-for-modules-support-in-driver-for-mac-ubuntu-and-windows/83768#post_13)
+- [Scalable vector types in clang builtins using `TargetBuiltin`](https://discourse.llvm.org/t/scalable-vector-types-in-clang-builtins-using-targetbuiltin/84099#post_2)
+- [How to solve the problem of stale Profile data when Bolt is used with pgo?](https://discourse.llvm.org/t/how-to-solve-the-problem-of-stale-profile-data-when-bolt-is-used-with-pgo/78007#post_12)
+- [[mlir][RFC] Adding argument and result attributes to llvm.call](https://discourse.llvm.org/t/mlir-rfc-adding-argument-and-result-attributes-to-llvm-call/84107#post_2)
+- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_28)
+- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049#post_15)
 <!-- DISCOURSE-LLVM:END -->
