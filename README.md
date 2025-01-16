@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006?page=2#post_29)
-- [[mlir][RFC] Extracting argument and result attributes interface to share it between call and functions](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-to-share-it-between-call-and-functions/84107#post_7)
-- [Canonical Paths in FixItHints](https://discourse.llvm.org/t/canonical-paths-in-fixithints/84115#post_1)
-- [[mlir][RFC] Extracting argument and result attributes interface to share it between call and functions](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-to-share-it-between-call-and-functions/84107#post_6)
-- [[mlir][RFC] Extracting argument and result attributes interface to share it between call and functions](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-to-share-it-between-call-and-functions/84107#post_5)
+- [[RFC] [MLIR] [Vector] Constant Folding Vector Reduction &lpar;Splat-Splat&rpar;](https://discourse.llvm.org/t/rfc-mlir-vector-constant-folding-vector-reduction-splat-splat/84066#post_8)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=2#post_32)
+- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049#post_17)
+- [Detect Undefined Behavior due to Uninitialized Variables in BPF Programs](https://discourse.llvm.org/t/detect-undefined-behavior-due-to-uninitialized-variables-in-bpf-programs/84116#post_2)
+- [[RFC] [MLIR] [Vector] Constant Folding Vector Reduction &lpar;Splat-Splat&rpar;](https://discourse.llvm.org/t/rfc-mlir-vector-constant-folding-vector-reduction-splat-splat/84066#post_7)
 <!-- DISCOURSE-LLVM:END -->
