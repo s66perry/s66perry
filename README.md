@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[mlir][RFC] Extracting argument and result attributes interface so that they can be used by both call and callables](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-so-that-they-can-be-used-by-both-call-and-callables/84107#post_5)
-- [Always fold a node: duplicate the incoming node or custom selection?](https://discourse.llvm.org/t/always-fold-a-node-duplicate-the-incoming-node-or-custom-selection/84114#post_1)
-- [Dangerous tests in release 19 make OOM](https://discourse.llvm.org/t/dangerous-tests-in-release-19-make-oom/84085#post_8)
-- [[mlir][RFC] Extracting argument and result attributes interface so that they can be used by both call and callables](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-so-that-they-can-be-used-by-both-call-and-callables/84107#post_4)
-- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_29)
+- [[RFC] New attribute: `annotate_decl`](https://discourse.llvm.org/t/rfc-new-attribute-annotate-decl/84006?page=2#post_29)
+- [[mlir][RFC] Extracting argument and result attributes interface to share it between call and functions](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-to-share-it-between-call-and-functions/84107#post_7)
+- [Canonical Paths in FixItHints](https://discourse.llvm.org/t/canonical-paths-in-fixithints/84115#post_1)
+- [[mlir][RFC] Extracting argument and result attributes interface to share it between call and functions](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-to-share-it-between-call-and-functions/84107#post_6)
+- [[mlir][RFC] Extracting argument and result attributes interface to share it between call and functions](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-to-share-it-between-call-and-functions/84107#post_5)
 <!-- DISCOURSE-LLVM:END -->
