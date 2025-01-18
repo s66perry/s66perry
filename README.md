@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Upstream HeuristicResolver from clangd to libSema](https://discourse.llvm.org/t/rfc-upstream-heuristicresolver-from-clangd-to-libsema/84004#post_5)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_133)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_132)
 - [Lowering LLVM IR Intrinsics to RISC-V](https://discourse.llvm.org/t/lowering-llvm-ir-intrinsics-to-risc-v/84134#post_6)
 - [Lowering LLVM IR Intrinsics to RISC-V](https://discourse.llvm.org/t/lowering-llvm-ir-intrinsics-to-risc-v/84134#post_5)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_131)
-- [Lowering LLVM IR Intrinsics to RISC-V](https://discourse.llvm.org/t/lowering-llvm-ir-intrinsics-to-risc-v/84134#post_4)
-- [Lowering LLVM IR Intrinsics to RISC-V](https://discourse.llvm.org/t/lowering-llvm-ir-intrinsics-to-risc-v/84134#post_3)
 <!-- DISCOURSE-LLVM:END -->
