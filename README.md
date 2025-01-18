@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building LLVM with address sanitization enabled](https://discourse.llvm.org/t/building-llvm-with-address-sanitization-enabled/84145#post_1)
 - [Tried adding a new diagnostic and it failed a test](https://discourse.llvm.org/t/tried-adding-a-new-diagnostic-and-it-failed-a-test/84144#post_2)
 - [Optimization Levels Result Differently](https://discourse.llvm.org/t/optimization-levels-result-differently/84033#post_6)
 - [Tried adding a new diagnostic and it failed a test](https://discourse.llvm.org/t/tried-adding-a-new-diagnostic-and-it-failed-a-test/84144#post_1)
 - [Unordered_set size=0?](https://discourse.llvm.org/t/unordered-set-size-0/84143#post_1)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_134)
 <!-- DISCOURSE-LLVM:END -->
