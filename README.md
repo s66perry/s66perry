@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [.cfi_offset position](https://discourse.llvm.org/t/cfi-offset-position/84165#post_1)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=2#post_36)
-- [Am I forced to use decltype to correctly error when using function rvalue modifier with a variadic template?](https://discourse.llvm.org/t/am-i-forced-to-use-decltype-to-correctly-error-when-using-function-rvalue-modifier-with-a-variadic-template/84154#post_2)
-- [I am not able to install certain libraries&lpar;.so&rpar; files for llvm. without these libraries i am not able to install pocl compiler in my system](https://discourse.llvm.org/t/i-am-not-able-to-install-certain-libraries-so-files-for-llvm-without-these-libraries-i-am-not-able-to-install-pocl-compiler-in-my-system/84160#post_3)
-- [I am not able to install certain libraries&lpar;.so&rpar; files for llvm. without these libraries i am not able to install pocl compiler in my system](https://discourse.llvm.org/t/i-am-not-able-to-install-certain-libraries-so-files-for-llvm-without-these-libraries-i-am-not-able-to-install-pocl-compiler-in-my-system/84160#post_2)
+- [Divergent Control Flow](https://discourse.llvm.org/t/divergent-control-flow/80423?page=2#post_24)
+- [[LLVM IR] Basic Block reordering in LLVM IR](https://discourse.llvm.org/t/llvm-ir-basic-block-reordering-in-llvm-ir/79298#post_10)
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_15)
+- [LLVM Meetup in Munich – January 28th 2025](https://discourse.llvm.org/t/llvm-meetup-in-munich-january-28th-2025/83805#post_2)
+- [[MLIR][RFC]: introduce linalg.contract](https://discourse.llvm.org/t/mlir-rfc-introduce-linalg-contract/83589?page=3#post_46)
 <!-- DISCOURSE-LLVM:END -->
