@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Linalg.generic: Iteration domain](https://discourse.llvm.org/t/linalg-generic-iteration-domain/84181#post_2)
-- [Linalg.generic: Iteration domain](https://discourse.llvm.org/t/linalg-generic-iteration-domain/84181#post_1)
-- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors/84180#post_2)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=2#post_40)
-- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors/84180#post_1)
+- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors/84180#post_5)
+- [[RFC] autocheck: A Source Code Analysis Tool based on Clang/LLVM for Automotive](https://discourse.llvm.org/t/rfc-autocheck-a-source-code-analysis-tool-based-on-clang-llvm-for-automotive/76333#post_17)
+- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors/84180#post_4)
+- [TLS support in GPU progamming](https://discourse.llvm.org/t/tls-support-in-gpu-progamming/84175#post_4)
+- [[llvm-xray] unable to account multithreaded programs](https://discourse.llvm.org/t/llvm-xray-unable-to-account-multithreaded-programs/83874#post_6)
 <!-- DISCOURSE-LLVM:END -->
