@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors/84180#post_5)
+- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=2#post_23)
+- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors without commit access](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors-without-commit-access/84180#post_6)
+- [Code Modernization Plugin for New C23 Standard](https://discourse.llvm.org/t/code-modernization-plugin-for-new-c23-standard/84139#post_7)
+- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors without commit access](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors-without-commit-access/84180#post_5)
 - [[RFC] autocheck: A Source Code Analysis Tool based on Clang/LLVM for Automotive](https://discourse.llvm.org/t/rfc-autocheck-a-source-code-analysis-tool-based-on-clang-llvm-for-automotive/76333#post_17)
-- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors/84180#post_4)
-- [TLS support in GPU progamming](https://discourse.llvm.org/t/tls-support-in-gpu-progamming/84175#post_4)
-- [[llvm-xray] unable to account multithreaded programs](https://discourse.llvm.org/t/llvm-xray-unable-to-account-multithreaded-programs/83874#post_6)
 <!-- DISCOURSE-LLVM:END -->
