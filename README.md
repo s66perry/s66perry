@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Canonicalization of Subview of Subview](https://discourse.llvm.org/t/canonicalization-of-subview-of-subview/84179#post_1)
+- [LLVM Meetup Darmstadt, Wed. 29. January 2025](https://discourse.llvm.org/t/llvm-meetup-darmstadt-wed-29-january-2025/84178#post_1)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=7#post_136)
 - [[GlobalISel] HwModes for pointers of different sizes](https://discourse.llvm.org/t/globalisel-hwmodes-for-pointers-of-different-sizes/84174#post_2)
 - [TLS support in GPU progamming](https://discourse.llvm.org/t/tls-support-in-gpu-progamming/84175#post_2)
-- [&quot;RFC: Enforcing pointer type alignment in Clang&quot; and UBSan](https://discourse.llvm.org/t/rfc-enforcing-pointer-type-alignment-in-clang-and-ubsan/83922#post_9)
-- [Detect Undefined Behavior due to Uninitialized Variables in BPF Programs](https://discourse.llvm.org/t/detect-undefined-behavior-due-to-uninitialized-variables-in-bpf-programs/84116#post_5)
-- [TLS support in GPU progamming](https://discourse.llvm.org/t/tls-support-in-gpu-progamming/84175#post_1)
 <!-- DISCOURSE-LLVM:END -->
