@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors without commit access](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors-without-commit-access/84180#post_13)
-- [[RFC] Move `tensor.pack` and `tensor.unpack` into Linalg](https://discourse.llvm.org/t/rfc-move-tensor-pack-and-tensor-unpack-into-linalg/83096?page=2#post_28)
-- [Linalg.generic: Iteration domain](https://discourse.llvm.org/t/linalg-generic-iteration-domain/84181#post_7)
-- [[PSA] Renaming of mlir-cpu-runner to mlir-runner](https://discourse.llvm.org/t/psa-renaming-of-mlir-cpu-runner-to-mlir-runner/84201#post_2)
-- [LLVM Elections Update](https://discourse.llvm.org/t/llvm-elections-update/84208#post_1)
+- [Difference between address and datum](https://discourse.llvm.org/t/difference-between-address-and-datum/84210#post_1)
+- [Release/20.x will be created in 6 days](https://discourse.llvm.org/t/release-20-x-will-be-created-in-6-days/84209#post_1)
+- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_6)
+- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_5)
+- [Linalg.generic: Iteration domain](https://discourse.llvm.org/t/linalg-generic-iteration-domain/84181#post_8)
 <!-- DISCOURSE-LLVM:END -->
