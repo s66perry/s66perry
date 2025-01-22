@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Bootstrapping cross compiler - runtimes build failure](https://discourse.llvm.org/t/bootstrapping-cross-compiler-runtimes-build-failure/84194#post_1)
+- [[RFC] Support pseudo probe for Windows COFF](https://discourse.llvm.org/t/rfc-support-pseudo-probe-for-windows-coff/83820#post_3)
+- [[RFC] Support pseudo probe for Windows COFF](https://discourse.llvm.org/t/rfc-support-pseudo-probe-for-windows-coff/83820#post_2)
 - [TLS support in GPU progamming](https://discourse.llvm.org/t/tls-support-in-gpu-progamming/84175#post_8)
 - [TLS support in GPU progamming](https://discourse.llvm.org/t/tls-support-in-gpu-progamming/84175#post_7)
-- [TLS support in GPU progamming](https://discourse.llvm.org/t/tls-support-in-gpu-progamming/84175#post_6)
-- [Manually building &lpar;cross platform&rpar; runtimes](https://discourse.llvm.org/t/manually-building-cross-platform-runtimes/84169#post_2)
-- [Get vtable in a constexpr?](https://discourse.llvm.org/t/get-vtable-in-a-constexpr/84193#post_1)
 <!-- DISCOURSE-LLVM:END -->
