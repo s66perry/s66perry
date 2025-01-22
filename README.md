@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Difference between address and datum](https://discourse.llvm.org/t/difference-between-address-and-datum/84210#post_1)
-- [Release/20.x will be created in 6 days](https://discourse.llvm.org/t/release-20-x-will-be-created-in-6-days/84209#post_1)
-- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_6)
-- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_5)
-- [Linalg.generic: Iteration domain](https://discourse.llvm.org/t/linalg-generic-iteration-domain/84181#post_8)
+- [Detect Undefined Behavior due to Uninitialized Variables in BPF Programs](https://discourse.llvm.org/t/detect-undefined-behavior-due-to-uninitialized-variables-in-bpf-programs/84116#post_7)
+- [Adding short backtrace debuginfo](https://discourse.llvm.org/t/adding-short-backtrace-debuginfo/84187#post_2)
+- [[RFC][OpenMP] supporting delayed task execution with firstprivate variables](https://discourse.llvm.org/t/rfc-openmp-supporting-delayed-task-execution-with-firstprivate-variables/83084#post_8)
+- [MLIR Organization &amp; Charter](https://discourse.llvm.org/t/mlir-organization-charter/84118#post_6)
+- [Difference between address and datum](https://discourse.llvm.org/t/difference-between-address-and-datum/84210#post_2)
 <!-- DISCOURSE-LLVM:END -->
