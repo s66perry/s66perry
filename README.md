@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Renaming of mlir-cpu-runner to mlir-runner](https://discourse.llvm.org/t/psa-renaming-of-mlir-cpu-runner-to-mlir-runner/84201#post_1)
+- [Clang tooling sensitivity to tool name](https://discourse.llvm.org/t/clang-tooling-sensitivity-to-tool-name/84152#post_2)
+- [Handling output sections with same name but no memory region for each](https://discourse.llvm.org/t/handling-output-sections-with-same-name-but-no-memory-region-for-each/84199#post_1)
 - [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=2#post_27)
 - [Why does this need a copy constructor when I use this variadic template?](https://discourse.llvm.org/t/why-does-this-need-a-copy-constructor-when-i-use-this-variadic-template/84170#post_2)
-- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=2#post_26)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=2#post_35)
-- [Question and Proposal Regarding Complex Number Division Algorithm in the complex dialect](https://discourse.llvm.org/t/question-and-proposal-regarding-complex-number-division-algorithm-in-the-complex-dialect/83772#post_11)
 <!-- DISCOURSE-LLVM:END -->
