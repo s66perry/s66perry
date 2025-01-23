@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=8#post_155)
+- [[RFC] Profile Guided Static Data Partitioning](https://discourse.llvm.org/t/rfc-profile-guided-static-data-partitioning/83744#post_13)
 - [LLVM+GSoC 2025: call for mentors and projects!](https://discourse.llvm.org/t/llvm-gsoc-2025-call-for-mentors-and-projects/84224#post_1)
 - [Get vtable in a constexpr?](https://discourse.llvm.org/t/get-vtable-in-a-constexpr/84193#post_4)
 - [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_7)
-- [Adding short backtrace debuginfo](https://discourse.llvm.org/t/adding-short-backtrace-debuginfo/84187#post_7)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=8#post_154)
 <!-- DISCOURSE-LLVM:END -->
