@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987#post_17)
-- [Get rid of checker name handling boilerplate](https://discourse.llvm.org/t/get-rid-of-checker-name-handling-boilerplate/84088#post_8)
-- [[Question] Conditional OneToN conversion using `OneToNOpConversionPattern`](https://discourse.llvm.org/t/question-conditional-oneton-conversion-using-onetonopconversionpattern/82964#post_13)
-- [[RFC] Computing, storing, and restoring conservative call graphs with LLVM](https://discourse.llvm.org/t/rfc-computing-storing-and-restoring-conservative-call-graphs-with-llvm/58446#post_9)
-- [Get rid of va_end](https://discourse.llvm.org/t/get-rid-of-va-end/84235#post_1)
+- [Get rid of va_end](https://discourse.llvm.org/t/get-rid-of-va-end/84235#post_2)
+- [Techniques to optimize for size better?](https://discourse.llvm.org/t/techniques-to-optimize-for-size-better/84236#post_2)
+- [Techniques to optimize for size better?](https://discourse.llvm.org/t/techniques-to-optimize-for-size-better/84236#post_1)
+- [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_10)
+- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_4)
 <!-- DISCOURSE-LLVM:END -->
