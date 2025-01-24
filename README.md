@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Renaming of mlir-cpu-runner to mlir-runner](https://discourse.llvm.org/t/psa-renaming-of-mlir-cpu-runner-to-mlir-runner/84201#post_6)
+- [New Defects reported by Coverity Scan for llvm](https://discourse.llvm.org/t/new-defects-reported-by-coverity-scan-for-llvm/84231#post_1)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=8#post_161)
 - [Physical subregister liveness](https://discourse.llvm.org/t/physical-subregister-liveness/59657#post_3)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=8#post_160)
-- [Physical subregister liveness](https://discourse.llvm.org/t/physical-subregister-liveness/59657#post_2)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=8#post_159)
 <!-- DISCOURSE-LLVM:END -->
