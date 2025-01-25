@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_5)
+- [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_4)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_170)
 - [Python interface for GPU execution](https://discourse.llvm.org/t/python-interface-for-gpu-execution/84215#post_4)
 - [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_17)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_169)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_168)
 <!-- DISCOURSE-LLVM:END -->
