@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_170)
+- [Python interface for GPU execution](https://discourse.llvm.org/t/python-interface-for-gpu-execution/84215#post_4)
+- [Computations involving constants, constant folding and dialect_resources](https://discourse.llvm.org/t/computations-involving-constants-constant-folding-and-dialect-resources/83633#post_17)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_169)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_168)
-- [Python interface for GPU execution](https://discourse.llvm.org/t/python-interface-for-gpu-execution/84215#post_3)
-- [Starting my small machine-learning framework with MLIR linalg, Enzyme, etc](https://discourse.llvm.org/t/starting-my-small-machine-learning-framework-with-mlir-linalg-enzyme-etc/84241#post_1)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_167)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_166)
 <!-- DISCOURSE-LLVM:END -->
