@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Project level `.clangd` config file does not seem to affect behaviour](https://discourse.llvm.org/t/project-level-clangd-config-file-does-not-seem-to-affect-behaviour/84203#post_7)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_9)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_8)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_7)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_6)
-- [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_5)
 <!-- DISCOURSE-LLVM:END -->
