@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Lowering LLVM vector types in RISC-V](https://discourse.llvm.org/t/lowering-llvm-vector-types-in-risc-v/84270#post_2)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_177)
-- [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_12)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_176)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_175)
+- [LLVM :hearts: ML at EuroLLVM 2025?](https://discourse.llvm.org/t/llvm-ml-at-eurollvm-2025/84225#post_2)
+- [LLVM Weekly - #578, January 27th 2025](https://discourse.llvm.org/t/llvm-weekly-578-january-27th-2025/84275#post_3)
+- [LLVM Weekly - #578, January 27th 2025](https://discourse.llvm.org/t/llvm-weekly-578-january-27th-2025/84275#post_2)
+- [LLVM Weekly - #578, January 27th 2025](https://discourse.llvm.org/t/llvm-weekly-578-january-27th-2025/84275#post_1)
+- [Get vtable in a constexpr?](https://discourse.llvm.org/t/get-vtable-in-a-constexpr/84193#post_8)
 <!-- DISCOURSE-LLVM:END -->
