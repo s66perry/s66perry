@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Bad file description in CompilerInstance](https://discourse.llvm.org/t/bad-file-description-in-compilerinstance/84254#post_2)
-- [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_11)
-- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_5)
-- [[SME][OpenMP] illegal instrunction of sme intrinsic in openmp outlined function](https://discourse.llvm.org/t/sme-openmp-illegal-instrunction-of-sme-intrinsic-in-openmp-outlined-function/84251#post_2)
-- [How to link .o files with clang?](https://discourse.llvm.org/t/how-to-link-o-files-with-clang/84257#post_6)
+- [How to link .o files with clang?](https://discourse.llvm.org/t/how-to-link-o-files-with-clang/84257#post_8)
+- [Lowering LLVM vector types in RISC-V](https://discourse.llvm.org/t/lowering-llvm-vector-types-in-risc-v/84270#post_1)
+- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_42)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Jan 30](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-jan-30/84269#post_1)
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=3#post_52)
 <!-- DISCOURSE-LLVM:END -->
