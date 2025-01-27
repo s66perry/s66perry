@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_176)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_175)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_174)
 - [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=3#post_53)
 - [Linalg.generic: Iteration domain](https://discourse.llvm.org/t/linalg-generic-iteration-domain/84181#post_9)
-- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_173)
 <!-- DISCOURSE-LLVM:END -->
