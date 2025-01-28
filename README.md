@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Buildbot changes with LLVM_ENABLE_RUNTIMES=flang-rt](https://discourse.llvm.org/t/buildbot-changes-with-llvm-enable-runtimes-flang-rt/83571#post_7)
-- [Help Needed: Handling Redundant Instructions in RISC-V Backend DAG-&gt;DAG Pattern Selection](https://discourse.llvm.org/t/help-needed-handling-redundant-instructions-in-risc-v-backend-dag-dag-pattern-selection/84297#post_1)
-- [&#39;hlfir.declare&#39; op of numeric, logical, or assumed type entity must not have length parameters](https://discourse.llvm.org/t/hlfir-declare-op-of-numeric-logical-or-assumed-type-entity-must-not-have-length-parameters/83629#post_6)
-- [SSA results and Symbols](https://discourse.llvm.org/t/ssa-results-and-symbols/84278#post_4)
-- [Lowering nested tosa.while to scf.while](https://discourse.llvm.org/t/lowering-nested-tosa-while-to-scf-while/84218#post_2)
+- [Llvm-objdump not working with pch](https://discourse.llvm.org/t/llvm-objdump-not-working-with-pch/84301#post_1)
+- [Help Needed: Handling Redundant Instructions in RISC-V Backend DAG-&gt;DAG Pattern Selection](https://discourse.llvm.org/t/help-needed-handling-redundant-instructions-in-risc-v-backend-dag-dag-pattern-selection/84297#post_2)
+- [[RFC] Fixing incompatibilties of the `x` packet w.r.t. GDB](https://discourse.llvm.org/t/rfc-fixing-incompatibilties-of-the-x-packet-w-r-t-gdb/84288#post_6)
+- [Setup mlir lsp server in emacs](https://discourse.llvm.org/t/setup-mlir-lsp-server-in-emacs/84002#post_4)
+- [[RFC] Fixing incompatibilties of the `x` packet w.r.t. GDB](https://discourse.llvm.org/t/rfc-fixing-incompatibilties-of-the-x-packet-w-r-t-gdb/84288#post_5)
 <!-- DISCOURSE-LLVM:END -->
