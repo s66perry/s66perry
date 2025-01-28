@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to link .o files with clang?](https://discourse.llvm.org/t/how-to-link-o-files-with-clang/84257#post_10)
-- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_43)
-- [SSA results and Symbols](https://discourse.llvm.org/t/ssa-results-and-symbols/84278#post_2)
-- [How to link .o files with clang?](https://discourse.llvm.org/t/how-to-link-o-files-with-clang/84257#post_9)
-- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_8)
+- [[RFC] Fixing incompatibilties of the `x` packet w.r.t. GDB](https://discourse.llvm.org/t/rfc-fixing-incompatibilties-of-the-x-packet-w-r-t-gdb/84288#post_3)
+- [[RFC] Fixing incompatibilties of the `x` packet w.r.t. GDB](https://discourse.llvm.org/t/rfc-fixing-incompatibilties-of-the-x-packet-w-r-t-gdb/84288#post_2)
+- [Starting my small machine-learning framework with MLIR linalg, Enzyme, etc](https://discourse.llvm.org/t/starting-my-small-machine-learning-framework-with-mlir-linalg-enzyme-etc/84241#post_6)
+- [SSA results and Symbols](https://discourse.llvm.org/t/ssa-results-and-symbols/84278#post_3)
+- [MLIR Python bindings: .pyi imports?](https://discourse.llvm.org/t/mlir-python-bindings-pyi-imports/83350#post_5)
 <!-- DISCOURSE-LLVM:END -->
