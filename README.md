@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR Python bindings: .pyi imports?](https://discourse.llvm.org/t/mlir-python-bindings-pyi-imports/83350#post_7)
+- [Adding short backtrace debuginfo](https://discourse.llvm.org/t/adding-short-backtrace-debuginfo/84187#post_10)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_12)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_11)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_10)
-- [Help Needed: Handling Redundant Instructions in RISC-V Backend DAG-&gt;DAG Pattern Selection](https://discourse.llvm.org/t/help-needed-handling-redundant-instructions-in-risc-v-backend-dag-dag-pattern-selection/84297#post_4)
-- [When pre-compiled header is processed during compilation?](https://discourse.llvm.org/t/when-pre-compiled-header-is-processed-during-compilation/84302#post_1)
 <!-- DISCOURSE-LLVM:END -->
