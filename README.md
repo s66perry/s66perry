@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Buildbot changes with LLVM_ENABLE_RUNTIMES=flang-rt](https://discourse.llvm.org/t/buildbot-changes-with-llvm-enable-runtimes-flang-rt/83571#post_6)
-- [Newbie how to prevent constant:i32&lt;2&gt; from becoming i8=constant&lt;2&gt;](https://discourse.llvm.org/t/newbie-how-to-prevent-constant-i32-2-from-becoming-i8-constant-2/84293#post_2)
-- [[RFC] Fixing incompatibilties of the `x` packet w.r.t. GDB](https://discourse.llvm.org/t/rfc-fixing-incompatibilties-of-the-x-packet-w-r-t-gdb/84288#post_4)
-- [RFC: Let&#39;s document &lpar;and enforce?&rpar; a minimum Python version for LLDB](https://discourse.llvm.org/t/rfc-lets-document-and-enforce-a-minimum-python-version-for-lldb/82731#post_19)
-- [Newbie how to prevent constant:i32&lt;2&gt; from becoming i8=constant&lt;2&gt;](https://discourse.llvm.org/t/newbie-how-to-prevent-constant-i32-2-from-becoming-i8-constant-2/84293#post_1)
+- [SSA results and Symbols](https://discourse.llvm.org/t/ssa-results-and-symbols/84278#post_4)
+- [Lowering nested tosa.while to scf.while](https://discourse.llvm.org/t/lowering-nested-tosa-while-to-scf-while/84218#post_2)
+- [Manually building &lpar;cross platform&rpar; runtimes](https://discourse.llvm.org/t/manually-building-cross-platform-runtimes/84169#post_3)
+- [Lowering LLVM vector types in RISC-V](https://discourse.llvm.org/t/lowering-llvm-vector-types-in-risc-v/84270#post_3)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=9#post_181)
 <!-- DISCOURSE-LLVM:END -->
