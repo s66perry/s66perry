@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Specialise composite type in ODS](https://discourse.llvm.org/t/specialise-composite-type-in-ods/84310#post_1)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=3#post_59)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=3#post_58)
-- [Enabling loop-interchange](https://discourse.llvm.org/t/enabling-loop-interchange/82589#post_13)
-- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_10)
+- [[RFC] Fixing incompatibilties of the `x` packet w.r.t. GDB](https://discourse.llvm.org/t/rfc-fixing-incompatibilties-of-the-x-packet-w-r-t-gdb/84288#post_9)
+- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417?page=2#post_22)
+- [[RFC] Fixing incompatibilties of the `x` packet w.r.t. GDB](https://discourse.llvm.org/t/rfc-fixing-incompatibilties-of-the-x-packet-w-r-t-gdb/84288#post_8)
+- [Loop handling improvement plans](https://discourse.llvm.org/t/loop-handling-improvement-plans/80417?page=2#post_21)
+- [Specialise composite type in ODS](https://discourse.llvm.org/t/specialise-composite-type-in-ods/84310#post_2)
 <!-- DISCOURSE-LLVM:END -->
