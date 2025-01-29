@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_15)
-- [Dumping a module causes void function calls to have assignment](https://discourse.llvm.org/t/dumping-a-module-causes-void-function-calls-to-have-assignment/84317#post_2)
-- [Dumping a module causes void function calls to have assignment](https://discourse.llvm.org/t/dumping-a-module-causes-void-function-calls-to-have-assignment/84317#post_1)
-- [Need help with the [llvm-mca][FeatureRequest] In timeline graph, note source of delay for each instruction #123756](https://discourse.llvm.org/t/need-help-with-the-llvm-mca-featurerequest-in-timeline-graph-note-source-of-delay-for-each-instruction-123756/84316#post_1)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=4#post_63)
+- [How to build a full fledged msan llvm toolchain](https://discourse.llvm.org/t/how-to-build-a-full-fledged-msan-llvm-toolchain/84319#post_1)
+- [RFC: Encouraging Reviewers to Merge on Behalf of PR Authors without commit access](https://discourse.llvm.org/t/rfc-encouraging-reviewers-to-merge-on-behalf-of-pr-authors-without-commit-access/84180#post_19)
+- [[RFC] Remove `vptr` from `undefined`](https://discourse.llvm.org/t/rfc-remove-vptr-from-undefined/83830#post_3)
+- [[RFC] Remove `vptr` from `undefined`](https://discourse.llvm.org/t/rfc-remove-vptr-from-undefined/83830#post_2)
+- [Newbie how to prevent constant:i32&lt;2&gt; from becoming i8=constant&lt;2&gt;](https://discourse.llvm.org/t/newbie-how-to-prevent-constant-i32-2-from-becoming-i8-constant-2/84293#post_3)
 <!-- DISCOURSE-LLVM:END -->
