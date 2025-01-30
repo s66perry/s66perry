@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_14)
-- [Process launched but nothing is displayed and it never stop](https://discourse.llvm.org/t/process-launched-but-nothing-is-displayed-and-it-never-stop/84334#post_4)
-- [Process launched but nothing is displayed and it never stop](https://discourse.llvm.org/t/process-launched-but-nothing-is-displayed-and-it-never-stop/84334#post_3)
-- [Process launched but nothing is displayed and it never stop](https://discourse.llvm.org/t/process-launched-but-nothing-is-displayed-and-it-never-stop/84334#post_2)
-- [[RFC] Names for Flang-RT libraries](https://discourse.llvm.org/t/rfc-names-for-flang-rt-libraries/84321#post_6)
+- [Handling throwing intrinsics](https://discourse.llvm.org/t/handling-throwing-intrinsics/84314#post_4)
+- [Handling throwing intrinsics](https://discourse.llvm.org/t/handling-throwing-intrinsics/84314#post_3)
+- [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=10#post_185)
+- [Can LLVM generate multiple object files in parallel from a single Clang AST?](https://discourse.llvm.org/t/can-llvm-generate-multiple-object-files-in-parallel-from-a-single-clang-ast/79128#post_3)
+- [Adding function calls in Machine IR after Register Allocation](https://discourse.llvm.org/t/adding-function-calls-in-machine-ir-after-register-allocation/84337#post_1)
 <!-- DISCOURSE-LLVM:END -->
