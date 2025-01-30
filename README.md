@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Official LLVM Binary Releases for Arm and AArch64 Platforms](https://discourse.llvm.org/t/rfc-official-llvm-binary-releases-for-arm-and-aarch64-platforms/82413#post_18)
-- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_11)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=4#post_65)
-- [Can we identify if a callee is from the C++ standard library when emitting a call in Clang?](https://discourse.llvm.org/t/can-we-identify-if-a-callee-is-from-the-c-standard-library-when-emitting-a-call-in-clang/84324#post_6)
-- [[RFC] Names for Flang-RT libraries](https://discourse.llvm.org/t/rfc-names-for-flang-rt-libraries/84321#post_3)
+- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_12)
+- [[RFC] Names for Flang-RT libraries](https://discourse.llvm.org/t/rfc-names-for-flang-rt-libraries/84321#post_5)
+- [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_16)
+- [[RFC] Names for Flang-RT libraries](https://discourse.llvm.org/t/rfc-names-for-flang-rt-libraries/84321#post_4)
+- [[RFC] Remove `vptr` from `undefined`](https://discourse.llvm.org/t/rfc-remove-vptr-from-undefined/83830#post_4)
 <!-- DISCOURSE-LLVM:END -->
