@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[analyzer][RFC] `-ftime-trace` time scopes for steps and entry points](https://discourse.llvm.org/t/analyzer-rfc-ftime-trace-time-scopes-for-steps-and-entry-points/84343#post_3)
-- [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_17)
-- [[analyzer][RFC] `-ftime-trace` time scopes for steps and entry points](https://discourse.llvm.org/t/analyzer-rfc-ftime-trace-time-scopes-for-steps-and-entry-points/84343#post_2)
-- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_16)
-- [[analyzer][RFC] `-ftime-trace` time scopes for steps and entry points](https://discourse.llvm.org/t/analyzer-rfc-ftime-trace-time-scopes-for-steps-and-entry-points/84343#post_1)
+- [Add RISC-V CSRs to core dumps](https://discourse.llvm.org/t/add-risc-v-csrs-to-core-dumps/84348#post_3)
+- [Add RISC-V CSRs to core dumps](https://discourse.llvm.org/t/add-risc-v-csrs-to-core-dumps/84348#post_2)
+- [Add RISC-V CSRs to core dumps](https://discourse.llvm.org/t/add-risc-v-csrs-to-core-dumps/84348#post_1)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_2)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_1)
 <!-- DISCOURSE-LLVM:END -->
