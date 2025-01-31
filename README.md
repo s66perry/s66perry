@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Names for Flang-RT libraries](https://discourse.llvm.org/t/rfc-names-for-flang-rt-libraries/84321#post_7)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=4#post_75)
-- [MLIR Organization &amp; Charter](https://discourse.llvm.org/t/mlir-organization-charter/84118#post_15)
-- [MLIR Organization &amp; Charter](https://discourse.llvm.org/t/mlir-organization-charter/84118#post_14)
-- [MLIR Organization &amp; Charter](https://discourse.llvm.org/t/mlir-organization-charter/84118#post_13)
+- [[analyzer][RFC] `-ftime-trace` time scopes for steps and entry points](https://discourse.llvm.org/t/analyzer-rfc-ftime-trace-time-scopes-for-steps-and-entry-points/84343#post_3)
+- [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190#post_17)
+- [[analyzer][RFC] `-ftime-trace` time scopes for steps and entry points](https://discourse.llvm.org/t/analyzer-rfc-ftime-trace-time-scopes-for-steps-and-entry-points/84343#post_2)
+- [LLDB hides raw pointer value for libcxx and libstdcxx pointer types in summary string](https://discourse.llvm.org/t/lldb-hides-raw-pointer-value-for-libcxx-and-libstdcxx-pointer-types-in-summary-string/84226#post_16)
+- [[analyzer][RFC] `-ftime-trace` time scopes for steps and entry points](https://discourse.llvm.org/t/analyzer-rfc-ftime-trace-time-scopes-for-steps-and-entry-points/84343#post_1)
 <!-- DISCOURSE-LLVM:END -->
