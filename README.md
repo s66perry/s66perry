@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Organization &amp; Charter](https://discourse.llvm.org/t/mlir-organization-charter/84118#post_20)
-- [2025 EuroLLVM Updates &lpar;Hotel, Travel Grants, etc&rpar;](https://discourse.llvm.org/t/2025-eurollvm-updates-hotel-travel-grants-etc/84370#post_1)
-- [LLVM 20.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-20-1-0-rc1-tagged/84368#post_1)
-- [LLVM 20.1.0-rc1 Release](https://discourse.llvm.org/t/llvm-20-1-0-rc1-release/84367#post_1)
-- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_1)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_10)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_9)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_8)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_7)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_6)
 <!-- DISCOURSE-LLVM:END -->
