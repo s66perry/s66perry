@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=2#post_26)
+- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_14)
+- [LLVM 20.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-20-1-0-rc1-tagged/84368#post_2)
 - [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_45)
 - [Starting my small machine-learning framework with MLIR linalg, Enzyme, etc](https://discourse.llvm.org/t/starting-my-small-machine-learning-framework-with-mlir-linalg-enzyme-etc/84241#post_7)
-- [MLIR Organization &amp; Charter](https://discourse.llvm.org/t/mlir-organization-charter/84118?page=2#post_24)
-- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_13)
-- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_12)
 <!-- DISCOURSE-LLVM:END -->
