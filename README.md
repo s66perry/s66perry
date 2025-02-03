@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unrealized casts in EmitC](https://discourse.llvm.org/t/unrealized-casts-in-emitc/84383#post_4)
+- [Unrealized casts in EmitC](https://discourse.llvm.org/t/unrealized-casts-in-emitc/84383#post_3)
+- [Building Device IR and Host IR into an Executable](https://discourse.llvm.org/t/building-device-ir-and-host-ir-into-an-executable/84384#post_1)
+- [Unrealized casts in EmitC](https://discourse.llvm.org/t/unrealized-casts-in-emitc/84383#post_2)
 - [Unrealized casts in EmitC](https://discourse.llvm.org/t/unrealized-casts-in-emitc/84383#post_1)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=2#post_26)
-- [Enabling disassembly for new Xqci riscv-32 extension](https://discourse.llvm.org/t/enabling-disassembly-for-new-xqci-riscv-32-extension/84347#post_14)
-- [LLVM 20.1.0-rc1 tagged](https://discourse.llvm.org/t/llvm-20-1-0-rc1-tagged/84368#post_2)
-- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
