@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_5)
 - [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190?page=2#post_21)
 - [2025 EuroLLVM Co-located Workshop Application - Due Feb 1](https://discourse.llvm.org/t/2025-eurollvm-co-located-workshop-application-due-feb-1/84223#post_2)
 - [Mlgo meeting Feb 6th 2025](https://discourse.llvm.org/t/mlgo-meeting-feb-6th-2025/84409#post_1)
 - [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_4)
-- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_3)
 <!-- DISCOURSE-LLVM:END -->
