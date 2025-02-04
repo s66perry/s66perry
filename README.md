@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [2025 EuroLLVM Co-located Workshop Application - Due Feb 1](https://discourse.llvm.org/t/2025-eurollvm-co-located-workshop-application-due-feb-1/84223#post_2)
 - [Mlgo meeting Feb 6th 2025](https://discourse.llvm.org/t/mlgo-meeting-feb-6th-2025/84409#post_1)
 - [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_4)
 - [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_3)
 - [What is the purpose of a dialect attribute?](https://discourse.llvm.org/t/what-is-the-purpose-of-a-dialect-attribute/84407#post_3)
-- [[RFC] Upstreaming ClangIR](https://discourse.llvm.org/t/rfc-upstreaming-clangir/76587?page=3#post_59)
 <!-- DISCOURSE-LLVM:END -->
