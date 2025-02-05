@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where did FMS get lost?](https://discourse.llvm.org/t/where-did-fms-get-lost/84430#post_3)
-- [Where did FMS get lost?](https://discourse.llvm.org/t/where-did-fms-get-lost/84430#post_2)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386#post_10)
-- [[SME][OpenMP] illegal instrunction of sme intrinsic in openmp outlined function](https://discourse.llvm.org/t/sme-openmp-illegal-instrunction-of-sme-intrinsic-in-openmp-outlined-function/84251#post_6)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386#post_9)
+- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386#post_11)
+- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_3)
+- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_2)
+- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_1)
+- [Where did FMS get lost?](https://discourse.llvm.org/t/where-did-fms-get-lost/84430#post_4)
 <!-- DISCOURSE-LLVM:END -->
