@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Binutils 2.44 deprecated ld.gold](https://discourse.llvm.org/t/binutils-2-44-deprecated-ld-gold/84444#post_1)
+- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386#post_12)
+- [Any users of getLogicalOperandType GET_INSTRINFO_LOGICAL_OPERAND_TYPE_MAP?](https://discourse.llvm.org/t/any-users-of-getlogicaloperandtype-get-instrinfo-logical-operand-type-map/84442#post_2)
+- [Any users of getLogicalOperandType GET_INSTRINFO_LOGICAL_OPERAND_TYPE_MAP?](https://discourse.llvm.org/t/any-users-of-getlogicaloperandtype-get-instrinfo-logical-operand-type-map/84442#post_1)
 - [Rationale Behind MLIR&#39;s Builtin Tuple Type](https://discourse.llvm.org/t/rationale-behind-mlirs-builtin-tuple-type/84424#post_10)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_8)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_7)
-- [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356#post_9)
-- [[MLIR] Python Bindings Setup](https://discourse.llvm.org/t/mlir-python-bindings-setup/84440#post_1)
 <!-- DISCOURSE-LLVM:END -->
