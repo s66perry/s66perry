@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to add GlobalsAAWrapperPass in llvm?](https://discourse.llvm.org/t/how-to-add-globalsaawrapperpass-in-llvm/84457#post_1)
+- [Rationale Behind MLIR&#39;s Builtin Tuple Type](https://discourse.llvm.org/t/rationale-behind-mlirs-builtin-tuple-type/84424#post_11)
+- [How to link glibc++ dependencies without errors when compiling a project with libc++](https://discourse.llvm.org/t/how-to-link-glibc-dependencies-without-errors-when-compiling-a-project-with-libc/84456#post_1)
 - [Building Device IR and Host IR into an Executable](https://discourse.llvm.org/t/building-device-ir-and-host-ir-into-an-executable/84384#post_4)
 - [Load tombstones and coredumps plugins together in LLDB](https://discourse.llvm.org/t/load-tombstones-and-coredumps-plugins-together-in-lldb/84190?page=2#post_22)
-- [ELF2.0 proposal: What with LLVM?](https://discourse.llvm.org/t/elf2-0-proposal-what-with-llvm/84454#post_1)
-- [Binutils 2.44 deprecated ld.gold](https://discourse.llvm.org/t/binutils-2-44-deprecated-ld-gold/84444#post_5)
-- [Adding short backtrace debuginfo](https://discourse.llvm.org/t/adding-short-backtrace-debuginfo/84187#post_13)
 <!-- DISCOURSE-LLVM:END -->
