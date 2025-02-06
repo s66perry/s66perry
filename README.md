@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[BOLT] How to allocate a data section in bolt?](https://discourse.llvm.org/t/bolt-how-to-allocate-a-data-section-in-bolt/84460#post_2)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_10)
-- [Grad student looking for project](https://discourse.llvm.org/t/grad-student-looking-for-project/84468#post_4)
-- [ELF2.0 proposal: What with LLVM?](https://discourse.llvm.org/t/elf2-0-proposal-what-with-llvm/84454#post_6)
-- [Removing TargetIntrinsicInfo support](https://discourse.llvm.org/t/removing-targetintrinsicinfo-support/84470#post_1)
+- [PSA: API breaking changes for named operands in MIR](https://discourse.llvm.org/t/psa-api-breaking-changes-for-named-operands-in-mir/84475#post_1)
+- [WG21 meeting next week &lpar;10-15 Feb 2024&rpar;](https://discourse.llvm.org/t/wg21-meeting-next-week-10-15-feb-2024/84474#post_4)
+- [WG21 meeting next week &lpar;10-15 Feb 2024&rpar;](https://discourse.llvm.org/t/wg21-meeting-next-week-10-15-feb-2024/84474#post_3)
+- [WG21 meeting next week &lpar;10-15 Feb 2024&rpar;](https://discourse.llvm.org/t/wg21-meeting-next-week-10-15-feb-2024/84474#post_2)
+- [[MLIR] Python Bindings Setup](https://discourse.llvm.org/t/mlir-python-bindings-setup/84440#post_3)
 <!-- DISCOURSE-LLVM:END -->
