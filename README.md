@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [AST Matcher produces unexpected match](https://discourse.llvm.org/t/ast-matcher-produces-unexpected-match/84501#post_1)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=4#post_73)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386?page=2#post_26)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386?page=2#post_25)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386?page=2#post_24)
+- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_15)
+- [AST Matcher produces unexpected match](https://discourse.llvm.org/t/ast-matcher-produces-unexpected-match/84501#post_2)
+- [Board Meeting Minutes - January 2025](https://discourse.llvm.org/t/board-meeting-minutes-january-2025/84504#post_1)
+- [Board Meeting Minutes - December 2024](https://discourse.llvm.org/t/board-meeting-minutes-december-2024/84503#post_1)
+- [Source-based coverage results degradation between clang-14 and clang-18](https://discourse.llvm.org/t/source-based-coverage-results-degradation-between-clang-14-and-clang-18/84502#post_1)
 <!-- DISCOURSE-LLVM:END -->
