@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386#post_18)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386#post_17)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386#post_16)
-- [[RFC] Fast-math flags semantics: contract](https://discourse.llvm.org/t/rfc-fast-math-flags-semantics-contract/84478#post_1)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_11)
+- [[ClangIR][GSoC2025] Validate existing Clang CodeGen test coverage with ClangIR](https://discourse.llvm.org/t/clangir-gsoc2025-validate-existing-clang-codegen-test-coverage-with-clangir/84481#post_2)
+- [[ClangIR][GSoC2025] Validate existing Clang CodeGen test coverage with ClangIR](https://discourse.llvm.org/t/clangir-gsoc2025-validate-existing-clang-codegen-test-coverage-with-clangir/84481#post_1)
+- [What&#39;s RegState usage?](https://discourse.llvm.org/t/whats-regstate-usage/67576#post_9)
+- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_13)
+- [What&#39;s RegState usage?](https://discourse.llvm.org/t/whats-regstate-usage/67576#post_8)
 <!-- DISCOURSE-LLVM:END -->
