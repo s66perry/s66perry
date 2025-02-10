@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=4#post_79)
-- [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_2)
-- [Llvm-config outputs flags not recognized by clang](https://discourse.llvm.org/t/llvm-config-outputs-flags-not-recognized-by-clang/84544#post_3)
-- [[libc][GSoC 2025] Bfloat16 in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2025-bfloat16-in-llvm-libc/84469#post_4)
-- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_8)
+- [[clang][GSoC 2025] Support simple C++20 modules use from the Clang driver without a build system](https://discourse.llvm.org/t/clang-gsoc-2025-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/84511#post_3)
+- [Discrepancy of `long int` between llvm and gcc in riscv32](https://discourse.llvm.org/t/discrepancy-of-long-int-between-llvm-and-gcc-in-riscv32/84549#post_1)
+- [Area Team Elections - Voting Closes 2025-02-11 @ Noon GMT](https://discourse.llvm.org/t/area-team-elections-voting-closes-2025-02-11-noon-gmt/84548#post_1)
+- [Reminder: Area Team Elections are in progress!](https://discourse.llvm.org/t/reminder-area-team-elections-are-in-progress/84397#post_2)
+- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_52)
 <!-- DISCOURSE-LLVM:END -->
