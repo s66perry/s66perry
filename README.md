@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=4#post_79)
+- [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_2)
 - [Llvm-config outputs flags not recognized by clang](https://discourse.llvm.org/t/llvm-config-outputs-flags-not-recognized-by-clang/84544#post_3)
 - [[libc][GSoC 2025] Bfloat16 in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2025-bfloat16-in-llvm-libc/84469#post_4)
 - [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_8)
-- [Llvm-config outputs flags not recognized by clang](https://discourse.llvm.org/t/llvm-config-outputs-flags-not-recognized-by-clang/84544#post_2)
-- [Llvm-config outputs flags not recognized by clang](https://discourse.llvm.org/t/llvm-config-outputs-flags-not-recognized-by-clang/84544#post_1)
 <!-- DISCOURSE-LLVM:END -->
