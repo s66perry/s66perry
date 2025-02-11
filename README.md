@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495#post_4)
+- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_20)
+- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_19)
+- [[RFC] Coding convention clarification for file scoped global variables](https://discourse.llvm.org/t/rfc-coding-convention-clarification-for-file-scoped-global-variables/84577#post_3)
 - [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_3)
-- [AST Matcher produces unexpected match](https://discourse.llvm.org/t/ast-matcher-produces-unexpected-match/84501#post_4)
-- [Could not register function via __unw_add_find_dynamic_unwind_sections](https://discourse.llvm.org/t/could-not-register-function-via-unw-add-find-dynamic-unwind-sections/84561#post_2)
-- [[libc][GSoC 2025] Bfloat16 in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2025-bfloat16-in-llvm-libc/84469#post_5)
-- [[mlir][RFC] Extracting argument and result attributes interface to share it between call and functions](https://discourse.llvm.org/t/mlir-rfc-extracting-argument-and-result-attributes-interface-to-share-it-between-call-and-functions/84107#post_10)
 <!-- DISCOURSE-LLVM:END -->
