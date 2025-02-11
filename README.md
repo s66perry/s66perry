@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Modelling errno memory effects](https://discourse.llvm.org/t/rfc-modelling-errno-memory-effects/82972?page=2#post_22)
-- [How to Properly Lower MLIR to PTX for GPU Execution?](https://discourse.llvm.org/t/how-to-properly-lower-mlir-to-ptx-for-gpu-execution/84552#post_5)
-- [Source-based coverage results degradation between clang-14 and clang-18](https://discourse.llvm.org/t/source-based-coverage-results-degradation-between-clang-14-and-clang-18/84502#post_3)
-- [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495#post_4)
-- [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015#post_20)
+- [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554#post_3)
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=5#post_83)
+- [Go LLVM bindings choice for language development](https://discourse.llvm.org/t/go-llvm-bindings-choice-for-language-development/84592#post_2)
+- [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554#post_2)
+- [Go LLVM bindings choice for language development](https://discourse.llvm.org/t/go-llvm-bindings-choice-for-language-development/84592#post_1)
 <!-- DISCOURSE-LLVM:END -->
