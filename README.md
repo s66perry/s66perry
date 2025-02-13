@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Observing `UNKNOWN SSA VALUE` after my pass](https://discourse.llvm.org/t/observing-unknown-ssa-value-after-my-pass/84631#post_1)
+- [[RFC] autocheck: A Source Code Analysis Tool based on Clang/LLVM for Automotive](https://discourse.llvm.org/t/rfc-autocheck-a-source-code-analysis-tool-based-on-clang-llvm-for-automotive/76333#post_18)
+- [Assert Failure in --lower-affine Pass](https://discourse.llvm.org/t/assert-failure-in-lower-affine-pass/84616#post_3)
+- [[RFC] add --icf=safe_thunks in ELF like MachO](https://discourse.llvm.org/t/rfc-add-icf-safe-thunks-in-elf-like-macho/84584#post_9)
 - [[RFC] Building Flang&#39;s builtin .mod files](https://discourse.llvm.org/t/rfc-building-flangs-builtin-mod-files/84626#post_3)
-- [[libc][GSoC 2025] Profiling and testing of the LLVM libc GPU math](https://discourse.llvm.org/t/libc-gsoc-2025-profiling-and-testing-of-the-llvm-libc-gpu-math/84570#post_3)
-- [A pointer input parameter sometimes may miss](https://discourse.llvm.org/t/a-pointer-input-parameter-sometimes-may-miss/84627#post_1)
-- [[RFC] `MPI` Dialect](https://discourse.llvm.org/t/rfc-mpi-dialect/74705?page=3#post_46)
-- [[libc][GSoC 2025] Profiling and testing of the LLVM libc GPU math](https://discourse.llvm.org/t/libc-gsoc-2025-profiling-and-testing-of-the-llvm-libc-gpu-math/84570#post_2)
 <!-- DISCOURSE-LLVM:END -->
