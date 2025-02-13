@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Assert Failure in --lower-affine Pass](https://discourse.llvm.org/t/assert-failure-in-lower-affine-pass/84616#post_2)
+- [[GSoC2025] Advanced symbol resolution and reoptimization for clang-repl](https://discourse.llvm.org/t/gsoc2025-advanced-symbol-resolution-and-reoptimization-for-clang-repl/84624#post_1)
 - [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_54)
 - [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_53)
 - [Question and Proposal Regarding Complex Number Division Algorithm in the complex dialect](https://discourse.llvm.org/t/question-and-proposal-regarding-complex-number-division-algorithm-in-the-complex-dialect/83772#post_14)
-- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_9)
-- [[RFC] ArithFastMathInterface support for arith.select](https://discourse.llvm.org/t/rfc-arithfastmathinterface-support-for-arith-select/84508#post_2)
 <!-- DISCOURSE-LLVM:END -->
