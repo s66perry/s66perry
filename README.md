@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [AST Matcher produces unexpected match](https://discourse.llvm.org/t/ast-matcher-produces-unexpected-match/84501#post_6)
-- [Assert Failure in --lower-affine Pass](https://discourse.llvm.org/t/assert-failure-in-lower-affine-pass/84616#post_2)
-- [[GSoC2025] Advanced symbol resolution and reoptimization for clang-repl](https://discourse.llvm.org/t/gsoc2025-advanced-symbol-resolution-and-reoptimization-for-clang-repl/84624#post_1)
-- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_54)
-- [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_53)
+- [[libc][GSoC 2025] Profiling and testing of the LLVM libc GPU math](https://discourse.llvm.org/t/libc-gsoc-2025-profiling-and-testing-of-the-llvm-libc-gpu-math/84570#post_2)
+- [[RFC] add --icf=safe_thunks in ELF like MachO](https://discourse.llvm.org/t/rfc-add-icf-safe-thunks-in-elf-like-macho/84584#post_8)
+- [[RFC] Building Flang&#39;s builtin .mod files](https://discourse.llvm.org/t/rfc-building-flangs-builtin-mod-files/84626#post_2)
+- [[RFC] Building Flang&#39;s builtin .mod files](https://discourse.llvm.org/t/rfc-building-flangs-builtin-mod-files/84626#post_1)
+- [Can something be done with the &quot;inconsistency in registered CommandLine options&quot; error](https://discourse.llvm.org/t/can-something-be-done-with-the-inconsistency-in-registered-commandline-options-error/1720#post_13)
 <!-- DISCOURSE-LLVM:END -->
