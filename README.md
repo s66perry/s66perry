@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Assert Failure in --lower-affine Pass](https://discourse.llvm.org/t/assert-failure-in-lower-affine-pass/84616#post_7)
+- [[RFC] [mlir][arith] fptosi and fptoui wide integer emulation](https://discourse.llvm.org/t/rfc-mlir-arith-fptosi-and-fptoui-wide-integer-emulation/84638#post_1)
 - [[GSoC 2025] Byte Type](https://discourse.llvm.org/t/gsoc-2025-byte-type/84636#post_1)
 - [Enable arm64e when building for APPLE?](https://discourse.llvm.org/t/enable-arm64e-when-building-for-apple/84635#post_1)
 - [Difficulties with implementing JSON-formatted -ftime-report](https://discourse.llvm.org/t/difficulties-with-implementing-json-formatted-ftime-report/84353#post_4)
-- [Observing `UNKNOWN SSA VALUE` after my pass](https://discourse.llvm.org/t/observing-unknown-ssa-value-after-my-pass/84631#post_4)
-- [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495#post_14)
 <!-- DISCOURSE-LLVM:END -->
