@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR standalone build configuration failure](https://discourse.llvm.org/t/mlir-standalone-build-configuration-failure/84634#post_8)
+- [[GSoC 2025] Byte Type](https://discourse.llvm.org/t/gsoc-2025-byte-type/84636#post_2)
 - [MLIR standalone build configuration failure](https://discourse.llvm.org/t/mlir-standalone-build-configuration-failure/84634#post_7)
 - [Observing `UNKNOWN SSA VALUE` after my pass](https://discourse.llvm.org/t/observing-unknown-ssa-value-after-my-pass/84631#post_5)
 - [MLIR standalone build configuration failure](https://discourse.llvm.org/t/mlir-standalone-build-configuration-failure/84634#post_6)
-- [MLIR standalone build configuration failure](https://discourse.llvm.org/t/mlir-standalone-build-configuration-failure/84634#post_5)
-- [PDX February 2025 social](https://discourse.llvm.org/t/pdx-february-2025-social/84483#post_3)
 <!-- DISCOURSE-LLVM:END -->
