@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Trying to understand lining.matmul&#39;s indexing_maps](https://discourse.llvm.org/t/trying-to-understand-lining-matmuls-indexing-maps/84662#post_1)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_16)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_15)
 - [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_14)
 - [[RFC] LLVM LTS](https://discourse.llvm.org/t/rfc-llvm-lts/84049?page=3#post_56)
-- [[RFC] Codegen new pass manager pipeline construction design](https://discourse.llvm.org/t/rfc-codegen-new-pass-manager-pipeline-construction-design/84659#post_1)
 <!-- DISCOURSE-LLVM:END -->
