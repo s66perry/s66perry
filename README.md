@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The priority of -fno-fast-math regarding complex number calculations](https://discourse.llvm.org/t/the-priority-of-fno-fast-math-regarding-complex-number-calculations/84679#post_2)
+- [[libc][GSoC 2025] Profiling and testing of the LLVM libc GPU math](https://discourse.llvm.org/t/libc-gsoc-2025-profiling-and-testing-of-the-llvm-libc-gpu-math/84570#post_4)
+- [Unsuccessful attempts to fix a slow-analysis case related to `removeDead` and environment size](https://discourse.llvm.org/t/unsuccessful-attempts-to-fix-a-slow-analysis-case-related-to-removedead-and-environment-size/84650#post_5)
+- [Unsuccessful attempts to fix a slow-analysis case related to `removeDead` and environment size](https://discourse.llvm.org/t/unsuccessful-attempts-to-fix-a-slow-analysis-case-related-to-removedead-and-environment-size/84650#post_4)
 - [No ORCJIT support for Go Bindings](https://discourse.llvm.org/t/no-orcjit-support-for-go-bindings/84686#post_2)
-- [No ORCJIT support for Go Bindings](https://discourse.llvm.org/t/no-orcjit-support-for-go-bindings/84686#post_1)
-- [Bounty offer: LLDB Not Stepping into Multiple Inheritance Virtual Functions #43413](https://discourse.llvm.org/t/bounty-offer-lldb-not-stepping-into-multiple-inheritance-virtual-functions-43413/84683#post_2)
-- [Compiler intrinsics not found with clang-cl](https://discourse.llvm.org/t/compiler-intrinsics-not-found-with-clang-cl/84684#post_1)
-- [MLIR standalone build configuration failure](https://discourse.llvm.org/t/mlir-standalone-build-configuration-failure/84634#post_10)
 <!-- DISCOURSE-LLVM:END -->
