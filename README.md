@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] ObjectYAML with Coverage Map sections](https://discourse.llvm.org/t/rfc-objectyaml-with-coverage-map-sections/82953#post_12)
-- [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468#post_10)
-- [How to store into memory by column in MLIR?](https://discourse.llvm.org/t/how-to-store-into-memory-by-column-in-mlir/84591#post_3)
-- [How to implement memref writing in stride?](https://discourse.llvm.org/t/how-to-implement-memref-writing-in-stride/65819#post_7)
-- [Template arg resolution with PDB type information](https://discourse.llvm.org/t/template-arg-resolution-with-pdb-type-information/84675#post_1)
+- [Low Parallelism in GPU Mapping for Nested Parallel Loops in MLIR](https://discourse.llvm.org/t/low-parallelism-in-gpu-mapping-for-nested-parallel-loops-in-mlir/84670#post_2)
+- [[PSA] `tensor.pack` + `tensor.unpack` - Moving to Linalg Next Week](https://discourse.llvm.org/t/psa-tensor-pack-tensor-unpack-moving-to-linalg-next-week/84639#post_2)
+- [Unsuccessful attempts to fix a slow-analysis case related to `removeDead` and environment size](https://discourse.llvm.org/t/unsuccessful-attempts-to-fix-a-slow-analysis-case-related-to-removedead-and-environment-size/84650#post_3)
+- [Error when adding own created attribute](https://discourse.llvm.org/t/error-when-adding-own-created-attribute/84680#post_1)
+- [The priority of -fno-fast-math regarding complex number calculations](https://discourse.llvm.org/t/the-priority-of-fno-fast-math-regarding-complex-number-calculations/84679#post_1)
 <!-- DISCOURSE-LLVM:END -->
