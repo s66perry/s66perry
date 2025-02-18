@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_3)
+- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_2)
+- [How or can llvm optimise using side effects of instructions](https://discourse.llvm.org/t/how-or-can-llvm-optimise-using-side-effects-of-instructions/84665#post_4)
+- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_1)
 - [LLVM optimizations during PGOs](https://discourse.llvm.org/t/llvm-optimizations-during-pgos/84510#post_10)
-- [LLVM optimizations during PGOs](https://discourse.llvm.org/t/llvm-optimizations-during-pgos/84510#post_9)
-- [LLVM optimizations during PGOs](https://discourse.llvm.org/t/llvm-optimizations-during-pgos/84510#post_8)
-- [LLVM optimizations during PGOs](https://discourse.llvm.org/t/llvm-optimizations-during-pgos/84510#post_7)
-- [[RFC] Supporting more early-exit loops](https://discourse.llvm.org/t/rfc-supporting-more-early-exit-loops/84690#post_4)
 <!-- DISCOURSE-LLVM:END -->
