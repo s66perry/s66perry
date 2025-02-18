@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-tidy] Is it possible to run clang-tidy checks during the execution of clang?](https://discourse.llvm.org/t/clang-tidy-is-it-possible-to-run-clang-tidy-checks-during-the-execution-of-clang/84051#post_13)
+- [Manually building &lpar;cross platform&rpar; runtimes](https://discourse.llvm.org/t/manually-building-cross-platform-runtimes/84169#post_4)
+- [[RFC] Supporting more early-exit loops](https://discourse.llvm.org/t/rfc-supporting-more-early-exit-loops/84690#post_3)
+- [AnalysisManagers and Dataflow Analysis](https://discourse.llvm.org/t/analysismanagers-and-dataflow-analysis/84705#post_1)
 - [TI C2000 target not supported in clangd LSP](https://discourse.llvm.org/t/ti-c2000-target-not-supported-in-clangd-lsp/83015?page=2#post_23)
-- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_1)
-- [Go LLVM bindings choice for language development](https://discourse.llvm.org/t/go-llvm-bindings-choice-for-language-development/84592#post_4)
-- [No ORCJIT support for Go Bindings](https://discourse.llvm.org/t/no-orcjit-support-for-go-bindings/84686#post_4)
-- [How to organize pass ordering to transform a 1-D affine.parallel into nested multi-dimensional SCF or affine parallel loops](https://discourse.llvm.org/t/how-to-organize-pass-ordering-to-transform-a-1-d-affine-parallel-into-nested-multi-dimensional-scf-or-affine-parallel-loops/84700#post_1)
 <!-- DISCOURSE-LLVM:END -->
