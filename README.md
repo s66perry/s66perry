@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] &quot;Stack&quot; dialect](https://discourse.llvm.org/t/rfc-stack-dialect/84737#post_1)
+- [Why is Return address X1 defined as Callee Saved Register](https://discourse.llvm.org/t/why-is-return-address-x1-defined-as-callee-saved-register/84736#post_1)
+- [checkLocation for ImplicitCastExpr of kind CK_NoOp](https://discourse.llvm.org/t/checklocation-for-implicitcastexpr-of-kind-ck-noop/84729#post_3)
+- [Taking ownership of /clang/test/Analysis](https://discourse.llvm.org/t/taking-ownership-of-clang-test-analysis/84689#post_3)
 - [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_7)
-- [[MLIR] Specifying structs as CL options for PassOptions](https://discourse.llvm.org/t/mlir-specifying-structs-as-cl-options-for-passoptions/84652#post_6)
-- [[RFC] Should we aim for more consistency in tests?](https://discourse.llvm.org/t/rfc-should-we-aim-for-more-consistency-in-tests/84733#post_2)
-- [[RFC] Should we aim for more consistency in tests?](https://discourse.llvm.org/t/rfc-should-we-aim-for-more-consistency-in-tests/84733#post_1)
-- [Incorrect line coverage caused by artificial functions in gcov coverage reports](https://discourse.llvm.org/t/incorrect-line-coverage-caused-by-artificial-functions-in-gcov-coverage-reports/84732#post_1)
 <!-- DISCOURSE-LLVM:END -->
