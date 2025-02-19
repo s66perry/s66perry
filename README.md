@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_11)
-- [[MLIR] Specifying structs as CL options for PassOptions](https://discourse.llvm.org/t/mlir-specifying-structs-as-cl-options-for-passoptions/84652#post_4)
-- [2025 EuroLLVM - Registration is open!](https://discourse.llvm.org/t/2025-eurollvm-registration-is-open/84711#post_1)
-- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_3)
-- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_2)
+- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_9)
+- [Greetings from the Assistant Program Director](https://discourse.llvm.org/t/greetings-from-the-assistant-program-director/84714#post_2)
+- [[MLIR] Specifying structs as CL options for PassOptions](https://discourse.llvm.org/t/mlir-specifying-structs-as-cl-options-for-passoptions/84652#post_5)
+- [Greetings from the Assistant Program Director](https://discourse.llvm.org/t/greetings-from-the-assistant-program-director/84714#post_1)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
