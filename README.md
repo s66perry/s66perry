@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Infrastructure Area Team Bi-weekly Meeting](https://discourse.llvm.org/t/infrastructure-area-team-bi-weekly-meeting/84738#post_1)
-- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_3)
-- [Problems building and using the clang plugin](https://discourse.llvm.org/t/problems-building-and-using-the-clang-plugin/84730#post_2)
-- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_2)
-- [Why is Return address X1 defined as Callee Saved Register](https://discourse.llvm.org/t/why-is-return-address-x1-defined-as-callee-saved-register/84736#post_2)
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_6)
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_5)
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_4)
+- [No optimization for LDRB instruction sequences on ARM 7?](https://discourse.llvm.org/t/no-optimization-for-ldrb-instruction-sequences-on-arm-7/84716#post_3)
+- [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_1)
 <!-- DISCOURSE-LLVM:END -->
