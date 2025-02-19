@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Should we aim for more consistency in tests?](https://discourse.llvm.org/t/rfc-should-we-aim-for-more-consistency-in-tests/84733#post_1)
 - [Incorrect line coverage caused by artificial functions in gcov coverage reports](https://discourse.llvm.org/t/incorrect-line-coverage-caused-by-artificial-functions-in-gcov-coverage-reports/84732#post_1)
 - [Static analyzer or Data flow analysis](https://discourse.llvm.org/t/static-analyzer-or-data-flow-analysis/84728#post_4)
 - [Static analyzer or Data flow analysis](https://discourse.llvm.org/t/static-analyzer-or-data-flow-analysis/84728#post_3)
 - [Request for a review: `shape.broadcast` folder](https://discourse.llvm.org/t/request-for-a-review-shape-broadcast-folder/84731#post_1)
-- [checkLocation for ImplicitCastExpr of kind CK_NoOp](https://discourse.llvm.org/t/checklocation-for-implicitcastexpr-of-kind-ck-noop/84729#post_2)
 <!-- DISCOURSE-LLVM:END -->
