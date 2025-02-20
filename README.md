@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Taking ownership of /clang/test/Analysis](https://discourse.llvm.org/t/taking-ownership-of-clang-test-analysis/84689#post_5)
+- [Llvm-lit lable versus tools:llvm-lit](https://discourse.llvm.org/t/llvm-lit-lable-versus-tools-llvm-lit/84748#post_1)
+- [Taking ownership of /clang/test/Analysis](https://discourse.llvm.org/t/taking-ownership-of-clang-test-analysis/84689#post_4)
+- [[RFC] &quot;Stack&quot; dialect](https://discourse.llvm.org/t/rfc-stack-dialect/84737#post_10)
 - [IRRewriter.eraseOp failed to delete Op](https://discourse.llvm.org/t/irrewriter-eraseop-failed-to-delete-op/84745#post_3)
-- [Google&#39;s Plan for the LLVM Presubmit Infrastructure](https://discourse.llvm.org/t/googles-plan-for-the-llvm-presubmit-infrastructure/78940#post_5)
-- [WG14 meeting next week &lpar;24-28 Feb 2025&rpar;](https://discourse.llvm.org/t/wg14-meeting-next-week-24-28-feb-2025/84747#post_1)
-- [NewGVN/GVN PRE plans?](https://discourse.llvm.org/t/newgvn-gvn-pre-plans/84746#post_1)
-- [[RFC] &quot;Stack&quot; dialect](https://discourse.llvm.org/t/rfc-stack-dialect/84737#post_9)
 <!-- DISCOURSE-LLVM:END -->
