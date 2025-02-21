@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_10)
+- [Adding short backtrace debuginfo](https://discourse.llvm.org/t/adding-short-backtrace-debuginfo/84187#post_17)
+- [Google&#39;s Plan for the LLVM Presubmit Infrastructure](https://discourse.llvm.org/t/googles-plan-for-the-llvm-presubmit-infrastructure/78940#post_8)
 - [Google&#39;s Plan for the LLVM Presubmit Infrastructure](https://discourse.llvm.org/t/googles-plan-for-the-llvm-presubmit-infrastructure/78940#post_7)
 - [Google&#39;s Plan for the LLVM Presubmit Infrastructure](https://discourse.llvm.org/t/googles-plan-for-the-llvm-presubmit-infrastructure/78940#post_6)
-- [Buildbot changes with LLVM_ENABLE_RUNTIMES=flang-rt](https://discourse.llvm.org/t/buildbot-changes-with-llvm-enable-runtimes-flang-rt/83571#post_8)
-- [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_10)
-- [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_9)
 <!-- DISCOURSE-LLVM:END -->
