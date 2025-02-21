@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_6)
-- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_1)
-- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_9)
-- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_8)
-- [DeadLaneDetector problem after instruction selection](https://discourse.llvm.org/t/deadlanedetector-problem-after-instruction-selection/84708#post_7)
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_5)
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_4)
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_3)
+- [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_7)
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_2)
 <!-- DISCOURSE-LLVM:END -->
