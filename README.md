@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Large code model for specific variables?](https://discourse.llvm.org/t/large-code-model-for-specific-variables/83429#post_3)
 - [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_13)
 - [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_12)
 - [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_1)
 - [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_11)
-- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_1)
 <!-- DISCOURSE-LLVM:END -->
