@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_3)
+- [[RFC] Expanding the Experimental Histogram Intrinsic](https://discourse.llvm.org/t/rfc-expanding-the-experimental-histogram-intrinsic/84673#post_3)
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_11)
 - [C++23 stacktrace, and leveraging existing LLVM code for symbols + debug info](https://discourse.llvm.org/t/c-23-stacktrace-and-leveraging-existing-llvm-code-for-symbols-debug-info/84775#post_4)
 - [[RFC] Supporting more early-exit loops](https://discourse.llvm.org/t/rfc-supporting-more-early-exit-loops/84690#post_6)
-- [C++23 stacktrace, and leveraging existing LLVM code for symbols + debug info](https://discourse.llvm.org/t/c-23-stacktrace-and-leveraging-existing-llvm-code-for-symbols-debug-info/84775#post_3)
-- [Forcing a build on sanitizer-aarch64-linux-bootstrap-hwasan to test fixes](https://discourse.llvm.org/t/forcing-a-build-on-sanitizer-aarch64-linux-bootstrap-hwasan-to-test-fixes/84402#post_9)
-- [Forcing a build on sanitizer-aarch64-linux-bootstrap-hwasan to test fixes](https://discourse.llvm.org/t/forcing-a-build-on-sanitizer-aarch64-linux-bootstrap-hwasan-to-test-fixes/84402#post_8)
 <!-- DISCOURSE-LLVM:END -->
