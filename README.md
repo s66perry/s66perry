@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Supporting more early-exit loops](https://discourse.llvm.org/t/rfc-supporting-more-early-exit-loops/84690#post_6)
 - [C++23 stacktrace, and leveraging existing LLVM code for symbols + debug info](https://discourse.llvm.org/t/c-23-stacktrace-and-leveraging-existing-llvm-code-for-symbols-debug-info/84775#post_3)
 - [Forcing a build on sanitizer-aarch64-linux-bootstrap-hwasan to test fixes](https://discourse.llvm.org/t/forcing-a-build-on-sanitizer-aarch64-linux-bootstrap-hwasan-to-test-fixes/84402#post_9)
 - [Forcing a build on sanitizer-aarch64-linux-bootstrap-hwasan to test fixes](https://discourse.llvm.org/t/forcing-a-build-on-sanitizer-aarch64-linux-bootstrap-hwasan-to-test-fixes/84402#post_8)
 - [Forcing a build on sanitizer-aarch64-linux-bootstrap-hwasan to test fixes](https://discourse.llvm.org/t/forcing-a-build-on-sanitizer-aarch64-linux-bootstrap-hwasan-to-test-fixes/84402#post_7)
-- [Forcing a build on sanitizer-aarch64-linux-bootstrap-hwasan to test fixes](https://discourse.llvm.org/t/forcing-a-build-on-sanitizer-aarch64-linux-bootstrap-hwasan-to-test-fixes/84402#post_6)
 <!-- DISCOURSE-LLVM:END -->
