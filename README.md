@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [NewGVN/GVN PRE plans?](https://discourse.llvm.org/t/newgvn-gvn-pre-plans/84746#post_2)
+- [PreRA GenericScheduler RegCritical heuristic questions](https://discourse.llvm.org/t/prera-genericscheduler-regcritical-heuristic-questions/84817#post_1)
+- [What should symbolizer do for filename when line info from debug info is 0?](https://discourse.llvm.org/t/what-should-symbolizer-do-for-filename-when-line-info-from-debug-info-is-0/84797#post_4)
 - [Leveraging SIV in the DA Pass to Detect Loop Carried Dependencies](https://discourse.llvm.org/t/leveraging-siv-in-the-da-pass-to-detect-loop-carried-dependencies/83885#post_6)
 - [How to specify the default linker for Clang when compiling from source?](https://discourse.llvm.org/t/how-to-specify-the-default-linker-for-clang-when-compiling-from-source/84765#post_6)
-- [Performance Regression in LLVM - A SPEC CPU 2017 Study](https://discourse.llvm.org/t/performance-regression-in-llvm-a-spec-cpu-2017-study/84812#post_1)
-- [LLVM 20.1.0-rc2 tagged](https://discourse.llvm.org/t/llvm-20-1-0-rc2-tagged/84607#post_7)
-- [Expected behavior?](https://discourse.llvm.org/t/expected-behavior/84805#post_2)
 <!-- DISCOURSE-LLVM:END -->
