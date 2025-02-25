@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [NewGVN/GVN PRE plans?](https://discourse.llvm.org/t/newgvn-gvn-pre-plans/84746#post_2)
-- [PreRA GenericScheduler RegCritical heuristic questions](https://discourse.llvm.org/t/prera-genericscheduler-regcritical-heuristic-questions/84817#post_1)
-- [What should symbolizer do for filename when line info from debug info is 0?](https://discourse.llvm.org/t/what-should-symbolizer-do-for-filename-when-line-info-from-debug-info-is-0/84797#post_4)
-- [Leveraging SIV in the DA Pass to Detect Loop Carried Dependencies](https://discourse.llvm.org/t/leveraging-siv-in-the-da-pass-to-detect-loop-carried-dependencies/83885#post_6)
-- [How to specify the default linker for Clang when compiling from source?](https://discourse.llvm.org/t/how-to-specify-the-default-linker-for-clang-when-compiling-from-source/84765#post_6)
+- [Why is Return address X1 defined as Callee Saved Register](https://discourse.llvm.org/t/why-is-return-address-x1-defined-as-callee-saved-register/84736#post_4)
+- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_3)
+- [[RFC] Implement analysis for exploit mitigation coverage](https://discourse.llvm.org/t/rfc-implement-analysis-for-exploit-mitigation-coverage/84326#post_2)
+- [Tosa.Cast valid supported data types](https://discourse.llvm.org/t/tosa-cast-valid-supported-data-types/84808#post_2)
+- [Source annotations for dynamically vs statically unreachable code](https://discourse.llvm.org/t/source-annotations-for-dynamically-vs-statically-unreachable-code/84818#post_2)
 <!-- DISCOURSE-LLVM:END -->
