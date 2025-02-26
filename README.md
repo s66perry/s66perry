@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Do you assign GitHub issues?](https://discourse.llvm.org/t/do-you-assign-github-issues/84771#post_14)
-- [Do you assign GitHub issues?](https://discourse.llvm.org/t/do-you-assign-github-issues/84771#post_13)
-- [Do you assign GitHub issues?](https://discourse.llvm.org/t/do-you-assign-github-issues/84771#post_12)
-- [Flang fpp behavior inconsistency](https://discourse.llvm.org/t/flang-fpp-behavior-inconsistency/84837#post_1)
-- [Expected behavior?](https://discourse.llvm.org/t/expected-behavior/84805#post_7)
+- [Second stage of build on Windows fails in SandboxIR](https://discourse.llvm.org/t/second-stage-of-build-on-windows-fails-in-sandboxir/84841#post_1)
+- [[RFC] Re-enable zero-sized dim tensors for some TOSA operators](https://discourse.llvm.org/t/rfc-re-enable-zero-sized-dim-tensors-for-some-tosa-operators/84825#post_6)
+- [[RFC] Re-enable zero-sized dim tensors for some TOSA operators](https://discourse.llvm.org/t/rfc-re-enable-zero-sized-dim-tensors-for-some-tosa-operators/84825#post_5)
+- [[RFC] Re-enable zero-sized dim tensors for some TOSA operators](https://discourse.llvm.org/t/rfc-re-enable-zero-sized-dim-tensors-for-some-tosa-operators/84825#post_4)
+- [How to define builtins functions that use my builtin types](https://discourse.llvm.org/t/how-to-define-builtins-functions-that-use-my-builtin-types/84840#post_1)
 <!-- DISCOURSE-LLVM:END -->
