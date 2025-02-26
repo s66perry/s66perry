@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Deprecating linalg named elementwise ops](https://discourse.llvm.org/t/psa-deprecating-linalg-named-elementwise-ops/84833#post_2)
 - [[PSA] Deprecating linalg named elementwise ops](https://discourse.llvm.org/t/psa-deprecating-linalg-named-elementwise-ops/84833#post_1)
 - [Expected behavior?](https://discourse.llvm.org/t/expected-behavior/84805#post_6)
 - [Expected behavior?](https://discourse.llvm.org/t/expected-behavior/84805#post_5)
 - [Expected behavior?](https://discourse.llvm.org/t/expected-behavior/84805#post_4)
-- [Missing breakpoint hits with batch mode](https://discourse.llvm.org/t/missing-breakpoint-hits-with-batch-mode/84832#post_1)
 <!-- DISCOURSE-LLVM:END -->
