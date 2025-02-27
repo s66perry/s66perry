@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Grad student looking for project](https://discourse.llvm.org/t/grad-student-looking-for-project/84468#post_9)
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273?page=2#post_21)
+- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_1)
 - [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273#post_20)
 - [Second stage of build on Windows fails in SandboxIR](https://discourse.llvm.org/t/second-stage-of-build-on-windows-fails-in-sandboxir/84841#post_3)
-- [Second stage of build on Windows fails in SandboxIR](https://discourse.llvm.org/t/second-stage-of-build-on-windows-fails-in-sandboxir/84841#post_2)
-- [The priority of -fno-fast-math regarding complex number calculations](https://discourse.llvm.org/t/the-priority-of-fno-fast-math-regarding-complex-number-calculations/84679#post_6)
-- [Incorrect line coverage caused by artificial functions in gcov coverage reports](https://discourse.llvm.org/t/incorrect-line-coverage-caused-by-artificial-functions-in-gcov-coverage-reports/84732#post_2)
 <!-- DISCOURSE-LLVM:END -->
