@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Second stage of build on Windows fails in SandboxIR](https://discourse.llvm.org/t/second-stage-of-build-on-windows-fails-in-sandboxir/84841#post_6)
+- [How to obtain all predefined macros related to x86 in Clang?](https://discourse.llvm.org/t/how-to-obtain-all-predefined-macros-related-to-x86-in-clang/84847#post_2)
+- [The priority of -fno-fast-math regarding complex number calculations](https://discourse.llvm.org/t/the-priority-of-fno-fast-math-regarding-complex-number-calculations/84679#post_7)
+- [Second stage of build on Windows fails in SandboxIR](https://discourse.llvm.org/t/second-stage-of-build-on-windows-fails-in-sandboxir/84841#post_5)
 - [Storing and loading vector RISCV-backend &lpar;SelectionDAG&rpar;](https://discourse.llvm.org/t/storing-and-loading-vector-riscv-backend-selectiondag/84861#post_1)
-- [Assertion: Incompatible phys register def and uses!](https://discourse.llvm.org/t/assertion-incompatible-phys-register-def-and-uses/84860#post_1)
-- [Test Suite - Clarify Included Test Suites Policy](https://discourse.llvm.org/t/test-suite-clarify-included-test-suites-policy/84859#post_1)
-- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_13)
-- [Second stage of build on Windows fails in SandboxIR](https://discourse.llvm.org/t/second-stage-of-build-on-windows-fails-in-sandboxir/84841#post_4)
 <!-- DISCOURSE-LLVM:END -->
