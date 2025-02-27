@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Second stage of build on Windows fails in SandboxIR](https://discourse.llvm.org/t/second-stage-of-build-on-windows-fails-in-sandboxir/84841#post_4)
+- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_5)
+- [Get rid of checker name handling boilerplate](https://discourse.llvm.org/t/get-rid-of-checker-name-handling-boilerplate/84088#post_9)
+- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_4)
 - [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_12)
-- [RISC-V LLVM sync-up call February 13th 2025](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-february-13th-2025/84620#post_3)
-- [RISC-V LLVM sync-up call February 27th 2025](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-february-27th-2025/84857#post_1)
-- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_3)
-- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_2)
 <!-- DISCOURSE-LLVM:END -->
