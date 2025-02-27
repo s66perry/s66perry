@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_17)
+- [The priority of -fno-fast-math regarding complex number calculations](https://discourse.llvm.org/t/the-priority-of-fno-fast-math-regarding-complex-number-calculations/84679#post_5)
+- [How to obtain all predefined macros related to x86 in Clang?](https://discourse.llvm.org/t/how-to-obtain-all-predefined-macros-related-to-x86-in-clang/84847#post_1)
+- [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375?page=2#post_28)
 - [Asking for help with Windows CI resources](https://discourse.llvm.org/t/asking-for-help-with-windows-ci-resources/76375?page=2#post_27)
-- [LLVM 20.1.0-rc3 tagged](https://discourse.llvm.org/t/llvm-20-1-0-rc3-tagged/84846#post_1)
-- [LLVM 20.1.0-rc3](https://discourse.llvm.org/t/llvm-20-1-0-rc3/84845#post_1)
-- [Grad student looking for project](https://discourse.llvm.org/t/grad-student-looking-for-project/84468#post_8)
-- [[RFC] Re-enable zero-sized dim tensors for some TOSA operators](https://discourse.llvm.org/t/rfc-re-enable-zero-sized-dim-tensors-for-some-tosa-operators/84825#post_7)
 <!-- DISCOURSE-LLVM:END -->
