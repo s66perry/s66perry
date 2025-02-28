@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_6)
+- [How to obtain all predefined macros related to x86 in Clang?](https://discourse.llvm.org/t/how-to-obtain-all-predefined-macros-related-to-x86-in-clang/84847#post_3)
+- [[RFC] Should we aim for more consistency in tests?](https://discourse.llvm.org/t/rfc-should-we-aim-for-more-consistency-in-tests/84733#post_9)
 - [Is &quot;Generic value range analysis for MLIR&quot; project still open?](https://discourse.llvm.org/t/is-generic-value-range-analysis-for-mlir-project-still-open/84795#post_4)
 - [Missing breakpoint hits with batch mode](https://discourse.llvm.org/t/missing-breakpoint-hits-with-batch-mode/84832#post_2)
-- [AnalysisManagers and Dataflow Analysis](https://discourse.llvm.org/t/analysismanagers-and-dataflow-analysis/84705#post_3)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_5)
-- [Question about visitModExpr function&#39;s implementation in affine/Utils/Utils.cpp](https://discourse.llvm.org/t/question-about-visitmodexpr-functions-implementation-in-affine-utils-utils-cpp/84826#post_4)
 <!-- DISCOURSE-LLVM:END -->
