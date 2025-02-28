@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Should we aim for more consistency in tests?](https://discourse.llvm.org/t/rfc-should-we-aim-for-more-consistency-in-tests/84733#post_11)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_22)
 - [LoopSimplifyPass and LoopAnalysis work incomplete](https://discourse.llvm.org/t/loopsimplifypass-and-loopanalysis-work-incomplete/84872#post_3)
 - [How to call related functions &lpar;such as llvm::errs&rpar; in GDB?](https://discourse.llvm.org/t/how-to-call-related-functions-such-as-llvm-errs-in-gdb/84879#post_1)
 - [Cross-dso clang cfi compilation](https://discourse.llvm.org/t/cross-dso-clang-cfi-compilation/84876#post_1)
-- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754#post_20)
-- [LoopSimplifyPass and LoopAnalysis work incomplete](https://discourse.llvm.org/t/loopsimplifypass-and-loopanalysis-work-incomplete/84872#post_2)
 <!-- DISCOURSE-LLVM:END -->
