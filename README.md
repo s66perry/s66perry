@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Feature] TOSA profile-based operation validation](https://discourse.llvm.org/t/feature-tosa-profile-based-operation-validation/84866#post_1)
-- [Why is this COPY not eliminated?](https://discourse.llvm.org/t/why-is-this-copy-not-eliminated/84821#post_3)
-- [[RFC] [ObjCDirect] move nil check to a thunk function](https://discourse.llvm.org/t/rfc-objcdirect-move-nil-check-to-a-thunk-function/84865#post_1)
-- [Crashes in llvm::MCTargetOptions::~MCTargetOptions&lpar;&rpar;](https://discourse.llvm.org/t/crashes-in-llvm-mctargetoptions/84864#post_1)
-- [[Question] SparseBackwardDataFlowAnalysis](https://discourse.llvm.org/t/question-sparsebackwarddataflowanalysis/84863#post_5)
+- [Is &quot;Generic value range analysis for MLIR&quot; project still open?](https://discourse.llvm.org/t/is-generic-value-range-analysis-for-mlir-project-still-open/84795#post_4)
+- [Missing breakpoint hits with batch mode](https://discourse.llvm.org/t/missing-breakpoint-hits-with-batch-mode/84832#post_2)
+- [AnalysisManagers and Dataflow Analysis](https://discourse.llvm.org/t/analysismanagers-and-dataflow-analysis/84705#post_3)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_5)
+- [Question about visitModExpr function&#39;s implementation in affine/Utils/Utils.cpp](https://discourse.llvm.org/t/question-about-visitmodexpr-functions-implementation-in-affine-utils-utils-cpp/84826#post_4)
 <!-- DISCOURSE-LLVM:END -->
