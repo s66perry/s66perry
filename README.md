@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_7)
+- [Using MLIR::Parser: minimum skeleton](https://discourse.llvm.org/t/using-mlir-minimum-skeleton/84890#post_2)
 - [Adding new architecture to clang driver](https://discourse.llvm.org/t/adding-new-architecture-to-clang-driver/84892#post_3)
 - [Adding new architecture to clang driver](https://discourse.llvm.org/t/adding-new-architecture-to-clang-driver/84892#post_2)
 - [Adding new architecture to clang driver](https://discourse.llvm.org/t/adding-new-architecture-to-clang-driver/84892#post_1)
-- [Using MLIR::Parser: minimum skeleton](https://discourse.llvm.org/t/using-mlir-minimum-skeleton/84890#post_1)
-- [[RFC][LTO] Handling math libcalls with LTO](https://discourse.llvm.org/t/rfc-lto-handling-math-libcalls-with-lto/84884#post_3)
 <!-- DISCOURSE-LLVM:END -->
