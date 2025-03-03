@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [PhD Research - Looking for Interviewees](https://discourse.llvm.org/t/phd-research-looking-for-interviewees/84918#post_1)
+- [[Inline][PGO] Barrier of hot functions is lower in SampleProfileLoaderPass than in InlinePass?](https://discourse.llvm.org/t/inline-pgo-barrier-of-hot-functions-is-lower-in-sampleprofileloaderpass-than-in-inlinepass/84917#post_1)
 - [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_58)
 - [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_57)
 - [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_56)
-- [CFP: MLIR Workshop at the EuroLLVM Developer Meeting &lpar;Apr 14, 2025&rpar;](https://discourse.llvm.org/t/cfp-mlir-workshop-at-the-eurollvm-developer-meeting-apr-14-2025/84911#post_1)
-- [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157#post_17)
 <!-- DISCOURSE-LLVM:END -->
