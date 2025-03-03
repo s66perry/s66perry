@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #583, March 3rd 2025](https://discourse.llvm.org/t/llvm-weekly-583-march-3rd-2025/84930#post_1)
+- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_6)
+- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_5)
+- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_4)
 - [Manually add IndVarSimplifyPass to the new pass manager](https://discourse.llvm.org/t/manually-add-indvarsimplifypass-to-the-new-pass-manager/84927#post_1)
-- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_3)
-- [Error &quot;expected relocatable expression&quot; with MCTargetExpr](https://discourse.llvm.org/t/error-expected-relocatable-expression-with-mctargetexpr/84926#post_1)
-- [Atomics on Windows](https://discourse.llvm.org/t/atomics-on-windows/84329#post_11)
-- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_2)
 <!-- DISCOURSE-LLVM:END -->
