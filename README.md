@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_15)
+- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_7)
+- [[RFC] Open pattern sets](https://discourse.llvm.org/t/rfc-open-pattern-sets/84882#post_5)
 - [[RFC] Open pattern sets](https://discourse.llvm.org/t/rfc-open-pattern-sets/84882#post_4)
 - [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_14)
-- [MLIR C/C++ Frontend Working Group [Mon, March 3rd]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-march-3rd/84904#post_1)
-- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_13)
-- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_12)
 <!-- DISCOURSE-LLVM:END -->
