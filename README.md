@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang creates archive that can&#39;t be used with ld?](https://discourse.llvm.org/t/clang-creates-archive-that-cant-be-used-with-ld/84938#post_2)
+- [LLVM MLGO March 7 and April 4 2025](https://discourse.llvm.org/t/llvm-mlgo-march-7-and-april-4-2025/84941#post_1)
 - [How to better implement operation-level parallelism？](https://discourse.llvm.org/t/how-to-better-implement-operation-level-parallelism/84921#post_6)
 - [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_7)
 - [How to better implement operation-level parallelism？](https://discourse.llvm.org/t/how-to-better-implement-operation-level-parallelism/84921#post_5)
-- [How to better implement operation-level parallelism？](https://discourse.llvm.org/t/how-to-better-implement-operation-level-parallelism/84921#post_4)
-- [How to better implement operation-level parallelism？](https://discourse.llvm.org/t/how-to-better-implement-operation-level-parallelism/84921#post_3)
 <!-- DISCOURSE-LLVM:END -->
