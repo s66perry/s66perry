@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_7)
-- [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_15)
-- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_9)
-- [Performance Regression in LLVM - A SPEC CPU 2017 Study](https://discourse.llvm.org/t/performance-regression-in-llvm-a-spec-cpu-2017-study/84812#post_5)
-- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_8)
+- [Clang creates archive that can&#39;t be used with ld?](https://discourse.llvm.org/t/clang-creates-archive-that-cant-be-used-with-ld/84938#post_8)
+- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_9)
+- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_8)
+- [Clang creates archive that can&#39;t be used with ld?](https://discourse.llvm.org/t/clang-creates-archive-that-cant-be-used-with-ld/84938#post_7)
+- [How to check if Sema InstantiateFunctionDefinition failed?](https://discourse.llvm.org/t/how-to-check-if-sema-instantiatefunctiondefinition-failed/84961#post_1)
 <!-- DISCOURSE-LLVM:END -->
