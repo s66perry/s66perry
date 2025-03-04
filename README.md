@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang creates archive that can&#39;t be used with ld?](https://discourse.llvm.org/t/clang-creates-archive-that-cant-be-used-with-ld/84938#post_6)
+- [C++23 stacktrace, and leveraging existing LLVM code for symbols + debug info](https://discourse.llvm.org/t/c-23-stacktrace-and-leveraging-existing-llvm-code-for-symbols-debug-info/84775#post_9)
+- [Displace a DISubprogram and contained MDNodes by a few lines](https://discourse.llvm.org/t/displace-a-disubprogram-and-contained-mdnodes-by-a-few-lines/84956#post_1)
+- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_6)
 - [C++23 stacktrace, and leveraging existing LLVM code for symbols + debug info](https://discourse.llvm.org/t/c-23-stacktrace-and-leveraging-existing-llvm-code-for-symbols-debug-info/84775#post_8)
-- [How to better implement operation-level parallelism？](https://discourse.llvm.org/t/how-to-better-implement-operation-level-parallelism/84921#post_8)
-- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_5)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_19)
-- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_4)
 <!-- DISCOURSE-LLVM:END -->
