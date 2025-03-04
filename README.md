@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_7)
+- [[RFC] lldb-dap refactoring to support async operations and cancellation](https://discourse.llvm.org/t/rfc-lldb-dap-refactoring-to-support-async-operations-and-cancellation/84739#post_15)
+- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_9)
 - [Performance Regression in LLVM - A SPEC CPU 2017 Study](https://discourse.llvm.org/t/performance-regression-in-llvm-a-spec-cpu-2017-study/84812#post_5)
 - [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_8)
-- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_7)
-- [Clang creates archive that can&#39;t be used with ld?](https://discourse.llvm.org/t/clang-creates-archive-that-cant-be-used-with-ld/84938#post_6)
-- [C++23 stacktrace, and leveraging existing LLVM code for symbols + debug info](https://discourse.llvm.org/t/c-23-stacktrace-and-leveraging-existing-llvm-code-for-symbols-debug-info/84775#post_9)
 <!-- DISCOURSE-LLVM:END -->
