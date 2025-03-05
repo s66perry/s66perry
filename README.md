@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_13)
+- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_12)
+- [Nesting `PointerUnion` in `PointerIntPair` overlaps integer bits](https://discourse.llvm.org/t/nesting-pointerunion-in-pointerintpair-overlaps-integer-bits/84997#post_1)
+- [The priority of -fno-fast-math regarding complex number calculations](https://discourse.llvm.org/t/the-priority-of-fno-fast-math-regarding-complex-number-calculations/84679#post_9)
 - [Building LLVM Shared Libraries](https://discourse.llvm.org/t/building-llvm-shared-libraries/84995#post_1)
-- [[RFC] Bytecode: op fallback path](https://discourse.llvm.org/t/rfc-bytecode-op-fallback-path/84993#post_3)
-- [How to define builtins functions that use my builtin types](https://discourse.llvm.org/t/how-to-define-builtins-functions-that-use-my-builtin-types/84840#post_3)
-- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_8)
-- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_7)
 <!-- DISCOURSE-LLVM:END -->
