@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_13)
-- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_12)
-- [Nesting `PointerUnion` in `PointerIntPair` overlaps integer bits](https://discourse.llvm.org/t/nesting-pointerunion-in-pointerintpair-overlaps-integer-bits/84997#post_1)
-- [The priority of -fno-fast-math regarding complex number calculations](https://discourse.llvm.org/t/the-priority-of-fno-fast-math-regarding-complex-number-calculations/84679#post_9)
-- [Building LLVM Shared Libraries](https://discourse.llvm.org/t/building-llvm-shared-libraries/84995#post_1)
+- [How to define builtins functions that use my builtin types](https://discourse.llvm.org/t/how-to-define-builtins-functions-that-use-my-builtin-types/84840#post_4)
+- [Call out for 2025 AsiaLLVM Program Committee and Student Travel Grant Reviewers](https://discourse.llvm.org/t/call-out-for-2025-asiallvm-program-committee-and-student-travel-grant-reviewers/84987#post_2)
+- [How to use Analysis pass like --targetlibinfo in commandline?](https://discourse.llvm.org/t/how-to-use-analysis-pass-like-targetlibinfo-in-commandline/84943#post_4)
+- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_14)
+- [[RFC] Bytecode: op fallback path](https://discourse.llvm.org/t/rfc-bytecode-op-fallback-path/84993#post_4)
 <!-- DISCOURSE-LLVM:END -->
