@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Call out for 2025 AsiaLLVM Program Committee and Student Travel Grant Reviewers](https://discourse.llvm.org/t/call-out-for-2025-asiallvm-program-committee-and-student-travel-grant-reviewers/84987#post_4)
-- [Performance Regression in LLVM - A SPEC CPU 2017 Study](https://discourse.llvm.org/t/performance-regression-in-llvm-a-spec-cpu-2017-study/84812#post_8)
-- [Is it fine to move clangd/support/Markup.h to LLVM Support?](https://discourse.llvm.org/t/is-it-fine-to-move-clangd-support-markup-h-to-llvm-support/84994#post_2)
-- [Call out for 2025 AsiaLLVM Program Committee and Student Travel Grant Reviewers](https://discourse.llvm.org/t/call-out-for-2025-asiallvm-program-committee-and-student-travel-grant-reviewers/84987#post_3)
-- [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356#post_16)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_9)
+- [RFC: Addressing Deficiencies in LLVM’s LTO Implementation](https://discourse.llvm.org/t/rfc-addressing-deficiencies-in-llvm-s-lto-implementation/84999#post_3)
+- [Propagating match failure message to transform ops](https://discourse.llvm.org/t/propagating-match-failure-message-to-transform-ops/85001#post_1)
+- [RFC: Addressing Deficiencies in LLVM’s LTO Implementation](https://discourse.llvm.org/t/rfc-addressing-deficiencies-in-llvm-s-lto-implementation/84999#post_2)
+- [Incorrect line coverage caused by artificial functions in gcov coverage reports](https://discourse.llvm.org/t/incorrect-line-coverage-caused-by-artificial-functions-in-gcov-coverage-reports/84732#post_3)
 <!-- DISCOURSE-LLVM:END -->
