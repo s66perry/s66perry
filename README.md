@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building LLVM Shared Libraries](https://discourse.llvm.org/t/building-llvm-shared-libraries/84995#post_4)
+- [20.1.0 has been tagged](https://discourse.llvm.org/t/20-1-0-has-been-tagged/84973#post_2)
+- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=3#post_60)
 - [Building LLVM Shared Libraries](https://discourse.llvm.org/t/building-llvm-shared-libraries/84995#post_3)
 - [Building LLVM Shared Libraries](https://discourse.llvm.org/t/building-llvm-shared-libraries/84995#post_2)
-- [Variable preservation during passes](https://discourse.llvm.org/t/variable-preservation-during-passes/84978#post_5)
-- [Manipulate sections during IR pass](https://discourse.llvm.org/t/manipulate-sections-during-ir-pass/85006#post_1)
-- [Is it fine to move clangd/support/Markup.h to LLVM Support?](https://discourse.llvm.org/t/is-it-fine-to-move-clangd-support-markup-h-to-llvm-support/84994#post_5)
 <!-- DISCOURSE-LLVM:END -->
