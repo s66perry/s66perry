@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Support mgpuMemcpy runtime call in SyclRuntimeWrappers](https://discourse.llvm.org/t/support-mgpumemcpy-runtime-call-in-syclruntimewrappers/85015#post_1)
-- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_14)
-- [LSR prefers negative immediates in its cost model. Why is that?](https://discourse.llvm.org/t/lsr-prefers-negative-immediates-in-its-cost-model-why-is-that/84991#post_4)
-- [Memref to SPIRV Conversion](https://discourse.llvm.org/t/memref-to-spirv-conversion/84515#post_3)
-- [Building LLVM Shared Libraries](https://discourse.llvm.org/t/building-llvm-shared-libraries/84995#post_7)
+- [Is it fine to move clangd/support/Markup.h to LLVM Support?](https://discourse.llvm.org/t/is-it-fine-to-move-clangd-support-markup-h-to-llvm-support/84994#post_6)
+- [How to add a new method to translation unit so that Sema InstantiateFunctionDeclaration can use it later?](https://discourse.llvm.org/t/how-to-add-a-new-method-to-translation-unit-so-that-sema-instantiatefunctiondeclaration-can-use-it-later/85012#post_2)
+- [LLVM x86_64-pc-windows-msvc binaries no longer need MSVC runtime DLLs since 19.x](https://discourse.llvm.org/t/llvm-x86-64-pc-windows-msvc-binaries-no-longer-need-msvc-runtime-dlls-since-19-x/84465#post_5)
+- [[libc][GSoC 2025] Bfloat16 in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2025-bfloat16-in-llvm-libc/84469#post_8)
+- [[RFC] Implement analysis for exploit mitigation coverage](https://discourse.llvm.org/t/rfc-implement-analysis-for-exploit-mitigation-coverage/84326#post_4)
 <!-- DISCOURSE-LLVM:END -->
