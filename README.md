@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_13)
-- [GSoC 2025: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2025-projects-proposals-and-other-information/85035#post_1)
-- [How to define builtins functions that use my builtin types](https://discourse.llvm.org/t/how-to-define-builtins-functions-that-use-my-builtin-types/84840#post_6)
-- [2025 AsiaLLVM Student Travel Grant Applications Open](https://discourse.llvm.org/t/2025-asiallvm-student-travel-grant-applications-open/85034#post_1)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_11)
+- [GSoC 2025: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2025-projects-proposals-and-other-information/85035#post_5)
+- [GSoC 2025: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2025-projects-proposals-and-other-information/85035#post_4)
+- [GSoC 2025: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2025-projects-proposals-and-other-information/85035#post_3)
+- [About the ADD+GEP -&gt; GEP+GEP transform in InstCombine](https://discourse.llvm.org/t/about-the-add-gep-gep-gep-transform-in-instcombine/84988#post_4)
+- [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356#post_17)
 <!-- DISCOURSE-LLVM:END -->
