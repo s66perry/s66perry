@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM x86_64-pc-windows-msvc binaries no longer need MSVC runtime DLLs since 19.x](https://discourse.llvm.org/t/llvm-x86-64-pc-windows-msvc-binaries-no-longer-need-msvc-runtime-dlls-since-19-x/84465#post_11)
+- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952?page=2#post_26)
+- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952?page=2#post_25)
+- [LLVM x86_64-pc-windows-msvc binaries no longer need MSVC runtime DLLs since 19.x](https://discourse.llvm.org/t/llvm-x86-64-pc-windows-msvc-binaries-no-longer-need-msvc-runtime-dlls-since-19-x/84465#post_10)
 - [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_15)
-- [[RFC] Experimental implementation of P2719 - Type-aware allocation and deallocation functions](https://discourse.llvm.org/t/rfc-experimental-implementation-of-p2719-type-aware-allocation-and-deallocation-functions/83876#post_8)
-- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_13)
-- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_12)
-- [How to use clang AST in C++ program [LibTooling, Clang Plugin, libClang]?](https://discourse.llvm.org/t/how-to-use-clang-ast-in-c-program-libtooling-clang-plugin-libclang/84902#post_2)
 <!-- DISCOURSE-LLVM:END -->
