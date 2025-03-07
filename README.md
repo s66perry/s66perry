@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_13)
+- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_12)
+- [How to use clang AST in C++ program [LibTooling, Clang Plugin, libClang]?](https://discourse.llvm.org/t/how-to-use-clang-ast-in-c-program-libtooling-clang-plugin-libclang/84902#post_2)
 - [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434#post_20)
 - [Adding new architecture to clang driver](https://discourse.llvm.org/t/adding-new-architecture-to-clang-driver/84892#post_4)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487#post_7)
-- [About the ADD+GEP -&gt; GEP+GEP transform in InstCombine](https://discourse.llvm.org/t/about-the-add-gep-gep-gep-transform-in-instcombine/84988#post_3)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487#post_6)
 <!-- DISCOURSE-LLVM:END -->
