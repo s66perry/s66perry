@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_11)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_10)
 - [How to define builtins functions that use my builtin types](https://discourse.llvm.org/t/how-to-define-builtins-functions-that-use-my-builtin-types/84840#post_5)
 - [2025 AsiaLLVM - Call for proposals](https://discourse.llvm.org/t/2025-asiallvm-call-for-proposals/85033#post_1)
 - [LLVM x86_64-pc-windows-msvc binaries no longer need MSVC runtime DLLs since 19.x](https://discourse.llvm.org/t/llvm-x86-64-pc-windows-msvc-binaries-no-longer-need-msvc-runtime-dlls-since-19-x/84465#post_11)
-- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952?page=2#post_26)
-- [Rich Disassembler for LLDB](https://discourse.llvm.org/t/rich-disassembler-for-lldb/76952?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
