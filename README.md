@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Better performance models for MLGO training](https://discourse.llvm.org/t/better-performance-models-for-mlgo-training/68219#post_17)
+- [About the GSoC category](https://discourse.llvm.org/t/about-the-gsoc-category/60#post_2)
 - [Clang documentation on a phone](https://discourse.llvm.org/t/clang-documentation-on-a-phone/85047#post_3)
 - [Clang documentation on a phone](https://discourse.llvm.org/t/clang-documentation-on-a-phone/85047#post_2)
 - [[PSA] Deprecating `match` and `rewrite`](https://discourse.llvm.org/t/psa-deprecating-match-and-rewrite/85048#post_1)
-- [Clang documentation on a phone](https://discourse.llvm.org/t/clang-documentation-on-a-phone/85047#post_1)
-- [Override Type::walk/replace for custom storage class](https://discourse.llvm.org/t/override-type-walk-replace-for-custom-storage-class/85042#post_1)
 <!-- DISCOURSE-LLVM:END -->
