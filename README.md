@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_11)
+- [2025 AsiaLLVM Student Travel Grant Applications Open](https://discourse.llvm.org/t/2025-asiallvm-student-travel-grant-applications-open/85034#post_2)
 - [[PSA] Deprecating `match` and `rewrite`](https://discourse.llvm.org/t/psa-deprecating-match-and-rewrite/85048#post_2)
 - [.tflite flatbuffer to TF Dialect to calculate the arithmetic op counts of the graph](https://discourse.llvm.org/t/tflite-flatbuffer-to-tf-dialect-to-calculate-the-arithmetic-op-counts-of-the-graph/85058#post_4)
 - [.tflite flatbuffer to TF Dialect to calculate the arithmetic op counts of the graph](https://discourse.llvm.org/t/tflite-flatbuffer-to-tf-dialect-to-calculate-the-arithmetic-op-counts-of-the-graph/85058#post_3)
-- [.tflite flatbuffer to TF Dialect to calculate the arithmetic op counts of the graph](https://discourse.llvm.org/t/tflite-flatbuffer-to-tf-dialect-to-calculate-the-arithmetic-op-counts-of-the-graph/85058#post_2)
-- [.tflite flatbuffer to TF Dialect to calculate the arithmetic op counts of the graph](https://discourse.llvm.org/t/tflite-flatbuffer-to-tf-dialect-to-calculate-the-arithmetic-op-counts-of-the-graph/85058#post_1)
 <!-- DISCOURSE-LLVM:END -->
