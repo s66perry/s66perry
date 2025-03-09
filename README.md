@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang Area Team Initial Communication](https://discourse.llvm.org/t/clang-area-team-initial-communication/85066#post_2)
+- [RFC: move llvm-toolchain-integration-test-suite under the llvm umbrella](https://discourse.llvm.org/t/rfc-move-llvm-toolchain-integration-test-suite-under-the-llvm-umbrella/85063#post_3)
 - [RFC: move llvm-toolchain-integration-test-suite under the llvm umbrella](https://discourse.llvm.org/t/rfc-move-llvm-toolchain-integration-test-suite-under-the-llvm-umbrella/85063#post_2)
 - [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554#post_9)
 - [CFP: MLIR Workshop at the EuroLLVM Developer Meeting &lpar;Apr 14, 2025&rpar;](https://discourse.llvm.org/t/cfp-mlir-workshop-at-the-eurollvm-developer-meeting-apr-14-2025/84911#post_3)
-- [Unexpected Dependencies in DAG Scheduling for PHI Instructions](https://discourse.llvm.org/t/unexpected-dependencies-in-dag-scheduling-for-phi-instructions/85067#post_1)
-- [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554#post_8)
 <!-- DISCOURSE-LLVM:END -->
