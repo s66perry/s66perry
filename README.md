@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: move llvm-toolchain-integration-test-suite under the llvm umbrella](https://discourse.llvm.org/t/rfc-move-llvm-toolchain-integration-test-suite-under-the-llvm-umbrella/85063#post_1)
-- [AsiaLLVM anyone? South America? Africa?](https://discourse.llvm.org/t/asiallvm-anyone-south-america-africa/78325#post_11)
-- [2025 AsiaLLVM Student Travel Grant Applications Open](https://discourse.llvm.org/t/2025-asiallvm-student-travel-grant-applications-open/85034#post_2)
-- [[PSA] Deprecating `match` and `rewrite`](https://discourse.llvm.org/t/psa-deprecating-match-and-rewrite/85048#post_2)
-- [.tflite flatbuffer to TF Dialect to calculate the arithmetic op counts of the graph](https://discourse.llvm.org/t/tflite-flatbuffer-to-tf-dialect-to-calculate-the-arithmetic-op-counts-of-the-graph/85058#post_4)
+- [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554#post_8)
+- [Clang Area Team Initial Communication](https://discourse.llvm.org/t/clang-area-team-initial-communication/85066#post_1)
+- [Is the macro `_LIBCPP_REMOVE_TRANSITIVE_INCLUDES` available for users?](https://discourse.llvm.org/t/is-the-macro-libcpp-remove-transitive-includes-available-for-users/85065#post_3)
+- [Is the macro `_LIBCPP_REMOVE_TRANSITIVE_INCLUDES` available for users?](https://discourse.llvm.org/t/is-the-macro-libcpp-remove-transitive-includes-available-for-users/85065#post_2)
+- [Is the macro `_LIBCPP_REMOVE_TRANSITIVE_INCLUDES` available for users?](https://discourse.llvm.org/t/is-the-macro-libcpp-remove-transitive-includes-available-for-users/85065#post_1)
 <!-- DISCOURSE-LLVM:END -->
