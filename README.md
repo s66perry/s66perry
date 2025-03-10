@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improving gather codegen for Vector Dialect](https://discourse.llvm.org/t/rfc-improving-gather-codegen-for-vector-dialect/85011#post_6)
-- [RFC: Addressing Deficiencies in LLVM’s LTO Implementation](https://discourse.llvm.org/t/rfc-addressing-deficiencies-in-llvm-s-lto-implementation/84999#post_7)
-- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754?page=2#post_30)
-- [Build error of IREE, may related to clang21](https://discourse.llvm.org/t/build-error-of-iree-may-related-to-clang21/85090#post_5)
-- [Build error of IREE, may related to clang21](https://discourse.llvm.org/t/build-error-of-iree-may-related-to-clang21/85090#post_4)
+- [[PSA] Deprecating `match` and `rewrite`](https://discourse.llvm.org/t/psa-deprecating-match-and-rewrite/85048#post_5)
+- [Learning Resource — Lecture Slides for the Clang Libraries &lpar;Edition 0.3.0&rpar;](https://discourse.llvm.org/t/learning-resource-lecture-slides-for-the-clang-libraries-edition-0-3-0/85057#post_2)
+- [Clang Area Team Initial Communication](https://discourse.llvm.org/t/clang-area-team-initial-communication/85066#post_3)
+- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_14)
+- [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
