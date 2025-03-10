@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Separating LLVM-MC](https://discourse.llvm.org/t/separating-llvm-mc/84781#post_3)
+- [Error &quot;expected relocatable expression&quot; with MCTargetExpr](https://discourse.llvm.org/t/error-expected-relocatable-expression-with-mctargetexpr/84926#post_2)
+- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_2)
 - [Unexpected Dependencies in DAG Scheduling for PHI Instructions](https://discourse.llvm.org/t/unexpected-dependencies-in-dag-scheduling-for-phi-instructions/85067#post_2)
 - [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487#post_9)
-- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366#post_16)
-- [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356?page=2#post_21)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487#post_8)
 <!-- DISCOURSE-LLVM:END -->
