@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_25)
-- [[OrcJIT] Double Free in ~WrapperFunctionResult &lpar;LLVM17&rpar;](https://discourse.llvm.org/t/orcjit-double-free-in-wrapperfunctionresult-llvm17/85120#post_1)
-- [Propagating match failure message to transform ops](https://discourse.llvm.org/t/propagating-match-failure-message-to-transform-ops/85001#post_4)
-- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_3)
-- [Speedup of clang build with PGO and BOLT on AArch64](https://discourse.llvm.org/t/speedup-of-clang-build-with-pgo-and-bolt-on-aarch64/85118#post_1)
+- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_10)
+- [2025 EuroLLVM - Early Bird Rate Ending March 12!](https://discourse.llvm.org/t/2025-eurollvm-early-bird-rate-ending-march-12/85121#post_1)
+- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_4)
+- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083#post_15)
+- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_3)
 <!-- DISCOURSE-LLVM:END -->
