@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_28)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_27)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_26)
-- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386?page=2#post_36)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_25)
+- [[RFC][yaml2obj] The value of p_offset in program header is determined by sh_offset of section header?](https://discourse.llvm.org/t/rfc-yaml2obj-the-value-of-p-offset-in-program-header-is-determined-by-sh-offset-of-section-header/85099#post_4)
+- [[RFC][yaml2obj] The value of p_offset in program header is determined by sh_offset of section header?](https://discourse.llvm.org/t/rfc-yaml2obj-the-value-of-p-offset-in-program-header-is-determined-by-sh-offset-of-section-header/85099#post_3)
+- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083#post_12)
+- [[RFC][yaml2obj] The value of p_offset in program header is determined by sh_offset of section header?](https://discourse.llvm.org/t/rfc-yaml2obj-the-value-of-p-offset-in-program-header-is-determined-by-sh-offset-of-section-header/85099#post_2)
+- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
