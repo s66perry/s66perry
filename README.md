@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_18)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_17)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_16)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767#post_15)
-- [Why is the relocation function the same for R_RISCV_HI20 and R_RISCV_PCREL_HI20?](https://discourse.llvm.org/t/why-is-the-relocation-function-the-same-for-r-riscv-hi20-and-r-riscv-pcrel-hi20/85085#post_3)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_24)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_23)
+- [How to Update Clang Codegen Tests?](https://discourse.llvm.org/t/how-to-update-clang-codegen-tests/85103#post_2)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_22)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
