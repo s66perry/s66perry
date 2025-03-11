@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM Project Blog post for flang-new -&gt; flang renaming](https://discourse.llvm.org/t/rfc-llvm-project-blog-post-for-flang-new-flang-renaming/80915?page=2#post_21)
-- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_7)
-- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_6)
-- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_5)
-- [Code-review process when upstreaming patches](https://discourse.llvm.org/t/code-review-process-when-upstreaming-patches/84910#post_10)
+- [Inlining and propagation of fast math flags](https://discourse.llvm.org/t/inlining-and-propagation-of-fast-math-flags/85123#post_3)
+- [[OrcJIT] Double Free in ~WrapperFunctionResult &lpar;LLVM17&rpar;](https://discourse.llvm.org/t/orcjit-double-free-in-wrapperfunctionresult-llvm17/85120#post_2)
+- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_16)
+- [Inlining and propagation of fast math flags](https://discourse.llvm.org/t/inlining-and-propagation-of-fast-math-flags/85123#post_2)
+- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_8)
 <!-- DISCOURSE-LLVM:END -->
