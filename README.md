@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_3)
+- [Speedup of clang build with PGO and BOLT on AArch64](https://discourse.llvm.org/t/speedup-of-clang-build-with-pgo-and-bolt-on-aarch64/85118#post_1)
+- [How to Update Clang Codegen Tests?](https://discourse.llvm.org/t/how-to-update-clang-codegen-tests/85103#post_3)
 - [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_2)
 - [Unrealized casts in EmitC](https://discourse.llvm.org/t/unrealized-casts-in-emitc/84383#post_5)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083#post_14)
-- [[TCDG] Notes from meting 2025-03-05](https://discourse.llvm.org/t/tcdg-notes-from-meting-2025-03-05/85116#post_1)
-- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_1)
 <!-- DISCOURSE-LLVM:END -->
