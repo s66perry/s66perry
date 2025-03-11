@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_24)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_23)
-- [How to Update Clang Codegen Tests?](https://discourse.llvm.org/t/how-to-update-clang-codegen-tests/85103#post_2)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_22)
-- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_21)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_28)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_27)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_26)
+- [MLIR Tensor Compiler Design Group](https://discourse.llvm.org/t/mlir-tensor-compiler-design-group/84386?page=2#post_36)
+- [Linalg ops prevent affine loop fusion](https://discourse.llvm.org/t/linalg-ops-prevent-affine-loop-fusion/84767?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
