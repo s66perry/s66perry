@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_25)
+- [[OrcJIT] Double Free in ~WrapperFunctionResult &lpar;LLVM17&rpar;](https://discourse.llvm.org/t/orcjit-double-free-in-wrapperfunctionresult-llvm17/85120#post_1)
+- [Propagating match failure message to transform ops](https://discourse.llvm.org/t/propagating-match-failure-message-to-transform-ops/85001#post_4)
 - [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_3)
 - [Speedup of clang build with PGO and BOLT on AArch64](https://discourse.llvm.org/t/speedup-of-clang-build-with-pgo-and-bolt-on-aarch64/85118#post_1)
-- [How to Update Clang Codegen Tests?](https://discourse.llvm.org/t/how-to-update-clang-codegen-tests/85103#post_3)
-- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_2)
-- [Unrealized casts in EmitC](https://discourse.llvm.org/t/unrealized-casts-in-emitc/84383#post_5)
 <!-- DISCOURSE-LLVM:END -->
