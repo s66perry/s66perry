@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=2#post_29)
-- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_18)
-- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_17)
-- [Get rid of checker name handling boilerplate](https://discourse.llvm.org/t/get-rid-of-checker-name-handling-boilerplate/84088#post_10)
-- [RISC-V LLVM sync-up call March 13th 2025 *NOTE DAYLIGHT SAVINGS IMPACT*](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-march-13th-2025-note-daylight-savings-impact/85150#post_1)
+- [Hello from the MLIR area team / Office hours on March 13](https://discourse.llvm.org/t/hello-from-the-mlir-area-team-office-hours-on-march-13/84935#post_3)
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704#post_19)
+- [Hello from the MLIR area team / Office hours on March 13](https://discourse.llvm.org/t/hello-from-the-mlir-area-team-office-hours-on-march-13/84935#post_2)
+- [[RFC][Style] Use `continue` and early exits in Semantics](https://discourse.llvm.org/t/rfc-style-use-continue-and-early-exits-in-semantics/85153#post_1)
+- [[libc][GSoC 2025] Direct I/O from the GPU with io_uring](https://discourse.llvm.org/t/libc-gsoc-2025-direct-i-o-from-the-gpu-with-io-uring/84569#post_7)
 <!-- DISCOURSE-LLVM:END -->
