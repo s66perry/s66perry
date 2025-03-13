@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704?page=2#post_24)
-- [[PSA] Removing `enforceAliasingInvariants` from One-Shot Bufferize](https://discourse.llvm.org/t/psa-removing-enforcealiasinginvariants-from-one-shot-bufferize/85178#post_1)
-- [MLIR Area Team Meeting Minutes - 2025-03-13](https://discourse.llvm.org/t/mlir-area-team-meeting-minutes-2025-03-13/85177#post_1)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=2#post_36)
-- [Why does IRTranslator align the size for dynamic alloca?](https://discourse.llvm.org/t/why-does-irtranslator-align-the-size-for-dynamic-alloca/85160#post_3)
+- [RFC: llvm.gpu builtins for target agnostic code representation](https://discourse.llvm.org/t/rfc-llvm-gpu-builtins-for-target-agnostic-code-representation/85181#post_1)
+- [Source annotations for dynamically vs statically unreachable code](https://discourse.llvm.org/t/source-annotations-for-dynamically-vs-statically-unreachable-code/84818#post_4)
+- [Matching a tab in FileCheck?](https://discourse.llvm.org/t/matching-a-tab-in-filecheck/85180#post_1)
+- [Source annotations for dynamically vs statically unreachable code](https://discourse.llvm.org/t/source-annotations-for-dynamically-vs-statically-unreachable-code/84818#post_3)
+- [[RFC] Experimental implementation of P2719 - Type-aware allocation and deallocation functions](https://discourse.llvm.org/t/rfc-experimental-implementation-of-p2719-type-aware-allocation-and-deallocation-functions/83876#post_9)
 <!-- DISCOURSE-LLVM:END -->
