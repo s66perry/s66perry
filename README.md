@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Addressing Deficiencies in LLVM’s LTO Implementation](https://discourse.llvm.org/t/rfc-addressing-deficiencies-in-llvm-s-lto-implementation/84999#post_10)
-- [Assertion: Incompatible phys register def and uses!](https://discourse.llvm.org/t/assertion-incompatible-phys-register-def-and-uses/84860#post_5)
-- [A set of nodes, together, dominate a node](https://discourse.llvm.org/t/a-set-of-nodes-together-dominate-a-node/85165#post_4)
-- [Dynamic Pass Scheduling and Dialect Loading](https://discourse.llvm.org/t/dynamic-pass-scheduling-and-dialect-loading/85166#post_4)
-- [Why Do Same-Named Kernels via gpu.launch_func Execute Concurrently but Different Kernels Execute Serially?](https://discourse.llvm.org/t/why-do-same-named-kernels-via-gpu-launch-func-execute-concurrently-but-different-kernels-execute-serially/85172#post_1)
+- [MLIR Area Team Meeting Minutes - 2025-03-13](https://discourse.llvm.org/t/mlir-area-team-meeting-minutes-2025-03-13/85177#post_1)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=2#post_36)
+- [Why does IRTranslator align the size for dynamic alloca?](https://discourse.llvm.org/t/why-does-irtranslator-align-the-size-for-dynamic-alloca/85160#post_3)
+- [Deprecate -forder-file-instrumentation in favor of Temporal Profiling](https://discourse.llvm.org/t/deprecate-forder-file-instrumentation-in-favor-of-temporal-profiling/83903#post_3)
+- [Improving LoopVersioningLICM - call for colaboration](https://discourse.llvm.org/t/improving-loopversioninglicm-call-for-colaboration/85176#post_1)
 <!-- DISCOURSE-LLVM:END -->
