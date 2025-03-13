@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Replacing node with loop](https://discourse.llvm.org/t/replacing-node-with-loop/85171#post_1)
+- [[GSoC][Offload]LLVM Compiler Remarks Visualization Tool for Offload Proposal](https://discourse.llvm.org/t/gsoc-offload-llvm-compiler-remarks-visualization-tool-for-offload-proposal/84596#post_3)
 - [Dynamic Pass Scheduling and Dialect Loading](https://discourse.llvm.org/t/dynamic-pass-scheduling-and-dialect-loading/85166#post_3)
 - [Why does IRTranslator align the size for dynamic alloca?](https://discourse.llvm.org/t/why-does-irtranslator-align-the-size-for-dynamic-alloca/85160#post_2)
 - [A set of nodes, together, dominate a node](https://discourse.llvm.org/t/a-set-of-nodes-together-dominate-a-node/85165#post_3)
-- [Dynamic Pass Scheduling and Dialect Loading](https://discourse.llvm.org/t/dynamic-pass-scheduling-and-dialect-loading/85166#post_2)
-- [Dynamic Pass Scheduling and Dialect Loading](https://discourse.llvm.org/t/dynamic-pass-scheduling-and-dialect-loading/85166#post_1)
 <!-- DISCOURSE-LLVM:END -->
