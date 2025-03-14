@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why Do Same-Named Kernels via gpu.launch_func Execute Concurrently but Different Kernels Execute Serially?](https://discourse.llvm.org/t/why-do-same-named-kernels-via-gpu-launch-func-execute-concurrently-but-different-kernels-execute-serially/85172#post_2)
+- [Why does IRTranslator align the size for dynamic alloca?](https://discourse.llvm.org/t/why-does-irtranslator-align-the-size-for-dynamic-alloca/85160#post_4)
+- [Sparse_tensor.convert for conversion from sparse to dense fails under different input conditions](https://discourse.llvm.org/t/sparse-tensor-convert-for-conversion-from-sparse-to-dense-fails-under-different-input-conditions/85190#post_1)
 - [Getting Variable Name for Rewrite](https://discourse.llvm.org/t/getting-variable-name-for-rewrite/85188#post_1)
 - [RFC: Proposal for a New Pass for Write-Allocate Evasion](https://discourse.llvm.org/t/rfc-proposal-for-a-new-pass-for-write-allocate-evasion/85187#post_1)
-- [[tosa] Should unranked tensor allowed for `tosa::reduce_*Op`?](https://discourse.llvm.org/t/tosa-should-unranked-tensor-allowed-for-tosa-reduce-op/85186#post_1)
-- [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356?page=2#post_27)
-- [Searching for GSYM documentation](https://discourse.llvm.org/t/searching-for-gsym-documentation/85185#post_2)
 <!-- DISCOURSE-LLVM:END -->
