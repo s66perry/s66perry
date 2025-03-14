@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704?page=2#post_27)
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704?page=2#post_26)
+- [RFC : Support for &quot;Pseudo&quot; Targets in Clang-Frontend](https://discourse.llvm.org/t/rfc-support-for-pseudo-targets-in-clang-frontend/84704?page=2#post_25)
+- [[PSA] Deprecating `match` and `rewrite`](https://discourse.llvm.org/t/psa-deprecating-match-and-rewrite/85048#post_6)
 - [In clang cuda compiling, Can I call gcc with host code build, and use clang+llvm with device code build?](https://discourse.llvm.org/t/in-clang-cuda-compiling-can-i-call-gcc-with-host-code-build-and-use-clang-llvm-with-device-code-build/85191#post_1)
-- [RFC: Proposal for a New Pass for Write-Allocate Evasion](https://discourse.llvm.org/t/rfc-proposal-for-a-new-pass-for-write-allocate-evasion/85187#post_2)
-- [Why Do Same-Named Kernels via gpu.launch_func Execute Concurrently but Different Kernels Execute Serially?](https://discourse.llvm.org/t/why-do-same-named-kernels-via-gpu-launch-func-execute-concurrently-but-different-kernels-execute-serially/85172#post_2)
-- [Why does IRTranslator align the size for dynamic alloca?](https://discourse.llvm.org/t/why-does-irtranslator-align-the-size-for-dynamic-alloca/85160#post_4)
-- [Sparse_tensor.convert for conversion from sparse to dense fails under different input conditions](https://discourse.llvm.org/t/sparse-tensor-convert-for-conversion-from-sparse-to-dense-fails-under-different-input-conditions/85190#post_1)
 <!-- DISCOURSE-LLVM:END -->
