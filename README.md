@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388#post_20)
-- [Source annotations for dynamically vs statically unreachable code](https://discourse.llvm.org/t/source-annotations-for-dynamically-vs-statically-unreachable-code/84818#post_6)
-- [Source annotations for dynamically vs statically unreachable code](https://discourse.llvm.org/t/source-annotations-for-dynamically-vs-statically-unreachable-code/84818#post_5)
-- [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356?page=2#post_30)
-- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_28)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_31)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_30)
+- [In clang cuda compiling, Can I call gcc with host code build, and use clang+llvm with device code build?](https://discourse.llvm.org/t/in-clang-cuda-compiling-can-i-call-gcc-with-host-code-build-and-use-clang-llvm-with-device-code-build/85191#post_3)
+- [[tosa] Should unranked tensor allowed for `tosa::reduce_*Op`?](https://discourse.llvm.org/t/tosa-should-unranked-tensor-allowed-for-tosa-reduce-op/85186#post_2)
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
