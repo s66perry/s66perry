@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_6)
+- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_5)
 - [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_4)
 - [[RFC] Fast-math flags semantics: contract](https://discourse.llvm.org/t/rfc-fast-math-flags-semantics-contract/84478#post_7)
 - [Please don&#39;t use undef in tests &lpar;part 2&rpar;](https://discourse.llvm.org/t/please-dont-use-undef-in-tests-part-2/83388?page=2#post_22)
-- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_3)
-- [[RFC] Fast-math flags semantics: contract](https://discourse.llvm.org/t/rfc-fast-math-flags-semantics-contract/84478#post_6)
 <!-- DISCOURSE-LLVM:END -->
