@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clean up valist checkers](https://discourse.llvm.org/t/clean-up-valist-checkers/85277#post_1)
-- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_19)
-- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_18)
-- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964#post_17)
-- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_7)
+- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434?page=2#post_23)
+- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_10)
+- [[clang][GSoC 2025] Support simple C++20 modules use from the Clang driver without a build system](https://discourse.llvm.org/t/clang-gsoc-2025-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/84511#post_12)
+- [[RFC] Exposing the Target API lock through the SB API](https://discourse.llvm.org/t/rfc-exposing-the-target-api-lock-through-the-sb-api/85215#post_4)
+- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
