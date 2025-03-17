@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang Area Team Initial Communication](https://discourse.llvm.org/t/clang-area-team-initial-communication/85066#post_5)
+- [[RFC] Fast-math flags semantics: contract](https://discourse.llvm.org/t/rfc-fast-math-flags-semantics-contract/84478#post_8)
 - [[RFC] [Clang] Canonical wrapping and non-wrapping types](https://discourse.llvm.org/t/rfc-clang-canonical-wrapping-and-non-wrapping-types/84356?page=2#post_32)
 - [LLVM Weekly - #585, March 17th 2025](https://discourse.llvm.org/t/llvm-weekly-585-march-17th-2025/85286#post_1)
 - [Why use cppm extension for parition implementation?](https://discourse.llvm.org/t/why-use-cppm-extension-for-parition-implementation/85285#post_1)
-- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_10)
-- [[RFC] contiguous&lt;permutation, offset: O&gt; layout &lpar;and changing default memref layout&rpar;](https://discourse.llvm.org/t/rfc-contiguous-permutation-offset-o-layout-and-changing-default-memref-layout/85284#post_1)
 <!-- DISCOURSE-LLVM:END -->
