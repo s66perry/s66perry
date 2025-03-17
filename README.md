@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can you archive a module?](https://discourse.llvm.org/t/can-you-archive-a-module/85283#post_1)
-- [[RFC] Exposing the Target API lock through the SB API](https://discourse.llvm.org/t/rfc-exposing-the-target-api-lock-through-the-sb-api/85215#post_5)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434?page=2#post_23)
-- [RFC: SPIRV IR as a vendor agnostic GPU representation](https://discourse.llvm.org/t/rfc-spirv-ir-as-a-vendor-agnostic-gpu-representation/85115#post_10)
-- [[clang][GSoC 2025] Support simple C++20 modules use from the Clang driver without a build system](https://discourse.llvm.org/t/clang-gsoc-2025-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/84511#post_12)
+- [LLVM Weekly - #585, March 17th 2025](https://discourse.llvm.org/t/llvm-weekly-585-march-17th-2025/85286#post_1)
+- [Why use cppm extension for parition implementation?](https://discourse.llvm.org/t/why-use-cppm-extension-for-parition-implementation/85285#post_1)
+- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_10)
+- [[RFC] contiguous&lt;permutation, offset: O&gt; layout &lpar;and changing default memref layout&rpar;](https://discourse.llvm.org/t/rfc-contiguous-permutation-offset-o-layout-and-changing-default-memref-layout/85284#post_1)
+- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_5)
 <!-- DISCOURSE-LLVM:END -->
