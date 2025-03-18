@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Building LLVM as a Windows DLL](https://discourse.llvm.org/t/building-llvm-as-a-windows-dll/85307#post_3)
-- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_3)
-- [Matching a tab in FileCheck?](https://discourse.llvm.org/t/matching-a-tab-in-filecheck/85180#post_4)
-- [Building LLVM as a Windows DLL](https://discourse.llvm.org/t/building-llvm-as-a-windows-dll/85307#post_2)
-- [Building LLVM as a Windows DLL](https://discourse.llvm.org/t/building-llvm-as-a-windows-dll/85307#post_1)
+- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_7)
+- [[RFC] Finer-grained non-integral pointer properties](https://discourse.llvm.org/t/rfc-finer-grained-non-integral-pointer-properties/83176#post_9)
+- [[RFC][LLDB] Highlighting function names in LLDB backtraces](https://discourse.llvm.org/t/rfc-lldb-highlighting-function-names-in-lldb-backtraces/85309#post_3)
+- [Building LLVM as a Windows DLL](https://discourse.llvm.org/t/building-llvm-as-a-windows-dll/85307#post_4)
+- [[RFC][LLDB] Highlighting function names in LLDB backtraces](https://discourse.llvm.org/t/rfc-lldb-highlighting-function-names-in-lldb-backtraces/85309#post_2)
 <!-- DISCOURSE-LLVM:END -->
