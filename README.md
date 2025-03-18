@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clean up valist checkers](https://discourse.llvm.org/t/clean-up-valist-checkers/85277#post_3)
+- [Clean up valist checkers](https://discourse.llvm.org/t/clean-up-valist-checkers/85277#post_2)
+- [Lifting up assembly to llvm IR](https://discourse.llvm.org/t/lifting-up-assembly-to-llvm-ir/85296#post_2)
+- [Test.op in released vs local mlir-opt](https://discourse.llvm.org/t/test-op-in-released-vs-local-mlir-opt/85297#post_1)
 - [Lifting up assembly to llvm IR](https://discourse.llvm.org/t/lifting-up-assembly-to-llvm-ir/85296#post_1)
-- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_12)
-- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_10)
-- [`foreach` function create extra matching pattern do not wanted](https://discourse.llvm.org/t/foreach-function-create-extra-matching-pattern-do-not-wanted/85295#post_1)
-- [Why use cppm extension for parition implementation?](https://discourse.llvm.org/t/why-use-cppm-extension-for-parition-implementation/85285#post_6)
 <!-- DISCOURSE-LLVM:END -->
