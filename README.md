@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102?page=2#post_30)
+- [Test.op in released vs local mlir-opt](https://discourse.llvm.org/t/test-op-in-released-vs-local-mlir-opt/85297#post_2)
+- [Modeling `do concurrent` loops in the `fir` dialect](https://discourse.llvm.org/t/modeling-do-concurrent-loops-in-the-fir-dialect/84950#post_13)
 - [Clean up valist checkers](https://discourse.llvm.org/t/clean-up-valist-checkers/85277#post_3)
 - [Clean up valist checkers](https://discourse.llvm.org/t/clean-up-valist-checkers/85277#post_2)
-- [Lifting up assembly to llvm IR](https://discourse.llvm.org/t/lifting-up-assembly-to-llvm-ir/85296#post_2)
-- [Test.op in released vs local mlir-opt](https://discourse.llvm.org/t/test-op-in-released-vs-local-mlir-opt/85297#post_1)
-- [Lifting up assembly to llvm IR](https://discourse.llvm.org/t/lifting-up-assembly-to-llvm-ir/85296#post_1)
 <!-- DISCOURSE-LLVM:END -->
