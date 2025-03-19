@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=2#post_37)
 - [[RFC] Modify InstCombinerImpl::shouldChangeType so it is profitable for RL78](https://discourse.llvm.org/t/rfc-modify-instcombinerimpl-shouldchangetype-so-it-is-profitable-for-rl78/85324#post_1)
 - [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_45)
 - [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_44)
 - [Matching a tab in FileCheck?](https://discourse.llvm.org/t/matching-a-tab-in-filecheck/85180#post_5)
-- [Making MemorySSA default for GVN?](https://discourse.llvm.org/t/making-memoryssa-default-for-gvn/85323#post_1)
 <!-- DISCOURSE-LLVM:END -->
