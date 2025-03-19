@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Lifting up assembly to llvm IR](https://discourse.llvm.org/t/lifting-up-assembly-to-llvm-ir/85296#post_7)
-- [Lifting up assembly to llvm IR](https://discourse.llvm.org/t/lifting-up-assembly-to-llvm-ir/85296#post_6)
-- [Convert type of scf::ForOp initArgs and results](https://discourse.llvm.org/t/convert-type-of-scf-forop-initargs-and-results/85320#post_3)
-- [LLVM 20 ninja Build Failing on WSL](https://discourse.llvm.org/t/llvm-20-ninja-build-failing-on-wsl/85328#post_2)
-- [LLVM 20 ninja Build Failing on WSL](https://discourse.llvm.org/t/llvm-20-ninja-build-failing-on-wsl/85328#post_1)
+- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_17)
+- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_11)
+- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=2#post_38)
+- [Support query-based clang-tidy external check](https://discourse.llvm.org/t/support-query-based-clang-tidy-external-check/85331#post_2)
+- [Support query-based clang-tidy external check](https://discourse.llvm.org/t/support-query-based-clang-tidy-external-check/85331#post_1)
 <!-- DISCOURSE-LLVM:END -->
