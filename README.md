@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Exposing the Target API lock through the SB API](https://discourse.llvm.org/t/rfc-exposing-the-target-api-lock-through-the-sb-api/85215#post_6)
-- [LLVM security response group 2024 transparency report](https://discourse.llvm.org/t/llvm-security-response-group-2024-transparency-report/85336#post_1)
-- [Compiler-rt: testing of builtins](https://discourse.llvm.org/t/compiler-rt-testing-of-builtins/85335#post_1)
-- [CIRCT: Lowering Upstream MLIR into Verilog](https://discourse.llvm.org/t/circt-lowering-upstream-mlir-into-verilog/84076#post_11)
-- [RFC: Changing the default code model for LoongArch](https://discourse.llvm.org/t/rfc-changing-the-default-code-model-for-loongarch/85317#post_4)
+- [Compiler-rt: testing of builtins](https://discourse.llvm.org/t/compiler-rt-testing-of-builtins/85335#post_5)
+- [Compiler-rt: testing of builtins](https://discourse.llvm.org/t/compiler-rt-testing-of-builtins/85335#post_4)
+- [LLVM 20.1.1 Released!](https://discourse.llvm.org/t/llvm-20-1-1-released/85337#post_1)
+- [Compiler-rt: testing of builtins](https://discourse.llvm.org/t/compiler-rt-testing-of-builtins/85335#post_3)
+- [Compiler-rt: testing of builtins](https://discourse.llvm.org/t/compiler-rt-testing-of-builtins/85335#post_2)
 <!-- DISCOURSE-LLVM:END -->
