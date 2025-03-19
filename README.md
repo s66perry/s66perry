@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [CIRCT: Lowering Upstream MLIR into Verilog](https://discourse.llvm.org/t/circt-lowering-upstream-mlir-into-verilog/84076#post_11)
+- [RFC: Changing the default code model for LoongArch](https://discourse.llvm.org/t/rfc-changing-the-default-code-model-for-loongarch/85317#post_4)
 - [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_7)
 - [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_6)
 - [Why does IRTranslator align the size for dynamic alloca?](https://discourse.llvm.org/t/why-does-irtranslator-align-the-size-for-dynamic-alloca/85160#post_5)
-- [[RFC] Amending `runtimes` build system to be able to build all Apple platforms &lpar;not only macOS&rpar;](https://discourse.llvm.org/t/rfc-amending-runtimes-build-system-to-be-able-to-build-all-apple-platforms-not-only-macos/85019#post_6)
-- [[RFC] Amending `runtimes` build system to be able to build all Apple platforms &lpar;not only macOS&rpar;](https://discourse.llvm.org/t/rfc-amending-runtimes-build-system-to-be-able-to-build-all-apple-platforms-not-only-macos/85019#post_5)
 <!-- DISCOURSE-LLVM:END -->
