@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_11)
+- [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_11)
 - [RFC: Changing the default code model for LoongArch](https://discourse.llvm.org/t/rfc-changing-the-default-code-model-for-loongarch/85317#post_5)
 - [Bug in assigning section to static-initialized-variable](https://discourse.llvm.org/t/bug-in-assigning-section-to-static-initialized-variable/85345#post_3)
 - [Bug in assigning section to static-initialized-variable](https://discourse.llvm.org/t/bug-in-assigning-section-to-static-initialized-variable/85345#post_2)
-- [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_16)
-- [[MLIR][GPU] Failure to Generate Vectorized PTX Instructions from MLIR vector.load/store During GPU Lowering](https://discourse.llvm.org/t/mlir-gpu-failure-to-generate-vectorized-ptx-instructions-from-mlir-vector-load-store-during-gpu-lowering/85330#post_3)
 <!-- DISCOURSE-LLVM:END -->
