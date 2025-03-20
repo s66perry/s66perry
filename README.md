@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_15)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_49)
-- [MLIR Pass Type to add/modfiy multiple modules](https://discourse.llvm.org/t/mlir-pass-type-to-add-modfiy-multiple-modules/85338#post_2)
-- [MLIR Pass Type to add/modfiy multiple modules](https://discourse.llvm.org/t/mlir-pass-type-to-add-modfiy-multiple-modules/85338#post_1)
-- [Performance Regression in LLVM - A SPEC CPU 2017 Study](https://discourse.llvm.org/t/performance-regression-in-llvm-a-spec-cpu-2017-study/84812#post_10)
+- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_3)
+- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_2)
+- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_1)
+- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_8)
+- [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_9)
 <!-- DISCOURSE-LLVM:END -->
