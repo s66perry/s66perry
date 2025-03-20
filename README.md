@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Source annotations for dynamically vs statically unreachable code](https://discourse.llvm.org/t/source-annotations-for-dynamically-vs-statically-unreachable-code/84818#post_9)
-- [Large `_BitInt`s on ARM64](https://discourse.llvm.org/t/large-bitint-s-on-arm64/85361#post_2)
-- [Splitting clang’s CGBuiltin.cpp -- over 23k lines long, takes &gt; 1min to compile](https://discourse.llvm.org/t/splitting-clang-s-cgbuiltin-cpp-over-23k-lines-long-takes-1min-to-compile/83763#post_10)
-- [Source annotations for dynamically vs statically unreachable code](https://discourse.llvm.org/t/source-annotations-for-dynamically-vs-statically-unreachable-code/84818#post_8)
-- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360#post_9)
+- [LLVM area team meetings](https://discourse.llvm.org/t/llvm-area-team-meetings/85368#post_1)
+- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_6)
+- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_56)
+- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_7)
+- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_6)
 <!-- DISCOURSE-LLVM:END -->
