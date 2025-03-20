@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_5)
+- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_4)
+- [[RFC] `ptr` dialect &amp; modularizing ptr ops in the LLVM dialect](https://discourse.llvm.org/t/rfc-ptr-dialect-modularizing-ptr-ops-in-the-llvm-dialect/75142?page=4#post_62)
 - [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_3)
 - [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_2)
-- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_1)
-- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_8)
-- [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_9)
 <!-- DISCOURSE-LLVM:END -->
