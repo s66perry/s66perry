@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Putting extra input args in a child op class](https://discourse.llvm.org/t/putting-extra-input-args-in-a-child-op-class/85355#post_6)
-- [Putting extra input args in a child op class](https://discourse.llvm.org/t/putting-extra-input-args-in-a-child-op-class/85355#post_5)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_53)
-- [How to provide cmdline arguments to pass that run in pass pipeline?](https://discourse.llvm.org/t/how-to-provide-cmdline-arguments-to-pass-that-run-in-pass-pipeline/85351#post_3)
-- [Putting extra input args in a child op class](https://discourse.llvm.org/t/putting-extra-input-args-in-a-child-op-class/85355#post_4)
+- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360#post_3)
+- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360#post_2)
+- [[libc][GSoC 2025] Bfloat16 in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2025-bfloat16-in-llvm-libc/84469#post_13)
+- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_12)
+- [Portable version of libc++ algorithms?](https://discourse.llvm.org/t/portable-version-of-libc-algorithms/79166#post_5)
 <!-- DISCOURSE-LLVM:END -->
