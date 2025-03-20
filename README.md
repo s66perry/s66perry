@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][GPU] Failure to Generate Vectorized PTX Instructions from MLIR vector.load/store During GPU Lowering](https://discourse.llvm.org/t/mlir-gpu-failure-to-generate-vectorized-ptx-instructions-from-mlir-vector-load-store-during-gpu-lowering/85330#post_3)
+- [RFC: move llvm-toolchain-integration-test-suite under the llvm umbrella](https://discourse.llvm.org/t/rfc-move-llvm-toolchain-integration-test-suite-under-the-llvm-umbrella/85063#post_7)
+- [Bug in assigning section to static-initialized-variable](https://discourse.llvm.org/t/bug-in-assigning-section-to-static-initialized-variable/85345#post_1)
+- [DomTree Updates: Should UpdateType Represent CFG or DomTree Changes?](https://discourse.llvm.org/t/domtree-updates-should-updatetype-represent-cfg-or-domtree-changes/85344#post_2)
 - [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_10)
-- [DomTree Updates: Should UpdateType Represent CFG or DomTree Changes?](https://discourse.llvm.org/t/domtree-updates-should-updatetype-represent-cfg-or-domtree-changes/85344#post_1)
-- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_12)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_52)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
