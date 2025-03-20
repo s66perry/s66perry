@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM area team meetings](https://discourse.llvm.org/t/llvm-area-team-meetings/85368#post_1)
-- [[llvm-exegesis][ZEN 5]](https://discourse.llvm.org/t/llvm-exegesis-zen-5/85341#post_6)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=3#post_56)
-- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_7)
-- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_6)
+- [Question on getting vector size in tablegen?](https://discourse.llvm.org/t/question-on-getting-vector-size-in-tablegen/85371#post_1)
+- [[GSoC][Offload]LLVM Compiler Remarks Visualization Tool for Offload Proposal](https://discourse.llvm.org/t/gsoc-offload-llvm-compiler-remarks-visualization-tool-for-offload-proposal/84596#post_4)
+- [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_13)
+- [[RFC][LLDB] Highlighting function names in LLDB backtraces](https://discourse.llvm.org/t/rfc-lldb-highlighting-function-names-in-lldb-backtraces/85309#post_4)
+- [Generating vector size for V ext instruction question](https://discourse.llvm.org/t/generating-vector-size-for-v-ext-instruction-question/85369#post_1)
 <!-- DISCOURSE-LLVM:END -->
