@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Options or configurations to set basic types sizes &lpar;int, unsigned int ...&rpar;](https://discourse.llvm.org/t/options-or-configurations-to-set-basic-types-sizes-int-unsigned-int/85391#post_1)
+- [[RFC] Don&#39;t use llvm.experimental intrinsics](https://discourse.llvm.org/t/rfc-dont-use-llvm-experimental-intrinsics/85352#post_4)
+- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_16)
 - [Can BOLT be used to optimize shared libraries?](https://discourse.llvm.org/t/can-bolt-be-used-to-optimize-shared-libraries/85389#post_2)
 - [Large `_BitInt`s on ARM64](https://discourse.llvm.org/t/large-bitint-s-on-arm64/85361#post_3)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=4#post_63)
-- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360#post_13)
-- [Distinction of DIExpression node](https://discourse.llvm.org/t/distinction-of-diexpression-node/71747#post_20)
 <!-- DISCOURSE-LLVM:END -->
