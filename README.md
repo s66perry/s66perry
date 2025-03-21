@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_10)
-- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_14)
-- [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554#post_10)
-- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_13)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=4#post_62)
+- [LLVM area team meetings](https://discourse.llvm.org/t/llvm-area-team-meetings/85368#post_3)
+- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_17)
+- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_11)
+- [[RFC] Bumping the minimum SWIG version to 4.1.0](https://discourse.llvm.org/t/rfc-bumping-the-minimum-swig-version-to-4-1-0/85377#post_2)
+- [LLVM area team meetings](https://discourse.llvm.org/t/llvm-area-team-meetings/85368#post_2)
 <!-- DISCOURSE-LLVM:END -->
