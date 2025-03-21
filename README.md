@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021#post_3)
-- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360#post_15)
-- [[RFC] Bumping the minimum SWIG version to 4.1.0](https://discourse.llvm.org/t/rfc-bumping-the-minimum-swig-version-to-4-1-0/85377#post_5)
-- [[Attn: Repository Owners] Creating an allow list of third-party actions](https://discourse.llvm.org/t/attn-repository-owners-creating-an-allow-list-of-third-party-actions/85396#post_6)
-- [[Attn: Repository Owners] Creating an allow list of third-party actions](https://discourse.llvm.org/t/attn-repository-owners-creating-an-allow-list-of-third-party-actions/85396#post_5)
+- [LLVM doesn&#39;t optimize redundant atomics](https://discourse.llvm.org/t/llvm-doesnt-optimize-redundant-atomics/85411#post_3)
+- [LLVM doesn&#39;t optimize redundant atomics](https://discourse.llvm.org/t/llvm-doesnt-optimize-redundant-atomics/85411#post_2)
+- [[RFC] contiguous&lt;permutation, offset: O&gt; layout &lpar;and changing default memref layout&rpar;](https://discourse.llvm.org/t/rfc-contiguous-permutation-offset-o-layout-and-changing-default-memref-layout/85284#post_8)
+- [Build Clang for x86_64-pc-windows-msvc native](https://discourse.llvm.org/t/build-clang-for-x86-64-pc-windows-msvc-native/85407#post_2)
+- [[Attn: Repository Owners] Creating an allow list of third-party actions](https://discourse.llvm.org/t/attn-repository-owners-creating-an-allow-list-of-third-party-actions/85396#post_7)
 <!-- DISCOURSE-LLVM:END -->
