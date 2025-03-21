@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Options or configurations to set basic types sizes &lpar;int, unsigned int ...&rpar;](https://discourse.llvm.org/t/options-or-configurations-to-set-basic-types-sizes-int-unsigned-int/85391#post_1)
-- [[RFC] Don&#39;t use llvm.experimental intrinsics](https://discourse.llvm.org/t/rfc-dont-use-llvm-experimental-intrinsics/85352#post_4)
-- [Improve documentation parsing in Clang](https://discourse.llvm.org/t/improve-documentation-parsing-in-clang/84513#post_16)
-- [Can BOLT be used to optimize shared libraries?](https://discourse.llvm.org/t/can-bolt-be-used-to-optimize-shared-libraries/85389#post_2)
-- [Large `_BitInt`s on ARM64](https://discourse.llvm.org/t/large-bitint-s-on-arm64/85361#post_3)
+- [[RFC][XRay] Adding runtime symbol resolution to XRay](https://discourse.llvm.org/t/rfc-xray-adding-runtime-symbol-resolution-to-xray/85397#post_2)
+- [[RFC][XRay] Adding runtime symbol resolution to XRay](https://discourse.llvm.org/t/rfc-xray-adding-runtime-symbol-resolution-to-xray/85397#post_1)
+- [[Attn: Repository Owners] Creating an allow list of third-party actions](https://discourse.llvm.org/t/attn-repository-owners-creating-an-allow-list-of-third-party-actions/85396#post_1)
+- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487#post_12)
+- [3rd DistriNet LLVM Meetup in Ghent, Belgium](https://discourse.llvm.org/t/3rd-distrinet-llvm-meetup-in-ghent-belgium/85394#post_1)
 <!-- DISCOURSE-LLVM:END -->
