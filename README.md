@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Using LLVM ADT/Support lib in external projects without pulling full LLVM monorepo](https://discourse.llvm.org/t/using-llvm-adt-support-lib-in-external-projects-without-pulling-full-llvm-monorepo/85434#post_3)
+- [Using LLVM ADT/Support lib in external projects without pulling full LLVM monorepo](https://discourse.llvm.org/t/using-llvm-adt-support-lib-in-external-projects-without-pulling-full-llvm-monorepo/85434#post_2)
+- [Using LLVM ADT/Support lib in external projects without pulling full LLVM monorepo](https://discourse.llvm.org/t/using-llvm-adt-support-lib-in-external-projects-without-pulling-full-llvm-monorepo/85434#post_1)
 - [libclang: Spelling on typedefs lacks namespaces](https://discourse.llvm.org/t/libclang-spelling-on-typedefs-lacks-namespaces/42325#post_7)
 - [Get IR Module From ORC Jit](https://discourse.llvm.org/t/get-ir-module-from-orc-jit/85373#post_2)
-- [[RFC] Improving gather codegen for Vector Dialect](https://discourse.llvm.org/t/rfc-improving-gather-codegen-for-vector-dialect/85011#post_13)
-- [[RFC] Improving gather codegen for Vector Dialect](https://discourse.llvm.org/t/rfc-improving-gather-codegen-for-vector-dialect/85011#post_12)
-- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360#post_19)
 <!-- DISCOURSE-LLVM:END -->
