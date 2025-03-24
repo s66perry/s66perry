@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question: Why isn&#39;t `null_pointer_is_valid` a module-level property?](https://discourse.llvm.org/t/question-why-isnt-null-pointer-is-valid-a-module-level-property/85452#post_4)
+- [[ClangIR][GSoC 2025] ClangIR upstreaming](https://discourse.llvm.org/t/clangir-gsoc-2025-clangir-upstreaming/84766#post_14)
+- [[RFC][XRay] Adding runtime symbol resolution to XRay](https://discourse.llvm.org/t/rfc-xray-adding-runtime-symbol-resolution-to-xray/85397#post_6)
 - [[RFC] Function type attribute to prevent CFI instrumentation](https://discourse.llvm.org/t/rfc-function-type-attribute-to-prevent-cfi-instrumentation/85458#post_4)
 - [[RFC] Function type attribute to prevent CFI instrumentation](https://discourse.llvm.org/t/rfc-function-type-attribute-to-prevent-cfi-instrumentation/85458#post_3)
-- [[RFC] Function type attribute to prevent CFI instrumentation](https://discourse.llvm.org/t/rfc-function-type-attribute-to-prevent-cfi-instrumentation/85458#post_2)
-- [LLVM Weekly - #586, March 24th 2025](https://discourse.llvm.org/t/llvm-weekly-586-march-24th-2025/85461#post_1)
-- [[RFC] Function type attribute to prevent CFI instrumentation](https://discourse.llvm.org/t/rfc-function-type-attribute-to-prevent-cfi-instrumentation/85458#post_1)
 <!-- DISCOURSE-LLVM:END -->
