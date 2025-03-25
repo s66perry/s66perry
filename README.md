@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Numerical Testing: Multiple Output in MLIR Python Bindings](https://discourse.llvm.org/t/numerical-testing-multiple-output-in-mlir-python-bindings/85472#post_4)
-- [[RFC] Documenting Stacked PR Practices](https://discourse.llvm.org/t/rfc-documenting-stacked-pr-practices/85471#post_3)
-- [[RFC] Documenting Stacked PR Practices](https://discourse.llvm.org/t/rfc-documenting-stacked-pr-practices/85471#post_2)
-- [Numerical Testing: Multiple Output in MLIR Python Bindings](https://discourse.llvm.org/t/numerical-testing-multiple-output-in-mlir-python-bindings/85472#post_3)
-- [BOLT for libart.so on Android doesn&#39;t show obvious performance improvement](https://discourse.llvm.org/t/bolt-for-libart-so-on-android-doesnt-show-obvious-performance-improvement/85437#post_8)
+- [LLDB disassembly of RISC-V extension instructions](https://discourse.llvm.org/t/lldb-disassembly-of-risc-v-extension-instructions/85474#post_6)
+- [LLDB disassembly of RISC-V extension instructions](https://discourse.llvm.org/t/lldb-disassembly-of-risc-v-extension-instructions/85474#post_5)
+- [LLDB disassembly of RISC-V extension instructions](https://discourse.llvm.org/t/lldb-disassembly-of-risc-v-extension-instructions/85474#post_4)
+- [LLDB disassembly of RISC-V extension instructions](https://discourse.llvm.org/t/lldb-disassembly-of-risc-v-extension-instructions/85474#post_3)
+- [LLDB disassembly of RISC-V extension instructions](https://discourse.llvm.org/t/lldb-disassembly-of-risc-v-extension-instructions/85474#post_2)
 <!-- DISCOURSE-LLVM:END -->
