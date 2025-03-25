@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Numerical Testing: Multiple Output in MLIR Python Bindings](https://discourse.llvm.org/t/numerical-testing-multiple-output-in-mlir-python-bindings/85472#post_9)
-- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360?page=2#post_30)
-- [LLVM-20 issue with cerbero](https://discourse.llvm.org/t/llvm-20-issue-with-cerbero/85482#post_1)
-- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021#post_6)
-- [Numerical Testing: Multiple Output in MLIR Python Bindings](https://discourse.llvm.org/t/numerical-testing-multiple-output-in-mlir-python-bindings/85472#post_8)
+- [Block argument](https://discourse.llvm.org/t/block-argument/85441#post_2)
+- [Numerical Testing: Multiple Output in MLIR Python Bindings](https://discourse.llvm.org/t/numerical-testing-multiple-output-in-mlir-python-bindings/85472#post_10)
+- [MSVC static libraries cannot be read by LLVM tools](https://discourse.llvm.org/t/msvc-static-libraries-cannot-be-read-by-llvm-tools/85488#post_1)
+- [DWARF5 MD5 checksums](https://discourse.llvm.org/t/dwarf5-md5-checksums/85487#post_1)
+- [RFC: Changing the default code model for LoongArch](https://discourse.llvm.org/t/rfc-changing-the-default-code-model-for-loongarch/85317#post_7)
 <!-- DISCOURSE-LLVM:END -->
