@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM security response group 2024 transparency report](https://discourse.llvm.org/t/llvm-security-response-group-2024-transparency-report/85336#post_3)
-- [LLVM security response group 2024 transparency report](https://discourse.llvm.org/t/llvm-security-response-group-2024-transparency-report/85336#post_2)
-- [Do you assign GitHub issues?](https://discourse.llvm.org/t/do-you-assign-github-issues/84771#post_15)
-- [BOLT for libart.so on Android doesn&#39;t show obvious performance improvement](https://discourse.llvm.org/t/bolt-for-libart-so-on-android-doesnt-show-obvious-performance-improvement/85437#post_6)
-- [Finding equivalent operations with different input/outputs](https://discourse.llvm.org/t/finding-equivalent-operations-with-different-input-outputs/85466#post_2)
+- [[RFC] Documenting Stacked PR Practices](https://discourse.llvm.org/t/rfc-documenting-stacked-pr-practices/85471#post_1)
+- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587?page=2#post_24)
+- [BOLT for libart.so on Android doesn&#39;t show obvious performance improvement](https://discourse.llvm.org/t/bolt-for-libart-so-on-android-doesnt-show-obvious-performance-improvement/85437#post_7)
+- [LLVM doesn&#39;t optimize redundant atomics](https://discourse.llvm.org/t/llvm-doesnt-optimize-redundant-atomics/85411#post_7)
+- [[RFC][XRay] Adding runtime symbol resolution to XRay](https://discourse.llvm.org/t/rfc-xray-adding-runtime-symbol-resolution-to-xray/85397#post_7)
 <!-- DISCOURSE-LLVM:END -->
