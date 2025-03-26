@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: &lpar;Forward&rpar; referencing a struct member within bounds annotations](https://discourse.llvm.org/t/rfc-forward-referencing-a-struct-member-within-bounds-annotations/85510#post_2)
-- [LValueElement returns UnknownVal for multi-dimensional arrays](https://discourse.llvm.org/t/lvalueelement-returns-unknownval-for-multi-dimensional-arrays/85476#post_2)
-- [[RFC] Breaking basic_format_string&#39;s ABI for performance improvements](https://discourse.llvm.org/t/rfc-breaking-basic-format-strings-abi-for-performance-improvements/85431#post_3)
-- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021#post_7)
-- [[RFC] Bumping the minimum SWIG version to 4.1.0](https://discourse.llvm.org/t/rfc-bumping-the-minimum-swig-version-to-4-1-0/85377#post_8)
+- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_28)
+- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_27)
+- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=4#post_70)
+- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_26)
+- [[RFC] Breaking basic_format_string&#39;s ABI for performance improvements](https://discourse.llvm.org/t/rfc-breaking-basic-format-strings-abi-for-performance-improvements/85431#post_5)
 <!-- DISCOURSE-LLVM:END -->
