@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568?page=2#post_21)
 - [Matching a tab in FileCheck?](https://discourse.llvm.org/t/matching-a-tab-in-filecheck/85180#post_8)
 - [BOLT for libart.so on Android doesn&#39;t show obvious performance improvement](https://discourse.llvm.org/t/bolt-for-libart-so-on-android-doesnt-show-obvious-performance-improvement/85437#post_9)
 - [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=4#post_69)
 - [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_20)
-- [[clang][GSoC 2025] Usability Improvements for trapping Undefined Behavior Sanitizer](https://discourse.llvm.org/t/clang-gsoc-2025-usability-improvements-for-trapping-undefined-behavior-sanitizer/84568#post_19)
 <!-- DISCOURSE-LLVM:END -->
