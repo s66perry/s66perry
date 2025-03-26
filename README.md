@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Arch Linux missing the static libraries](https://discourse.llvm.org/t/arch-linux-missing-the-static-libraries/85498#post_4)
-- [Arch Linux missing the static libraries](https://discourse.llvm.org/t/arch-linux-missing-the-static-libraries/85498#post_3)
-- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_25)
-- [Arch Linux missing the static libraries](https://discourse.llvm.org/t/arch-linux-missing-the-static-libraries/85498#post_2)
-- [Adding Partial Instruction to Wasm Backend](https://discourse.llvm.org/t/adding-partial-instruction-to-wasm-backend/85468#post_2)
+- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509#post_1)
+- [RFC: Alternative spellings of OpenMP directives &lpar;crosspost&rpar;](https://discourse.llvm.org/t/rfc-alternative-spellings-of-openmp-directives-crosspost/85508#post_1)
+- [RFC: Alternative spellings of OpenMP directives](https://discourse.llvm.org/t/rfc-alternative-spellings-of-openmp-directives/85507#post_1)
+- [[RFC] Volatile representation in Flang](https://discourse.llvm.org/t/rfc-volatile-representation-in-flang/85404#post_7)
+- [Seeking Guidance on Executing MLIR Code with GPU Dialect on GPU](https://discourse.llvm.org/t/seeking-guidance-on-executing-mlir-code-with-gpu-dialect-on-gpu/85506#post_1)
 <!-- DISCOURSE-LLVM:END -->
