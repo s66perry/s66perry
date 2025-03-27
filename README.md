@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dependency analysis in MLIR](https://discourse.llvm.org/t/dependency-analysis-in-mlir/85496#post_3)
 - [Please add more pre-merge testing for LLDB PRs](https://discourse.llvm.org/t/please-add-more-pre-merge-testing-for-lldb-prs/85515#post_4)
 - [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=4#post_71)
 - [Splitting clang’s CGBuiltin.cpp -- over 23k lines long, takes &gt; 1min to compile](https://discourse.llvm.org/t/splitting-clang-s-cgbuiltin-cpp-over-23k-lines-long-takes-1min-to-compile/83763#post_11)
 - [Please add more pre-merge testing for LLDB PRs](https://discourse.llvm.org/t/please-add-more-pre-merge-testing-for-lldb-prs/85515#post_3)
-- [[libc][GSoC 2025] Profiling and testing of the LLVM libc GPU math](https://discourse.llvm.org/t/libc-gsoc-2025-profiling-and-testing-of-the-llvm-libc-gpu-math/84570#post_15)
 <!-- DISCOURSE-LLVM:END -->
