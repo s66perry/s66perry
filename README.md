@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[libc][GSoC 2025] Profiling and testing of the LLVM libc GPU math](https://discourse.llvm.org/t/libc-gsoc-2025-profiling-and-testing-of-the-llvm-libc-gpu-math/84570#post_15)
+- [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_13)
+- [Please add more pre-merge testing for LLDB PRs](https://discourse.llvm.org/t/please-add-more-pre-merge-testing-for-lldb-prs/85515#post_2)
+- [Please add more pre-merge testing for LLDB PRs](https://discourse.llvm.org/t/please-add-more-pre-merge-testing-for-lldb-prs/85515#post_1)
 - [RFC: Enforcing Bounds Safety in C &lpar;-fbounds-safety&rpar;](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854?page=10#post_197)
-- [RISC-V LLVM sync-up call March 27th 2025 *NOTE DAYLIGHT SAVINGS IMPACT*](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-march-27th-2025-note-daylight-savings-impact/85512#post_1)
-- [Seeking Guidance on Executing MLIR Code with GPU Dialect on GPU](https://discourse.llvm.org/t/seeking-guidance-on-executing-mlir-code-with-gpu-dialect-on-gpu/85506#post_2)
-- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_29)
-- [[RFC] Improving IR fast-math semantics](https://discourse.llvm.org/t/rfc-improving-ir-fast-math-semantics/78736?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
