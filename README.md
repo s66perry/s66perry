@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] Annotating LLVM Public Interface](https://discourse.llvm.org/t/psa-annotating-llvm-public-interface/85307#post_14)
+- [[RFC] Breaking basic_format_string&#39;s ABI for performance improvements](https://discourse.llvm.org/t/rfc-breaking-basic-format-strings-abi-for-performance-improvements/85431#post_6)
+- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360?page=2#post_35)
+- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_18)
 - [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_17)
-- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_16)
-- [A poison/select oddity and question](https://discourse.llvm.org/t/a-poison-select-oddity-and-question/85519#post_4)
-- [A poison/select oddity and question](https://discourse.llvm.org/t/a-poison-select-oddity-and-question/85519#post_3)
-- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299#post_15)
 <!-- DISCOURSE-LLVM:END -->
