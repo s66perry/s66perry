@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Operation&#39;s orderIndex overflow and mitigations](https://discourse.llvm.org/t/rfc-operations-orderindex-overflow-and-mitigations/85541#post_3)
+- [What is the appropriate suffixes_prototype for RISCV RVV instruction](https://discourse.llvm.org/t/what-is-the-appropriate-suffixes-prototype-for-riscv-rvv-instruction/85489#post_4)
 - [How to write platform-specific code in MLIR emitC](https://discourse.llvm.org/t/how-to-write-platform-specific-code-in-mlir-emitc/85549#post_1)
 - [What is the appropriate suffixes_prototype for RISCV RVV instruction](https://discourse.llvm.org/t/what-is-the-appropriate-suffixes-prototype-for-riscv-rvv-instruction/85489#post_3)
 - [[RFC] Allow arbitrary vector element types](https://discourse.llvm.org/t/rfc-allow-arbitrary-vector-element-types/85545#post_2)
-- [A poison/select oddity and question](https://discourse.llvm.org/t/a-poison-select-oddity-and-question/85519#post_5)
-- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360?page=3#post_42)
 <!-- DISCOURSE-LLVM:END -->
