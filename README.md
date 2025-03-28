@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] contiguous&lt;permutation, offset: O&gt; layout &lpar;and changing default memref layout&rpar;](https://discourse.llvm.org/t/rfc-contiguous-permutation-offset-o-layout-and-changing-default-memref-layout/85284#post_18)
+- [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554?page=2#post_23)
+- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=4#post_74)
+- [[LLVM] Introduce an ABI lowering library](https://discourse.llvm.org/t/llvm-introduce-an-abi-lowering-library/84554?page=2#post_22)
 - [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495#post_19)
-- [Makefile for Source-Code Instrumentation](https://discourse.llvm.org/t/makefile-for-source-code-instrumentation/85374#post_8)
-- [Which binary should I download?](https://discourse.llvm.org/t/which-binary-should-i-download/85504#post_3)
-- [BOLT for libart.so on Android doesn&#39;t show obvious performance improvement](https://discourse.llvm.org/t/bolt-for-libart-so-on-android-doesnt-show-obvious-performance-improvement/85437#post_12)
-- [Makefile for Source-Code Instrumentation](https://discourse.llvm.org/t/makefile-for-source-code-instrumentation/85374#post_7)
 <!-- DISCOURSE-LLVM:END -->
