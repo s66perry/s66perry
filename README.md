@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding Partial Instruction to Wasm Backend](https://discourse.llvm.org/t/adding-partial-instruction-to-wasm-backend/85468#post_4)
+- [C++ STL Qualification for ISO 26262 and IEC 61508](https://discourse.llvm.org/t/c-stl-qualification-for-iso-26262-and-iec-61508/85568#post_1)
+- [Adding Partial Instruction to Wasm Backend](https://discourse.llvm.org/t/adding-partial-instruction-to-wasm-backend/85468#post_3)
 - [Clang wrapper with i18n support](https://discourse.llvm.org/t/clang-wrapper-with-i18n-support/85566#post_1)
 - [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495?page=2#post_23)
-- [Is it possible to move entry block forward?](https://discourse.llvm.org/t/is-it-possible-to-move-entry-block-forward/82638#post_3)
-- [Can a normal compiler include a MachineFunctionPass?](https://discourse.llvm.org/t/can-a-normal-compiler-include-a-machinefunctionpass/63911#post_5)
-- [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
