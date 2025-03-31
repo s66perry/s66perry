@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509#post_16)
+- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509#post_15)
 - [Shrink Wrap Save/Restore Points Splitting](https://discourse.llvm.org/t/shrink-wrap-save-restore-points-splitting/83581#post_15)
 - [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509#post_14)
 - [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509#post_13)
-- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509#post_12)
-- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509#post_11)
 <!-- DISCOURSE-LLVM:END -->
