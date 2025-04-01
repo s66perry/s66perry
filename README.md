@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Inconsistent Printer and Parser Behavior for Nested Attributes in MLIR TableGen](https://discourse.llvm.org/t/inconsistent-printer-and-parser-behavior-for-nested-attributes-in-mlir-tablegen/85585#post_3)
-- [2025 AsiaLLVM - Registration now open!](https://discourse.llvm.org/t/2025-asiallvm-registration-now-open/85595#post_1)
-- [Improve the gathering of the elements so that unwanted EXT operations can be avoided](https://discourse.llvm.org/t/improve-the-gathering-of-the-elements-so-that-unwanted-ext-operations-can-be-avoided/85443#post_6)
-- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=4#post_76)
-- [Can transform dialect be applied on linalg with memref?](https://discourse.llvm.org/t/can-transform-dialect-be-applied-on-linalg-with-memref/85593#post_1)
+- [Can transform dialect be applied on linalg with memref?](https://discourse.llvm.org/t/can-transform-dialect-be-applied-on-linalg-with-memref/85593#post_5)
+- [Can transform dialect be applied on linalg with memref?](https://discourse.llvm.org/t/can-transform-dialect-be-applied-on-linalg-with-memref/85593#post_4)
+- [Can transform dialect be applied on linalg with memref?](https://discourse.llvm.org/t/can-transform-dialect-be-applied-on-linalg-with-memref/85593#post_3)
+- [Can transform dialect be applied on linalg with memref?](https://discourse.llvm.org/t/can-transform-dialect-be-applied-on-linalg-with-memref/85593#post_2)
+- [Interfacing with xDSL etc. - tablegen, IRDL, Python?](https://discourse.llvm.org/t/interfacing-with-xdsl-etc-tablegen-irdl-python/85597#post_1)
 <!-- DISCOURSE-LLVM:END -->
