@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [The right place for &quot;padding&quot; in a ML compiler for a domain specific architecture](https://discourse.llvm.org/t/the-right-place-for-padding-in-a-ml-compiler-for-a-domain-specific-architecture/85652#post_1)
+- [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_5)
+- [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_4)
 - [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_3)
 - [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_2)
-- [RFC: Emulated PAC](https://discourse.llvm.org/t/rfc-emulated-pac/85557#post_2)
-- [RFC: Deactivation symbols](https://discourse.llvm.org/t/rfc-deactivation-symbols/85556#post_2)
-- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
