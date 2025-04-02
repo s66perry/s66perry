@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509?page=2#post_22)
+- [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_3)
+- [[RFC] Changing base types for tensors and memrefs from C++ base classes to &lpar;type&rpar; interfaces](https://discourse.llvm.org/t/rfc-changing-base-types-for-tensors-and-memrefs-from-c-base-classes-to-type-interfaces/85509?page=2#post_21)
 - [[RFC] review notes bot](https://discourse.llvm.org/t/rfc-review-notes-bot/85558#post_5)
 - [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_2)
-- [Verification doesn&#39;t type check attribute](https://discourse.llvm.org/t/verification-doesnt-type-check-attribute/85643#post_3)
-- [Verification doesn&#39;t type check attribute](https://discourse.llvm.org/t/verification-doesnt-type-check-attribute/85643#post_2)
-- [New Language Support for LLDB - Improving Extensibility](https://discourse.llvm.org/t/new-language-support-for-lldb-improving-extensibility/85614#post_4)
 <!-- DISCOURSE-LLVM:END -->
