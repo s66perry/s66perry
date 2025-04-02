@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How Does MachineScheduler Compute RegPressure in advance and recede?](https://discourse.llvm.org/t/how-does-machinescheduler-compute-regpressure-in-advance-and-recede/85604#post_5)
+- [New Language Support for LLDB - Improving Extensibility](https://discourse.llvm.org/t/new-language-support-for-lldb-improving-extensibility/85614#post_7)
+- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_16)
+- [New Language Support for LLDB - Improving Extensibility](https://discourse.llvm.org/t/new-language-support-for-lldb-improving-extensibility/85614#post_6)
 - [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_5)
-- [New Language Support for LLDB - Improving Extensibility](https://discourse.llvm.org/t/new-language-support-for-lldb-improving-extensibility/85614#post_5)
-- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_4)
-- [RFC: Emulated PAC](https://discourse.llvm.org/t/rfc-emulated-pac/85557#post_3)
-- [RFC: Deactivation symbols](https://discourse.llvm.org/t/rfc-deactivation-symbols/85556#post_3)
 <!-- DISCOURSE-LLVM:END -->
