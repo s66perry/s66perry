@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Transform .mlir files but preserve indentation](https://discourse.llvm.org/t/transform-mlir-files-but-preserve-indentation/85657#post_1)
+- [Interfacing with xDSL etc. - tablegen, IRDL, Python?](https://discourse.llvm.org/t/interfacing-with-xdsl-etc-tablegen-irdl-python/85597#post_4)
+- [Get wrong result when building undefined type conversion source code](https://discourse.llvm.org/t/get-wrong-result-when-building-undefined-type-conversion-source-code/85656#post_5)
 - [Get wrong result when building undefined type conversion source code](https://discourse.llvm.org/t/get-wrong-result-when-building-undefined-type-conversion-source-code/85656#post_4)
 - [Get wrong result when building undefined type conversion source code](https://discourse.llvm.org/t/get-wrong-result-when-building-undefined-type-conversion-source-code/85656#post_3)
-- [Get wrong result when building undefined type conversion source code](https://discourse.llvm.org/t/get-wrong-result-when-building-undefined-type-conversion-source-code/85656#post_2)
-- [Get wrong result when building undefined type conversion source code](https://discourse.llvm.org/t/get-wrong-result-when-building-undefined-type-conversion-source-code/85656#post_1)
-- [How Does MachineScheduler Compute RegPressure in advance and recede?](https://discourse.llvm.org/t/how-does-machinescheduler-compute-regpressure-in-advance-and-recede/85604#post_7)
 <!-- DISCOURSE-LLVM:END -->
