@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [After one shot bufferization, redundant memref allocation and memref.copy is introduced.Is there any pass which can eliminate this?](https://discourse.llvm.org/t/after-one-shot-bufferization-redundant-memref-allocation-and-memref-copy-is-introduced-is-there-any-pass-which-can-eliminate-this/85661#post_2)
+- [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_10)
+- [[RFC] Allow pointers as element type of `vector`](https://discourse.llvm.org/t/rfc-allow-pointers-as-element-type-of-vector/85360?page=3#post_44)
 - [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_9)
 - [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_8)
-- [[libc][GSoC 2025] Bfloat16 in LLVM libc](https://discourse.llvm.org/t/libc-gsoc-2025-bfloat16-in-llvm-libc/84469#post_15)
-- [After one shot bufferization, redundant memref allocation and memref.copy is introduced.Is there any pass which can eliminate this?](https://discourse.llvm.org/t/after-one-shot-bufferization-redundant-memref-allocation-and-memref-copy-is-introduced-is-there-any-pass-which-can-eliminate-this/85661#post_1)
-- [Taking ownership of /clang/test/Analysis](https://discourse.llvm.org/t/taking-ownership-of-clang-test-analysis/84689#post_10)
 <!-- DISCOURSE-LLVM:END -->
