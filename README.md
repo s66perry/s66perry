@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Test Suite - Clarify Included Test Suites Policy](https://discourse.llvm.org/t/test-suite-clarify-included-test-suites-policy/84859#post_5)
+- [Help: Turn off select optimization](https://discourse.llvm.org/t/help-turn-off-select-optimization/85672#post_7)
+- [GSoC 2025: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2025-projects-proposals-and-other-information/85035#post_11)
+- [[MLIR] Facing Problem in Replacing a FuncOp or with another FuncOp](https://discourse.llvm.org/t/mlir-facing-problem-in-replacing-a-funcop-or-with-another-funcop/85683#post_2)
 - [[MLIR] Facing Problem in Replacing a FuncOp or with another FuncOp](https://discourse.llvm.org/t/mlir-facing-problem-in-replacing-a-funcop-or-with-another-funcop/85683#post_1)
-- [RFC: move llvm-toolchain-integration-test-suite under the llvm umbrella](https://discourse.llvm.org/t/rfc-move-llvm-toolchain-integration-test-suite-under-the-llvm-umbrella/85063#post_9)
-- [[rfc][question] StepThrough plan support for jitted code](https://discourse.llvm.org/t/rfc-question-stepthrough-plan-support-for-jitted-code/85667#post_3)
-- [RFC: LLDB Statusline](https://discourse.llvm.org/t/rfc-lldb-statusline/83948#post_17)
-- [RFC: move llvm-toolchain-integration-test-suite under the llvm umbrella](https://discourse.llvm.org/t/rfc-move-llvm-toolchain-integration-test-suite-under-the-llvm-umbrella/85063#post_8)
 <!-- DISCOURSE-LLVM:END -->
