@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Test Suite - Clarify Included Test Suites Policy](https://discourse.llvm.org/t/test-suite-clarify-included-test-suites-policy/84859#post_6)
 - [New Language Support for LLDB - Improving Extensibility](https://discourse.llvm.org/t/new-language-support-for-lldb-improving-extensibility/85614#post_9)
 - [2025 EuroLLVM Developers&#39; Meeting Final Call for Registration](https://discourse.llvm.org/t/2025-eurollvm-developers-meeting-final-call-for-registration/85685#post_1)
 - [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487#post_20)
 - [Test Suite - Clarify Included Test Suites Policy](https://discourse.llvm.org/t/test-suite-clarify-included-test-suites-policy/84859#post_5)
-- [Help: Turn off select optimization](https://discourse.llvm.org/t/help-turn-off-select-optimization/85672#post_7)
 <!-- DISCOURSE-LLVM:END -->
