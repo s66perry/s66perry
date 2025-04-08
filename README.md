@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Simplify x86 intrinsic generation](https://discourse.llvm.org/t/rfc-simplify-x86-intrinsic-generation/85581#post_5)
+- [[AArch64] Confusion About Feature Dependencies in AArch64Features.td for v8.0-A](https://discourse.llvm.org/t/aarch64-confusion-about-feature-dependencies-in-aarch64features-td-for-v8-0-a/85747#post_3)
+- [GSoC 2025 proposal - Static Analyzer](https://discourse.llvm.org/t/gsoc-2025-proposal-static-analyzer/85749#post_4)
 - [GSoC 2025 proposal - Static Analyzer](https://discourse.llvm.org/t/gsoc-2025-proposal-static-analyzer/85749#post_3)
 - [GSoC 2025 proposal - Static Analyzer](https://discourse.llvm.org/t/gsoc-2025-proposal-static-analyzer/85749#post_2)
-- [GSoC 2025 proposal - Static Analyzer](https://discourse.llvm.org/t/gsoc-2025-proposal-static-analyzer/85749#post_1)
-- [[AArch64] Confusion About Feature Dependencies in AArch64Features.td for v8.0-A](https://discourse.llvm.org/t/aarch64-confusion-about-feature-dependencies-in-aarch64features-td-for-v8-0-a/85747#post_2)
-- [[AArch64] Confusion About Feature Dependencies in AArch64Features.td for v8.0-A](https://discourse.llvm.org/t/aarch64-confusion-about-feature-dependencies-in-aarch64features-td-for-v8-0-a/85747#post_1)
 <!-- DISCOURSE-LLVM:END -->
