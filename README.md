@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Why is merge not invoked in DataflowAnalysis plugin?](https://discourse.llvm.org/t/why-is-merge-not-invoked-in-dataflowanalysis-plugin/85732#post_1)
+- [LLVM source based coverage sometimes generates counter for comments?](https://discourse.llvm.org/t/llvm-source-based-coverage-sometimes-generates-counter-for-comments/85730#post_1)
+- [[RFC] UEFI platform in LLVM libc](https://discourse.llvm.org/t/rfc-uefi-platform-in-llvm-libc/85729#post_1)
 - [Add RISC-V CSRs to core dumps](https://discourse.llvm.org/t/add-risc-v-csrs-to-core-dumps/84348#post_10)
 - [Add RISC-V CSRs to core dumps](https://discourse.llvm.org/t/add-risc-v-csrs-to-core-dumps/84348#post_9)
-- [RFC: &lpar;Forward&rpar; referencing a struct member within bounds annotations](https://discourse.llvm.org/t/rfc-forward-referencing-a-struct-member-within-bounds-annotations/85510#post_3)
-- [LLVM Weekly - #588, April 7th 2025](https://discourse.llvm.org/t/llvm-weekly-588-april-7th-2025/85725#post_2)
-- [LLVM Weekly - #588, April 7th 2025](https://discourse.llvm.org/t/llvm-weekly-588-april-7th-2025/85725#post_1)
 <!-- DISCOURSE-LLVM:END -->
