@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_6)
+- [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_5)
+- [[AArch64] Confusion About Feature Dependencies in AArch64Features.td for v8.0-A](https://discourse.llvm.org/t/aarch64-confusion-about-feature-dependencies-in-aarch64features-td-for-v8-0-a/85747#post_5)
+- [Why is merge not invoked in DataflowAnalysis plugin?](https://discourse.llvm.org/t/why-is-merge-not-invoked-in-dataflowanalysis-plugin/85732#post_3)
 - [Is anyone else seeing an error in spec2k6 445.gobmk using just scalar?](https://discourse.llvm.org/t/is-anyone-else-seeing-an-error-in-spec2k6-445-gobmk-using-just-scalar/85752#post_3)
-- [Extracting fully qualified types](https://discourse.llvm.org/t/extracting-fully-qualified-types/85679#post_3)
-- [Improving linalg.matmul lowering with --linalg-block-pack-matmul pass](https://discourse.llvm.org/t/improving-linalg-matmul-lowering-with-linalg-block-pack-matmul-pass/85755#post_1)
-- [Is anyone else seeing an error in spec2k6 445.gobmk using just scalar?](https://discourse.llvm.org/t/is-anyone-else-seeing-an-error-in-spec2k6-445-gobmk-using-just-scalar/85752#post_2)
-- [[rfc][question] StepThrough plan support for jitted code](https://discourse.llvm.org/t/rfc-question-stepthrough-plan-support-for-jitted-code/85667#post_4)
 <!-- DISCOURSE-LLVM:END -->
