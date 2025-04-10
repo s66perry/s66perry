@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Upstreaming LLDB RPC](https://discourse.llvm.org/t/rfc-upstreaming-lldb-rpc/85804#post_4)
-- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=4#post_65)
-- [Questions about best approach for upstreaming CUDA i128 support](https://discourse.llvm.org/t/questions-about-best-approach-for-upstreaming-cuda-i128-support/85807#post_1)
-- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=4#post_64)
-- [SDAG Node morphed incorrectly during Instruction Selection](https://discourse.llvm.org/t/sdag-node-morphed-incorrectly-during-instruction-selection/85799#post_4)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=2#post_38)
+- [[GSoC 2025] Input-Gen: A Scalable Framework for Stateful Input Generation](https://discourse.llvm.org/t/gsoc-2025-input-gen-a-scalable-framework-for-stateful-input-generation/85802#post_5)
+- [Confusion for Arm Neoverse V2 CPU scheduling model](https://discourse.llvm.org/t/confusion-for-arm-neoverse-v2-cpu-scheduling-model/85796#post_6)
+- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189?page=2#post_34)
+- [Questions about best approach for upstreaming CUDA i128 support](https://discourse.llvm.org/t/questions-about-best-approach-for-upstreaming-cuda-i128-support/85807#post_2)
 <!-- DISCOURSE-LLVM:END -->
