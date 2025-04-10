@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Confusion for Arm Neoverse V2 CPU scheduling model](https://discourse.llvm.org/t/confusion-for-arm-neoverse-v2-cpu-scheduling-model/85796#post_1)
+- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785#post_2)
+- [Dynamic array expression problem](https://discourse.llvm.org/t/dynamic-array-expression-problem/85789#post_3)
+- [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773#post_17)
 - [Improving linalg.matmul lowering with --linalg-block-pack-matmul pass](https://discourse.llvm.org/t/improving-linalg-matmul-lowering-with-linalg-block-pack-matmul-pass/85755#post_5)
-- [Why does clang-20 not support pack indexing in C++26 mode?](https://discourse.llvm.org/t/why-does-clang-20-not-support-pack-indexing-in-c-26-mode/85793#post_2)
-- [Vectorizing min/max reduction pattern](https://discourse.llvm.org/t/vectorizing-min-max-reduction-pattern/85766#post_2)
-- [Dynamic array expression problem](https://discourse.llvm.org/t/dynamic-array-expression-problem/85789#post_2)
-- [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773#post_16)
 <!-- DISCOURSE-LLVM:END -->
