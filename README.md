@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Confusion for Arm Neoverse V2 CPU scheduling model](https://discourse.llvm.org/t/confusion-for-arm-neoverse-v2-cpu-scheduling-model/85796#post_7)
+- [Paris MLIR winter school &amp; ML compilation infrastructure workshop](https://discourse.llvm.org/t/paris-mlir-winter-school-ml-compilation-infrastructure-workshop/83432#post_4)
 - [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773?page=2#post_27)
 - [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773?page=2#post_26)
 - [How is the size of the shamt checked for SLL?](https://discourse.llvm.org/t/how-is-the-size-of-the-shamt-checked-for-sll/85814#post_1)
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189?page=2#post_36)
-- [Finding Rewrite patterns](https://discourse.llvm.org/t/finding-rewrite-patterns/85810#post_4)
 <!-- DISCOURSE-LLVM:END -->
