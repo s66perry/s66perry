@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR types with encoding](https://discourse.llvm.org/t/rfc-mlir-types-with-encoding/80189?page=2#post_37)
-- [[RFC] UEFI platform in LLVM libc](https://discourse.llvm.org/t/rfc-uefi-platform-in-llvm-libc/85729#post_2)
-- [Can Clang Plugin generate AST node?](https://discourse.llvm.org/t/can-clang-plugin-generate-ast-node/85812#post_3)
-- [[RFC] Upstreaming LLDB RPC](https://discourse.llvm.org/t/rfc-upstreaming-lldb-rpc/85804#post_7)
-- [Naming &quot;x86-64&quot; To &quot;x86_64&quot;?](https://discourse.llvm.org/t/naming-x86-64-to-x86-64/85818#post_1)
+- [[RFC] UEFI platform in LLVM libc](https://discourse.llvm.org/t/rfc-uefi-platform-in-llvm-libc/85729#post_3)
+- [Cambridge UK LLVM &lpar;pub&rpar; Social - April 25](https://discourse.llvm.org/t/cambridge-uk-llvm-pub-social-april-25/85819#post_2)
+- [How is the size of the shamt checked for SLL?](https://discourse.llvm.org/t/how-is-the-size-of-the-shamt-checked-for-sll/85814#post_3)
+- [Cambridge UK LLVM &lpar;pub&rpar; Social - April 25](https://discourse.llvm.org/t/cambridge-uk-llvm-pub-social-april-25/85819#post_1)
+- [How is the size of the shamt checked for SLL?](https://discourse.llvm.org/t/how-is-the-size-of-the-shamt-checked-for-sll/85814#post_2)
 <!-- DISCOURSE-LLVM:END -->
