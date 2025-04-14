@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [TIme slots for Open MLIR Meetings](https://discourse.llvm.org/t/time-slots-for-open-mlir-meetings/85764#post_2)
 - [[RFC] Make `-Wreturn-type` an error *by default*](https://discourse.llvm.org/t/rfc-make-wreturn-type-an-error-by-default/85775#post_8)
 - [[RFC] Make `-Wreturn-type` an error *by default*](https://discourse.llvm.org/t/rfc-make-wreturn-type-an-error-by-default/85775#post_7)
 - [[RFC] Make `-Wreturn-type` an error *by default*](https://discourse.llvm.org/t/rfc-make-wreturn-type-an-error-by-default/85775#post_6)
 - [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825#post_6)
-- [[RFC] UEFI platform in LLVM libc](https://discourse.llvm.org/t/rfc-uefi-platform-in-llvm-libc/85729#post_10)
 <!-- DISCOURSE-LLVM:END -->
