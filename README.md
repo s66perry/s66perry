@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785#post_19)
+- [[RFC] Pass traits support](https://discourse.llvm.org/t/rfc-pass-traits-support/85842#post_1)
 - [Libcxx with Itanium ABI in windows gives link error for exception and std::cout](https://discourse.llvm.org/t/libcxx-with-itanium-abi-in-windows-gives-link-error-for-exception-and-std-cout/85841#post_1)
 - [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785#post_18)
 - [Preferred casting style going forward](https://discourse.llvm.org/t/preferred-casting-style-going-forward/68443#post_15)
-- [Question about GPU Dialect Async Tokens in MLIR](https://discourse.llvm.org/t/question-about-gpu-dialect-async-tokens-in-mlir/85827#post_2)
-- [Announcing the 6th MLIR Workshop @ EuroLLVM 2025 Program](https://discourse.llvm.org/t/announcing-the-6th-mlir-workshop-eurollvm-2025-program/85142#post_2)
 <!-- DISCOURSE-LLVM:END -->
