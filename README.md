@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825#post_2)
 - [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_11)
 - [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_10)
 - [[RFC] Make `-Wreturn-type` an error *by default*](https://discourse.llvm.org/t/rfc-make-wreturn-type-an-error-by-default/85775#post_5)
 - [[RFC] YAMLGenerateSchema support for producing YAML schemas](https://discourse.llvm.org/t/rfc-yamlgenerateschema-support-for-producing-yaml-schemas/85846#post_2)
-- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_9)
 <!-- DISCOURSE-LLVM:END -->
