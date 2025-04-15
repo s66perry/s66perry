@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Should `__attribute__&lpar;&lpar;format&rpar;&rpar;` checking try to const-evaluate strings?](https://discourse.llvm.org/t/should-attribute-format-checking-try-to-const-evaluate-strings/85854#post_2)
-- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=2#post_31)
-- [Generating RISCV code from MLIR](https://discourse.llvm.org/t/generating-riscv-code-from-mlir/85863#post_7)
-- [[RFC] &quot;asm goto&quot; vs branch target enforcement](https://discourse.llvm.org/t/rfc-asm-goto-vs-branch-target-enforcement/85845#post_6)
-- [GitHub CI notifications and main branch](https://discourse.llvm.org/t/github-ci-notifications-and-main-branch/85868#post_1)
+- [[RFC] Introducing elementwise clz/ctz builtins](https://discourse.llvm.org/t/rfc-introducing-elementwise-clz-ctz-builtins/85862#post_2)
+- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=2#post_32)
+- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825#post_8)
+- [How to register a custom analysis for custom passes in the new pass manager?](https://discourse.llvm.org/t/how-to-register-a-custom-analysis-for-custom-passes-in-the-new-pass-manager/85870#post_1)
+- [Should `__attribute__&lpar;&lpar;format&rpar;&rpar;` checking try to const-evaluate strings?](https://discourse.llvm.org/t/should-attribute-format-checking-try-to-const-evaluate-strings/85854#post_4)
 <!-- DISCOURSE-LLVM:END -->
