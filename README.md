@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Thread Safety of the Static Analyzer itself](https://discourse.llvm.org/t/thread-safety-of-the-static-analyzer-itself/85882#post_1)
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875#post_6)
+- [Override specific paramter of attribute](https://discourse.llvm.org/t/override-specific-paramter-of-attribute/85872#post_5)
 - [[RFC] Make `-Wreturn-type` an error *by default*](https://discourse.llvm.org/t/rfc-make-wreturn-type-an-error-by-default/85775#post_12)
 - [Constant propagation for target specific intrinsics](https://discourse.llvm.org/t/constant-propagation-for-target-specific-intrinsics/85881#post_1)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=2#post_39)
-- [[RFC] Make `-Wreturn-type` an error *by default*](https://discourse.llvm.org/t/rfc-make-wreturn-type-an-error-by-default/85775#post_11)
-- [[RFC] Make `-Wreturn-type` an error *by default*](https://discourse.llvm.org/t/rfc-make-wreturn-type-an-error-by-default/85775#post_10)
 <!-- DISCOURSE-LLVM:END -->
