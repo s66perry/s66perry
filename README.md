@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 20.1.3 Released!](https://discourse.llvm.org/t/llvm-20-1-3-released/85874#post_1)
-- [[BOLT] Can &quot;. bolt. org.*&quot; sections be removed after bolt?](https://discourse.llvm.org/t/bolt-can-bolt-org-sections-be-removed-after-bolt/85873#post_1)
-- [[RFC] TOSA Dialect Increment to v1.0](https://discourse.llvm.org/t/rfc-tosa-dialect-increment-to-v1-0/83708#post_13)
-- [Override specific paramter of attribute](https://discourse.llvm.org/t/override-specific-paramter-of-attribute/85872#post_1)
-- [Should `__attribute__&lpar;&lpar;format&rpar;&rpar;` checking try to const-evaluate strings?](https://discourse.llvm.org/t/should-attribute-format-checking-try-to-const-evaluate-strings/85854#post_6)
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875#post_4)
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875#post_3)
+- [[BOLT] Can &quot;. bolt. org.*&quot; sections be removed after bolt?](https://discourse.llvm.org/t/bolt-can-bolt-org-sections-be-removed-after-bolt/85873#post_3)
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875#post_2)
+- [[RFC] Introducing elementwise clz/ctz builtins](https://discourse.llvm.org/t/rfc-introducing-elementwise-clz-ctz-builtins/85862#post_3)
 <!-- DISCOURSE-LLVM:END -->
