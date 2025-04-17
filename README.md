@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [BOLT for libart.so on Android doesn&#39;t show obvious performance improvement](https://discourse.llvm.org/t/bolt-for-libart-so-on-android-doesnt-show-obvious-performance-improvement/85437#post_13)
-- [Generating RISCV code from MLIR](https://discourse.llvm.org/t/generating-riscv-code-from-mlir/85863#post_10)
-- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875#post_10)
-- [Constant propagation for target specific intrinsics](https://discourse.llvm.org/t/constant-propagation-for-target-specific-intrinsics/85881#post_6)
-- [Constant propagation for target specific intrinsics](https://discourse.llvm.org/t/constant-propagation-for-target-specific-intrinsics/85881#post_5)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885#post_10)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885#post_9)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885#post_8)
+- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908#post_6)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885#post_7)
 <!-- DISCOURSE-LLVM:END -->
