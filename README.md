@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908#post_1)
+- [Can BOLT be used to optimize shared libraries?](https://discourse.llvm.org/t/can-bolt-be-used-to-optimize-shared-libraries/85389#post_4)
+- [Clang crash](https://discourse.llvm.org/t/clang-crash/85906#post_1)
 - [Llvm crash](https://discourse.llvm.org/t/llvm-crash/85905#post_1)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885#post_6)
-- [How to register a custom analysis for custom passes in the new pass manager?](https://discourse.llvm.org/t/how-to-register-a-custom-analysis-for-custom-passes-in-the-new-pass-manager/85870#post_2)
-- [Constant propagation for target specific intrinsics](https://discourse.llvm.org/t/constant-propagation-for-target-specific-intrinsics/85881#post_2)
-- [Questions about `AAUnderlyingObjects` attibute](https://discourse.llvm.org/t/questions-about-aaunderlyingobjects-attibute/85899#post_1)
 <!-- DISCOURSE-LLVM:END -->
