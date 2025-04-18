@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] convergence in C++ languages such as HIP, CUDA, OpenCL](https://discourse.llvm.org/t/rfc-convergence-in-c-languages-such-as-hip-cuda-opencl/85920#post_1)
+- [Can BOLT be used to optimize shared libraries?](https://discourse.llvm.org/t/can-bolt-be-used-to-optimize-shared-libraries/85389#post_5)
+- [BOLT for libart.so on Android doesn&#39;t show obvious performance improvement](https://discourse.llvm.org/t/bolt-for-libart-so-on-android-doesnt-show-obvious-performance-improvement/85437#post_14)
 - [LLVM_ENABLE_THREADS has been turned off](https://discourse.llvm.org/t/llvm-enable-threads-has-been-turned-off/85916#post_1)
 - [LLDB hangs when killing process at the same time a breakpoint is hit](https://discourse.llvm.org/t/lldb-hangs-when-killing-process-at-the-same-time-a-breakpoint-is-hit/85913#post_2)
-- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875#post_12)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Mar 31 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-mar-31-25-6pm/85212#post_2)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 28 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-28-25-6pm/85914#post_1)
 <!-- DISCOURSE-LLVM:END -->
