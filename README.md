@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Non-recursive tuples impeded by `-Wmissing-braces`](https://discourse.llvm.org/t/non-recursive-tuples-impeded-by-wmissing-braces/85967#post_1)
 - [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_8)
 - [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_7)
 - [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_6)
 - [# [RFC] Distributed ThinLTO Build for Kernel](https://discourse.llvm.org/t/rfc-distributed-thinlto-build-for-kernel/85934#post_4)
-- [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_5)
 <!-- DISCOURSE-LLVM:END -->
