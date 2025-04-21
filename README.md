@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How do I get the future index of a symbol in the AsmPrinter stage?](https://discourse.llvm.org/t/how-do-i-get-the-future-index-of-a-symbol-in-the-asmprinter-stage/85954#post_1)
 - [Compiler extensions for fast delegates](https://discourse.llvm.org/t/compiler-extensions-for-fast-delegates/42227#post_2)
 - [Conditional memory address breakpoints](https://discourse.llvm.org/t/conditional-memory-address-breakpoints/85947#post_4)
 - [Conditional memory address breakpoints](https://discourse.llvm.org/t/conditional-memory-address-breakpoints/85947#post_3)
 - [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945#post_6)
-- [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945#post_5)
 <!-- DISCOURSE-LLVM:END -->
