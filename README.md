@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_25)
+- [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468#post_18)
 - [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_24)
 - [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945#post_7)
 - [Thread step-inst-over cannot step over with gdbserver](https://discourse.llvm.org/t/thread-step-inst-over-cannot-step-over-with-gdbserver/85955#post_3)
-- [Thread step-inst-over cannot step over with gdbserver](https://discourse.llvm.org/t/thread-step-inst-over-cannot-step-over-with-gdbserver/85955#post_2)
-- [LLVM Meetup in Munich – April 29th 2025](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-29th-2025/85780#post_2)
 <!-- DISCOURSE-LLVM:END -->
