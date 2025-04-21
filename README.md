@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_24)
+- [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945#post_7)
+- [Thread step-inst-over cannot step over with gdbserver](https://discourse.llvm.org/t/thread-step-inst-over-cannot-step-over-with-gdbserver/85955#post_3)
 - [Thread step-inst-over cannot step over with gdbserver](https://discourse.llvm.org/t/thread-step-inst-over-cannot-step-over-with-gdbserver/85955#post_2)
 - [LLVM Meetup in Munich – April 29th 2025](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-29th-2025/85780#post_2)
-- [Thread step-inst-over cannot step over with gdbserver](https://discourse.llvm.org/t/thread-step-inst-over-cannot-step-over-with-gdbserver/85955#post_1)
-- [How do I get the future index of a symbol in the AsmPrinter stage?](https://discourse.llvm.org/t/how-do-i-get-the-future-index-of-a-symbol-in-the-asmprinter-stage/85954#post_1)
-- [Compiler extensions for fast delegates](https://discourse.llvm.org/t/compiler-extensions-for-fast-delegates/42227#post_2)
 <!-- DISCOURSE-LLVM:END -->
