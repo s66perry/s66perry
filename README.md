@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=2#post_35)
-- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961#post_11)
-- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825#post_11)
-- [[RFC] Dynamic sizes and field offsets in DWARF](https://discourse.llvm.org/t/rfc-dynamic-sizes-and-field-offsets-in-dwarf/85992#post_2)
-- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961#post_10)
+- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961#post_13)
+- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961#post_12)
+- [MLIR Area Team Meeting / Office Hours](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours/85984#post_4)
+- [How to get profile information](https://discourse.llvm.org/t/how-to-get-profile-information/85993#post_1)
+- [[RFC] Propagate FIR Alias Analysis Information using TBAA](https://discourse.llvm.org/t/rfc-propagate-fir-alias-analysis-information-using-tbaa/73755#post_8)
 <!-- DISCOURSE-LLVM:END -->
