@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961#post_7)
+- [MLIR Area Team Meeting / Office Hours](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours/85984#post_3)
+- [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_3)
+- [Vector Dialect Roundtable – EuroLLVM 2025 Summary](https://discourse.llvm.org/t/vector-dialect-roundtable-eurollvm-2025-summary/85978#post_3)
 - [MLIR Area Team Meeting / Office Hours](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours/85984#post_2)
-- [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_2)
-- [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_1)
-- [MLIR Area Team Meeting / Office Hours](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours/85984#post_1)
-- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
