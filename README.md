@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961#post_7)
-- [MLIR Area Team Meeting / Office Hours](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours/85984#post_3)
-- [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_3)
-- [Vector Dialect Roundtable – EuroLLVM 2025 Summary](https://discourse.llvm.org/t/vector-dialect-roundtable-eurollvm-2025-summary/85978#post_3)
-- [MLIR Area Team Meeting / Office Hours](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours/85984#post_2)
+- [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_15)
+- [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_14)
+- [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_13)
+- [LLVM Meetup in Munich – April 29th 2025](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-29th-2025/85780#post_3)
+- [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_12)
 <!-- DISCOURSE-LLVM:END -->
