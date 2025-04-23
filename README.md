@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Implicit conversion between RVV types and vector_size types with -mrvv-vector-bits=scalable](https://discourse.llvm.org/t/implicit-conversion-between-rvv-types-and-vector-size-types-with-mrvv-vector-bits-scalable/86005#post_2)
+- [[RFC] Continuing with bufferization::{TensorLike, BufferLike} - op semantics update in bufferization](https://discourse.llvm.org/t/rfc-continuing-with-bufferization-tensorlike-bufferlike-op-semantics-update-in-bufferization/85983#post_4)
+- [Implicit conversion between RVV types and vector_size types with -mrvv-vector-bits=scalable](https://discourse.llvm.org/t/implicit-conversion-between-rvv-types-and-vector-size-types-with-mrvv-vector-bits-scalable/86005#post_1)
 - [[RFC] Continuing with bufferization::{TensorLike, BufferLike} - op semantics update in bufferization](https://discourse.llvm.org/t/rfc-continuing-with-bufferization-tensorlike-bufferlike-op-semantics-update-in-bufferization/85983#post_3)
 - [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=3#post_47)
-- [[RFC] Continuing with bufferization::{TensorLike, BufferLike} - op semantics update in bufferization](https://discourse.llvm.org/t/rfc-continuing-with-bufferization-tensorlike-bufferlike-op-semantics-update-in-bufferization/85983#post_2)
-- [MLIR Area Team Meeting / Office Hours](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours/85984#post_5)
-- [Clang-tidy llvm checks in pre/post commit CI](https://discourse.llvm.org/t/clang-tidy-llvm-checks-in-pre-post-commit-ci/85998#post_3)
 <!-- DISCOURSE-LLVM:END -->
