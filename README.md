@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Area Team Meeting Minutes - 2025-04-24](https://discourse.llvm.org/t/mlir-area-team-meeting-minutes-2025-04-24/86034#post_1)
-- [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_7)
-- [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_6)
-- [Redefining c_intmax_t](https://discourse.llvm.org/t/redefining-c-intmax-t/86032#post_1)
-- [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_5)
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_26)
+- [[RFC] Improving is_stmt placement for better interactive debugging](https://discourse.llvm.org/t/rfc-improving-is-stmt-placement-for-better-interactive-debugging/82668#post_18)
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_44)
+- [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_9)
+- [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_8)
 <!-- DISCOURSE-LLVM:END -->
