@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Fortran language feature documentation](https://discourse.llvm.org/t/rfc-fortran-language-feature-documentation/76332#post_4)
 - [[RFC] Improving is_stmt placement for better interactive debugging](https://discourse.llvm.org/t/rfc-improving-is-stmt-placement-for-better-interactive-debugging/82668#post_17)
 - [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_4)
 - [Defining different readadvance for same read type](https://discourse.llvm.org/t/defining-different-readadvance-for-same-read-type/86030#post_1)
 - [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945#post_20)
-- [[RFC] Continuing with bufferization::{TensorLike, BufferLike} - op semantics update in bufferization](https://discourse.llvm.org/t/rfc-continuing-with-bufferization-tensorlike-bufferlike-op-semantics-update-in-bufferization/85983#post_6)
 <!-- DISCOURSE-LLVM:END -->
