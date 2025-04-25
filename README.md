@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=2#post_39)
-- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=2#post_38)
-- [[RFC] -fdebugger-support for CXX](https://discourse.llvm.org/t/rfc-fdebugger-support-for-cxx/86046#post_3)
-- [New to bug reporting.. bit lost](https://discourse.llvm.org/t/new-to-bug-reporting-bit-lost/86052#post_2)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885#post_20)
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_43)
+- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_2)
+- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_1)
+- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_12)
+- [[RFC] -fdebugger-support for CXX](https://discourse.llvm.org/t/rfc-fdebugger-support-for-cxx/86046#post_5)
 <!-- DISCOURSE-LLVM:END -->
