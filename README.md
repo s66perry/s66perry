@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_3)
+- [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_2)
 - [Eliding dialect prefix from enums](https://discourse.llvm.org/t/eliding-dialect-prefix-from-enums/86018#post_2)
 - [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_1)
 - [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468?page=2#post_21)
-- [[Toy Sharing] [Questions] AI Assisted Diagnostic Consumer](https://discourse.llvm.org/t/toy-sharing-questions-ai-assisted-diagnostic-consumer/86041#post_1)
-- [Tosa.Mul i32 shift incorrect result](https://discourse.llvm.org/t/tosa-mul-i32-shift-incorrect-result/86040#post_1)
 <!-- DISCOURSE-LLVM:END -->
