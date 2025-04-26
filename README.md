@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Different compilation result for arm64 and arm64e architecture with following code](https://discourse.llvm.org/t/different-compilation-result-for-arm64-and-arm64e-architecture-with-following-code/86061#post_1)
 - [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=3#post_41)
 - [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_3)
 - [Bitfields: instructions with synthetic wide integer vs intrinsics](https://discourse.llvm.org/t/bitfields-instructions-with-synthetic-wide-integer-vs-intrinsics/86048#post_3)
 - [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_46)
-- [Unhappiness with the lldb unwinder - register passing up the stack, interrup/trap/sigtramp frames](https://discourse.llvm.org/t/unhappiness-with-the-lldb-unwinder-register-passing-up-the-stack-interrup-trap-sigtramp-frames/86058#post_2)
 <!-- DISCOURSE-LLVM:END -->
