@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Possible redundant check in `arith::ConstantOp::verify`?](https://discourse.llvm.org/t/possible-redundant-check-in-arith-verify/86067#post_4)
+- [Possible redundant check in `arith::ConstantOp::verify`?](https://discourse.llvm.org/t/possible-redundant-check-in-arith-verify/86067#post_3)
+- [Possible redundant check in `arith::ConstantOp::verify`?](https://discourse.llvm.org/t/possible-redundant-check-in-arith-verify/86067#post_2)
+- [Possible redundant check in `arith::ConstantOp::verify`?](https://discourse.llvm.org/t/possible-redundant-check-in-arith-verify/86067#post_1)
 - [Cross Compile LLVM Failure: &quot;implicit instantiation of undefined template&quot;, &quot;template is declared here&quot;](https://discourse.llvm.org/t/cross-compile-llvm-failure-implicit-instantiation-of-undefined-template-template-is-declared-here/85856#post_3)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_49)
-- [How do I get the future index of a symbol in the AsmPrinter stage?](https://discourse.llvm.org/t/how-do-i-get-the-future-index-of-a-symbol-in-the-asmprinter-stage/85954#post_3)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_48)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
