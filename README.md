@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961#post_20)
+- [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_12)
 - [Recursive types](https://discourse.llvm.org/t/recursive-types/82707#post_9)
 - [[RFC] Adding opaque types to LLVM IR](https://discourse.llvm.org/t/rfc-adding-opaque-types-to-llvm-ir/65326?page=2#post_32)
 - [Tosa.Mul i32 shift incorrect result](https://discourse.llvm.org/t/tosa-mul-i32-shift-incorrect-result/86040#post_2)
-- [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_5)
-- [Possible issue with `premerge-monolithic-windows`](https://discourse.llvm.org/t/possible-issue-with-premerge-monolithic-windows/86070#post_3)
 <!-- DISCOURSE-LLVM:END -->
