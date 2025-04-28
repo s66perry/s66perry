@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GitHub CI notifications and main branch](https://discourse.llvm.org/t/github-ci-notifications-and-main-branch/85868#post_8)
+- [Unhappiness with the lldb unwinder - register passing up the stack, interrup/trap/sigtramp frames](https://discourse.llvm.org/t/unhappiness-with-the-lldb-unwinder-register-passing-up-the-stack-interrup-trap-sigtramp-frames/86058#post_4)
+- [GitHub CI notifications and main branch](https://discourse.llvm.org/t/github-ci-notifications-and-main-branch/85868#post_7)
 - [GitHub CI notifications and main branch](https://discourse.llvm.org/t/github-ci-notifications-and-main-branch/85868#post_6)
 - [GitHub CI notifications and main branch](https://discourse.llvm.org/t/github-ci-notifications-and-main-branch/85868#post_5)
-- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=3#post_42)
-- [GitHub CI notifications and main branch](https://discourse.llvm.org/t/github-ci-notifications-and-main-branch/85868#post_4)
-- [LLVM Weekly - #591, April 28th 2025](https://discourse.llvm.org/t/llvm-weekly-591-april-28th-2025/86082#post_3)
 <!-- DISCOURSE-LLVM:END -->
