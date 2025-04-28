@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773?page=3#post_46)
+- [MLIR Open Meeting: Tensor Compiler WG, 2025-04-29](https://discourse.llvm.org/t/mlir-open-meeting-tensor-compiler-wg-2025-04-29/86035#post_3)
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_44)
 - [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_4)
 - [Clang Error Index: A Searchable Platform for Exploring Clang Diagnostics](https://discourse.llvm.org/t/clang-error-index-a-searchable-platform-for-exploring-clang-diagnostics/86071#post_1)
-- [How to get profile information](https://discourse.llvm.org/t/how-to-get-profile-information/85993#post_4)
-- [How to get profile information](https://discourse.llvm.org/t/how-to-get-profile-information/85993#post_3)
-- [How to get profile information](https://discourse.llvm.org/t/how-to-get-profile-information/85993#post_2)
 <!-- DISCOURSE-LLVM:END -->
