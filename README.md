@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Improving the reproducibility of linker benchmarking](https://discourse.llvm.org/t/improving-the-reproducibility-of-linker-benchmarking/86057#post_3)
-- [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773?page=3#post_46)
-- [MLIR Open Meeting: Tensor Compiler WG, 2025-04-29](https://discourse.llvm.org/t/mlir-open-meeting-tensor-compiler-wg-2025-04-29/86035#post_3)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_44)
-- [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_4)
+- [Tosa.Mul i32 shift incorrect result](https://discourse.llvm.org/t/tosa-mul-i32-shift-incorrect-result/86040#post_2)
+- [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_5)
+- [Possible issue with `premerge-monolithic-windows`](https://discourse.llvm.org/t/possible-issue-with-premerge-monolithic-windows/86070#post_3)
+- [Reassociating Expressions with Memory Operands to increase ILP for X86 Targets](https://discourse.llvm.org/t/reassociating-expressions-with-memory-operands-to-increase-ilp-for-x86-targets/86078#post_1)
+- [Unhappiness with the lldb unwinder - register passing up the stack, interrup/trap/sigtramp frames](https://discourse.llvm.org/t/unhappiness-with-the-lldb-unwinder-register-passing-up-the-stack-interrup-trap-sigtramp-frames/86058#post_3)
 <!-- DISCOURSE-LLVM:END -->
