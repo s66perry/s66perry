@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_51)
 - [[RFC] computeKnownBits recursion depth](https://discourse.llvm.org/t/rfc-computeknownbits-recursion-depth/85962#post_3)
 - [Dealing with files emitted by addResource / HGLDD in firtool](https://discourse.llvm.org/t/dealing-with-files-emitted-by-addresource-hgldd-in-firtool/86097#post_2)
 - [MLIR Open Meeting: Tensor Compiler WG, 2025-04-29](https://discourse.llvm.org/t/mlir-open-meeting-tensor-compiler-wg-2025-04-29/86035#post_7)
 - [MLIR Open Meeting: Tensor Compiler WG, 2025-04-29](https://discourse.llvm.org/t/mlir-open-meeting-tensor-compiler-wg-2025-04-29/86035#post_6)
-- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=3#post_44)
 <!-- DISCOURSE-LLVM:END -->
