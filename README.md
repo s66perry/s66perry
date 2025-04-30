@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Newbie question: What is difference between SelectionDAGISel::Select&lpar;&rpar; vs TargetLowering::LowerOperation&lpar;&rpar;?](https://discourse.llvm.org/t/newbie-question-what-is-difference-between-selectiondagisel-select-vs-targetlowering-loweroperation/86086#post_3)
+- [[PSA][Vector] Standardise operand naming](https://discourse.llvm.org/t/psa-vector-standardise-operand-naming/86114#post_2)
+- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_4)
+- [Improving the reproducibility of linker benchmarking](https://discourse.llvm.org/t/improving-the-reproducibility-of-linker-benchmarking/86057#post_6)
 - [Improving the reproducibility of linker benchmarking](https://discourse.llvm.org/t/improving-the-reproducibility-of-linker-benchmarking/86057#post_5)
-- [[RFC] Dealing with compiler line tables that emit line entries with the line number set to zero](https://discourse.llvm.org/t/rfc-dealing-with-compiler-line-tables-that-emit-line-entries-with-the-line-number-set-to-zero/86083#post_5)
-- [[RFC] Global Function Merging](https://discourse.llvm.org/t/rfc-global-function-merging/82608#post_10)
-- [[RFC] Clarify the behavior of FP operations on bit strings with nsz flag](https://discourse.llvm.org/t/rfc-clarify-the-behavior-of-fp-operations-on-bit-strings-with-nsz-flag/85981#post_5)
-- [Dialect for data locality/sharing specifiers/clauses in OpenMP, OpenACC, and `do concurrent`](https://discourse.llvm.org/t/dialect-for-data-locality-sharing-specifiers-clauses-in-openmp-openacc-and-do-concurrent/86108#post_7)
 <!-- DISCOURSE-LLVM:END -->
