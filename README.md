@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_54)
-- [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_14)
-- [Dialect for data locality/sharing specifiers/clauses in OpenMP, OpenACC, and `do concurrent`](https://discourse.llvm.org/t/dialect-for-data-locality-sharing-specifiers-clauses-in-openmp-openacc-and-do-concurrent/86108#post_1)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_53)
-- [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_13)
+- [ShapeAdapter may need check for empty attribute](https://discourse.llvm.org/t/shapeadapter-may-need-check-for-empty-attribute/86109#post_3)
+- [LLVM 20 on Linux: Issue with generating MAP files](https://discourse.llvm.org/t/llvm-20-on-linux-issue-with-generating-map-files/86110#post_1)
+- [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_15)
+- [ShapeAdapter may need check for empty attribute](https://discourse.llvm.org/t/shapeadapter-may-need-check-for-empty-attribute/86109#post_2)
+- [ShapeAdapter may need check for empty attribute](https://discourse.llvm.org/t/shapeadapter-may-need-check-for-empty-attribute/86109#post_1)
 <!-- DISCOURSE-LLVM:END -->
