@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ShapeAdapter may need check for empty attribute](https://discourse.llvm.org/t/shapeadapter-may-need-check-for-empty-attribute/86109#post_3)
-- [LLVM 20 on Linux: Issue with generating MAP files](https://discourse.llvm.org/t/llvm-20-on-linux-issue-with-generating-map-files/86110#post_1)
-- [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_15)
-- [ShapeAdapter may need check for empty attribute](https://discourse.llvm.org/t/shapeadapter-may-need-check-for-empty-attribute/86109#post_2)
-- [ShapeAdapter may need check for empty attribute](https://discourse.llvm.org/t/shapeadapter-may-need-check-for-empty-attribute/86109#post_1)
+- [[RFC] Documenting Stacked PR Practices](https://discourse.llvm.org/t/rfc-documenting-stacked-pr-practices/85471#post_5)
+- [Dialect for data locality/sharing specifiers/clauses in OpenMP, OpenACC, and `do concurrent`](https://discourse.llvm.org/t/dialect-for-data-locality-sharing-specifiers-clauses-in-openmp-openacc-and-do-concurrent/86108#post_2)
+- [[RFC] Add CallBr Intrinsic Support](https://discourse.llvm.org/t/rfc-add-callbr-intrinsic-support/86087#post_5)
+- [LLVM 20 on Linux: Issue with generating MAP files](https://discourse.llvm.org/t/llvm-20-on-linux-issue-with-generating-map-files/86110#post_2)
+- [Redefining c_intmax_t](https://discourse.llvm.org/t/redefining-c-intmax-t/86032#post_3)
 <!-- DISCOURSE-LLVM:END -->
