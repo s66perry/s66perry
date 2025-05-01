@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=3#post_56)
+- [[RFC] Documenting Stacked PR Practices](https://discourse.llvm.org/t/rfc-documenting-stacked-pr-practices/85471#post_7)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_11)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_10)
 - [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_9)
-- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_8)
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=4#post_61)
-- [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_8)
-- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_7)
 <!-- DISCOURSE-LLVM:END -->
