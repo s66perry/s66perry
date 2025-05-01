@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_55)
-- [[RFC] Running Premerge Postcommit Through Github Actions](https://discourse.llvm.org/t/rfc-running-premerge-postcommit-through-github-actions/86124#post_2)
-- [[RFC] Running Premerge Postcommit Through Github Actions](https://discourse.llvm.org/t/rfc-running-premerge-postcommit-through-github-actions/86124#post_1)
-- [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_4)
-- [[RFC] Improving is_stmt placement for better interactive debugging](https://discourse.llvm.org/t/rfc-improving-is-stmt-placement-for-better-interactive-debugging/82668#post_19)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_2)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_1)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_60)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_59)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=3#post_58)
 <!-- DISCOURSE-LLVM:END -->
