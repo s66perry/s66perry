@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_9)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_8)
+- [RFC: Document and standardize Python code style](https://discourse.llvm.org/t/rfc-document-and-standardize-python-code-style/68257?page=4#post_61)
 - [Clang array bound sanitzer](https://discourse.llvm.org/t/clang-array-bound-sanitzer/86044#post_8)
 - [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_7)
-- [[RFC] Implement gcc Bound PMF in clang](https://discourse.llvm.org/t/rfc-implement-gcc-bound-pmf-in-clang/85951#post_7)
-- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_6)
-- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_5)
 <!-- DISCOURSE-LLVM:END -->
