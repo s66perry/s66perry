@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][MISched] Relaxing same base pointer requirement for clustering memory ops](https://discourse.llvm.org/t/rfc-misched-relaxing-same-base-pointer-requirement-for-clustering-memory-ops/86132#post_1)
-- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_14)
-- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_13)
-- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_12)
-- [How are we doing post-commit review?](https://discourse.llvm.org/t/how-are-we-doing-post-commit-review/85961?page=2#post_31)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_16)
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_29)
+- [[RFC] -fimplicit-constexpr](https://discourse.llvm.org/t/rfc-fimplicit-constexpr/85963#post_20)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_15)
+- [Quadratic scaling of bufferization](https://discourse.llvm.org/t/quadratic-scaling-of-bufferization/86122#post_6)
 <!-- DISCOURSE-LLVM:END -->
