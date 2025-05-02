@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Nominating Eric Astor as the maintainer for llvm-ml and Masm related functionality](https://discourse.llvm.org/t/nominating-eric-astor-as-the-maintainer-for-llvm-ml-and-masm-related-functionality/86144#post_1)
-- [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141#post_8)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_1)
-- [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141#post_7)
-- [[RFC] Documenting Stacked PR Practices](https://discourse.llvm.org/t/rfc-documenting-stacked-pr-practices/85471#post_9)
+- [[RFC] TableGen-erating SDNode descriptions](https://discourse.llvm.org/t/rfc-tablegen-erating-sdnode-descriptions/83627#post_7)
+- [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141#post_11)
+- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_5)
+- [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141#post_10)
+- [Reliability of the lldb-dap tests](https://discourse.llvm.org/t/reliability-of-the-lldb-dap-tests/86125#post_19)
 <!-- DISCOURSE-LLVM:END -->
