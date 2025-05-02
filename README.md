@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Enhancing Debuginfod Cache Location and Naming](https://discourse.llvm.org/t/enhancing-debuginfod-cache-location-and-naming/86138#post_1)
-- [Question: Why isn&#39;t `null_pointer_is_valid` a module-level property?](https://discourse.llvm.org/t/question-why-isnt-null-pointer-is-valid-a-module-level-property/85452#post_6)
-- [[RFC] Documenting Stacked PR Practices](https://discourse.llvm.org/t/rfc-documenting-stacked-pr-practices/85471#post_8)
-- [[RFC] Experimental implementation of P2719 - Type-aware allocation and deallocation functions](https://discourse.llvm.org/t/rfc-experimental-implementation-of-p2719-type-aware-allocation-and-deallocation-functions/83876#post_13)
-- [[RFC] report_fatal_error and the default value of GenCrashDialog](https://discourse.llvm.org/t/rfc-report-fatal-error-and-the-default-value-of-gencrashdialog/73587?page=2#post_29)
+- [Seeking help to resolve Clang build hangs and test failures for PR #117953 &lpar;improving Fix-It hints for unused lambda captures&rpar;](https://discourse.llvm.org/t/seeking-help-to-resolve-clang-build-hangs-and-test-failures-for-pr-117953-improving-fix-it-hints-for-unused-lambda-captures/86140#post_1)
+- [[RFC] Enhancing Debuginfod Cache Location and Naming](https://discourse.llvm.org/t/rfc-enhancing-debuginfod-cache-location-and-naming/86138#post_4)
+- [[PSA][Vector] Standardise operand naming](https://discourse.llvm.org/t/psa-vector-standardise-operand-naming/86114#post_3)
+- [[RFC] Enhancing Debuginfod Cache Location and Naming](https://discourse.llvm.org/t/rfc-enhancing-debuginfod-cache-location-and-naming/86138#post_3)
+- [[RFC] Enhancing Debuginfod Cache Location and Naming](https://discourse.llvm.org/t/rfc-enhancing-debuginfod-cache-location-and-naming/86138#post_2)
 <!-- DISCOURSE-LLVM:END -->
