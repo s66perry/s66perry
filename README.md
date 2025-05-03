@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Debugging frame alignment issues](https://discourse.llvm.org/t/debugging-frame-alignment-issues/86155#post_1)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_53)
-- [Seeking help to resolve Clang build hangs and test failures for PR #117953 &lpar;improving Fix-It hints for unused lambda captures&rpar;](https://discourse.llvm.org/t/seeking-help-to-resolve-clang-build-hangs-and-test-failures-for-pr-117953-improving-fix-it-hints-for-unused-lambda-captures/86140#post_3)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_52)
-- [[RFC] Add GPU operations to permute data in 2 loaded mma_matrix](https://discourse.llvm.org/t/rfc-add-gpu-operations-to-permute-data-in-2-loaded-mma-matrix/86148#post_1)
+- [Debugging frame alignment issues](https://discourse.llvm.org/t/debugging-frame-alignment-issues/86155#post_4)
+- [Debugging frame alignment issues](https://discourse.llvm.org/t/debugging-frame-alignment-issues/86155#post_3)
+- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_6)
+- [Intent to complete BTEST intrinsic registration in Flang](https://discourse.llvm.org/t/intent-to-complete-btest-intrinsic-registration-in-flang/86156#post_1)
+- [Debugging frame alignment issues](https://discourse.llvm.org/t/debugging-frame-alignment-issues/86155#post_2)
 <!-- DISCOURSE-LLVM:END -->
