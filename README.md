@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] contiguous&lt;permutation, offset: O&gt; layout &lpar;and changing default memref layout&rpar;](https://discourse.llvm.org/t/rfc-contiguous-permutation-offset-o-layout-and-changing-default-memref-layout/85284#post_19)
+- [LLVM Weekly - #592, May 5th 2025](https://discourse.llvm.org/t/llvm-weekly-592-may-5th-2025/86187#post_1)
+- [[RFC] computeKnownBits recursion depth](https://discourse.llvm.org/t/rfc-computeknownbits-recursion-depth/85962#post_5)
+- [[RFC] computeKnownBits recursion depth](https://discourse.llvm.org/t/rfc-computeknownbits-recursion-depth/85962#post_4)
 - [OpenMP Offloading Shared Memory Problem](https://discourse.llvm.org/t/openmp-offloading-shared-memory-problem/86164#post_3)
-- [Hooking up new LLVM IR to MLIR memref.atomicrmw](https://discourse.llvm.org/t/hooking-up-new-llvm-ir-to-mlir-memref-atomicrmw/86137#post_3)
-- [Dialect for data locality/sharing specifiers/clauses in OpenMP, OpenACC, and `do concurrent`](https://discourse.llvm.org/t/dialect-for-data-locality-sharing-specifiers-clauses-in-openmp-openacc-and-do-concurrent/86108#post_10)
-- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_8)
-- [OpenMP Offloading Shared Memory Problem](https://discourse.llvm.org/t/openmp-offloading-shared-memory-problem/86164#post_2)
 <!-- DISCOURSE-LLVM:END -->
