@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][DwarfDebug] Fix and improve handling imported entities, types and static local in subprogram and lexical block scopes](https://discourse.llvm.org/t/rfc-dwarfdebug-fix-and-improve-handling-imported-entities-types-and-static-local-in-subprogram-and-lexical-block-scopes/68544#post_8)
-- [[RFC][DwarfDebug] Fix and improve handling imported entities, types and static local in subprogram and lexical block scopes](https://discourse.llvm.org/t/rfc-dwarfdebug-fix-and-improve-handling-imported-entities-types-and-static-local-in-subprogram-and-lexical-block-scopes/68544#post_7)
-- [Very long SSA variable names after SROA with `-Os` &lpar;recursive `.sroa.*` suffixes&rpar;](https://discourse.llvm.org/t/very-long-ssa-variable-names-after-sroa-with-os-recursive-sroa-suffixes/86175#post_1)
-- [Unexpected computation removal by --linalg-fold-unit-extent-dims pass](https://discourse.llvm.org/t/unexpected-computation-removal-by-linalg-fold-unit-extent-dims-pass/86136#post_2)
-- [MemRef alignment for function argument](https://discourse.llvm.org/t/memref-alignment-for-function-argument/86174#post_3)
+- [[RFC] Execute-only code support for runtime libraries on AArch64](https://discourse.llvm.org/t/rfc-execute-only-code-support-for-runtime-libraries-on-aarch64/86180#post_1)
+- [[RFC][MISched] Relaxing same base pointer requirement for clustering memory ops](https://discourse.llvm.org/t/rfc-misched-relaxing-same-base-pointer-requirement-for-clustering-memory-ops/86132#post_5)
+- [[RFC] Split fusion portions of the TilingInterface into a new interface](https://discourse.llvm.org/t/rfc-split-fusion-portions-of-the-tilinginterface-into-a-new-interface/81155#post_14)
+- [`Parser.h` reorganization PR](https://discourse.llvm.org/t/parser-h-reorganization-pr/86178#post_1)
+- [[RFC][DwarfDebug] Fix and improve handling imported entities, types and static local in subprogram and lexical block scopes](https://discourse.llvm.org/t/rfc-dwarfdebug-fix-and-improve-handling-imported-entities-types-and-static-local-in-subprogram-and-lexical-block-scopes/68544#post_9)
 <!-- DISCOURSE-LLVM:END -->
