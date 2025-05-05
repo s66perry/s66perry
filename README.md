@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Very long SSA variable names after SROA with `-Os` &lpar;recursive `.sroa.*` suffixes&rpar;](https://discourse.llvm.org/t/very-long-ssa-variable-names-after-sroa-with-os-recursive-sroa-suffixes/86175#post_1)
+- [Unexpected computation removal by --linalg-fold-unit-extent-dims pass](https://discourse.llvm.org/t/unexpected-computation-removal-by-linalg-fold-unit-extent-dims-pass/86136#post_2)
+- [MemRef alignment for function argument](https://discourse.llvm.org/t/memref-alignment-for-function-argument/86174#post_3)
 - [MemRef alignment for function argument](https://discourse.llvm.org/t/memref-alignment-for-function-argument/86174#post_2)
 - [MemRef alignment for function argument](https://discourse.llvm.org/t/memref-alignment-for-function-argument/86174#post_1)
-- [[RFC] Dealing with compiler line tables that emit line entries with the line number set to zero](https://discourse.llvm.org/t/rfc-dealing-with-compiler-line-tables-that-emit-line-entries-with-the-line-number-set-to-zero/86083#post_7)
-- [MLIR C/C++ Frontend Working Group [Mon, May 5th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-may-5th/86171#post_1)
-- [[RFC] Defining thread convergence in C++ languages such as HIP, CUDA, OpenCL](https://discourse.llvm.org/t/rfc-defining-thread-convergence-in-c-languages-such-as-hip-cuda-opencl/86169#post_1)
 <!-- DISCOURSE-LLVM:END -->
