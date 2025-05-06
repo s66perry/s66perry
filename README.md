@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_1)
-- [Hooking up new LLVM IR to MLIR memref.atomicrmw](https://discourse.llvm.org/t/hooking-up-new-llvm-ir-to-mlir-memref-atomicrmw/86137#post_7)
-- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=3#post_47)
-- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=3#post_46)
-- [[RFC] Add CallBr Intrinsic Support](https://discourse.llvm.org/t/rfc-add-callbr-intrinsic-support/86087#post_6)
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754?page=2#post_32)
+- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_6)
+- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_5)
+- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754?page=2#post_31)
+- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_4)
 <!-- DISCOURSE-LLVM:END -->
