@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: LLD feature for controlling for code-size-dependent measurement bias](https://discourse.llvm.org/t/rfc-lld-feature-for-controlling-for-code-size-dependent-measurement-bias/83334#post_8)
+- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_7)
 - [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754?page=2#post_32)
 - [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_6)
 - [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_5)
-- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754?page=2#post_31)
-- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_4)
 <!-- DISCOURSE-LLVM:END -->
