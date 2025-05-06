@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: LLD feature for controlling for code-size-dependent measurement bias](https://discourse.llvm.org/t/rfc-lld-feature-for-controlling-for-code-size-dependent-measurement-bias/83334#post_8)
-- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_7)
-- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754?page=2#post_32)
-- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_6)
-- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_5)
+- [MLIR Open Meeting: Side Effect Semantics, CSE and Linalg ops, 2025-05-06](https://discourse.llvm.org/t/mlir-open-meeting-side-effect-semantics-cse-and-linalg-ops-2025-05-06/86116#post_2)
+- [How to lower Linalg Softmax op?](https://discourse.llvm.org/t/how-to-lower-linalg-softmax-op/86206#post_1)
+- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=3#post_48)
+- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_1)
+- [[RFC] Execute-only code support for runtime libraries on AArch64](https://discourse.llvm.org/t/rfc-execute-only-code-support-for-runtime-libraries-on-aarch64/86180#post_2)
 <!-- DISCOURSE-LLVM:END -->
