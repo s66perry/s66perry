@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773?page=3#post_50)
-- [Tablegen pattern that uses the same load twice](https://discourse.llvm.org/t/tablegen-pattern-that-uses-the-same-load-twice/86227#post_1)
-- [TableGen Generates Invalid C/C++ Code](https://discourse.llvm.org/t/tablegen-generates-invalid-c-c-code/86201#post_8)
-- [MLIR Open Meeting: Side Effect Semantics, CSE and Linalg ops, 2025-05-06](https://discourse.llvm.org/t/mlir-open-meeting-side-effect-semantics-cse-and-linalg-ops-2025-05-06/86116#post_5)
-- [[RFC] Add FIR-&gt;Affine&lpar;optimization&rpar;-&gt;FIR pass pipeline](https://discourse.llvm.org/t/rfc-add-fir-affine-optimization-fir-pass-pipeline/86190#post_6)
+- [CANCELLED RISC-V LLVM sync-up call May 8th 2025](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-may-8th-2025/86230#post_1)
+- [Call for Maintainer Volunteers](https://discourse.llvm.org/t/call-for-maintainer-volunteers/86229#post_1)
+- [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141#post_19)
+- [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141#post_18)
+- [Speedup of clang build with PGO and BOLT on AArch64](https://discourse.llvm.org/t/speedup-of-clang-build-with-pgo-and-bolt-on-aarch64/85118#post_3)
 <!-- DISCOURSE-LLVM:END -->
