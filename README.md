@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825#post_20)
+- [RFC: move llvm-toolchain-integration-test-suite under the llvm umbrella](https://discourse.llvm.org/t/rfc-move-llvm-toolchain-integration-test-suite-under-the-llvm-umbrella/85063#post_10)
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_55)
+- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_10)
 - [[RFC] Proposal for Offload Execution Test Suite](https://discourse.llvm.org/t/rfc-proposal-for-offload-execution-test-suite/83947#post_18)
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_5)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_2)
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_4)
-- [Help with Segmentation Fault from Custom Pseudo-Instruction Optimization on RISC-V&lpar;Xalancbmk&rpar;&rpar;](https://discourse.llvm.org/t/help-with-segmentation-fault-from-custom-pseudo-instruction-optimization-on-risc-v-xalancbmk/86197#post_3)
 <!-- DISCOURSE-LLVM:END -->
