@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Split fusion portions of the TilingInterface into a new interface](https://discourse.llvm.org/t/rfc-split-fusion-portions-of-the-tilinginterface-into-a-new-interface/81155#post_18)
+- [OpenMP Offloading Shared Memory Problem](https://discourse.llvm.org/t/openmp-offloading-shared-memory-problem/86164#post_4)
+- [How can I control the number of operations per thread when lowering from Linalg to GPU dialect?](https://discourse.llvm.org/t/how-can-i-control-the-number-of-operations-per-thread-when-lowering-from-linalg-to-gpu-dialect/86216#post_1)
+- [[RFC] Add FIR-&gt;Affine&lpar;optimization&rpar;-&gt;FIR pass pipeline](https://discourse.llvm.org/t/rfc-add-fir-affine-optimization-fir-pass-pipeline/86190#post_3)
 - [Speedup of clang build with PGO and BOLT on AArch64](https://discourse.llvm.org/t/speedup-of-clang-build-with-pgo-and-bolt-on-aarch64/85118#post_2)
-- [How to lower Linalg Softmax op?](https://discourse.llvm.org/t/how-to-lower-linalg-softmax-op/86206#post_4)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 28 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-28-25-6pm/85914#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon May 12 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-12-25-6pm/86212#post_1)
-- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825#post_17)
 <!-- DISCOURSE-LLVM:END -->
