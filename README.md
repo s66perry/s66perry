@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_2)
 - [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_1)
 - [Firtool v1.114.1 segmentation fault with Chisel 7.0.0-RC1](https://discourse.llvm.org/t/firtool-v1-114-1-segmentation-fault-with-chisel-7-0-0-rc1/86237#post_2)
 - [How to lower Linalg Softmax op?](https://discourse.llvm.org/t/how-to-lower-linalg-softmax-op/86206#post_7)
 - [Firtool v1.114.1 segmentation fault with Chisel 7.0.0-RC1](https://discourse.llvm.org/t/firtool-v1-114-1-segmentation-fault-with-chisel-7-0-0-rc1/86237#post_1)
-- [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141#post_20)
 <!-- DISCOURSE-LLVM:END -->
