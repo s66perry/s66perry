@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_7)
-- [Help with Segmentation Fault from Custom Pseudo-Instruction Optimization on RISC-V&lpar;Xalancbmk&rpar;&rpar;](https://discourse.llvm.org/t/help-with-segmentation-fault-from-custom-pseudo-instruction-optimization-on-risc-v-xalancbmk/86197#post_6)
-- [[RFC] Dynamic sizes and field offsets in DWARF](https://discourse.llvm.org/t/rfc-dynamic-sizes-and-field-offsets-in-dwarf/85992#post_7)
-- [[libc][GSoC 2025] Direct I/O from the GPU with io_uring](https://discourse.llvm.org/t/libc-gsoc-2025-direct-i-o-from-the-gpu-with-io-uring/84569#post_12)
-- [How to Rerun buildkite/github-pull-requests](https://discourse.llvm.org/t/how-to-rerun-buildkite-github-pull-requests/73402#post_13)
+- [[RFC] Dynamic sizes and field offsets in DWARF](https://discourse.llvm.org/t/rfc-dynamic-sizes-and-field-offsets-in-dwarf/85992#post_8)
+- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_9)
+- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_8)
+- [Firtool v1.114.1 segmentation fault with Chisel 7.0.0-RC1](https://discourse.llvm.org/t/firtool-v1-114-1-segmentation-fault-with-chisel-7-0-0-rc1/86237#post_4)
+- [[llvm-exegesis][AArch64] Load and Store Instruction Benchmarking Support](https://discourse.llvm.org/t/llvm-exegesis-aarch64-load-and-store-instruction-benchmarking-support/86243#post_2)
 <!-- DISCOURSE-LLVM:END -->
