@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_16)
-- [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_9)
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_15)
-- [Exceptions for my own programming language](https://discourse.llvm.org/t/exceptions-for-my-own-programming-language/86246#post_2)
-- [Strange case related to InstCombinePass](https://discourse.llvm.org/t/strange-case-related-to-instcombinepass/86257#post_2)
+- [Failed to generate propeller profiles while using google/llvm-propeller generate_propeller_profiles tool](https://discourse.llvm.org/t/failed-to-generate-propeller-profiles-while-using-google-llvm-propeller-generate-propeller-profiles-tool/86240#post_6)
+- [Firtool v1.114.1 segmentation fault with Chisel 7.0.0-RC1](https://discourse.llvm.org/t/firtool-v1-114-1-segmentation-fault-with-chisel-7-0-0-rc1/86237#post_9)
+- [Volunteers for 2025 LLVM Developers&#39; Meeting - Program Committee and Student Travel Grants](https://discourse.llvm.org/t/volunteers-for-2025-llvm-developers-meeting-program-committee-and-student-travel-grants/86264#post_1)
+- [Factoid: Each class template instantiation costs 1KiB](https://discourse.llvm.org/t/factoid-each-class-template-instantiation-costs-1kib/86189#post_6)
+- [Lowering From LTL to Core](https://discourse.llvm.org/t/lowering-from-ltl-to-core/86263#post_1)
 <!-- DISCOURSE-LLVM:END -->
