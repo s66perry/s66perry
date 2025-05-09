@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] carry-less multiplication instruction](https://discourse.llvm.org/t/rfc-carry-less-multiplication-instruction/55819?page=2#post_24)
+- [&quot;cannot guarantee tail call due to mismatched varargs&quot;](https://discourse.llvm.org/t/cannot-guarantee-tail-call-due-to-mismatched-varargs/82769#post_12)
+- [LOH conflicting with MachineOutliner](https://discourse.llvm.org/t/loh-conflicting-with-machineoutliner/83279#post_10)
+- [[RFC] Extensions to export macros/&lpar;preprocessor states&rpar; for C++20 modules](https://discourse.llvm.org/t/rfc-extensions-to-export-macros-preprocessor-states-for-c-20-modules/85083?page=5#post_86)
 - [[RFC] New analysis for Polynomial Hash recognition](https://discourse.llvm.org/t/rfc-new-analysis-for-polynomial-hash-recognition/86268#post_1)
-- [Bolt test failure in Linux CI](https://discourse.llvm.org/t/bolt-test-failure-in-linux-ci/86267#post_2)
-- [Bolt test failure in Linux CI](https://discourse.llvm.org/t/bolt-test-failure-in-linux-ci/86267#post_1)
-- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_6)
-- [Project on Heap Canaries &lpar;or something like them, based on randstruct&rpar; for Linux](https://discourse.llvm.org/t/project-on-heap-canaries-or-something-like-them-based-on-randstruct-for-linux/85363#post_2)
 <!-- DISCOURSE-LLVM:END -->
