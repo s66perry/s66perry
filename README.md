@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help with Segmentation Fault from Custom Pseudo-Instruction Optimization on RISC-V&lpar;Xalancbmk&rpar;&rpar;](https://discourse.llvm.org/t/help-with-segmentation-fault-from-custom-pseudo-instruction-optimization-on-risc-v-xalancbmk/86197#post_7)
+- [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_8)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=3#post_48)
+- [Strange case related to InstCombinePass](https://discourse.llvm.org/t/strange-case-related-to-instcombinepass/86257#post_1)
 - [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_13)
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205#post_12)
-- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_4)
-- [Failed to generate propeller profiles while using google/llvm-propeller generate_propeller_profiles tool](https://discourse.llvm.org/t/failed-to-generate-propeller-profiles-while-using-google-llvm-propeller-generate-propeller-profiles-tool/86240#post_5)
-- [Firtool v1.114.1 segmentation fault with Chisel 7.0.0-RC1](https://discourse.llvm.org/t/firtool-v1-114-1-segmentation-fault-with-chisel-7-0-0-rc1/86237#post_8)
 <!-- DISCOURSE-LLVM:END -->
