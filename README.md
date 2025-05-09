@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Failed to generate propeller profiles while using google/llvm-propeller generate_propeller_profiles tool](https://discourse.llvm.org/t/failed-to-generate-propeller-profiles-while-using-google-llvm-propeller-generate-propeller-profiles-tool/86240#post_6)
-- [Firtool v1.114.1 segmentation fault with Chisel 7.0.0-RC1](https://discourse.llvm.org/t/firtool-v1-114-1-segmentation-fault-with-chisel-7-0-0-rc1/86237#post_9)
-- [Volunteers for 2025 LLVM Developers&#39; Meeting - Program Committee and Student Travel Grants](https://discourse.llvm.org/t/volunteers-for-2025-llvm-developers-meeting-program-committee-and-student-travel-grants/86264#post_1)
-- [Factoid: Each class template instantiation costs 1KiB](https://discourse.llvm.org/t/factoid-each-class-template-instantiation-costs-1kib/86189#post_6)
-- [Lowering From LTL to Core](https://discourse.llvm.org/t/lowering-from-ltl-to-core/86263#post_1)
+- [GSoC 2025 Introducing myself as new contributor](https://discourse.llvm.org/t/gsoc-2025-introducing-myself-as-new-contributor/86260#post_2)
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=3#post_49)
+- [[GSoC2025] Improve Rust-Enzyme reliability and compile times](https://discourse.llvm.org/t/gsoc2025-improve-rust-enzyme-reliability-and-compile-times/84523#post_10)
+- [2025 LLVM Developers&#39; Meeting - Workshop Proposals](https://discourse.llvm.org/t/2025-llvm-developers-meeting-workshop-proposals/86265#post_1)
+- [Lowering From LTL to Core](https://discourse.llvm.org/t/lowering-from-ltl-to-core/86263#post_2)
 <!-- DISCOURSE-LLVM:END -->
