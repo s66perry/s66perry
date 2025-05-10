@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Speedup of clang build with PGO and BOLT on AArch64](https://discourse.llvm.org/t/speedup-of-clang-build-with-pgo-and-bolt-on-aarch64/85118#post_4)
 - [Writing LLVM Pass in LLVM-18](https://discourse.llvm.org/t/writing-llvm-pass-in-llvm-18/86273#post_1)
 - [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872?page=2#post_23)
 - [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_58)
 - [Strange case related to InstCombinePass](https://discourse.llvm.org/t/strange-case-related-to-instcombinepass/86257#post_5)
-- [Help with MLIR CUDA Stream Management for Multiple CUDNN Convolutions](https://discourse.llvm.org/t/help-with-mlir-cuda-stream-management-for-multiple-cudnn-convolutions/86272#post_1)
 <!-- DISCOURSE-LLVM:END -->
