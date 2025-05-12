@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Failed to generate propeller profiles while using google/llvm-propeller generate_propeller_profiles tool](https://discourse.llvm.org/t/failed-to-generate-propeller-profiles-while-using-google-llvm-propeller-generate-propeller-profiles-tool/86240#post_8)
+- [Failed to generate propeller profiles while using google/llvm-propeller generate_propeller_profiles tool](https://discourse.llvm.org/t/failed-to-generate-propeller-profiles-while-using-google-llvm-propeller-generate-propeller-profiles-tool/86240#post_7)
 - [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945?page=2#post_27)
 - [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945?page=2#post_26)
 - [[RFC] Summary Based Analysis Prototype](https://discourse.llvm.org/t/rfc-summary-based-analysis-prototype/85945?page=2#post_25)
-- [[libc][GSoC 2025] Direct I/O from the GPU with io_uring](https://discourse.llvm.org/t/libc-gsoc-2025-direct-i-o-from-the-gpu-with-io-uring/84569#post_14)
-- [[libc][GSoC 2025] Direct I/O from the GPU with io_uring](https://discourse.llvm.org/t/libc-gsoc-2025-direct-i-o-from-the-gpu-with-io-uring/84569#post_13)
 <!-- DISCOURSE-LLVM:END -->
