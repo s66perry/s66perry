@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support !llvm.target as Element Types of `vector` and `memref`](https://discourse.llvm.org/t/rfc-support-llvm-target-as-element-types-of-vector-and-memref/86302#post_5)
+- [[RFC] Support !llvm.target as Element Types of `vector` and `memref`](https://discourse.llvm.org/t/rfc-support-llvm-target-as-element-types-of-vector-and-memref/86302#post_4)
+- [Adding a size-based vector to libc++’s unstable ABI](https://discourse.llvm.org/t/adding-a-size-based-vector-to-libc-s-unstable-abi/86306#post_3)
+- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825?page=2#post_24)
 - [Adding a size-based vector to libc++’s unstable ABI](https://discourse.llvm.org/t/adding-a-size-based-vector-to-libc-s-unstable-abi/86306#post_2)
-- [[RFC] Improving the feature-test macro status page](https://discourse.llvm.org/t/rfc-improving-the-feature-test-macro-status-page/78327#post_5)
-- [2025 EuroLLVM videos now available](https://discourse.llvm.org/t/2025-eurollvm-videos-now-available/86345#post_1)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_8)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_7)
 <!-- DISCOURSE-LLVM:END -->
