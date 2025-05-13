@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: adding builtin for deduplicating type lists](https://discourse.llvm.org/t/rfc-adding-builtin-for-deduplicating-type-lists/80986?page=2#post_32)
 - [Inter-procedural register allocation](https://discourse.llvm.org/t/inter-procedural-register-allocation/86341#post_1)
 - [[RFC] Support !llvm.target as Element Types of `vector` and `memref`](https://discourse.llvm.org/t/rfc-support-llvm-target-as-element-types-of-vector-and-memref/86302#post_3)
 - [Hooking up new LLVM IR to MLIR memref.atomicrmw](https://discourse.llvm.org/t/hooking-up-new-llvm-ir-to-mlir-memref-atomicrmw/86137#post_10)
 - [Help with MLIR CUDA Stream Management for Multiple CUDNN Convolutions](https://discourse.llvm.org/t/help-with-mlir-cuda-stream-management-for-multiple-cudnn-convolutions/86272#post_2)
-- [[RFC] Support !llvm.target as Element Types of `vector` and `memref`](https://discourse.llvm.org/t/rfc-support-llvm-target-as-element-types-of-vector-and-memref/86302#post_2)
 <!-- DISCOURSE-LLVM:END -->
