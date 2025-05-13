@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] carry-less multiplication instruction](https://discourse.llvm.org/t/rfc-carry-less-multiplication-instruction/55819?page=2#post_25)
-- [Fold counting leading zeros logic with llvm.ctlz intrinsic](https://discourse.llvm.org/t/fold-counting-leading-zeros-logic-with-llvm-ctlz-intrinsic/86336#post_2)
-- [Fold counting leading zeros logic with llvm.ctlz intrinsic](https://discourse.llvm.org/t/fold-counting-leading-zeros-logic-with-llvm-ctlz-intrinsic/86336#post_1)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434?page=2#post_26)
-- [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157?page=2#post_29)
+- [Hooking up new LLVM IR to MLIR memref.atomicrmw](https://discourse.llvm.org/t/hooking-up-new-llvm-ir-to-mlir-memref-atomicrmw/86137#post_10)
+- [Help with MLIR CUDA Stream Management for Multiple CUDNN Convolutions](https://discourse.llvm.org/t/help-with-mlir-cuda-stream-management-for-multiple-cudnn-convolutions/86272#post_2)
+- [[RFC] Support !llvm.target as Element Types of `vector` and `memref`](https://discourse.llvm.org/t/rfc-support-llvm-target-as-element-types-of-vector-and-memref/86302#post_2)
+- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825?page=2#post_23)
+- [Memory effects for `memref.assume_alignment`](https://discourse.llvm.org/t/memory-effects-for-memref-assume-alignment/71051#post_6)
 <!-- DISCOURSE-LLVM:END -->
