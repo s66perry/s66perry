@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a generic way to imitate/emulate unsupported data types in a target environment](https://discourse.llvm.org/t/rfc-add-a-generic-way-to-imitate-emulate-unsupported-data-types-in-a-target-environment/86249#post_6)
+- [[RFC] Improving the feature-test macro status page](https://discourse.llvm.org/t/rfc-improving-the-feature-test-macro-status-page/78327#post_6)
+- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205?page=2#post_26)
 - [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_9)
 - [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205?page=2#post_25)
-- [[RFC][DwarfDebug] Fix and improve handling imported entities, types and static local in subprogram and lexical block scopes](https://discourse.llvm.org/t/rfc-dwarfdebug-fix-and-improve-handling-imported-entities-types-and-static-local-in-subprogram-and-lexical-block-scopes/68544#post_11)
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205?page=2#post_24)
-- [[RFC] Intra-procedural Lifetime Analysis in Clang](https://discourse.llvm.org/t/rfc-intra-procedural-lifetime-analysis-in-clang/86291#post_6)
 <!-- DISCOURSE-LLVM:END -->
