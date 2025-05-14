@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_8)
+- [Issues with clang-format of LLVM `StringSwitch`](https://discourse.llvm.org/t/issues-with-clang-format-of-llvm-stringswitch/86359#post_2)
+- [Issues with clang-format of LLVM `StringSwitch`](https://discourse.llvm.org/t/issues-with-clang-format-of-llvm-stringswitch/86359#post_1)
+- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021#post_11)
 - [Use explicit `llvm::` for STLExtras functions or not?](https://discourse.llvm.org/t/use-explicit-llvm-for-stlextras-functions-or-not/86141?page=2#post_21)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_10)
-- [[RFC] Add a generic way to imitate/emulate unsupported data types in a target environment](https://discourse.llvm.org/t/rfc-add-a-generic-way-to-imitate-emulate-unsupported-data-types-in-a-target-environment/86249#post_6)
-- [[RFC] Improving the feature-test macro status page](https://discourse.llvm.org/t/rfc-improving-the-feature-test-macro-status-page/78327#post_6)
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
