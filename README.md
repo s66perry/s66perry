@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [`Parser.h` reorganization PR](https://discourse.llvm.org/t/parser-h-reorganization-pr/86178#post_3)
+- [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157?page=2#post_30)
 - [Get the pointer level with opaque pointer?](https://discourse.llvm.org/t/get-the-pointer-level-with-opaque-pointer/86287#post_2)
 - [[RFC] Freezing C++03 headers in libc++](https://discourse.llvm.org/t/rfc-freezing-c-03-headers-in-libc/77319?page=3#post_60)
 - [Adding a size-based vector to libc++’s unstable ABI](https://discourse.llvm.org/t/adding-a-size-based-vector-to-libc-s-unstable-abi/86306#post_4)
-- [Why does clang emit GOTPCRELX relocations when -fPIE is enabled?](https://discourse.llvm.org/t/why-does-clang-emit-gotpcrelx-relocations-when-fpie-is-enabled/86314#post_4)
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
