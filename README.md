@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Intra-procedural Lifetime Analysis in Clang](https://discourse.llvm.org/t/rfc-intra-procedural-lifetime-analysis-in-clang/86291#post_6)
+- [Fold counting leading zeros logic with llvm.ctlz intrinsic](https://discourse.llvm.org/t/fold-counting-leading-zeros-logic-with-llvm-ctlz-intrinsic/86336#post_3)
+- [📣 Compiler Social – Zurich Edition](https://discourse.llvm.org/t/compiler-social-zurich-edition/86354#post_1)
 - [Divisibility in data flow analysis](https://discourse.llvm.org/t/divisibility-in-data-flow-analysis/86310#post_2)
 - [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434?page=2#post_27)
-- [Inter-procedural register allocation](https://discourse.llvm.org/t/inter-procedural-register-allocation/86341#post_2)
-- [`Parser.h` reorganization PR](https://discourse.llvm.org/t/parser-h-reorganization-pr/86178#post_3)
-- [[BOLT][RFC] Enhance BOLT for Linux kernel](https://discourse.llvm.org/t/bolt-rfc-enhance-bolt-for-linux-kernel/84157?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
