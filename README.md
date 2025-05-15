@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] carry-less multiplication instruction](https://discourse.llvm.org/t/rfc-carry-less-multiplication-instruction/55819?page=2#post_27)
 - [Current status of mem2reg for scf/region-based IR](https://discourse.llvm.org/t/current-status-of-mem2reg-for-scf-region-based-ir/86283#post_2)
 - [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=3#post_52)
 - [[Toy Sharing] [Questions] AI Assisted Diagnostic Consumer](https://discourse.llvm.org/t/toy-sharing-questions-ai-assisted-diagnostic-consumer/86041#post_4)
 - [[RFC] carry-less multiplication instruction](https://discourse.llvm.org/t/rfc-carry-less-multiplication-instruction/55819?page=2#post_26)
-- [[GSoC’25] Rich Disassembler for LLDB – Thank You &amp; Excited to Begin!](https://discourse.llvm.org/t/gsoc-25-rich-disassembler-for-lldb-thank-you-excited-to-begin/86365#post_1)
 <!-- DISCOURSE-LLVM:END -->
