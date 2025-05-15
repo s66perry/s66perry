@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GSoC’25] Rich Disassembler for LLDB – Thank You &amp; Excited to Begin!](https://discourse.llvm.org/t/gsoc-25-rich-disassembler-for-lldb-thank-you-excited-to-begin/86365#post_2)
 - [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_31)
 - [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_30)
 - [Fold counting leading zeros logic with llvm.ctlz intrinsic](https://discourse.llvm.org/t/fold-counting-leading-zeros-logic-with-llvm-ctlz-intrinsic/86336#post_4)
 - [[RFC] Simplify x86 intrinsic generation](https://discourse.llvm.org/t/rfc-simplify-x86-intrinsic-generation/85581#post_6)
-- [LLVM 20.1.5 Released!](https://discourse.llvm.org/t/llvm-20-1-5-released/86371#post_1)
 <!-- DISCOURSE-LLVM:END -->
