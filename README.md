@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=3#post_53)
+- [Adding a size-based vector to libc++’s unstable ABI](https://discourse.llvm.org/t/adding-a-size-based-vector-to-libc-s-unstable-abi/86306#post_5)
 - [Do you assign GitHub issues?](https://discourse.llvm.org/t/do-you-assign-github-issues/84771#post_16)
 - [MLIR Open Meeting: Symbolic expressions and symbolic tensors, 2025-05-15](https://discourse.llvm.org/t/mlir-open-meeting-symbolic-expressions-and-symbolic-tensors-2025-05-15/86223#post_3)
 - [Magical op verifier of memref view op](https://discourse.llvm.org/t/magical-op-verifier-of-memref-view-op/86380#post_1)
-- [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_19)
-- [[RFC] Add a generic way to imitate/emulate unsupported data types in a target environment](https://discourse.llvm.org/t/rfc-add-a-generic-way-to-imitate-emulate-unsupported-data-types-in-a-target-environment/86249#post_7)
 <!-- DISCOURSE-LLVM:END -->
