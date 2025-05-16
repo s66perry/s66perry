@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR Open Meeting: Symbolic expressions and symbolic tensors, 2025-05-15](https://discourse.llvm.org/t/mlir-open-meeting-symbolic-expressions-and-symbolic-tensors-2025-05-15/86223#post_3)
 - [Magical op verifier of memref view op](https://discourse.llvm.org/t/magical-op-verifier-of-memref-view-op/86380#post_1)
 - [[RFC] Making `LLVMStructType` immutable](https://discourse.llvm.org/t/rfc-making-llvmstructtype-immutable/83115#post_19)
 - [[RFC] Add a generic way to imitate/emulate unsupported data types in a target environment](https://discourse.llvm.org/t/rfc-add-a-generic-way-to-imitate-emulate-unsupported-data-types-in-a-target-environment/86249#post_7)
 - [[RFC] Split fusion portions of the TilingInterface into a new interface](https://discourse.llvm.org/t/rfc-split-fusion-portions-of-the-tilinginterface-into-a-new-interface/81155#post_19)
-- [Lldb test/api all unsupport](https://discourse.llvm.org/t/lldb-test-api-all-unsupport/86009#post_3)
 <!-- DISCOURSE-LLVM:END -->
