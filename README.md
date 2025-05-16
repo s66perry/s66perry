@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366?page=2#post_23)
 - [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_10)
 - [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366?page=2#post_22)
 - [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_9)
 - [[RFC] Intra-procedural Lifetime Analysis in Clang](https://discourse.llvm.org/t/rfc-intra-procedural-lifetime-analysis-in-clang/86291#post_7)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_11)
 <!-- DISCOURSE-LLVM:END -->
