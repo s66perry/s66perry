@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Magical op verifier of memref view op](https://discourse.llvm.org/t/magical-op-verifier-of-memref-view-op/86380#post_3)
 - [RFC: Structure protection, a family of UAF mitigation techniques](https://discourse.llvm.org/t/rfc-structure-protection-a-family-of-uaf-mitigation-techniques/85555#post_18)
 - [RFC: Requiring callinst function type to match the type of the function being called?](https://discourse.llvm.org/t/rfc-requiring-callinst-function-type-to-match-the-type-of-the-function-being-called/86394#post_3)
 - [RFC: Requiring callinst function type to match the type of the function being called?](https://discourse.llvm.org/t/rfc-requiring-callinst-function-type-to-match-the-type-of-the-function-being-called/86394#post_2)
 - [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_14)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_13)
 <!-- DISCOURSE-LLVM:END -->
