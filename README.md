@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Creating SHF_MERGE|SHF_STRINGS section](https://discourse.llvm.org/t/creating-shf-merge-shf-strings-section/86399#post_1)
 - [Quadratic scaling of bufferization](https://discourse.llvm.org/t/quadratic-scaling-of-bufferization/86122#post_10)
 - [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=3#post_59)
 - [Some thoughts about `ValueBoundsConstraintSet`](https://discourse.llvm.org/t/some-thoughts-about-valueboundsconstraintset/84055#post_7)
 - [Quadratic scaling of bufferization](https://discourse.llvm.org/t/quadratic-scaling-of-bufferization/86122#post_9)
-- [[RFC] Split fusion portions of the TilingInterface into a new interface](https://discourse.llvm.org/t/rfc-split-fusion-portions-of-the-tilinginterface-into-a-new-interface/81155#post_20)
 <!-- DISCOURSE-LLVM:END -->
