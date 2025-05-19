@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How does Debugify detect debug value bugs?](https://discourse.llvm.org/t/how-does-debugify-detect-debug-value-bugs/86420#post_3)
-- [How does Debugify detect debug value bugs?](https://discourse.llvm.org/t/how-does-debugify-detect-debug-value-bugs/86420#post_2)
-- [[RFC] Simplify x86 intrinsic generation](https://discourse.llvm.org/t/rfc-simplify-x86-intrinsic-generation/85581#post_7)
-- [How does Debugify detect debug value bugs?](https://discourse.llvm.org/t/how-does-debugify-detect-debug-value-bugs/86420#post_1)
-- [LLVM Embedded Toolchains Working Group call this Thursday, May 22](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-may-22/86417#post_1)
+- [Are the latencies of vextractf128 correct for Zen2/3 in MCA?](https://discourse.llvm.org/t/are-the-latencies-of-vextractf128-correct-for-zen2-3-in-mca/86422#post_3)
+- [Are the latencies of vextractf128 correct for Zen2/3 in MCA?](https://discourse.llvm.org/t/are-the-latencies-of-vextractf128-correct-for-zen2-3-in-mca/86422#post_2)
+- [Are the latencies of vextractf128 correct for Zen2/3 in MCA?](https://discourse.llvm.org/t/are-the-latencies-of-vextractf128-correct-for-zen2-3-in-mca/86422#post_1)
+- [Getting the type parameters for an LLVM intrinsic](https://discourse.llvm.org/t/getting-the-type-parameters-for-an-llvm-intrinsic/86405#post_5)
+- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
