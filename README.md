@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Relationship between MemRefElementTypeInterface and DataLayoutTypeInterface](https://discourse.llvm.org/t/relationship-between-memrefelementtypeinterface-and-datalayouttypeinterface/86413#post_1)
+- [Loop fusion pass](https://discourse.llvm.org/t/loop-fusion-pass/86410#post_2)
 - [Loop fusion pass](https://discourse.llvm.org/t/loop-fusion-pass/86410#post_1)
 - [Getting the type parameters for an LLVM intrinsic](https://discourse.llvm.org/t/getting-the-type-parameters-for-an-llvm-intrinsic/86405#post_4)
 - [Getting the type parameters for an LLVM intrinsic](https://discourse.llvm.org/t/getting-the-type-parameters-for-an-llvm-intrinsic/86405#post_3)
-- [Some thoughts about `ValueBoundsConstraintSet`](https://discourse.llvm.org/t/some-thoughts-about-valueboundsconstraintset/84055#post_10)
-- [Getting the type parameters for an LLVM intrinsic](https://discourse.llvm.org/t/getting-the-type-parameters-for-an-llvm-intrinsic/86405#post_2)
 <!-- DISCOURSE-LLVM:END -->
