@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How does Debugify detect debug value bugs?](https://discourse.llvm.org/t/how-does-debugify-detect-debug-value-bugs/86420#post_3)
+- [How does Debugify detect debug value bugs?](https://discourse.llvm.org/t/how-does-debugify-detect-debug-value-bugs/86420#post_2)
+- [[RFC] Simplify x86 intrinsic generation](https://discourse.llvm.org/t/rfc-simplify-x86-intrinsic-generation/85581#post_7)
 - [How does Debugify detect debug value bugs?](https://discourse.llvm.org/t/how-does-debugify-detect-debug-value-bugs/86420#post_1)
 - [LLVM Embedded Toolchains Working Group call this Thursday, May 22](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-may-22/86417#post_1)
-- [Vector Dialect Roundtable – EuroLLVM 2025 Summary](https://discourse.llvm.org/t/vector-dialect-roundtable-eurollvm-2025-summary/85978#post_4)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=4#post_63)
-- [[RFC] Add GPU operations to permute data in 2 loaded mma_matrix](https://discourse.llvm.org/t/rfc-add-gpu-operations-to-permute-data-in-2-loaded-mma-matrix/86148#post_6)
 <!-- DISCOURSE-LLVM:END -->
