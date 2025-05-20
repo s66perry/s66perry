@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_11)
-- [RFC: Requiring callinst function type to match the type of the function being called?](https://discourse.llvm.org/t/rfc-requiring-callinst-function-type-to-match-the-type-of-the-function-being-called/86394#post_6)
-- [PDX Area January 2025 Social](https://discourse.llvm.org/t/pdx-area-january-2025-social/83998#post_2)
-- [How to make iree work with cuda 11](https://discourse.llvm.org/t/how-to-make-iree-work-with-cuda-11/86443#post_1)
-- [Converting CUDA program to mlir &lpar;gpu, linalg etc.&rpar;](https://discourse.llvm.org/t/converting-cuda-program-to-mlir-gpu-linalg-etc/86376#post_6)
+- [[RFC] Enhancing MLGO Inlining with IR2Vec Embeddings](https://discourse.llvm.org/t/rfc-enhancing-mlgo-inlining-with-ir2vec-embeddings/86250#post_15)
+- [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_1)
+- [[RFC] Enhancing MLGO Inlining with IR2Vec Embeddings](https://discourse.llvm.org/t/rfc-enhancing-mlgo-inlining-with-ir2vec-embeddings/86250#post_14)
+- [[RFC] Enhancing MLGO Inlining with IR2Vec Embeddings](https://discourse.llvm.org/t/rfc-enhancing-mlgo-inlining-with-ir2vec-embeddings/86250#post_13)
+- [[RFC] Enhancing MLGO Inlining with IR2Vec Embeddings](https://discourse.llvm.org/t/rfc-enhancing-mlgo-inlining-with-ir2vec-embeddings/86250#post_12)
 <!-- DISCOURSE-LLVM:END -->
