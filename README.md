@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Make clang builtin math functions `constexpr` with LLVM libc to support C++23 constexpr math functions](https://discourse.llvm.org/t/rfc-make-clang-builtin-math-functions-constexpr-with-llvm-libc-to-support-c-23-constexpr-math-functions/86450#post_2)
+- [[flang] Missing dso_local on globals and functions?](https://discourse.llvm.org/t/flang-missing-dso-local-on-globals-and-functions/86085#post_2)
+- [[RFC] Removing the OpenMP experimental warning for LLVM 21](https://discourse.llvm.org/t/rfc-removing-the-openmp-experimental-warning-for-llvm-21/86455#post_5)
+- [[RFC] Removing the OpenMP experimental warning for LLVM 21](https://discourse.llvm.org/t/rfc-removing-the-openmp-experimental-warning-for-llvm-21/86455#post_4)
 - [[RFC] Removing the OpenMP experimental warning for LLVM 21](https://discourse.llvm.org/t/rfc-removing-the-openmp-experimental-warning-for-llvm-21/86455#post_3)
-- [[RFC] computeKnownBits recursion depth](https://discourse.llvm.org/t/rfc-computeknownbits-recursion-depth/85962#post_9)
-- [Guidance on Issues with Code Coverage Accuracy](https://discourse.llvm.org/t/guidance-on-issues-with-code-coverage-accuracy/86459#post_1)
-- [Why does replaceOp need {} to match the Operation variant?](https://discourse.llvm.org/t/why-does-replaceop-need-to-match-the-operation-variant/86458#post_2)
-- [Are the latencies of vextractf128 correct for Zen2/3 in MCA?](https://discourse.llvm.org/t/are-the-latencies-of-vextractf128-correct-for-zen2-3-in-mca/86422#post_4)
 <!-- DISCOURSE-LLVM:END -->
