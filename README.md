@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Make clang builtin math functions `constexpr` with LLVM libc to support C++23 constexpr math functions](https://discourse.llvm.org/t/rfc-make-clang-builtin-math-functions-constexpr-with-llvm-libc-to-support-c-23-constexpr-math-functions/86450#post_3)
-- [Best way to print human readable function signature for custom builtin?](https://discourse.llvm.org/t/best-way-to-print-human-readable-function-signature-for-custom-builtin/86430#post_2)
-- [[RFC] Changing the loop pipeliner prologue/epilogue generation](https://discourse.llvm.org/t/rfc-changing-the-loop-pipeliner-prologue-epilogue-generation/86378#post_3)
-- [[RFC] Make clang builtin math functions `constexpr` with LLVM libc to support C++23 constexpr math functions](https://discourse.llvm.org/t/rfc-make-clang-builtin-math-functions-constexpr-with-llvm-libc-to-support-c-23-constexpr-math-functions/86450#post_2)
-- [[flang] Missing dso_local on globals and functions?](https://discourse.llvm.org/t/flang-missing-dso-local-on-globals-and-functions/86085#post_2)
+- [Question on rvv builtin and policies](https://discourse.llvm.org/t/question-on-rvv-builtin-and-policies/86463#post_1)
+- [Question about linalg dialect: May Map To an External Library Call](https://discourse.llvm.org/t/question-about-linalg-dialect-may-map-to-an-external-library-call/86462#post_1)
+- [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_3)
+- [Creating SHF_MERGE|SHF_STRINGS section](https://discourse.llvm.org/t/creating-shf-merge-shf-strings-section/86399#post_3)
+- [How should non-control-flow region-bearing ops be used with by dataflow analyses?](https://discourse.llvm.org/t/how-should-non-control-flow-region-bearing-ops-be-used-with-by-dataflow-analyses/86438#post_3)
 <!-- DISCOURSE-LLVM:END -->
