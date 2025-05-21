@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][Modules] Support simple C++20 modules use from the Clang driver without a build system](https://discourse.llvm.org/t/rfc-modules-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/86456#post_1)
+- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_13)
+- [[RFC] Supporting more early-exit loops](https://discourse.llvm.org/t/rfc-supporting-more-early-exit-loops/84690#post_9)
 - [[RFC] Changing the loop pipeliner prologue/epilogue generation](https://discourse.llvm.org/t/rfc-changing-the-loop-pipeliner-prologue-epilogue-generation/86378#post_2)
 - [Flang compile error with out of order arguments](https://discourse.llvm.org/t/flang-compile-error-with-out-of-order-arguments/86433#post_2)
-- [[RFC] Removing the OpenMP experimental warning for LLVM 21](https://discourse.llvm.org/t/rfc-removing-the-openmp-experimental-warning-for-llvm-21/86455#post_1)
-- [How should non-control-flow region-bearing ops be used with by dataflow analyses?](https://discourse.llvm.org/t/how-should-non-control-flow-region-bearing-ops-be-used-with-by-dataflow-analyses/86438#post_2)
-- [Converting CUDA program to mlir &lpar;gpu, linalg etc.&rpar;](https://discourse.llvm.org/t/converting-cuda-program-to-mlir-gpu-linalg-etc/86376#post_10)
 <!-- DISCOURSE-LLVM:END -->
