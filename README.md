@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [WASM version of LLVM itself](https://discourse.llvm.org/t/wasm-version-of-llvm-itself/86467#post_3)
-- [Registering callback for a transformation pass after each pass](https://discourse.llvm.org/t/registering-callback-for-a-transformation-pass-after-each-pass/86434#post_2)
-- [[RFC] Make clang builtin math functions `constexpr` with LLVM libc to support C++23 constexpr math functions](https://discourse.llvm.org/t/rfc-make-clang-builtin-math-functions-constexpr-with-llvm-libc-to-support-c-23-constexpr-math-functions/86450#post_6)
-- [Why does replaceOp need {} to match the Operation variant?](https://discourse.llvm.org/t/why-does-replaceop-need-to-match-the-operation-variant/86458#post_4)
-- [[RFC] Make clang builtin math functions `constexpr` with LLVM libc to support C++23 constexpr math functions](https://discourse.llvm.org/t/rfc-make-clang-builtin-math-functions-constexpr-with-llvm-libc-to-support-c-23-constexpr-math-functions/86450#post_5)
+- [[RFC] Supporting Sized Target Extension Types in Vector](https://discourse.llvm.org/t/rfc-supporting-sized-target-extension-types-in-vector/86431#post_4)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=2#post_25)
+- [[RFC] Supporting Sized Target Extension Types in Vector](https://discourse.llvm.org/t/rfc-supporting-sized-target-extension-types-in-vector/86431#post_3)
+- [AsiaLLVM Registration - Final week to register](https://discourse.llvm.org/t/asiallvm-registration-final-week-to-register/86484#post_1)
+- [Question on rvv builtin and policies](https://discourse.llvm.org/t/question-on-rvv-builtin-and-policies/86463#post_7)
 <!-- DISCOURSE-LLVM:END -->
