@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [WASM version of LLVM itself](https://discourse.llvm.org/t/wasm-version-of-llvm-itself/86467#post_2)
+- [WASM version of LLVM itself](https://discourse.llvm.org/t/wasm-version-of-llvm-itself/86467#post_1)
 - [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_7)
 - [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_6)
 - [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_5)
-- [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_4)
-- [[RFC] Defaulting &quot;-mllvm -pick-merged-source-locations&quot; for clang-cl CodeView Debug Info](https://discourse.llvm.org/t/rfc-defaulting-mllvm-pick-merged-source-locations-for-clang-cl-codeview-debug-info/86466#post_4)
 <!-- DISCOURSE-LLVM:END -->
