@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improving the performance of `Fortran::runtime::Assign` for derived types](https://discourse.llvm.org/t/rfc-improving-the-performance-of-fortran-assign-for-derived-types/84906#post_7)
+- [Cache template instantiations across TUs proposal](https://discourse.llvm.org/t/cache-template-instantiations-across-tus-proposal/86497#post_1)
+- [Current status of mem2reg for scf/region-based IR](https://discourse.llvm.org/t/current-status-of-mem2reg-for-scf-region-based-ir/86283#post_7)
 - [Current status of mem2reg for scf/region-based IR](https://discourse.llvm.org/t/current-status-of-mem2reg-for-scf-region-based-ir/86283#post_6)
 - [Current status of mem2reg for scf/region-based IR](https://discourse.llvm.org/t/current-status-of-mem2reg-for-scf-region-based-ir/86283#post_5)
-- [Current status of mem2reg for scf/region-based IR](https://discourse.llvm.org/t/current-status-of-mem2reg-for-scf-region-based-ir/86283#post_4)
-- [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493#post_2)
-- [Current status of mem2reg for scf/region-based IR](https://discourse.llvm.org/t/current-status-of-mem2reg-for-scf-region-based-ir/86283#post_3)
 <!-- DISCOURSE-LLVM:END -->
