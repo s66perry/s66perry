@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Possible memory access optimization opportunity? Comparison with Java JIT](https://discourse.llvm.org/t/possible-memory-access-optimization-opportunity-comparison-with-java-jit/86515#post_1)
 - [[RFC][Modules] Support simple C++20 modules use from the Clang driver without a build system](https://discourse.llvm.org/t/rfc-modules-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/86456#post_7)
 - [Let&#39;s get Clang&#39;s diagnostics translatable!](https://discourse.llvm.org/t/lets-get-clangs-diagnostics-translatable/67094?page=4#post_68)
 - [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493#post_3)
 - [Quadratic scaling of bufferization](https://discourse.llvm.org/t/quadratic-scaling-of-bufferization/86122#post_11)
-- [[RFC][Modules] Support simple C++20 modules use from the Clang driver without a build system](https://discourse.llvm.org/t/rfc-modules-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/86456#post_6)
 <!-- DISCOURSE-LLVM:END -->
