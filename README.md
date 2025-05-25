@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question on rvv builtin and policies](https://discourse.llvm.org/t/question-on-rvv-builtin-and-policies/86463#post_12)
 - [Issues with including files at the end of header files](https://discourse.llvm.org/t/issues-with-including-files-at-the-end-of-header-files/86517#post_3)
 - [Question on rvv builtin and policies](https://discourse.llvm.org/t/question-on-rvv-builtin-and-policies/86463#post_11)
 - [Issues with including files at the end of header files](https://discourse.llvm.org/t/issues-with-including-files-at-the-end-of-header-files/86517#post_2)
 - [Issues with including files at the end of header files](https://discourse.llvm.org/t/issues-with-including-files-at-the-end-of-header-files/86517#post_1)
-- [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_15)
 <!-- DISCOURSE-LLVM:END -->
