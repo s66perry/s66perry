@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_34)
-- [Question on rvv builtin and policies](https://discourse.llvm.org/t/question-on-rvv-builtin-and-policies/86463#post_13)
-- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_33)
-- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_32)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507#post_2)
+- [Recommended open-source 32-bit RISC-V core for validating custom LLVM backend extensions?](https://discourse.llvm.org/t/recommended-open-source-32-bit-risc-v-core-for-validating-custom-llvm-backend-extensions/86523#post_2)
+- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_3)
+- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_2)
+- [[Announcement] Failures on Github Actions Based Premerge Testing Will Soon be Treated as Real](https://discourse.llvm.org/t/announcement-failures-on-github-actions-based-premerge-testing-will-soon-be-treated-as-real/86542#post_1)
+- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_1)
 <!-- DISCOURSE-LLVM:END -->
