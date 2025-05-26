@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help with my account](https://discourse.llvm.org/t/help-with-my-account/86549#post_1)
+- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_8)
+- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_7)
+- [Another question - how to disable a given message across a project?](https://discourse.llvm.org/t/another-question-how-to-disable-a-given-message-across-a-project/86546#post_1)
 - [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_6)
-- [LLVM Weekly - #595, May 26th 2025](https://discourse.llvm.org/t/llvm-weekly-595-may-26th-2025/86545#post_1)
-- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_5)
-- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_4)
-- [Recommended open-source 32-bit RISC-V core for validating custom LLVM backend extensions?](https://discourse.llvm.org/t/recommended-open-source-32-bit-risc-v-core-for-validating-custom-llvm-backend-extensions/86523#post_2)
 <!-- DISCOURSE-LLVM:END -->
