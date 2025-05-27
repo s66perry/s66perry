@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Frontend support for OpenMP canonical loops](https://discourse.llvm.org/t/frontend-support-for-openmp-canonical-loops/86561#post_2)
-- [Frontend support for OpenMP canonical loops](https://discourse.llvm.org/t/frontend-support-for-openmp-canonical-loops/86561#post_1)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_4)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=2#post_31)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_3)
+- [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493#post_16)
+- [[RFC] Supporting Sized Target Extension Types in Vector](https://discourse.llvm.org/t/rfc-supporting-sized-target-extension-types-in-vector/86431#post_6)
+- [[RFC] Supporting Sized Target Extension Types in Vector](https://discourse.llvm.org/t/rfc-supporting-sized-target-extension-types-in-vector/86431#post_5)
+- [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493#post_15)
+- [Tosa.Resize verifier ranked tensor error](https://discourse.llvm.org/t/tosa-resize-verifier-ranked-tensor-error/86562#post_1)
 <!-- DISCOURSE-LLVM:END -->
