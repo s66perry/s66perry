@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Tosa.Mul wrong output type assertion crash](https://discourse.llvm.org/t/tosa-mul-wrong-output-type-assertion-crash/86558#post_1)
-- [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468?page=2#post_23)
-- [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468?page=2#post_22)
-- [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493#post_14)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_1)
+- [Frontend support for OpenMP canonical loops](https://discourse.llvm.org/t/frontend-support-for-openmp-canonical-loops/86561#post_2)
+- [Frontend support for OpenMP canonical loops](https://discourse.llvm.org/t/frontend-support-for-openmp-canonical-loops/86561#post_1)
+- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_4)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=2#post_31)
+- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_3)
 <!-- DISCOURSE-LLVM:END -->
