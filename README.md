@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434?page=2#post_28)
+- [Stable hashing of MLIR types](https://discourse.llvm.org/t/stable-hashing-of-mlir-types/86535#post_9)
+- [Clarifying the semantics of LTO post-link optimization](https://discourse.llvm.org/t/clarifying-the-semantics-of-lto-post-link-optimization/86396#post_3)
+- [Lowering of quant operators](https://discourse.llvm.org/t/lowering-of-quant-operators/86388#post_3)
 - [Crash due to stale srcloc metadata in IR](https://discourse.llvm.org/t/crash-due-to-stale-srcloc-metadata-in-ir/86568#post_1)
-- [Non-deterministic module order in lldb](https://discourse.llvm.org/t/non-deterministic-module-order-in-lldb/86446#post_16)
-- [Preventing Exception Handling code from getting deleted](https://discourse.llvm.org/t/preventing-exception-handling-code-from-getting-deleted/86519#post_4)
-- [How to suppress specific notes?](https://discourse.llvm.org/t/how-to-suppress-specific-notes/86541#post_9)
-- [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493#post_19)
 <!-- DISCOURSE-LLVM:END -->
