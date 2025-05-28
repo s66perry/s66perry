@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][llvm] Proposing llvm.loop.vectorize.reassociation.enable metadata](https://discourse.llvm.org/t/rfc-llvm-proposing-llvm-loop-vectorize-reassociation-enable-metadata/86573#post_2)
-- [Optimistic Inter-procedural Dataflow Analysis](https://discourse.llvm.org/t/optimistic-inter-procedural-dataflow-analysis/86567#post_4)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_6)
-- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=3#post_53)
-- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=3#post_52)
+- [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_5)
+- [Crash due to stale srcloc metadata in IR](https://discourse.llvm.org/t/crash-due-to-stale-srcloc-metadata-in-ir/86568#post_3)
+- [Compiler crash on variadic functions on mips3](https://discourse.llvm.org/t/compiler-crash-on-variadic-functions-on-mips3/75013#post_2)
+- [Libomp/libomptarget.so locations in Clang 19+](https://discourse.llvm.org/t/libomp-libomptarget-so-locations-in-clang-19/86580#post_3)
+- [Libomp/libomptarget.so locations in Clang 19+](https://discourse.llvm.org/t/libomp-libomptarget-so-locations-in-clang-19/86580#post_2)
 <!-- DISCOURSE-LLVM:END -->
