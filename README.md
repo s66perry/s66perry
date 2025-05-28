@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Inline hlfir.copy_in for trivial types](https://discourse.llvm.org/t/rfc-inline-hlfir-copy-in-for-trivial-types/86205?page=2#post_30)
-- [Adding New-Ftime-Report Option](https://discourse.llvm.org/t/adding-new-ftime-report-option/86474#post_6)
-- [Tosa.Resize verifier ranked tensor error](https://discourse.llvm.org/t/tosa-resize-verifier-ranked-tensor-error/86562#post_4)
-- [Add --gcc-install-dir=, deprecate --gcc-toolchain=, and remove GCC_INSTALL_PREFIX](https://discourse.llvm.org/t/add-gcc-install-dir-deprecate-gcc-toolchain-and-remove-gcc-install-prefix/65091?page=2#post_28)
-- [Tosa.Resize verifier ranked tensor error](https://discourse.llvm.org/t/tosa-resize-verifier-ranked-tensor-error/86562#post_3)
+- [[RFC] Fix Loop Transformations to Preserve Block Frequencies](https://discourse.llvm.org/t/rfc-fix-loop-transformations-to-preserve-block-frequencies/85785?page=3#post_52)
+- [Optimistic Inter-procedural Dataflow Analysis](https://discourse.llvm.org/t/optimistic-inter-procedural-dataflow-analysis/86567#post_3)
+- [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_4)
+- [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_3)
+- [Libomp/libomptarget.so locations in Clang 19+](https://discourse.llvm.org/t/libomp-libomptarget-so-locations-in-clang-19/86580#post_1)
 <!-- DISCOURSE-LLVM:END -->
