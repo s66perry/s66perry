@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493?page=2#post_23)
-- [Proposal: Adding Support for DW_OP_implicit_pointer in LLDB](https://discourse.llvm.org/t/proposal-adding-support-for-dw-op-implicit-pointer-in-lldb/86578#post_3)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=2#post_33)
-- [[mlir][vector distribution] WarpOpScfForOp fails when scf.for has results that are unused](https://discourse.llvm.org/t/mlir-vector-distribution-warpopscfforop-fails-when-scf-for-has-results-that-are-unused/86390#post_3)
-- [[RFC] loop vectorization of &quot;compress store&quot;/&quot;expand load&quot; patterns](https://discourse.llvm.org/t/rfc-loop-vectorization-of-compress-store-expand-load-patterns/86442#post_3)
+- [Crash due to stale srcloc metadata in IR](https://discourse.llvm.org/t/crash-due-to-stale-srcloc-metadata-in-ir/86568#post_4)
+- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_17)
+- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_16)
+- [Proposal: Adding Support for DW_OP_implicit_pointer in LLDB](https://discourse.llvm.org/t/proposal-adding-support-for-dw-op-implicit-pointer-in-lldb/86578#post_5)
+- [Proposal: Adding Support for DW_OP_implicit_pointer in LLDB](https://discourse.llvm.org/t/proposal-adding-support-for-dw-op-implicit-pointer-in-lldb/86578#post_4)
 <!-- DISCOURSE-LLVM:END -->
