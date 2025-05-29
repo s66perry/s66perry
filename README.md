@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Debug info for coroutine suspension locations - take 2](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations-take-2/86606#post_1)
-- [[RFC] Adding a generalized “config” section to MLIR files](https://discourse.llvm.org/t/rfc-adding-a-generalized-config-section-to-mlir-files/62867?page=3#post_42)
-- [[RFC] loop vectorization of &quot;compress store&quot;/&quot;expand load&quot; patterns](https://discourse.llvm.org/t/rfc-loop-vectorization-of-compress-store-expand-load-patterns/86442#post_4)
-- [Number of operands in llvm.global.annotations entry](https://discourse.llvm.org/t/number-of-operands-in-llvm-global-annotations-entry/86575#post_2)
-- [[RFC] Type checking to python code](https://discourse.llvm.org/t/rfc-type-checking-to-python-code/86605#post_1)
+- [[Solved] Clang: Build the C Compiler Only without Building the C++ Compiler?](https://discourse.llvm.org/t/solved-clang-build-the-c-compiler-only-without-building-the-c-compiler/86118#post_7)
+- [Help with my account](https://discourse.llvm.org/t/help-with-my-account/86549#post_3)
+- [[RFC] Execute-only code support for runtime libraries on AArch64](https://discourse.llvm.org/t/rfc-execute-only-code-support-for-runtime-libraries-on-aarch64/86180#post_4)
+- [[RFC] Requantization in quant dialect](https://discourse.llvm.org/t/rfc-requantization-in-quant-dialect/86607#post_1)
+- [Help with my account](https://discourse.llvm.org/t/help-with-my-account/86549#post_2)
 <!-- DISCOURSE-LLVM:END -->
