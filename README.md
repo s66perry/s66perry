@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there a nicer way to delete an aligned new?](https://discourse.llvm.org/t/is-there-a-nicer-way-to-delete-an-aligned-new/86634#post_3)
 - [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_18)
 - [Is there a nicer way to delete an aligned new?](https://discourse.llvm.org/t/is-there-a-nicer-way-to-delete-an-aligned-new/86634#post_2)
 - [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_17)
 - [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_16)
-- [Is there a nicer way to delete an aligned new?](https://discourse.llvm.org/t/is-there-a-nicer-way-to-delete-an-aligned-new/86634#post_1)
 <!-- DISCOURSE-LLVM:END -->
