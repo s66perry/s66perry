@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Best way to implement a fully custom optimization + codegen pipeline using NPM](https://discourse.llvm.org/t/best-way-to-implement-a-fully-custom-optimization-codegen-pipeline-using-npm/86621#post_2)
+- [Making -fsave-main-program a default behavior](https://discourse.llvm.org/t/making-fsave-main-program-a-default-behavior/86021#post_4)
+- [Best way to implement a fully custom optimization + codegen pipeline using NPM](https://discourse.llvm.org/t/best-way-to-implement-a-fully-custom-optimization-codegen-pipeline-using-npm/86621#post_1)
+- [DialectResourceBlobManager: add API to access blobMap](https://discourse.llvm.org/t/dialectresourceblobmanager-add-api-to-access-blobmap/86620#post_1)
 - [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_12)
-- [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_10)
-- [Support for DW_TAG_label in LLDB](https://discourse.llvm.org/t/support-for-dw-tag-label-in-lldb/86615#post_1)
-- [[RFC] Type checking to python code](https://discourse.llvm.org/t/rfc-type-checking-to-python-code/86605#post_4)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556#post_11)
 <!-- DISCOURSE-LLVM:END -->
