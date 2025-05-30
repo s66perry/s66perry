@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[DWARF][DWP] For binaries build with split dwarf, best practice for distribuitng dwps?](https://discourse.llvm.org/t/dwarf-dwp-for-binaries-build-with-split-dwarf-best-practice-for-distribuitng-dwps/85579#post_10)
+- [[DWARF][DWP] For binaries build with split dwarf, best practice for distribuitng dwps?](https://discourse.llvm.org/t/dwarf-dwp-for-binaries-build-with-split-dwarf-best-practice-for-distribuitng-dwps/85579#post_9)
+- [[DWARF][DWP] For binaries build with split dwarf, best practice for distribuitng dwps?](https://discourse.llvm.org/t/dwarf-dwp-for-binaries-build-with-split-dwarf-best-practice-for-distribuitng-dwps/85579#post_8)
 - [Making -fsave-main-program a default behavior](https://discourse.llvm.org/t/making-fsave-main-program-a-default-behavior/86021#post_3)
 - [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_9)
-- [Proposal: Adding Support for DW_OP_implicit_pointer in LLDB](https://discourse.llvm.org/t/proposal-adding-support-for-dw-op-implicit-pointer-in-lldb/86578#post_8)
-- [Proposal: Adding Support for DW_OP_implicit_pointer in LLDB](https://discourse.llvm.org/t/proposal-adding-support-for-dw-op-implicit-pointer-in-lldb/86578#post_7)
-- [MLIR C/C++ Frontend Working Group [Mon, June 16th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-june-16th/86610#post_1)
 <!-- DISCOURSE-LLVM:END -->
