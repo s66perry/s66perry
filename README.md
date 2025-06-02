@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Does anyone know why the breakpoint is unresolved in gdb-remote debug?](https://discourse.llvm.org/t/does-anyone-know-why-the-breakpoint-is-unresolved-in-gdb-remote-debug/86647#post_3)
-- [Another guide on dataflow analysis in MLIR](https://discourse.llvm.org/t/another-guide-on-dataflow-analysis-in-mlir/86653#post_1)
-- [Vectorizing min/max reduction pattern](https://discourse.llvm.org/t/vectorizing-min-max-reduction-pattern/85766#post_4)
-- [Why clang generate &#39;nsw add&#39; for this sum function](https://discourse.llvm.org/t/why-clang-generate-nsw-add-for-this-sum-function/86652#post_2)
-- [Why clang generate &#39;nsw add&#39; for this sum function](https://discourse.llvm.org/t/why-clang-generate-nsw-add-for-this-sum-function/86652#post_1)
+- [Difficulty building clang from 20.1.6 for armv8-unknown-unknown-eabihf-elf](https://discourse.llvm.org/t/difficulty-building-clang-from-20-1-6-for-armv8-unknown-unknown-eabihf-elf/86633#post_2)
+- [Why clang generate &#39;nsw add&#39; for this sum function](https://discourse.llvm.org/t/why-clang-generate-nsw-add-for-this-sum-function/86652#post_3)
+- [[RFC] Improving the performance of `Fortran::runtime::Assign` for derived types](https://discourse.llvm.org/t/rfc-improving-the-performance-of-fortran-assign-for-derived-types/84906#post_11)
+- [GPU Offloading Docker Image](https://discourse.llvm.org/t/gpu-offloading-docker-image/86656#post_1)
+- [DialectResourceBlobManager: add API to access blobMap](https://discourse.llvm.org/t/dialectresourceblobmanager-add-api-to-access-blobmap/86620#post_2)
 <!-- DISCOURSE-LLVM:END -->
