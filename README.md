@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Removing support for delayed typo correction](https://discourse.llvm.org/t/rfc-removing-support-for-delayed-typo-correction/86631#post_6)
-- [[clang-sa] Macro definitions of header TUs not included in the plist file](https://discourse.llvm.org/t/clang-sa-macro-definitions-of-header-tus-not-included-in-the-plist-file/86661#post_2)
-- [SLP and VPlan](https://discourse.llvm.org/t/slp-and-vplan/86663#post_1)
-- [Does anyone know why the breakpoint is unresolved in gdb-remote debug?](https://discourse.llvm.org/t/does-anyone-know-why-the-breakpoint-is-unresolved-in-gdb-remote-debug/86647#post_5)
-- [[RFC] Removing support for delayed typo correction](https://discourse.llvm.org/t/rfc-removing-support-for-delayed-typo-correction/86631#post_5)
+- [How to properly use opt for LLVM IR transformation and optimization?](https://discourse.llvm.org/t/how-to-properly-use-opt-for-llvm-ir-transformation-and-optimization/86608#post_5)
+- [Does anyone know why the breakpoint is unresolved in gdb-remote debug?](https://discourse.llvm.org/t/does-anyone-know-why-the-breakpoint-is-unresolved-in-gdb-remote-debug/86647#post_6)
+- [TPDE-LLVM: 10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664#post_3)
+- [GPU Offloading Docker Image](https://discourse.llvm.org/t/gpu-offloading-docker-image/86656#post_9)
+- [TPDE-LLVM: 10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664#post_2)
 <!-- DISCOURSE-LLVM:END -->
