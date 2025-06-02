@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_7)
 - [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_6)
 - [Does anyone know why the breakpoint is unresolved in gdb-remote debug?](https://discourse.llvm.org/t/does-anyone-know-why-the-breakpoint-is-unresolved-in-gdb-remote-debug/86647#post_2)
 - [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_5)
 - [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_4)
-- [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_3)
 <!-- DISCOURSE-LLVM:END -->
