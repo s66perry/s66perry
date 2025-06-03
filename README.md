@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GitHub native CI broken? BuildKite passes](https://discourse.llvm.org/t/github-native-ci-broken-buildkite-passes/86666#post_5)
+- [GitHub native CI broken? BuildKite passes](https://discourse.llvm.org/t/github-native-ci-broken-buildkite-passes/86666#post_4)
+- [Difficulty building clang from 20.1.6 for armv8-unknown-unknown-eabihf-elf](https://discourse.llvm.org/t/difficulty-building-clang-from-20-1-6-for-armv8-unknown-unknown-eabihf-elf/86633#post_5)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=2#post_36)
 - [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_5)
-- [Missing declarations in header files](https://discourse.llvm.org/t/missing-declarations-in-header-files/86678#post_5)
-- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_4)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507#post_7)
 <!-- DISCOURSE-LLVM:END -->
