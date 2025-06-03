@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Need a maintainer for typo correction](https://discourse.llvm.org/t/need-a-maintainer-for-typo-correction/86360#post_5)
+- [Missing declarations in header files](https://discourse.llvm.org/t/missing-declarations-in-header-files/86678#post_3)
+- [Vectorizing min/max reduction pattern](https://discourse.llvm.org/t/vectorizing-min-max-reduction-pattern/85766#post_5)
+- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=3#post_50)
 - [Missing declarations in header files](https://discourse.llvm.org/t/missing-declarations-in-header-files/86678#post_2)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_24)
-- [[RFC] Debug info for coroutine suspension locations - take 2](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations-take-2/86606#post_7)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_23)
-- [[clang-sa] Macro definitions of header TUs not included in the plist file](https://discourse.llvm.org/t/clang-sa-macro-definitions-of-header-tus-not-included-in-the-plist-file/86661#post_4)
 <!-- DISCOURSE-LLVM:END -->
