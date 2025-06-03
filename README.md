@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [GitHub native CI broken? BuildKite passes](https://discourse.llvm.org/t/github-native-ci-broken-buildkite-passes/86666#post_5)
-- [GitHub native CI broken? BuildKite passes](https://discourse.llvm.org/t/github-native-ci-broken-buildkite-passes/86666#post_4)
-- [Difficulty building clang from 20.1.6 for armv8-unknown-unknown-eabihf-elf](https://discourse.llvm.org/t/difficulty-building-clang-from-20-1-6-for-armv8-unknown-unknown-eabihf-elf/86633#post_5)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=2#post_36)
-- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_5)
+- [2025 LLVM Developers&#39; Meeting - Call for Talk Proposals](https://discourse.llvm.org/t/2025-llvm-developers-meeting-call-for-talk-proposals/86685#post_1)
+- [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_15)
+- [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_14)
+- [[RFC] Support fetching source files with Debuginfod](https://discourse.llvm.org/t/rfc-support-fetching-source-files-with-debuginfod/86579#post_13)
+- [Difficulty building clang from 20.1.6 for armv8-unknown-unknown-eabihf-elf](https://discourse.llvm.org/t/difficulty-building-clang-from-20-1-6-for-armv8-unknown-unknown-eabihf-elf/86633#post_6)
 <!-- DISCOURSE-LLVM:END -->
