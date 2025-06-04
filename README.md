@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reforming the Debugging Round Table&lpar;s&rpar; from EuroLLVM&#39;25](https://discourse.llvm.org/t/reforming-the-debugging-round-table-s-from-eurollvm25/86696#post_1)
+- [Why does MLIR use ValueRange instead of ArrayRef&lt;Value&gt;?](https://discourse.llvm.org/t/why-does-mlir-use-valuerange-instead-of-arrayref-value/86695#post_1)
+- [[DWARF][DWP] Merging dwo files from different DWARF versions](https://discourse.llvm.org/t/dwarf-dwp-merging-dwo-files-from-different-dwarf-versions/86693#post_1)
+- [Possible Matrix Multiplication Mistake in Toy Language Tutorial?](https://discourse.llvm.org/t/possible-matrix-multiplication-mistake-in-toy-language-tutorial/86692#post_1)
 - [Can LLDB save coredumps that are compatible with GDB?](https://discourse.llvm.org/t/can-lldb-save-coredumps-that-are-compatible-with-gdb/86670#post_7)
-- [Difficulty building clang from 20.1.6 for armv8-unknown-unknown-eabihf-elf](https://discourse.llvm.org/t/difficulty-building-clang-from-20-1-6-for-armv8-unknown-unknown-eabihf-elf/86633#post_8)
-- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_9)
-- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_8)
-- [Exploring the Value of Annotated Semantic Comments in objdump Output](https://discourse.llvm.org/t/exploring-the-value-of-annotated-semantic-comments-in-objdump-output/86676#post_6)
 <!-- DISCOURSE-LLVM:END -->
