@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can LLDB save coredumps that are compatible with GDB?](https://discourse.llvm.org/t/can-lldb-save-coredumps-that-are-compatible-with-gdb/86670#post_7)
+- [Difficulty building clang from 20.1.6 for armv8-unknown-unknown-eabihf-elf](https://discourse.llvm.org/t/difficulty-building-clang-from-20-1-6-for-armv8-unknown-unknown-eabihf-elf/86633#post_8)
 - [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_9)
 - [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_8)
 - [Exploring the Value of Annotated Semantic Comments in objdump Output](https://discourse.llvm.org/t/exploring-the-value-of-annotated-semantic-comments-in-objdump-output/86676#post_6)
-- [Difficulty building clang from 20.1.6 for armv8-unknown-unknown-eabihf-elf](https://discourse.llvm.org/t/difficulty-building-clang-from-20-1-6-for-armv8-unknown-unknown-eabihf-elf/86633#post_7)
-- [Exploring the Value of Annotated Semantic Comments in objdump Output](https://discourse.llvm.org/t/exploring-the-value-of-annotated-semantic-comments-in-objdump-output/86676#post_5)
 <!-- DISCOURSE-LLVM:END -->
