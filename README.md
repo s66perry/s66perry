@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705#post_1)
+- [Including location information when calling `reportFatalUsageError`](https://discourse.llvm.org/t/including-location-information-when-calling-reportfatalusageerror/86704#post_2)
+- [Including location information when calling `reportFatalUsageError`](https://discourse.llvm.org/t/including-location-information-when-calling-reportfatalusageerror/86704#post_1)
+- [CANCELLED RISC-V LLVM sync-up call June 5th 2025](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-june-5th-2025/86703#post_1)
 - [[RFC] Constant Time Execution Guarantees in LLVM](https://discourse.llvm.org/t/rfc-constant-time-execution-guarantees-in-llvm/86700#post_3)
-- [Guidance for what Patterns can/should be upstreamed](https://discourse.llvm.org/t/guidance-for-what-patterns-can-should-be-upstreamed/86698#post_3)
-- [[DWARF][DWP] Merging dwo files from different DWARF versions](https://discourse.llvm.org/t/dwarf-dwp-merging-dwo-files-from-different-dwarf-versions/86693#post_2)
-- [GitHub native CI broken? BuildKite passes](https://discourse.llvm.org/t/github-native-ci-broken-buildkite-passes/86666#post_12)
-- [Can LLDB save coredumps that are compatible with GDB?](https://discourse.llvm.org/t/can-lldb-save-coredumps-that-are-compatible-with-gdb/86670#post_8)
 <!-- DISCOURSE-LLVM:END -->
