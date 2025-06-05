@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Role of `ProgramPointTag` in the static analyzer](https://discourse.llvm.org/t/role-of-programpointtag-in-the-static-analyzer/86680#post_4)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_47)
-- [What tag to use for the Clang Static Analyzer changes](https://discourse.llvm.org/t/what-tag-to-use-for-the-clang-static-analyzer-changes/86718#post_6)
-- [What tag to use for the Clang Static Analyzer changes](https://discourse.llvm.org/t/what-tag-to-use-for-the-clang-static-analyzer-changes/86718#post_5)
-- [Optimistic Inter-procedural Dataflow Analysis](https://discourse.llvm.org/t/optimistic-inter-procedural-dataflow-analysis/86567#post_7)
+- [[[maybe-unused]] vs __attribute__&lpar;&lpar;unused&rpar;&rpar; vs &lpar;void&rpar; var for assert variables](https://discourse.llvm.org/t/maybe-unused-vs-attribute-unused-vs-void-var-for-assert-variables/64212?page=2#post_37)
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705?page=2#post_28)
+- [Role of `ProgramPointTag` in the static analyzer](https://discourse.llvm.org/t/role-of-programpointtag-in-the-static-analyzer/86680#post_5)
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705?page=2#post_27)
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
