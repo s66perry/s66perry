@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [DPS ops in tile&amp;fuse](https://discourse.llvm.org/t/dps-ops-in-tile-fuse/86702#post_4)
 - [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705#post_17)
 - [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705#post_16)
 - [Guidance for what Patterns can/should be upstreamed](https://discourse.llvm.org/t/guidance-for-what-patterns-can-should-be-upstreamed/86698#post_17)
 - [Which parameters to use for clang-format to leave comments alone?](https://discourse.llvm.org/t/which-parameters-to-use-for-clang-format-to-leave-comments-alone/86687#post_3)
-- [Guidance for what Patterns can/should be upstreamed](https://discourse.llvm.org/t/guidance-for-what-patterns-can-should-be-upstreamed/86698#post_16)
 <!-- DISCOURSE-LLVM:END -->
