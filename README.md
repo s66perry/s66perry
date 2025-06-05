@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[DWARF][DWP] Merging dwo files from different DWARF versions](https://discourse.llvm.org/t/dwarf-dwp-merging-dwo-files-from-different-dwarf-versions/86693#post_3)
-- [Compiler Eng / Quantum Machines / Remote](https://discourse.llvm.org/t/compiler-eng-quantum-machines-remote/86710#post_1)
-- [Thinlto &amp; LTO mix](https://discourse.llvm.org/t/thinlto-lto-mix/86709#post_1)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_42)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_41)
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_1)
+- [Common property for several operations](https://discourse.llvm.org/t/common-property-for-several-operations/86713#post_1)
+- [Building LLVM on older systems with a non-system compiler](https://discourse.llvm.org/t/building-llvm-on-older-systems-with-a-non-system-compiler/86689#post_3)
+- [Guidance for what Patterns can/should be upstreamed](https://discourse.llvm.org/t/guidance-for-what-patterns-can-should-be-upstreamed/86698#post_18)
+- [Unexpected computation removal by --linalg-fold-unit-extent-dims pass](https://discourse.llvm.org/t/unexpected-computation-removal-by-linalg-fold-unit-extent-dims-pass/86136#post_10)
 <!-- DISCOURSE-LLVM:END -->
