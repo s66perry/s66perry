@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_44)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_43)
-- [What tag to use for the Clang Static Analyzer changes](https://discourse.llvm.org/t/what-tag-to-use-for-the-clang-static-analyzer-changes/86718#post_2)
-- [Frontend support for OpenMP canonical loops](https://discourse.llvm.org/t/frontend-support-for-openmp-canonical-loops/86561#post_8)
-- [SLP and VPlan](https://discourse.llvm.org/t/slp-and-vplan/86663#post_2)
+- [Guidance for what Patterns can/should be upstreamed](https://discourse.llvm.org/t/guidance-for-what-patterns-can-should-be-upstreamed/86698#post_20)
+- [What tag to use for the Clang Static Analyzer changes](https://discourse.llvm.org/t/what-tag-to-use-for-the-clang-static-analyzer-changes/86718#post_3)
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705?page=2#post_22)
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705?page=2#post_21)
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705#post_20)
 <!-- DISCOURSE-LLVM:END -->
