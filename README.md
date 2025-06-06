@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_5)
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_4)
 - [Proposal: Adding Support for DW_OP_implicit_pointer in LLDB](https://discourse.llvm.org/t/proposal-adding-support-for-dw-op-implicit-pointer-in-lldb/86578#post_9)
 - [Missing declarations in header files](https://discourse.llvm.org/t/missing-declarations-in-header-files/86678#post_8)
 - [Alternative to casting between pointers and int&#39;s?](https://discourse.llvm.org/t/alternative-to-casting-between-pointers-and-ints/86706#post_3)
-- [Help needed in writing instcombine optimization](https://discourse.llvm.org/t/help-needed-in-writing-instcombine-optimization/86722#post_2)
-- [2025 AsiaLLVM Agenda](https://discourse.llvm.org/t/2025-asiallvm-agenda/86081#post_2)
 <!-- DISCOURSE-LLVM:END -->
