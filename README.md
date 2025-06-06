@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705?page=2#post_29)
-- [[RFC] Clarify the behavior of FP operations on bit strings with nsz flag](https://discourse.llvm.org/t/rfc-clarify-the-behavior-of-fp-operations-on-bit-strings-with-nsz-flag/85981#post_6)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_49)
-- [Vector dialect fma lowering to llvm.intr.fmuladd rather than llvm.intr.fma](https://discourse.llvm.org/t/vector-dialect-fma-lowering-to-llvm-intr-fmuladd-rather-than-llvm-intr-fma/86719#post_4)
-- [Prepreocessor: Embed Parameter Ordering](https://discourse.llvm.org/t/prepreocessor-embed-parameter-ordering/86724#post_5)
+- [Error: undefined symbol: ___chkstk_ms](https://discourse.llvm.org/t/error-undefined-symbol-chkstk-ms/86707#post_9)
+- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_10)
+- [Prepreocessor: Embed Parameter Ordering](https://discourse.llvm.org/t/prepreocessor-embed-parameter-ordering/86724#post_6)
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_7)
+- [Error: undefined symbol: ___chkstk_ms](https://discourse.llvm.org/t/error-undefined-symbol-chkstk-ms/86707#post_8)
 <!-- DISCOURSE-LLVM:END -->
