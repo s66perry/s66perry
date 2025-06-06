@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Error: undefined symbol: ___chkstk_ms](https://discourse.llvm.org/t/error-undefined-symbol-chkstk-ms/86707#post_10)
-- [Prepreocessor: Embed Parameter Ordering](https://discourse.llvm.org/t/prepreocessor-embed-parameter-ordering/86724#post_7)
-- [Role of `ProgramPointTag` in the static analyzer](https://discourse.llvm.org/t/role-of-programpointtag-in-the-static-analyzer/86680#post_6)
-- [Error: undefined symbol: ___chkstk_ms](https://discourse.llvm.org/t/error-undefined-symbol-chkstk-ms/86707#post_9)
-- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_10)
+- [Vector dialect fma lowering to llvm.intr.fmuladd rather than llvm.intr.fma](https://discourse.llvm.org/t/vector-dialect-fma-lowering-to-llvm-intr-fmuladd-rather-than-llvm-intr-fma/86719#post_7)
+- [Proposal: Adding Support for DW_OP_implicit_pointer in LLDB](https://discourse.llvm.org/t/proposal-adding-support-for-dw-op-implicit-pointer-in-lldb/86578#post_11)
+- [Vector dialect fma lowering to llvm.intr.fmuladd rather than llvm.intr.fma](https://discourse.llvm.org/t/vector-dialect-fma-lowering-to-llvm-intr-fmuladd-rather-than-llvm-intr-fma/86719#post_6)
+- [Error: undefined symbol: ___chkstk_ms](https://discourse.llvm.org/t/error-undefined-symbol-chkstk-ms/86707#post_11)
+- [Vector dialect fma lowering to llvm.intr.fmuladd rather than llvm.intr.fma](https://discourse.llvm.org/t/vector-dialect-fma-lowering-to-llvm-intr-fmuladd-rather-than-llvm-intr-fma/86719#post_5)
 <!-- DISCOURSE-LLVM:END -->
