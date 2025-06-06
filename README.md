@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Timers] Ideas for truncating the output of `-ftime-report` &lpar;and `-ftime-report-json`&rpar;](https://discourse.llvm.org/t/timers-ideas-for-truncating-the-output-of-ftime-report-and-ftime-report-json/86723#post_2)
 - [Error: undefined symbol: ___chkstk_ms](https://discourse.llvm.org/t/error-undefined-symbol-chkstk-ms/86707#post_6)
 - [[RFC] Improving the performance of `Fortran::runtime::Assign` for derived types](https://discourse.llvm.org/t/rfc-improving-the-performance-of-fortran-assign-for-derived-types/84906#post_12)
 - [[RFC] Changing the loop pipeliner prologue/epilogue generation](https://discourse.llvm.org/t/rfc-changing-the-loop-pipeliner-prologue-epilogue-generation/86378#post_5)
 - [Vector dialect fma lowering to llvm.intr.fmuladd rather than llvm.intr.fma](https://discourse.llvm.org/t/vector-dialect-fma-lowering-to-llvm-intr-fmuladd-rather-than-llvm-intr-fma/86719#post_3)
-- [Some thoughts about `ValueBoundsConstraintSet`](https://discourse.llvm.org/t/some-thoughts-about-valueboundsconstraintset/84055#post_12)
 <!-- DISCOURSE-LLVM:END -->
