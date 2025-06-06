@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Changing the loop pipeliner prologue/epilogue generation](https://discourse.llvm.org/t/rfc-changing-the-loop-pipeliner-prologue-epilogue-generation/86378#post_5)
+- [Vector dialect fma lowering to llvm.intr.fmuladd rather than llvm.intr.fma](https://discourse.llvm.org/t/vector-dialect-fma-lowering-to-llvm-intr-fmuladd-rather-than-llvm-intr-fma/86719#post_3)
 - [Some thoughts about `ValueBoundsConstraintSet`](https://discourse.llvm.org/t/some-thoughts-about-valueboundsconstraintset/84055#post_12)
 - [Compile Xcode toolchain from source](https://discourse.llvm.org/t/compile-xcode-toolchain-from-source/86726#post_4)
 - [Compile Xcode toolchain from source](https://discourse.llvm.org/t/compile-xcode-toolchain-from-source/86726#post_3)
-- [Compile Xcode toolchain from source](https://discourse.llvm.org/t/compile-xcode-toolchain-from-source/86726#post_2)
-- [Alternative to casting between pointers and int&#39;s?](https://discourse.llvm.org/t/alternative-to-casting-between-pointers-and-ints/86706#post_2)
 <!-- DISCOURSE-LLVM:END -->
