@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compile Xcode toolchain from source](https://discourse.llvm.org/t/compile-xcode-toolchain-from-source/86726#post_4)
+- [Compile Xcode toolchain from source](https://discourse.llvm.org/t/compile-xcode-toolchain-from-source/86726#post_3)
+- [Compile Xcode toolchain from source](https://discourse.llvm.org/t/compile-xcode-toolchain-from-source/86726#post_2)
 - [Alternative to casting between pointers and int&#39;s?](https://discourse.llvm.org/t/alternative-to-casting-between-pointers-and-ints/86706#post_2)
 - [Compile Xcode toolchain from source](https://discourse.llvm.org/t/compile-xcode-toolchain-from-source/86726#post_1)
-- [Prepreocessor: Embed Parameter Ordering](https://discourse.llvm.org/t/prepreocessor-embed-parameter-ordering/86724#post_4)
-- [[RFC] Supporting Sized Target Extension Types in Vector](https://discourse.llvm.org/t/rfc-supporting-sized-target-extension-types-in-vector/86431#post_8)
-- [[RFC] Supporting Sized Target Extension Types in Vector](https://discourse.llvm.org/t/rfc-supporting-sized-target-extension-types-in-vector/86431#post_7)
 <!-- DISCOURSE-LLVM:END -->
