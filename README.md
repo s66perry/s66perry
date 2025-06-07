@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Size of ISelLowering.cpp files](https://discourse.llvm.org/t/size-of-isellowering-cpp-files/86739#post_3)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_56)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_55)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_54)
 - [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_10)
-- [Vector dialect fma lowering to llvm.intr.fmuladd rather than llvm.intr.fma](https://discourse.llvm.org/t/vector-dialect-fma-lowering-to-llvm-intr-fmuladd-rather-than-llvm-intr-fma/86719#post_10)
 <!-- DISCOURSE-LLVM:END -->
