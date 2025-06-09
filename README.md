@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_10)
-- [[RFC] Type checking to python code](https://discourse.llvm.org/t/rfc-type-checking-to-python-code/86605#post_9)
-- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021#post_13)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507#post_10)
-- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_11)
+- [How do I build compiler-rt &lpar;and others&rpar;](https://discourse.llvm.org/t/how-do-i-build-compiler-rt-and-others/86757#post_4)
+- [MLIR Open Meeting: rank-0 vectors](https://discourse.llvm.org/t/mlir-open-meeting-rank-0-vectors/86769#post_3)
+- [MLIR Open Meeting: rank-0 vectors](https://discourse.llvm.org/t/mlir-open-meeting-rank-0-vectors/86769#post_2)
+- [MLIR dead code analysis](https://discourse.llvm.org/t/mlir-dead-code-analysis/67568#post_11)
+- [MLIR Open Meeting: rank-0 vectors](https://discourse.llvm.org/t/mlir-open-meeting-rank-0-vectors/86769#post_1)
 <!-- DISCOURSE-LLVM:END -->
