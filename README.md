@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Project Widen Your Char-izons &lpar;Adding widechar support to LLVM-libc&rpar;](https://discourse.llvm.org/t/rfc-project-widen-your-char-izons-adding-widechar-support-to-llvm-libc/86777#post_3)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_57)
+- [[RFC] Scalable Vector Constants Splats](https://discourse.llvm.org/t/rfc-scalable-vector-constants-splats/74789#post_8)
+- [[RFC] Migrating libc++ premerge testing to new LLVM premerge testing infrastructure](https://discourse.llvm.org/t/rfc-migrating-libc-premerge-testing-to-new-llvm-premerge-testing-infrastructure/86747#post_7)
 - [[RFC] Enable Use of MLIR `tensor` Type with `SPV_ARM_tensors` Extension in SPIR-V Dialect](https://discourse.llvm.org/t/rfc-enable-use-of-mlir-tensor-type-with-spv-arm-tensors-extension-in-spir-v-dialect/86789#post_3)
-- [[RFC] Enable Use of MLIR `tensor` Type with `SPV_ARM_tensors` Extension in SPIR-V Dialect](https://discourse.llvm.org/t/rfc-enable-use-of-mlir-tensor-type-with-spv-arm-tensors-extension-in-spir-v-dialect/86789#post_2)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778#post_13)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778#post_12)
-- [Adding AArch64 BOLT Buildbot and Improving Testing](https://discourse.llvm.org/t/adding-aarch64-bolt-buildbot-and-improving-testing/86791#post_1)
 <!-- DISCOURSE-LLVM:END -->
