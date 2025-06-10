@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Adding AArch64 BOLT Buildbot and Improving Testing](https://discourse.llvm.org/t/adding-aarch64-bolt-buildbot-and-improving-testing/86791#post_2)
-- [[RFC] Enable Use of MLIR `tensor` Type with `SPV_ARM_tensors` Extension in SPIR-V Dialect](https://discourse.llvm.org/t/rfc-enable-use-of-mlir-tensor-type-with-spv-arm-tensors-extension-in-spir-v-dialect/86789#post_4)
-- [[RFC] Migrating libc++ premerge testing to new LLVM premerge testing infrastructure](https://discourse.llvm.org/t/rfc-migrating-libc-premerge-testing-to-new-llvm-premerge-testing-infrastructure/86747#post_8)
-- [[RFC] Project Widen Your Char-izons &lpar;Adding widechar support to LLVM-libc&rpar;](https://discourse.llvm.org/t/rfc-project-widen-your-char-izons-adding-widechar-support-to-llvm-libc/86777#post_3)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_57)
+- [Missing Decision Coverage &lpar;DC&rpar; in output json](https://discourse.llvm.org/t/missing-decision-coverage-dc-in-output-json/86783#post_2)
+- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507#post_12)
+- [MSVC Linker Issue When Targeting ARM64EC](https://discourse.llvm.org/t/msvc-linker-issue-when-targeting-arm64ec/86793#post_1)
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778#post_14)
+- [Visual Studio Dynamic Debugging](https://discourse.llvm.org/t/visual-studio-dynamic-debugging/86785#post_3)
 <!-- DISCOURSE-LLVM:END -->
