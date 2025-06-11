@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Modern C++ Alternative to TableGen for MLIR Operation Definition](https://discourse.llvm.org/t/rfc-modern-c-alternative-to-tablegen-for-mlir-operation-definition/86800#post_7)
-- [SLP and VPlan](https://discourse.llvm.org/t/slp-and-vplan/86663#post_9)
-- [Adding AArch64 BOLT Buildbot and Improving Testing](https://discourse.llvm.org/t/adding-aarch64-bolt-buildbot-and-improving-testing/86791#post_3)
-- [Missing Decision Coverage &lpar;DC&rpar; in output json](https://discourse.llvm.org/t/missing-decision-coverage-dc-in-output-json/86783#post_3)
-- [[RFC] Modern C++ Alternative to TableGen for MLIR Operation Definition](https://discourse.llvm.org/t/rfc-modern-c-alternative-to-tablegen-for-mlir-operation-definition/86800#post_6)
+- [[RFC] Modern C++ Alternative to TableGen for MLIR Operation Definition](https://discourse.llvm.org/t/rfc-modern-c-alternative-to-tablegen-for-mlir-operation-definition/86800#post_9)
+- [Difficulties in Splitting MLIR File for CPU-GPU Offloading Due to SSA Variable Dependencies](https://discourse.llvm.org/t/difficulties-in-splitting-mlir-file-for-cpu-gpu-offloading-due-to-ssa-variable-dependencies/86805#post_1)
+- [[RFC] Modern C++ Alternative to TableGen for MLIR Operation Definition](https://discourse.llvm.org/t/rfc-modern-c-alternative-to-tablegen-for-mlir-operation-definition/86800#post_8)
+- [Role of `ProgramPointTag` in the static analyzer](https://discourse.llvm.org/t/role-of-programpointtag-in-the-static-analyzer/86680#post_7)
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778#post_17)
 <!-- DISCOURSE-LLVM:END -->
