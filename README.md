@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LOH conflicting with MachineOutliner](https://discourse.llvm.org/t/loh-conflicting-with-machineoutliner/83279#post_15)
-- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_15)
-- [Formatting MSVC STL types](https://discourse.llvm.org/t/formatting-msvc-stl-types/86667#post_14)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778#post_19)
-- [[RFC] Adding MCP support to LLDB](https://discourse.llvm.org/t/rfc-adding-mcp-support-to-lldb/86798#post_8)
+- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_4)
+- [[RFC] Adding `vector.to_elements` op to the Vector dialect](https://discourse.llvm.org/t/rfc-adding-vector-to-elements-op-to-the-vector-dialect/86779#post_6)
+- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_3)
+- [[RFC] Adding `vector.to_elements` op to the Vector dialect](https://discourse.llvm.org/t/rfc-adding-vector-to-elements-op-to-the-vector-dialect/86779#post_5)
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778#post_20)
 <!-- DISCOURSE-LLVM:END -->
