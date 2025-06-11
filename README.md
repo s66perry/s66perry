@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_4)
-- [[RFC] Adding `vector.to_elements` op to the Vector dialect](https://discourse.llvm.org/t/rfc-adding-vector-to-elements-op-to-the-vector-dialect/86779#post_6)
-- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_3)
-- [[RFC] Adding `vector.to_elements` op to the Vector dialect](https://discourse.llvm.org/t/rfc-adding-vector-to-elements-op-to-the-vector-dialect/86779#post_5)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778#post_20)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_59)
+- [Are any bots testing compiler-rt/sanitizers on FreeBSD?](https://discourse.llvm.org/t/are-any-bots-testing-compiler-rt-sanitizers-on-freebsd/86815#post_2)
+- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_6)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_58)
+- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_5)
 <!-- DISCOURSE-LLVM:END -->
