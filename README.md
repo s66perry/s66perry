@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Evaluating expression on template specialization gives wrong result](https://discourse.llvm.org/t/evaluating-expression-on-template-specialization-gives-wrong-result/86835#post_1)
+- [Missing Decision Coverage &lpar;DC&rpar; in output json](https://discourse.llvm.org/t/missing-decision-coverage-dc-in-output-json/86783#post_5)
+- [[RFC][BOLT][AArch64] Handle OpNegateRAState to enable optimizing binaries with pac-ret hardening](https://discourse.llvm.org/t/rfc-bolt-aarch64-handle-opnegaterastate-to-enable-optimizing-binaries-with-pac-ret-hardening/86594#post_3)
 - [[RFC] Robustess Sanitizer](https://discourse.llvm.org/t/rfc-robustess-sanitizer/86831#post_3)
 - [[RFC] Robustess Sanitizer](https://discourse.llvm.org/t/rfc-robustess-sanitizer/86831#post_2)
-- [Symbol table as first class citizen in builders](https://discourse.llvm.org/t/symbol-table-as-first-class-citizen-in-builders/86813#post_11)
-- [[RFC] Robustess Sanitizer](https://discourse.llvm.org/t/rfc-robustess-sanitizer/86831#post_1)
-- [Symbol table as first class citizen in builders](https://discourse.llvm.org/t/symbol-table-as-first-class-citizen-in-builders/86813#post_10)
 <!-- DISCOURSE-LLVM:END -->
