@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Have static function call through instance an error?](https://discourse.llvm.org/t/have-static-function-call-through-instance-an-error/86842#post_3)
-- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_14)
-- [Have static function call through instance an error?](https://discourse.llvm.org/t/have-static-function-call-through-instance-an-error/86842#post_2)
-- [RFC: add std::execution &lpar;C++26&rpar; to the Utilities](https://discourse.llvm.org/t/rfc-add-std-execution-c-26-to-the-utilities/86841#post_2)
-- [MLIR Compiler School &amp; Workshop in Cambridge/UK, September 8-12](https://discourse.llvm.org/t/mlir-compiler-school-workshop-in-cambridge-uk-september-8-12/86843#post_1)
+- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_28)
+- [[MLIR] Seeking Advice: Reducing Interface method boilerplate for Getters/Setters](https://discourse.llvm.org/t/mlir-seeking-advice-reducing-interface-method-boilerplate-for-getters-setters/86840#post_2)
+- [Missing declarations in header files](https://discourse.llvm.org/t/missing-declarations-in-header-files/86678#post_9)
+- [Have static function call through instance an error?](https://discourse.llvm.org/t/have-static-function-call-through-instance-an-error/86842#post_5)
+- [Have static function call through instance an error?](https://discourse.llvm.org/t/have-static-function-call-through-instance-an-error/86842#post_4)
 <!-- DISCOURSE-LLVM:END -->
