@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Lld weak undefined symbols in vdso only](https://discourse.llvm.org/t/lld-weak-undefined-symbols-in-vdso-only/86749#post_5)
-- [[RFC] Enable Use of MLIR `tensor` Type with `SPV_ARM_tensors` Extension in SPIR-V Dialect](https://discourse.llvm.org/t/rfc-enable-use-of-mlir-tensor-type-with-spv-arm-tensors-extension-in-spir-v-dialect/86789#post_8)
-- [[RFC] MLIR Dialect for WebAssembly](https://discourse.llvm.org/t/rfc-mlir-dialect-for-webassembly/86758#post_6)
-- [Newer LLVM Logo origins](https://discourse.llvm.org/t/newer-llvm-logo-origins/86819#post_2)
-- [CI Check build stuck in &quot;Queued&quot; state](https://discourse.llvm.org/t/ci-check-build-stuck-in-queued-state/86817#post_4)
+- [Symbol table as first class citizen in builders](https://discourse.llvm.org/t/symbol-table-as-first-class-citizen-in-builders/86813#post_9)
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=2#post_21)
+- [LLDB crashes when setting a breakpoint to out-of-process JIT](https://discourse.llvm.org/t/lldb-crashes-when-setting-a-breakpoint-to-out-of-process-jit/86828#post_1)
+- [Symbol table as first class citizen in builders](https://discourse.llvm.org/t/symbol-table-as-first-class-citizen-in-builders/86813#post_8)
+- [Symbol table as first class citizen in builders](https://discourse.llvm.org/t/symbol-table-as-first-class-citizen-in-builders/86813#post_7)
 <!-- DISCOURSE-LLVM:END -->
