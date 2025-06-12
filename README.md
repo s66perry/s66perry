@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [WG21 committee meeting next week](https://discourse.llvm.org/t/wg21-committee-meeting-next-week/86839#post_3)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=3#post_60)
-- [WG21 committee meeting next week](https://discourse.llvm.org/t/wg21-committee-meeting-next-week/86839#post_2)
-- [WG21 committee meeting next week](https://discourse.llvm.org/t/wg21-committee-meeting-next-week/86839#post_1)
-- [My experience with mlir-reduce](https://discourse.llvm.org/t/my-experience-with-mlir-reduce/86772#post_2)
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=2#post_22)
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_13)
+- [[RFC] YAMLGenerateSchema support for producing YAML schemas](https://discourse.llvm.org/t/rfc-yamlgenerateschema-support-for-producing-yaml-schemas/85846#post_3)
+- [Seeking Advice: Reducing Interface method boilerplate for Getters/Setters](https://discourse.llvm.org/t/seeking-advice-reducing-interface-method-boilerplate-for-getters-setters/86840#post_1)
+- [Symbol table as first class citizen in builders](https://discourse.llvm.org/t/symbol-table-as-first-class-citizen-in-builders/86813#post_12)
 <!-- DISCOURSE-LLVM:END -->
