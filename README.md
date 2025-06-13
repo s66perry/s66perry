@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Function specialization under programmer control, very like always_inline](https://discourse.llvm.org/t/rfc-function-specialization-under-programmer-control-very-like-always-inline/86851#post_7)
+- [[RFC] Adding MCP support to LLDB](https://discourse.llvm.org/t/rfc-adding-mcp-support-to-lldb/86798#post_10)
+- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_1)
+- [[RFC] Function specialization under programmer control, very like always_inline](https://discourse.llvm.org/t/rfc-function-specialization-under-programmer-control-very-like-always-inline/86851#post_6)
 - [Meta: Discourse support for Fortran](https://discourse.llvm.org/t/meta-discourse-support-for-fortran/86861#post_3)
-- [Are any bots testing compiler-rt/sanitizers on FreeBSD?](https://discourse.llvm.org/t/are-any-bots-testing-compiler-rt-sanitizers-on-freebsd/86815#post_3)
-- [Meta: Discourse support for Fortran](https://discourse.llvm.org/t/meta-discourse-support-for-fortran/86861#post_2)
-- [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_5)
-- [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_4)
 <!-- DISCOURSE-LLVM:END -->
