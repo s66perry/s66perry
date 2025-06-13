@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVMgold.so: error loading plugin, cannot open shared object file: No such file or directory](https://discourse.llvm.org/t/llvmgold-so-error-loading-plugin-cannot-open-shared-object-file-no-such-file-or-directory/86858#post_2)
-- [[RFC] Function specialization under programmer control, very like always_inline](https://discourse.llvm.org/t/rfc-function-specialization-under-programmer-control-very-like-always-inline/86851#post_7)
-- [[RFC] Adding MCP support to LLDB](https://discourse.llvm.org/t/rfc-adding-mcp-support-to-lldb/86798#post_10)
-- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_1)
-- [[RFC] Function specialization under programmer control, very like always_inline](https://discourse.llvm.org/t/rfc-function-specialization-under-programmer-control-very-like-always-inline/86851#post_6)
+- [Missing declarations in header files](https://discourse.llvm.org/t/missing-declarations-in-header-files/86678#post_10)
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=2#post_26)
+- [Are any bots testing compiler-rt/sanitizers on FreeBSD?](https://discourse.llvm.org/t/are-any-bots-testing-compiler-rt-sanitizers-on-freebsd/86815#post_4)
+- [How to implement a generic callback without UB?](https://discourse.llvm.org/t/how-to-implement-a-generic-callback-without-ub/86872#post_1)
+- [[RFC] Add `dead_on_return` attribute](https://discourse.llvm.org/t/rfc-add-dead-on-return-attribute/86871#post_1)
 <!-- DISCOURSE-LLVM:END -->
