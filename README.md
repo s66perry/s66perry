@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Are any bots testing compiler-rt/sanitizers on FreeBSD?](https://discourse.llvm.org/t/are-any-bots-testing-compiler-rt-sanitizers-on-freebsd/86815#post_3)
 - [Meta: Discourse support for Fortran](https://discourse.llvm.org/t/meta-discourse-support-for-fortran/86861#post_2)
 - [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_5)
 - [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_4)
 - [[RFC] Function specialization under programmer control, very like always_inline](https://discourse.llvm.org/t/rfc-function-specialization-under-programmer-control-very-like-always-inline/86851#post_5)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
