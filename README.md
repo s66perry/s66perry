@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][mlir][vector] Modify/remove bit-width specific flattening/linearization](https://discourse.llvm.org/t/rfc-mlir-vector-modify-remove-bit-width-specific-flattening-linearization/86876#post_2)
+- [[RFC] MLIR Project Lighthouse](https://discourse.llvm.org/t/rfc-mlir-project-lighthouse/86738#post_3)
+- [[MLIR] Seeking Advice: Reducing Interface method boilerplate for Getters/Setters](https://discourse.llvm.org/t/mlir-seeking-advice-reducing-interface-method-boilerplate-for-getters-setters/86840#post_7)
+- [[RFC] Project Widen Your Char-izons &lpar;Adding widechar support to LLVM-libc&rpar;](https://discourse.llvm.org/t/rfc-project-widen-your-char-izons-adding-widechar-support-to-llvm-libc/86777#post_4)
 - [[RFC] MLIR Dialect for WebAssembly](https://discourse.llvm.org/t/rfc-mlir-dialect-for-webassembly/86758#post_13)
-- [LLVM Embedded Toolchains Working Group call this Thursday, June 19](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-june-19/86895#post_1)
-- [Size of ISelLowering.cpp files](https://discourse.llvm.org/t/size-of-isellowering-cpp-files/86739#post_6)
-- [[RFC] Removing PSTL](https://discourse.llvm.org/t/rfc-removing-pstl/86807#post_4)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507#post_16)
 <!-- DISCOURSE-LLVM:END -->
