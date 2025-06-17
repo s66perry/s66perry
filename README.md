@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916#post_3)
-- [PBQP codegen acceleration?](https://discourse.llvm.org/t/pbqp-codegen-acceleration/86898#post_3)
-- [MLIR Open Meeting: WebAssembly dialect](https://discourse.llvm.org/t/mlir-open-meeting-webassembly-dialect/86928#post_1)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon May 12 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-may-12-25-6pm/86212#post_2)
-- [[RFC][mlir][vector] Modify/remove bit-width specific flattening/linearization](https://discourse.llvm.org/t/rfc-mlir-vector-modify-remove-bit-width-specific-flattening-linearization/86876#post_5)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_18)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_17)
+- [Can we do shallow copies of memref descriptors?](https://discourse.llvm.org/t/can-we-do-shallow-copies-of-memref-descriptors/86929#post_4)
+- [Can we do shallow copies of memref descriptors?](https://discourse.llvm.org/t/can-we-do-shallow-copies-of-memref-descriptors/86929#post_3)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_16)
 <!-- DISCOURSE-LLVM:END -->
