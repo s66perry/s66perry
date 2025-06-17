@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Move / Remove `vcix` &lpar;and other intrinsics&rpar; dialects](https://discourse.llvm.org/t/move-remove-vcix-and-other-intrinsics-dialects/86920#post_4)
-- [Move / Remove `vcix` &lpar;and other intrinsics&rpar; dialects](https://discourse.llvm.org/t/move-remove-vcix-and-other-intrinsics-dialects/86920#post_3)
-- [Memref.reshape -&gt; reinterprest_cast &quot;expansion&quot;](https://discourse.llvm.org/t/memref-reshape-reinterprest-cast-expansion/86921#post_1)
-- [Move / Remove `vcix` &lpar;and other intrinsics&rpar; dialects](https://discourse.llvm.org/t/move-remove-vcix-and-other-intrinsics-dialects/86920#post_2)
-- [Move / Remove `vcix` &lpar;and other intrinsics&rpar; dialects](https://discourse.llvm.org/t/move-remove-vcix-and-other-intrinsics-dialects/86920#post_1)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_8)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_7)
+- [Size of ISelLowering.cpp files](https://discourse.llvm.org/t/size-of-isellowering-cpp-files/86739#post_7)
+- [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_7)
+- [Changing office hours for Jun 2025](https://discourse.llvm.org/t/changing-office-hours-for-jun-2025/86923#post_1)
 <!-- DISCOURSE-LLVM:END -->
