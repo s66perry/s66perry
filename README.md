@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Guide for Memory Sanitizer usage](https://discourse.llvm.org/t/guide-for-memory-sanitizer-usage/86796#post_3)
-- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_3)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_9)
-- [[RFC] Project Widen Your Char-izons &lpar;Adding widechar support to LLVM-libc&rpar;](https://discourse.llvm.org/t/rfc-project-widen-your-char-izons-adding-widechar-support-to-llvm-libc/86777#post_6)
-- [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_8)
+- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_4)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_13)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900#post_3)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_12)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_11)
 <!-- DISCOURSE-LLVM:END -->
