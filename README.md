@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_18)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_17)
-- [Can we do shallow copies of memref descriptors?](https://discourse.llvm.org/t/can-we-do-shallow-copies-of-memref-descriptors/86929#post_4)
-- [Can we do shallow copies of memref descriptors?](https://discourse.llvm.org/t/can-we-do-shallow-copies-of-memref-descriptors/86929#post_3)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_16)
+- [[RFC] Principles document for IRDL](https://discourse.llvm.org/t/rfc-principles-document-for-irdl/86931#post_1)
+- [Can we do shallow copies of memref descriptors?](https://discourse.llvm.org/t/can-we-do-shallow-copies-of-memref-descriptors/86929#post_8)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_20)
+- [Can we do shallow copies of memref descriptors?](https://discourse.llvm.org/t/can-we-do-shallow-copies-of-memref-descriptors/86929#post_7)
+- [Can we do shallow copies of memref descriptors?](https://discourse.llvm.org/t/can-we-do-shallow-copies-of-memref-descriptors/86929#post_6)
 <!-- DISCOURSE-LLVM:END -->
