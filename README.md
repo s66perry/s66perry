@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_8)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_7)
-- [Size of ISelLowering.cpp files](https://discourse.llvm.org/t/size-of-isellowering-cpp-files/86739#post_7)
-- [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_7)
-- [Changing office hours for Jun 2025](https://discourse.llvm.org/t/changing-office-hours-for-jun-2025/86923#post_1)
+- [Guide for Memory Sanitizer usage](https://discourse.llvm.org/t/guide-for-memory-sanitizer-usage/86796#post_3)
+- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_3)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920#post_9)
+- [[RFC] Project Widen Your Char-izons &lpar;Adding widechar support to LLVM-libc&rpar;](https://discourse.llvm.org/t/rfc-project-widen-your-char-izons-adding-widechar-support-to-llvm-libc/86777#post_6)
+- [Flang generates invalid module file for submodule](https://discourse.llvm.org/t/flang-generates-invalid-module-file-for-submodule/86860#post_8)
 <!-- DISCOURSE-LLVM:END -->
