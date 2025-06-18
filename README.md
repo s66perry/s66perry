@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A New &quot;One-Shot&quot; Dialect Conversion Driver](https://discourse.llvm.org/t/rfc-a-new-one-shot-dialect-conversion-driver/79083?page=4#post_74)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_27)
-- [[RFC] MLIR Dialect for WebAssembly](https://discourse.llvm.org/t/rfc-mlir-dialect-for-webassembly/86758?page=2#post_28)
-- [[RFC] MLIR Dialect for WebAssembly](https://discourse.llvm.org/t/rfc-mlir-dialect-for-webassembly/86758?page=2#post_27)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_26)
+- [[RFC] Enable Use of MLIR `tensor` Type with `SPV_ARM_tensors` Extension in SPIR-V Dialect](https://discourse.llvm.org/t/rfc-enable-use-of-mlir-tensor-type-with-spv-arm-tensors-extension-in-spir-v-dialect/86789#post_9)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_31)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_30)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_29)
+- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_5)
 <!-- DISCOURSE-LLVM:END -->
