@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enable Use of MLIR `tensor` Type with `SPV_ARM_tensors` Extension in SPIR-V Dialect](https://discourse.llvm.org/t/rfc-enable-use-of-mlir-tensor-type-with-spv-arm-tensors-extension-in-spir-v-dialect/86789#post_9)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_31)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_30)
-- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=2#post_29)
-- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_5)
+- [PBQP codegen acceleration?](https://discourse.llvm.org/t/pbqp-codegen-acceleration/86898#post_5)
+- [[RFC] Add Support for `SPV_ARM_graph` Extension in MLIR SPIR-V Dialect](https://discourse.llvm.org/t/rfc-add-support-for-spv-arm-graph-extension-in-mlir-spir-v-dialect/86947#post_2)
+- [[RFC] Add Support for `SPV_ARM_graph` Extension in MLIR SPIR-V Dialect](https://discourse.llvm.org/t/rfc-add-support-for-spv-arm-graph-extension-in-mlir-spir-v-dialect/86947#post_1)
+- [LLVM Embedded Toolchains Working Group call this Thursday, June 19](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-june-19/86895#post_3)
+- [[RFC] Implementation of stdio on baremetal](https://discourse.llvm.org/t/rfc-implementation-of-stdio-on-baremetal/86944#post_1)
 <!-- DISCOURSE-LLVM:END -->
