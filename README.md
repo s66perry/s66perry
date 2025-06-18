@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PBQP codegen acceleration?](https://discourse.llvm.org/t/pbqp-codegen-acceleration/86898#post_5)
-- [[RFC] Add Support for `SPV_ARM_graph` Extension in MLIR SPIR-V Dialect](https://discourse.llvm.org/t/rfc-add-support-for-spv-arm-graph-extension-in-mlir-spir-v-dialect/86947#post_2)
-- [[RFC] Add Support for `SPV_ARM_graph` Extension in MLIR SPIR-V Dialect](https://discourse.llvm.org/t/rfc-add-support-for-spv-arm-graph-extension-in-mlir-spir-v-dialect/86947#post_1)
-- [LLVM Embedded Toolchains Working Group call this Thursday, June 19](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-june-19/86895#post_3)
-- [[RFC] Implementation of stdio on baremetal](https://discourse.llvm.org/t/rfc-implementation-of-stdio-on-baremetal/86944#post_1)
+- [PBQP codegen acceleration?](https://discourse.llvm.org/t/pbqp-codegen-acceleration/86898#post_6)
+- [LLDB crashes when setting a breakpoint to out-of-process JIT](https://discourse.llvm.org/t/lldb-crashes-when-setting-a-breakpoint-to-out-of-process-jit/86828#post_3)
+- [[RFC] MLIR Dialect for WebAssembly](https://discourse.llvm.org/t/rfc-mlir-dialect-for-webassembly/86758?page=2#post_30)
+- [LLDB crashes when setting a breakpoint to out-of-process JIT](https://discourse.llvm.org/t/lldb-crashes-when-setting-a-breakpoint-to-out-of-process-jit/86828#post_2)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916#post_6)
 <!-- DISCOURSE-LLVM:END -->
