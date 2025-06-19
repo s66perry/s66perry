@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Assembly Super Optimiser](https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365?page=2#post_22)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916#post_11)
+- [[RFC] Removing the OpenMP experimental warning for LLVM 21](https://discourse.llvm.org/t/rfc-removing-the-openmp-experimental-warning-for-llvm-21/86455#post_11)
 - [Exploring Clang](https://discourse.llvm.org/t/exploring-clang/86965#post_1)
 - [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916#post_10)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916#post_9)
-- [How to pass arguments to the mlir file](https://discourse.llvm.org/t/how-to-pass-arguments-to-the-mlir-file/86964#post_2)
-- [Speedup of clang build with PGO and BOLT on AArch64](https://discourse.llvm.org/t/speedup-of-clang-build-with-pgo-and-bolt-on-aarch64/85118#post_6)
 <!-- DISCOURSE-LLVM:END -->
