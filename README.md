@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_4)
+- [Guidance on Issues with Code Coverage Accuracy](https://discourse.llvm.org/t/guidance-on-issues-with-code-coverage-accuracy/86459#post_3)
 - [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_3)
 - [[MLIR][RFC][DIALECT][XeVM] Proposal for new XeVM dialect](https://discourse.llvm.org/t/mlir-rfc-dialect-xevm-proposal-for-new-xevm-dialect/86955#post_3)
 - [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_2)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_1)
-- [[RFC] Principles document for IRDL](https://discourse.llvm.org/t/rfc-principles-document-for-irdl/86931#post_6)
 <!-- DISCOURSE-LLVM:END -->
