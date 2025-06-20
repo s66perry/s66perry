@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unsupported instruction in llvm-mca](https://discourse.llvm.org/t/unsupported-instruction-in-llvm-mca/86991#post_4)
-- [Unsupported instruction in llvm-mca](https://discourse.llvm.org/t/unsupported-instruction-in-llvm-mca/86991#post_3)
-- [[RFC] Basic support for SPV_EXT_replicated_composites in MLIR SPIR-V &lpar;Compile-Time Constant Lowering Only&rpar;](https://discourse.llvm.org/t/rfc-basic-support-for-spv-ext-replicated-composites-in-mlir-spir-v-compile-time-constant-lowering-only/86987#post_3)
-- [[RFC][mlir][vector] Modify/remove bit-width specific flattening/linearization](https://discourse.llvm.org/t/rfc-mlir-vector-modify-remove-bit-width-specific-flattening-linearization/86876#post_8)
-- [[RFC] Take libstdc++ into account during GCC detection](https://discourse.llvm.org/t/rfc-take-libstdc-into-account-during-gcc-detection/86992#post_1)
+- [[RFC] Basic support for SPV_EXT_replicated_composites in MLIR SPIR-V &lpar;Compile-Time Constant Lowering Only&rpar;](https://discourse.llvm.org/t/rfc-basic-support-for-spv-ext-replicated-composites-in-mlir-spir-v-compile-time-constant-lowering-only/86987#post_5)
+- [PHI node decomposition results in X86 ISel DAG failure](https://discourse.llvm.org/t/phi-node-decomposition-results-in-x86-isel-dag-failure/86995#post_1)
+- [PHI node decomposition causes X86 ISel DAG failure](https://discourse.llvm.org/t/phi-node-decomposition-causes-x86-isel-dag-failure/86994#post_1)
+- [[RFC] Basic support for SPV_EXT_replicated_composites in MLIR SPIR-V &lpar;Compile-Time Constant Lowering Only&rpar;](https://discourse.llvm.org/t/rfc-basic-support-for-spv-ext-replicated-composites-in-mlir-spir-v-compile-time-constant-lowering-only/86987#post_4)
+- [[RFC] DWARF CFI validation](https://discourse.llvm.org/t/rfc-dwarf-cfi-validation/86936#post_3)
 <!-- DISCOURSE-LLVM:END -->
