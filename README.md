@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC]: Extend Linalg elemwise named ops semantics](https://discourse.llvm.org/t/rfc-extend-linalg-elemwise-named-ops-semantics/83927#post_15)
+- [Move / Remove `vcix` dialect](https://discourse.llvm.org/t/move-remove-vcix-dialect/86920?page=3#post_47)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=2#post_33)
 - [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_7)
 - [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468?page=2#post_24)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_6)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_5)
-- [RFC: Updating and Aligning the LLVM Release Process before LLVM 21](https://discourse.llvm.org/t/rfc-updating-and-aligning-the-llvm-release-process-before-llvm-21/86493?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
