@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Principles document for IRDL](https://discourse.llvm.org/t/rfc-principles-document-for-irdl/86931#post_7)
+- [RFC: Add LifetimeMovePass](https://discourse.llvm.org/t/rfc-add-lifetimemovepass/87005#post_4)
+- [LLVM Weekly - #599, June 23rd 2025](https://discourse.llvm.org/t/llvm-weekly-599-june-23rd-2025/87026#post_1)
+- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_19)
 - [[MLIR][RFC][DIALECT][XeVM] Proposal for new XeVM dialect](https://discourse.llvm.org/t/mlir-rfc-dialect-xevm-proposal-for-new-xevm-dialect/86955#post_8)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_8)
-- [[PSA] Deprecating linalg named elementwise ops](https://discourse.llvm.org/t/psa-deprecating-linalg-named-elementwise-ops/84833#post_7)
-- [Multi-return and writing to specific registers in LLVM TableGen patterns](https://discourse.llvm.org/t/multi-return-and-writing-to-specific-registers-in-llvm-tablegen-patterns/87020#post_1)
-- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
