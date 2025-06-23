@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Multi-return and writing to specific registers in LLVM TableGen patterns](https://discourse.llvm.org/t/multi-return-and-writing-to-specific-registers-in-llvm-tablegen-patterns/87020#post_1)
+- [[RFC] Op explosion in Linalg](https://discourse.llvm.org/t/rfc-op-explosion-in-linalg/82863?page=3#post_47)
 - [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=2#post_38)
 - [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=2#post_37)
 - [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=2#post_36)
-- [Looking for volunteers to help with releases](https://discourse.llvm.org/t/looking-for-volunteers-to-help-with-releases/87018#post_1)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
