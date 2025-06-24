@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_9)
-- [[RFC] Principles document for IRDL](https://discourse.llvm.org/t/rfc-principles-document-for-irdl/86931#post_7)
-- [RFC: Add LifetimeMovePass](https://discourse.llvm.org/t/rfc-add-lifetimemovepass/87005#post_4)
-- [LLVM Weekly - #599, June 23rd 2025](https://discourse.llvm.org/t/llvm-weekly-599-june-23rd-2025/87026#post_1)
-- [[RFC] LLVM policy for top level directories and language runtimes](https://discourse.llvm.org/t/rfc-llvm-policy-for-top-level-directories-and-language-runtimes/86143#post_19)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=3#post_41)
+- [[RFC][tblgen] Generate linker code with TableGen](https://discourse.llvm.org/t/rfc-tblgen-generate-linker-code-with-tablegen/86918#post_3)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=2#post_40)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=2#post_39)
+- [Integration with ABC optimizer](https://discourse.llvm.org/t/integration-with-abc-optimizer/65264#post_10)
 <!-- DISCOURSE-LLVM:END -->
