@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How do you measure GPU kernel execution time in MLIR?](https://discourse.llvm.org/t/how-do-you-measure-gpu-kernel-execution-time-in-mlir/87041#post_4)
+- [Multi-return and writing to specific registers in LLVM TableGen patterns](https://discourse.llvm.org/t/multi-return-and-writing-to-specific-registers-in-llvm-tablegen-patterns/87020#post_2)
 - [[RFC] Adding GNU Make Jobserver Support to LLVM for Coordinated Parallelism](https://discourse.llvm.org/t/rfc-adding-gnu-make-jobserver-support-to-llvm-for-coordinated-parallelism/87034#post_15)
 - [[RFC] Adding GNU Make Jobserver Support to LLVM for Coordinated Parallelism](https://discourse.llvm.org/t/rfc-adding-gnu-make-jobserver-support-to-llvm-for-coordinated-parallelism/87034#post_14)
 - [[RFC] Adding GNU Make Jobserver Support to LLVM for Coordinated Parallelism](https://discourse.llvm.org/t/rfc-adding-gnu-make-jobserver-support-to-llvm-for-coordinated-parallelism/87034#post_13)
-- [[RFC] Add Support for `SPV_ARM_graph` Extension in MLIR SPIR-V Dialect](https://discourse.llvm.org/t/rfc-add-support-for-spv-arm-graph-extension-in-mlir-spir-v-dialect/86947#post_4)
-- [[RFC][tblgen] Generate linker code with TableGen](https://discourse.llvm.org/t/rfc-tblgen-generate-linker-code-with-tablegen/86918#post_10)
 <!-- DISCOURSE-LLVM:END -->
