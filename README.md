@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How do you measure GPU kernel execution time in MLIR?](https://discourse.llvm.org/t/how-do-you-measure-gpu-kernel-execution-time-in-mlir/87041#post_7)
-- [[RFC] Remove OpenMP versions prior to 3.1](https://discourse.llvm.org/t/rfc-remove-openmp-versions-prior-to-3-1/86901#post_2)
-- [[RFC] Support Target Triple Specific Include Paths Derived from Sysroot via multilib.yaml or Driver Logic](https://discourse.llvm.org/t/rfc-support-target-triple-specific-include-paths-derived-from-sysroot-via-multilib-yaml-or-driver-logic/86925#post_3)
-- [Github Actions CI: Should the llvm-project-tests workflow be turned into an action?](https://discourse.llvm.org/t/github-actions-ci-should-the-llvm-project-tests-workflow-be-turned-into-an-action/87052#post_7)
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=4#post_68)
+- [Anyone tried using GitHub Copilot or other AI chatbots to assist in writing checks?](https://discourse.llvm.org/t/anyone-tried-using-github-copilot-or-other-ai-chatbots-to-assist-in-writing-checks/87075#post_1)
+- [Help needed for triaging code generation](https://discourse.llvm.org/t/help-needed-for-triaging-code-generation/87071#post_4)
+- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_30)
+- [Help needed for triaging code generation](https://discourse.llvm.org/t/help-needed-for-triaging-code-generation/87071#post_3)
+- [Help needed for triaging code generation](https://discourse.llvm.org/t/help-needed-for-triaging-code-generation/87071#post_2)
 <!-- DISCOURSE-LLVM:END -->
