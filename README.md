@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Flang Liaison Report to J3](https://discourse.llvm.org/t/flang-liaison-report-to-j3/68468#post_9)
+- [[RFC] Take libstdc++ into account during GCC detection](https://discourse.llvm.org/t/rfc-take-libstdc-into-account-during-gcc-detection/86992#post_2)
 - [Delete llvm/lib/Target/Lanai](https://discourse.llvm.org/t/delete-llvm-lib-target-lanai/87060#post_2)
 - [Delete llvm/lib/Target/Lanai](https://discourse.llvm.org/t/delete-llvm-lib-target-lanai/87060#post_1)
 - [Prevent code mode in IR optimization](https://discourse.llvm.org/t/prevent-code-mode-in-ir-optimization/87058#post_1)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=3#post_46)
-- [How do you measure GPU kernel execution time in MLIR?](https://discourse.llvm.org/t/how-do-you-measure-gpu-kernel-execution-time-in-mlir/87041#post_4)
 <!-- DISCOURSE-LLVM:END -->
