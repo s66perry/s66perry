@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Improving the reproducibility of linker benchmarking](https://discourse.llvm.org/t/improving-the-reproducibility-of-linker-benchmarking/86057#post_8)
-- [LLVM 21.x Release Information and branching](https://discourse.llvm.org/t/llvm-21-x-release-information-and-branching/87065#post_2)
-- [Anyone tried using GitHub Copilot or other AI chatbots to assist in writing checks?](https://discourse.llvm.org/t/anyone-tried-using-github-copilot-or-other-ai-chatbots-to-assist-in-writing-checks/87075#post_3)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=3#post_48)
-- [[RFC] Robustess Sanitizer](https://discourse.llvm.org/t/rfc-robustess-sanitizer/86831#post_8)
+- [[RFC] LinalgOps::regionBuilder function needs to indicate if anything goes wrong](https://discourse.llvm.org/t/rfc-linalgops-regionbuilder-function-needs-to-indicate-if-anything-goes-wrong/86053#post_11)
+- [Coding standard: Deprecate use of void cast to suppress unused variable warnings?](https://discourse.llvm.org/t/coding-standard-deprecate-use-of-void-cast-to-suppress-unused-variable-warnings/86705?page=2#post_37)
+- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_6)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_43)
+- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_5)
 <!-- DISCOURSE-LLVM:END -->
