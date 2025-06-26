@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding GNU Make Jobserver Support to LLVM for Coordinated Parallelism](https://discourse.llvm.org/t/rfc-adding-gnu-make-jobserver-support-to-llvm-for-coordinated-parallelism/87034#post_20)
-- [LLVM 21.x Release Information and branching](https://discourse.llvm.org/t/llvm-21-x-release-information-and-branching/87065#post_3)
-- [[RFC] Adding GNU Make Jobserver Support to LLVM for Coordinated Parallelism](https://discourse.llvm.org/t/rfc-adding-gnu-make-jobserver-support-to-llvm-for-coordinated-parallelism/87034#post_19)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_11)
-- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_9)
+- [How to define a custom integer type in MLIR?](https://discourse.llvm.org/t/how-to-define-a-custom-integer-type-in-mlir/74062?page=2#post_29)
+- [[mlir, mesh] Cleanup mesh](https://discourse.llvm.org/t/mlir-mesh-cleanup-mesh/87053#post_2)
+- [How to set tile sizes for affine-loop-tile pass in MLIR C++ API?](https://discourse.llvm.org/t/how-to-set-tile-sizes-for-affine-loop-tile-pass-in-mlir-c-api/87091#post_1)
+- [[RFC] Add `dead_on_return` attribute](https://discourse.llvm.org/t/rfc-add-dead-on-return-attribute/86871#post_2)
+- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_18)
 <!-- DISCOURSE-LLVM:END -->
