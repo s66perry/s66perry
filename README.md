@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_64)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_63)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_62)
 - [[RFC] Removing the OpenMP experimental warning for LLVM 21](https://discourse.llvm.org/t/rfc-removing-the-openmp-experimental-warning-for-llvm-21/86455#post_12)
 - [RFC: Requiring callinst function type to match the type of the function being called?](https://discourse.llvm.org/t/rfc-requiring-callinst-function-type-to-match-the-type-of-the-function-being-called/86394#post_9)
-- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434?page=2#post_29)
-- [How to set tile sizes for affine-loop-tile pass in MLIR C++ API?](https://discourse.llvm.org/t/how-to-set-tile-sizes-for-affine-loop-tile-pass-in-mlir-c-api/87091#post_3)
 <!-- DISCOURSE-LLVM:END -->
