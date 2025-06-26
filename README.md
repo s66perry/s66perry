@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding GNU Make Jobserver Support to LLVM for Coordinated Parallelism](https://discourse.llvm.org/t/rfc-adding-gnu-make-jobserver-support-to-llvm-for-coordinated-parallelism/87034#post_19)
+- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_11)
 - [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_9)
 - [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_8)
 - [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_7)
-- [How to define a custom integer type in MLIR?](https://discourse.llvm.org/t/how-to-define-a-custom-integer-type-in-mlir/74062?page=2#post_28)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=3#post_50)
 <!-- DISCOURSE-LLVM:END -->
