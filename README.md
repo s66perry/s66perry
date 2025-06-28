@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_66)
+- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_11)
 - [Rust, LLVM, and LLDB](https://discourse.llvm.org/t/rust-llvm-and-lldb/87120#post_1)
 - [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_10)
 - [[RFC] DWARF CFI validation](https://discourse.llvm.org/t/rfc-dwarf-cfi-validation/86936#post_8)
-- [[RFC] DWARF CFI validation](https://discourse.llvm.org/t/rfc-dwarf-cfi-validation/86936#post_7)
-- [Optimizing simplifySVal [raw idea]](https://discourse.llvm.org/t/optimizing-simplifysval-raw-idea/87117#post_2)
 <!-- DISCOURSE-LLVM:END -->
