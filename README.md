@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_71)
 - [WIP- MLIR News, 75th Edition &lpar;1July 2025&rpar;](https://discourse.llvm.org/t/wip-mlir-news-75th-edition-1july-2025/87128#post_1)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_70)
 - [I have some questions regarding the lowering of Affine operations to GPU](https://discourse.llvm.org/t/i-have-some-questions-regarding-the-lowering-of-affine-operations-to-gpu/87127#post_1)
 - [Request GitHub issue triage permission for labeling Clang issues](https://discourse.llvm.org/t/request-github-issue-triage-permission-for-labeling-clang-issues/87126#post_1)
-- [Rust, LLVM, and LLDB](https://discourse.llvm.org/t/rust-llvm-and-lldb/87120#post_4)
 <!-- DISCOURSE-LLVM:END -->
