@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Forward declaration not playing nice with requires](https://discourse.llvm.org/t/forward-declaration-not-playing-nice-with-requires/87011#post_2)
+- [Detect if type is complete &lpar;not forward decl&rpar;](https://discourse.llvm.org/t/detect-if-type-is-complete-not-forward-decl/87107#post_2)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_69)
 - [Call a C++ lambda from C?](https://discourse.llvm.org/t/call-a-c-lambda-from-c/86980#post_6)
 - [RFC: MLIR &quot;pattern catalog&quot;](https://discourse.llvm.org/t/rfc-mlir-pattern-catalog/87121#post_1)
-- [Finding Rewrite patterns](https://discourse.llvm.org/t/finding-rewrite-patterns/85810#post_6)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_68)
-- [[RFC] Debug info for coroutine suspension locations - take 2](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations-take-2/86606#post_12)
 <!-- DISCOURSE-LLVM:END -->
