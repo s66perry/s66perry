@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Flang working as linker?](https://discourse.llvm.org/t/flang-working-as-linker/87133#post_4)
-- [[RFC, mlir, vector] Deprecate then remove `vector.splat`](https://discourse.llvm.org/t/rfc-mlir-vector-deprecate-then-remove-vector-splat/87143#post_2)
-- [Detect if type is complete &lpar;not forward decl&rpar;](https://discourse.llvm.org/t/detect-if-type-is-complete-not-forward-decl/87107#post_4)
-- [[RFC, mlir, vector] Deprecate then remove `vector.splat`](https://discourse.llvm.org/t/rfc-mlir-vector-deprecate-then-remove-vector-splat/87143#post_1)
-- [Flang working as linker?](https://discourse.llvm.org/t/flang-working-as-linker/87133#post_3)
+- [Are the latencies of vextractf128 correct for Zen2/3 in MCA?](https://discourse.llvm.org/t/are-the-latencies-of-vextractf128-correct-for-zen2-3-in-mca/86422#post_8)
+- [Are the latencies of vextractf128 correct for Zen2/3 in MCA?](https://discourse.llvm.org/t/are-the-latencies-of-vextractf128-correct-for-zen2-3-in-mca/86422#post_7)
+- [Are the latencies of vextractf128 correct for Zen2/3 in MCA?](https://discourse.llvm.org/t/are-the-latencies-of-vextractf128-correct-for-zen2-3-in-mca/86422#post_6)
+- [MLIR Open Meeting: rank-0 vectors](https://discourse.llvm.org/t/mlir-open-meeting-rank-0-vectors/86769#post_7)
+- [[RFC, mlir, vector] Deprecate then remove `vector.splat`](https://discourse.llvm.org/t/rfc-mlir-vector-deprecate-then-remove-vector-splat/87143#post_4)
 <!-- DISCOURSE-LLVM:END -->
