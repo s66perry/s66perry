@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Lldb-server requires additional port connections for gdb-remote servers. Should this be fixed?](https://discourse.llvm.org/t/lldb-server-requires-additional-port-connections-for-gdb-remote-servers-should-this-be-fixed/87134#post_2)
+- [[RFC][memref][spirv] Targeting Images in Memref -&gt; SPIR-V Conversions](https://discourse.llvm.org/t/rfc-memref-spirv-targeting-images-in-memref-spir-v-conversions/87138#post_1)
+- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_20)
 - [Proper place to expand pseudo instructions inserted in copyPhysReg?](https://discourse.llvm.org/t/proper-place-to-expand-pseudo-instructions-inserted-in-copyphysreg/87130#post_3)
 - [Proper place to expand pseudo instructions inserted in copyPhysReg?](https://discourse.llvm.org/t/proper-place-to-expand-pseudo-instructions-inserted-in-copyphysreg/87130#post_2)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_74)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_73)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=3#post_52)
 <!-- DISCOURSE-LLVM:END -->
