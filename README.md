@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_10)
-- [Flang working as linker?](https://discourse.llvm.org/t/flang-working-as-linker/87133#post_2)
-- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_9)
-- [Lldb-server requires additional port connections for gdb-remote servers. Should this be fixed?](https://discourse.llvm.org/t/lldb-server-requires-additional-port-connections-for-gdb-remote-servers-should-this-be-fixed/87134#post_3)
-- [[RFC] Function specialization under programmer control, very like always_inline](https://discourse.llvm.org/t/rfc-function-specialization-under-programmer-control-very-like-always-inline/86851#post_15)
+- [Rust, LLVM, and LLDB](https://discourse.llvm.org/t/rust-llvm-and-lldb/87120#post_5)
+- [[RFC] Architecture-specific `!nontemporal`](https://discourse.llvm.org/t/rfc-architecture-specific-nontemporal/86184#post_2)
+- [MLIR Area Team Meeting / Office Hours, July 3, 2025](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours-july-3-2025/87140#post_4)
+- [MLIR Area Team Meeting / Office Hours, July 3, 2025](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours-july-3-2025/87140#post_3)
+- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_11)
 <!-- DISCOURSE-LLVM:END -->
