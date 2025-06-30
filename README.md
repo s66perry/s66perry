@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Rust, LLVM, and LLDB](https://discourse.llvm.org/t/rust-llvm-and-lldb/87120#post_5)
-- [[RFC] Architecture-specific `!nontemporal`](https://discourse.llvm.org/t/rfc-architecture-specific-nontemporal/86184#post_2)
-- [MLIR Area Team Meeting / Office Hours, July 3, 2025](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours-july-3-2025/87140#post_4)
-- [MLIR Area Team Meeting / Office Hours, July 3, 2025](https://discourse.llvm.org/t/mlir-area-team-meeting-office-hours-july-3-2025/87140#post_3)
-- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_11)
+- [Flang working as linker?](https://discourse.llvm.org/t/flang-working-as-linker/87133#post_4)
+- [[RFC, mlir, vector] Deprecate then remove `vector.splat`](https://discourse.llvm.org/t/rfc-mlir-vector-deprecate-then-remove-vector-splat/87143#post_2)
+- [Detect if type is complete &lpar;not forward decl&rpar;](https://discourse.llvm.org/t/detect-if-type-is-complete-not-forward-decl/87107#post_4)
+- [[RFC, mlir, vector] Deprecate then remove `vector.splat`](https://discourse.llvm.org/t/rfc-mlir-vector-deprecate-then-remove-vector-splat/87143#post_1)
+- [Flang working as linker?](https://discourse.llvm.org/t/flang-working-as-linker/87133#post_3)
 <!-- DISCOURSE-LLVM:END -->
