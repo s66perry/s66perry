@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Request GitHub issue triage permission for labeling Clang issues](https://discourse.llvm.org/t/request-github-issue-triage-permission-for-labeling-clang-issues/87126#post_3)
+- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_4)
+- [RFC: MLIR &quot;pattern catalog&quot;](https://discourse.llvm.org/t/rfc-mlir-pattern-catalog/87121#post_5)
+- [[RFC][tblgen] Generate linker code with TableGen](https://discourse.llvm.org/t/rfc-tblgen-generate-linker-code-with-tablegen/86918#post_13)
 - [Lldb-server requires additional port connections for gdb-remote servers. Should this be fixed?](https://discourse.llvm.org/t/lldb-server-requires-additional-port-connections-for-gdb-remote-servers-should-this-be-fixed/87134#post_2)
-- [[RFC][memref][spirv] Targeting Images in Memref -&gt; SPIR-V Conversions](https://discourse.llvm.org/t/rfc-memref-spirv-targeting-images-in-memref-spir-v-conversions/87138#post_1)
-- [[RFC] Adding Matching and Inference Functionality to Propeller](https://discourse.llvm.org/t/rfc-adding-matching-and-inference-functionality-to-propeller/86238#post_20)
-- [Proper place to expand pseudo instructions inserted in copyPhysReg?](https://discourse.llvm.org/t/proper-place-to-expand-pseudo-instructions-inserted-in-copyphysreg/87130#post_3)
-- [Proper place to expand pseudo instructions inserted in copyPhysReg?](https://discourse.llvm.org/t/proper-place-to-expand-pseudo-instructions-inserted-in-copyphysreg/87130#post_2)
 <!-- DISCOURSE-LLVM:END -->
