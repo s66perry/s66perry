@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] MLIR Dialect for WebAssembly](https://discourse.llvm.org/t/rfc-mlir-dialect-for-webassembly/86758?page=2#post_34)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=3#post_58)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_44)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=3#post_57)
 - [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=4#post_75)
-- [[RFC] MLIR Dialect for WebAssembly](https://discourse.llvm.org/t/rfc-mlir-dialect-for-webassembly/86758?page=2#post_33)
-- [[RFC] Debug info for coroutine suspension locations - take 2](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations-take-2/86606#post_15)
-- [[RFC] Debug info for coroutine suspension locations - take 2](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations-take-2/86606#post_14)
-- [[RFC] Debug info for coroutine suspension locations - take 2](https://discourse.llvm.org/t/rfc-debug-info-for-coroutine-suspension-locations-take-2/86606#post_13)
 <!-- DISCOURSE-LLVM:END -->
