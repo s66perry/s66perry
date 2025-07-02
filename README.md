@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_65)
+- [RFC: upstreaming CIRCT&#39;s Verif and SMT dialects](https://discourse.llvm.org/t/rfc-upstreaming-circts-verif-and-smt-dialects/85299?page=2#post_23)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_2)
 - [Need help for bufferization](https://discourse.llvm.org/t/need-help-for-bufferization/87169#post_2)
 - [Need help for bufferization](https://discourse.llvm.org/t/need-help-for-bufferization/87169#post_1)
-- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_17)
-- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063#post_16)
-- [[RFC] Compile-time memref.alloc Scheduling/Merging optimization](https://discourse.llvm.org/t/rfc-compile-time-memref-alloc-scheduling-merging-optimization/78872?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
