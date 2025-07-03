@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_1)
 - [Need help for bufferization](https://discourse.llvm.org/t/need-help-for-bufferization/87169#post_4)
 - [Need help for bufferization](https://discourse.llvm.org/t/need-help-for-bufferization/87169#post_3)
 - [[RFC] Towards Disallowing Struct/Array IR Values](https://discourse.llvm.org/t/rfc-towards-disallowing-struct-array-ir-values/87154#post_11)
 - [Optimization of complex number division](https://discourse.llvm.org/t/optimization-of-complex-number-division/83468?page=2#post_25)
-- [Clang and FDPIC on ARM?](https://discourse.llvm.org/t/clang-and-fdpic-on-arm/87181#post_2)
 <!-- DISCOURSE-LLVM:END -->
