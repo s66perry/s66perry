@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_10)
-- [Why is null+value UB?](https://discourse.llvm.org/t/why-is-null-value-ub/87193#post_2)
-- [Disabling some IR optimizations](https://discourse.llvm.org/t/disabling-some-ir-optimizations/87191#post_3)
-- [Clang and FDPIC on ARM?](https://discourse.llvm.org/t/clang-and-fdpic-on-arm/87181#post_6)
-- [Clang and FDPIC on ARM?](https://discourse.llvm.org/t/clang-and-fdpic-on-arm/87181#post_5)
+- [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_5)
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_19)
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_18)
+- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_17)
+- [[RFC] Towards Disallowing Struct/Array IR Values](https://discourse.llvm.org/t/rfc-towards-disallowing-struct-array-ir-values/87154#post_14)
 <!-- DISCOURSE-LLVM:END -->
