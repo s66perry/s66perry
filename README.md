@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLD: Add support for GCC LTO format](https://discourse.llvm.org/t/rfc-lld-add-support-for-gcc-lto-format/87172#post_11)
+- [[RFC] Basic support for SPV_EXT_replicated_composites in MLIR SPIR-V &lpar;Compile-Time Constant Lowering Only&rpar;](https://discourse.llvm.org/t/rfc-basic-support-for-spv-ext-replicated-composites-in-mlir-spir-v-compile-time-constant-lowering-only/86987#post_10)
 - [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_12)
 - [[RFC] LLD: Add support for GCC LTO format](https://discourse.llvm.org/t/rfc-lld-add-support-for-gcc-lto-format/87172#post_10)
 - [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_11)
-- [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_5)
-- [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_19)
 <!-- DISCOURSE-LLVM:END -->
