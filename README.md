@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_11)
 - [RFC: Explaining release package types and purposes](https://discourse.llvm.org/t/rfc-explaining-release-package-types-and-purposes/85985#post_5)
 - [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_19)
 - [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_18)
 - [Improving documentation of what is considered a security issue in LLVM](https://discourse.llvm.org/t/improving-documentation-of-what-is-considered-a-security-issue-in-llvm/86714#post_17)
-- [[RFC] Towards Disallowing Struct/Array IR Values](https://discourse.llvm.org/t/rfc-towards-disallowing-struct-array-ir-values/87154#post_14)
 <!-- DISCOURSE-LLVM:END -->
