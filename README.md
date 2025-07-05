@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_4)
 - [[RFC] An MLIR Dialect for Distributed Heterogeneous Computing](https://discourse.llvm.org/t/rfc-an-mlir-dialect-for-distributed-heterogeneous-computing/86960#post_11)
 - [[RFC] An MLIR Dialect for Distributed Heterogeneous Computing](https://discourse.llvm.org/t/rfc-an-mlir-dialect-for-distributed-heterogeneous-computing/86960#post_10)
 - [[RFC] An MLIR Dialect for Distributed Heterogeneous Computing](https://discourse.llvm.org/t/rfc-an-mlir-dialect-for-distributed-heterogeneous-computing/86960#post_9)
 - [[RFC] An MLIR Dialect for Distributed Heterogeneous Computing](https://discourse.llvm.org/t/rfc-an-mlir-dialect-for-distributed-heterogeneous-computing/86960#post_8)
-- [Make LLVM faster, EASTL?](https://discourse.llvm.org/t/make-llvm-faster-eastl/87203#post_3)
 <!-- DISCOURSE-LLVM:END -->
