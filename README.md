@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_13)
+- [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_12)
 - [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_10)
 - [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_9)
 - [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_8)
-- [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_7)
-- [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_6)
 <!-- DISCOURSE-LLVM:END -->
