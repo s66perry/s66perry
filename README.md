@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_66)
 - [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063?page=2#post_23)
 - [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_16)
 - [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204#post_15)
 - [PDX Area July 2025 social](https://discourse.llvm.org/t/pdx-area-july-2025-social/87211#post_2)
-- [PDX May 2025 social](https://discourse.llvm.org/t/pdx-may-2025-social/86449#post_3)
 <!-- DISCOURSE-LLVM:END -->
