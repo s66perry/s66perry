@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_13)
 - [Help needed for triaging code generation](https://discourse.llvm.org/t/help-needed-for-triaging-code-generation/87071#post_10)
 - [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_14)
 - [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_13)
 - [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_12)
-- [Help needed for triaging code generation](https://discourse.llvm.org/t/help-needed-for-triaging-code-generation/87071#post_9)
 <!-- DISCOURSE-LLVM:END -->
