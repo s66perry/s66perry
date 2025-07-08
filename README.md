@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_14)
+- [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_13)
+- [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_12)
+- [Help needed for triaging code generation](https://discourse.llvm.org/t/help-needed-for-triaging-code-generation/87071#post_9)
 - [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_11)
-- [How to disable section merging?](https://discourse.llvm.org/t/how-to-disable-section-merging/87151#post_10)
-- [[RFC] LLD: Add support for GCC LTO format](https://discourse.llvm.org/t/rfc-lld-add-support-for-gcc-lto-format/87172#post_13)
-- [RFC: printf Code Size Optimization](https://discourse.llvm.org/t/rfc-printf-code-size-optimization/83146?page=2#post_35)
-- [[RFC] Building MLIR operation: observed caveats and proposed solution](https://discourse.llvm.org/t/rfc-building-mlir-operation-observed-caveats-and-proposed-solution/87204?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
