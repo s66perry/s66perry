@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Make SmallVector satisfy is_nothrow_move_constructible](https://discourse.llvm.org/t/make-smallvector-satisfy-is-nothrow-move-constructible/87256#post_4)
-- [LLVM 20.1.8 Released!](https://discourse.llvm.org/t/llvm-20-1-8-released/87259#post_1)
-- [[RFC] Improving is_stmt placement for better interactive debugging](https://discourse.llvm.org/t/rfc-improving-is-stmt-placement-for-better-interactive-debugging/82668?page=2#post_22)
-- [Issues Compiling With Offloading Support](https://discourse.llvm.org/t/issues-compiling-with-offloading-support/87258#post_1)
-- [Make SmallVector satisfy is_nothrow_move_constructible](https://discourse.llvm.org/t/make-smallvector-satisfy-is-nothrow-move-constructible/87256#post_3)
+- [[RFC] Defaulting &quot;-mllvm -pick-merged-source-locations&quot; for clang-cl CodeView Debug Info](https://discourse.llvm.org/t/rfc-defaulting-mllvm-pick-merged-source-locations-for-clang-cl-codeview-debug-info/86466#post_8)
+- [Mandatory data layout in the LLVM dialect](https://discourse.llvm.org/t/mandatory-data-layout-in-the-llvm-dialect/85875?page=2#post_39)
+- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_4)
+- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_3)
+- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_2)
 <!-- DISCOURSE-LLVM:END -->
