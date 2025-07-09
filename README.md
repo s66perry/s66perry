@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to safely change the order of variables within data section in lld](https://discourse.llvm.org/t/how-to-safely-change-the-order-of-variables-within-data-section-in-lld/87210#post_3)
+- [[RFC] Create hardened .clang-tidy config for /clang-tidy directory](https://discourse.llvm.org/t/rfc-create-hardened-clang-tidy-config-for-clang-tidy-directory/87247#post_10)
+- [[RFC] Take libstdc++ into account during GCC detection](https://discourse.llvm.org/t/rfc-take-libstdc-into-account-during-gcc-detection/86992#post_11)
 - [Go Bindings](https://discourse.llvm.org/t/go-bindings/87251#post_2)
 - [Handling strided memref in Affine Super Vectorize](https://discourse.llvm.org/t/handling-strided-memref-in-affine-super-vectorize/87240#post_2)
-- [How to solve the problem of stale Profile data when Bolt is used with pgo?](https://discourse.llvm.org/t/how-to-solve-the-problem-of-stale-profile-data-when-bolt-is-used-with-pgo/78007#post_13)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=5#post_81)
-- [Go Bindings](https://discourse.llvm.org/t/go-bindings/87251#post_1)
 <!-- DISCOURSE-LLVM:END -->
