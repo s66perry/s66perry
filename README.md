@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=5#post_84)
+- [Question about &quot;missing&quot; call coverage](https://discourse.llvm.org/t/question-about-missing-call-coverage/87266#post_1)
 - [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_11)
 - [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_10)
 - [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_9)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_8)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_7)
 <!-- DISCOURSE-LLVM:END -->
