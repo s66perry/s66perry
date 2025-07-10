@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=5#post_89)
+- [Question about &quot;missing&quot; call coverage](https://discourse.llvm.org/t/question-about-missing-call-coverage/87266#post_5)
 - [[RFC, mlir, vector] Deprecate then remove `vector.splat`](https://discourse.llvm.org/t/rfc-mlir-vector-deprecate-then-remove-vector-splat/87143#post_5)
 - [Question about &quot;missing&quot; call coverage](https://discourse.llvm.org/t/question-about-missing-call-coverage/87266#post_4)
 - [[RFC] Intra-procedural Lifetime Analysis in Clang](https://discourse.llvm.org/t/rfc-intra-procedural-lifetime-analysis-in-clang/86291#post_9)
-- [Make SmallVector satisfy is_nothrow_move_constructible](https://discourse.llvm.org/t/make-smallvector-satisfy-is-nothrow-move-constructible/87256#post_8)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_69)
 <!-- DISCOURSE-LLVM:END -->
