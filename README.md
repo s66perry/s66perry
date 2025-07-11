@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_3)
+- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_15)
+- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_14)
+- [Deprecate `&lpar;batch_&rpar;matmul_transpose_{a|b}` linalg operations](https://discourse.llvm.org/t/deprecate-batch-matmul-transpose-a-b-linalg-operations/87245#post_11)
 - [2025 LLVM Developers&#39; Meeting - Workshop Proposals](https://discourse.llvm.org/t/2025-llvm-developers-meeting-workshop-proposals/86265#post_4)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_13)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_12)
-- [Fix for sanitizer-aarch64-linux buildbot failure &lpar;and other also&rpar; after 8472eb1](https://discourse.llvm.org/t/fix-for-sanitizer-aarch64-linux-buildbot-failure-and-other-also-after-8472eb1/87293#post_1)
-- [Adding preprocessor defines to clang linker script &lpar;ld script&rpar;](https://discourse.llvm.org/t/adding-preprocessor-defines-to-clang-linker-script-ld-script/87291#post_4)
 <!-- DISCOURSE-LLVM:END -->
