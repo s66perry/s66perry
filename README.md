@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Code Coverage with Same Function Name on Two Different Programs](https://discourse.llvm.org/t/code-coverage-with-same-function-name-on-two-different-programs/87297#post_1)
+- [Code Coverage with Same Function Name on Different Programs](https://discourse.llvm.org/t/code-coverage-with-same-function-name-on-different-programs/87296#post_1)
+- [Deprecate `&lpar;batch_&rpar;matmul_transpose_{a|b}` linalg operations](https://discourse.llvm.org/t/deprecate-batch-matmul-transpose-a-b-linalg-operations/87245#post_13)
+- [Deprecate `&lpar;batch_&rpar;matmul_transpose_{a|b}` linalg operations](https://discourse.llvm.org/t/deprecate-batch-matmul-transpose-a-b-linalg-operations/87245#post_12)
 - [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_3)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_15)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_14)
-- [Deprecate `&lpar;batch_&rpar;matmul_transpose_{a|b}` linalg operations](https://discourse.llvm.org/t/deprecate-batch-matmul-transpose-a-b-linalg-operations/87245#post_11)
-- [2025 LLVM Developers&#39; Meeting - Workshop Proposals](https://discourse.llvm.org/t/2025-llvm-developers-meeting-workshop-proposals/86265#post_4)
 <!-- DISCOURSE-LLVM:END -->
