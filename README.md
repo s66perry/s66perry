@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jun 23 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jun-23-25-6pm/86927#post_5)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jul 21 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jul-21-25-6pm/87298#post_1)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jun 23 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jun-23-25-6pm/86927#post_4)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jun 23 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jun-23-25-6pm/86927#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jun 23 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jun-23-25-6pm/86927#post_2)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=5#post_93)
+- [Code Coverage with Same Function Name on Two Different Programs](https://discourse.llvm.org/t/code-coverage-with-same-function-name-on-two-different-programs/87297#post_2)
+- [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_4)
+- [Question about &quot;missing&quot; call coverage](https://discourse.llvm.org/t/question-about-missing-call-coverage/87266#post_7)
+- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=5#post_92)
 <!-- DISCOURSE-LLVM:END -->
