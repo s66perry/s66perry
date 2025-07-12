@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_71)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_70)
+- [Webinar Open Source Tool Qualification](https://discourse.llvm.org/t/webinar-open-source-tool-qualification/87302#post_1)
 - [Where would a `sign` op live?](https://discourse.llvm.org/t/where-would-a-sign-op-live/87267#post_4)
 - [Where would a `sign` op live?](https://discourse.llvm.org/t/where-would-a-sign-op-live/87267#post_3)
-- [Compiler-rt Build Failure For Orc Lib - Sysroot C++ Includes Ignored](https://discourse.llvm.org/t/compiler-rt-build-failure-for-orc-lib-sysroot-c-includes-ignored/87268#post_2)
-- [2025 LLVM Developers&#39; Meeting - Deadline Reminders](https://discourse.llvm.org/t/2025-llvm-developers-meeting-deadline-reminders/87300#post_1)
-- [[RFC] DWARF CFI validation](https://discourse.llvm.org/t/rfc-dwarf-cfi-validation/86936#post_10)
 <!-- DISCOURSE-LLVM:END -->
