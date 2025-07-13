@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Rust, LLVM, and LLDB](https://discourse.llvm.org/t/rust-llvm-and-lldb/87120#post_7)
+- [Rust, LLVM, and LLDB](https://discourse.llvm.org/t/rust-llvm-and-lldb/87120#post_6)
+- [Understand Operation nesting in OperationPass Interface](https://discourse.llvm.org/t/understand-operation-nesting-in-operationpass-interface/87316#post_2)
 - [Understand Operation nesting in OperationPass Interface](https://discourse.llvm.org/t/understand-operation-nesting-in-operationpass-interface/87316#post_1)
 - [Where would a `sign` op live?](https://discourse.llvm.org/t/where-would-a-sign-op-live/87267#post_7)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_19)
-- [Where would a `sign` op live?](https://discourse.llvm.org/t/where-would-a-sign-op-live/87267#post_6)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262#post_18)
 <!-- DISCOURSE-LLVM:END -->
