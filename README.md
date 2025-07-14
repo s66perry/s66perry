@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm-objdump: disassembling unknown instructions](https://discourse.llvm.org/t/llvm-objdump-disassembling-unknown-instructions/87325#post_2)
+- [Is it Reasonable to Construct Temporary AST Nodes in CodeGen for Code Generation?](https://discourse.llvm.org/t/is-it-reasonable-to-construct-temporary-ast-nodes-in-codegen-for-code-generation/87328#post_1)
+- [Issues Compiling With Offloading Support](https://discourse.llvm.org/t/issues-compiling-with-offloading-support/87258#post_5)
 - [Llvm-objdump: disassembling unknown instructions](https://discourse.llvm.org/t/llvm-objdump-disassembling-unknown-instructions/87325#post_1)
 - [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262?page=2#post_22)
-- [Where would a `sign` op live?](https://discourse.llvm.org/t/where-would-a-sign-op-live/87267#post_8)
-- [Is lldb-dap usable?](https://discourse.llvm.org/t/is-lldb-dap-usable/87320#post_3)
-- [Is lldb-dap usable?](https://discourse.llvm.org/t/is-lldb-dap-usable/87320#post_2)
 <!-- DISCOURSE-LLVM:END -->
