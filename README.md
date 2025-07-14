@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_1)
-- [TableGen: Defining an instruction with a shared operand and multiple register classes](https://discourse.llvm.org/t/tablegen-defining-an-instruction-with-a-shared-operand-and-multiple-register-classes/87332#post_2)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507#post_20)
-- [Platform-independent `printf` Operation](https://discourse.llvm.org/t/platform-independent-printf-operation/87262?page=2#post_27)
-- [Announcing the Lifetime Safety Breakout Group](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333#post_1)
+- [Where would a `sign` op live?](https://discourse.llvm.org/t/where-would-a-sign-op-live/87267#post_10)
+- [TableGen: Defining an instruction with a shared operand and multiple register classes](https://discourse.llvm.org/t/tablegen-defining-an-instruction-with-a-shared-operand-and-multiple-register-classes/87332#post_3)
+- [[RFC] Intra-procedural Lifetime Analysis in Clang](https://discourse.llvm.org/t/rfc-intra-procedural-lifetime-analysis-in-clang/86291#post_11)
+- [Issues Compiling With Offloading Support](https://discourse.llvm.org/t/issues-compiling-with-offloading-support/87258#post_7)
+- [Understand Operation nesting in OperationPass Interface](https://discourse.llvm.org/t/understand-operation-nesting-in-operationpass-interface/87316#post_7)
 <!-- DISCOURSE-LLVM:END -->
