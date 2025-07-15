@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC]LoopStrengthReduce Missed in Outer Loops Containing Inner Loops](https://discourse.llvm.org/t/rfc-loopstrengthreduce-missed-in-outer-loops-containing-inner-loops/87356#post_3)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_32)
-- [[RFC]LoopStrengthReduce Missed in Outer Loops Containing Inner Loops](https://discourse.llvm.org/t/rfc-loopstrengthreduce-missed-in-outer-loops-containing-inner-loops/87356#post_2)
-- [A way to disable the &quot;answer&quot; reminder](https://discourse.llvm.org/t/a-way-to-disable-the-answer-reminder/87364#post_1)
-- [[RFC][memref][spirv] Targeting Images in Memref -&gt; SPIR-V Conversions](https://discourse.llvm.org/t/rfc-memref-spirv-targeting-images-in-memref-spir-v-conversions/87138#post_4)
+- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_8)
+- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_34)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_73)
+- [CAPI: `MlirStringRef` and null-termination](https://discourse.llvm.org/t/capi-mlirstringref-and-null-termination/87369#post_1)
+- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_7)
 <!-- DISCOURSE-LLVM:END -->
