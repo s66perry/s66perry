@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_37)
-- [LLVM 21.x release branch created, main is now 22](https://discourse.llvm.org/t/llvm-21-x-release-branch-created-main-is-now-22/87374#post_1)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_36)
-- [Rules for overriding what &quot;this&quot; refers to in the AST &lpar;e.g., if under an InitListExpr&rpar;?](https://discourse.llvm.org/t/rules-for-overriding-what-this-refers-to-in-the-ast-e-g-if-under-an-initlistexpr/87372#post_1)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=2#post_35)
+- [Deprecate `&lpar;batch_&rpar;matmul_transpose_{a|b}` linalg operations](https://discourse.llvm.org/t/deprecate-batch-matmul-transpose-a-b-linalg-operations/87245#post_20)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_74)
+- [Including a header file in linker.ld scripts for clang build](https://discourse.llvm.org/t/including-a-header-file-in-linker-ld-scripts-for-clang-build/87377#post_3)
+- [Deprecate `&lpar;batch_&rpar;matmul_transpose_{a|b}` linalg operations](https://discourse.llvm.org/t/deprecate-batch-matmul-transpose-a-b-linalg-operations/87245#post_19)
+- [Including a header file in linker.ld scripts for clang build](https://discourse.llvm.org/t/including-a-header-file-in-linker-ld-scripts-for-clang-build/87377#post_2)
 <!-- DISCOURSE-LLVM:END -->
