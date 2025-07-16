@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a warning when bypassing the premerge testing](https://discourse.llvm.org/t/rfc-add-a-warning-when-bypassing-the-premerge-testing/77610?page=4#post_70)
-- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_6)
-- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_5)
-- [Updating MLIR syntax plugin](https://discourse.llvm.org/t/updating-mlir-syntax-plugin/87399#post_6)
-- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_4)
+- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_10)
+- [[RFC] Parallel Runtime Interface for Fortran &lpar;PRIF&rpar;](https://discourse.llvm.org/t/rfc-parallel-runtime-interface-for-fortran-prif/75801#post_7)
+- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_9)
+- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_8)
+- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_7)
 <!-- DISCOURSE-LLVM:END -->
