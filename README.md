@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Commonizing the enum `ComplexRangeKind` with Flang](https://discourse.llvm.org/t/commonizing-the-enum-complexrangekind-with-flang/87392#post_1)
+- [[RFC] Should we omit local symbols in ELF files from the LLDB symbol table?](https://discourse.llvm.org/t/rfc-should-we-omit-local-symbols-in-elf-files-from-the-lldb-symbol-table/87384#post_3)
+- [[Clangd] Feature Request: Automatically generate .gitignore in the .cache directory](https://discourse.llvm.org/t/clangd-feature-request-automatically-generate-gitignore-in-the-cache-directory/87390#post_2)
+- [Is it Reasonable to Construct Temporary AST Nodes in CodeGen for Code Generation?](https://discourse.llvm.org/t/is-it-reasonable-to-construct-temporary-ast-nodes-in-codegen-for-code-generation/87328#post_6)
 - [[Clangd] Feature Request: Automatically generate .gitignore in the .cache directory](https://discourse.llvm.org/t/clangd-feature-request-automatically-generate-gitignore-in-the-cache-directory/87390#post_1)
-- [Using Cursor AI IDE with MLIR](https://discourse.llvm.org/t/using-cursor-ai-ide-with-mlir/87388#post_2)
-- [Using Cursor AI IDE with MLIR](https://discourse.llvm.org/t/using-cursor-ai-ide-with-mlir/87388#post_1)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=2#post_24)
-- [LLVM 20.x Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-20-x-release-third-party-binaries/84366?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
