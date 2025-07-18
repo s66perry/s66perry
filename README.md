@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_4)
+- [[RFC] MLIR Project Lighthouse](https://discourse.llvm.org/t/rfc-mlir-project-lighthouse/86738#post_9)
 - [[RFC] Should we omit local symbols in ELF files from the LLDB symbol table?](https://discourse.llvm.org/t/rfc-should-we-omit-local-symbols-in-elf-files-from-the-lldb-symbol-table/87384#post_4)
 - [Add a field to Coverage Mapping to track instrumentation level](https://discourse.llvm.org/t/add-a-field-to-coverage-mapping-to-track-instrumentation-level/86624#post_7)
 - [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_3)
-- [Tosa.Pad operand must be tosa-conformant scalar tensor of number values](https://discourse.llvm.org/t/tosa-pad-operand-must-be-tosa-conformant-scalar-tensor-of-number-values/87432#post_3)
-- [[Announcement] Windows CI has Migrated To Server 2022, Please Rebase Stacked PRs](https://discourse.llvm.org/t/announcement-windows-ci-has-migrated-to-server-2022-please-rebase-stacked-prs/87400#post_2)
 <!-- DISCOURSE-LLVM:END -->
