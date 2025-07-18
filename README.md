@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Tosa.ReduceAll/Any datatype strict spec alignment](https://discourse.llvm.org/t/tosa-reduceall-any-datatype-strict-spec-alignment/87430#post_1)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=5#post_82)
+- [Announcing the Lifetime Safety Breakout Group](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333#post_2)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_77)
 - [Clarification on GPL-Licensed Snippets Detected in LLVM Source Code](https://discourse.llvm.org/t/clarification-on-gpl-licensed-snippets-detected-in-llvm-source-code/87415#post_5)
-- [How do convolutions get tiled in MLIR?](https://discourse.llvm.org/t/how-do-convolutions-get-tiled-in-mlir/86926#post_3)
-- [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495?page=2#post_25)
-- [Coverage on Multiple Architectures Fails](https://discourse.llvm.org/t/coverage-on-multiple-architectures-fails/87343#post_4)
-- [Why vector type v3i32 is extended to v4i32 in frontend](https://discourse.llvm.org/t/why-vector-type-v3i32-is-extended-to-v4i32-in-frontend/87412#post_3)
 <!-- DISCOURSE-LLVM:END -->
