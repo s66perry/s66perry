@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_1)
+- [Add a field to Coverage Mapping to track instrumentation level](https://discourse.llvm.org/t/add-a-field-to-coverage-mapping-to-track-instrumentation-level/86624#post_6)
+- [LLVM 21.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-21-x-release-third-party-binaries/87420#post_2)
 - [MLIR Project Maintainers](https://discourse.llvm.org/t/mlir-project-maintainers/87189#post_10)
 - [Tosa.Pad operand must be tosa-conformant scalar tensor of number values](https://discourse.llvm.org/t/tosa-pad-operand-must-be-tosa-conformant-scalar-tensor-of-number-values/87432#post_1)
-- [[RFC] MLIR Project Lighthouse](https://discourse.llvm.org/t/rfc-mlir-project-lighthouse/86738#post_8)
-- [Tosa.ReduceAll/Any datatype strict spec alignment](https://discourse.llvm.org/t/tosa-reduceall-any-datatype-strict-spec-alignment/87430#post_1)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=5#post_82)
 <!-- DISCOURSE-LLVM:END -->
