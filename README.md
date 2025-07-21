@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=5#post_100)
-- [LLVM 21.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-21-x-release-third-party-binaries/87420#post_3)
-- [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_17)
-- [Optimizing simplifySVal [raw idea]](https://discourse.llvm.org/t/optimizing-simplifysval-raw-idea/87117#post_5)
-- [Type based GEP plans](https://discourse.llvm.org/t/type-based-gep-plans/87183#post_16)
+- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_5)
+- [Elegant way to use transform existing transform pattern](https://discourse.llvm.org/t/elegant-way-to-use-transform-existing-transform-pattern/87438#post_3)
+- [Slow responses from Discourse](https://discourse.llvm.org/t/slow-responses-from-discourse/87460#post_1)
+- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_4)
+- [RFC: MPS dialect in MLIR](https://discourse.llvm.org/t/rfc-mps-dialect-in-mlir/77102?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
