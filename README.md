@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][PSA?] Remove `vector.extractelement` and `vector.insertelement` ops in favor of `vector.extract` and `vector.insert` ops](https://discourse.llvm.org/t/rfc-psa-remove-vector-extractelement-and-vector-insertelement-ops-in-favor-of-vector-extract-and-vector-insert-ops/71116#post_17)
+- [2025 LLVM Developers&#39; Meeting - Registration is open!](https://discourse.llvm.org/t/2025-llvm-developers-meeting-registration-is-open/87468#post_1)
+- [Rust, LLVM, and LLDB](https://discourse.llvm.org/t/rust-llvm-and-lldb/87120#post_11)
 - [[RFC] Provide better experience for new clang-tidy users](https://discourse.llvm.org/t/rfc-provide-better-experience-for-new-clang-tidy-users/87466#post_2)
 - [[RFC] Provide better experience for new clang-tidy users](https://discourse.llvm.org/t/rfc-provide-better-experience-for-new-clang-tidy-users/87466#post_1)
-- [Can&#39;t cross compile libc++ from wsl to windows](https://discourse.llvm.org/t/cant-cross-compile-libc-from-wsl-to-windows/87465#post_1)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=6#post_105)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=6#post_104)
 <!-- DISCOURSE-LLVM:END -->
