@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Mem2Reg Alloca Promotion](https://discourse.llvm.org/t/mem2reg-alloca-promotion/87455#post_2)
-- [Mem2Reg Alloca Promotion](https://discourse.llvm.org/t/mem2reg-alloca-promotion/87455#post_1)
-- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_1)
-- [MLIR Project Maintainers](https://discourse.llvm.org/t/mlir-project-maintainers/87189#post_14)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=5#post_99)
+- [Optimizing simplifySVal [raw idea]](https://discourse.llvm.org/t/optimizing-simplifysval-raw-idea/87117#post_4)
+- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_3)
+- [[RFC] Support Target Triple Specific Include Paths Derived from Sysroot via multilib.yaml or Driver Logic](https://discourse.llvm.org/t/rfc-support-target-triple-specific-include-paths-derived-from-sysroot-via-multilib-yaml-or-driver-logic/86925#post_5)
+- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_2)
+- [Transforming Flattened Addressing of Multi-Dimensional Arrays into Layered GEP Chains to Reduce Redundant Computation](https://discourse.llvm.org/t/transforming-flattened-addressing-of-multi-dimensional-arrays-into-layered-gep-chains-to-reduce-redundant-computation/87358#post_4)
 <!-- DISCOURSE-LLVM:END -->
