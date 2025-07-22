@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Rename source files in clang/lib/CodeGen/TargetBuiltins/*](https://discourse.llvm.org/t/rfc-rename-source-files-in-clang-lib-codegen-targetbuiltins/87462#post_6)
-- [&lpar;TOSA&rpar; EXT-DYNAMIC clearification needed](https://discourse.llvm.org/t/tosa-ext-dynamic-clearification-needed/87478#post_4)
-- [&lpar;TOSA&rpar; EXT-DYNAMIC clearification needed](https://discourse.llvm.org/t/tosa-ext-dynamic-clearification-needed/87478#post_3)
-- [&lpar;TOSA&rpar; EXT-DYNAMIC clearification needed](https://discourse.llvm.org/t/tosa-ext-dynamic-clearification-needed/87478#post_2)
-- [LLVM 21.x release branch created, main is now 22](https://discourse.llvm.org/t/llvm-21-x-release-branch-created-main-is-now-22/87374#post_2)
+- [Tosa.ReduceAll/Any datatype strict spec alignment](https://discourse.llvm.org/t/tosa-reduceall-any-datatype-strict-spec-alignment/87430#post_3)
+- [[RFC] Provide better experience for new clang-tidy users](https://discourse.llvm.org/t/rfc-provide-better-experience-for-new-clang-tidy-users/87466#post_15)
+- [[RFC] Rename source files in clang/lib/CodeGen/TargetBuiltins/*](https://discourse.llvm.org/t/rfc-rename-source-files-in-clang-lib-codegen-targetbuiltins/87462#post_13)
+- [[RFC] Rename source files in clang/lib/CodeGen/TargetBuiltins/*](https://discourse.llvm.org/t/rfc-rename-source-files-in-clang-lib-codegen-targetbuiltins/87462#post_12)
+- [[RFC] Rename source files in clang/lib/CodeGen/TargetBuiltins/*](https://discourse.llvm.org/t/rfc-rename-source-files-in-clang-lib-codegen-targetbuiltins/87462#post_11)
 <!-- DISCOURSE-LLVM:END -->
