@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #603, July 21st 2025](https://discourse.llvm.org/t/llvm-weekly-603-july-21st-2025/87463#post_4)
+- [How to extend Finalize MemRefToLLVM Conversion Pass?](https://discourse.llvm.org/t/how-to-extend-finalize-memreftollvm-conversion-pass/87471#post_1)
 - [Elegant way to use transform existing transform pattern](https://discourse.llvm.org/t/elegant-way-to-use-transform-existing-transform-pattern/87438#post_4)
 - [[Bolt] How to create and initialize a global variable in llvm-bolt pass?](https://discourse.llvm.org/t/bolt-how-to-create-and-initialize-a-global-variable-in-llvm-bolt-pass/84905#post_3)
 - [LLVM Weekly - #603, July 21st 2025](https://discourse.llvm.org/t/llvm-weekly-603-july-21st-2025/87463#post_3)
-- [Some transform about sext/zext, is it reasonable](https://discourse.llvm.org/t/some-transform-about-sext-zext-is-it-reasonable/87449#post_3)
-- [[RFC][PSA?] Remove `vector.extractelement` and `vector.insertelement` ops in favor of `vector.extract` and `vector.insert` ops](https://discourse.llvm.org/t/rfc-psa-remove-vector-extractelement-and-vector-insertelement-ops-in-favor-of-vector-extract-and-vector-insert-ops/71116#post_18)
 <!-- DISCOURSE-LLVM:END -->
