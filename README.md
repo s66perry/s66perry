@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Metadata preservation in Coroutines](https://discourse.llvm.org/t/metadata-preservation-in-coroutines/87494#post_1)
 - [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_10)
 - [Hard Hint Support in Fast Register Allocator](https://discourse.llvm.org/t/hard-hint-support-in-fast-register-allocator/87487#post_3)
 - [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479#post_10)
 - [IF condition does not take effect in CMakeLists.txt](https://discourse.llvm.org/t/if-condition-does-not-take-effect-in-cmakelists-txt/87492#post_1)
-- [Hard Hint Support in Fast Register Allocator](https://discourse.llvm.org/t/hard-hint-support-in-fast-register-allocator/87487#post_2)
 <!-- DISCOURSE-LLVM:END -->
