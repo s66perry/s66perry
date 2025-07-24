@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Create a GitHub `Project` for MLIR](https://discourse.llvm.org/t/rfc-create-a-github-project-for-mlir/87528#post_3)
+- [[RFC] Create a GitHub `Project` for MLIR](https://discourse.llvm.org/t/rfc-create-a-github-project-for-mlir/87528#post_2)
+- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_1)
+- [[RFC] No-loop mode for OpenMP GPU kernels](https://discourse.llvm.org/t/rfc-no-loop-mode-for-openmp-gpu-kernels/87517#post_3)
 - [PSA: `OpTy::create` now with 100% more tab complete](https://discourse.llvm.org/t/psa-opty-create-now-with-100-more-tab-complete/87339#post_5)
-- [[RFC] Create a GitHub `Project` for MLIR](https://discourse.llvm.org/t/rfc-create-a-github-project-for-mlir/87528#post_1)
-- [Non-attribute properties?](https://discourse.llvm.org/t/non-attribute-properties/87523#post_4)
-- [Can &lpar;or should&rpar; I disable verification for specific passes?](https://discourse.llvm.org/t/can-or-should-i-disable-verification-for-specific-passes/87524#post_3)
-- [Can &lpar;or should&rpar; I disable verification for specific passes?](https://discourse.llvm.org/t/can-or-should-i-disable-verification-for-specific-passes/87524#post_2)
 <!-- DISCOURSE-LLVM:END -->
