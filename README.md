@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can &lpar;or should&rpar; I disable verification for specific passes?](https://discourse.llvm.org/t/can-or-should-i-disable-verification-for-specific-passes/87524#post_3)
+- [Can &lpar;or should&rpar; I disable verification for specific passes?](https://discourse.llvm.org/t/can-or-should-i-disable-verification-for-specific-passes/87524#post_2)
+- [PSA: `OpTy::create` now with 100% more tab complete](https://discourse.llvm.org/t/psa-opty-create-now-with-100-more-tab-complete/87339#post_4)
+- [Can &lpar;or should&rpar; I disable verification for specific passes?](https://discourse.llvm.org/t/can-or-should-i-disable-verification-for-specific-passes/87524#post_1)
 - [PSA: `OpTy::create` now with 100% more tab complete](https://discourse.llvm.org/t/psa-opty-create-now-with-100-more-tab-complete/87339#post_3)
-- [Non-attribute properties?](https://discourse.llvm.org/t/non-attribute-properties/87523#post_3)
-- [Non-attribute properties?](https://discourse.llvm.org/t/non-attribute-properties/87523#post_2)
-- [Non-attribute properties?](https://discourse.llvm.org/t/non-attribute-properties/87523#post_1)
-- [Revisiting 64-bit source locations](https://discourse.llvm.org/t/revisiting-64-bit-source-locations/86556?page=3#post_42)
 <!-- DISCOURSE-LLVM:END -->
