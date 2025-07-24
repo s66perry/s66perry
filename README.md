@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Create a GitHub `Project` for MLIR](https://discourse.llvm.org/t/rfc-create-a-github-project-for-mlir/87528#post_3)
-- [[RFC] Create a GitHub `Project` for MLIR](https://discourse.llvm.org/t/rfc-create-a-github-project-for-mlir/87528#post_2)
-- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_1)
-- [[RFC] No-loop mode for OpenMP GPU kernels](https://discourse.llvm.org/t/rfc-no-loop-mode-for-openmp-gpu-kernels/87517#post_3)
-- [PSA: `OpTy::create` now with 100% more tab complete](https://discourse.llvm.org/t/psa-opty-create-now-with-100-more-tab-complete/87339#post_5)
+- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_2)
+- [TableGen: Defining an instruction with a shared operand and multiple register classes](https://discourse.llvm.org/t/tablegen-defining-an-instruction-with-a-shared-operand-and-multiple-register-classes/87332#post_10)
+- [[RFC] Create a GitHub `Project` for MLIR](https://discourse.llvm.org/t/rfc-create-a-github-project-for-mlir/87528#post_4)
+- [TableGen custom Instruction &quot;Operand not declared in matcher&quot;](https://discourse.llvm.org/t/tablegen-custom-instruction-operand-not-declared-in-matcher/87532#post_1)
+- [Hard Hint Support in Fast Register Allocator](https://discourse.llvm.org/t/hard-hint-support-in-fast-register-allocator/87487#post_6)
 <!-- DISCOURSE-LLVM:END -->
