@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_10)
-- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_9)
-- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_8)
-- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_7)
-- [Is lldb-dap usable?](https://discourse.llvm.org/t/is-lldb-dap-usable/87320#post_12)
+- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_6)
+- [[RFC] Should we omit local symbols in ELF files from the LLDB symbol table?](https://discourse.llvm.org/t/rfc-should-we-omit-local-symbols-in-elf-files-from-the-lldb-symbol-table/87384#post_5)
+- [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_8)
+- [[RFC] An opt-in CMake option for 64-bit Source Location](https://discourse.llvm.org/t/rfc-an-opt-in-cmake-option-for-64-bit-source-location/87538#post_12)
+- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_12)
 <!-- DISCOURSE-LLVM:END -->
