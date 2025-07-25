@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_13)
-- [[RFC] Improving LTO build times with enhanced Split DWARF](https://discourse.llvm.org/t/rfc-improving-lto-build-times-with-enhanced-split-dwarf/87548#post_3)
-- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_7)
-- [[RFC][Driver] Link the Driver against clangDependencyScanning, clangAST, clangFrontend, clangSerialization and clangLex](https://discourse.llvm.org/t/rfc-driver-link-the-driver-against-clangdependencyscanning-clangast-clangfrontend-clangserialization-and-clanglex/87469#post_2)
-- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_6)
+- [Add a field to Coverage Mapping to track instrumentation level](https://discourse.llvm.org/t/add-a-field-to-coverage-mapping-to-track-instrumentation-level/86624#post_8)
+- [About the ADD+GEP -&gt; GEP+GEP transform in InstCombine](https://discourse.llvm.org/t/about-the-add-gep-gep-gep-transform-in-instcombine/84988#post_8)
+- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_15)
+- [Delete llvm/lib/Target/Lanai](https://discourse.llvm.org/t/delete-llvm-lib-target-lanai/87060#post_5)
+- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_14)
 <!-- DISCOURSE-LLVM:END -->
