@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Add a field to Coverage Mapping to track instrumentation level](https://discourse.llvm.org/t/add-a-field-to-coverage-mapping-to-track-instrumentation-level/86624#post_9)
+- [Machine Scheduler: Instruction Fusion Model](https://discourse.llvm.org/t/machine-scheduler-instruction-fusion-model/87535#post_3)
 - [Machine Scheduler: Instruction Fusion Model](https://discourse.llvm.org/t/machine-scheduler-instruction-fusion-model/87535#post_2)
 - [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_18)
 - [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_17)
-- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547#post_16)
-- [How to mark memref func.func arguments as NoAlias in the IR for MLIR&#39;s Alias Analysis info?](https://discourse.llvm.org/t/how-to-mark-memref-func-func-arguments-as-noalias-in-the-ir-for-mlirs-alias-analysis-info/87530#post_3)
 <!-- DISCOURSE-LLVM:END -->
