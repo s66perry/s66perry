@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Inline][FMV] Inlining multi-versioned functions](https://discourse.llvm.org/t/inline-fmv-inlining-multi-versioned-functions/87550#post_2)
-- [Machine Scheduler: Instruction Fusion Model](https://discourse.llvm.org/t/machine-scheduler-instruction-fusion-model/87535#post_5)
-- [[RFC][Driver] Link the Driver against clangDependencyScanning, clangAST, clangFrontend, clangSerialization and clangLex](https://discourse.llvm.org/t/rfc-driver-link-the-driver-against-clangdependencyscanning-clangast-clangfrontend-clangserialization-and-clanglex/87469#post_3)
-- [Machine Scheduler: Instruction Fusion Model](https://discourse.llvm.org/t/machine-scheduler-instruction-fusion-model/87535#post_4)
-- [[RFC] Rename source files in clang/lib/CodeGen/TargetBuiltins/*](https://discourse.llvm.org/t/rfc-rename-source-files-in-clang-lib-codegen-targetbuiltins/87462#post_16)
+- [Machine Scheduler: Instruction Fusion Model](https://discourse.llvm.org/t/machine-scheduler-instruction-fusion-model/87535#post_6)
+- [PSA: `OpTy::create` now with 100% more tab complete](https://discourse.llvm.org/t/psa-opty-create-now-with-100-more-tab-complete/87339#post_9)
+- [How to run no optimization with llc](https://discourse.llvm.org/t/how-to-run-no-optimization-with-llc/87552#post_3)
+- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_12)
+- [How to run no optimization with llc](https://discourse.llvm.org/t/how-to-run-no-optimization-with-llc/87552#post_2)
 <!-- DISCOURSE-LLVM:END -->
