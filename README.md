@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to Get Precise Byte Offset and Access Size for Global Variables in an LLVM Pass?](https://discourse.llvm.org/t/how-to-get-precise-byte-offset-and-access-size-for-global-variables-in-an-llvm-pass/87576#post_1)
 - [MLIR Project Maintainers](https://discourse.llvm.org/t/mlir-project-maintainers/87189#post_17)
 - [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_8)
 - [MLIR Project Maintainers](https://discourse.llvm.org/t/mlir-project-maintainers/87189#post_16)
 - [[LLVM-DEV&#39;25] LLVM :hearts: ML Workshop](https://discourse.llvm.org/t/llvm-dev25-llvm-ml-workshop/87488#post_2)
-- [Add a field to Coverage Mapping to track instrumentation level](https://discourse.llvm.org/t/add-a-field-to-coverage-mapping-to-track-instrumentation-level/86624#post_10)
 <!-- DISCOURSE-LLVM:END -->
