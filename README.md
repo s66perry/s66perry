@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why is LLDB dying?](https://discourse.llvm.org/t/why-is-lldb-dying/87582#post_2)
-- [Why is LLDB dying?](https://discourse.llvm.org/t/why-is-lldb-dying/87582#post_1)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349?page=2#post_38)
-- [How to Get Precise Byte Offset and Access Size for Global Variables in an LLVM Pass?](https://discourse.llvm.org/t/how-to-get-precise-byte-offset-and-access-size-for-global-variables-in-an-llvm-pass/87576#post_4)
-- [How to Get Precise Byte Offset and Access Size for Global Variables in an LLVM Pass?](https://discourse.llvm.org/t/how-to-get-precise-byte-offset-and-access-size-for-global-variables-in-an-llvm-pass/87576#post_3)
+- [[RFC] Deprecating `usePropertiesForAttributes = 0`](https://discourse.llvm.org/t/rfc-deprecating-usepropertiesforattributes-0/87536#post_3)
+- [[RFC] Deprecating `usePropertiesForAttributes = 0`](https://discourse.llvm.org/t/rfc-deprecating-usepropertiesforattributes-0/87536#post_2)
+- [[RFC] __has_builtin behavior on offloading targets](https://discourse.llvm.org/t/rfc-has-builtin-behavior-on-offloading-targets/84964?page=2#post_21)
+- [How to run no optimization with llc](https://discourse.llvm.org/t/how-to-run-no-optimization-with-llc/87552#post_4)
+- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579#post_3)
 <!-- DISCOURSE-LLVM:END -->
