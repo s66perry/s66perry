@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR Project Maintainers](https://discourse.llvm.org/t/mlir-project-maintainers/87189#post_15)
+- [Non-attribute properties?](https://discourse.llvm.org/t/non-attribute-properties/87523#post_12)
+- [How to mark memref func.func arguments as NoAlias in the IR for MLIR&#39;s Alias Analysis info?](https://discourse.llvm.org/t/how-to-mark-memref-func-func-arguments-as-noalias-in-the-ir-for-mlirs-alias-analysis-info/87530#post_4)
+- [Can &lpar;or should&rpar; I disable verification for specific passes?](https://discourse.llvm.org/t/can-or-should-i-disable-verification-for-specific-passes/87524#post_9)
 - [[MC] Removing aligned bundling support](https://discourse.llvm.org/t/mc-removing-aligned-bundling-support/79518#post_8)
-- [[RFC] An opt-in CMake option for 64-bit Source Location](https://discourse.llvm.org/t/rfc-an-opt-in-cmake-option-for-64-bit-source-location/87538#post_13)
-- [Looking for Advice: How Do You Approach Optimizing Benchmarks or Real Programs?](https://discourse.llvm.org/t/looking-for-advice-how-do-you-approach-optimizing-benchmarks-or-real-programs/87565#post_3)
-- [Looking for Advice: How Do You Approach Optimizing Benchmarks or Real Programs?](https://discourse.llvm.org/t/looking-for-advice-how-do-you-approach-optimizing-benchmarks-or-real-programs/87565#post_2)
-- [Looking for Advice: How Do You Approach Optimizing Benchmarks or Real Programs?](https://discourse.llvm.org/t/looking-for-advice-how-do-you-approach-optimizing-benchmarks-or-real-programs/87565#post_1)
 <!-- DISCOURSE-LLVM:END -->
