@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Where can I download the EBNF syntax description document for C++ syntax parser by clang?](https://discourse.llvm.org/t/where-can-i-download-the-ebnf-syntax-description-document-for-c-syntax-parser-by-clang/87614#post_2)
+- [Where can I download the EBNF syntax description document for C++ syntax parser by clang?](https://discourse.llvm.org/t/where-can-i-download-the-ebnf-syntax-description-document-for-c-syntax-parser-by-clang/87614#post_1)
+- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_10)
+- [Issues with system headers when using clang-tidy with a GCC MinGW64 compiler](https://discourse.llvm.org/t/issues-with-system-headers-when-using-clang-tidy-with-a-gcc-mingw64-compiler/87511#post_5)
 - [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=2#post_22)
-- [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_1)
-- [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_1)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_79)
-- [[RFC] No-loop mode for OpenMP GPU kernels](https://discourse.llvm.org/t/rfc-no-loop-mode-for-openmp-gpu-kernels/87517#post_7)
 <!-- DISCOURSE-LLVM:END -->
