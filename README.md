@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[clang-tidy] performance-unnecessary-copy-initialization can not warn about the initialization with memExpr](https://discourse.llvm.org/t/clang-tidy-performance-unnecessary-copy-initialization-can-not-warn-about-the-initialization-with-memexpr/87595#post_5)
+- [Implementing TilingInterface for tensor ops](https://discourse.llvm.org/t/implementing-tilinginterface-for-tensor-ops/87597#post_2)
 - [Implementing TilingInterface for tensor ops](https://discourse.llvm.org/t/implementing-tilinginterface-for-tensor-ops/87597#post_1)
 - [[clang-tidy] performance-unnecessary-copy-initialization can not warn about the initialization with memExpr](https://discourse.llvm.org/t/clang-tidy-performance-unnecessary-copy-initialization-can-not-warn-about-the-initialization-with-memexpr/87595#post_4)
 - [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579#post_4)
-- [[RFC] Deprecating `usePropertiesForAttributes = 0`](https://discourse.llvm.org/t/rfc-deprecating-usepropertiesforattributes-0/87536#post_5)
-- [[RFC] Deprecating `usePropertiesForAttributes = 0`](https://discourse.llvm.org/t/rfc-deprecating-usepropertiesforattributes-0/87536#post_4)
 <!-- DISCOURSE-LLVM:END -->
