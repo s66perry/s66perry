@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Deprecating `usePropertiesForAttributes = 0`](https://discourse.llvm.org/t/rfc-deprecating-usepropertiesforattributes-0/87536#post_5)
+- [[RFC] Deprecating `usePropertiesForAttributes = 0`](https://discourse.llvm.org/t/rfc-deprecating-usepropertiesforattributes-0/87536#post_4)
+- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479#post_18)
+- [[clang-tidy] performance-unnecessary-copy-initialization can not warn about the initialization with memExpr](https://discourse.llvm.org/t/clang-tidy-performance-unnecessary-copy-initialization-can-not-warn-about-the-initialization-with-memexpr/87595#post_3)
 - [[clang-tidy] performance-unnecessary-copy-initialization can not warn about the initialization with memExpr](https://discourse.llvm.org/t/clang-tidy-performance-unnecessary-copy-initialization-can-not-warn-about-the-initialization-with-memexpr/87595#post_2)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479#post_17)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479#post_16)
-- [[clang-tidy] performance-unnecessary-copy-initialization can not warn about the initialization with memExpr](https://discourse.llvm.org/t/clang-tidy-performance-unnecessary-copy-initialization-can-not-warn-about-the-initialization-with-memexpr/87595#post_1)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479#post_15)
 <!-- DISCOURSE-LLVM:END -->
