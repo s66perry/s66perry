@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_13)
+- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_10)
+- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_9)
+- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_11)
 - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_8)
-- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579#post_8)
-- [Metadata preservation in Coroutines](https://discourse.llvm.org/t/metadata-preservation-in-coroutines/87494#post_9)
-- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579#post_7)
-- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_7)
 <!-- DISCOURSE-LLVM:END -->
