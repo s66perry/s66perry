@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_14)
-- [[Instruction Selection] GlobalISel vs SelectionDAG in 2025](https://discourse.llvm.org/t/instruction-selection-globalisel-vs-selectiondag-in-2025/87602#post_3)
-- [LLVM 21.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-21-x-release-third-party-binaries/87420#post_4)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=2#post_32)
-- [[RFC] Add a new text diagnostics format that supports nested diagnostics](https://discourse.llvm.org/t/rfc-add-a-new-text-diagnostics-format-that-supports-nested-diagnostics/87641#post_1)
+- [LLVM IR Lexer not using `getNextChar&lpar;&rpar;`](https://discourse.llvm.org/t/llvm-ir-lexer-not-using-getnextchar/87625#post_2)
+- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623?page=2#post_23)
+- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623?page=2#post_22)
+- [How to run no optimization with llc](https://discourse.llvm.org/t/how-to-run-no-optimization-with-llc/87552#post_5)
+- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579#post_10)
 <!-- DISCOURSE-LLVM:END -->
