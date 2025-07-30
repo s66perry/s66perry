@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-based tool canonical architecture/design](https://discourse.llvm.org/t/clang-based-tool-canonical-architecture-design/87529#post_12)
-- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_12)
-- [Looking for Advice: How Do You Approach Optimizing Benchmarks or Real Programs?](https://discourse.llvm.org/t/looking-for-advice-how-do-you-approach-optimizing-benchmarks-or-real-programs/87565#post_6)
-- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_11)
-- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_13)
+- [Delete llvm/lib/Target/Lanai](https://discourse.llvm.org/t/delete-llvm-lib-target-lanai/87060#post_10)
+- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_16)
+- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=2#post_29)
+- [[RFC] Improving LTO build times with enhanced Split DWARF](https://discourse.llvm.org/t/rfc-improving-lto-build-times-with-enhanced-split-dwarf/87548#post_9)
+- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623#post_15)
 <!-- DISCOURSE-LLVM:END -->
