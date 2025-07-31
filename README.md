@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_15)
+- [Memref Prefetch Op has no memory side effects decoration in the def td file](https://discourse.llvm.org/t/memref-prefetch-op-has-no-memory-side-effects-decoration-in-the-def-td-file/87482#post_5)
+- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_15)
+- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623?page=2#post_25)
 - [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_14)
-- [[RFC] Add a new text diagnostics format that supports nested diagnostics](https://discourse.llvm.org/t/rfc-add-a-new-text-diagnostics-format-that-supports-nested-diagnostics/87641#post_7)
-- [A question about llvm change sub to add](https://discourse.llvm.org/t/a-question-about-llvm-change-sub-to-add/87649#post_4)
-- [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_9)
-- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
