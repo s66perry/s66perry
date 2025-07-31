@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a new text diagnostics format that supports nested diagnostics](https://discourse.llvm.org/t/rfc-add-a-new-text-diagnostics-format-that-supports-nested-diagnostics/87641#post_8)
+- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=2#post_40)
+- [Gpu.memcpy has problems with lowering when processing strided memref](https://discourse.llvm.org/t/gpu-memcpy-has-problems-with-lowering-when-processing-strided-memref/87655#post_2)
+- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=2#post_39)
 - [Gpu.memcpy has problems with lowering when processing strided memref](https://discourse.llvm.org/t/gpu-memcpy-has-problems-with-lowering-when-processing-strided-memref/87655#post_1)
-- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_15)
-- [Memref Prefetch Op has no memory side effects decoration in the def td file](https://discourse.llvm.org/t/memref-prefetch-op-has-no-memory-side-effects-decoration-in-the-def-td-file/87482#post_5)
-- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434#post_15)
-- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
