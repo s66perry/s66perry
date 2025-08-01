@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Looking for Advice: How Do You Approach Optimizing Benchmarks or Real Programs?](https://discourse.llvm.org/t/looking-for-advice-how-do-you-approach-optimizing-benchmarks-or-real-programs/87565#post_7)
+- [A question about llvm change sub to add](https://discourse.llvm.org/t/a-question-about-llvm-change-sub-to-add/87649#post_5)
 - [[Instruction Selection] GlobalISel vs SelectionDAG in 2025](https://discourse.llvm.org/t/instruction-selection-globalisel-vs-selectiondag-in-2025/87602#post_8)
 - [[Instruction Selection] GlobalISel vs SelectionDAG in 2025](https://discourse.llvm.org/t/instruction-selection-globalisel-vs-selectiondag-in-2025/87602#post_7)
 - [[Instruction Selection] GlobalISel vs SelectionDAG in 2025](https://discourse.llvm.org/t/instruction-selection-globalisel-vs-selectiondag-in-2025/87602#post_6)
-- [[RFC] Add a new text diagnostics format that supports nested diagnostics](https://discourse.llvm.org/t/rfc-add-a-new-text-diagnostics-format-that-supports-nested-diagnostics/87641#post_10)
-- [[RFC] Add a new text diagnostics format that supports nested diagnostics](https://discourse.llvm.org/t/rfc-add-a-new-text-diagnostics-format-that-supports-nested-diagnostics/87641#post_9)
 <!-- DISCOURSE-LLVM:END -->
