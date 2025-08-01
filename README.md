@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][tblgen] Generate linker code with TableGen](https://discourse.llvm.org/t/rfc-tblgen-generate-linker-code-with-tablegen/86918#post_15)
+- [[RFC][tblgen] Generate linker code with TableGen](https://discourse.llvm.org/t/rfc-tblgen-generate-linker-code-with-tablegen/86918#post_14)
 - [[RFC] MLIR Project Lighthouse](https://discourse.llvm.org/t/rfc-mlir-project-lighthouse/86738#post_11)
 - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623?page=2#post_26)
 - [Looking for Advice: How Do You Approach Optimizing Benchmarks or Real Programs?](https://discourse.llvm.org/t/looking-for-advice-how-do-you-approach-optimizing-benchmarks-or-real-programs/87565#post_7)
-- [A question about llvm change sub to add](https://discourse.llvm.org/t/a-question-about-llvm-change-sub-to-add/87649#post_5)
-- [[Instruction Selection] GlobalISel vs SelectionDAG in 2025](https://discourse.llvm.org/t/instruction-selection-globalisel-vs-selectiondag-in-2025/87602#post_8)
 <!-- DISCOURSE-LLVM:END -->
