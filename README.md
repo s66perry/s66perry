@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660#post_4)
+- [Maintainer Policy Discussion](https://discourse.llvm.org/t/maintainer-policy-discussion/87663#post_1)
+- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660#post_3)
 - [[RFC] Add a new text diagnostics format that supports nested diagnostics](https://discourse.llvm.org/t/rfc-add-a-new-text-diagnostics-format-that-supports-nested-diagnostics/87641#post_12)
 - [[RFC] Add a new text diagnostics format that supports nested diagnostics](https://discourse.llvm.org/t/rfc-add-a-new-text-diagnostics-format-that-supports-nested-diagnostics/87641#post_11)
-- [[RFC] MLIR Project Lighthouse](https://discourse.llvm.org/t/rfc-mlir-project-lighthouse/86738#post_12)
-- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660#post_2)
-- [LLVM IR Lexer not using `getNextChar&lpar;&rpar;`](https://discourse.llvm.org/t/llvm-ir-lexer-not-using-getnextchar/87625#post_5)
 <!-- DISCOURSE-LLVM:END -->
