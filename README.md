@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Board Meeting Minutes -- June 5, 2025](https://discourse.llvm.org/t/board-meeting-minutes-june-5-2025/87673#post_1)
+- [Board Meeting Minutes -- May 9, 2025](https://discourse.llvm.org/t/board-meeting-minutes-may-9-2025/87672#post_1)
+- [Board Meeting Minutes -- April 4, 2025](https://discourse.llvm.org/t/board-meeting-minutes-april-4-2025/87671#post_1)
+- [Board Meeting Minutes - Feb 28 2025](https://discourse.llvm.org/t/board-meeting-minutes-feb-28-2025/87669#post_1)
 - [[RFC] Create a GitHub `Project` for MLIR](https://discourse.llvm.org/t/rfc-create-a-github-project-for-mlir/87528#post_6)
-- [Will clang frontend plan/accept misra check tools?](https://discourse.llvm.org/t/will-clang-frontend-plan-accept-misra-check-tools/84754?page=2#post_33)
-- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660#post_12)
-- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660#post_11)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jul 21 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jul-21-25-6pm/87298#post_2)
 <!-- DISCOURSE-LLVM:END -->
