@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Software shadow call stack run-time support for RISC-V](https://discourse.llvm.org/t/software-shadow-call-stack-run-time-support-for-risc-v/87647#post_2)
-- [Nullptr ifuncs](https://discourse.llvm.org/t/nullptr-ifuncs/87675#post_2)
-- [Nullptr ifuncs](https://discourse.llvm.org/t/nullptr-ifuncs/87675#post_1)
-- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_1)
-- [Board Meeting Minutes -- June 5, 2025](https://discourse.llvm.org/t/board-meeting-minutes-june-5-2025/87673#post_1)
+- [[RFC][tblgen] Generate linker code with TableGen](https://discourse.llvm.org/t/rfc-tblgen-generate-linker-code-with-tablegen/86918#post_16)
+- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660#post_14)
+- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660#post_13)
+- [Nullptr ifuncs](https://discourse.llvm.org/t/nullptr-ifuncs/87675#post_4)
+- [Nullptr ifuncs](https://discourse.llvm.org/t/nullptr-ifuncs/87675#post_3)
 <!-- DISCOURSE-LLVM:END -->
