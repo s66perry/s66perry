@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_15)
+- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_14)
+- [[RFC][Driver] Link the Driver against clangDependencyScanning, clangAST, clangFrontend, clangSerialization and clangLex](https://discourse.llvm.org/t/rfc-driver-link-the-driver-against-clangdependencyscanning-clangast-clangfrontend-clangserialization-and-clanglex/87469#post_6)
 - [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_13)
 - [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_12)
-- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_11)
-- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=2#post_28)
-- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_10)
 <!-- DISCOURSE-LLVM:END -->
