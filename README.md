@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_13)
+- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_12)
+- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_11)
+- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=2#post_28)
 - [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_10)
-- [What is the status of C++23 Support in MLIR](https://discourse.llvm.org/t/what-is-the-status-of-c-23-support-in-mlir/87674#post_9)
-- [[RFC] &#39;Target&#39; dependent optimizations in TOSA](https://discourse.llvm.org/t/rfc-target-dependent-optimizations-in-tosa/87712#post_1)
-- [C++ Core Guidelines coverage dashboard in documentation](https://discourse.llvm.org/t/c-core-guidelines-coverage-dashboard-in-documentation/87694#post_12)
-- [PDX Area July 2025 social](https://discourse.llvm.org/t/pdx-area-july-2025-social/87211#post_3)
 <!-- DISCOURSE-LLVM:END -->
