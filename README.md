@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [C++ Core Guidelines coverage dashboard in documentation](https://discourse.llvm.org/t/c-core-guidelines-coverage-dashboard-in-documentation/87694#post_14)
+- [Approach for setting overflow &lpar;OV&rpar; flag in KADD8 &lpar;PSIMD&rpar;](https://discourse.llvm.org/t/approach-for-setting-overflow-ov-flag-in-kadd8-psimd/87717#post_1)
 - [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_13)
 - [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_12)
 - [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_11)
-- [Software shadow call stack run-time support for RISC-V](https://discourse.llvm.org/t/software-shadow-call-stack-run-time-support-for-risc-v/87647#post_3)
-- [C++ Core Guidelines coverage dashboard in documentation](https://discourse.llvm.org/t/c-core-guidelines-coverage-dashboard-in-documentation/87694#post_13)
 <!-- DISCOURSE-LLVM:END -->
