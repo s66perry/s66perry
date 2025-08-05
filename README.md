@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=2#post_32)
+- [Lowering of &lpar;tail&rpar; calls via Pseudo instructions](https://discourse.llvm.org/t/lowering-of-tail-calls-via-pseudo-instructions/87724#post_1)
+- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=2#post_31)
 - [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_12)
 - [Syntax highlighting of keywords](https://discourse.llvm.org/t/syntax-highlighting-of-keywords/53479#post_16)
-- [[RFC] An opt-in CMake option for 64-bit Source Location](https://discourse.llvm.org/t/rfc-an-opt-in-cmake-option-for-64-bit-source-location/87538#post_17)
-- [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_6)
-- [End-to-end -fembed-bitcode .llvmbc and .llvmcmd](https://discourse.llvm.org/t/end-to-end-fembed-bitcode-llvmbc-and-llvmcmd/56265#post_13)
 <!-- DISCOURSE-LLVM:END -->
