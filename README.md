@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_13)
+- [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_12)
+- [[LLVM][TableGen] &quot;FriendlyTableGen&quot; - An initiative to make LLVM TableGen more user friendly](https://discourse.llvm.org/t/llvm-tablegen-friendlytablegen-an-initiative-to-make-llvm-tablegen-more-user-friendly/87613#post_11)
 - [Software shadow call stack run-time support for RISC-V](https://discourse.llvm.org/t/software-shadow-call-stack-run-time-support-for-risc-v/87647#post_3)
 - [C++ Core Guidelines coverage dashboard in documentation](https://discourse.llvm.org/t/c-core-guidelines-coverage-dashboard-in-documentation/87694#post_13)
-- [[RFC] Bounds-checking interfaces for LLVM libc](https://discourse.llvm.org/t/rfc-bounds-checking-interfaces-for-llvm-libc/87685#post_5)
-- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=2#post_29)
-- [RFC: libc++ and pointer field protection](https://discourse.llvm.org/t/rfc-libc-and-pointer-field-protection/87713#post_1)
 <!-- DISCOURSE-LLVM:END -->
