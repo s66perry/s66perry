@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] &#39;Target&#39; dependent optimizations in TOSA](https://discourse.llvm.org/t/rfc-target-dependent-optimizations-in-tosa/87712#post_3)
+- [[RFC] &#39;Target&#39; dependent optimizations in TOSA](https://discourse.llvm.org/t/rfc-target-dependent-optimizations-in-tosa/87712#post_2)
 - [Can I use texture memory in MLIR?](https://discourse.llvm.org/t/can-i-use-texture-memory-in-mlir/87729#post_1)
 - [[RFC] clangd hover results for C++ keywords](https://discourse.llvm.org/t/rfc-clangd-hover-results-for-c-keywords/87722#post_5)
 - [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=2#post_35)
-- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=2#post_34)
-- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579#post_14)
 <!-- DISCOURSE-LLVM:END -->
