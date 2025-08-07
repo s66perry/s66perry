@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][SPIR-V] Way to represent float8 in LLVM IR](https://discourse.llvm.org/t/rfc-spir-v-way-to-represent-float8-in-llvm-ir/87758#post_1)
+- [[RFC] Registry for feature modules](https://discourse.llvm.org/t/rfc-registry-for-feature-modules/87733#post_2)
+- [[RFC] &#39;Target&#39; dependent optimizations in TOSA](https://discourse.llvm.org/t/rfc-target-dependent-optimizations-in-tosa/87712#post_4)
+- [MLIR lowers incorrect code for unsupported LLVM float types](https://discourse.llvm.org/t/mlir-lowers-incorrect-code-for-unsupported-llvm-float-types/87756#post_1)
 - [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_11)
-- [LLVM is buildable as a Windows DLL](https://discourse.llvm.org/t/llvm-is-buildable-as-a-windows-dll/87748#post_7)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=3#post_43)
-- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579?page=2#post_29)
-- [LLVM is buildable as a Windows DLL](https://discourse.llvm.org/t/llvm-is-buildable-as-a-windows-dll/87748#post_6)
 <!-- DISCOURSE-LLVM:END -->
