@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727#post_6)
-- [RFC: libc++ and pointer field protection](https://discourse.llvm.org/t/rfc-libc-and-pointer-field-protection/87713#post_2)
-- [LLVM is buildable as a Windows DLL](https://discourse.llvm.org/t/llvm-is-buildable-as-a-windows-dll/87748#post_4)
-- [[RFC] Implementation of stdio on baremetal](https://discourse.llvm.org/t/rfc-implementation-of-stdio-on-baremetal/86944#post_11)
-- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579?page=2#post_28)
+- [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_10)
+- [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_9)
+- [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_8)
+- [LLVM is buildable as a Windows DLL](https://discourse.llvm.org/t/llvm-is-buildable-as-a-windows-dll/87748#post_5)
+- [RFC: Forming LLVM Working Group on Memory Safety](https://discourse.llvm.org/t/rfc-forming-llvm-working-group-on-memory-safety/84434?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
