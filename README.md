@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Registry for feature modules](https://discourse.llvm.org/t/rfc-registry-for-feature-modules/87733#post_5)
+- [Accessing analyses of parent operations](https://discourse.llvm.org/t/accessing-analyses-of-parent-operations/87772#post_1)
+- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_7)
 - [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_6)
 - [[RFC] Registry for feature modules](https://discourse.llvm.org/t/rfc-registry-for-feature-modules/87733#post_4)
-- [DC simulation](https://discourse.llvm.org/t/dc-simulation/87768#post_1)
-- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_5)
-- [RFC: Deactivation symbols](https://discourse.llvm.org/t/rfc-deactivation-symbols/85556#post_5)
 <!-- DISCOURSE-LLVM:END -->
