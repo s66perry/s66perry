@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_4)
+- [[RFC][SPIR-V] Way to represent float8 in LLVM IR](https://discourse.llvm.org/t/rfc-spir-v-way-to-represent-float8-in-llvm-ir/87758#post_6)
+- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_3)
 - [[RFC][SPIR-V] Way to represent float8 in LLVM IR](https://discourse.llvm.org/t/rfc-spir-v-way-to-represent-float8-in-llvm-ir/87758#post_5)
 - [Compiled llm-config executable programs do not correctly point to the installation directory](https://discourse.llvm.org/t/compiled-llm-config-executable-programs-do-not-correctly-point-to-the-installation-directory/87766#post_1)
-- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_2)
-- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_1)
-- [[RFC] Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660?page=3#post_41)
 <!-- DISCOURSE-LLVM:END -->
