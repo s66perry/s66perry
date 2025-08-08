@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Registry for feature modules](https://discourse.llvm.org/t/rfc-registry-for-feature-modules/87733#post_5)
-- [Accessing analyses of parent operations](https://discourse.llvm.org/t/accessing-analyses-of-parent-operations/87772#post_1)
-- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_7)
-- [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_6)
-- [[RFC] Registry for feature modules](https://discourse.llvm.org/t/rfc-registry-for-feature-modules/87733#post_4)
+- [MLIR Open Meeting: Properties design discussion and next steps](https://discourse.llvm.org/t/mlir-open-meeting-properties-design-discussion-and-next-steps/87774#post_1)
+- [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_3)
+- [[RFC][SPIR-V] Way to represent float8 in LLVM IR](https://discourse.llvm.org/t/rfc-spir-v-way-to-represent-float8-in-llvm-ir/87758#post_7)
+- [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_2)
+- [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_1)
 <!-- DISCOURSE-LLVM:END -->
