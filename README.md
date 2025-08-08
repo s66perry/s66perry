@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Non-attribute properties and the inherent-discardable attribute split -- what needs doing](https://discourse.llvm.org/t/non-attribute-properties-and-the-inherent-discardable-attribute-split-what-needs-doing/87782#post_2)
+- [MLIR Open Meeting: Properties design discussion and next steps](https://discourse.llvm.org/t/mlir-open-meeting-properties-design-discussion-and-next-steps/87774#post_2)
+- [Non-attribute properties and the inherent-discardable attribute split -- what needs doing](https://discourse.llvm.org/t/non-attribute-properties-and-the-inherent-discardable-attribute-split-what-needs-doing/87782#post_1)
+- [[RFC] Constant Time Execution Guarantees in LLVM](https://discourse.llvm.org/t/rfc-constant-time-execution-guarantees-in-llvm/86700#post_8)
 - [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781#post_2)
-- [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_4)
-- [RFC: Deactivation symbols](https://discourse.llvm.org/t/rfc-deactivation-symbols/85556#post_6)
-- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781#post_1)
-- [Compiled llm-config executable programs do not correctly point to the installation directory](https://discourse.llvm.org/t/compiled-llm-config-executable-programs-do-not-correctly-point-to-the-installation-directory/87766#post_3)
 <!-- DISCOURSE-LLVM:END -->
