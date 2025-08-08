@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about translate llvm dialect to llvm ir](https://discourse.llvm.org/t/question-about-translate-llvm-dialect-to-llvm-ir/87704#post_3)
+- [Question about translate llvm dialect to llvm ir](https://discourse.llvm.org/t/question-about-translate-llvm-dialect-to-llvm-ir/87704#post_2)
 - [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_9)
 - [Override default bufferize interface of tensor.empty Op](https://discourse.llvm.org/t/override-default-bufferize-interface-of-tensor-empty-op/87765#post_8)
 - [MLIR Open Meeting: Properties design discussion and next steps](https://discourse.llvm.org/t/mlir-open-meeting-properties-design-discussion-and-next-steps/87774#post_1)
-- [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_3)
-- [[RFC][SPIR-V] Way to represent float8 in LLVM IR](https://discourse.llvm.org/t/rfc-spir-v-way-to-represent-float8-in-llvm-ir/87758#post_7)
 <!-- DISCOURSE-LLVM:END -->
