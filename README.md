@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_4)
 - [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_3)
 - [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_2)
 - [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_1)
 - [__asm__ unable to process string-literal properly](https://discourse.llvm.org/t/asm-unable-to-process-string-literal-properly/87798#post_1)
-- [[MLIR] Optional operands in DRR](https://discourse.llvm.org/t/mlir-optional-operands-in-drr/87793#post_3)
 <!-- DISCOURSE-LLVM:END -->
