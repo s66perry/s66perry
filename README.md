@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_1)
 - [__asm__ unable to process string-literal properly](https://discourse.llvm.org/t/asm-unable-to-process-string-literal-properly/87798#post_1)
 - [[MLIR] Optional operands in DRR](https://discourse.llvm.org/t/mlir-optional-operands-in-drr/87793#post_3)
 - [[MLIR] Optional operands in DRR](https://discourse.llvm.org/t/mlir-optional-operands-in-drr/87793#post_2)
 - [[Instruction Selection] GlobalISel vs SelectionDAG in 2025](https://discourse.llvm.org/t/instruction-selection-globalisel-vs-selectiondag-in-2025/87602#post_11)
-- [[Instruction Selection] GlobalISel vs SelectionDAG in 2025](https://discourse.llvm.org/t/instruction-selection-globalisel-vs-selectiondag-in-2025/87602#post_10)
 <!-- DISCOURSE-LLVM:END -->
