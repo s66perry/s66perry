@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compiled llm-config executable programs do not correctly point to the installation directory](https://discourse.llvm.org/t/compiled-llm-config-executable-programs-do-not-correctly-point-to-the-installation-directory/87766#post_5)
+- [LLVM IR Lexer not using `getNextChar&lpar;&rpar;`](https://discourse.llvm.org/t/llvm-ir-lexer-not-using-getnextchar/87625#post_6)
+- [Compiled llm-config executable programs do not correctly point to the installation directory](https://discourse.llvm.org/t/compiled-llm-config-executable-programs-do-not-correctly-point-to-the-installation-directory/87766#post_4)
 - [[RFC] Extending UniformQuantizedType with interface-based support for new storage types in Quant dialect](https://discourse.llvm.org/t/rfc-extending-uniformquantizedtype-with-interface-based-support-for-new-storage-types-in-quant-dialect/87803#post_1)
 - [__asm__ unable to process string-literal properly](https://discourse.llvm.org/t/asm-unable-to-process-string-literal-properly/87798#post_3)
-- [__asm__ unable to process string-literal properly](https://discourse.llvm.org/t/asm-unable-to-process-string-literal-properly/87798#post_2)
-- [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_8)
-- [MLIR C/C++ Frontend Working Group [Mon, Aug 11th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-aug-11th/87696#post_2)
 <!-- DISCOURSE-LLVM:END -->
