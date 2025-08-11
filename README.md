@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Non-attribute properties and the inherent-discardable attribute split -- what needs doing](https://discourse.llvm.org/t/non-attribute-properties-and-the-inherent-discardable-attribute-split-what-needs-doing/87782#post_6)
-- [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727#post_13)
-- [Non-attribute properties and the inherent-discardable attribute split -- what needs doing](https://discourse.llvm.org/t/non-attribute-properties-and-the-inherent-discardable-attribute-split-what-needs-doing/87782#post_5)
-- [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727#post_12)
-- [Statically link libLLVM](https://discourse.llvm.org/t/statically-link-libllvm/87812#post_3)
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781#post_13)
+- [[RFC] Implementation of stdio on baremetal](https://discourse.llvm.org/t/rfc-implementation-of-stdio-on-baremetal/86944#post_14)
+- [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727#post_15)
+- [RFC: libc++ and pointer field protection](https://discourse.llvm.org/t/rfc-libc-and-pointer-field-protection/87713#post_4)
+- [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727#post_14)
 <!-- DISCOURSE-LLVM:END -->
