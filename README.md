@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Error: dialect &#39;xxx&#39; provides no type parsing hook](https://discourse.llvm.org/t/error-dialect-xxx-provides-no-type-parsing-hook/87825#post_3)
-- [Error: dialect &#39;xxx&#39; provides no type parsing hook](https://discourse.llvm.org/t/error-dialect-xxx-provides-no-type-parsing-hook/87825#post_2)
-- [Statically link libLLVM](https://discourse.llvm.org/t/statically-link-libllvm/87812#post_4)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_10)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_9)
+- [LLVM Project Council Meeting - August 20, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-august-20-2025/87850#post_3)
+- [LLVM Project Council Meeting - August 20, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-august-20-2025/87850#post_2)
+- [LLVM Project Council Meeting - August 20, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-august-20-2025/87850#post_1)
+- [[RFC] Implementation of stdio on baremetal](https://discourse.llvm.org/t/rfc-implementation-of-stdio-on-baremetal/86944#post_15)
+- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_11)
 <!-- DISCOURSE-LLVM:END -->
