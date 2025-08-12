@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_4)
-- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_8)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_3)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_2)
-- [[RFC] Extending UniformQuantizedType with interface-based support for new storage types in Quant dialect](https://discourse.llvm.org/t/rfc-extending-uniformquantizedtype-with-interface-based-support-for-new-storage-types-in-quant-dialect/87803#post_3)
+- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_9)
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781#post_16)
+- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_8)
+- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_7)
+- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_6)
 <!-- DISCOURSE-LLVM:END -->
