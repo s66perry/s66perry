@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error: dialect &#39;xxx&#39; provides no type parsing hook](https://discourse.llvm.org/t/error-dialect-xxx-provides-no-type-parsing-hook/87825#post_3)
+- [Error: dialect &#39;xxx&#39; provides no type parsing hook](https://discourse.llvm.org/t/error-dialect-xxx-provides-no-type-parsing-hook/87825#post_2)
+- [Statically link libLLVM](https://discourse.llvm.org/t/statically-link-libllvm/87812#post_4)
+- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_10)
 - [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_9)
-- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781#post_16)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_8)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_7)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827#post_6)
 <!-- DISCOURSE-LLVM:END -->
