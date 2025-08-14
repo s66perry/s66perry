@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support cheriot target triple as subarchitecture of riscv32](https://discourse.llvm.org/t/rfc-support-cheriot-target-triple-as-subarchitecture-of-riscv32/87883#post_8)
-- [Thread safety analysis and std::weak_ptr](https://discourse.llvm.org/t/thread-safety-analysis-and-std-weak-ptr/87864#post_5)
-- [Should we remove the capital letter in option helps?](https://discourse.llvm.org/t/should-we-remove-the-capital-letter-in-option-helps/87816#post_5)
-- [How to debug PDL pattern matching](https://discourse.llvm.org/t/how-to-debug-pdl-pattern-matching/87940#post_1)
-- [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623?page=2#post_28)
+- [[RFC] Extending Memory Effects and Improving Loop Invariant Code Motion via a New MemInit Effect](https://discourse.llvm.org/t/rfc-extending-memory-effects-and-improving-loop-invariant-code-motion-via-a-new-meminit-effect/87873#post_9)
+- [MLIR Open Meeting: Properties design discussion and next steps](https://discourse.llvm.org/t/mlir-open-meeting-properties-design-discussion-and-next-steps/87774#post_5)
+- [RFC: libc++ and pointer field protection](https://discourse.llvm.org/t/rfc-libc-and-pointer-field-protection/87713#post_5)
+- [[RFC] Remove Support for %T from llvm-lit](https://discourse.llvm.org/t/rfc-remove-support-for-t-from-llvm-lit/87726#post_6)
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781#post_19)
 <!-- DISCOURSE-LLVM:END -->
