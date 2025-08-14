@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A Human-centered approach to proactively improve LLVM code and documentation quality](https://discourse.llvm.org/t/rfc-a-human-centered-approach-to-proactively-improve-llvm-code-and-documentation-quality/87903#post_8)
-- [[RFC] A Human-centered approach to proactively improve LLVM code and documentation quality](https://discourse.llvm.org/t/rfc-a-human-centered-approach-to-proactively-improve-llvm-code-and-documentation-quality/87903#post_7)
-- [[RFC] A Human-centered approach to proactively improve LLVM code and documentation quality](https://discourse.llvm.org/t/rfc-a-human-centered-approach-to-proactively-improve-llvm-code-and-documentation-quality/87903#post_6)
-- [[RFC] A Human-centered approach to proactively improve LLVM code and documentation quality](https://discourse.llvm.org/t/rfc-a-human-centered-approach-to-proactively-improve-llvm-code-and-documentation-quality/87903#post_5)
-- [Link a pre-compiled bitcodes with my jit code, enabling IPO](https://discourse.llvm.org/t/link-a-pre-compiled-bitcodes-with-my-jit-code-enabling-ipo/87902#post_2)
+- [Best design pattern for toggle full vs partial dialect conversion in MILR?](https://discourse.llvm.org/t/best-design-pattern-for-toggle-full-vs-partial-dialect-conversion-in-milr/87926#post_3)
+- [MLIR Open Meeting: Properties design discussion and next steps](https://discourse.llvm.org/t/mlir-open-meeting-properties-design-discussion-and-next-steps/87774#post_4)
+- [Best design pattern for toggle full vs partial dialect conversion in MILR?](https://discourse.llvm.org/t/best-design-pattern-for-toggle-full-vs-partial-dialect-conversion-in-milr/87926#post_2)
+- [Best design pattern for toggle full vs partial dialect conversion in MILR?](https://discourse.llvm.org/t/best-design-pattern-for-toggle-full-vs-partial-dialect-conversion-in-milr/87926#post_1)
+- [[RFC] A Human-centered approach to proactively improve LLVM code and documentation quality](https://discourse.llvm.org/t/rfc-a-human-centered-approach-to-proactively-improve-llvm-code-and-documentation-quality/87903#post_12)
 <!-- DISCOURSE-LLVM:END -->
