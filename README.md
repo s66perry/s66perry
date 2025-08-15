@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Extending Memory Effects and Improving Loop Invariant Code Motion via a New MemInit Effect](https://discourse.llvm.org/t/rfc-extending-memory-effects-and-improving-loop-invariant-code-motion-via-a-new-meminit-effect/87873#post_14)
+- [[RFC] Support cheriot target triple as subarchitecture of riscv32](https://discourse.llvm.org/t/rfc-support-cheriot-target-triple-as-subarchitecture-of-riscv32/87883#post_9)
 - [An error related to the SimplifyCFGPass](https://discourse.llvm.org/t/an-error-related-to-the-simplifycfgpass/87877#post_4)
 - [[RFC] Remove Support for %T from llvm-lit](https://discourse.llvm.org/t/rfc-remove-support-for-t-from-llvm-lit/87726#post_7)
 - [How to debug PDL pattern matching](https://discourse.llvm.org/t/how-to-debug-pdl-pattern-matching/87940#post_3)
-- [How to debug PDL pattern matching](https://discourse.llvm.org/t/how-to-debug-pdl-pattern-matching/87940#post_2)
-- [[RFC] Extending Memory Effects and Improving Loop Invariant Code Motion via a New MemInit Effect](https://discourse.llvm.org/t/rfc-extending-memory-effects-and-improving-loop-invariant-code-motion-via-a-new-meminit-effect/87873#post_13)
 <!-- DISCOURSE-LLVM:END -->
