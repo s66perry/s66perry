@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][CMake] Add top-level CMakeLists.txt](https://discourse.llvm.org/t/rfc-cmake-add-top-level-cmakelists-txt/87913#post_3)
 - [[RFC] Make standard lit test runner make a separate temporary directory for every test](https://discourse.llvm.org/t/rfc-make-standard-lit-test-runner-make-a-separate-temporary-directory-for-every-test/87943#post_3)
 - [Convert Dialect Type](https://discourse.llvm.org/t/convert-dialect-type/87945#post_1)
 - [[RFC] Make standard lit test runner make a separate temporary directory for every test](https://discourse.llvm.org/t/rfc-make-standard-lit-test-runner-make-a-separate-temporary-directory-for-every-test/87943#post_2)
 - [[RFC] Make standard lit test runner make a separate temporary directory for every test](https://discourse.llvm.org/t/rfc-make-standard-lit-test-runner-make-a-separate-temporary-directory-for-every-test/87943#post_1)
-- [Best design pattern for toggle full vs partial dialect conversion in MILR?](https://discourse.llvm.org/t/best-design-pattern-for-toggle-full-vs-partial-dialect-conversion-in-milr/87926#post_5)
 <!-- DISCOURSE-LLVM:END -->
