@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=2#post_28)
 - [Syntax for pointer to array[N]?](https://discourse.llvm.org/t/syntax-for-pointer-to-array-n/87955#post_1)
 - [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=2#post_27)
 - [How to start the integrated test of nvgpu dialect?](https://discourse.llvm.org/t/how-to-start-the-integrated-test-of-nvgpu-dialect/87950#post_4)
 - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952#post_1)
-- [How to start the integrated test of nvgpu dialect?](https://discourse.llvm.org/t/how-to-start-the-integrated-test-of-nvgpu-dialect/87950#post_3)
 <!-- DISCOURSE-LLVM:END -->
