@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to debug PDL pattern matching](https://discourse.llvm.org/t/how-to-debug-pdl-pattern-matching/87940#post_6)
+- [How to debug PDL pattern matching](https://discourse.llvm.org/t/how-to-debug-pdl-pattern-matching/87940#post_5)
+- [Survey: Interested in discussing richer TableGen descriptions in MLIR?](https://discourse.llvm.org/t/survey-interested-in-discussing-richer-tablegen-descriptions-in-mlir/87959#post_7)
 - [Is UBSan generally incompatible with libc++ or just in this constellation?](https://discourse.llvm.org/t/is-ubsan-generally-incompatible-with-libc-or-just-in-this-constellation/87069#post_4)
 - [Bounds Safety Adoption and Nullability](https://discourse.llvm.org/t/bounds-safety-adoption-and-nullability/87976#post_6)
-- [Is UBSan generally incompatible with libc++ or just in this constellation?](https://discourse.llvm.org/t/is-ubsan-generally-incompatible-with-libc-or-just-in-this-constellation/87069#post_3)
-- [[RFC] Emit a warning when -fsanitize-trap=&lt;...&gt; is passed without associated -fsanitize=&lt;...&gt;](https://discourse.llvm.org/t/rfc-emit-a-warning-when-fsanitize-trap-is-passed-without-associated-fsanitize/87893#post_9)
-- [Bounds Safety Adoption and Nullability](https://discourse.llvm.org/t/bounds-safety-adoption-and-nullability/87976#post_5)
 <!-- DISCOURSE-LLVM:END -->
