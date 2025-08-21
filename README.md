@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-tidy llvm checks in pre/post commit CI](https://discourse.llvm.org/t/clang-tidy-llvm-checks-in-pre-post-commit-ci/85998#post_17)
-- [LLVM is buildable as a Windows DLL](https://discourse.llvm.org/t/llvm-is-buildable-as-a-windows-dll/87748#post_11)
-- [Finding Rewrite patterns](https://discourse.llvm.org/t/finding-rewrite-patterns/85810#post_7)
-- [[RFC] Remove codegen support for trivial VP intrinsics in the RISC-V backend](https://discourse.llvm.org/t/rfc-remove-codegen-support-for-trivial-vp-intrinsics-in-the-risc-v-backend/87999#post_4)
-- [End-to-end -fembed-bitcode .llvmbc and .llvmcmd](https://discourse.llvm.org/t/end-to-end-fembed-bitcode-llvmbc-and-llvmcmd/56265#post_17)
+- [Clang-tidy llvm checks in pre/post commit CI](https://discourse.llvm.org/t/clang-tidy-llvm-checks-in-pre-post-commit-ci/85998#post_19)
+- [[RFC] No-loop mode for OpenMP GPU kernels](https://discourse.llvm.org/t/rfc-no-loop-mode-for-openmp-gpu-kernels/87517#post_15)
+- [Is UBSan generally incompatible with libc++ or just in this constellation?](https://discourse.llvm.org/t/is-ubsan-generally-incompatible-with-libc-or-just-in-this-constellation/87069#post_10)
+- [Clang-tidy llvm checks in pre/post commit CI](https://discourse.llvm.org/t/clang-tidy-llvm-checks-in-pre-post-commit-ci/85998#post_18)
+- [LLVM is buildable as a Windows DLL](https://discourse.llvm.org/t/llvm-is-buildable-as-a-windows-dll/87748#post_12)
 <!-- DISCOURSE-LLVM:END -->
