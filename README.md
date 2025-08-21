@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM is buildable as a Windows DLL](https://discourse.llvm.org/t/llvm-is-buildable-as-a-windows-dll/87748#post_11)
 - [Finding Rewrite patterns](https://discourse.llvm.org/t/finding-rewrite-patterns/85810#post_7)
 - [[RFC] Remove codegen support for trivial VP intrinsics in the RISC-V backend](https://discourse.llvm.org/t/rfc-remove-codegen-support-for-trivial-vp-intrinsics-in-the-risc-v-backend/87999#post_4)
 - [End-to-end -fembed-bitcode .llvmbc and .llvmcmd](https://discourse.llvm.org/t/end-to-end-fembed-bitcode-llvmbc-and-llvmcmd/56265#post_17)
 - [End-to-end -fembed-bitcode .llvmbc and .llvmcmd](https://discourse.llvm.org/t/end-to-end-fembed-bitcode-llvmbc-and-llvmcmd/56265#post_16)
-- [Bounds Safety Adoption and Nullability](https://discourse.llvm.org/t/bounds-safety-adoption-and-nullability/87976#post_8)
 <!-- DISCOURSE-LLVM:END -->
