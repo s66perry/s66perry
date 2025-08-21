@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [End-to-end -fembed-bitcode .llvmbc and .llvmcmd](https://discourse.llvm.org/t/end-to-end-fembed-bitcode-llvmbc-and-llvmcmd/56265#post_14)
+- [[RFC] Remove codegen support for trivial VP intrinsics in the RISC-V backend](https://discourse.llvm.org/t/rfc-remove-codegen-support-for-trivial-vp-intrinsics-in-the-risc-v-backend/87999#post_3)
+- [[RFC] No-loop mode for OpenMP GPU kernels](https://discourse.llvm.org/t/rfc-no-loop-mode-for-openmp-gpu-kernels/87517#post_14)
+- [Bounds Safety Adoption and Nullability](https://discourse.llvm.org/t/bounds-safety-adoption-and-nullability/87976#post_7)
 - [[RFC] Linalg Forms](https://discourse.llvm.org/t/rfc-linalg-forms/87994#post_3)
-- [Does LeakSanitizer not work on macOS 13 / Apple Silicon?](https://discourse.llvm.org/t/does-leaksanitizer-not-work-on-macos-13-apple-silicon/73148#post_7)
-- [[RFC] Remove codegen support for trivial VP intrinsics in the RISC-V backend](https://discourse.llvm.org/t/rfc-remove-codegen-support-for-trivial-vp-intrinsics-in-the-risc-v-backend/87999#post_2)
-- [TableGen custom Instruction &quot;Operand not declared in matcher&quot;](https://discourse.llvm.org/t/tablegen-custom-instruction-operand-not-declared-in-matcher/87532#post_4)
-- [[RFC] LLD: Add support for GCC LTO format](https://discourse.llvm.org/t/rfc-lld-add-support-for-gcc-lto-format/87172#post_19)
 <!-- DISCOURSE-LLVM:END -->
