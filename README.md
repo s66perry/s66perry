@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Making -flax-vector-conversions=none the default](https://discourse.llvm.org/t/rfc-making-flax-vector-conversions-none-the-default/88008#post_1)
-- [Clang-tidy llvm checks in pre/post commit CI](https://discourse.llvm.org/t/clang-tidy-llvm-checks-in-pre-post-commit-ci/85998?page=2#post_22)
-- [Finding Rewrite patterns](https://discourse.llvm.org/t/finding-rewrite-patterns/85810#post_8)
-- [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_17)
-- [Clang-tidy llvm checks in pre/post commit CI](https://discourse.llvm.org/t/clang-tidy-llvm-checks-in-pre-post-commit-ci/85998?page=2#post_21)
+- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434?page=2#post_23)
+- [[RFC] Maintainer Policy Discussion](https://discourse.llvm.org/t/rfc-maintainer-policy-discussion/87663#post_3)
+- [[RFC] Extending Memory Effects and Improving Loop Invariant Code Motion via a New MemInit Effect](https://discourse.llvm.org/t/rfc-extending-memory-effects-and-improving-loop-invariant-code-motion-via-a-new-meminit-effect/87873?page=2#post_29)
+- [[RFC] Extending Memory Effects and Improving Loop Invariant Code Motion via a New MemInit Effect](https://discourse.llvm.org/t/rfc-extending-memory-effects-and-improving-loop-invariant-code-motion-via-a-new-meminit-effect/87873?page=2#post_28)
+- [TableGen: Defining an instruction with a shared operand and multiple register classes](https://discourse.llvm.org/t/tablegen-defining-an-instruction-with-a-shared-operand-and-multiple-register-classes/87332#post_11)
 <!-- DISCOURSE-LLVM:END -->
