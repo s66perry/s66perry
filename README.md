@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_7)
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=2#post_33)
 - [[RFC] YAMLGenerateSchema support for producing YAML schemas](https://discourse.llvm.org/t/rfc-yamlgenerateschema-support-for-producing-yaml-schemas/85846#post_4)
 - [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=3#post_47)
 - [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727?page=2#post_24)
-- [[LLD]LLD nondeterministic .rodata section with minimal linker script and __DATE__ __TIME__ string](https://discourse.llvm.org/t/lld-lld-nondeterministic-rodata-section-with-minimal-linker-script-and-date-time-string/88001#post_5)
-- [[LLVM][CodeGen][RFC] Add MO_LaneMask type and a new COPY_LANEMASK instruction](https://discourse.llvm.org/t/llvm-codegen-rfc-add-mo-lanemask-type-and-a-new-copy-lanemask-instruction/88021#post_1)
 <!-- DISCOURSE-LLVM:END -->
