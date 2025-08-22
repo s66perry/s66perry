@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question about canonicalization `tensor.log&lpar;tensor.exp&lpar;x&rpar;&rpar; -&gt; x`](https://discourse.llvm.org/t/question-about-canonicalization-tensor-log-tensor-exp-x-x/88018#post_1)
-- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_2)
-- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_1)
-- [[RFC] Remove codegen support for trivial VP intrinsics in the RISC-V backend](https://discourse.llvm.org/t/rfc-remove-codegen-support-for-trivial-vp-intrinsics-in-the-risc-v-backend/87999#post_5)
-- [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952#post_17)
+- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_3)
+- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_2)
+- [[question] Can I use an mlir attribute as the lattice state in an `SparseBackwadDataflowAnalysis` instantiation](https://discourse.llvm.org/t/question-can-i-use-an-mlir-attribute-as-the-lattice-state-in-an-sparsebackwaddataflowanalysis-instantiation/88020#post_1)
+- [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727?page=2#post_23)
+- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_1)
 <!-- DISCOURSE-LLVM:END -->
