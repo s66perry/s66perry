@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Changing byte-alignment to bit-alignment for memref and vector dialects](https://discourse.llvm.org/t/rfc-changing-byte-alignment-to-bit-alignment-for-memref-and-vector-dialects/87727?page=2#post_24)
+- [[LLD]LLD nondeterministic .rodata section with minimal linker script and __DATE__ __TIME__ string](https://discourse.llvm.org/t/lld-lld-nondeterministic-rodata-section-with-minimal-linker-script-and-date-time-string/88001#post_5)
+- [[LLVM][CodeGen][RFC] Add MO_LaneMask type and a new COPY_LANEMASK instruction](https://discourse.llvm.org/t/llvm-codegen-rfc-add-mo-lanemask-type-and-a-new-copy-lanemask-instruction/88021#post_1)
+- [Glue for conditional instructions](https://discourse.llvm.org/t/glue-for-conditional-instructions/79356#post_5)
 - [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_3)
-- [[RFC][SPIR-V] Way to represent float8 in LLVM IR](https://discourse.llvm.org/t/rfc-spir-v-way-to-represent-float8-in-llvm-ir/87758#post_9)
-- [Inter-procedural register allocation](https://discourse.llvm.org/t/inter-procedural-register-allocation/86341#post_4)
-- [[RFC][SPIR-V] Way to represent float8 in LLVM IR](https://discourse.llvm.org/t/rfc-spir-v-way-to-represent-float8-in-llvm-ir/87758#post_8)
-- [[LLD]LLD nondeterministic .rodata section with minimal linker script and __DATE__ __TIME__ string](https://discourse.llvm.org/t/lld-lld-nondeterministic-rodata-section-with-minimal-linker-script-and-date-time-string/88001#post_4)
 <!-- DISCOURSE-LLVM:END -->
