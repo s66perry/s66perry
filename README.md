@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Remove codegen support for trivial VP intrinsics in the RISC-V backend](https://discourse.llvm.org/t/rfc-remove-codegen-support-for-trivial-vp-intrinsics-in-the-risc-v-backend/87999#post_6)
 - [[linalg.matmul] Does it support with an initial value?](https://discourse.llvm.org/t/linalg-matmul-does-it-support-with-an-initial-value/88028#post_1)
 - [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434?page=2#post_24)
 - [[RFC] Extending Memory Effects and Improving Loop Invariant Code Motion via a New MemInit Effect](https://discourse.llvm.org/t/rfc-extending-memory-effects-and-improving-loop-invariant-code-motion-via-a-new-meminit-effect/87873?page=2#post_41)
 - [[RFC][Flang] Representation for objects inside physical storage](https://discourse.llvm.org/t/rfc-flang-representation-for-objects-inside-physical-storage/88026#post_2)
-- [[RFC][Flang] Representation for objects inside physical storage](https://discourse.llvm.org/t/rfc-flang-representation-for-objects-inside-physical-storage/88026#post_1)
 <!-- DISCOURSE-LLVM:END -->
