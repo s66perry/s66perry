@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Bound check elimination in LLVM/clang](https://discourse.llvm.org/t/bound-check-elimination-in-llvm-clang/88043#post_1)
+- [[RFC] Making -flax-vector-conversions=none the default](https://discourse.llvm.org/t/rfc-making-flax-vector-conversions-none-the-default/88008#post_2)
+- [LLVM Weekly - #608, August 25th 2025](https://discourse.llvm.org/t/llvm-weekly-608-august-25th-2025/88042#post_1)
+- [Backtrace on error](https://discourse.llvm.org/t/backtrace-on-error/88041#post_3)
 - [Backtrace on error](https://discourse.llvm.org/t/backtrace-on-error/88041#post_2)
-- [Backtrace on error](https://discourse.llvm.org/t/backtrace-on-error/88041#post_1)
-- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579?page=2#post_34)
-- [Compilation database without compiling?](https://discourse.llvm.org/t/compilation-database-without-compiling/88032#post_5)
-- [[Question] Propagating attributes through one shot bufferization](https://discourse.llvm.org/t/question-propagating-attributes-through-one-shot-bufferization/88040#post_1)
 <!-- DISCOURSE-LLVM:END -->
