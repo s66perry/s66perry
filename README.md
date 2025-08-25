@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Implicit cast scalar to complex if the type is integer in Complex binop](https://discourse.llvm.org/t/implicit-cast-scalar-to-complex-if-the-type-is-integer-in-complex-binop/88047#post_1)
+- [__int128 type in C++](https://discourse.llvm.org/t/int128-type-in-c/88046#post_2)
+- [[RFC] Emit a warning when -fsanitize-trap=&lt;...&gt; is passed without associated -fsanitize=&lt;...&gt;](https://discourse.llvm.org/t/rfc-emit-a-warning-when-fsanitize-trap-is-passed-without-associated-fsanitize/87893#post_10)
+- [Bound check elimination in LLVM/clang](https://discourse.llvm.org/t/bound-check-elimination-in-llvm-clang/88043#post_5)
 - [__int128 type in C++](https://discourse.llvm.org/t/int128-type-in-c/88046#post_1)
-- [Bound check elimination in LLVM/clang](https://discourse.llvm.org/t/bound-check-elimination-in-llvm-clang/88043#post_4)
-- [Opt does not recognize the custom pass while trying to run it in Windows](https://discourse.llvm.org/t/opt-does-not-recognize-the-custom-pass-while-trying-to-run-it-in-windows/88044#post_2)
-- [Opt does not recognize the custom pass while trying to run it in Windows](https://discourse.llvm.org/t/opt-does-not-recognize-the-custom-pass-while-trying-to-run-it-in-windows/88044#post_1)
-- [Bound check elimination in LLVM/clang](https://discourse.llvm.org/t/bound-check-elimination-in-llvm-clang/88043#post_3)
 <!-- DISCOURSE-LLVM:END -->
