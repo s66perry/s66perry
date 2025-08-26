@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Bound check elimination in LLVM/clang](https://discourse.llvm.org/t/bound-check-elimination-in-llvm-clang/88043#post_8)
-- [A piece of code that only triggers an error in the Clang compiler, but compiles normally in GCC and MSVC](https://discourse.llvm.org/t/a-piece-of-code-that-only-triggers-an-error-in-the-clang-compiler-but-compiles-normally-in-gcc-and-msvc/88051#post_1)
-- [[RFC][Flang] Representation for objects inside physical storage](https://discourse.llvm.org/t/rfc-flang-representation-for-objects-inside-physical-storage/88026#post_3)
-- [Bound check elimination in LLVM/clang](https://discourse.llvm.org/t/bound-check-elimination-in-llvm-clang/88043#post_7)
-- [Bound check elimination in LLVM/clang](https://discourse.llvm.org/t/bound-check-elimination-in-llvm-clang/88043#post_6)
+- [[mlir][linalg] Fold linalg.fill](https://discourse.llvm.org/t/mlir-linalg-fold-linalg-fill/80973#post_11)
+- [[RFC] Extending Memory Effects and Improving Loop Invariant Code Motion via a New MemInit Effect](https://discourse.llvm.org/t/rfc-extending-memory-effects-and-improving-loop-invariant-code-motion-via-a-new-meminit-effect/87873?page=3#post_49)
+- [__int128 type in C++](https://discourse.llvm.org/t/int128-type-in-c/88046#post_8)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=4#post_83)
+- [__int128 type in C++](https://discourse.llvm.org/t/int128-type-in-c/88046#post_7)
 <!-- DISCOURSE-LLVM:END -->
