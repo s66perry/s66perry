@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [AI Transcripts in LLVM Working Groups &lpar;Gemini for note-taking&rpar;](https://discourse.llvm.org/t/ai-transcripts-in-llvm-working-groups-gemini-for-note-taking/88075#post_1)
+- [[bisect] Does the mlir-opt have similar function to the opt-bisect-limit of llvm?](https://discourse.llvm.org/t/bisect-does-the-mlir-opt-have-similar-function-to-the-opt-bisect-limit-of-llvm/88074#post_1)
+- [[dump] how to spilt the dump IR with option --mlir-print-ir-before-all](https://discourse.llvm.org/t/dump-how-to-spilt-the-dump-ir-with-option-mlir-print-ir-before-all/88063#post_3)
+- [Should expressions of uninstantiated template type trigger misc-redundant-expression when compared with !=?](https://discourse.llvm.org/t/should-expressions-of-uninstantiated-template-type-trigger-misc-redundant-expression-when-compared-with/88072#post_2)
 - [Should expressions of uninstantiated template type trigger misc-redundant-expression when compared with !=?](https://discourse.llvm.org/t/should-expressions-of-uninstantiated-template-type-trigger-misc-redundant-expression-when-compared-with/88072#post_1)
-- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_8)
-- [Kaleidoscope Chapter 3 Exercise](https://discourse.llvm.org/t/kaleidoscope-chapter-3-exercise/88071#post_1)
-- [[RFC] Introducing memref aliasing attributes](https://discourse.llvm.org/t/rfc-introducing-memref-aliasing-attributes/88049#post_7)
-- [MLIR Open Meeting: Properties design discussion and next steps](https://discourse.llvm.org/t/mlir-open-meeting-properties-design-discussion-and-next-steps/87774#post_9)
 <!-- DISCOURSE-LLVM:END -->
