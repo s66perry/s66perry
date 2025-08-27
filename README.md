@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dynamically adding/loading RISC-V &lpar;custom&rpar; instruction information during runtime](https://discourse.llvm.org/t/dynamically-adding-loading-risc-v-custom-instruction-information-during-runtime/88082#post_3)
+- [Dynamically adding/loading RISC-V &lpar;custom&rpar; instruction information during runtime](https://discourse.llvm.org/t/dynamically-adding-loading-risc-v-custom-instruction-information-during-runtime/88082#post_2)
+- [Dynamically adding/loading RISC-V &lpar;custom&rpar; instruction information during runtime](https://discourse.llvm.org/t/dynamically-adding-loading-risc-v-custom-instruction-information-during-runtime/88082#post_1)
+- [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952#post_18)
 - [Enabling -fwhole-program-vtables requires CFI?](https://discourse.llvm.org/t/enabling-fwhole-program-vtables-requires-cfi/88081#post_1)
-- [Clang and FDPIC on ARM?](https://discourse.llvm.org/t/clang-and-fdpic-on-arm/87181#post_8)
-- [Enable single-line case statements in LLVM clang-format style?](https://discourse.llvm.org/t/enable-single-line-case-statements-in-llvm-clang-format-style/61062?page=2#post_21)
-- [Thoughts on running WGMMA using the NVGPU dialect](https://discourse.llvm.org/t/thoughts-on-running-wgmma-using-the-nvgpu-dialect/88079#post_1)
-- [[tblgen] Rewriting of a result instruction DAG node for InstAlias](https://discourse.llvm.org/t/tblgen-rewriting-of-a-result-instruction-dag-node-for-instalias/88076#post_9)
 <!-- DISCOURSE-LLVM:END -->
