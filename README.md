@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Vectorization on Data Depency](https://discourse.llvm.org/t/vectorization-on-data-depency/88099#post_2)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_48)
+- [[RFC] Introducing memref aliasing attributes](https://discourse.llvm.org/t/rfc-introducing-memref-aliasing-attributes/88049#post_12)
 - [Dynamically adding/loading RISC-V &lpar;custom&rpar; instruction information during runtime](https://discourse.llvm.org/t/dynamically-adding-loading-risc-v-custom-instruction-information-during-runtime/88082#post_5)
 - [Vectorization on Data Depency](https://discourse.llvm.org/t/vectorization-on-data-depency/88099#post_1)
-- [Subcommand Feature Support in LLVM OptTable](https://discourse.llvm.org/t/subcommand-feature-support-in-llvm-opttable/88098#post_1)
-- [Paper about bug hunting in the AArch64 backend using a formal methods good](https://discourse.llvm.org/t/paper-about-bug-hunting-in-the-aarch64-backend-using-a-formal-methods-good/88097#post_1)
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_5)
 <!-- DISCOURSE-LLVM:END -->
