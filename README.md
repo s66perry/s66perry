@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improved AArch32 FP arithmetic from Arm Optimized Routines](https://discourse.llvm.org/t/rfc-improved-aarch32-fp-arithmetic-from-arm-optimized-routines/88011#post_3)
 - [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_12)
 - [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_6)
 - [[MLIR] Template interfaces in TableGen](https://discourse.llvm.org/t/mlir-template-interfaces-in-tablegen/88102#post_1)
 - [PSA: Linux buildbots testing compiler-rt will in future require the Python “packaging” module](https://discourse.llvm.org/t/psa-linux-buildbots-testing-compiler-rt-will-in-future-require-the-python-packaging-module/88100#post_3)
-- [[RFC] Introducing memref aliasing attributes](https://discourse.llvm.org/t/rfc-introducing-memref-aliasing-attributes/88049#post_14)
 <!-- DISCOURSE-LLVM:END -->
