@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_10)
-- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_7)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_49)
-- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_6)
-- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_5)
+- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_11)
+- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_10)
+- [[RFC] Introducing memref aliasing attributes](https://discourse.llvm.org/t/rfc-introducing-memref-aliasing-attributes/88049#post_16)
+- [Vectorization on Data Depency](https://discourse.llvm.org/t/vectorization-on-data-depency/88099#post_4)
+- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_9)
 <!-- DISCOURSE-LLVM:END -->
