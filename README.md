@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improved AArch32 FP arithmetic from Arm Optimized Routines](https://discourse.llvm.org/t/rfc-improved-aarch32-fp-arithmetic-from-arm-optimized-routines/88011#post_3)
-- [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_12)
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_6)
-- [[MLIR] Template interfaces in TableGen](https://discourse.llvm.org/t/mlir-template-interfaces-in-tablegen/88102#post_1)
-- [PSA: Linux buildbots testing compiler-rt will in future require the Python “packaging” module](https://discourse.llvm.org/t/psa-linux-buildbots-testing-compiler-rt-will-in-future-require-the-python-packaging-module/88100#post_3)
+- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_10)
+- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_7)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_49)
+- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_6)
+- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_5)
 <!-- DISCOURSE-LLVM:END -->
