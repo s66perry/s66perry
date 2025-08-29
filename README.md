@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Stop the &quot;breakpoint set&quot; option madness](https://discourse.llvm.org/t/rfc-stop-the-breakpoint-set-option-madness/88117#post_2)
+- [RFC: Stop the &quot;breakpoint set&quot; option madness](https://discourse.llvm.org/t/rfc-stop-the-breakpoint-set-option-madness/88117#post_1)
+- [Policy on supporting newer C++ standard in LLVM codebase](https://discourse.llvm.org/t/policy-on-supporting-newer-c-standard-in-llvm-codebase/88114#post_2)
 - [Does clang cc1 frontend support arm64e/PAC builtins/qualifiers?](https://discourse.llvm.org/t/does-clang-cc1-frontend-support-arm64e-pac-builtins-qualifiers/88113#post_2)
 - [Learning Resource — Lecture Slides for the Clang Libraries &lpar;LLVM/Clang 21&rpar; &lpar;Edition 0.4.0&rpar;](https://discourse.llvm.org/t/learning-resource-lecture-slides-for-the-clang-libraries-llvm-clang-21-edition-0-4-0/88116#post_1)
-- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_7)
-- [[RFC] EmitC support for MLGO](https://discourse.llvm.org/t/rfc-emitc-support-for-mlgo/87728#post_6)
-- [[RFC] EmitC support for MLGO](https://discourse.llvm.org/t/rfc-emitc-support-for-mlgo/87728#post_5)
 <!-- DISCOURSE-LLVM:END -->
