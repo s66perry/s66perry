@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is a Segment Tree based Register Allocator worth pursuing as an LLVM contribution?](https://discourse.llvm.org/t/is-a-segment-tree-based-register-allocator-worth-pursuing-as-an-llvm-contribution/88137#post_1)
+- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_12)
 - [AI Transcripts in LLVM Working Groups &lpar;Gemini for note-taking&rpar;](https://discourse.llvm.org/t/ai-transcripts-in-llvm-working-groups-gemini-for-note-taking/88075#post_2)
 - [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_8)
 - [Should `DataflowAnalysis::diagnoseFunction` allow to pass analysis instance created by caller?](https://discourse.llvm.org/t/should-dataflowanalysis-diagnosefunction-allow-to-pass-analysis-instance-created-by-caller/88134#post_1)
-- [[RFC] abseil-unchecked-statusor-use check](https://discourse.llvm.org/t/rfc-abseil-unchecked-statusor-use-check/87998#post_3)
-- [Policy on supporting newer C++ standard in LLVM codebase](https://discourse.llvm.org/t/policy-on-supporting-newer-c-standard-in-llvm-codebase/88114#post_9)
 <!-- DISCOURSE-LLVM:END -->
