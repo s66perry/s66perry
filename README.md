@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Invoking Python interpreter from inside MLIR pass](https://discourse.llvm.org/t/invoking-python-interpreter-from-inside-mlir-pass/88130#post_5)
-- [The Role of the Compiler in Co-Design](https://discourse.llvm.org/t/the-role-of-the-compiler-in-co-design/88139#post_1)
-- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_15)
-- [LLVM_TEST_DEPENDS and trimming tools needed](https://discourse.llvm.org/t/llvm-test-depends-and-trimming-tools-needed/88017#post_13)
-- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_14)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_2)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_1)
+- [Invoking Python interpreter from inside MLIR pass](https://discourse.llvm.org/t/invoking-python-interpreter-from-inside-mlir-pass/88130#post_6)
+- [TPDE-LLVM: 10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664#post_7)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_9)
 <!-- DISCOURSE-LLVM:END -->
