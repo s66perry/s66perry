@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=2#post_40)
 - [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=2#post_39)
 - [Doubled branch pessimization](https://discourse.llvm.org/t/doubled-branch-pessimization/87874#post_3)
 - [Delete llvm/lib/Target/Lanai](https://discourse.llvm.org/t/delete-llvm-lib-target-lanai/87060#post_13)
 - [Doubled branch pessimization](https://discourse.llvm.org/t/doubled-branch-pessimization/87874#post_2)
-- [[RFC][Flang] Representation for objects inside physical storage](https://discourse.llvm.org/t/rfc-flang-representation-for-objects-inside-physical-storage/88026#post_7)
 <!-- DISCOURSE-LLVM:END -->
