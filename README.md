@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=2#post_33)
 - [Load folding into a call instruction problems](https://discourse.llvm.org/t/load-folding-into-a-call-instruction-problems/88129#post_5)
 - [Load folding into a call instruction problems](https://discourse.llvm.org/t/load-folding-into-a-call-instruction-problems/88129#post_4)
 - [LLVM Weekly - #609, September 1st 2025](https://discourse.llvm.org/t/llvm-weekly-609-september-1st-2025/88142#post_1)
 - [Load folding into a call instruction problems](https://discourse.llvm.org/t/load-folding-into-a-call-instruction-problems/88129#post_3)
-- [AI Transcripts in LLVM Working Groups &lpar;Gemini for note-taking&rpar;](https://discourse.llvm.org/t/ai-transcripts-in-llvm-working-groups-gemini-for-note-taking/88075#post_4)
 <!-- DISCOURSE-LLVM:END -->
