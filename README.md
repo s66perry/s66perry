@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_10)
-- [[MLIR] can the tensor.reshape transform into tensor.collapse_shape and tensor.expand_shape?](https://discourse.llvm.org/t/mlir-can-the-tensor-reshape-transform-into-tensor-collapse-shape-and-tensor-expand-shape/88146#post_1)
-- [Announcing the Lifetime Safety Breakout Group](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333#post_5)
-- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=2#post_38)
-- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_6)
+- [Semantics of Loading with Types of Irregular Sizes](https://discourse.llvm.org/t/semantics-of-loading-with-types-of-irregular-sizes/88147#post_4)
+- [Semantics of Loading with Types of Irregular Sizes](https://discourse.llvm.org/t/semantics-of-loading-with-types-of-irregular-sizes/88147#post_3)
+- [Semantics of Loading with Types of Irregular Sizes](https://discourse.llvm.org/t/semantics-of-loading-with-types-of-irregular-sizes/88147#post_2)
+- [Code generation cross OS](https://discourse.llvm.org/t/code-generation-cross-os/88148#post_1)
+- [Semantics of Loading with Types of Irregular Sizes](https://discourse.llvm.org/t/semantics-of-loading-with-types-of-irregular-sizes/88147#post_1)
 <!-- DISCOURSE-LLVM:END -->
