@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Extending fast-math flags](https://discourse.llvm.org/t/extending-fast-math-flags/88153#post_5)
-- [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_11)
-- [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_10)
-- [Clang-tidy misc-use-anonymous-namespace](https://discourse.llvm.org/t/clang-tidy-misc-use-anonymous-namespace/87947#post_6)
-- [File headers in LLDB](https://discourse.llvm.org/t/file-headers-in-lldb/88159#post_2)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_2)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_1)
+- [Please make LLVM Releases available without GitHub](https://discourse.llvm.org/t/please-make-llvm-releases-available-without-github/88163#post_1)
+- [Clang-tidy misc-use-anonymous-namespace](https://discourse.llvm.org/t/clang-tidy-misc-use-anonymous-namespace/87947#post_8)
+- [Clang-tidy misc-use-anonymous-namespace](https://discourse.llvm.org/t/clang-tidy-misc-use-anonymous-namespace/87947#post_7)
 <!-- DISCOURSE-LLVM:END -->
