@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_2)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_1)
-- [Please make LLVM Releases available without GitHub](https://discourse.llvm.org/t/please-make-llvm-releases-available-without-github/88163#post_1)
-- [Clang-tidy misc-use-anonymous-namespace](https://discourse.llvm.org/t/clang-tidy-misc-use-anonymous-namespace/87947#post_8)
-- [Clang-tidy misc-use-anonymous-namespace](https://discourse.llvm.org/t/clang-tidy-misc-use-anonymous-namespace/87947#post_7)
+- [[RFC][Flang] Representation for objects inside physical storage](https://discourse.llvm.org/t/rfc-flang-representation-for-objects-inside-physical-storage/88026#post_8)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_4)
+- [clang produces malformed object files when cross-compiling ppc64](https://discourse.llvm.org/t/clang-produces-malformed-object-files-when-cross-compiling-ppc64/88165#post_2)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_3)
+- [RFC: Stop the &quot;breakpoint set&quot; option madness](https://discourse.llvm.org/t/rfc-stop-the-breakpoint-set-option-madness/88117#post_11)
 <!-- DISCOURSE-LLVM:END -->
