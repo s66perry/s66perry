@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM Vectorization Memory Analysis needs improvement](https://discourse.llvm.org/t/rfc-llvm-vectorization-memory-analysis-needs-improvement/88161#post_7)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_12)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_11)
-- [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169#post_8)
-- [Detect enum-sized arrays using Python AST bindings](https://discourse.llvm.org/t/detect-enum-sized-arrays-using-python-ast-bindings/88181#post_1)
+- [MLIR &lpar;Un&rpar;School Meets UK Compiler Community - 12/09](https://discourse.llvm.org/t/mlir-un-school-meets-uk-compiler-community-12-09/88185#post_1)
+- [[NoAlias] Function argument along with this pointer as NoAlias as default](https://discourse.llvm.org/t/noalias-function-argument-along-with-this-pointer-as-noalias-as-default/88177#post_2)
+- [[RFC] Introducing memref aliasing attributes](https://discourse.llvm.org/t/rfc-introducing-memref-aliasing-attributes/88049?page=2#post_22)
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_14)
+- [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169#post_9)
 <!-- DISCOURSE-LLVM:END -->
