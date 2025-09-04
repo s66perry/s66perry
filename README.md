@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there a way to instruct llc to “support” the @llvm.ptrauth.resign.load.relative intrinsic?](https://discourse.llvm.org/t/is-there-a-way-to-instruct-llc-to-support-the-llvm-ptrauth-resign-load-relative-intrinsic/88171#post_7)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=2#post_22)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=2#post_21)
-- [How to add call instructions whose targets do not exist in binary?](https://discourse.llvm.org/t/how-to-add-call-instructions-whose-targets-do-not-exist-in-binary/88109#post_3)
-- [Is there a way to instruct llc to “support” the @llvm.ptrauth.resign.load.relative intrinsic?](https://discourse.llvm.org/t/is-there-a-way-to-instruct-llc-to-support-the-llvm-ptrauth-resign-load-relative-intrinsic/88171#post_6)
+- [Is there a way to instruct llc to “support” the @llvm.ptrauth.resign.load.relative intrinsic?](https://discourse.llvm.org/t/is-there-a-way-to-instruct-llc-to-support-the-llvm-ptrauth-resign-load-relative-intrinsic/88171#post_8)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=2#post_29)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=2#post_28)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=2#post_27)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
