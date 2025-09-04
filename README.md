@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_10)
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_9)
 - [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_12)
 - [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169#post_7)
 - [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_20)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_8)
-- [[RFC] LLVM Vectorization Memory Analysis needs improvement](https://discourse.llvm.org/t/rfc-llvm-vectorization-memory-analysis-needs-improvement/88161#post_6)
 <!-- DISCOURSE-LLVM:END -->
