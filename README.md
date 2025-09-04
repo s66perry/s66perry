@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Stop the &quot;breakpoint set&quot; option madness](https://discourse.llvm.org/t/rfc-stop-the-breakpoint-set-option-madness/88117#post_12)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_10)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_9)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_8)
-- [Code generation cross OS](https://discourse.llvm.org/t/code-generation-cross-os/88148#post_6)
+- [Is there a way to instruct llc to “support” the @llvm.ptrauth.resign.load.relative intrinsic?](https://discourse.llvm.org/t/is-there-a-way-to-instruct-llc-to-support-the-llvm-ptrauth-resign-load-relative-intrinsic/88171#post_2)
+- [Is there a way to instruct llc to “support” the @llvm.ptrauth.resign.load.relative intrinsic?](https://discourse.llvm.org/t/is-there-a-way-to-instruct-llc-to-support-the-llvm-ptrauth-resign-load-relative-intrinsic/88171#post_1)
+- [Does clang cc1 frontend support arm64e/PAC builtins/qualifiers?](https://discourse.llvm.org/t/does-clang-cc1-frontend-support-arm64e-pac-builtins-qualifiers/88113#post_10)
+- [Does clang cc1 frontend support arm64e/PAC builtins/qualifiers?](https://discourse.llvm.org/t/does-clang-cc1-frontend-support-arm64e-pac-builtins-qualifiers/88113#post_9)
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_1)
 <!-- DISCOURSE-LLVM:END -->
