@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169#post_5)
-- [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169#post_4)
-- [Why my torch-mlir can do nothing?](https://discourse.llvm.org/t/why-my-torch-mlir-can-do-nothing/88175#post_1)
-- [[RFC] Introducing memref aliasing attributes](https://discourse.llvm.org/t/rfc-introducing-memref-aliasing-attributes/88049?page=2#post_21)
-- [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169#post_3)
+- [How to add call instructions whose targets do not exist in binary?](https://discourse.llvm.org/t/how-to-add-call-instructions-whose-targets-do-not-exist-in-binary/88109#post_2)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_17)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_16)
+- [Policy on supporting newer C++ standard in LLVM codebase](https://discourse.llvm.org/t/policy-on-supporting-newer-c-standard-in-llvm-codebase/88114#post_13)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_15)
 <!-- DISCOURSE-LLVM:END -->
