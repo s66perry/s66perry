@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_19)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_5)
-- [Pull request merge queue from Github](https://discourse.llvm.org/t/pull-request-merge-queue-from-github/68343#post_11)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_4)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_18)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164#post_20)
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_8)
+- [[RFC] LLVM Vectorization Memory Analysis needs improvement](https://discourse.llvm.org/t/rfc-llvm-vectorization-memory-analysis-needs-improvement/88161#post_6)
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170#post_7)
+- [Does clang cc1 frontend support arm64e/PAC builtins/qualifiers?](https://discourse.llvm.org/t/does-clang-cc1-frontend-support-arm64e-pac-builtins-qualifiers/88113#post_11)
 <!-- DISCOURSE-LLVM:END -->
