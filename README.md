@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=3#post_48)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=3#post_47)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=3#post_46)
-- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_16)
-- [Plans for CXXConstructorDecl?](https://discourse.llvm.org/t/plans-for-cxxconstructordecl/88200#post_7)
+- [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_13)
+- [[TCDG] Tensor Compiler Design Group Meeting notes 2025-09-03](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-09-03/88179#post_2)
+- [[RFC] [Inclusive Language] migrate &quot;sanity&quot; checks to &quot;soundness&quot; checks](https://discourse.llvm.org/t/rfc-inclusive-language-migrate-sanity-checks-to-soundness-checks/88192#post_8)
+- [Plans for CXXConstructorDecl?](https://discourse.llvm.org/t/plans-for-cxxconstructordecl/88200#post_8)
+- [[RFC] Enable GitHub &quot;auto-merge&quot; feature](https://discourse.llvm.org/t/rfc-enable-github-auto-merge-feature/87547?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
