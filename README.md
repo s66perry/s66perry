@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_5)
 - [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_4)
 - [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_3)
 - [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_2)
 - [Cannot load clang plugin when built from source](https://discourse.llvm.org/t/cannot-load-clang-plugin-when-built-from-source/88210#post_3)
-- [LLVM Meetup Berlin – June 5, 2025](https://discourse.llvm.org/t/llvm-meetup-berlin-june-5-2025/86069#post_2)
 <!-- DISCOURSE-LLVM:END -->
