@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cannot load clang plugin when built from source](https://discourse.llvm.org/t/cannot-load-clang-plugin-when-built-from-source/88210#post_2)
 - [Cannot load clang plugin when built from source](https://discourse.llvm.org/t/cannot-load-clang-plugin-when-built-from-source/88210#post_1)
 - [Mips Maintainer](https://discourse.llvm.org/t/mips-maintainer/88209#post_2)
 - [Mips Maintainer](https://discourse.llvm.org/t/mips-maintainer/88209#post_1)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=3#post_58)
-- [`publish-*-docs` jobs not responding](https://discourse.llvm.org/t/publish-docs-jobs-not-responding/88205#post_2)
 <!-- DISCOURSE-LLVM:END -->
