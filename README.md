@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to add call instructions whose targets do not exist in binary?](https://discourse.llvm.org/t/how-to-add-call-instructions-whose-targets-do-not-exist-in-binary/88109#post_5)
 - [Does synthetic IR like massive_N1e6.ll have value for testing register allocation performance?](https://discourse.llvm.org/t/does-synthetic-ir-like-massive-n1e6-ll-have-value-for-testing-register-allocation-performance/88215#post_1)
 - [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_5)
 - [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_4)
 - [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_3)
-- [Write only reference](https://discourse.llvm.org/t/write-only-reference/88187#post_2)
 <!-- DISCOURSE-LLVM:END -->
