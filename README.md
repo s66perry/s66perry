@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Require real or annotated source locations on all instructions](https://discourse.llvm.org/t/rfc-require-real-or-annotated-source-locations-on-all-instructions/86816#post_10)
+- [RFC: A new way to resolve decoding conflicts in LLVM’s decoder](https://discourse.llvm.org/t/rfc-a-new-way-to-resolve-decoding-conflicts-in-llvm-s-decoder/88104#post_19)
 - [[RFC] Ripple: A compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241#post_3)
 - [RISC-V LLVM sync-up call September 11th 2025](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-september-11th-2025/88251#post_1)
 - [[RFC] Ripple: A compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241#post_2)
-- [NVIDIA target triple handling for ELF](https://discourse.llvm.org/t/nvidia-target-triple-handling-for-elf/88238#post_10)
-- [NVIDIA target triple handling for ELF](https://discourse.llvm.org/t/nvidia-target-triple-handling-for-elf/88238#post_9)
 <!-- DISCOURSE-LLVM:END -->
