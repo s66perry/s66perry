@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Hooking in to or redirecting Xcode&#39;s target creation/launch process](https://discourse.llvm.org/t/hooking-in-to-or-redirecting-xcodes-target-creation-launch-process/87225#post_4)
+- [[RFC] Implementation of stdio on baremetal](https://discourse.llvm.org/t/rfc-implementation-of-stdio-on-baremetal/86944#post_19)
+- [Nvsass target](https://discourse.llvm.org/t/nvsass-target/88238#post_8)
 - [LLVM 21.1.1 Released!](https://discourse.llvm.org/t/llvm-21-1-1-released/88244#post_1)
 - [[RFC] Implementation of stdio on baremetal](https://discourse.llvm.org/t/rfc-implementation-of-stdio-on-baremetal/86944#post_18)
-- [Rules for overriding what &quot;this&quot; refers to in the AST &lpar;e.g., if under an InitListExpr&rpar;?](https://discourse.llvm.org/t/rules-for-overriding-what-this-refers-to-in-the-ast-e-g-if-under-an-initlistexpr/87372#post_3)
-- [[RFC] [Inclusive Language] migrate &quot;sanity&quot; checks to &quot;soundness&quot; checks](https://discourse.llvm.org/t/rfc-inclusive-language-migrate-sanity-checks-to-soundness-checks/88192#post_13)
-- [[RFC][GlobalISel] Adding FP type information to LLT](https://discourse.llvm.org/t/rfc-globalisel-adding-fp-type-information-to-llt/83349?page=2#post_40)
 <!-- DISCOURSE-LLVM:END -->
