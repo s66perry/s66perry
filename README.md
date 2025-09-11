@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_17)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_16)
-- [IRDL Roadmap Tracking Thread](https://discourse.llvm.org/t/irdl-roadmap-tracking-thread/88263#post_1)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_15)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=2#post_30)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_21)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_20)
+- [[RFC] Ripple: A compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241#post_5)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_19)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_18)
 <!-- DISCOURSE-LLVM:END -->
