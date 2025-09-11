@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Embedded Toolchains Working Group call this Thursday, September 11](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-september-11/88218#post_3)
-- [[RFC] Ripple: A compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241#post_4)
-- [Different compile time for same pass in clang and opt](https://discourse.llvm.org/t/different-compile-time-for-same-pass-in-clang-and-opt/88256#post_6)
-- [Different compile time for same pass in clang and opt](https://discourse.llvm.org/t/different-compile-time-for-same-pass-in-clang-and-opt/88256#post_5)
-- [Different compile time for same pass in clang and opt](https://discourse.llvm.org/t/different-compile-time-for-same-pass-in-clang-and-opt/88256#post_4)
+- [Survey: Interested in discussing richer TableGen descriptions in MLIR?](https://discourse.llvm.org/t/survey-interested-in-discussing-richer-tablegen-descriptions-in-mlir/87959#post_10)
+- [Different compile time for same pass in clang and opt](https://discourse.llvm.org/t/different-compile-time-for-same-pass-in-clang-and-opt/88256#post_8)
+- [Different compile time for same pass in clang and opt](https://discourse.llvm.org/t/different-compile-time-for-same-pass-in-clang-and-opt/88256#post_7)
+- [PSA: Linux buildbots testing compiler-rt will in future require the Python “packaging” module](https://discourse.llvm.org/t/psa-linux-buildbots-testing-compiler-rt-will-in-future-require-the-python-packaging-module/88100#post_4)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_2)
 <!-- DISCOURSE-LLVM:END -->
