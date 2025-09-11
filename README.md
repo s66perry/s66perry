@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_25)
+- [-fmodules-decluse resulting in errors from Xcode SDK](https://discourse.llvm.org/t/fmodules-decluse-resulting-in-errors-from-xcode-sdk/88267#post_1)
+- [Redfinition error with -fcxx-modules](https://discourse.llvm.org/t/redfinition-error-with-fcxx-modules/88265#post_1)
 - [Clang header module umbrella with glob/wildcard exclusions](https://discourse.llvm.org/t/clang-header-module-umbrella-with-glob-wildcard-exclusions/88264#post_1)
 - [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_24)
-- [[RFC] Call Graph Information from Clang/LLVM for C/C++](https://discourse.llvm.org/t/rfc-call-graph-information-from-clang-llvm-for-c-c/88255#post_3)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_23)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
