@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_13)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_12)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_11)
+- [[RFC] Call Graph Information from Clang/LLVM for C/C++](https://discourse.llvm.org/t/rfc-call-graph-information-from-clang-llvm-for-c-c/88255#post_2)
 - [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_10)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=2#post_29)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_9)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257#post_8)
-- [Different compile time for same pass in clang and opt](https://discourse.llvm.org/t/different-compile-time-for-same-pass-in-clang-and-opt/88256#post_10)
 <!-- DISCOURSE-LLVM:END -->
