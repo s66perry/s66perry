@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [-fmodules-decluse resulting in errors from Xcode SDK](https://discourse.llvm.org/t/fmodules-decluse-resulting-in-errors-from-xcode-sdk/88267#post_2)
+- [Shameless Advertisement for a beginner friendly LLVM backend book](https://discourse.llvm.org/t/shameless-advertisement-for-a-beginner-friendly-llvm-backend-book/88194#post_3)
+- [LLD PGO - Clang, Swift on iOS apps](https://discourse.llvm.org/t/lld-pgo-clang-swift-on-ios-apps/88268#post_4)
 - [LLD PGO - Clang, Swift on iOS apps](https://discourse.llvm.org/t/lld-pgo-clang-swift-on-ios-apps/88268#post_3)
 - [Shameless Advertisement for a beginner friendly LLVM backend book](https://discourse.llvm.org/t/shameless-advertisement-for-a-beginner-friendly-llvm-backend-book/88194#post_2)
-- [[RFC] Call Graph Information from Clang/LLVM for C/C++](https://discourse.llvm.org/t/rfc-call-graph-information-from-clang-llvm-for-c-c/88255#post_4)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=3#post_59)
-- [Libcxx cmake warning &quot;Host compiler must support std::atomic!&quot;](https://discourse.llvm.org/t/libcxx-cmake-warning-host-compiler-must-support-std-atomic/51574#post_9)
 <!-- DISCOURSE-LLVM:END -->
