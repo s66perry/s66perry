@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is a Segment Tree based Register Allocator worth pursuing as an LLVM contribution?](https://discourse.llvm.org/t/is-a-segment-tree-based-register-allocator-worth-pursuing-as-an-llvm-contribution/88137#post_4)
+- [Shameless Advertisement for a beginner friendly LLVM backend book](https://discourse.llvm.org/t/shameless-advertisement-for-a-beginner-friendly-llvm-backend-book/88194#post_5)
+- [-fmodules-decluse resulting in errors from Xcode SDK](https://discourse.llvm.org/t/fmodules-decluse-resulting-in-errors-from-xcode-sdk/88267#post_4)
+- [Shameless Advertisement for a beginner friendly LLVM backend book](https://discourse.llvm.org/t/shameless-advertisement-for-a-beginner-friendly-llvm-backend-book/88194#post_4)
 - [-fmodules-decluse resulting in errors from Xcode SDK](https://discourse.llvm.org/t/fmodules-decluse-resulting-in-errors-from-xcode-sdk/88267#post_3)
-- [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_2)
-- [LLVM 21.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-21-x-release-third-party-binaries/87420#post_9)
-- [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169?page=2#post_21)
-- [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_1)
 <!-- DISCOURSE-LLVM:END -->
