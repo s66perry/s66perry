@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Issue compiling llvm+clang 20.1.9 on rasberry pi &lpar;__config_site&rpar;](https://discourse.llvm.org/t/issue-compiling-llvm-clang-20-1-9-on-rasberry-pi-config-site/88055#post_2)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_26)
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=2#post_32)
 - [[LLVM][CodeGen][RFC] Add MO_LaneMask type and a new COPY_LANEMASK instruction](https://discourse.llvm.org/t/llvm-codegen-rfc-add-mo-lanemask-type-and-a-new-copy-lanemask-instruction/88021#post_2)
 - [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=5#post_84)
-- [Is anyone using the check_cfc script?](https://discourse.llvm.org/t/is-anyone-using-the-check-cfc-script/88259#post_3)
-- [Newline problem](https://discourse.llvm.org/t/newline-problem/88274#post_1)
-- [Redfinition error with -fcxx-modules](https://discourse.llvm.org/t/redfinition-error-with-fcxx-modules/88265#post_3)
 <!-- DISCOURSE-LLVM:END -->
