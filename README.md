@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLD PGO - Clang, Swift on iOS apps](https://discourse.llvm.org/t/lld-pgo-clang-swift-on-ios-apps/88268#post_10)
+- [[RFC] VTable Type Profiling for SampleFDO](https://discourse.llvm.org/t/rfc-vtable-type-profiling-for-samplefdo/87283#post_16)
+- [LLD PGO - Clang, Swift on iOS apps](https://discourse.llvm.org/t/lld-pgo-clang-swift-on-ios-apps/88268#post_9)
 - [Mailing lists not sending email?](https://discourse.llvm.org/t/mailing-lists-not-sending-email/88278#post_2)
 - [LLD PGO - Clang, Swift on iOS apps](https://discourse.llvm.org/t/lld-pgo-clang-swift-on-ios-apps/88268#post_8)
-- [Temporal instrumentation for Swift](https://discourse.llvm.org/t/temporal-instrumentation-for-swift/88279#post_2)
-- [LLD PGO - Clang, Swift on iOS apps](https://discourse.llvm.org/t/lld-pgo-clang-swift-on-ios-apps/88268#post_7)
-- [LLD PGO - Clang, Swift on iOS apps](https://discourse.llvm.org/t/lld-pgo-clang-swift-on-ios-apps/88268#post_6)
 <!-- DISCOURSE-LLVM:END -->
