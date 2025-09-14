@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_61)
+- [Newline problem](https://discourse.llvm.org/t/newline-problem/88274#post_3)
 - [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_41)
 - [Possible missing optimization targeting i686-pc-windows](https://discourse.llvm.org/t/possible-missing-optimization-targeting-i686-pc-windows/88282#post_1)
 - [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_40)
-- [Mailing lists not sending email?](https://discourse.llvm.org/t/mailing-lists-not-sending-email/88278#post_3)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
