@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [Inclusive Language] migrate &quot;sanity&quot; checks to &quot;soundness&quot; checks](https://discourse.llvm.org/t/rfc-inclusive-language-migrate-sanity-checks-to-soundness-checks/88192#post_15)
+- [`publish-*-docs` jobs not responding](https://discourse.llvm.org/t/publish-docs-jobs-not-responding/88205#post_5)
+- [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_6)
 - [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_59)
 - [[RFC] Guidelines for adding/enabling new passes](https://discourse.llvm.org/t/rfc-guidelines-for-adding-enabling-new-passes/88290#post_2)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_58)
-- [[SimplifyCFG] Passing uninitialized local to callee erase loop completely](https://discourse.llvm.org/t/simplifycfg-passing-uninitialized-local-to-callee-erase-loop-completely/88302#post_4)
-- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_9)
 <!-- DISCOURSE-LLVM:END -->
