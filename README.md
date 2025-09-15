@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_3)
-- [Finding uses of constants having new issue/Regression](https://discourse.llvm.org/t/finding-uses-of-constants-having-new-issue-regression/88295#post_5)
-- [[SimplifyCFG] Passing uninitialized local to callee erase loop completely](https://discourse.llvm.org/t/simplifycfg-passing-uninitialized-local-to-callee-erase-loop-completely/88302#post_1)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_52)
-- [Finding uses of constants having new issue/Regression](https://discourse.llvm.org/t/finding-uses-of-constants-having-new-issue-regression/88295#post_4)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_9)
+- [[SimplifyCFG] Passing uninitialized local to callee erase loop completely](https://discourse.llvm.org/t/simplifycfg-passing-uninitialized-local-to-callee-erase-loop-completely/88302#post_3)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_8)
+- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_1)
+- [[SimplifyCFG] Passing uninitialized local to callee erase loop completely](https://discourse.llvm.org/t/simplifycfg-passing-uninitialized-local-to-callee-erase-loop-completely/88302#post_2)
 <!-- DISCOURSE-LLVM:END -->
