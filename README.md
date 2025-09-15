@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Guidance for a beginner](https://discourse.llvm.org/t/guidance-for-a-beginner/88289#post_4)
-- [[LLVM][CodeGen][RFC] Add MO_LaneMask type and a new COPY_LANEMASK instruction](https://discourse.llvm.org/t/llvm-codegen-rfc-add-mo-lanemask-type-and-a-new-copy-lanemask-instruction/88021#post_7)
-- [[LLVM][CodeGen][RFC] Add MO_LaneMask type and a new COPY_LANEMASK instruction](https://discourse.llvm.org/t/llvm-codegen-rfc-add-mo-lanemask-type-and-a-new-copy-lanemask-instruction/88021#post_6)
-- [Guidance for a beginner](https://discourse.llvm.org/t/guidance-for-a-beginner/88289#post_3)
-- [[LLVM][CodeGen][RFC] Add MO_LaneMask type and a new COPY_LANEMASK instruction](https://discourse.llvm.org/t/llvm-codegen-rfc-add-mo-lanemask-type-and-a-new-copy-lanemask-instruction/88021#post_5)
+- [Finding uses of constants having new issue/Regression](https://discourse.llvm.org/t/finding-uses-of-constants-having-new-issue-regression/88295#post_1)
+- [Index type and assumption about bitwidth](https://discourse.llvm.org/t/index-type-and-assumption-about-bitwidth/88287#post_4)
+- [Guidance for a beginner](https://discourse.llvm.org/t/guidance-for-a-beginner/88289#post_5)
+- [About the input of DL training compiler](https://discourse.llvm.org/t/about-the-input-of-dl-training-compiler/88292#post_1)
+- [Need guidance on building DL compiler](https://discourse.llvm.org/t/need-guidance-on-building-dl-compiler/88291#post_1)
 <!-- DISCOURSE-LLVM:END -->
