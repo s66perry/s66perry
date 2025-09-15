@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using of complex MLIR-pass parameters](https://discourse.llvm.org/t/using-of-complex-mlir-pass-parameters/88296#post_2)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_50)
-- [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_5)
-- [Apt.llvm.org not updated for debian 11 Bullseye](https://discourse.llvm.org/t/apt-llvm-org-not-updated-for-debian-11-bullseye/88298#post_1)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_49)
+- [Finding uses of constants having new issue/Regression](https://discourse.llvm.org/t/finding-uses-of-constants-having-new-issue-regression/88295#post_4)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_2)
+- [Finding uses of constants having new issue/Regression](https://discourse.llvm.org/t/finding-uses-of-constants-having-new-issue-regression/88295#post_3)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_1)
+- [Index type and assumption about bitwidth](https://discourse.llvm.org/t/index-type-and-assumption-about-bitwidth/88287#post_5)
 <!-- DISCOURSE-LLVM:END -->
