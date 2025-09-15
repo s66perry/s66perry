@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_9)
-- [[SimplifyCFG] Passing uninitialized local to callee erase loop completely](https://discourse.llvm.org/t/simplifycfg-passing-uninitialized-local-to-callee-erase-loop-completely/88302#post_3)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_8)
-- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_1)
-- [[SimplifyCFG] Passing uninitialized local to callee erase loop completely](https://discourse.llvm.org/t/simplifycfg-passing-uninitialized-local-to-callee-erase-loop-completely/88302#post_2)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_57)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_56)
+- [Poll: Future of the Flang Technical Call](https://discourse.llvm.org/t/poll-future-of-the-flang-technical-call/88306#post_2)
+- [Index type and assumption about bitwidth](https://discourse.llvm.org/t/index-type-and-assumption-about-bitwidth/88287#post_9)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=3#post_55)
 <!-- DISCOURSE-LLVM:END -->
