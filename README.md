@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=4#post_73)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_43)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 11 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-11-25-6pm/87665#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Sep 29 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-sep-29-25-6pm/88324#post_1)
-- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=4#post_72)
+- [[RFC] De-type-ification of LLVM IR: why?](https://discourse.llvm.org/t/rfc-de-type-ification-of-llvm-ir-why/88257?page=4#post_74)
+- [What&#39;s in a module file &lpar;pcm&rpar;?](https://discourse.llvm.org/t/whats-in-a-module-file-pcm/88319#post_5)
+- [Import files instead of Include files for SourceMgr output](https://discourse.llvm.org/t/import-files-instead-of-include-files-for-sourcemgr-output/88325#post_1)
+- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_8)
+- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_7)
 <!-- DISCOURSE-LLVM:END -->
