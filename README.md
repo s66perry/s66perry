@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Use a Cache for Parallel FullLTO CodeGen](https://discourse.llvm.org/t/rfc-use-a-cache-for-parallel-fulllto-codegen/88317#post_1)
+- [[RFC] Ripple: A compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241#post_6)
+- [Release Managers for the upcoming 21.1.3 and 21.1.4](https://discourse.llvm.org/t/release-managers-for-the-upcoming-21-1-3-and-21-1-4/88316#post_1)
 - [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_5)
 - [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_10)
-- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_4)
-- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_3)
-- [[LLVM][CodeGen][RFC] Add MO_LaneMask type and a new COPY_LANEMASK instruction](https://discourse.llvm.org/t/llvm-codegen-rfc-add-mo-lanemask-type-and-a-new-copy-lanemask-instruction/88021#post_10)
 <!-- DISCOURSE-LLVM:END -->
