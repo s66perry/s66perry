@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to start contributing?](https://discourse.llvm.org/t/how-to-start-contributing/88308#post_3)
 - [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_8)
 - [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_7)
 - [[RFC] [Inclusive Language] migrate &quot;sanity&quot; checks to &quot;soundness&quot; checks](https://discourse.llvm.org/t/rfc-inclusive-language-migrate-sanity-checks-to-soundness-checks/88192#post_15)
 - [`publish-*-docs` jobs not responding](https://discourse.llvm.org/t/publish-docs-jobs-not-responding/88205#post_5)
-- [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_6)
 <!-- DISCOURSE-LLVM:END -->
