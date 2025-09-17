@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_17)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_16)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300#post_15)
-- [[RFC] A new multidimensional array indexing intrinsic](https://discourse.llvm.org/t/rfc-a-new-multidimensional-array-indexing-intrinsic/52610?page=2#post_38)
-- [Use LLVM infrastructure to ship pre-compiled C++ code under compatibility constraints](https://discourse.llvm.org/t/use-llvm-infrastructure-to-ship-pre-compiled-c-code-under-compatibility-constraints/88336#post_1)
+- [Use LLVM infrastructure to ship pre-compiled C++ code under compatibility constraints](https://discourse.llvm.org/t/use-llvm-infrastructure-to-ship-pre-compiled-c-code-under-compatibility-constraints/88336#post_5)
+- [Use LLVM infrastructure to ship pre-compiled C++ code under compatibility constraints](https://discourse.llvm.org/t/use-llvm-infrastructure-to-ship-pre-compiled-c-code-under-compatibility-constraints/88336#post_4)
+- [What&#39;s in a module file &lpar;pcm&rpar;?](https://discourse.llvm.org/t/whats-in-a-module-file-pcm/88319#post_8)
+- [Use LLVM infrastructure to ship pre-compiled C++ code under compatibility constraints](https://discourse.llvm.org/t/use-llvm-infrastructure-to-ship-pre-compiled-c-code-under-compatibility-constraints/88336#post_3)
+- [RFC: Introduce new llvm.dbg.coroframe_entry intrinsic](https://discourse.llvm.org/t/rfc-introduce-new-llvm-dbg-coroframe-entry-intrinsic/88269#post_13)
 <!-- DISCOURSE-LLVM:END -->
