@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to respond to spam in issues and pull requests](https://discourse.llvm.org/t/how-to-respond-to-spam-in-issues-and-pull-requests/86312#post_6)
+- [[RFC][MLIR][SPIRV] Integrate TOSA Extended Instruction Set &lpar;001000.1&rpar; into MLIR SPIR-V Dialect](https://discourse.llvm.org/t/rfc-mlir-spirv-integrate-tosa-extended-instruction-set-001000-1-into-mlir-spir-v-dialect/88344#post_2)
+- [[RFC][MLIR][SPIRV] Integrate TOSA Extended Instruction Set &lpar;001000.1&rpar; into MLIR SPIR-V Dialect](https://discourse.llvm.org/t/rfc-mlir-spirv-integrate-tosa-extended-instruction-set-001000-1-into-mlir-spir-v-dialect/88344#post_1)
 - [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_44)
 - [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_13)
-- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_12)
-- [[RFC][BOLT][AArch64] Enabling Inlining Memcpy as Default for AArch64](https://discourse.llvm.org/t/rfc-bolt-aarch64-enabling-inlining-memcpy-as-default-for-aarch64/88304#post_10)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
