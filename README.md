@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang-cl compile pcm in windows sdk ucrt header wchar.h non-inline external definitions](https://discourse.llvm.org/t/clang-cl-compile-pcm-in-windows-sdk-ucrt-header-wchar-h-non-inline-external-definitions/88339#post_1)
-- [What&#39;s in a module file &lpar;pcm&rpar;?](https://discourse.llvm.org/t/whats-in-a-module-file-pcm/88319#post_9)
-- [[TCDG] Tensor Compiler Design Group Meeting notes 2025-09-17](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-09-17/88335#post_3)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=2#post_23)
-- [[TCDG] Tensor Compiler Design Group Meeting notes 2025-09-17](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-09-17/88335#post_2)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=2#post_27)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=4#post_63)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_11)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=2#post_26)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_10)
 <!-- DISCOURSE-LLVM:END -->
