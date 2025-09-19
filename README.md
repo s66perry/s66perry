@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Adding the new llvm instrinsic&#39;s like llvm.hypot.* and llvm.rsqrt.*](https://discourse.llvm.org/t/adding-the-new-llvm-instrinsics-like-llvm-hypot-and-llvm-rsqrt/88328#post_7)
+- [Clang plugin: checking POD-ness of structures](https://discourse.llvm.org/t/clang-plugin-checking-pod-ness-of-structures/88358#post_1)
+- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579?page=3#post_42)
+- [2025 US LLVM - Hotel Room Block](https://discourse.llvm.org/t/2025-us-llvm-hotel-room-block/88357#post_1)
 - [[CfP] 2025 Workshop on Supporting Memory Safety in LLVM](https://discourse.llvm.org/t/cfp-2025-workshop-on-supporting-memory-safety-in-llvm/88184#post_2)
-- [RFC: Enabling Immutable Releases](https://discourse.llvm.org/t/rfc-enabling-immutable-releases/88351#post_10)
-- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_8)
-- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_7)
-- [Unrolling, PRE/LICM, and register pressure](https://discourse.llvm.org/t/unrolling-pre-licm-and-register-pressure/88350#post_3)
 <!-- DISCOURSE-LLVM:END -->
