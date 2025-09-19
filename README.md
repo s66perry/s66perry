@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can I reuse profdata.prof?](https://discourse.llvm.org/t/can-i-reuse-profdata-prof/88354#post_3)
+- [Can I reuse profdata.prof?](https://discourse.llvm.org/t/can-i-reuse-profdata-prof/88354#post_2)
+- [Can I reuse profdata.prof?](https://discourse.llvm.org/t/can-i-reuse-profdata-prof/88354#post_1)
+- [[RFC][Flang] flang-tidy: A new tool for Fortran static analysis](https://discourse.llvm.org/t/rfc-flang-flang-tidy-a-new-tool-for-fortran-static-analysis/87579?page=3#post_41)
 - [Building optimized llvm](https://discourse.llvm.org/t/building-optimized-llvm/88353#post_1)
-- [[TCDG] Tensor Compiler Design Group Meeting notes 2025-09-17](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-09-17/88335#post_6)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=3#post_48)
-- [Index type and assumption about bitwidth](https://discourse.llvm.org/t/index-type-and-assumption-about-bitwidth/88287#post_17)
-- [Unrolling, PRE/LICM, and register pressure](https://discourse.llvm.org/t/unrolling-pre-licm-and-register-pressure/88350#post_2)
 <!-- DISCOURSE-LLVM:END -->
