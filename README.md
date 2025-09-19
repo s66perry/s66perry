@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang plugin: checking POD-ness of structures](https://discourse.llvm.org/t/clang-plugin-checking-pod-ness-of-structures/88358#post_2)
+- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825?page=2#post_25)
+- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_3)
+- [Clang++ module support without the need for build system](https://discourse.llvm.org/t/clang-module-support-without-the-need-for-build-system/88361#post_3)
 - [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_2)
-- [How to get a relocatable profdata](https://discourse.llvm.org/t/how-to-get-a-relocatable-profdata/88364#post_1)
-- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_9)
-- [PGO.cmake cache and manual PGO differences](https://discourse.llvm.org/t/pgo-cmake-cache-and-manual-pgo-differences/88356#post_4)
-- [Can I reuse profdata.prof?](https://discourse.llvm.org/t/can-i-reuse-profdata-prof/88354#post_4)
 <!-- DISCOURSE-LLVM:END -->
