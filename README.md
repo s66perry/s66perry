@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there a function size limit for LICM?](https://discourse.llvm.org/t/is-there-a-function-size-limit-for-licm/88355#post_2)
-- [Clang++ module support without the need for build system](https://discourse.llvm.org/t/clang-module-support-without-the-need-for-build-system/88361#post_2)
-- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_1)
-- [Clang++ module support without the need for build system](https://discourse.llvm.org/t/clang-module-support-without-the-need-for-build-system/88361#post_1)
-- [[RFC] Add -fsanitize-address-disable-container-overflow flag to AddressSanitizer](https://discourse.llvm.org/t/rfc-add-fsanitize-address-disable-container-overflow-flag-to-addresssanitizer/88349#post_10)
+- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_2)
+- [How to get a relocatable profdata](https://discourse.llvm.org/t/how-to-get-a-relocatable-profdata/88364#post_1)
+- [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_9)
+- [PGO.cmake cache and manual PGO differences](https://discourse.llvm.org/t/pgo-cmake-cache-and-manual-pgo-differences/88356#post_4)
+- [Can I reuse profdata.prof?](https://discourse.llvm.org/t/can-i-reuse-profdata-prof/88354#post_4)
 <!-- DISCOURSE-LLVM:END -->
