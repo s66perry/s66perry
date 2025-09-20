@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_7)
+- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_6)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=2#post_36)
+- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_5)
 - [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_4)
-- [Clang plugin: checking POD-ness of structures](https://discourse.llvm.org/t/clang-plugin-checking-pod-ness-of-structures/88358#post_2)
-- [[RFC] PTRACE_SEIZE when attaching to dead processes](https://discourse.llvm.org/t/rfc-ptrace-seize-when-attaching-to-dead-processes/85825?page=2#post_25)
-- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_3)
-- [Clang++ module support without the need for build system](https://discourse.llvm.org/t/clang-module-support-without-the-need-for-build-system/88361#post_3)
 <!-- DISCOURSE-LLVM:END -->
