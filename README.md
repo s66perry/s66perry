@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Guidelines for adding/enabling new passes](https://discourse.llvm.org/t/rfc-guidelines-for-adding-enabling-new-passes/88290#post_6)
-- [[RFC] Guidelines for adding/enabling new passes](https://discourse.llvm.org/t/rfc-guidelines-for-adding-enabling-new-passes/88290#post_5)
-- [Is there a function size limit for LICM?](https://discourse.llvm.org/t/is-there-a-function-size-limit-for-licm/88355#post_3)
-- [[RFC] Guidelines for adding/enabling new passes](https://discourse.llvm.org/t/rfc-guidelines-for-adding-enabling-new-passes/88290#post_4)
-- [[RFC] Guidelines for adding/enabling new passes](https://discourse.llvm.org/t/rfc-guidelines-for-adding-enabling-new-passes/88290#post_3)
+- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_12)
+- [Walking custom attributes and types](https://discourse.llvm.org/t/walking-custom-attributes-and-types/88359#post_5)
+- [Registering tests with CTest](https://discourse.llvm.org/t/registering-tests-with-ctest/88363#post_11)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_2)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_1)
 <!-- DISCOURSE-LLVM:END -->
