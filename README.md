@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Compute distance of Loop carried dependency](https://discourse.llvm.org/t/compute-distance-of-loop-carried-dependency/3935#post_2)
 - [[TCDG] Tensor Compiler Design Group Meeting notes 2025-09-17](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-09-17/88335#post_9)
 - [[TCDG] Tensor Compiler Design Group Meeting notes 2025-09-17](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-09-17/88335#post_8)
 - [CFP MLIR workshop at US LLVM Developer&#39;s Meeting](https://discourse.llvm.org/t/cfp-mlir-workshop-at-us-llvm-developers-meeting/88388#post_1)
 - [[IndVarSimplify] Constant Propagation pass + IndVarSimplify leads to invalid loop optimizations](https://discourse.llvm.org/t/indvarsimplify-constant-propagation-pass-indvarsimplify-leads-to-invalid-loop-optimizations/88387#post_1)
-- [[RFC] New Wasm-Linux target support](https://discourse.llvm.org/t/rfc-new-wasm-linux-target-support/88203#post_7)
 <!-- DISCOURSE-LLVM:END -->
