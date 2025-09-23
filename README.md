@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_1)
+- [Poll: Future of the Flang Technical Call](https://discourse.llvm.org/t/poll-future-of-the-flang-technical-call/88306#post_3)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_3)
 - [PSA: IR output changing from debug intrinsics to debug records](https://discourse.llvm.org/t/psa-ir-output-changing-from-debug-intrinsics-to-debug-records/79578#post_11)
 - [PSA: IR output changing from debug intrinsics to debug records](https://discourse.llvm.org/t/psa-ir-output-changing-from-debug-intrinsics-to-debug-records/79578#post_10)
-- [[IndVarSimplify] Constant Propagation pass + IndVarSimplify leads to invalid loop optimizations](https://discourse.llvm.org/t/indvarsimplify-constant-propagation-pass-indvarsimplify-leads-to-invalid-loop-optimizations/88387#post_3)
-- [[IndVarSimplify] Constant Propagation pass + IndVarSimplify leads to invalid loop optimizations](https://discourse.llvm.org/t/indvarsimplify-constant-propagation-pass-indvarsimplify-leads-to-invalid-loop-optimizations/88387#post_2)
-- [Compute distance of Loop carried dependency](https://discourse.llvm.org/t/compute-distance-of-loop-carried-dependency/3935#post_2)
 <!-- DISCOURSE-LLVM:END -->
