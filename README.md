@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Passing Data Between Passes With New Pass Manager](https://discourse.llvm.org/t/passing-data-between-passes-with-new-pass-manager/88396#post_2)
 - [Open projects LLVM-MLIR](https://discourse.llvm.org/t/open-projects-llvm-mlir/88382#post_2)
 - [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_9)
 - [LLVM 21.1.2 Released!](https://discourse.llvm.org/t/llvm-21-1-2-released/88398#post_1)
 - [Is there a function size limit for LICM?](https://discourse.llvm.org/t/is-there-a-function-size-limit-for-licm/88355#post_5)
-- [Is there a function size limit for LICM?](https://discourse.llvm.org/t/is-there-a-function-size-limit-for-licm/88355#post_4)
 <!-- DISCOURSE-LLVM:END -->
