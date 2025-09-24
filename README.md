@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_9)
+- [LLVM 21.1.2 Released!](https://discourse.llvm.org/t/llvm-21-1-2-released/88398#post_1)
+- [Is there a function size limit for LICM?](https://discourse.llvm.org/t/is-there-a-function-size-limit-for-licm/88355#post_5)
+- [Is there a function size limit for LICM?](https://discourse.llvm.org/t/is-there-a-function-size-limit-for-licm/88355#post_4)
 - [[RFC][BOLT][AArch64] Enabling Inlining Memcpy as Default for AArch64](https://discourse.llvm.org/t/rfc-bolt-aarch64-enabling-inlining-memcpy-as-default-for-aarch64/88304#post_12)
-- [RFC: Stop the &quot;breakpoint set&quot; option madness](https://discourse.llvm.org/t/rfc-stop-the-breakpoint-set-option-madness/88117#post_13)
-- [Poll: Future of the Flang Technical Call](https://discourse.llvm.org/t/poll-future-of-the-flang-technical-call/88306#post_4)
-- [2025 US LLVM Dev Mtg - Hotel Block](https://discourse.llvm.org/t/2025-us-llvm-dev-mtg-hotel-block/88397#post_1)
-- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_12)
 <!-- DISCOURSE-LLVM:END -->
