@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Passing Data Between Passes With New Pass Manager](https://discourse.llvm.org/t/passing-data-between-passes-with-new-pass-manager/88396#post_2)
-- [Open projects LLVM-MLIR](https://discourse.llvm.org/t/open-projects-llvm-mlir/88382#post_2)
-- [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_9)
-- [LLVM 21.1.2 Released!](https://discourse.llvm.org/t/llvm-21-1-2-released/88398#post_1)
-- [Is there a function size limit for LICM?](https://discourse.llvm.org/t/is-there-a-function-size-limit-for-licm/88355#post_5)
+- [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_3)
+- [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_2)
+- [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_1)
+- [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_1)
+- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
