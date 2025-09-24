@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does LeakSanitizer not work on macOS 13 / Apple Silicon?](https://discourse.llvm.org/t/does-leaksanitizer-not-work-on-macos-13-apple-silicon/73148#post_8)
+- [[RFC] Add -fsanitize-address-disable-container-overflow flag to AddressSanitizer](https://discourse.llvm.org/t/rfc-add-fsanitize-address-disable-container-overflow-flag-to-addresssanitizer/88349#post_13)
+- [Why no standard Python setup script for MLIR bindings?](https://discourse.llvm.org/t/why-no-standard-python-setup-script-for-mlir-bindings/87380#post_4)
+- [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_3)
 - [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_10)
-- [Open projects LLVM-MLIR](https://discourse.llvm.org/t/open-projects-llvm-mlir/88382#post_3)
-- [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_2)
-- [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_3)
-- [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_2)
 <!-- DISCOURSE-LLVM:END -->
