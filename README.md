@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Dialect Attributes in MLIR C-API](https://discourse.llvm.org/t/dialect-attributes-in-mlir-c-api/87800#post_10)
+- [Open projects LLVM-MLIR](https://discourse.llvm.org/t/open-projects-llvm-mlir/88382#post_3)
+- [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_2)
 - [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_3)
 - [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_2)
-- [[RFC] Unified Scalable/Fixed-Width Loop Vectorizer &lpar;-loop-vectorize2&rpar;](https://discourse.llvm.org/t/rfc-unified-scalable-fixed-width-loop-vectorizer-loop-vectorize2/88401#post_1)
-- [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_1)
-- [[RFC] [C++] [Modules] Stop using abbrev and drop the maintainance](https://discourse.llvm.org/t/rfc-c-modules-stop-using-abbrev-and-drop-the-maintainance/87063?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
