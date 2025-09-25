@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403#post_15)
 - [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_49)
 - [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_48)
 - [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_47)
 - [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403#post_14)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
