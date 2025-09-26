@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_11)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=2#post_34)
-- [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403#post_15)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_49)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_48)
+- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=2#post_38)
+- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=2#post_37)
+- [[RFC][Vector] Relax type constraints on `vector.outerproduct`](https://discourse.llvm.org/t/rfc-vector-relax-type-constraints-on-vector-outerproduct/88411#post_5)
+- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=2#post_36)
+- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
