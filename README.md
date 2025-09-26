@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_50)
+- [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495?page=2#post_35)
+- [[RFC] Should we aim for more consistency in tests?](https://discourse.llvm.org/t/rfc-should-we-aim-for-more-consistency-in-tests/84733#post_14)
 - [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_3)
 - [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_2)
-- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_15)
-- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_14)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
