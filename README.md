@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_58)
 - [[FMV] question about the target_clones implementation](https://discourse.llvm.org/t/fmv-question-about-the-target-clones-implementation/88431#post_2)
 - [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_12)
 - [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_18)
 - [Why loop simplify needs to transform multi backedges to nestedloop](https://discourse.llvm.org/t/why-loop-simplify-needs-to-transform-multi-backedges-to-nestedloop/88433#post_1)
-- [Understanding CMake build targets](https://discourse.llvm.org/t/understanding-cmake-build-targets/88432#post_1)
 <!-- DISCOURSE-LLVM:END -->
