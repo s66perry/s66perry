@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Patterns not appearing in the GenDAGISel.inc](https://discourse.llvm.org/t/patterns-not-appearing-in-the-gendagisel-inc/88440#post_3)
-- [[RFC] LLD: Add support for GCC LTO format](https://discourse.llvm.org/t/rfc-lld-add-support-for-gcc-lto-format/87172?page=2#post_23)
-- [Patterns not appearing in the GenDAGISel.inc](https://discourse.llvm.org/t/patterns-not-appearing-in-the-gendagisel-inc/88440#post_2)
-- [Patterns not appearing in the GenDAGISel.inc](https://discourse.llvm.org/t/patterns-not-appearing-in-the-gendagisel-inc/88440#post_1)
-- [Building tools and utils in Release](https://discourse.llvm.org/t/building-tools-and-utils-in-release/88438#post_3)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_61)
+- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441#post_2)
+- [[RFC] New Wasm-Linux target support](https://discourse.llvm.org/t/rfc-new-wasm-linux-target-support/88203#post_9)
+- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441#post_1)
+- [Patterns not appearing in the GenDAGISel.inc](https://discourse.llvm.org/t/patterns-not-appearing-in-the-gendagisel-inc/88440#post_4)
 <!-- DISCOURSE-LLVM:END -->
