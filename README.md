@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to respond to spam in issues and pull requests](https://discourse.llvm.org/t/how-to-respond-to-spam-in-issues-and-pull-requests/86312#post_7)
 - [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_7)
 - [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_6)
 - [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_5)
 - [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_4)
-- [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_3)
 <!-- DISCOURSE-LLVM:END -->
