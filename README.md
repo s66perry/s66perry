@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Increase test workers during PGO build](https://discourse.llvm.org/t/increase-test-workers-during-pgo-build/88437#post_1)
 - [LLVM Project Council Meeting - October 1, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-october-1-2025/88436#post_1)
 - [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_8)
 - [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_60)
 - [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_19)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_59)
 <!-- DISCOURSE-LLVM:END -->
