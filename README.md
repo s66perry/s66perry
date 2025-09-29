@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380?page=2#post_22)
+- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021#post_17)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_21)
+- [Building tools and utils in Release](https://discourse.llvm.org/t/building-tools-and-utils-in-release/88438#post_1)
 - [[FMV] question about the target_clones implementation](https://discourse.llvm.org/t/fmv-question-about-the-target-clones-implementation/88431#post_4)
-- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_14)
-- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_20)
-- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_13)
-- [LLVM source file line endings](https://discourse.llvm.org/t/llvm-source-file-line-endings/81388#post_12)
 <!-- DISCOURSE-LLVM:END -->
