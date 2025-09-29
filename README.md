@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[FMV] question about the target_clones implementation](https://discourse.llvm.org/t/fmv-question-about-the-target-clones-implementation/88431#post_3)
-- [[RFC][clang-tidy] Additional checks to enable clang diagnostics](https://discourse.llvm.org/t/rfc-clang-tidy-additional-checks-to-enable-clang-diagnostics/88434#post_3)
-- [How to respond to spam in issues and pull requests](https://discourse.llvm.org/t/how-to-respond-to-spam-in-issues-and-pull-requests/86312#post_7)
-- [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_7)
-- [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_6)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_60)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380#post_19)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=3#post_59)
+- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=5#post_86)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_12)
 <!-- DISCOURSE-LLVM:END -->
