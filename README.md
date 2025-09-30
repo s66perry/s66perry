@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building tools and utils in Release](https://discourse.llvm.org/t/building-tools-and-utils-in-release/88438#post_5)
+- [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403?page=2#post_21)
 - [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403#post_20)
 - [Building tools and utils in Release](https://discourse.llvm.org/t/building-tools-and-utils-in-release/88438#post_4)
 - [Helping with the organisation of the FOSDEM 2026 LLVM dev room](https://discourse.llvm.org/t/helping-with-the-organisation-of-the-fosdem-2026-llvm-dev-room/88448#post_1)
-- [LLDB type summaries not displayed for libcxx types](https://discourse.llvm.org/t/lldb-type-summaries-not-displayed-for-libcxx-types/88447#post_1)
-- [[RFC] Ripple: A compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241#post_12)
 <!-- DISCOURSE-LLVM:END -->
