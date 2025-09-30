@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441#post_13)
-- [Announcing the Lifetime Safety Breakout Group](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333#post_7)
-- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_10)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=3#post_43)
-- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441#post_12)
+- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_1)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380?page=2#post_26)
+- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_12)
+- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=4#post_62)
+- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_11)
 <!-- DISCOURSE-LLVM:END -->
