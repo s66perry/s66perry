@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_7)
+- [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_6)
+- [[RFC][clang-tidy] Additional checks to enable clang diagnostics](https://discourse.llvm.org/t/rfc-clang-tidy-additional-checks-to-enable-clang-diagnostics/88434#post_7)
+- [License and Attribution of the LLVM Logo?](https://discourse.llvm.org/t/license-and-attribution-of-the-llvm-logo/88464#post_1)
 - [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_5)
-- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_4)
-- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441?page=2#post_21)
-- [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_14)
-- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441#post_20)
 <!-- DISCOURSE-LLVM:END -->
