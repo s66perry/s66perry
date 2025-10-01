@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLDB type summaries not displayed for libcxx types](https://discourse.llvm.org/t/lldb-type-summaries-not-displayed-for-libcxx-types/88447#post_2)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_14)
+- [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_8)
+- [PSA: removing pybind11 support](https://discourse.llvm.org/t/psa-removing-pybind11-support/88465#post_1)
 - [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_7)
-- [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_6)
-- [[RFC][clang-tidy] Additional checks to enable clang diagnostics](https://discourse.llvm.org/t/rfc-clang-tidy-additional-checks-to-enable-clang-diagnostics/88434#post_7)
-- [License and Attribution of the LLVM Logo?](https://discourse.llvm.org/t/license-and-attribution-of-the-llvm-logo/88464#post_1)
-- [[RFC][clang-tidy] which language should be supported by default](https://discourse.llvm.org/t/rfc-clang-tidy-which-language-should-be-supported-by-default/88424#post_5)
 <!-- DISCOURSE-LLVM:END -->
