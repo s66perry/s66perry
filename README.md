@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to set LIBCXX variables in a bootstrapping build of libc++?](https://discourse.llvm.org/t/how-to-set-libcxx-variables-in-a-bootstrapping-build-of-libc/88468#post_3)
-- [How to set LIBCXX variables in a bootstrapping build of libc++?](https://discourse.llvm.org/t/how-to-set-libcxx-variables-in-a-bootstrapping-build-of-libc/88468#post_2)
-- [Micro-coding standard question](https://discourse.llvm.org/t/micro-coding-standard-question/88469#post_3)
-- [Micro-coding standard question](https://discourse.llvm.org/t/micro-coding-standard-question/88469#post_2)
-- [Micro-coding standard question](https://discourse.llvm.org/t/micro-coding-standard-question/88469#post_1)
+- [PSA: Enabling clang-format checks for Unix line endings](https://discourse.llvm.org/t/psa-enabling-clang-format-checks-for-unix-line-endings/88470#post_3)
+- [PSA: Enabling clang-format checks for Unix line endings](https://discourse.llvm.org/t/psa-enabling-clang-format-checks-for-unix-line-endings/88470#post_2)
+- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_16)
+- [PSA: Enabling clang-format checks for Unix line endings](https://discourse.llvm.org/t/psa-enabling-clang-format-checks-for-unix-line-endings/88470#post_1)
+- [[RFC] Add -fsanitize-address-disable-container-overflow flag to AddressSanitizer](https://discourse.llvm.org/t/rfc-add-fsanitize-address-disable-container-overflow-flag-to-addresssanitizer/88349#post_14)
 <!-- DISCOURSE-LLVM:END -->
