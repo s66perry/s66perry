@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_6)
+- [Supporting multiple LLVM profile formats at once](https://discourse.llvm.org/t/supporting-multiple-llvm-profile-formats-at-once/88473#post_1)
+- [LLVM Project Council Meeting - October 1, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-october-1-2025/88436#post_2)
 - [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_17)
 - [2025 LLVM Runtimes Workshop](https://discourse.llvm.org/t/2025-llvm-runtimes-workshop/88471#post_1)
-- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_5)
-- [PSA: Enabling clang-format checks for Unix line endings](https://discourse.llvm.org/t/psa-enabling-clang-format-checks-for-unix-line-endings/88470#post_4)
-- [PSA: Enabling clang-format checks for Unix line endings](https://discourse.llvm.org/t/psa-enabling-clang-format-checks-for-unix-line-endings/88470#post_3)
 <!-- DISCOURSE-LLVM:END -->
