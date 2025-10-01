@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441#post_20)
+- [[RFC] Call Graph Information from Clang/LLVM for C/C++](https://discourse.llvm.org/t/rfc-call-graph-information-from-clang-llvm-for-c-c/88255#post_7)
+- [[RFC][clang-tidy] Additional checks to enable clang diagnostics](https://discourse.llvm.org/t/rfc-clang-tidy-additional-checks-to-enable-clang-diagnostics/88434#post_6)
+- [Getting a stable main build?](https://discourse.llvm.org/t/getting-a-stable-main-build/88435#post_13)
 - [Understanding CMake build targets](https://discourse.llvm.org/t/understanding-cmake-build-targets/88432#post_5)
-- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_3)
-- [PGO and Ccache interaction](https://discourse.llvm.org/t/pgo-and-ccache-interaction/88460#post_2)
-- [Understanding CMake build targets](https://discourse.llvm.org/t/understanding-cmake-build-targets/88432#post_4)
-- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441#post_19)
 <!-- DISCOURSE-LLVM:END -->
