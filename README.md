@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Using Fast ISel produces different output, despite Fast ISel bailing](https://discourse.llvm.org/t/using-fast-isel-produces-different-output-despite-fast-isel-bailing/88487#post_1)
-- [[RFC][clang-tidy] Additional checks to enable clang diagnostics](https://discourse.llvm.org/t/rfc-clang-tidy-additional-checks-to-enable-clang-diagnostics/88434#post_8)
-- [License and Attribution of the LLVM Logo?](https://discourse.llvm.org/t/license-and-attribution-of-the-llvm-logo/88464#post_10)
-- [License and Attribution of the LLVM Logo?](https://discourse.llvm.org/t/license-and-attribution-of-the-llvm-logo/88464#post_9)
-- [License and Attribution of the LLVM Logo?](https://discourse.llvm.org/t/license-and-attribution-of-the-llvm-logo/88464#post_8)
+- [How to get GISel to match p0 to against imported SDAG tblgen patterns?](https://discourse.llvm.org/t/how-to-get-gisel-to-match-p0-to-against-imported-sdag-tblgen-patterns/88488#post_3)
+- [How to get GISel to match p0 to against imported SDAG tblgen patterns?](https://discourse.llvm.org/t/how-to-get-gisel-to-match-p0-to-against-imported-sdag-tblgen-patterns/88488#post_2)
+- [The LNT debuginfo-statistics is not running?](https://discourse.llvm.org/t/the-lnt-debuginfo-statistics-is-not-running/88481#post_3)
+- [The LNT debuginfo-statistics is not running?](https://discourse.llvm.org/t/the-lnt-debuginfo-statistics-is-not-running/88481#post_2)
+- [How to get GISel to match p0 to against imported SDAG tblgen patterns?](https://discourse.llvm.org/t/how-to-get-gisel-to-match-p0-to-against-imported-sdag-tblgen-patterns/88488#post_1)
 <!-- DISCOURSE-LLVM:END -->
