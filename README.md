@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403?page=2#post_26)
+- [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403?page=2#post_25)
 - [A question about affine memory access analysis in mlir&lpar;affine or polygeist&rpar;](https://discourse.llvm.org/t/a-question-about-affine-memory-access-analysis-in-mlir-affine-or-polygeist/88491#post_4)
 - [A question about affine memory access analysis in mlir&lpar;affine or polygeist&rpar;](https://discourse.llvm.org/t/a-question-about-affine-memory-access-analysis-in-mlir-affine-or-polygeist/88491#post_3)
 - [A question about affine memory access analysis in mlir&lpar;affine or polygeist&rpar;](https://discourse.llvm.org/t/a-question-about-affine-memory-access-analysis-in-mlir-affine-or-polygeist/88491#post_2)
-- [A question about affine memory access analysis in mlir&lpar;affine or polygeist&rpar;](https://discourse.llvm.org/t/a-question-about-affine-memory-access-analysis-in-mlir-affine-or-polygeist/88491#post_1)
-- [PSA: Enabling clang-format checks for Unix line endings](https://discourse.llvm.org/t/psa-enabling-clang-format-checks-for-unix-line-endings/88470#post_9)
 <!-- DISCOURSE-LLVM:END -->
