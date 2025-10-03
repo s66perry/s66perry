@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Inverting loop order for better loop unrolling](https://discourse.llvm.org/t/inverting-loop-order-for-better-loop-unrolling/88496#post_1)
 - [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_20)
 - [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_19)
 - [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_18)
 - [LFX Insights available for LLVM, Rust, Swift, and other compilers](https://discourse.llvm.org/t/lfx-insights-available-for-llvm-rust-swift-and-other-compilers/88490#post_4)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
