@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_20)
+- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_19)
+- [[RFC] Software watchpoints support](https://discourse.llvm.org/t/rfc-software-watchpoints-support/88391#post_18)
 - [LFX Insights available for LLVM, Rust, Swift, and other compilers](https://discourse.llvm.org/t/lfx-insights-available-for-llvm-rust-swift-and-other-compilers/88490#post_4)
 - [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_51)
-- [AccelTableKind VS DebugNameTableKind](https://discourse.llvm.org/t/acceltablekind-vs-debugnametablekind/88494#post_2)
-- [Board Meeting Minutes -- Sept 5, 2025](https://discourse.llvm.org/t/board-meeting-minutes-sept-5-2025/88495#post_1)
-- [Our AI policy vs code of conduct and vs reality](https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300?page=4#post_68)
 <!-- DISCOURSE-LLVM:END -->
