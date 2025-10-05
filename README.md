@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=4#post_63)
+- [How to handle truncation when subregister?](https://discourse.llvm.org/t/how-to-handle-truncation-when-subregister/88497#post_1)
 - [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476#post_12)
 - [Should there be an ABI sanitizer?](https://discourse.llvm.org/t/should-there-be-an-abi-sanitizer/67090#post_13)
 - [Tooling for PRs-without-precommit-review](https://discourse.llvm.org/t/tooling-for-prs-without-precommit-review/88489#post_4)
-- [[RFC] Identify Func Signature Change in LLVM Compiled Kernel Image](https://discourse.llvm.org/t/rfc-identify-func-signature-change-in-llvm-compiled-kernel-image/82609#post_6)
-- [Inverting loop order for better loop unrolling](https://discourse.llvm.org/t/inverting-loop-order-for-better-loop-unrolling/88496#post_3)
 <!-- DISCOURSE-LLVM:END -->
