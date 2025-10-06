@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [FunctionPass manipulating multiple functions](https://discourse.llvm.org/t/functionpass-manipulating-multiple-functions/88503#post_1)
+- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_53)
 - [How to handle truncation when subregister?](https://discourse.llvm.org/t/how-to-handle-truncation-when-subregister/88497#post_4)
 - [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_52)
 - [How to handle truncation when subregister?](https://discourse.llvm.org/t/how-to-handle-truncation-when-subregister/88497#post_3)
-- [Inverting loop order for better loop unrolling](https://discourse.llvm.org/t/inverting-loop-order-for-better-loop-unrolling/88496#post_4)
-- [[RFC] Principles document for IRDL](https://discourse.llvm.org/t/rfc-principles-document-for-irdl/86931#post_14)
 <!-- DISCOURSE-LLVM:END -->
