@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Should `DataflowAnalysis::diagnoseFunction` allow to pass analysis instance created by caller?](https://discourse.llvm.org/t/should-dataflowanalysis-diagnosefunction-allow-to-pass-analysis-instance-created-by-caller/88134#post_2)
+- [FunctionPass manipulating multiple functions](https://discourse.llvm.org/t/functionpass-manipulating-multiple-functions/88503#post_3)
+- [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403?page=2#post_28)
+- [FunctionPass manipulating multiple functions](https://discourse.llvm.org/t/functionpass-manipulating-multiple-functions/88503#post_2)
 - [FunctionPass manipulating multiple functions](https://discourse.llvm.org/t/functionpass-manipulating-multiple-functions/88503#post_1)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_53)
-- [How to handle truncation when subregister?](https://discourse.llvm.org/t/how-to-handle-truncation-when-subregister/88497#post_4)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_52)
-- [How to handle truncation when subregister?](https://discourse.llvm.org/t/how-to-handle-truncation-when-subregister/88497#post_3)
 <!-- DISCOURSE-LLVM:END -->
