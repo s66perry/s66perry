@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Unused static char* not stripped in ThinLTO but in LTO?](https://discourse.llvm.org/t/unused-static-char-not-stripped-in-thinlto-but-in-lto/88479#post_2)
 - [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_12)
 - [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476#post_18)
 - [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476#post_17)
 - [N-ary separate_objects / non-argument `noalias` groups](https://discourse.llvm.org/t/n-ary-separate-objects-non-argument-noalias-groups/88420#post_7)
-- [[RFC] A New Pass as an Alternative to DependenceAnalysis](https://discourse.llvm.org/t/rfc-a-new-pass-as-an-alternative-to-dependenceanalysis/88403?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
