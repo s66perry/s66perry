@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [FunctionPass manipulating multiple functions](https://discourse.llvm.org/t/functionpass-manipulating-multiple-functions/88503#post_4)
-- [Localization of LLVM Documentation](https://discourse.llvm.org/t/localization-of-llvm-documentation/88520#post_2)
-- [Variable Naming for Structs/Classes](https://discourse.llvm.org/t/variable-naming-for-structs-classes/88522#post_1)
-- [Storage class specifiers for compound literals in block scope not working?](https://discourse.llvm.org/t/storage-class-specifiers-for-compound-literals-in-block-scope-not-working/88521#post_2)
-- [Storage class specifiers for compound literals in block scope not working?](https://discourse.llvm.org/t/storage-class-specifiers-for-compound-literals-in-block-scope-not-working/88521#post_1)
+- [Variable Naming for Structs/Classes](https://discourse.llvm.org/t/variable-naming-for-structs-classes/88522#post_4)
+- [[AVR] register allocation issue - help/advice with debugging](https://discourse.llvm.org/t/avr-register-allocation-issue-help-advice-with-debugging/88498#post_5)
+- [[AVR] register allocation issue - help/advice with debugging](https://discourse.llvm.org/t/avr-register-allocation-issue-help-advice-with-debugging/88498#post_4)
+- [Localization of LLVM Documentation](https://discourse.llvm.org/t/localization-of-llvm-documentation/88520#post_3)
+- [Variable Naming for Structs/Classes](https://discourse.llvm.org/t/variable-naming-for-structs-classes/88522#post_3)
 <!-- DISCOURSE-LLVM:END -->
