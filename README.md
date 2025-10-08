@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476?page=2#post_26)
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527#post_3)
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527#post_2)
+- [Storage class specifiers for compound literals in block scope not working?](https://discourse.llvm.org/t/storage-class-specifiers-for-compound-literals-in-block-scope-not-working/88521#post_4)
 - [Modeling volatility with memory effects](https://discourse.llvm.org/t/modeling-volatility-with-memory-effects/67946#post_17)
-- [What would it take to get llvm libc to work on macos like it does on linux? and is there interest to make it happen?](https://discourse.llvm.org/t/what-would-it-take-to-get-llvm-libc-to-work-on-macos-like-it-does-on-linux-and-is-there-interest-to-make-it-happen/88524#post_2)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=3#post_51)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=3#post_50)
-- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527#post_1)
 <!-- DISCOURSE-LLVM:END -->
