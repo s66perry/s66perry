@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=4#post_68)
-- [Inconsistent Printer and Parser Behavior for Nested Attributes in MLIR TableGen](https://discourse.llvm.org/t/inconsistent-printer-and-parser-behavior-for-nested-attributes-in-mlir-tablegen/85585#post_6)
-- [[RFC] Pretty Printing Immediate Arguments in LLVM Intrinsics](https://discourse.llvm.org/t/rfc-pretty-printing-immediate-arguments-in-llvm-intrinsics/88536#post_2)
-- [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476?page=2#post_36)
-- [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476?page=2#post_35)
+- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_8)
+- [Running out of bits in TSFlags](https://discourse.llvm.org/t/running-out-of-bits-in-tsflags/88540#post_1)
+- [Release keyring not updated for new signers](https://discourse.llvm.org/t/release-keyring-not-updated-for-new-signers/88534#post_4)
+- [RISC-V LLVM sync-up call October 9th 2025](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-october-9th-2025/88539#post_1)
+- [Run linalg.matmul on gpu](https://discourse.llvm.org/t/run-linalg-matmul-on-gpu/78416#post_6)
 <!-- DISCOURSE-LLVM:END -->
