@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Plans for CXXConstructorDecl?](https://discourse.llvm.org/t/plans-for-cxxconstructordecl/88200#post_14)
-- [Plans for CXXConstructorDecl?](https://discourse.llvm.org/t/plans-for-cxxconstructordecl/88200#post_13)
-- [What would it take to get llvm libc to work on macos like it does on linux? and is there interest to make it happen?](https://discourse.llvm.org/t/what-would-it-take-to-get-llvm-libc-to-work-on-macos-like-it-does-on-linux-and-is-there-interest-to-make-it-happen/88524#post_4)
-- [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476?page=2#post_30)
-- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527#post_9)
+- [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476?page=2#post_31)
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527#post_10)
+- [LLVM 21.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-21-x-release-third-party-binaries/87420#post_11)
+- [Relationship between gpu.subgroup_mma_compute and spirv.KHR.CooperativeMatrixMulAdd in MLIR](https://discourse.llvm.org/t/relationship-between-gpu-subgroup-mma-compute-and-spirv-khr-cooperativematrixmuladd-in-mlir/88531#post_1)
+- [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_13)
 <!-- DISCOURSE-LLVM:END -->
