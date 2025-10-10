@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Registration nearly full for 2025 US LLVM Developers&#39; Meeting - Last Call!](https://discourse.llvm.org/t/registration-nearly-full-for-2025-us-llvm-developers-meeting-last-call/88555#post_1)
+- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_12)
 - [LLVM Meetup in Munich – July 24th 2025](https://discourse.llvm.org/t/llvm-meetup-in-munich-july-24th-2025/87179#post_3)
 - [LLVM Meetup in Munich -- October 28th 2025](https://discourse.llvm.org/t/llvm-meetup-in-munich-october-28th-2025/88554#post_1)
 - [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_10)
-- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_9)
-- [Improve clang-tidy documentation](https://discourse.llvm.org/t/improve-clang-tidy-documentation/88305#post_11)
 <!-- DISCOURSE-LLVM:END -->
