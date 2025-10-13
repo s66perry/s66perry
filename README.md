@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [OpenCL conversion operations: why call?](https://discourse.llvm.org/t/opencl-conversion-operations-why-call/88565#post_3)
+- [Last CFP for MLIR workshop at US LLVM Dev Meeting](https://discourse.llvm.org/t/last-cfp-for-mlir-workshop-at-us-llvm-dev-meeting/88573#post_1)
+- [OpenCL conversion operations: why call?](https://discourse.llvm.org/t/opencl-conversion-operations-why-call/88565#post_2)
 - [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527#post_19)
 - [[RFC] Allow pipelines registered via registerPipeline to attach PassInstrumentation](https://discourse.llvm.org/t/rfc-allow-pipelines-registered-via-registerpipeline-to-attach-passinstrumentation/88572#post_1)
-- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335#post_17)
-- [Blockaddress referencing block in different function](https://discourse.llvm.org/t/blockaddress-referencing-block-in-different-function/88570#post_1)
-- [[RFC] Collecting Community Input on Qualification of LLVM Tools &amp; Libraries](https://discourse.llvm.org/t/rfc-collecting-community-input-on-qualification-of-llvm-tools-libraries/88569#post_1)
 <!-- DISCOURSE-LLVM:END -->
