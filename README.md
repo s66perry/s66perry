@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Enable Zcmt for LLD](https://discourse.llvm.org/t/enable-zcmt-for-lld/88567#post_2)
+- [[RFC] New command line options for controlling llvm-lit output](https://discourse.llvm.org/t/rfc-new-command-line-options-for-controlling-llvm-lit-output/88568#post_1)
+- [Guidance for fixing MemRef AllocOp crash](https://discourse.llvm.org/t/guidance-for-fixing-memref-allocop-crash/88559#post_2)
 - [Enable Zcmt for LLD](https://discourse.llvm.org/t/enable-zcmt-for-lld/88567#post_1)
 - [OpenCL conversion operations: why call?](https://discourse.llvm.org/t/opencl-conversion-operations-why-call/88565#post_1)
-- [Drop the requirement of having to return `AffineMap`s from `MemRefLayoutInterface`](https://discourse.llvm.org/t/drop-the-requirement-of-having-to-return-affinemap-s-from-memreflayoutinterface/88564#post_1)
-- [[AVR] register allocation issue - help/advice with debugging](https://discourse.llvm.org/t/avr-register-allocation-issue-help-advice-with-debugging/88498#post_12)
-- [Correct interpretation of clause 6.5 Expressions in the draft C standard](https://discourse.llvm.org/t/correct-interpretation-of-clause-6-5-expressions-in-the-draft-c-standard/88547#post_7)
 <!-- DISCOURSE-LLVM:END -->
