@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Problem with a Clang tool related to E3950 processor](https://discourse.llvm.org/t/problem-with-a-clang-tool-related-to-e3950-processor/88580#post_1)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=4#post_69)
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=4#post_68)
+- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=3#post_54)
 - [[RFC?] FileCheck should verify its input &lpar;commands, and combinations thereof&rpar;](https://discourse.llvm.org/t/rfc-filecheck-should-verify-its-input-commands-and-combinations-thereof/87454#post_10)
-- [[RFC][LLDB] Do not stop the process on signal SIGWINCH on linux](https://discourse.llvm.org/t/rfc-lldb-do-not-stop-the-process-on-signal-sigwinch-on-linux/88577#post_1)
-- [2025 LLVM Developers’ Meeting Embedded Toolchains Workshop](https://discourse.llvm.org/t/2025-llvm-developers-meeting-embedded-toolchains-workshop/88408#post_2)
-- [[RFC] Allow pipelines registered via registerPipeline to attach PassInstrumentation](https://discourse.llvm.org/t/rfc-allow-pipelines-registered-via-registerpipeline-to-attach-passinstrumentation/88572#post_4)
-- [[RFC] Allow pipelines registered via registerPipeline to attach PassInstrumentation](https://discourse.llvm.org/t/rfc-allow-pipelines-registered-via-registerpipeline-to-attach-passinstrumentation/88572#post_3)
 <!-- DISCOURSE-LLVM:END -->
