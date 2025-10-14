@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] RegionBranchOpInterface revamping](https://discourse.llvm.org/t/psa-regionbranchopinterface-revamping/88583#post_3)
+- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441?page=2#post_35)
+- [[RFC][LLDB] Do not stop the process on signal SIGWINCH on linux](https://discourse.llvm.org/t/rfc-lldb-do-not-stop-the-process-on-signal-sigwinch-on-linux/88577#post_2)
+- [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_12)
 - [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441?page=2#post_34)
-- [RFC: a new vectorized memory read packet](https://discourse.llvm.org/t/rfc-a-new-vectorized-memory-read-packet/88441?page=2#post_33)
-- [Suspicious code in ExecutionEngine.cpp](https://discourse.llvm.org/t/suspicious-code-in-executionengine-cpp/88586#post_1)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=4#post_71)
-- [Drop the requirement of having to return `AffineMap`s from `MemRefLayoutInterface`](https://discourse.llvm.org/t/drop-the-requirement-of-having-to-return-affinemap-s-from-memreflayoutinterface/88564#post_7)
 <!-- DISCOURSE-LLVM:END -->
