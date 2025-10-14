@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Blockaddress referencing block in different function](https://discourse.llvm.org/t/blockaddress-referencing-block-in-different-function/88570#post_2)
+- [[PSA] RegionBranchOpInterface revamping](https://discourse.llvm.org/t/psa-regionbranchopinterface-revamping/88583#post_2)
 - [[PSA] RegionBranchOpInterface revamping](https://discourse.llvm.org/t/psa-regionbranchopinterface-revamping/88583#post_1)
 - [Detect enum-sized arrays using Python AST bindings](https://discourse.llvm.org/t/detect-enum-sized-arrays-using-python-ast-bindings/88181#post_2)
 - [Drop the requirement of having to return `AffineMap`s from `MemRefLayoutInterface`](https://discourse.llvm.org/t/drop-the-requirement-of-having-to-return-affinemap-s-from-memreflayoutinterface/88564#post_6)
-- [[RFC] abseil-unchecked-statusor-use check](https://discourse.llvm.org/t/rfc-abseil-unchecked-statusor-use-check/87998#post_6)
-- [RFC: CS changes for standalone variables](https://discourse.llvm.org/t/rfc-cs-changes-for-standalone-variables/88581#post_1)
 <!-- DISCOURSE-LLVM:END -->
