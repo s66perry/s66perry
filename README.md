@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900#post_17)
+- [[RFC] New command line options for controlling llvm-lit output](https://discourse.llvm.org/t/rfc-new-command-line-options-for-controlling-llvm-lit-output/88568#post_6)
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527?page=2#post_21)
 - [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900#post_16)
 - [[RFC] Identify Func Signature Change in LLVM Compiled Kernel Image](https://discourse.llvm.org/t/rfc-identify-func-signature-change-in-llvm-compiled-kernel-image/82609#post_7)
-- [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_7)
-- [[RFC] Pretty Printing Immediate Arguments in LLVM Intrinsics](https://discourse.llvm.org/t/rfc-pretty-printing-immediate-arguments-in-llvm-intrinsics/88536#post_15)
-- [Localization of Clang Documentation](https://discourse.llvm.org/t/localization-of-clang-documentation/88596#post_1)
 <!-- DISCOURSE-LLVM:END -->
