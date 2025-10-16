@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527?page=2#post_23)
-- [Running GPU programs on Apple platforms](https://discourse.llvm.org/t/running-gpu-programs-on-apple-platforms/88609#post_1)
-- [proposal: every warning should have a -W flag](https://discourse.llvm.org/t/proposal-every-warning-should-have-a-w-flag/20368?page=2#post_27)
-- [proposal: every warning should have a -W flag](https://discourse.llvm.org/t/proposal-every-warning-should-have-a-w-flag/20368?page=2#post_26)
-- [proposal: every warning should have a -W flag](https://discourse.llvm.org/t/proposal-every-warning-should-have-a-w-flag/20368?page=2#post_25)
+- [[TCDG] Tensor Compiler Design Group meeting notes 2025-10-15](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-10-15/88600#post_6)
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527?page=2#post_24)
+- [RFC: Generic DAG nodes for floating-point operations](https://discourse.llvm.org/t/rfc-generic-dag-nodes-for-floating-point-operations/88592#post_5)
+- [[TCDG] Tensor Compiler Design Group meeting notes 2025-10-15](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-10-15/88600#post_5)
+- [[TCDG] Tensor Compiler Design Group meeting notes 2025-10-15](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-10-15/88600#post_4)
 <!-- DISCOURSE-LLVM:END -->
