@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605#post_14)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=3#post_45)
-- [[TCDG] Tensor Compiler Design Group meeting notes 2025-10-15](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-10-15/88600#post_11)
-- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=3#post_44)
-- [[TCDG] Tensor Compiler Design Group meeting notes 2025-10-15](https://discourse.llvm.org/t/tcdg-tensor-compiler-design-group-meeting-notes-2025-10-15/88600#post_10)
+- [Module map `requires` as non-hard requirement](https://discourse.llvm.org/t/module-map-requires-as-non-hard-requirement/88589#post_3)
+- [[RFC] __builtin_static_analysis_assume](https://discourse.llvm.org/t/rfc-builtin-static-analysis-assume/88544#post_5)
+- [[RFC] A Framework for Allocator Partitioning Hints](https://discourse.llvm.org/t/rfc-a-framework-for-allocator-partitioning-hints/87434?page=2#post_25)
+- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605#post_16)
+- [N-ary separate_objects / non-argument `noalias` groups](https://discourse.llvm.org/t/n-ary-separate-objects-non-argument-noalias-groups/88420#post_9)
 <!-- DISCOURSE-LLVM:END -->
