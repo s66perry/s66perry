@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Running GPU programs on Apple platforms](https://discourse.llvm.org/t/running-gpu-programs-on-apple-platforms/88609#post_4)
+- [[RFC] Identify Func Signature Change in LLVM Compiled Kernel Image](https://discourse.llvm.org/t/rfc-identify-func-signature-change-in-llvm-compiled-kernel-image/82609#post_8)
+- [[RFC] __builtin_static_analysis_assume](https://discourse.llvm.org/t/rfc-builtin-static-analysis-assume/88544#post_6)
+- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_2)
 - [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_3)
-- [[CfP] 2025 Workshop on Supporting Memory Safety in LLVM](https://discourse.llvm.org/t/cfp-2025-workshop-on-supporting-memory-safety-in-llvm/88184#post_3)
-- [2025 US LLVM Developers&#39; Meeting - Final Day for Registration](https://discourse.llvm.org/t/2025-us-llvm-developers-meeting-final-day-for-registration/88615#post_1)
-- [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_2)
-- [[RFC] An opt-in CMake option for 64-bit Source Location](https://discourse.llvm.org/t/rfc-an-opt-in-cmake-option-for-64-bit-source-location/87538?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
