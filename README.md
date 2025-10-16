@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527?page=2#post_23)
+- [Running GPU programs on Apple platforms](https://discourse.llvm.org/t/running-gpu-programs-on-apple-platforms/88609#post_1)
+- [proposal: every warning should have a -W flag](https://discourse.llvm.org/t/proposal-every-warning-should-have-a-w-flag/20368?page=2#post_27)
 - [proposal: every warning should have a -W flag](https://discourse.llvm.org/t/proposal-every-warning-should-have-a-w-flag/20368?page=2#post_26)
 - [proposal: every warning should have a -W flag](https://discourse.llvm.org/t/proposal-every-warning-should-have-a-w-flag/20368?page=2#post_25)
-- [proposal: every warning should have a -W flag](https://discourse.llvm.org/t/proposal-every-warning-should-have-a-w-flag/20368?page=2#post_24)
-- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605#post_12)
-- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605#post_11)
 <!-- DISCOURSE-LLVM:END -->
