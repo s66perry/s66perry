@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Emitting auditable SARIF logs from Clang](https://discourse.llvm.org/t/rfc-emitting-auditable-sarif-logs-from-clang/88624#post_2)
+- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_29)
 - [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527?page=2#post_26)
 - [[AVR] register allocation issue - help/advice with debugging](https://discourse.llvm.org/t/avr-register-allocation-issue-help-advice-with-debugging/88498#post_13)
 - [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_6)
-- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_28)
-- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
