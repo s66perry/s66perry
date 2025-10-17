@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_24)
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527?page=2#post_25)
+- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_23)
+- [[RFC v2] [Clang] Introduce OverflowBehaviorTypes &lpar;for wrapping and non-wrapping arithmetic&rpar;](https://discourse.llvm.org/t/rfc-v2-clang-introduce-overflowbehaviortypes-for-wrapping-and-non-wrapping-arithmetic/86507?page=3#post_46)
 - [RFC for DIExpression editing](https://discourse.llvm.org/t/rfc-for-diexpression-editing/88459#post_13)
-- [Reconciling unrealized casts](https://discourse.llvm.org/t/reconciling-unrealized-casts/88620#post_7)
-- [RFC: Generic DAG nodes for floating-point operations](https://discourse.llvm.org/t/rfc-generic-dag-nodes-for-floating-point-operations/88592#post_6)
-- [Reconciling unrealized casts](https://discourse.llvm.org/t/reconciling-unrealized-casts/88620#post_6)
-- [Module map `requires` as non-hard requirement](https://discourse.llvm.org/t/module-map-requires-as-non-hard-requirement/88589#post_6)
 <!-- DISCOURSE-LLVM:END -->
