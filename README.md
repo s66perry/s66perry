@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_31)
+- [Permit transform.fuseOp to tile and fuse along the reduce dimension of linalgOp](https://discourse.llvm.org/t/permit-transform-fuseop-to-tile-and-fuse-along-the-reduce-dimension-of-linalgop/88626#post_1)
 - [Get an 8byte pointer to member function?](https://discourse.llvm.org/t/get-an-8byte-pointer-to-member-function/88625#post_2)
 - [[RFC] SYCLBIN - A Format for SYCL Device Code](https://discourse.llvm.org/t/rfc-syclbin-a-format-for-sycl-device-code/88603#post_2)
 - [Get an 8byte pointer to member function?](https://discourse.llvm.org/t/get-an-8byte-pointer-to-member-function/88625#post_1)
-- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_30)
-- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
