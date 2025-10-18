@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [When is it safe to cache `SyntheticProvider.update&lpar;&rpar;`?](https://discourse.llvm.org/t/when-is-it-safe-to-cache-syntheticprovider-update/88608#post_4)
-- [[CFP] LLVM-HPC Workshop at SC’25](https://discourse.llvm.org/t/cfp-llvm-hpc-workshop-at-sc-25/86391#post_3)
-- [N-ary separate_objects / non-argument `noalias` groups](https://discourse.llvm.org/t/n-ary-separate-objects-non-argument-noalias-groups/88420#post_10)
-- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=4#post_72)
-- [[RFC] Emitting auditable SARIF logs from Clang](https://discourse.llvm.org/t/rfc-emitting-auditable-sarif-logs-from-clang/88624#post_2)
+- [[RFC] SYCLBIN - A Format for SYCL Device Code](https://discourse.llvm.org/t/rfc-syclbin-a-format-for-sycl-device-code/88603#post_2)
+- [Get an 8byte pointer to member function?](https://discourse.llvm.org/t/get-an-8byte-pointer-to-member-function/88625#post_1)
+- [[RFC] Upgrading LLVM’s minimum required Python version](https://discourse.llvm.org/t/rfc-upgrading-llvm-s-minimum-required-python-version/88605?page=2#post_30)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_21)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900#post_20)
 <!-- DISCOURSE-LLVM:END -->
