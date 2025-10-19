@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_10)
 - [Define a compiler for my opcodes](https://discourse.llvm.org/t/define-a-compiler-for-my-opcodes/88598#post_3)
 - [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_9)
 - [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_8)
 - [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_7)
-- [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_6)
 <!-- DISCOURSE-LLVM:END -->
