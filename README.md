@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [UB when type punning through unions](https://discourse.llvm.org/t/ub-when-type-punning-through-unions/88527?page=2#post_31)
+- [[RFC] __builtin_static_analysis_assume](https://discourse.llvm.org/t/rfc-builtin-static-analysis-assume/88544#post_7)
+- [[RFC] Emitting auditable SARIF logs from Clang](https://discourse.llvm.org/t/rfc-emitting-auditable-sarif-logs-from-clang/88624#post_3)
 - [Python bindings + Properties](https://discourse.llvm.org/t/python-bindings-properties/88614#post_5)
 - [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_25)
-- [Sysroot for LLVM libc](https://discourse.llvm.org/t/sysroot-for-llvm-libc/88630#post_3)
-- [When is it safe to cache `SyntheticProvider.update&lpar;&rpar;`?](https://discourse.llvm.org/t/when-is-it-safe-to-cache-syntheticprovider-update/88608#post_5)
-- [Fixing one line in lld sources](https://discourse.llvm.org/t/fixing-one-line-in-lld-sources/88635#post_1)
 <!-- DISCOURSE-LLVM:END -->
