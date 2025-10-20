@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to deal with builtin.unrealized_conversion_cast in convert to emitc？](https://discourse.llvm.org/t/how-to-deal-with-builtin-unrealized-conversion-cast-in-convert-to-emitc/88640#post_4)
 - [How to deal with builtin.unrealized_conversion_cast in convert to emitc？](https://discourse.llvm.org/t/how-to-deal-with-builtin-unrealized-conversion-cast-in-convert-to-emitc/88640#post_3)
 - [How to deal with builtin.unrealized_conversion_cast in convert to emitc？](https://discourse.llvm.org/t/how-to-deal-with-builtin-unrealized-conversion-cast-in-convert-to-emitc/88640#post_2)
 - [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=4#post_73)
 - [How to deal with builtin.unrealized_conversion_cast in convert to emitc？](https://discourse.llvm.org/t/how-to-deal-with-builtin-unrealized-conversion-cast-in-convert-to-emitc/88640#post_1)
-- [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_1)
 <!-- DISCOURSE-LLVM:END -->
