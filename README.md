@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clarifiying the semantics of ptrtoint](https://discourse.llvm.org/t/clarifiying-the-semantics-of-ptrtoint/83987?page=4#post_73)
+- [How to deal with builtin.unrealized_conversion_cast in convert to emitc？](https://discourse.llvm.org/t/how-to-deal-with-builtin-unrealized-conversion-cast-in-convert-to-emitc/88640#post_1)
 - [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_1)
 - [In what sense is undef deprecated? Is this a docs error?](https://discourse.llvm.org/t/in-what-sense-is-undef-deprecated-is-this-a-docs-error/88636#post_4)
 - [Fixing one line in lld sources](https://discourse.llvm.org/t/fixing-one-line-in-lld-sources/88635#post_2)
-- [[RFC] Identify Func Signature Change in LLVM Compiled Kernel Image](https://discourse.llvm.org/t/rfc-identify-func-signature-change-in-llvm-compiled-kernel-image/82609#post_10)
-- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
