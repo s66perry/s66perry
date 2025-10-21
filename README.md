@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What is isExact in FloatingLiteral](https://discourse.llvm.org/t/what-is-isexact-in-floatingliteral/88655#post_2)
+- [Twine vs StringRef as function argument](https://discourse.llvm.org/t/twine-vs-stringref-as-function-argument/88616#post_5)
+- [What is isExact in FloatingLiteral](https://discourse.llvm.org/t/what-is-isexact-in-floatingliteral/88655#post_1)
+- [What&#39;s the TSAN read-before-write pattern](https://discourse.llvm.org/t/whats-the-tsan-read-before-write-pattern/88648#post_5)
 - [PSA: `OpTy::create` now with 100% more tab complete](https://discourse.llvm.org/t/psa-opty-create-now-with-100-more-tab-complete/87339#post_11)
-- [PSA: `OpTy::create` now with 100% more tab complete](https://discourse.llvm.org/t/psa-opty-create-now-with-100-more-tab-complete/87339#post_10)
-- [Likely/unlikely annotations in the presence of PGO](https://discourse.llvm.org/t/likely-unlikely-annotations-in-the-presence-of-pgo/88654#post_2)
-- [Can redudant tensor.cast between dynamic shape and static be elminated, the casted Value is passed as block args?](https://discourse.llvm.org/t/can-redudant-tensor-cast-between-dynamic-shape-and-static-be-elminated-the-casted-value-is-passed-as-block-args/88631#post_7)
-- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=4#post_74)
 <!-- DISCOURSE-LLVM:END -->
