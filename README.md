@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_27)
+- [How to deal with builtin.unrealized_conversion_cast in convert to emitc？](https://discourse.llvm.org/t/how-to-deal-with-builtin-unrealized-conversion-cast-in-convert-to-emitc/88640#post_5)
 - [What&#39;s the TSAN read-before-write pattern](https://discourse.llvm.org/t/whats-the-tsan-read-before-write-pattern/88648#post_1)
 - [Tooling for PRs-without-precommit-review](https://discourse.llvm.org/t/tooling-for-prs-without-precommit-review/88489#post_10)
 - [AArch64 failing in pre-commit CI](https://discourse.llvm.org/t/aarch64-failing-in-pre-commit-ci/88646#post_4)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_16)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_15)
 <!-- DISCOURSE-LLVM:END -->
