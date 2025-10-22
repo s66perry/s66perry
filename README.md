@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [A Minimal Python Install for LLDB](https://discourse.llvm.org/t/a-minimal-python-install-for-lldb/88658#post_15)
+- [A Minimal Python Install for LLDB](https://discourse.llvm.org/t/a-minimal-python-install-for-lldb/88658#post_14)
 - [Current research in MlGO](https://discourse.llvm.org/t/current-research-in-mlgo/88665#post_1)
 - [Multiple ASTConsumers for a frontend action pipeline](https://discourse.llvm.org/t/multiple-astconsumers-for-a-frontend-action-pipeline/88652#post_6)
 - [Multiple ASTConsumers for a frontend action pipeline](https://discourse.llvm.org/t/multiple-astconsumers-for-a-frontend-action-pipeline/88652#post_5)
-- [A Minimal Python Install for LLDB](https://discourse.llvm.org/t/a-minimal-python-install-for-lldb/88658#post_13)
-- [Plans for CXXConstructorDecl?](https://discourse.llvm.org/t/plans-for-cxxconstructordecl/88200#post_18)
 <!-- DISCOURSE-LLVM:END -->
