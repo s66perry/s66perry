@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Change default mapping from intrinsic record name to intrinsic name for __](https://discourse.llvm.org/t/rfc-change-default-mapping-from-intrinsic-record-name-to-intrinsic-name-for/88660#post_4)
+- [Likely/unlikely annotations in the presence of PGO](https://discourse.llvm.org/t/likely-unlikely-annotations-in-the-presence-of-pgo/88654#post_5)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_62)
 - [Plans for CXXConstructorDecl?](https://discourse.llvm.org/t/plans-for-cxxconstructordecl/88200#post_15)
 - [A Minimal Python Install for LLDB](https://discourse.llvm.org/t/a-minimal-python-install-for-lldb/88658#post_8)
-- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_11)
-- [A Minimal Python Install for LLDB](https://discourse.llvm.org/t/a-minimal-python-install-for-lldb/88658#post_7)
 <!-- DISCOURSE-LLVM:END -->
