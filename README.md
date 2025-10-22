@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Constructing a std::move_only_function with a std::bind_front object does not compile with all clang versions](https://discourse.llvm.org/t/constructing-a-std-move-only-function-with-a-std-bind-front-object-does-not-compile-with-all-clang-versions/88650#post_3)
+- [Reconciling unrealized casts](https://discourse.llvm.org/t/reconciling-unrealized-casts/88620#post_14)
+- [Reconciling unrealized casts](https://discourse.llvm.org/t/reconciling-unrealized-casts/88620#post_13)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_33)
 - [Multiple ASTConsumers for a frontend action pipeline](https://discourse.llvm.org/t/multiple-astconsumers-for-a-frontend-action-pipeline/88652#post_2)
-- [Reconciling unrealized casts](https://discourse.llvm.org/t/reconciling-unrealized-casts/88620#post_12)
-- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_32)
-- [How to avoid the allocation/deallocation inside omp.loop_nest when generating loop from affine.parallel?](https://discourse.llvm.org/t/how-to-avoid-the-allocation-deallocation-inside-omp-loop-nest-when-generating-loop-from-affine-parallel/88657#post_2)
-- [RFC: Change default mapping from intrinsic record name to intrinsic name for __](https://discourse.llvm.org/t/rfc-change-default-mapping-from-intrinsic-record-name-to-intrinsic-name-for/88660#post_4)
 <!-- DISCOURSE-LLVM:END -->
