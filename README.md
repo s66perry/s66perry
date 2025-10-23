@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668#post_8)
-- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668#post_7)
-- [A Minimal Python Install for LLDB](https://discourse.llvm.org/t/a-minimal-python-install-for-lldb/88658#post_17)
-- [Is there a way to do a &quot;stand-alone&quot; MLIR build?](https://discourse.llvm.org/t/is-there-a-way-to-do-a-stand-alone-mlir-build/88675#post_8)
-- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668#post_6)
+- [Current research in MlGO](https://discourse.llvm.org/t/current-research-in-mlgo/88665#post_8)
+- [[RFC] Changing the indirectbr/blockaddress representation](https://discourse.llvm.org/t/rfc-changing-the-indirectbr-blockaddress-representation/88677#post_7)
+- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668#post_11)
+- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668#post_10)
+- [[RFC] Changing the indirectbr/blockaddress representation](https://discourse.llvm.org/t/rfc-changing-the-indirectbr-blockaddress-representation/88677#post_6)
 <!-- DISCOURSE-LLVM:END -->
