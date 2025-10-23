@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Identify Func Signature Change in LLVM Compiled Kernel Image](https://discourse.llvm.org/t/rfc-identify-func-signature-change-in-llvm-compiled-kernel-image/82609#post_18)
 - [Reconciling unrealized casts](https://discourse.llvm.org/t/reconciling-unrealized-casts/88620#post_16)
 - [Current research in MlGO](https://discourse.llvm.org/t/current-research-in-mlgo/88665#post_5)
 - [Encoding of explicit parallel instructions](https://discourse.llvm.org/t/encoding-of-explicit-parallel-instructions/88634#post_4)
 - [Reconciling unrealized casts](https://discourse.llvm.org/t/reconciling-unrealized-casts/88620#post_15)
-- [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_9)
 <!-- DISCOURSE-LLVM:END -->
