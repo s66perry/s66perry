@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 - [Question about MLIR workshop in Santa Clara](https://discourse.llvm.org/t/question-about-mlir-workshop-in-santa-clara/88399#post_10)
 - [Sysroot for LLVM libc](https://discourse.llvm.org/t/sysroot-for-llvm-libc/88630#post_5)
 - [How to declare a global using inline asm &lpar;`__asm__`&rpar; from C when compiling to `wasm32`?](https://discourse.llvm.org/t/how-to-declare-a-global-using-inline-asm-asm-from-c-when-compiling-to-wasm32/88694#post_2)
-- [Inconsistent behavior between standalone interpreter and lli -force-interpreter: missing logic for loading aggregate types?](https://discourse.llvm.org/t/inconsistent-behavior-between-standalone-interpreter-and-lli-force-interpreter-missing-logic-for-loading-aggregate-types/88697#post_1)
+- [Is lli&#39;s -force-interpreter=true pure interpreter mode?](https://discourse.llvm.org/t/is-llis-force-interpreter-true-pure-interpreter-mode/88697#post_1)
 <!-- DISCOURSE-LLVM:END -->
