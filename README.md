@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clarification on how to accept commit access requests](https://discourse.llvm.org/t/clarification-on-how-to-accept-commit-access-requests/88728#post_1)
-- [How to build test on a mac?](https://discourse.llvm.org/t/how-to-build-test-on-a-mac/88727#post_4)
-- [How to build test on a mac?](https://discourse.llvm.org/t/how-to-build-test-on-a-mac/88727#post_3)
-- [How to build test on a mac?](https://discourse.llvm.org/t/how-to-build-test-on-a-mac/88727#post_2)
-- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471#post_9)
+- [How to build test on a mac?](https://discourse.llvm.org/t/how-to-build-test-on-a-mac/88727#post_6)
+- [Clarification on how to accept commit access requests](https://discourse.llvm.org/t/clarification-on-how-to-accept-commit-access-requests/88728#post_2)
+- [How to build test on a mac?](https://discourse.llvm.org/t/how-to-build-test-on-a-mac/88727#post_5)
+- [Using `Twine` to construct a `SmallString`?](https://discourse.llvm.org/t/using-twine-to-construct-a-smallstring/88719#post_2)
+- [[RFC] An ABI lowering library for LLVM](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495?page=2#post_36)
 <!-- DISCOURSE-LLVM:END -->
