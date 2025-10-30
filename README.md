@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Custom LLVM backend: error: unable to interface with target machine](https://discourse.llvm.org/t/custom-llvm-backend-error-unable-to-interface-with-target-machine/88736#post_2)
-- [PDX Area November 2025 social](https://discourse.llvm.org/t/pdx-area-november-2025-social/88737#post_2)
-- [PDX Area September 2025 social](https://discourse.llvm.org/t/pdx-area-september-2025-social/88236#post_2)
-- [PDX Area November 2025 social](https://discourse.llvm.org/t/pdx-area-november-2025-social/88737#post_1)
-- [Custom LLVM backend: error: unable to interface with target machine](https://discourse.llvm.org/t/custom-llvm-backend-error-unable-to-interface-with-target-machine/88736#post_1)
+- [How to build and run test on a Mac?](https://discourse.llvm.org/t/how-to-build-and-run-test-on-a-mac/88727#post_14)
+- [Custom LLVM backend: error: unable to interface with target machine](https://discourse.llvm.org/t/custom-llvm-backend-error-unable-to-interface-with-target-machine/88736#post_4)
+- [Custom LLVM backend: error: unable to interface with target machine](https://discourse.llvm.org/t/custom-llvm-backend-error-unable-to-interface-with-target-machine/88736#post_3)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_40)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_39)
 <!-- DISCOURSE-LLVM:END -->
