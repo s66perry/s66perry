@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to build and run test on a Mac?](https://discourse.llvm.org/t/how-to-build-and-run-test-on-a-mac/88727#post_13)
-- [Implementing TilingInterface for tensor ops](https://discourse.llvm.org/t/implementing-tilinginterface-for-tensor-ops/87597#post_9)
-- [Website has old download page](https://discourse.llvm.org/t/website-has-old-download-page/88730#post_3)
-- [[RFC] Implementation of OpenACC 3.3 for Offload in Clang](https://discourse.llvm.org/t/rfc-implementation-of-openacc-3-3-for-offload-in-clang/74405?page=2#post_28)
-- [Trace Code snippet through passes](https://discourse.llvm.org/t/trace-code-snippet-through-passes/88731#post_3)
+- [Custom LLVM backend: error: unable to interface with target machine](https://discourse.llvm.org/t/custom-llvm-backend-error-unable-to-interface-with-target-machine/88736#post_2)
+- [PDX Area November 2025 social](https://discourse.llvm.org/t/pdx-area-november-2025-social/88737#post_2)
+- [PDX Area September 2025 social](https://discourse.llvm.org/t/pdx-area-september-2025-social/88236#post_2)
+- [PDX Area November 2025 social](https://discourse.llvm.org/t/pdx-area-november-2025-social/88737#post_1)
+- [Custom LLVM backend: error: unable to interface with target machine](https://discourse.llvm.org/t/custom-llvm-backend-error-unable-to-interface-with-target-machine/88736#post_1)
 <!-- DISCOURSE-LLVM:END -->
