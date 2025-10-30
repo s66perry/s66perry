@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=2#post_38)
+- [Trace Code snippet through passes](https://discourse.llvm.org/t/trace-code-snippet-through-passes/88731#post_2)
+- [OpenCL conversion operations: why call?](https://discourse.llvm.org/t/opencl-conversion-operations-why-call/88565#post_4)
+- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471#post_10)
 - [Trace Code snippet through passes](https://discourse.llvm.org/t/trace-code-snippet-through-passes/88731#post_1)
-- [Website has old download page](https://discourse.llvm.org/t/website-has-old-download-page/88730#post_2)
-- [Website has old download page](https://discourse.llvm.org/t/website-has-old-download-page/88730#post_1)
-- [[TableGen] How pattern should look like for multiple output node?](https://discourse.llvm.org/t/tablegen-how-pattern-should-look-like-for-multiple-output-node/88726#post_2)
-- [[RFC] Proposal to establish a Safety Group in LLVM](https://discourse.llvm.org/t/rfc-proposal-to-establish-a-safety-group-in-llvm/86916?page=5#post_87)
 <!-- DISCOURSE-LLVM:END -->
