@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to iterate sections and process it?](https://discourse.llvm.org/t/how-to-iterate-sections-and-process-it/88723#post_3)
+- [[RFC] A Lightweight Debugging Dialect for MLIR](https://discourse.llvm.org/t/rfc-a-lightweight-debugging-dialect-for-mlir/88747#post_2)
+- [[RFC] A Lightweight Debugging Dialect for MLIR](https://discourse.llvm.org/t/rfc-a-lightweight-debugging-dialect-for-mlir/88747#post_1)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=3#post_43)
 - [Trace Code snippet through passes](https://discourse.llvm.org/t/trace-code-snippet-through-passes/88731#post_4)
-- [Using `Twine` to construct a `SmallString`?](https://discourse.llvm.org/t/using-twine-to-construct-a-smallstring/88719#post_4)
-- [Linking with libcxx built with asan reports container-overflow error](https://discourse.llvm.org/t/linking-with-libcxx-built-with-asan-reports-container-overflow-error/88687#post_2)
-- [CFP FOSDEM 2026 LLVM dev room](https://discourse.llvm.org/t/cfp-fosdem-2026-llvm-dev-room/88746#post_1)
-- [Helping with the organisation of the FOSDEM 2026 LLVM dev room](https://discourse.llvm.org/t/helping-with-the-organisation-of-the-fosdem-2026-llvm-dev-room/88448#post_3)
 <!-- DISCOURSE-LLVM:END -->
