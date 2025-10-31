@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Identify Func Signature Change in LLVM Compiled Kernel Image](https://discourse.llvm.org/t/rfc-identify-func-signature-change-in-llvm-compiled-kernel-image/82609?page=2#post_26)
+- [Clang-cl on Microsoft Windows without MSVC?](https://discourse.llvm.org/t/clang-cl-on-microsoft-windows-without-msvc/86650#post_14)
 - [How to iterate sections and process it?](https://discourse.llvm.org/t/how-to-iterate-sections-and-process-it/88723#post_3)
 - [[RFC] A Lightweight Debugging Dialect for MLIR](https://discourse.llvm.org/t/rfc-a-lightweight-debugging-dialect-for-mlir/88747#post_2)
 - [[RFC] A Lightweight Debugging Dialect for MLIR](https://discourse.llvm.org/t/rfc-a-lightweight-debugging-dialect-for-mlir/88747#post_1)
-- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=3#post_43)
-- [Trace Code snippet through passes](https://discourse.llvm.org/t/trace-code-snippet-through-passes/88731#post_4)
 <!-- DISCOURSE-LLVM:END -->
