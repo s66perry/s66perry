@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[CFP] Tenth LLVM Performance Workshop at CGO](https://discourse.llvm.org/t/cfp-tenth-llvm-performance-workshop-at-cgo/88756#post_1)
 - [Compilation support for ASIC chip backend](https://discourse.llvm.org/t/compilation-support-for-asic-chip-backend/88702#post_5)
 - [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471#post_15)
 - [RISC-V Roundtable Meeting Notes](https://discourse.llvm.org/t/risc-v-roundtable-meeting-notes/88752#post_4)
 - [Redundant memref.copy elimination problem，can anyone help？](https://discourse.llvm.org/t/redundant-memref-copy-elimination-problem-can-anyone-help/88754#post_3)
-- [Redundant memref.copy elimination problem，can anyone help？](https://discourse.llvm.org/t/redundant-memref-copy-elimination-problem-can-anyone-help/88754#post_2)
 <!-- DISCOURSE-LLVM:END -->
