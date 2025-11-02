@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Convex Loops](https://discourse.llvm.org/t/convex-loops/88753#post_2)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_79)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_78)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_77)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_76)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_75)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_74)
 <!-- DISCOURSE-LLVM:END -->
