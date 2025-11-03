@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=4#post_78)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_15)
 - [Trace Code snippet through passes](https://discourse.llvm.org/t/trace-code-snippet-through-passes/88731#post_5)
 - [MCExpr::print add support for more targtes](https://discourse.llvm.org/t/mcexpr-print-add-support-for-more-targtes/88762#post_3)
 - [Convex Loops](https://discourse.llvm.org/t/convex-loops/88753#post_2)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_79)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=4#post_78)
 <!-- DISCOURSE-LLVM:END -->
