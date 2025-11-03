@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Loop Optimisations Roundtable Notes](https://discourse.llvm.org/t/loop-optimisations-roundtable-notes/88751#post_2)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_17)
 - [Is the bufferization of func.func able to be reused on other FunctionOpInterface](https://discourse.llvm.org/t/is-the-bufferization-of-func-func-able-to-be-reused-on-other-functionopinterface/88684#post_3)
 - [RISC-V Roundtable Meeting Notes](https://discourse.llvm.org/t/risc-v-roundtable-meeting-notes/88752#post_5)
 - [RFC: Require Pull Requests for all llvm-project commits](https://discourse.llvm.org/t/rfc-require-pull-requests-for-all-llvm-project-commits/88164?page=4#post_78)
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_15)
-- [Trace Code snippet through passes](https://discourse.llvm.org/t/trace-code-snippet-through-passes/88731#post_5)
 <!-- DISCOURSE-LLVM:END -->
