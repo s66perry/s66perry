@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_19)
-- [[CfP] 2025 Workshop on Supporting Memory Safety in LLVM](https://discourse.llvm.org/t/cfp-2025-workshop-on-supporting-memory-safety-in-llvm/88184#post_4)
-- [[LLVM-DEV&#39;25] LLVM :hearts: ML Workshop](https://discourse.llvm.org/t/llvm-dev25-llvm-ml-workshop/87488#post_8)
-- [Spill/fill for sub-registers](https://discourse.llvm.org/t/spill-fill-for-sub-registers/88720#post_2)
-- [LLVM 21.1.5 Released](https://discourse.llvm.org/t/llvm-21-1-5-released/88776#post_1)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_16)
+- [MLGO Meeting Nov 7th 8am PST](https://discourse.llvm.org/t/mlgo-meeting-nov-7th-8am-pst/88778#post_1)
+- [[RFC] New clangOptions library; Remove dependency on `clangDriver` from `clangFrontend` and `flangFrontend`](https://discourse.llvm.org/t/rfc-new-clangoptions-library-remove-dependency-on-clangdriver-from-clangfrontend-and-flangfrontend/88773#post_2)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_21)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141#post_20)
 <!-- DISCOURSE-LLVM:END -->
