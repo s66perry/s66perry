@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=2#post_24)
+- [Lifting CF loops to SCF loops creates do-while, is there a way to turn it into regular while?](https://discourse.llvm.org/t/lifting-cf-loops-to-scf-loops-creates-do-while-is-there-a-way-to-turn-it-into-regular-while/88774#post_3)
 - [[RFC] Introduce sentinel pointer value to `DataLayout`](https://discourse.llvm.org/t/rfc-introduce-sentinel-pointer-value-to-datalayout/85265#post_19)
 - [RFC: Scalable Static Analysis Framework](https://discourse.llvm.org/t/rfc-scalable-static-analysis-framework/88678#post_11)
 - [RFC: Scalable Static Analysis Framework](https://discourse.llvm.org/t/rfc-scalable-static-analysis-framework/88678#post_10)
-- [RFC: Scalable Static Analysis Framework](https://discourse.llvm.org/t/rfc-scalable-static-analysis-framework/88678#post_9)
-- [How to enable WConversion by default for a language &lpar;HLSL&rpar;?](https://discourse.llvm.org/t/how-to-enable-wconversion-by-default-for-a-language-hlsl/88782#post_1)
 <!-- DISCOURSE-LLVM:END -->
