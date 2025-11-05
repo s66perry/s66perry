@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding -fdefault-integer-4 command line option](https://discourse.llvm.org/t/rfc-adding-fdefault-integer-4-command-line-option/88683#post_6)
-- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_1)
-- [[MC] How/why does converting &quot;relocation against symbol&quot; to &quot;relocation against section&quot; work?](https://discourse.llvm.org/t/mc-how-why-does-converting-relocation-against-symbol-to-relocation-against-section-work/88786#post_3)
-- [[MC] How/why does converting &quot;relocation against symbol&quot; to &quot;relocation against section&quot; work?](https://discourse.llvm.org/t/mc-how-why-does-converting-relocation-against-symbol-to-relocation-against-section-work/88786#post_2)
-- [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785#post_10)
+- [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785#post_14)
+- [Repeated calls to a ROCm kernel are very slow](https://discourse.llvm.org/t/repeated-calls-to-a-rocm-kernel-are-very-slow/67306#post_6)
+- [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785#post_13)
+- [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785#post_12)
+- [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785#post_11)
 <!-- DISCOURSE-LLVM:END -->
