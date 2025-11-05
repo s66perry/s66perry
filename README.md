@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785#post_15)
+- [[RFC][Driver] Accept &lpar;and ignore&rpar; gfortran-specific options](https://discourse.llvm.org/t/rfc-driver-accept-and-ignore-gfortran-specific-options/88794#post_2)
 - [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_2)
 - [[RFC][Driver] Accept &lpar;and ignore&rpar; gfortran-specific options](https://discourse.llvm.org/t/rfc-driver-accept-and-ignore-gfortran-specific-options/88794#post_1)
 - [RISC-V LLVM sync-up call November 6th 2025](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-november-6th-2025/88793#post_1)
-- [RFC: Bounds Safety in C Syntax Compatibility with GCC](https://discourse.llvm.org/t/rfc-bounds-safety-in-c-syntax-compatibility-with-gcc/85885?page=6#post_106)
-- [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785#post_14)
 <!-- DISCOURSE-LLVM:END -->
