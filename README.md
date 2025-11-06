@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][OpenMP] Early splitting of compound directives](https://discourse.llvm.org/t/rfc-openmp-early-splitting-of-compound-directives/88779#post_3)
 - [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_35)
 - [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=2#post_31)
 - [[MC] How/why does converting &quot;relocation against symbol&quot; to &quot;relocation against section&quot; work?](https://discourse.llvm.org/t/mc-how-why-does-converting-relocation-against-symbol-to-relocation-against-section-work/88786#post_6)
 - [[RFC] Software Implementation for Unsupported FP Types in `--convert-arith-to-llvm`](https://discourse.llvm.org/t/rfc-software-implementation-for-unsupported-fp-types-in-convert-arith-to-llvm/88785?page=2#post_22)
-- [[MC] How/why does converting &quot;relocation against symbol&quot; to &quot;relocation against section&quot; work?](https://discourse.llvm.org/t/mc-how-why-does-converting-relocation-against-symbol-to-relocation-against-section-work/88786#post_5)
 <!-- DISCOURSE-LLVM:END -->
