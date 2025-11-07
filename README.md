@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_11)
+- [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_3)
+- [Configurable Replacement Check Plan for clang-tidy](https://discourse.llvm.org/t/configurable-replacement-check-plan-for-clang-tidy/88817#post_1)
 - [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_2)
 - [[RFC] Extend ExtVectorElementExpr for HLSL Matrix Accessors](https://discourse.llvm.org/t/rfc-extend-extvectorelementexpr-for-hlsl-matrix-accessors/88802#post_2)
-- [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_1)
-- [A Minimal Python Install for LLDB](https://discourse.llvm.org/t/a-minimal-python-install-for-lldb/88658#post_20)
-- [Forbidding @username in commits](https://discourse.llvm.org/t/forbidding-username-in-commits/86997#post_19)
 <!-- DISCOURSE-LLVM:END -->
