@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM E2E tests](https://discourse.llvm.org/t/llvm-e2e-tests/88801#post_7)
 - [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_8)
 - [LLVM Lab is offline](https://discourse.llvm.org/t/llvm-lab-is-offline/88803#post_2)
 - [Flang Fortran plugin for LLDB status?](https://discourse.llvm.org/t/flang-fortran-plugin-for-lldb-status/81301#post_7)
 - [LLVM Lab is offline](https://discourse.llvm.org/t/llvm-lab-is-offline/88803#post_1)
-- [LLVM E2E tests](https://discourse.llvm.org/t/llvm-e2e-tests/88801#post_6)
 <!-- DISCOURSE-LLVM:END -->
