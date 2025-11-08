@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_7)
 - [[Question] How to start contributing MLIR and deepen understanding?](https://discourse.llvm.org/t/question-how-to-start-contributing-mlir-and-deepen-understanding/88818#post_1)
 - [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_6)
 - [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471#post_20)
 - [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_23)
-- [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_5)
 <!-- DISCOURSE-LLVM:END -->
