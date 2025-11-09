@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Contribute new target to llvm](https://discourse.llvm.org/t/contribute-new-target-to-llvm/88820#post_1)
 - [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_10)
 - [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_9)
 - [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=3#post_55)
 - [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=2#post_21)
-- [C++ constructor, difference between Obj x and Obj y{}](https://discourse.llvm.org/t/c-constructor-difference-between-obj-x-and-obj-y/88816#post_8)
 <!-- DISCOURSE-LLVM:END -->
