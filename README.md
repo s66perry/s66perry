@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] New clangOptions library; Remove dependency on `clangDriver` from `clangFrontend` and `flangFrontend`](https://discourse.llvm.org/t/rfc-new-clangoptions-library-remove-dependency-on-clangdriver-from-clangfrontend-and-flangfrontend/88773#post_5)
+- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_12)
 - [Avoid sending out emails when PRs go wrong](https://discourse.llvm.org/t/avoid-sending-out-emails-when-prs-go-wrong/88827#post_3)
 - [Avoid sending out emails when PRs go wrong](https://discourse.llvm.org/t/avoid-sending-out-emails-when-prs-go-wrong/88827#post_2)
 - [Avoid sending out emails when PRs go wrong](https://discourse.llvm.org/t/avoid-sending-out-emails-when-prs-go-wrong/88827#post_1)
-- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=2#post_29)
-- [Error: undefined symbol: ___chkstk_ms](https://discourse.llvm.org/t/error-undefined-symbol-chkstk-ms/86707?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
