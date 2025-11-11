@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Expressing label-relative offsets as constant expressions](https://discourse.llvm.org/t/expressing-label-relative-offsets-as-constant-expressions/88649#post_4)
+- [LLVM 21.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-21-x-release-third-party-binaries/87420#post_13)
 - [[CFP] ACM SIGPLAN International Conference on Compiler Construction &lpar;CC&rpar; 2026](https://discourse.llvm.org/t/cfp-acm-sigplan-international-conference-on-compiler-construction-cc-2026/88706#post_2)
 - [[CFP] International Conference on Compiler Construction &lpar;CC&rpar; 2026](https://discourse.llvm.org/t/cfp-international-conference-on-compiler-construction-cc-2026/88713#post_2)
 - [Expressing label-relative offsets as constant expressions](https://discourse.llvm.org/t/expressing-label-relative-offsets-as-constant-expressions/88649#post_3)
-- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_12)
-- [Compact section header table for ELF](https://discourse.llvm.org/t/compact-section-header-table-for-elf/88821#post_5)
 <!-- DISCOURSE-LLVM:END -->
