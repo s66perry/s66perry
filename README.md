@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM project email address to list when creating packages?](https://discourse.llvm.org/t/llvm-project-email-address-to-list-when-creating-packages/88867#post_2)
-- [MLIR generated python bindings for types and attributes](https://discourse.llvm.org/t/mlir-generated-python-bindings-for-types-and-attributes/88870#post_1)
-- [Issue with installation of libc++](https://discourse.llvm.org/t/issue-with-installation-of-libc/88869#post_1)
-- [[RFC] [Clang] adding strong typedefs](https://discourse.llvm.org/t/rfc-clang-adding-strong-typedefs/88843#post_18)
-- [Moving projects into the LLVM org on PyPI?](https://discourse.llvm.org/t/moving-projects-into-the-llvm-org-on-pypi/88868#post_3)
+- [Moving projects into the LLVM org on PyPI?](https://discourse.llvm.org/t/moving-projects-into-the-llvm-org-on-pypi/88868#post_5)
+- [Moving projects into the LLVM org on PyPI?](https://discourse.llvm.org/t/moving-projects-into-the-llvm-org-on-pypi/88868#post_4)
+- [How to Prevent LoopVectorizer from Generating Unfavorable Types?](https://discourse.llvm.org/t/how-to-prevent-loopvectorizer-from-generating-unfavorable-types/88856#post_3)
+- [LLVM project email address to list when creating packages?](https://discourse.llvm.org/t/llvm-project-email-address-to-list-when-creating-packages/88867#post_3)
+- [[Question] index::AddOp fails OpTrait::hasElementwiseMappableTraits but arith::AddIOp passes. Reason?](https://discourse.llvm.org/t/question-index-addop-fails-optrait-haselementwisemappabletraits-but-arith-addiop-passes-reason/88871#post_1)
 <!-- DISCOURSE-LLVM:END -->
