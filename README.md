@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=3#post_42)
 - [How to Prevent LoopVectorizer from Generating Unfavorable Types?](https://discourse.llvm.org/t/how-to-prevent-loopvectorizer-from-generating-unfavorable-types/88856#post_2)
 - [Libquadmath in LLVM?](https://discourse.llvm.org/t/libquadmath-in-llvm/80160#post_16)
 - [Problem abort weak symbol](https://discourse.llvm.org/t/problem-abort-weak-symbol/88857#post_1)
 - [[RFC] [Clang] adding strong typedefs](https://discourse.llvm.org/t/rfc-clang-adding-strong-typedefs/88843#post_14)
-- [How to Prevent LoopVectorizer from Generating Unfavorable Types?](https://discourse.llvm.org/t/how-to-prevent-loopvectorizer-from-generating-unfavorable-types/88856#post_1)
 <!-- DISCOURSE-LLVM:END -->
