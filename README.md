@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [Clang] adding strong typedefs](https://discourse.llvm.org/t/rfc-clang-adding-strong-typedefs/88843#post_19)
 - [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=2#post_31)
 - [[RFC] Adding editorconfig for clang-tidy documentation](https://discourse.llvm.org/t/rfc-adding-editorconfig-for-clang-tidy-documentation/88849#post_7)
 - [[RFC] Adding editorconfig for clang-tidy documentation](https://discourse.llvm.org/t/rfc-adding-editorconfig-for-clang-tidy-documentation/88849#post_6)
 - [Moving projects into the LLVM org on PyPI?](https://discourse.llvm.org/t/moving-projects-into-the-llvm-org-on-pypi/88868#post_7)
-- [MLIR generated python bindings for types and attributes](https://discourse.llvm.org/t/mlir-generated-python-bindings-for-types-and-attributes/88870#post_2)
 <!-- DISCOURSE-LLVM:END -->
