@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Canonicalizer not removing redundant cmpi operations](https://discourse.llvm.org/t/canonicalizer-not-removing-redundant-cmpi-operations/88873#post_2)
 - [MLIR generated python bindings for types and attributes](https://discourse.llvm.org/t/mlir-generated-python-bindings-for-types-and-attributes/88870#post_4)
 - [MLIR generated python bindings for types and attributes](https://discourse.llvm.org/t/mlir-generated-python-bindings-for-types-and-attributes/88870#post_3)
 - [Canonicalizer not removing redundant cmpi operations](https://discourse.llvm.org/t/canonicalizer-not-removing-redundant-cmpi-operations/88873#post_1)
 - [[RFC] [Clang] adding strong typedefs](https://discourse.llvm.org/t/rfc-clang-adding-strong-typedefs/88843#post_20)
-- [Moving projects into the LLVM org on PyPI?](https://discourse.llvm.org/t/moving-projects-into-the-llvm-org-on-pypi/88868#post_8)
 <!-- DISCOURSE-LLVM:END -->
