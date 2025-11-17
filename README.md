@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question about MemoryEffectsOpInterface](https://discourse.llvm.org/t/question-about-memoryeffectsopinterface/88879#post_3)
-- [Question about MemoryEffectsOpInterface](https://discourse.llvm.org/t/question-about-memoryeffectsopinterface/88879#post_2)
-- [Question about MemoryEffectsOpInterface](https://discourse.llvm.org/t/question-about-memoryeffectsopinterface/88879#post_1)
-- [Source-to-source code transformation tools built on LLVM LibTooling](https://discourse.llvm.org/t/source-to-source-code-transformation-tools-built-on-llvm-libtooling/88877#post_1)
-- [LLVM Meetup Berlin – 18 September 2025](https://discourse.llvm.org/t/llvm-meetup-berlin-18-september-2025/88214#post_2)
+- [Question about MemoryEffectsOpInterface](https://discourse.llvm.org/t/question-about-memoryeffectsopinterface/88879#post_8)
+- [Question about MemoryEffectsOpInterface](https://discourse.llvm.org/t/question-about-memoryeffectsopinterface/88879#post_7)
+- [Question about MemoryEffectsOpInterface](https://discourse.llvm.org/t/question-about-memoryeffectsopinterface/88879#post_6)
+- [Question about MemoryEffectsOpInterface](https://discourse.llvm.org/t/question-about-memoryeffectsopinterface/88879#post_5)
+- [Semantics of NaN](https://discourse.llvm.org/t/semantics-of-nan/66729?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
