@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to trap errors with flang? Tracebacks?](https://discourse.llvm.org/t/how-to-trap-errors-with-flang-tracebacks/88893#post_1)
-- [Is there a way to do a &quot;stand-alone&quot; MLIR build?](https://discourse.llvm.org/t/is-there-a-way-to-do-a-stand-alone-mlir-build/88675#post_15)
-- [Is there a way to do a &quot;stand-alone&quot; MLIR build?](https://discourse.llvm.org/t/is-there-a-way-to-do-a-stand-alone-mlir-build/88675#post_14)
-- [Is there a way to do a &quot;stand-alone&quot; MLIR build?](https://discourse.llvm.org/t/is-there-a-way-to-do-a-stand-alone-mlir-build/88675#post_13)
-- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021?page=2#post_30)
+- [Mailing lists not sending email?](https://discourse.llvm.org/t/mailing-lists-not-sending-email/88278#post_6)
+- [[RFC] Extend ExtVectorElementExpr for HLSL Matrix Accessors](https://discourse.llvm.org/t/rfc-extend-extvectorelementexpr-for-hlsl-matrix-accessors/88802#post_3)
+- [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894#post_4)
+- [How to trap errors with flang? Tracebacks?](https://discourse.llvm.org/t/how-to-trap-errors-with-flang-tracebacks/88893#post_3)
+- [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894#post_3)
 <!-- DISCOURSE-LLVM:END -->
