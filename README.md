@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_3)
-- [RFC: Change of strict FP operation representation in IR](https://discourse.llvm.org/t/rfc-change-of-strict-fp-operation-representation-in-ir/85021?page=2#post_31)
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_2)
-- [[RFC] Extend ExtVectorElementExpr for HLSL Matrix Accessors](https://discourse.llvm.org/t/rfc-extend-extvectorelementexpr-for-hlsl-matrix-accessors/88802#post_4)
-- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_3)
+- [Symbolic/named address spaces](https://discourse.llvm.org/t/symbolic-named-address-spaces/88909#post_4)
+- [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894?page=2#post_21)
+- [Symbolic/named address spaces](https://discourse.llvm.org/t/symbolic-named-address-spaces/88909#post_3)
+- [[RFC] Adding back end for the Connex vector accelerator as an experimental target](https://discourse.llvm.org/t/rfc-adding-back-end-for-the-connex-vector-accelerator-as-an-experimental-target/88910#post_1)
+- [Symbolic/named address spaces](https://discourse.llvm.org/t/symbolic-named-address-spaces/88909#post_2)
 <!-- DISCOURSE-LLVM:END -->
