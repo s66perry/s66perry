@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to trap errors with flang? Tracebacks?](https://discourse.llvm.org/t/how-to-trap-errors-with-flang-tracebacks/88893#post_4)
 - [[RFC] Emitting auditable SARIF logs from Clang](https://discourse.llvm.org/t/rfc-emitting-auditable-sarif-logs-from-clang/88624#post_14)
 - [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894#post_14)
 - [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894#post_13)
 - [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894#post_12)
-- [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894#post_11)
 <!-- DISCOURSE-LLVM:END -->
