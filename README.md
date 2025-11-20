@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Should constant folding of NaNs be disabled?](https://discourse.llvm.org/t/should-constant-folding-of-nans-be-disabled/88919#post_2)
+- [[Showcase and Feedback] Clang-tidy check to avoid Eigen Pitfalls](https://discourse.llvm.org/t/showcase-and-feedback-clang-tidy-check-to-avoid-eigen-pitfalls/88889#post_3)
 - [Custom parameters on RecursiveASTVisitor](https://discourse.llvm.org/t/custom-parameters-on-recursiveastvisitor/88922#post_1)
 - [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_2)
 - [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_16)
-- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_9)
-- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_8)
 <!-- DISCOURSE-LLVM:END -->
