@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_17)
+- [Dedicated meeting for C++26 reflection](https://discourse.llvm.org/t/dedicated-meeting-for-c-26-reflection/88927#post_2)
+- [Dedicated meeting for C++26 reflection](https://discourse.llvm.org/t/dedicated-meeting-for-c-26-reflection/88927#post_1)
+- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=3#post_41)
 - [Custom parameters on RecursiveASTVisitor](https://discourse.llvm.org/t/custom-parameters-on-recursiveastvisitor/88922#post_4)
-- [Custom parameters on RecursiveASTVisitor](https://discourse.llvm.org/t/custom-parameters-on-recursiveastvisitor/88922#post_3)
-- [Custom parameters on RecursiveASTVisitor](https://discourse.llvm.org/t/custom-parameters-on-recursiveastvisitor/88922#post_2)
-- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=2#post_40)
-- [[RFC] LLVM.FAKE.USE as a compiler sink &lpar;blackhole&rpar;](https://discourse.llvm.org/t/rfc-llvm-fake-use-as-a-compiler-sink-blackhole/88916#post_2)
 <!-- DISCOURSE-LLVM:END -->
