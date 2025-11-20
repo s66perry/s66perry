@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_17)
-- [Dedicated meeting for C++26 reflection](https://discourse.llvm.org/t/dedicated-meeting-for-c-26-reflection/88927#post_2)
-- [Dedicated meeting for C++26 reflection](https://discourse.llvm.org/t/dedicated-meeting-for-c-26-reflection/88927#post_1)
-- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=3#post_41)
-- [Custom parameters on RecursiveASTVisitor](https://discourse.llvm.org/t/custom-parameters-on-recursiveastvisitor/88922#post_4)
+- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=3#post_43)
+- [RFC: Display true result for AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-display-true-result-for-aarch64-pre-commit-ci/88928#post_2)
+- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=3#post_42)
+- [Dedicated meeting for C++26 reflection](https://discourse.llvm.org/t/dedicated-meeting-for-c-26-reflection/88927#post_3)
+- [Should constant folding of NaNs be disabled?](https://discourse.llvm.org/t/should-constant-folding-of-nans-be-disabled/88919#post_3)
 <!-- DISCOURSE-LLVM:END -->
