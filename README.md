@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is -fno-builtin necessary in overlay mode?](https://discourse.llvm.org/t/is-fno-builtin-necessary-in-overlay-mode/88923#post_4)
+- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_8)
+- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_1)
 - [Source-to-source code transformation tools built on LLVM LibTooling](https://discourse.llvm.org/t/source-to-source-code-transformation-tools-built-on-llvm-libtooling/88877#post_3)
 - [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_13)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_7)
-- [[Job Posting] LLVM Compiler Engineer @ Cerebras](https://discourse.llvm.org/t/job-posting-llvm-compiler-engineer-cerebras/88905#post_2)
-- [[Showcase and Feedback] Clang-tidy check to avoid Eigen Pitfalls](https://discourse.llvm.org/t/showcase-and-feedback-clang-tidy-check-to-avoid-eigen-pitfalls/88889#post_7)
 <!-- DISCOURSE-LLVM:END -->
