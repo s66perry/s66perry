@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Aggressive bufferization?](https://discourse.llvm.org/t/aggressive-bufferization/88914#post_3)
+- [Is -fno-builtin necessary in overlay mode?](https://discourse.llvm.org/t/is-fno-builtin-necessary-in-overlay-mode/88923#post_3)
 - [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_5)
 - [PDX Area November 2025 social](https://discourse.llvm.org/t/pdx-area-november-2025-social/88737#post_3)
 - [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_5)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_4)
-- [Clarification on how to accept commit access requests](https://discourse.llvm.org/t/clarification-on-how-to-accept-commit-access-requests/88728#post_3)
 <!-- DISCOURSE-LLVM:END -->
