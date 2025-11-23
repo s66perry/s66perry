@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm 21.1.5 and spec cpu2017 config file](https://discourse.llvm.org/t/llvm-21-1-5-and-spec-cpu2017-config-file/88938#post_2)
 - [MemorySSA Walker not using TBAA info for MemoryPhi incoming edges [LLVM 15]](https://discourse.llvm.org/t/memoryssa-walker-not-using-tbaa-info-for-memoryphi-incoming-edges-llvm-15/88940#post_2)
 - [MemorySSA Walker not using TBAA info for MemoryPhi incoming edges [LLVM 15]](https://discourse.llvm.org/t/memoryssa-walker-not-using-tbaa-info-for-memoryphi-incoming-edges-llvm-15/88940#post_1)
 - [Llvm 21.1.5 and spec cpu2017 config file](https://discourse.llvm.org/t/llvm-21-1-5-and-spec-cpu2017-config-file/88938#post_1)
 - [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_6)
-- [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_5)
 <!-- DISCOURSE-LLVM:END -->
