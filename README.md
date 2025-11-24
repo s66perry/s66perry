@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Llvm-lit and tools:llvm-lit labels](https://discourse.llvm.org/t/llvm-lit-and-tools-llvm-lit-labels/88947#post_1)
+- [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_12)
+- [[TableGen] &quot;Unexpected token at top level: #endif&quot;](https://discourse.llvm.org/t/tablegen-unexpected-token-at-top-level-endif/88946#post_1)
 - [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_11)
 - [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_10)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=3#post_41)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_10)
-- [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_9)
 <!-- DISCOURSE-LLVM:END -->
