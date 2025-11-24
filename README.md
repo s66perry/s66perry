@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_6)
 - [Should constant folding of NaNs be disabled?](https://discourse.llvm.org/t/should-constant-folding-of-nans-be-disabled/88919#post_6)
 - [Should constant folding of NaNs be disabled?](https://discourse.llvm.org/t/should-constant-folding-of-nans-be-disabled/88919#post_5)
 - [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_15)
 - [[TableGen] &quot;Unexpected token at top level: #endif&quot;](https://discourse.llvm.org/t/tablegen-unexpected-token-at-top-level-endif/88946#post_4)
-- [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937#post_14)
 <!-- DISCOURSE-LLVM:END -->
