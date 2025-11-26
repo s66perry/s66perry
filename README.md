@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What are potential pitfalls of using a newer llvm version for building xcode projects?](https://discourse.llvm.org/t/what-are-potential-pitfalls-of-using-a-newer-llvm-version-for-building-xcode-projects/88960#post_3)
+- [Lldb functionality for debugging windows binaries when the path to pdb file is different from one embedded into the .exe file](https://discourse.llvm.org/t/lldb-functionality-for-debugging-windows-binaries-when-the-path-to-pdb-file-is-different-from-one-embedded-into-the-exe-file/88969#post_1)
+- [Aggressive bufferization?](https://discourse.llvm.org/t/aggressive-bufferization/88914#post_6)
 - [Aggressive bufferization?](https://discourse.llvm.org/t/aggressive-bufferization/88914#post_5)
 - [Seperate the value of const op in another file](https://discourse.llvm.org/t/seperate-the-value-of-const-op-in-another-file/3568#post_9)
-- [CIRCT: exported verilog from mlir can&#39;t be synthesized with yosys](https://discourse.llvm.org/t/circt-exported-verilog-from-mlir-cant-be-synthesized-with-yosys/88967#post_3)
-- [CIRCT: exported verilog from mlir can&#39;t be synthesized with yosys](https://discourse.llvm.org/t/circt-exported-verilog-from-mlir-cant-be-synthesized-with-yosys/88967#post_2)
-- [CIRCT: exported verilog from mlir can&#39;t be synthesized with yosys](https://discourse.llvm.org/t/circt-exported-verilog-from-mlir-cant-be-synthesized-with-yosys/88967#post_1)
 <!-- DISCOURSE-LLVM:END -->
