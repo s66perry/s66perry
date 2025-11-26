@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Project Council Meeting - November 19, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-november-19-2025/88848#post_7)
+- [LLVM Project Council Meeting - November 19, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-november-19-2025/88848#post_6)
+- [[RFC] Add a Python check command to lldb-dap and lldb](https://discourse.llvm.org/t/rfc-add-a-python-check-command-to-lldb-dap-and-lldb/88972#post_3)
 - [[RFC] Add a Python check command to lldb-dap and lldb](https://discourse.llvm.org/t/rfc-add-a-python-check-command-to-lldb-dap-and-lldb/88972#post_2)
 - [[RFC] Add a Python check command to lldb-dap and lldb](https://discourse.llvm.org/t/rfc-add-a-python-check-command-to-lldb-dap-and-lldb/88972#post_1)
-- [RFC Report modes for unsafe function reporting](https://discourse.llvm.org/t/rfc-report-modes-for-unsafe-function-reporting/88971#post_1)
-- [Cambridge LLVM &lpar;pub&rpar; social](https://discourse.llvm.org/t/cambridge-llvm-pub-social/88798#post_2)
-- [Seperate the value of const op in another file](https://discourse.llvm.org/t/seperate-the-value-of-const-op-in-another-file/3568#post_10)
 <!-- DISCOURSE-LLVM:END -->
