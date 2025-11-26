@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [What are the legality checks performed by the LoopVectorize module?](https://discourse.llvm.org/t/what-are-the-legality-checks-performed-by-the-loopvectorize-module/88977#post_1)
+- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_11)
+- [[MLIR] Complex Dialect DivOp folder](https://discourse.llvm.org/t/mlir-complex-dialect-divop-folder/88976#post_1)
+- [CIRCT: exported verilog from mlir can&#39;t be synthesized with yosys](https://discourse.llvm.org/t/circt-exported-verilog-from-mlir-cant-be-synthesized-with-yosys/88967#post_4)
 - [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_10)
-- [Uniformization of bounds checking](https://discourse.llvm.org/t/uniformization-of-bounds-checking/88975#post_1)
-- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_9)
-- [Extending llvm_jump_table_sizes](https://discourse.llvm.org/t/extending-llvm-jump-table-sizes/85131#post_8)
-- [[RFC] Allow non-constant offsets in @llvm.vector.splice](https://discourse.llvm.org/t/rfc-allow-non-constant-offsets-in-llvm-vector-splice/88974#post_1)
 <!-- DISCOURSE-LLVM:END -->
