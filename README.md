@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Command-line compatibility with gfortran](https://discourse.llvm.org/t/rfc-command-line-compatibility-with-gfortran/88961#post_2)
 - [Best way create multiple issue on gihub](https://discourse.llvm.org/t/best-way-create-multiple-issue-on-gihub/88980#post_4)
 - [Building ClangTool with C++ modules using CMake/Ninja](https://discourse.llvm.org/t/building-clangtool-with-c-modules-using-cmake-ninja/88984#post_1)
 - [[RFC] Optimizing Code Size of objc_direct by Exposing Function Symbols and Moving Nil Checks to Thunks](https://discourse.llvm.org/t/rfc-optimizing-code-size-of-objc-direct-by-exposing-function-symbols-and-moving-nil-checks-to-thunks/88866#post_8)
 - [Best way create multiple issue on gihub](https://discourse.llvm.org/t/best-way-create-multiple-issue-on-gihub/88980#post_3)
-- [Symbolic/named address spaces](https://discourse.llvm.org/t/symbolic-named-address-spaces/88909#post_11)
 <!-- DISCOURSE-LLVM:END -->
