@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_13)
 - [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_12)
 - [LLVM Project Council Meeting - November 19, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-november-19-2025/88848#post_8)
 - [[Clangd] Feature Request: Automatically generate .gitignore in the .cache directory](https://discourse.llvm.org/t/clangd-feature-request-automatically-generate-gitignore-in-the-cache-directory/87390#post_3)
 - [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_11)
-- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_17)
 <!-- DISCOURSE-LLVM:END -->
