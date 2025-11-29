@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Clangd] Feature Request: Automatically generate .gitignore in the .cache directory](https://discourse.llvm.org/t/clangd-feature-request-automatically-generate-gitignore-in-the-cache-directory/87390#post_3)
 - [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_11)
 - [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_17)
 - [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_16)
 - [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_1)
-- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_12)
 <!-- DISCOURSE-LLVM:END -->
