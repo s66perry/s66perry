@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] How to inform users why an executable stack is required](https://discourse.llvm.org/t/rfc-how-to-inform-users-why-an-executable-stack-is-required/89007#post_3)
-- [RFC Report modes for unsafe function reporting](https://discourse.llvm.org/t/rfc-report-modes-for-unsafe-function-reporting/88971#post_4)
-- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_2)
-- [RFC: Display true result for AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-display-true-result-for-aarch64-pre-commit-ci/88928#post_3)
-- [Vectorizing matrix transpose with runtime stride on AArch64 &lpar;VPlan / VPRecipe questions&rpar;](https://discourse.llvm.org/t/vectorizing-matrix-transpose-with-runtime-stride-on-aarch64-vplan-vprecipe-questions/89009#post_2)
+- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_19)
+- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335?page=2#post_22)
+- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_12)
+- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_11)
+- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_10)
 <!-- DISCOURSE-LLVM:END -->
