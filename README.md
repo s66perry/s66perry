@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is compiler allowed to argue about global operator new?](https://discourse.llvm.org/t/is-compiler-allowed-to-argue-about-global-operator-new/88981#post_2)
-- [[RFC] Allow non-constant offsets in @llvm.vector.splice](https://discourse.llvm.org/t/rfc-allow-non-constant-offsets-in-llvm-vector-splice/88974#post_3)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Dec 4](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-dec-4/89012#post_3)
-- [Symbolic/named address spaces](https://discourse.llvm.org/t/symbolic-named-address-spaces/88909#post_12)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Dec 4](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-dec-4/89012#post_2)
+- [RFC Report modes for unsafe function reporting](https://discourse.llvm.org/t/rfc-report-modes-for-unsafe-function-reporting/88971#post_4)
+- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_2)
+- [RFC: Display true result for AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-display-true-result-for-aarch64-pre-commit-ci/88928#post_3)
+- [Vectorizing matrix transpose with runtime stride on AArch64 &lpar;VPlan / VPRecipe questions&rpar;](https://discourse.llvm.org/t/vectorizing-matrix-transpose-with-runtime-stride-on-aarch64-vplan-vprecipe-questions/89009#post_2)
+- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_1)
 <!-- DISCOURSE-LLVM:END -->
