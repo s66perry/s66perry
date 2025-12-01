@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_4)
+- [How do I evaluate macros in Sema?](https://discourse.llvm.org/t/how-do-i-evaluate-macros-in-sema/89016#post_3)
+- [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_3)
+- [[RFC] Optimizing Code Size of objc_direct by Exposing Function Symbols and Moving Nil Checks to Thunks](https://discourse.llvm.org/t/rfc-optimizing-code-size-of-objc-direct-by-exposing-function-symbols-and-moving-nil-checks-to-thunks/88866#post_10)
 - [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_7)
-- [Optimizing object access in C](https://discourse.llvm.org/t/optimizing-object-access-in-c/88991#post_3)
-- [Uniformization of bounds checking](https://discourse.llvm.org/t/uniformization-of-bounds-checking/88975#post_8)
-- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_6)
-- [How do I evaluate macros in Sema?](https://discourse.llvm.org/t/how-do-i-evaluate-macros-in-sema/89016#post_2)
 <!-- DISCOURSE-LLVM:END -->
