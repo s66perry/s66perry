@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #622, December 1st 2025](https://discourse.llvm.org/t/llvm-weekly-622-december-1st-2025/89019#post_1)
-- [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_2)
-- [Symbolic/named address spaces](https://discourse.llvm.org/t/symbolic-named-address-spaces/88909#post_13)
-- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_20)
-- [RFC: Drop support running LLVM on Windows Vista/7/8](https://discourse.llvm.org/t/rfc-drop-support-running-llvm-on-windows-vista-7-8/80619?page=2#post_25)
+- [How to properly forward an explicit constructor?](https://discourse.llvm.org/t/how-to-properly-forward-an-explicit-constructor/89020#post_2)
+- [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_4)
+- [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_3)
+- [[Question] Lowering memref&lt;?xi8&gt; to EmitC difficulty](https://discourse.llvm.org/t/question-lowering-memref-xi8-to-emitc-difficulty/89021#post_1)
+- [How to properly forward an explicit constructor?](https://discourse.llvm.org/t/how-to-properly-forward-an-explicit-constructor/89020#post_1)
 <!-- DISCOURSE-LLVM:END -->
