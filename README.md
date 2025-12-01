@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936#post_19)
-- [[RFC] Add command line option for selecting C library](https://discourse.llvm.org/t/rfc-add-command-line-option-for-selecting-c-library/87335?page=2#post_22)
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_12)
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_11)
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_10)
+- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_7)
+- [Optimizing object access in C](https://discourse.llvm.org/t/optimizing-object-access-in-c/88991#post_3)
+- [Uniformization of bounds checking](https://discourse.llvm.org/t/uniformization-of-bounds-checking/88975#post_8)
+- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_6)
+- [How do I evaluate macros in Sema?](https://discourse.llvm.org/t/how-do-i-evaluate-macros-in-sema/89016#post_2)
 <!-- DISCOURSE-LLVM:END -->
