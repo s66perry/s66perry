@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Does LLDB/QEMU support dumping x64 control registers, such as CR3?](https://discourse.llvm.org/t/does-lldb-qemu-support-dumping-x64-control-registers-such-as-cr3/89031#post_2)
+- [[RFC][libc] wctype header implementation](https://discourse.llvm.org/t/rfc-libc-wctype-header-implementation/88941#post_9)
+- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_14)
+- [Does LLDB/QEMU support dumping x64 control registers, such as CR3?](https://discourse.llvm.org/t/does-lldb-qemu-support-dumping-x64-control-registers-such-as-cr3/89031#post_1)
 - [Float optimizations in compile time in different OSs](https://discourse.llvm.org/t/float-optimizations-in-compile-time-in-different-oss/89030#post_1)
-- [LLVM 21.1.7 Released!](https://discourse.llvm.org/t/llvm-21-1-7-released/89029#post_1)
-- [MLIR attribute parsing always assumes integer tokens to be negative](https://discourse.llvm.org/t/mlir-attribute-parsing-always-assumes-integer-tokens-to-be-negative/89027#post_2)
-- [Lldb-server incompatible with gdb: unknown architecture and register format issues](https://discourse.llvm.org/t/lldb-server-incompatible-with-gdb-unknown-architecture-and-register-format-issues/88993#post_4)
-- [Optimizing object access in C](https://discourse.llvm.org/t/optimizing-object-access-in-c/88991#post_6)
 <!-- DISCOURSE-LLVM:END -->
