@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] DWARF CFI validation](https://discourse.llvm.org/t/rfc-dwarf-cfi-validation/86936#post_11)
+- [[RFC] Drop support for LLDB on Windows Vista/7/8 and early versions of 10](https://discourse.llvm.org/t/rfc-drop-support-for-lldb-on-windows-vista-7-8-and-early-versions-of-10/89037#post_6)
+- [[RFC] Enabling BOLT to optimize BTI binaries](https://discourse.llvm.org/t/rfc-enabling-bolt-to-optimize-bti-binaries/88549#post_3)
 - [[RFC] Drop support for LLDB on Windows Vista/7/8 and early versions of 10](https://discourse.llvm.org/t/rfc-drop-support-for-lldb-on-windows-vista-7-8-and-early-versions-of-10/89037#post_5)
 - [[RFC] IR Visualization with VS Code Extension Using an LSP Server](https://discourse.llvm.org/t/rfc-ir-visualization-with-vs-code-extension-using-an-lsp-server/87773#post_15)
-- [Float optimizations in compile time in different OSs](https://discourse.llvm.org/t/float-optimizations-in-compile-time-in-different-oss/89030#post_6)
-- [[RFC] Drop support for LLDB on Windows Vista/7/8 and early versions of 10](https://discourse.llvm.org/t/rfc-drop-support-for-lldb-on-windows-vista-7-8-and-early-versions-of-10/89037#post_4)
-- [[RFC] Drop support for LLDB on Windows Vista/7/8 and early versions of 10](https://discourse.llvm.org/t/rfc-drop-support-for-lldb-on-windows-vista-7-8-and-early-versions-of-10/89037#post_3)
 <!-- DISCOURSE-LLVM:END -->
