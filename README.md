@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006#post_10)
+- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936?page=2#post_22)
+- [Questions about best approach for upstreaming CUDA i128 support](https://discourse.llvm.org/t/questions-about-best-approach-for-upstreaming-cuda-i128-support/85807#post_12)
+- [Tools for LLVM binary to IR](https://discourse.llvm.org/t/tools-for-llvm-binary-to-ir/89036#post_1)
 - [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936?page=2#post_21)
-- [Questions about best approach for upstreaming CUDA i128 support](https://discourse.llvm.org/t/questions-about-best-approach-for-upstreaming-cuda-i128-support/85807#post_11)
-- [Does LLDB/QEMU support dumping x64 control registers, such as CR3?](https://discourse.llvm.org/t/does-lldb-qemu-support-dumping-x64-control-registers-such-as-cr3/89031#post_3)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Dec 4](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-dec-4/89012#post_4)
-- [[RFC] How to inform users why an executable stack is required](https://discourse.llvm.org/t/rfc-how-to-inform-users-why-an-executable-stack-is-required/89007#post_6)
 <!-- DISCOURSE-LLVM:END -->
