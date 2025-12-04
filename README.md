@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Resource in MemoryEffects](https://discourse.llvm.org/t/resource-in-memoryeffects/89048#post_1)
 - [Can multiple constant folds be run in parallel?](https://discourse.llvm.org/t/can-multiple-constant-folds-be-run-in-parallel/89046#post_5)
 - [Optimizing Load-multiple and Store-multiple on LLVM](https://discourse.llvm.org/t/optimizing-load-multiple-and-store-multiple-on-llvm/89047#post_1)
 - [Can multiple constant folds be run in parallel?](https://discourse.llvm.org/t/can-multiple-constant-folds-be-run-in-parallel/89046#post_4)
 - [Can multiple constant folds be run in parallel?](https://discourse.llvm.org/t/can-multiple-constant-folds-be-run-in-parallel/89046#post_3)
-- [Symbolic/named address spaces](https://discourse.llvm.org/t/symbolic-named-address-spaces/88909#post_14)
 <!-- DISCOURSE-LLVM:END -->
