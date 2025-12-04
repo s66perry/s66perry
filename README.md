@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Can multiple constant folds be run in parallel?](https://discourse.llvm.org/t/can-multiple-constant-folds-be-run-in-parallel/89046#post_6)
-- [[RFC] use getChecked instead of get for Attributes/Types in Python bindings](https://discourse.llvm.org/t/rfc-use-getchecked-instead-of-get-for-attributes-types-in-python-bindings/89049#post_3)
-- [[RFC] Add a Python check command to lldb-dap and lldb](https://discourse.llvm.org/t/rfc-add-a-python-check-command-to-lldb-dap-and-lldb/88972#post_14)
-- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_2)
-- [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_4)
+- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_3)
+- [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937?page=2#post_22)
+- [Can multiple constant folds be run in parallel?](https://discourse.llvm.org/t/can-multiple-constant-folds-be-run-in-parallel/89046#post_10)
+- [Optimization remarks with incorrect debug info](https://discourse.llvm.org/t/optimization-remarks-with-incorrect-debug-info/89050#post_1)
+- [[RFC] Drop support for LLDB on Windows Vista/7/8 and early versions of 10](https://discourse.llvm.org/t/rfc-drop-support-for-lldb-on-windows-vista-7-8-and-early-versions-of-10/89037#post_10)
 <!-- DISCOURSE-LLVM:END -->
