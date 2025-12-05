@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_18)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006#post_20)
 - [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_2)
 - [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_1)
 - [2026 EuroLLVM Developers&#39; Meeting - Call for Proposals](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-call-for-proposals/89059#post_1)
-- [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_10)
-- [Tools for LLVM binary to IR](https://discourse.llvm.org/t/tools-for-llvm-binary-to-ir/89036#post_8)
 <!-- DISCOURSE-LLVM:END -->
