@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_2)
+- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_1)
+- [2026 EuroLLVM Developers&#39; Meeting - Call for Proposals](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-call-for-proposals/89059#post_1)
 - [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_10)
 - [Tools for LLVM binary to IR](https://discourse.llvm.org/t/tools-for-llvm-binary-to-ir/89036#post_8)
-- [[RFC][libc] wctype header implementation](https://discourse.llvm.org/t/rfc-libc-wctype-header-implementation/88941#post_12)
-- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_6)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_81)
 <!-- DISCOURSE-LLVM:END -->
