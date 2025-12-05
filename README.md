@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_5)
-- [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_4)
-- [[RFC] use getChecked instead of get for Attributes/Types in Python bindings](https://discourse.llvm.org/t/rfc-use-getchecked-instead-of-get-for-attributes-types-in-python-bindings/89049#post_9)
-- [RFC: Display true result for AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-display-true-result-for-aarch64-pre-commit-ci/88928#post_4)
-- [`llvm-dsymutil` performance](https://discourse.llvm.org/t/llvm-dsymutil-performance/89051#post_2)
+- [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_8)
+- [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_7)
+- [Tools for LLVM binary to IR](https://discourse.llvm.org/t/tools-for-llvm-binary-to-ir/89036#post_5)
+- [Tools for LLVM binary to IR](https://discourse.llvm.org/t/tools-for-llvm-binary-to-ir/89036#post_4)
+- [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_6)
 <!-- DISCOURSE-LLVM:END -->
