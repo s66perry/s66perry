@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Jumping into statement expression raises error in clang 17 and later](https://discourse.llvm.org/t/jumping-into-statement-expression-raises-error-in-clang-17-and-later/89068#post_4)
+- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_6)
+- [Misleading indentation on if statements with clang-format AlignAfterOpenBracket](https://discourse.llvm.org/t/misleading-indentation-on-if-statements-with-clang-format-alignafteropenbracket/89069#post_3)
+- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_5)
 - [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_8)
-- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_7)
-- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_6)
-- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_11)
-- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_10)
 <!-- DISCOURSE-LLVM:END -->
