@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Changes to builtin modules](https://discourse.llvm.org/t/changes-to-builtin-modules/89072#post_1)
+- [[RFC] Plan to Improve LoopInterchange by Undoing Simple Reductions](https://discourse.llvm.org/t/rfc-plan-to-improve-loopinterchange-by-undoing-simple-reductions/89071#post_1)
+- [Jumping into statement expression raises error in clang 17 and later](https://discourse.llvm.org/t/jumping-into-statement-expression-raises-error-in-clang-17-and-later/89068#post_3)
+- [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_9)
 - [Jumping into statement expression raises error in clang 17 and later](https://discourse.llvm.org/t/jumping-into-statement-expression-raises-error-in-clang-17-and-later/89068#post_2)
-- [Misleading indentation on if statements with clang-format AlignAfterOpenBracket](https://discourse.llvm.org/t/misleading-indentation-on-if-statements-with-clang-format-alignafteropenbracket/89069#post_1)
-- [Llvm-cov not showing several headers](https://discourse.llvm.org/t/llvm-cov-not-showing-several-headers/89064#post_2)
-- [Jumping into statement expression raises error in clang 17 and later](https://discourse.llvm.org/t/jumping-into-statement-expression-raises-error-in-clang-17-and-later/89068#post_1)
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
