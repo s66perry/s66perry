@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_8)
+- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_7)
+- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_6)
 - [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_11)
 - [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_10)
-- [Status of lnt.llvm.org](https://discourse.llvm.org/t/status-of-lnt-llvm-org/88480#post_2)
-- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_9)
-- [2026 EuroLLVM Developers&#39; Meeting - Student Travel Grant Applications Open](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-student-travel-grant-applications-open/89079#post_1)
 <!-- DISCOURSE-LLVM:END -->
