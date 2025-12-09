@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_3)
+- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_3)
 - [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_2)
 - [Using variadic `isa&lt;&gt;` in LLVM code](https://discourse.llvm.org/t/using-variadic-isa-in-llvm-code/89081#post_7)
 - [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_2)
-- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_1)
-- [Announcing the Lifetime Safety Breakout Group](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333#post_10)
 <!-- DISCOURSE-LLVM:END -->
