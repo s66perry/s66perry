@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR plugin for ZSH](https://discourse.llvm.org/t/mlir-plugin-for-zsh/89074#post_2)
-- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_1)
-- [Using variadic `isa&lt;&gt;` in LLVM code](https://discourse.llvm.org/t/using-variadic-isa-in-llvm-code/89081#post_2)
-- [[RFC] Extend ExtVectorElementExpr for HLSL Matrix Accessors](https://discourse.llvm.org/t/rfc-extend-extvectorelementexpr-for-hlsl-matrix-accessors/88802#post_5)
-- [Using variadic `isa&lt;&gt;` in LLVM code](https://discourse.llvm.org/t/using-variadic-isa-in-llvm-code/89081#post_1)
+- [Using variadic `isa&lt;&gt;` in LLVM code](https://discourse.llvm.org/t/using-variadic-isa-in-llvm-code/89081#post_3)
+- [Jumping into statement expression raises error in clang 17 and later](https://discourse.llvm.org/t/jumping-into-statement-expression-raises-error-in-clang-17-and-later/89068#post_7)
+- [Jumping into statement expression raises error in clang 17 and later](https://discourse.llvm.org/t/jumping-into-statement-expression-raises-error-in-clang-17-and-later/89068#post_6)
+- [[RFC] Plan to Improve LoopInterchange by Undoing Simple Reductions](https://discourse.llvm.org/t/rfc-plan-to-improve-loopinterchange-by-undoing-simple-reductions/89071#post_6)
+- [Clang-cl.exe support for C++ modules](https://discourse.llvm.org/t/clang-cl-exe-support-for-c-modules/72257?page=4#post_76)
 <!-- DISCOURSE-LLVM:END -->
