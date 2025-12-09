@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_7)
-- [[RFC] Plan to Improve LoopInterchange by Undoing Simple Reductions](https://discourse.llvm.org/t/rfc-plan-to-improve-loopinterchange-by-undoing-simple-reductions/89071#post_7)
-- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_5)
-- [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_10)
-- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_4)
+- [Memref assumptions about underlying memory](https://discourse.llvm.org/t/memref-assumptions-about-underlying-memory/89065#post_3)
+- [Dynamic Jump table](https://discourse.llvm.org/t/dynamic-jump-table/89066#post_2)
+- [MLIR plugin for ZSH](https://discourse.llvm.org/t/mlir-plugin-for-zsh/89074#post_3)
+- [LLVM Project Council Meeting - December 10, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-december-10-2025/89089#post_1)
+- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_4)
 <!-- DISCOURSE-LLVM:END -->
