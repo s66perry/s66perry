@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_13)
+- [[RFC] Optimizing Code Size of objc_direct by Exposing Function Symbols and Moving Nil Checks to Thunks](https://discourse.llvm.org/t/rfc-optimizing-code-size-of-objc-direct-by-exposing-function-symbols-and-moving-nil-checks-to-thunks/88866#post_11)
+- [[RFC] Plan to Improve LoopInterchange by Undoing Simple Reductions](https://discourse.llvm.org/t/rfc-plan-to-improve-loopinterchange-by-undoing-simple-reductions/89071#post_9)
 - [[RFC] Plan to Improve LoopInterchange by Undoing Simple Reductions](https://discourse.llvm.org/t/rfc-plan-to-improve-loopinterchange-by-undoing-simple-reductions/89071#post_8)
 - [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_10)
-- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_5)
-- [Uniformization of bounds checking](https://discourse.llvm.org/t/uniformization-of-bounds-checking/88975#post_16)
-- [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_11)
 <!-- DISCOURSE-LLVM:END -->
