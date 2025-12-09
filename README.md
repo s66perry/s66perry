@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_3)
-- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_3)
-- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_2)
-- [Using variadic `isa&lt;&gt;` in LLVM code](https://discourse.llvm.org/t/using-variadic-isa-in-llvm-code/89081#post_7)
-- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_2)
+- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_7)
+- [[RFC] Plan to Improve LoopInterchange by Undoing Simple Reductions](https://discourse.llvm.org/t/rfc-plan-to-improve-loopinterchange-by-undoing-simple-reductions/89071#post_7)
+- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_5)
+- [[RFC] Deprecate C API functions using the global context](https://discourse.llvm.org/t/rfc-deprecate-c-api-functions-using-the-global-context/88639#post_10)
+- [Failed compile of rfc-handle-execution-results-in-clang-repl](https://discourse.llvm.org/t/failed-compile-of-rfc-handle-execution-results-in-clang-repl/89082#post_4)
 <!-- DISCOURSE-LLVM:END -->
