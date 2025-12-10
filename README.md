@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Memref assumptions about underlying memory](https://discourse.llvm.org/t/memref-assumptions-about-underlying-memory/89065#post_6)
+- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_11)
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_146)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_145)
 - [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_14)
-- [Building Flang with offload support](https://discourse.llvm.org/t/building-flang-with-offload-support/89100#post_1)
-- [Can we add getInputs and getOutputs methods for all linalg operations?](https://discourse.llvm.org/t/can-we-add-getinputs-and-getoutputs-methods-for-all-linalg-operations/89099#post_1)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_144)
 <!-- DISCOURSE-LLVM:END -->
