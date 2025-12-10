@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_6)
+- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_5)
 - [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_16)
 - [Do we have a generic method to obtain the ins and outs of linalg op?](https://discourse.llvm.org/t/do-we-have-a-generic-method-to-obtain-the-ins-and-outs-of-linalg-op/89099#post_3)
 - [Do we have a generic method to obtain the ins and outs of linalg op?](https://discourse.llvm.org/t/do-we-have-a-generic-method-to-obtain-the-ins-and-outs-of-linalg-op/89099#post_2)
-- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_15)
-- [Dynamic Jump table](https://discourse.llvm.org/t/dynamic-jump-table/89066#post_9)
 <!-- DISCOURSE-LLVM:END -->
