@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_145)
+- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_14)
+- [Building Flang with offload support](https://discourse.llvm.org/t/building-flang-with-offload-support/89100#post_1)
 - [Can we add getInputs and getOutputs methods for all linalg operations?](https://discourse.llvm.org/t/can-we-add-getinputs-and-getoutputs-methods-for-all-linalg-operations/89099#post_1)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_144)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_143)
-- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_4)
-- [Dynamic Jump table](https://discourse.llvm.org/t/dynamic-jump-table/89066#post_7)
 <!-- DISCOURSE-LLVM:END -->
