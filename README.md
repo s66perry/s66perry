@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Inserting pointers to SmallPtrSet somehow inserts already presented pointers](https://discourse.llvm.org/t/inserting-pointers-to-smallptrset-somehow-inserts-already-presented-pointers/89102#post_2)
-- [Dedicated meeting for C++26 reflection](https://discourse.llvm.org/t/dedicated-meeting-for-c-26-reflection/88927#post_8)
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=2#post_33)
-- [Inserting pointers to SmallPtrSet somehow inserts already presented pointers](https://discourse.llvm.org/t/inserting-pointers-to-smallptrset-somehow-inserts-already-presented-pointers/89102#post_1)
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=2#post_32)
+- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_16)
+- [Do we have a generic method to obtain the ins and outs of linalg op?](https://discourse.llvm.org/t/do-we-have-a-generic-method-to-obtain-the-ins-and-outs-of-linalg-op/89099#post_3)
+- [Do we have a generic method to obtain the ins and outs of linalg op?](https://discourse.llvm.org/t/do-we-have-a-generic-method-to-obtain-the-ins-and-outs-of-linalg-op/89099#post_2)
+- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_15)
+- [Dynamic Jump table](https://discourse.llvm.org/t/dynamic-jump-table/89066#post_9)
 <!-- DISCOURSE-LLVM:END -->
