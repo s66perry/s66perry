@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_2)
+- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_1)
+- [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_5)
+- [Llvm-cov not showing several headers](https://discourse.llvm.org/t/llvm-cov-not-showing-several-headers/89064#post_3)
 - [[RFC] Adding &quot;requires&quot; statement in __split_buffer.h for compatibility with swift compiler](https://discourse.llvm.org/t/rfc-adding-requires-statement-in-split-buffer-h-for-compatibility-with-swift-compiler/89092#post_2)
-- [Dynamic Jump table](https://discourse.llvm.org/t/dynamic-jump-table/89066#post_6)
-- [Memref assumptions about underlying memory](https://discourse.llvm.org/t/memref-assumptions-about-underlying-memory/89065#post_5)
-- [Operational Maturity Round Table Notes](https://discourse.llvm.org/t/operational-maturity-round-table-notes/88898#post_15)
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
