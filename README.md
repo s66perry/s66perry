@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_6)
-- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_5)
-- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_16)
-- [Do we have a generic method to obtain the ins and outs of linalg op?](https://discourse.llvm.org/t/do-we-have-a-generic-method-to-obtain-the-ins-and-outs-of-linalg-op/89099#post_3)
-- [Do we have a generic method to obtain the ins and outs of linalg op?](https://discourse.llvm.org/t/do-we-have-a-generic-method-to-obtain-the-ins-and-outs-of-linalg-op/89099#post_2)
+- [Dynamic Jump table](https://discourse.llvm.org/t/dynamic-jump-table/89066#post_12)
+- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_7)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=2#post_34)
+- [Dynamic Jump table](https://discourse.llvm.org/t/dynamic-jump-table/89066#post_11)
+- [[RFC] Running hermetic tests on baremetal Arm](https://discourse.llvm.org/t/rfc-running-hermetic-tests-on-baremetal-arm/89058#post_2)
 <!-- DISCOURSE-LLVM:END -->
