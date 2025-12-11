@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extending llvm_jump_table_sizes](https://discourse.llvm.org/t/extending-llvm-jump-table-sizes/85131#post_9)
+- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_3)
+- [How do I downcast an operation to a templated trait?](https://discourse.llvm.org/t/how-do-i-downcast-an-operation-to-a-templated-trait/89104#post_1)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_149)
 - [MLIR &lpar;+Python bindings&rpar; entirely in the browser](https://discourse.llvm.org/t/mlir-python-bindings-entirely-in-the-browser/87013#post_2)
-- [[Affine] Is it reasonable to extend Affine to support non-index arithmetic?](https://discourse.llvm.org/t/affine-is-it-reasonable-to-extend-affine-to-support-non-index-arithmetic/89095#post_9)
-- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_17)
-- [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_8)
 <!-- DISCOURSE-LLVM:END -->
