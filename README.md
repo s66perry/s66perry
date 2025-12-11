@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=3#post_46)
-- [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_11)
-- [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_10)
-- [My intro to this community as a contributor](https://discourse.llvm.org/t/my-intro-to-this-community-as-a-contributor/89109#post_1)
-- [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_9)
+- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791?page=2#post_21)
+- [[RFC] Do we require vector.expandload + vector.compressstore?](https://discourse.llvm.org/t/rfc-do-we-require-vector-expandload-vector-compressstore/89105#post_4)
+- [Mailing lists not sending email?](https://discourse.llvm.org/t/mailing-lists-not-sending-email/88278#post_7)
+- [[RFC] File system sandboxing in Clang/LLVM](https://discourse.llvm.org/t/rfc-file-system-sandboxing-in-clang-llvm/88791#post_20)
+- [[RFC] Do we require vector.expandload + vector.compressstore?](https://discourse.llvm.org/t/rfc-do-we-require-vector-expandload-vector-compressstore/89105#post_3)
 <!-- DISCOURSE-LLVM:END -->
