@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_16)
 - [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=4#post_62)
 - [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_15)
 - [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=3#post_61)
 - [[RFC] Do we require vector.expandload + vector.compressstore?](https://discourse.llvm.org/t/rfc-do-we-require-vector-expandload-vector-compressstore/89105#post_5)
-- [LLVM Project Council Meeting - December 10, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-december-10-2025/89089#post_2)
 <!-- DISCOURSE-LLVM:END -->
