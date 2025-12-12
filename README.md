@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Project Council Meeting - December 10, 2025](https://discourse.llvm.org/t/llvm-project-council-meeting-december-10-2025/89089#post_2)
 - [How to join `issue-subscribers-clang-tidy` and `pr-subscribers-clang-tidy` on GitHub](https://discourse.llvm.org/t/how-to-join-issue-subscribers-clang-tidy-and-pr-subscribers-clang-tidy-on-github/89113#post_3)
 - [How to join `issue-subscribers-clang-tidy` and `pr-subscribers-clang-tidy` on GitHub](https://discourse.llvm.org/t/how-to-join-issue-subscribers-clang-tidy-and-pr-subscribers-clang-tidy-on-github/89113#post_2)
 - [How to join `issue-subscribers-clang-tidy` and `pr-subscribers-clang-tidy` on GitHub](https://discourse.llvm.org/t/how-to-join-issue-subscribers-clang-tidy-and-pr-subscribers-clang-tidy-on-github/89113#post_1)
 - [MLIR &lpar;+Python bindings&rpar; entirely in the browser](https://discourse.llvm.org/t/mlir-python-bindings-entirely-in-the-browser/87013#post_4)
-- [MLIR &lpar;+Python bindings&rpar; entirely in the browser](https://discourse.llvm.org/t/mlir-python-bindings-entirely-in-the-browser/87013#post_3)
 <!-- DISCOURSE-LLVM:END -->
