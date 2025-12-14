@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Use after std::move](https://discourse.llvm.org/t/use-after-std-move/89126#post_1)
+- [Use after std::move, and a function that acts as a move](https://discourse.llvm.org/t/use-after-std-move-and-a-function-that-acts-as-a-move/89126#post_1)
 - [Std:hive: new information for implementors](https://discourse.llvm.org/t/std-new-information-for-implementors/89125#post_1)
 - [Sema to check array element count](https://discourse.llvm.org/t/sema-to-check-array-element-count/89122#post_1)
 - [[RFC] Which fast-math flag&lpar;s&rpar; mandate 1 / sqrt&lpar;x&rpar; -&gt; rsqrt&lpar;x&rpar; rewrite?](https://discourse.llvm.org/t/rfc-which-fast-math-flag-s-mandate-1-sqrt-x-rsqrt-x-rewrite/89121#post_1)
