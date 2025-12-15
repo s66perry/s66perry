@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ScalarEvolution/LSR introduces trunc to unsupported iN, losing masking semantics after legalization](https://discourse.llvm.org/t/scalarevolution-lsr-introduces-trunc-to-unsupported-in-losing-masking-semantics-after-legalization/89131#post_2)
-- [License and Attribution of the LLVM Logo?](https://discourse.llvm.org/t/license-and-attribution-of-the-llvm-logo/88464#post_14)
-- [ScalarEvolution/LSR introduces trunc to unsupported iN, losing masking semantics after legalization](https://discourse.llvm.org/t/scalarevolution-lsr-introduces-trunc-to-unsupported-in-losing-masking-semantics-after-legalization/89131#post_1)
-- [[RFC] Do we require vector.expandload + vector.compressstore?](https://discourse.llvm.org/t/rfc-do-we-require-vector-expandload-vector-compressstore/89105#post_8)
-- [Test for sys::getHostCPUFeatures&lpar;&rpar;](https://discourse.llvm.org/t/test-for-sys-gethostcpufeatures/89130#post_3)
+- [ScalarEvolution/LSR introduces trunc to unsupported iN, losing masking semantics after legalization](https://discourse.llvm.org/t/scalarevolution-lsr-introduces-trunc-to-unsupported-in-losing-masking-semantics-after-legalization/89131#post_6)
+- [Fast register allocation - ran out of registers](https://discourse.llvm.org/t/fast-register-allocation-ran-out-of-registers/88915#post_11)
+- [ScalarEvolution/LSR introduces trunc to unsupported iN, losing masking semantics after legalization](https://discourse.llvm.org/t/scalarevolution-lsr-introduces-trunc-to-unsupported-in-losing-masking-semantics-after-legalization/89131#post_5)
+- [ScalarEvolution/LSR introduces trunc to unsupported iN, losing masking semantics after legalization](https://discourse.llvm.org/t/scalarevolution-lsr-introduces-trunc-to-unsupported-in-losing-masking-semantics-after-legalization/89131#post_4)
+- [InstCombine removes &#39;icmp ... null&#39; when the callbase does not have nonnull attribute](https://discourse.llvm.org/t/instcombine-removes-icmp-null-when-the-callbase-does-not-have-nonnull-attribute/89090#post_3)
 <!-- DISCOURSE-LLVM:END -->
