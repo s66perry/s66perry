@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Test for sys::getHostCPUFeatures&lpar;&rpar;](https://discourse.llvm.org/t/test-for-sys-gethostcpufeatures/89130#post_3)
+- [Test for sys::getHostCPUFeatures&lpar;&rpar;](https://discourse.llvm.org/t/test-for-sys-gethostcpufeatures/89130#post_2)
 - [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_11)
 - [Use after std::move, and a function that acts as a move](https://discourse.llvm.org/t/use-after-std-move-and-a-function-that-acts-as-a-move/89126#post_3)
 - [Std:hive: new information for implementors](https://discourse.llvm.org/t/std-new-information-for-implementors/89125#post_3)
-- [Test for sys::getHostCPUFeatures&lpar;&rpar;](https://discourse.llvm.org/t/test-for-sys-gethostcpufeatures/89130#post_1)
-- [[RFC][LLDB] Make PdbAstBuilder language-agnostic](https://discourse.llvm.org/t/rfc-lldb-make-pdbastbuilder-language-agnostic/89117#post_9)
 <!-- DISCOURSE-LLVM:END -->
