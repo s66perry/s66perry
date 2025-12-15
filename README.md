@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Test for sys::getHostCPUFeatures&lpar;&rpar;](https://discourse.llvm.org/t/test-for-sys-gethostcpufeatures/89130#post_9)
-- [Does MemAlloc effect allow reordering?](https://discourse.llvm.org/t/does-memalloc-effect-allow-reordering/89136#post_2)
-- [[RFC] [DebugInfo][NVPTX] Adding support for inlined_at debug directive in NVPTX backend](https://discourse.llvm.org/t/rfc-debuginfo-nvptx-adding-support-for-inlined-at-debug-directive-in-nvptx-backend/89025#post_3)
-- [[RFC] Support -fstrict-aliasing and -fno-strict-aliasing](https://discourse.llvm.org/t/rfc-support-fstrict-aliasing-and-fno-strict-aliasing/89135#post_3)
-- [Test for sys::getHostCPUFeatures&lpar;&rpar;](https://discourse.llvm.org/t/test-for-sys-gethostcpufeatures/89130#post_8)
+- [Does MemAlloc effect allow reordering?](https://discourse.llvm.org/t/does-memalloc-effect-allow-reordering/89136#post_4)
+- [Does MemAlloc effect allow reordering?](https://discourse.llvm.org/t/does-memalloc-effect-allow-reordering/89136#post_3)
+- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_19)
+- [LLVM Weekly - #624, December 15th 2025](https://discourse.llvm.org/t/llvm-weekly-624-december-15th-2025/89137#post_3)
+- [LLVM Weekly - #624, December 15th 2025](https://discourse.llvm.org/t/llvm-weekly-624-december-15th-2025/89137#post_2)
 <!-- DISCOURSE-LLVM:END -->
