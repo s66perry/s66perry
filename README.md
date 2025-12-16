@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_150)
 - [Std:hive: new information for implementors](https://discourse.llvm.org/t/std-new-information-for-implementors/89125#post_4)
 - [Future of the MLIR workshop at dev meetings](https://discourse.llvm.org/t/future-of-the-mlir-workshop-at-dev-meetings/89139#post_2)
 - [ScalarEvolution/LSR introduces trunc to unsupported iN, losing masking semantics after legalization](https://discourse.llvm.org/t/scalarevolution-lsr-introduces-trunc-to-unsupported-in-losing-masking-semantics-after-legalization/89131#post_8)
 - [[RFC] Support -fstrict-aliasing and -fno-strict-aliasing](https://discourse.llvm.org/t/rfc-support-fstrict-aliasing-and-fno-strict-aliasing/89135#post_4)
-- [Future of the MLIR workshop at dev meetings](https://discourse.llvm.org/t/future-of-the-mlir-workshop-at-dev-meetings/89139#post_1)
 <!-- DISCOURSE-LLVM:END -->
