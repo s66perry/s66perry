@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_8)
+- [LLVM 21.1.8 Released!](https://discourse.llvm.org/t/llvm-21-1-8-released/89144#post_1)
+- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_3)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_151)
 - [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_2)
-- [RFC: AArch64 pre-commit CI](https://discourse.llvm.org/t/rfc-aarch64-pre-commit-ci/88169?page=2#post_26)
-- [Tiling mechanism in scf dialect](https://discourse.llvm.org/t/tiling-mechanism-in-scf-dialect/89143#post_1)
-- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_1)
 <!-- DISCOURSE-LLVM:END -->
