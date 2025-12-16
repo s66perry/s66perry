@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support -fstrict-aliasing and -fno-strict-aliasing](https://discourse.llvm.org/t/rfc-support-fstrict-aliasing-and-fno-strict-aliasing/89135#post_4)
 - [Future of the MLIR workshop at dev meetings](https://discourse.llvm.org/t/future-of-the-mlir-workshop-at-dev-meetings/89139#post_1)
 - [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_19)
 - [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612#post_18)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon Dec 15 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-dec-15-25-6pm/88930#post_4)
-- [Does MemAlloc effect allow reordering?](https://discourse.llvm.org/t/does-memalloc-effect-allow-reordering/89136#post_4)
 <!-- DISCOURSE-LLVM:END -->
