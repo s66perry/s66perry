@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_61)
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=3#post_60)
-- [Future of the MLIR workshop at dev meetings](https://discourse.llvm.org/t/future-of-the-mlir-workshop-at-dev-meetings/89139#post_3)
-- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_20)
-- [Investigating the impact of line 0 source locations on SPGO](https://discourse.llvm.org/t/investigating-the-impact-of-line-0-source-locations-on-spgo/89091#post_8)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_65)
+- [Why are ordered reductions enabled by default on ARM and RISCV, but not on other targets?](https://discourse.llvm.org/t/why-are-ordered-reductions-enabled-by-default-on-arm-and-riscv-but-not-on-other-targets/89146#post_1)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_64)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_63)
+- [Threading Annotations for Function Parameters](https://discourse.llvm.org/t/threading-annotations-for-function-parameters/89145#post_1)
 <!-- DISCOURSE-LLVM:END -->
