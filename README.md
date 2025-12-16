@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_61)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=3#post_60)
+- [Future of the MLIR workshop at dev meetings](https://discourse.llvm.org/t/future-of-the-mlir-workshop-at-dev-meetings/89139#post_3)
+- [[RFC] A reference pass-plugin in LLVM](https://discourse.llvm.org/t/rfc-a-reference-pass-plugin-in-llvm/89073#post_20)
 - [Investigating the impact of line 0 source locations on SPGO](https://discourse.llvm.org/t/investigating-the-impact-of-line-0-source-locations-on-spgo/89091#post_8)
-- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_8)
-- [LLVM 21.1.8 Released!](https://discourse.llvm.org/t/llvm-21-1-8-released/89144#post_1)
-- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_3)
-- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_151)
 <!-- DISCOURSE-LLVM:END -->
