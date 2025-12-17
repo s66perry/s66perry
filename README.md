@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Garbage collector examples wanted](https://discourse.llvm.org/t/garbage-collector-examples-wanted/88852#post_6)
+- [Garbage collector examples wanted](https://discourse.llvm.org/t/garbage-collector-examples-wanted/88852#post_5)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_66)
 - [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_153)
 - [Does LLDB/QEMU support dumping x64 control registers, such as CR3?](https://discourse.llvm.org/t/does-lldb-qemu-support-dumping-x64-control-registers-such-as-cr3/89031#post_8)
-- [Using `[[clang::lifetimebound]]` &lpar;and other clang-specific attributes&rpar; in llvm code](https://discourse.llvm.org/t/using-clang-lifetimebound-and-other-clang-specific-attributes-in-llvm-code/89147#post_2)
-- [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_16)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
