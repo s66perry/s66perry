@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_47)
+- [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_15)
 - [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_14)
 - [Garbage collector examples wanted](https://discourse.llvm.org/t/garbage-collector-examples-wanted/88852#post_4)
 - [[mlir] perfect forwarding in RewritePatternSet::add](https://discourse.llvm.org/t/mlir-perfect-forwarding-in-rewritepatternset-add/89152#post_1)
-- [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_13)
-- [The logic in isNothrow function](https://discourse.llvm.org/t/the-logic-in-isnothrow-function/89151#post_1)
 <!-- DISCOURSE-LLVM:END -->
