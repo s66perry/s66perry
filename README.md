@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_25)
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_69)
-- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_24)
-- [[RFC] Adding back end for the Connex vector accelerator as an experimental target](https://discourse.llvm.org/t/rfc-adding-back-end-for-the-connex-vector-accelerator-as-an-experimental-target/88910#post_2)
-- [Vector legalization question](https://discourse.llvm.org/t/vector-legalization-question/89157#post_1)
+- [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476?page=3#post_45)
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_1)
+- [RISC-V LLVM sync-up call December 18th 2025](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-december-18th-2025/89158#post_1)
+- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_26)
+- [[RFC] Support -fstrict-aliasing and -fno-strict-aliasing](https://discourse.llvm.org/t/rfc-support-fstrict-aliasing-and-fno-strict-aliasing/89135#post_5)
 <!-- DISCOURSE-LLVM:END -->
