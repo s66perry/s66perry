@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_10)
+- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_12)
 - [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_72)
 - [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_71)
 - [Publish lldb-dap on the open-vsx marketplace](https://discourse.llvm.org/t/publish-lldb-dap-on-the-open-vsx-marketplace/87097#post_5)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_56)
-- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=4#post_62)
 <!-- DISCOURSE-LLVM:END -->
