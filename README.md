@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_7)
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_6)
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_5)
 - [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_57)
 - [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_6)
-- [Handshake-to-hw lowering with buffers](https://discourse.llvm.org/t/handshake-to-hw-lowering-with-buffers/89167#post_1)
-- [Safe to pass ConversionPatternRewriter as RewriterBase?](https://discourse.llvm.org/t/safe-to-pass-conversionpatternrewriter-as-rewriterbase/89163#post_7)
-- [LoopVectorizer: epilogue vectorization &quot;with length&quot; &lpar;SystemZ&rpar;](https://discourse.llvm.org/t/loopvectorizer-epilogue-vectorization-with-length-systemz/89149#post_3)
 <!-- DISCOURSE-LLVM:END -->
