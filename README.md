@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_7)
-- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_6)
-- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_5)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=3#post_57)
-- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_6)
+- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_10)
+- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_9)
+- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_8)
+- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_7)
+- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
