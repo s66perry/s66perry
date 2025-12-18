@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=4#post_62)
+- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_9)
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_70)
+- [[RFC] Support -fstrict-aliasing and -fno-strict-aliasing](https://discourse.llvm.org/t/rfc-support-fstrict-aliasing-and-fno-strict-aliasing/89135#post_6)
 - [LLVM 21.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-21-x-release-third-party-binaries/87420#post_16)
-- [What&#39;s select of undef intended to resolve to?](https://discourse.llvm.org/t/whats-select-of-undef-intended-to-resolve-to/89160#post_2)
-- [What&#39;s select of undef intended to resolve to?](https://discourse.llvm.org/t/whats-select-of-undef-intended-to-resolve-to/89160#post_1)
-- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_3)
-- [State of SPR-based stacked reviews](https://discourse.llvm.org/t/state-of-spr-based-stacked-reviews/89033#post_2)
 <!-- DISCOURSE-LLVM:END -->
