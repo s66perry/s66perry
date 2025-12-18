@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_74)
 - [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_1)
 - [[mlir] perfect forwarding in RewritePatternSet::add](https://discourse.llvm.org/t/mlir-perfect-forwarding-in-rewritepatternset-add/89152#post_2)
 - [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=4#post_73)
 - [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_10)
-- [[RFC] Proposed update to handling debug locations in LLVM](https://discourse.llvm.org/t/rfc-proposed-update-to-handling-debug-locations-in-llvm/79244#post_12)
 <!-- DISCOURSE-LLVM:END -->
