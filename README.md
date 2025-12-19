@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [&lpar;New location&rpar; PDX Area December 2025 social](https://discourse.llvm.org/t/new-location-pdx-area-december-2025-social/89093#post_2)
+- [Null pointer cast for generic null and specific address space](https://discourse.llvm.org/t/null-pointer-cast-for-generic-null-and-specific-address-space/89164#post_3)
+- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_14)
 - [LoopVectorizer: epilogue vectorization &quot;with length&quot; &lpar;SystemZ&rpar;](https://discourse.llvm.org/t/loopvectorizer-epilogue-vectorization-with-length-systemz/89149#post_4)
 - [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_13)
-- [Detect enum-sized arrays using Python AST bindings](https://discourse.llvm.org/t/detect-enum-sized-arrays-using-python-ast-bindings/88181#post_3)
-- [Moving projects into the LLVM org on PyPI?](https://discourse.llvm.org/t/moving-projects-into-the-llvm-org-on-pypi/88868#post_9)
-- [Emissary APIs, a general purpose framework for GPU-initiated host execution of native host APIs](https://discourse.llvm.org/t/emissary-apis-a-general-purpose-framework-for-gpu-initiated-host-execution-of-native-host-apis/89169#post_1)
 <!-- DISCOURSE-LLVM:END -->
