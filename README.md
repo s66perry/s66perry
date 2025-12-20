@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_14)
 - [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_13)
 - [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_12)
 - [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_11)
 - [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_10)
-- [[RFC] Upstreaming Propeller Profile Conversion Tool](https://discourse.llvm.org/t/rfc-upstreaming-propeller-profile-conversion-tool/89173#post_1)
 <!-- DISCOURSE-LLVM:END -->
