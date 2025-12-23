@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Investigating the impact of line 0 source locations on SPGO](https://discourse.llvm.org/t/investigating-the-impact-of-line-0-source-locations-on-spgo/89091#post_9)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_10)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_9)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_8)
 - [Building a Release build created a Debug build](https://discourse.llvm.org/t/building-a-release-build-created-a-debug-build/89180#post_2)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_7)
 <!-- DISCOURSE-LLVM:END -->
