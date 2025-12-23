@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can min/max operation with same values combined?](https://discourse.llvm.org/t/can-min-max-operation-with-same-values-combined/89179#post_2)
 - [Building a Release build created a Debug build](https://discourse.llvm.org/t/building-a-release-build-created-a-debug-build/89180#post_3)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_11)
 - [Investigating the impact of line 0 source locations on SPGO](https://discourse.llvm.org/t/investigating-the-impact-of-line-0-source-locations-on-spgo/89091#post_9)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_10)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_9)
 <!-- DISCOURSE-LLVM:END -->
