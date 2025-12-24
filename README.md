@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Yet Another LLVM restrict Support](https://discourse.llvm.org/t/rfc-yet-another-llvm-restrict-support/87612#post_19)
 - [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_12)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_84)
 - [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_9)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_20)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178#post_19)
 <!-- DISCOURSE-LLVM:END -->
