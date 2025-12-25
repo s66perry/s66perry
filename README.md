@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Hoisting tensor.extract to linalg.generic operands](https://discourse.llvm.org/t/rfc-hoisting-tensor-extract-to-linalg-generic-operands/89193#post_1)
 - [Which entries from mlir can be used in SmallPtrSet?](https://discourse.llvm.org/t/which-entries-from-mlir-can-be-used-in-smallptrset/89190#post_5)
 - [Which entries from mlir can be used in SmallPtrSet?](https://discourse.llvm.org/t/which-entries-from-mlir-can-be-used-in-smallptrset/89190#post_4)
 - [Constructing Debug-Friendly Optimization Pipelines from Individual Pass Evaluation](https://discourse.llvm.org/t/constructing-debug-friendly-optimization-pipelines-from-individual-pass-evaluation/89189#post_3)
 - [Which entries from mlir can be used in SmallPtrSet?](https://discourse.llvm.org/t/which-entries-from-mlir-can-be-used-in-smallptrset/89190#post_3)
-- [Which entries from mlir can be used in SmallPtrSet?](https://discourse.llvm.org/t/which-entries-from-mlir-can-be-used-in-smallptrset/89190#post_2)
 <!-- DISCOURSE-LLVM:END -->
