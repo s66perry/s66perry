@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_24)
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_86)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_85)
 - [LLVM libc library code coverage](https://discourse.llvm.org/t/llvm-libc-library-code-coverage/89257#post_1)
 - [How to implement function calls？](https://discourse.llvm.org/t/how-to-implement-function-calls/89255#post_1)
-- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_11)
-- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_10)
 <!-- DISCOURSE-LLVM:END -->
