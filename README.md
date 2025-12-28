@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building a Release build created a Debug build](https://discourse.llvm.org/t/building-a-release-build-created-a-debug-build/89180#post_5)
 - [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_17)
 - [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_16)
 - [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_15)
 - [LTO - delete empty functions](https://discourse.llvm.org/t/lto-delete-empty-functions/89268#post_4)
-- [LTO - delete empty functions](https://discourse.llvm.org/t/lto-delete-empty-functions/89268#post_3)
 <!-- DISCOURSE-LLVM:END -->
