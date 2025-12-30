@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_157)
 - [Building a Release build created a Debug build](https://discourse.llvm.org/t/building-a-release-build-created-a-debug-build/89180#post_8)
 - [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_20)
 - [Issue with installation of libc++](https://discourse.llvm.org/t/issue-with-installation-of-libc/88869#post_3)
 - [Building a Release build created a Debug build](https://discourse.llvm.org/t/building-a-release-build-created-a-debug-build/89180#post_7)
-- [Correct way to mix __attribute__ &lpar;&lpar;constructor&rpar;&rpar; and constructors](https://discourse.llvm.org/t/correct-way-to-mix-attribute-constructor-and-constructors/89337#post_1)
 <!-- DISCOURSE-LLVM:END -->
