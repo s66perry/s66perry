@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Building a Release build created a Debug build](https://discourse.llvm.org/t/building-a-release-build-created-a-debug-build/89180#post_8)
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159#post_20)
+- [Issue with installation of libc++](https://discourse.llvm.org/t/issue-with-installation-of-libc/88869#post_3)
+- [Building a Release build created a Debug build](https://discourse.llvm.org/t/building-a-release-build-created-a-debug-build/89180#post_7)
 - [Correct way to mix __attribute__ &lpar;&lpar;constructor&rpar;&rpar; and constructors](https://discourse.llvm.org/t/correct-way-to-mix-attribute-constructor-and-constructors/89337#post_1)
-- [Call for Proposals - 2026 EuroLLVM Developers&#39; Meeting - Submit by 11 January](https://discourse.llvm.org/t/call-for-proposals-2026-eurollvm-developers-meeting-submit-by-11-january/89336#post_1)
-- [LLVM Weekly - #626, December 29th 2025](https://discourse.llvm.org/t/llvm-weekly-626-december-29th-2025/89335#post_1)
-- [RFC: aligning member names between vector and memref load/store ops](https://discourse.llvm.org/t/rfc-aligning-member-names-between-vector-and-memref-load-store-ops/89175#post_9)
-- [RFC: aligning member names between vector and memref load/store ops](https://discourse.llvm.org/t/rfc-aligning-member-names-between-vector-and-memref-load-store-ops/89175#post_8)
 <!-- DISCOURSE-LLVM:END -->
