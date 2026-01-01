@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Deprecate and remove LLVM_BUILD_EXTERNAL COMPILER_RT](https://discourse.llvm.org/t/rfc-deprecate-and-remove-llvm-build-external-compiler-rt/62058#post_17)
 - [[RFC] Deprecate and remove LLVM_BUILD_EXTERNAL COMPILER_RT](https://discourse.llvm.org/t/rfc-deprecate-and-remove-llvm-build-external-compiler-rt/62058#post_16)
 - [LLVM libc library code coverage](https://discourse.llvm.org/t/llvm-libc-library-code-coverage/89257#post_3)
 - [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_3)
 - [[RFC] Deprecate and remove LLVM_BUILD_EXTERNAL COMPILER_RT](https://discourse.llvm.org/t/rfc-deprecate-and-remove-llvm-build-external-compiler-rt/62058#post_15)
-- [[RFC] Deprecate and remove LLVM_BUILD_EXTERNAL COMPILER_RT](https://discourse.llvm.org/t/rfc-deprecate-and-remove-llvm-build-external-compiler-rt/62058#post_14)
 <!-- DISCOURSE-LLVM:END -->
