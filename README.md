@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_12)
 - [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_11)
 - [Planning to participate in gsoc 2026 with LLVM](https://discourse.llvm.org/t/planning-to-participate-in-gsoc-2026-with-llvm/89356#post_3)
 - [Some questions about the issue assignment](https://discourse.llvm.org/t/some-questions-about-the-issue-assignment/89334#post_8)
 - [[RFC] Supporting pointers with external storage in llvm.memcpy &lpar;and friends&rpar;](https://discourse.llvm.org/t/rfc-supporting-pointers-with-external-storage-in-llvm-memcpy-and-friends/89353#post_4)
-- [Planning to participate in gsoc 2026 with LLVM](https://discourse.llvm.org/t/planning-to-participate-in-gsoc-2026-with-llvm/89356#post_2)
 <!-- DISCOURSE-LLVM:END -->
