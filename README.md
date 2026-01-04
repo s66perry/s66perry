@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_19)
 - [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_18)
 - [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_17)
 - [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_16)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=2#post_28)
-- [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_15)
 <!-- DISCOURSE-LLVM:END -->
