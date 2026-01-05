@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_2)
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=2#post_32)
 - [Nominate new Static Analyzer maintainers](https://discourse.llvm.org/t/nominate-new-static-analyzer-maintainers/89362#post_1)
 - [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350#post_20)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=2#post_31)
-- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_10)
-- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_9)
 <!-- DISCOURSE-LLVM:END -->
