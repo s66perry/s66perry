@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Supporting pointers with external storage in llvm.memcpy &lpar;and friends&rpar;](https://discourse.llvm.org/t/rfc-supporting-pointers-with-external-storage-in-llvm-memcpy-and-friends/89353#post_7)
+- [MLIR C/C++ Frontend Working Group [Mon, Jan 12th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jan-12th/89361#post_1)
 - [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_1)
 - [Some questions about the issue assignment](https://discourse.llvm.org/t/some-questions-about-the-issue-assignment/89334#post_11)
 - [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_6)
-- [RFC: adopt regularly scheduled Python minimum version bumps](https://discourse.llvm.org/t/rfc-adopt-regularly-scheduled-python-minimum-version-bumps/88841#post_10)
-- [[mlir] Best practice for attribute type verification: parser vs verify](https://discourse.llvm.org/t/mlir-best-practice-for-attribute-type-verification-parser-vs-verify/89358#post_3)
 <!-- DISCOURSE-LLVM:END -->
