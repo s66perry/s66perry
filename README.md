@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding back end for the Connex vector accelerator as an experimental target](https://discourse.llvm.org/t/rfc-adding-back-end-for-the-connex-vector-accelerator-as-an-experimental-target/88910#post_3)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Dec 15 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-dec-15-25-6pm/88930#post_6)
-- [Investigating the impact of line 0 source locations on SPGO](https://discourse.llvm.org/t/investigating-the-impact-of-line-0-source-locations-on-spgo/89091#post_10)
-- [[RFC] Support classic flang driver options in flang](https://discourse.llvm.org/t/rfc-support-classic-flang-driver-options-in-flang/89380#post_2)
-- [[RFC] Support classic flang driver options in flang](https://discourse.llvm.org/t/rfc-support-classic-flang-driver-options-in-flang/89380#post_1)
+- [[RFC] Adding back end for the Connex vector accelerator as an experimental target](https://discourse.llvm.org/t/rfc-adding-back-end-for-the-connex-vector-accelerator-as-an-experimental-target/88910#post_4)
+- [Final Week for 2026 EuroLLVM Talk Submissions](https://discourse.llvm.org/t/final-week-for-2026-eurollvm-talk-submissions/89381#post_1)
+- [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373?page=2#post_21)
+- [[RFC] Support classic flang driver options in flang](https://discourse.llvm.org/t/rfc-support-classic-flang-driver-options-in-flang/89380#post_4)
+- [[RFC] Support classic flang driver options in flang](https://discourse.llvm.org/t/rfc-support-classic-flang-driver-options-in-flang/89380#post_3)
 <!-- DISCOURSE-LLVM:END -->
