@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=3#post_47)
-- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=4#post_64)
-- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_13)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Dec 15 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-dec-15-25-6pm/88930#post_5)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Jan 26 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jan-26-26-6pm/89372#post_1)
+- [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373#post_8)
+- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_14)
+- [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373#post_7)
+- [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373#post_6)
+- [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373#post_5)
 <!-- DISCOURSE-LLVM:END -->
