@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Nominate new Static Analyzer maintainers](https://discourse.llvm.org/t/nominate-new-static-analyzer-maintainers/89362#post_3)
-- [Experience with [[clang::musttail]]](https://discourse.llvm.org/t/experience-with-clang-musttail/89085#post_20)
-- [LLVM 22.x will branch next week &lpar;Tue 13th Jan&rpar;](https://discourse.llvm.org/t/llvm-22-x-will-branch-next-week-tue-13th-jan/89377#post_1)
-- [[RFC] Libc++ taking a dependency on Boost.Math for the C++17 Math Special Functions](https://discourse.llvm.org/t/rfc-libc-taking-a-dependency-on-boost-math-for-the-c-17-math-special-functions/87479?page=3#post_59)
-- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_17)
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=3#post_51)
+- [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373#post_17)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_2)
+- [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373#post_16)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148#post_20)
 <!-- DISCOURSE-LLVM:END -->
