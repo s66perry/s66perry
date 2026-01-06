@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_20)
+- [BOLT header dependencies](https://discourse.llvm.org/t/bolt-header-dependencies/89364#post_5)
+- [BOLT header dependencies](https://discourse.llvm.org/t/bolt-header-dependencies/89364#post_4)
 - [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_19)
 - [BOLT header dependencies](https://discourse.llvm.org/t/bolt-header-dependencies/89364#post_3)
-- [BOLT header dependencies](https://discourse.llvm.org/t/bolt-header-dependencies/89364#post_2)
-- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345#post_18)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=3#post_52)
 <!-- DISCOURSE-LLVM:END -->
