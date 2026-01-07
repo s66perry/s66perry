@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=3#post_55)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_3)
 - [Fix to generalize the canSkipClobberingStore](https://discourse.llvm.org/t/fix-to-generalize-the-canskipclobberingstore/89387#post_1)
 - [[RFC] Freeze the LLVM library ABI with RC1 starting with LLVM 23](https://discourse.llvm.org/t/rfc-freeze-the-llvm-library-abi-with-rc1-starting-with-llvm-23/89373?page=2#post_26)
 - [[RFC] Support classic flang driver options in flang](https://discourse.llvm.org/t/rfc-support-classic-flang-driver-options-in-flang/89380#post_7)
-- [BOLT header dependencies](https://discourse.llvm.org/t/bolt-header-dependencies/89364#post_6)
-- [Operator Fusion](https://discourse.llvm.org/t/operator-fusion/89376#post_2)
 <!-- DISCOURSE-LLVM:END -->
