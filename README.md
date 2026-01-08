@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about InferTypeOpInterface](https://discourse.llvm.org/t/question-about-infertypeopinterface/89397#post_1)
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=3#post_46)
 - [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=5#post_84)
 - [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=5#post_83)
 - [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_6)
-- [Error: &#39;linalg.generic&#39; op expected the shape-to-loops map to be non-null](https://discourse.llvm.org/t/error-linalg-generic-op-expected-the-shape-to-loops-map-to-be-non-null/89390#post_2)
-- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_7)
 <!-- DISCOURSE-LLVM:END -->
