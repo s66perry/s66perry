@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sharding Framework Design for Device Mesh](https://discourse.llvm.org/t/rfc-sharding-framework-design-for-device-mesh/73533?page=8#post_158)
 - [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_8)
 - [Question about InferTypeOpInterface](https://discourse.llvm.org/t/question-about-infertypeopinterface/89397#post_4)
 - [Question about InferTypeOpInterface](https://discourse.llvm.org/t/question-about-infertypeopinterface/89397#post_3)
 - [Question about InferTypeOpInterface](https://discourse.llvm.org/t/question-about-infertypeopinterface/89397#post_2)
-- [Question about InferTypeOpInterface](https://discourse.llvm.org/t/question-about-infertypeopinterface/89397#post_1)
 <!-- DISCOURSE-LLVM:END -->
