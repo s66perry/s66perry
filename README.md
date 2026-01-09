@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to learn llvm](https://discourse.llvm.org/t/how-to-learn-llvm/89409#post_1)
-- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_11)
-- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_10)
-- [Investigating targeted testing for LLVM optimizations](https://discourse.llvm.org/t/investigating-targeted-testing-for-llvm-optimizations/89403#post_8)
-- [Investigating targeted testing for LLVM optimizations](https://discourse.llvm.org/t/investigating-targeted-testing-for-llvm-optimizations/89403#post_7)
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159?page=2#post_24)
+- [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937?page=2#post_26)
+- [[RFC] Avoid Functions Like &lt;foo&gt;.llvm.&lt;...&gt;&lpar;&rpar; For Kernel Live Patch](https://discourse.llvm.org/t/rfc-avoid-functions-like-foo-llvm-for-kernel-live-patch/89400#post_7)
+- [2026 EuroLLVM Student Travel Grants - Info Meeting](https://discourse.llvm.org/t/2026-eurollvm-student-travel-grants-info-meeting/89412#post_1)
+- [Last Call for 2026 EuroLLVM Talk Submissions - 11 January Deadline](https://discourse.llvm.org/t/last-call-for-2026-eurollvm-talk-submissions-11-january-deadline/89411#post_1)
 <!-- DISCOURSE-LLVM:END -->
