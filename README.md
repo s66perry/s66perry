@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Avoid Functions Like &lt;foo&gt;.llvm.&lt;...&gt;&lpar;&rpar; For Kernel Live Patch](https://discourse.llvm.org/t/rfc-avoid-functions-like-foo-llvm-for-kernel-live-patch/89400#post_11)
 - [How to learn llvm](https://discourse.llvm.org/t/how-to-learn-llvm/89409#post_12)
 - [How to learn llvm](https://discourse.llvm.org/t/how-to-learn-llvm/89409#post_11)
 - [How to learn llvm](https://discourse.llvm.org/t/how-to-learn-llvm/89409#post_10)
 - [How to learn llvm](https://discourse.llvm.org/t/how-to-learn-llvm/89409#post_9)
-- [How to learn llvm](https://discourse.llvm.org/t/how-to-learn-llvm/89409#post_8)
 <!-- DISCOURSE-LLVM:END -->
