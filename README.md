@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Should LLVM support fp16 for the &quot;Standard C/C++ Library Intrinsics&quot;?](https://discourse.llvm.org/t/should-llvm-support-fp16-for-the-standard-c-c-library-intrinsics/89428#post_1)
+- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_13)
 - [Suspicious usages of `std::reverse_iterator` and associated LLVM build failures with GCC 15.2.1](https://discourse.llvm.org/t/suspicious-usages-of-std-reverse-iterator-and-associated-llvm-build-failures-with-gcc-15-2-1/89426#post_1)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=4#post_63)
 - [Last Call for 2026 EuroLLVM Talk Submissions - 11 January Deadline](https://discourse.llvm.org/t/last-call-for-2026-eurollvm-talk-submissions-11-january-deadline/89411#post_2)
-- [LLVM AA TechCalls](https://discourse.llvm.org/t/llvm-aa-techcalls/75569#post_7)
-- [Best approach to replace a built-in pass with an out-of-tree implementation](https://discourse.llvm.org/t/best-approach-to-replace-a-built-in-pass-with-an-out-of-tree-implementation/89424#post_1)
 <!-- DISCOURSE-LLVM:END -->
