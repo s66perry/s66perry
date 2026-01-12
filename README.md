@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Error: &#39;linalg.generic&#39; op expected the shape-to-loops map to be non-null](https://discourse.llvm.org/t/error-linalg-generic-op-expected-the-shape-to-loops-map-to-be-non-null/89390#post_4)
+- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_14)
+- [Early evaluators for a portable compute IR &lpar;ONNX → CPU/GPU via OpenCL&rpar;](https://discourse.llvm.org/t/early-evaluators-for-a-portable-compute-ir-onnx-cpu-gpu-via-opencl/89417#post_3)
+- [Early evaluators for a portable compute IR &lpar;ONNX → CPU/GPU via OpenCL&rpar;](https://discourse.llvm.org/t/early-evaluators-for-a-portable-compute-ir-onnx-cpu-gpu-via-opencl/89417#post_2)
 - [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_13)
-- [[RFC] Adding back end for the Connex vector accelerator as an experimental target](https://discourse.llvm.org/t/rfc-adding-back-end-for-the-connex-vector-accelerator-as-an-experimental-target/88910#post_9)
-- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_12)
-- [[RFC] Sync Python versions on Windows](https://discourse.llvm.org/t/rfc-sync-python-versions-on-windows/89434#post_4)
-- [[RFC] Sync Python versions on Windows](https://discourse.llvm.org/t/rfc-sync-python-versions-on-windows/89434#post_3)
 <!-- DISCOURSE-LLVM:END -->
