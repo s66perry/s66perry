@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Sync Python versions on Windows](https://discourse.llvm.org/t/rfc-sync-python-versions-on-windows/89434#post_11)
+- [[RFC] Sync Python versions on Windows](https://discourse.llvm.org/t/rfc-sync-python-versions-on-windows/89434#post_10)
+- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443#post_3)
+- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_18)
 - [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_17)
-- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_16)
-- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_15)
-- [LLVM 22.x has branched](https://discourse.llvm.org/t/llvm-22-x-has-branched/89447#post_3)
-- [LLVM 22.x has branched](https://discourse.llvm.org/t/llvm-22-x-has-branched/89447#post_2)
 <!-- DISCOURSE-LLVM:END -->
