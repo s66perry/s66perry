@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_17)
+- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_16)
+- [[RFC] Integrating SingleByteCoverage with Branch Coverage](https://discourse.llvm.org/t/rfc-integrating-singlebytecoverage-with-branch-coverage/82492#post_15)
+- [LLVM 22.x has branched](https://discourse.llvm.org/t/llvm-22-x-has-branched/89447#post_3)
 - [LLVM 22.x has branched](https://discourse.llvm.org/t/llvm-22-x-has-branched/89447#post_2)
-- [&quot;Labeling new issues: All jobs have failed&quot;](https://discourse.llvm.org/t/labeling-new-issues-all-jobs-have-failed/89446#post_2)
-- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar;: Efficient Native Code Sandboxing &lpar;Upstream LFI Target and Compiler Changes&rpar;](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-efficient-native-code-sandboxing-upstream-lfi-target-and-compiler-changes/88380?page=2#post_33)
-- [LLVM 22.x has branched](https://discourse.llvm.org/t/llvm-22-x-has-branched/89447#post_1)
-- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_9)
 <!-- DISCOURSE-LLVM:END -->
