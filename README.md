@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_13)
-- [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_2)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443#post_9)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443#post_8)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443#post_7)
+- [Difference between alloca [N x T] and alloca T, i32 N](https://discourse.llvm.org/t/difference-between-alloca-n-x-t-and-alloca-t-i32-n/89453#post_2)
+- [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_7)
+- [Difference between alloca [N x T] and alloca T, i32 N](https://discourse.llvm.org/t/difference-between-alloca-n-x-t-and-alloca-t-i32-n/89453#post_1)
+- [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_6)
+- [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_5)
 <!-- DISCOURSE-LLVM:END -->
