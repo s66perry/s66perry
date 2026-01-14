@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Allow inline suppressions of cppcheck false-positives](https://discourse.llvm.org/t/rfc-allow-inline-suppressions-of-cppcheck-false-positives/89466#post_1)
+- [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_7)
+- [[RFC] Support -fstrict-aliasing and -fno-strict-aliasing](https://discourse.llvm.org/t/rfc-support-fstrict-aliasing-and-fno-strict-aliasing/89135#post_7)
+- [Help with building compiler-rt for RISCV target](https://discourse.llvm.org/t/help-with-building-compiler-rt-for-riscv-target/89464#post_1)
 - [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_6)
-- [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_5)
-- [Issues affecting LLVM](https://discourse.llvm.org/t/issues-affecting-llvm/89449#post_4)
-- [[RFC] Rewriting the llvm-lnt website with a TypeScript framework](https://discourse.llvm.org/t/rfc-rewriting-the-llvm-lnt-website-with-a-typescript-framework/89457#post_5)
-- [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_10)
 <!-- DISCOURSE-LLVM:END -->
