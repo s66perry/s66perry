@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Rewriting the llvm-lnt website with a TypeScript framework](https://discourse.llvm.org/t/rfc-rewriting-the-llvm-lnt-website-with-a-typescript-framework/89457#post_4)
-- [LLVM ABI annotation checker](https://discourse.llvm.org/t/llvm-abi-annotation-checker/89460#post_7)
-- [Whats with thread_local calling an initalizer?](https://discourse.llvm.org/t/whats-with-thread-local-calling-an-initalizer/89459#post_5)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=4#post_71)
-- [LLVM ABI annotation checker](https://discourse.llvm.org/t/llvm-abi-annotation-checker/89460#post_6)
+- [[RFC] Drop the firstIndex argument of visitNonControlFlowArguments of SparseForwardDataFlowAnalysis](https://discourse.llvm.org/t/rfc-drop-the-firstindex-argument-of-visitnoncontrolflowarguments-of-sparseforwarddataflowanalysis/89419#post_2)
+- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_17)
+- [Error: &#39;linalg.generic&#39; op expected the shape-to-loops map to be non-null](https://discourse.llvm.org/t/error-linalg-generic-op-expected-the-shape-to-loops-map-to-be-non-null/89390#post_6)
+- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_16)
+- [MLIR plugin for ZSH](https://discourse.llvm.org/t/mlir-plugin-for-zsh/89074#post_4)
 <!-- DISCOURSE-LLVM:END -->
