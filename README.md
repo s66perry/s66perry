@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_3)
-- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_18)
-- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_11)
-- [Whats with thread_local calling an initalizer?](https://discourse.llvm.org/t/whats-with-thread-local-calling-an-initalizer/89459#post_6)
-- [RFC: Optimizing conditional traps](https://discourse.llvm.org/t/rfc-optimizing-conditional-traps/89456#post_2)
+- [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_6)
+- [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_5)
+- [Issues affecting LLVM](https://discourse.llvm.org/t/issues-affecting-llvm/89449#post_4)
+- [[RFC] Rewriting the llvm-lnt website with a TypeScript framework](https://discourse.llvm.org/t/rfc-rewriting-the-llvm-lnt-website-with-a-typescript-framework/89457#post_5)
+- [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_10)
 <!-- DISCOURSE-LLVM:END -->
