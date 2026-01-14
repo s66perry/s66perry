@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Whats with thread_local calling an initalizer?](https://discourse.llvm.org/t/whats-with-thread-local-calling-an-initalizer/89459#post_6)
 - [RFC: Optimizing conditional traps](https://discourse.llvm.org/t/rfc-optimizing-conditional-traps/89456#post_2)
 - [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443#post_11)
 - [Completed Kaleidoscope, interested in contributing. Where should I start?](https://discourse.llvm.org/t/completed-kaleidoscope-interested-in-contributing-where-should-i-start/89461#post_2)
 - [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_2)
-- [Issues affecting LLVM](https://discourse.llvm.org/t/issues-affecting-llvm/89449#post_3)
 <!-- DISCOURSE-LLVM:END -->
