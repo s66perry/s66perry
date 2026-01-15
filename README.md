@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to lower linalg.mmt4d to arm_sme fmopa](https://discourse.llvm.org/t/how-to-lower-linalg-mmt4d-to-arm-sme-fmopa/89391#post_5)
 - [RFC: Integrate Clang-Tidy checkers into Clang Static Analyzer](https://discourse.llvm.org/t/rfc-integrate-clang-tidy-checkers-into-clang-static-analyzer/88937?page=2#post_28)
 - [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_12)
 - [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_11)
 - [[RFC] Clarifying Semantic Assumptions for Custom Allocators](https://discourse.llvm.org/t/rfc-clarifying-semantic-assumptions-for-custom-allocators/89469#post_5)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=4#post_73)
 <!-- DISCOURSE-LLVM:END -->
