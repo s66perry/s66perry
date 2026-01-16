@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Improvement of Fujitsu test suite](https://discourse.llvm.org/t/improvement-of-fujitsu-test-suite/89475#post_2)
-- [Example usage of Enzyme with Fortran &lpar;LLVM Flang&rpar;](https://discourse.llvm.org/t/example-usage-of-enzyme-with-fortran-llvm-flang/89482#post_1)
-- [Are there any examples of using Enzyme with llvm flang &lpar;aka flang-new&rpar;?](https://discourse.llvm.org/t/are-there-any-examples-of-using-enzyme-with-llvm-flang-aka-flang-new/89481#post_1)
-- [[RFC] Use pre-compiled headers to speed up LLVM build by ~1.5-2x](https://discourse.llvm.org/t/rfc-use-pre-compiled-headers-to-speed-up-llvm-build-by-1-5-2x/89345?page=2#post_32)
-- [Support of Renesas V850* architecture](https://discourse.llvm.org/t/support-of-renesas-v850-architecture/89333#post_3)
+- [[RFC] Value-Profile Guided Function Specialization](https://discourse.llvm.org/t/rfc-value-profile-guided-function-specialization/89441#post_9)
+- [[RFC] Value-Profile Guided Function Specialization](https://discourse.llvm.org/t/rfc-value-profile-guided-function-specialization/89441#post_8)
+- [[RFC] What is the intended way to customize `OneShotBufferizationOptions` for custom dialect?](https://discourse.llvm.org/t/rfc-what-is-the-intended-way-to-customize-oneshotbufferizationoptions-for-custom-dialect/89483#post_1)
+- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_11)
+- [Help with building compiler-rt for RISCV target](https://discourse.llvm.org/t/help-with-building-compiler-rt-for-riscv-target/89464#post_7)
 <!-- DISCOURSE-LLVM:END -->
