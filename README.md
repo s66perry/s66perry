@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360?page=2#post_21)
 - [[RFC] Value-Profile Guided Function Specialization](https://discourse.llvm.org/t/rfc-value-profile-guided-function-specialization/89441#post_7)
 - [LLVM 22.1.0-rc1 Released!](https://discourse.llvm.org/t/llvm-22-1-0-rc1-released/89479#post_1)
 - [CodeGenPrepare::runOnFunction hanging because of Bitcast and Phi](https://discourse.llvm.org/t/codegenprepare-runonfunction-hanging-because-of-bitcast-and-phi/89478#post_2)
 - [CodeGenPrepare::runOnFunction hanging because of Bitcast and Phi](https://discourse.llvm.org/t/codegenprepare-runonfunction-hanging-because-of-bitcast-and-phi/89478#post_1)
-- [LLVM 22.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-22-x-release-third-party-binaries/89477#post_1)
 <!-- DISCOURSE-LLVM:END -->
