@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Help with building compiler-rt for RISCV target](https://discourse.llvm.org/t/help-with-building-compiler-rt-for-riscv-target/89464#post_5)
-- [Merging PRs that have a &quot;Changes Requested&quot; annotation when the reviewer is away](https://discourse.llvm.org/t/merging-prs-that-have-a-changes-requested-annotation-when-the-reviewer-is-away/89463#post_14)
-- [What happened in LLDB in 2025](https://discourse.llvm.org/t/what-happened-in-lldb-in-2025/89470#post_2)
-- [[RFC] Avoid Functions Like &lt;foo&gt;.llvm.&lt;...&gt;&lpar;&rpar; For Kernel Live Patch](https://discourse.llvm.org/t/rfc-avoid-functions-like-foo-llvm-for-kernel-live-patch/89400#post_20)
-- [[RFC] Value-Profile Guided Function Specialization](https://discourse.llvm.org/t/rfc-value-profile-guided-function-specialization/89441#post_5)
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=4#post_74)
+- [[RFC] Clarifying Semantic Assumptions for Custom Allocators](https://discourse.llvm.org/t/rfc-clarifying-semantic-assumptions-for-custom-allocators/89469#post_6)
+- [[RFC] [DebugInfo] Selectively generate template parameters in the skeleton CU](https://discourse.llvm.org/t/rfc-debuginfo-selectively-generate-template-parameters-in-the-skeleton-cu/89395#post_7)
+- [PDX Area January 2026 social](https://discourse.llvm.org/t/pdx-area-january-2026-social/89371#post_3)
+- [[RFC] [DebugInfo] Selectively generate template parameters in the skeleton CU](https://discourse.llvm.org/t/rfc-debuginfo-selectively-generate-template-parameters-in-the-skeleton-cu/89395#post_6)
 <!-- DISCOURSE-LLVM:END -->
