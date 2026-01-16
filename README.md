@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM_ABI annotations checker reporting failures completely unrelated to PR](https://discourse.llvm.org/t/llvm-abi-annotations-checker-reporting-failures-completely-unrelated-to-pr/89476#post_1)
+- [[RFC] Value-Profile Guided Function Specialization](https://discourse.llvm.org/t/rfc-value-profile-guided-function-specialization/89441#post_6)
+- [Improvement of Fujitsu test suite](https://discourse.llvm.org/t/improvement-of-fujitsu-test-suite/89475#post_1)
 - [RFC: Allow inline suppressions of cppcheck false-positives](https://discourse.llvm.org/t/rfc-allow-inline-suppressions-of-cppcheck-false-positives/89466#post_4)
 - [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_20)
-- [[RFC] [Clang] Not assuming there is at most one definition in a redeclaration chain](https://discourse.llvm.org/t/rfc-clang-not-assuming-there-is-at-most-one-definition-in-a-redeclaration-chain/89360#post_19)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=4#post_74)
-- [[RFC] Clarifying Semantic Assumptions for Custom Allocators](https://discourse.llvm.org/t/rfc-clarifying-semantic-assumptions-for-custom-allocators/89469#post_6)
 <!-- DISCOURSE-LLVM:END -->
