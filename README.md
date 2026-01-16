@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] What is the intended way to customize `OneShotBufferizationOptions` for custom dialect?](https://discourse.llvm.org/t/rfc-what-is-the-intended-way-to-customize-oneshotbufferizationoptions-for-custom-dialect/89483#post_2)
+- [Fortnightly LLVM libc math library meeting](https://discourse.llvm.org/t/fortnightly-llvm-libc-math-library-meeting/89166#post_3)
+- [Call for Mentors - 2026 EuroLLVM Developers’ Meeting](https://discourse.llvm.org/t/call-for-mentors-2026-eurollvm-developers-meeting/89484#post_1)
 - [[RFC] Value-Profile Guided Function Specialization](https://discourse.llvm.org/t/rfc-value-profile-guided-function-specialization/89441#post_9)
 - [[RFC] Value-Profile Guided Function Specialization](https://discourse.llvm.org/t/rfc-value-profile-guided-function-specialization/89441#post_8)
-- [[RFC] What is the intended way to customize `OneShotBufferizationOptions` for custom dialect?](https://discourse.llvm.org/t/rfc-what-is-the-intended-way-to-customize-oneshotbufferizationoptions-for-custom-dialect/89483#post_1)
-- [[RFC][Tablegen] Explicit Type Constraints for Overloaded LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-explicit-type-constraints-for-overloaded-llvm-intrinsics/89142#post_11)
-- [Help with building compiler-rt for RISCV target](https://discourse.llvm.org/t/help-with-building-compiler-rt-for-riscv-target/89464#post_7)
 <!-- DISCOURSE-LLVM:END -->
