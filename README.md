@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Sema to check array element count](https://discourse.llvm.org/t/sema-to-check-array-element-count/89122#post_3)
 - [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_14)
 - [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_4)
 - [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_3)
 - [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_2)
-- [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_1)
 <!-- DISCOURSE-LLVM:END -->
