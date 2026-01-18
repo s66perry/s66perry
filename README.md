@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Help with building compiler-rt for RISCV target](https://discourse.llvm.org/t/help-with-building-compiler-rt-for-riscv-target/89464#post_10)
+- [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_11)
+- [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_10)
 - [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_9)
 - [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_8)
-- [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_7)
-- [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_6)
-- [Building a complete, self-contained toolchain](https://discourse.llvm.org/t/building-a-complete-self-contained-toolchain/89495#post_5)
 <!-- DISCOURSE-LLVM:END -->
