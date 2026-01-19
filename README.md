@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #629, January 19th 2026](https://discourse.llvm.org/t/llvm-weekly-629-january-19th-2026/89514#post_1)
+- [[llvm-test-suite] Removing the deprecated Makefiles](https://discourse.llvm.org/t/llvm-test-suite-removing-the-deprecated-makefiles/89513#post_1)
+- [[RFC] [OpenMP] Alloca placement for OpenMP loop wrappers](https://discourse.llvm.org/t/rfc-openmp-alloca-placement-for-openmp-loop-wrappers/89512#post_2)
 - [[RFC] [OpenMP] Alloca placement for OpenMP loop wrappers](https://discourse.llvm.org/t/rfc-openmp-alloca-placement-for-openmp-loop-wrappers/89512#post_1)
 - [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897#post_19)
-- [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_8)
-- [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_7)
-- [LLVM+GSoC 2026: call for mentors and projects!](https://discourse.llvm.org/t/llvm-gsoc-2026-call-for-mentors-and-projects/89509#post_1)
 <!-- DISCOURSE-LLVM:END -->
