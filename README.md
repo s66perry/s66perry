@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_29)
-- [CodeGenPrepare::runOnFunction hanging because of Bitcast and Phi](https://discourse.llvm.org/t/codegenprepare-runonfunction-hanging-because-of-bitcast-and-phi/89478#post_3)
-- [Whats with thread_local calling an initalizer?](https://discourse.llvm.org/t/whats-with-thread-local-calling-an-initalizer/89459#post_8)
-- [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_5)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=4#post_78)
+- [Confusion regarding llvm linkage attribute: should it be `linkage`, or `llvm.linkage`?](https://discourse.llvm.org/t/confusion-regarding-llvm-linkage-attribute-should-it-be-linkage-or-llvm-linkage/89497#post_4)
+- [[RFC] `-remove-dead-values`: Delegate simplification of region-based ops to Canonicalizer](https://discourse.llvm.org/t/rfc-remove-dead-values-delegate-simplification-of-region-based-ops-to-canonicalizer/89194#post_13)
+- [Support of Renesas V850* architecture](https://discourse.llvm.org/t/support-of-renesas-v850-architecture/89333#post_4)
+- [Improvement of Fujitsu test suite](https://discourse.llvm.org/t/improvement-of-fujitsu-test-suite/89475#post_3)
+- [How to lower linalg.mmt4d to arm_sme fmopa](https://discourse.llvm.org/t/how-to-lower-linalg-mmt4d-to-arm-sme-fmopa/89391#post_6)
 <!-- DISCOURSE-LLVM:END -->
