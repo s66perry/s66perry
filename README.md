@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Function-Level flatten_depth Attribute for Depth-Limited Inlining](https://discourse.llvm.org/t/rfc-function-level-flatten-depth-attribute-for-depth-limited-inlining/89017#post_20)
-- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_2)
-- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_2)
-- [How to choose the alignment value for setPrefLoopAlignment and so on?](https://discourse.llvm.org/t/how-to-choose-the-alignment-value-for-setprefloopalignment-and-so-on/89533#post_1)
-- [[RFC] Allow non-constant offsets in @llvm.vector.splice](https://discourse.llvm.org/t/rfc-allow-non-constant-offsets-in-llvm-vector-splice/88974#post_7)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_5)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_17)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_4)
+- [How to choose the alignment value for setPrefLoopAlignment and so on?](https://discourse.llvm.org/t/how-to-choose-the-alignment-value-for-setprefloopalignment-and-so-on/89533#post_2)
+- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=4#post_69)
 <!-- DISCOURSE-LLVM:END -->
