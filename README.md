@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_6)
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_5)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161#post_13)
+- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530#post_2)
 - [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_4)
-- [Crash with custom intrinsic on custom backend](https://discourse.llvm.org/t/crash-with-custom-intrinsic-on-custom-backend/89531#post_1)
-- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530#post_1)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_48)
-- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_1)
 <!-- DISCOURSE-LLVM:END -->
