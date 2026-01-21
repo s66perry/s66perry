@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] New warning for empty initialization in for-loops &lpar;potential state carry-over&rpar;](https://discourse.llvm.org/t/rfc-new-warning-for-empty-initialization-in-for-loops-potential-state-carry-over/89532#post_1)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_8)
-- [Confusion regarding llvm linkage attribute: should it be `linkage`, or `llvm.linkage`?](https://discourse.llvm.org/t/confusion-regarding-llvm-linkage-attribute-should-it-be-linkage-or-llvm-linkage/89497#post_6)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_7)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_6)
+- [[RFC] New warning for empty initialization in for-loops &lpar;potential state carry-over&rpar;](https://discourse.llvm.org/t/rfc-new-warning-for-empty-initialization-in-for-loops-potential-state-carry-over/89532#post_5)
+- [[RFC] [OpenMP] Alloca placement for OpenMP loop wrappers](https://discourse.llvm.org/t/rfc-openmp-alloca-placement-for-openmp-loop-wrappers/89512#post_3)
+- [[RFC] New warning for empty initialization in for-loops &lpar;potential state carry-over&rpar;](https://discourse.llvm.org/t/rfc-new-warning-for-empty-initialization-in-for-loops-potential-state-carry-over/89532#post_4)
+- [[RFC] New warning for empty initialization in for-loops &lpar;potential state carry-over&rpar;](https://discourse.llvm.org/t/rfc-new-warning-for-empty-initialization-in-for-loops-potential-state-carry-over/89532#post_3)
+- [[RFC] New warning for empty initialization in for-loops &lpar;potential state carry-over&rpar;](https://discourse.llvm.org/t/rfc-new-warning-for-empty-initialization-in-for-loops-potential-state-carry-over/89532#post_2)
 <!-- DISCOURSE-LLVM:END -->
