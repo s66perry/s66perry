@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Help needed: Build errors &lpar;undeclared identifiers&rpar; when testing new libc++ functionality](https://discourse.llvm.org/t/help-needed-build-errors-undeclared-identifiers-when-testing-new-libc-functionality/89534#post_7)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_11)
-- [--buffer-results-to-out-params creates memory leaks](https://discourse.llvm.org/t/buffer-results-to-out-params-creates-memory-leaks/89536#post_1)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_10)
-- [Help needed: Build errors &lpar;undeclared identifiers&rpar; when testing new libc++ functionality](https://discourse.llvm.org/t/help-needed-build-errors-undeclared-identifiers-when-testing-new-libc-functionality/89534#post_6)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=4#post_69)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=4#post_68)
+- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443#post_20)
+- [[RFC] Adding SFrame support to llvm](https://discourse.llvm.org/t/rfc-adding-sframe-support-to-llvm/86900?page=4#post_67)
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_12)
 <!-- DISCOURSE-LLVM:END -->
