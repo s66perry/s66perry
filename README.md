@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_4)
+- [Crash with custom intrinsic on custom backend](https://discourse.llvm.org/t/crash-with-custom-intrinsic-on-custom-backend/89531#post_1)
+- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530#post_1)
+- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_48)
 - [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_1)
-- [RFC: Forming a Working Group on Formal Specification for LLVM](https://discourse.llvm.org/t/rfc-forming-a-working-group-on-formal-specification-for-llvm/89056#post_4)
-- [[RFC] Avoid Functions Like &lt;foo&gt;.llvm.&lt;...&gt;&lpar;&rpar; For Kernel Live Patch](https://discourse.llvm.org/t/rfc-avoid-functions-like-foo-llvm-for-kernel-live-patch/89400?page=2#post_24)
-- [[llvm-test-suite] Removing the deprecated Makefiles](https://discourse.llvm.org/t/llvm-test-suite-removing-the-deprecated-makefiles/89513#post_7)
-- [Clang-format and TableGen in LLVM tree](https://discourse.llvm.org/t/clang-format-and-tablegen-in-llvm-tree/89526#post_7)
 <!-- DISCOURSE-LLVM:END -->
