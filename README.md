@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Automatic static promotion of large local variables in Flang](https://discourse.llvm.org/t/rfc-automatic-static-promotion-of-large-local-variables-in-flang/89539#post_1)
+- [InstCombine assertion from `lshr &lpar;zext i32 X&rpar;, 32` created by EarlyCSE - missing fold in default pipeline?](https://discourse.llvm.org/t/instcombine-assertion-from-lshr-zext-i32-x-32-created-by-earlycse-missing-fold-in-default-pipeline/89538#post_1)
+- [InstCombine assertion from `lshr &lpar;zext i32 X&rpar;, 32` created by EarlyCSE — missing fold in default pipeline?](https://discourse.llvm.org/t/instcombine-assertion-from-lshr-zext-i32-x-32-created-by-earlycse-missing-fold-in-default-pipeline/89537#post_1)
 - [RFC: Optimizing conditional traps](https://discourse.llvm.org/t/rfc-optimizing-conditional-traps/89456#post_4)
 - [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_7)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_15)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_23)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_14)
 <!-- DISCOURSE-LLVM:END -->
