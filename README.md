@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [2026 LLVM Community Area Team Elections - Nominations Closing Soon!!!](https://discourse.llvm.org/t/2026-llvm-community-area-team-elections-nominations-closing-soon/89549#post_1)
-- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_6)
-- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_5)
-- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_4)
-- [[RFC] Implement analysis for exploit mitigation coverage](https://discourse.llvm.org/t/rfc-implement-analysis-for-exploit-mitigation-coverage/84326#post_7)
+- [[RFC] LLD: Preferring small code model COMDAT sections over large ones when mixing code models](https://discourse.llvm.org/t/rfc-lld-preferring-small-code-model-comdat-sections-over-large-ones-when-mixing-code-models/89550#post_1)
+- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_26)
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_22)
+- [Clang-format and TableGen in LLVM tree](https://discourse.llvm.org/t/clang-format-and-tablegen-in-llvm-tree/89526#post_8)
+- [How to lower linalg.mmt4d to arm_sme fmopa](https://discourse.llvm.org/t/how-to-lower-linalg-mmt4d-to-arm-sme-fmopa/89391#post_8)
 <!-- DISCOURSE-LLVM:END -->
