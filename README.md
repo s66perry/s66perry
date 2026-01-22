@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [InstCombine assertion from `lshr &lpar;zext i32 X&rpar;, 32` created by EarlyCSE - missing fold in default pipeline?](https://discourse.llvm.org/t/instcombine-assertion-from-lshr-zext-i32-x-32-created-by-earlycse-missing-fold-in-default-pipeline/89538#post_3)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_25)
-- [[RFC] [OpenMP] Alloca placement for OpenMP loop wrappers](https://discourse.llvm.org/t/rfc-openmp-alloca-placement-for-openmp-loop-wrappers/89512#post_5)
-- [[RFC] Support Target Triple Specific Include Paths Derived from Sysroot via multilib.yaml or Driver Logic](https://discourse.llvm.org/t/rfc-support-target-triple-specific-include-paths-derived-from-sysroot-via-multilib-yaml-or-driver-logic/86925#post_9)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_17)
+- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_5)
+- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_4)
+- [[RFC] Implement analysis for exploit mitigation coverage](https://discourse.llvm.org/t/rfc-implement-analysis-for-exploit-mitigation-coverage/84326#post_7)
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_21)
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522#post_20)
 <!-- DISCOURSE-LLVM:END -->
