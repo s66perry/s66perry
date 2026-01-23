@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_33)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_32)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_31)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_30)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_29)
+- [[RFC] Clarifying Semantic Assumptions for Custom Allocators](https://discourse.llvm.org/t/rfc-clarifying-semantic-assumptions-for-custom-allocators/89469#post_8)
+- [How to deal with abandoned/unmaintained code?](https://discourse.llvm.org/t/how-to-deal-with-abandoned-unmaintained-code/89560#post_3)
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159?page=2#post_27)
+- [[RFC] ADT Simple disjunctive comparison](https://discourse.llvm.org/t/rfc-adt-simple-disjunctive-comparison/89060#post_16)
+- [How to deal with abandoned/unmaintained code?](https://discourse.llvm.org/t/how-to-deal-with-abandoned-unmaintained-code/89560#post_2)
 <!-- DISCOURSE-LLVM:END -->
