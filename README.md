@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Constant propagation for target specific intrinsics](https://discourse.llvm.org/t/constant-propagation-for-target-specific-intrinsics/85881#post_9)
+- [[RFC] Avoid Functions Like &lt;foo&gt;.llvm.&lt;...&gt;&lpar;&rpar; For Kernel Live Patch](https://discourse.llvm.org/t/rfc-avoid-functions-like-foo-llvm-for-kernel-live-patch/89400?page=2#post_26)
+- [LLDB Debugger Engineer @ Apple London](https://discourse.llvm.org/t/lldb-debugger-engineer-apple-london/89562#post_1)
+- [How to deal with abandoned/unmaintained code?](https://discourse.llvm.org/t/how-to-deal-with-abandoned-unmaintained-code/89560#post_4)
 - [[RFC] Avoid Functions Like &lt;foo&gt;.llvm.&lt;...&gt;&lpar;&rpar; For Kernel Live Patch](https://discourse.llvm.org/t/rfc-avoid-functions-like-foo-llvm-for-kernel-live-patch/89400?page=2#post_25)
-- [RFC: Optimizing conditional traps](https://discourse.llvm.org/t/rfc-optimizing-conditional-traps/89456#post_5)
-- [[RFC] LLD: Preferring small code model COMDAT sections over large ones when mixing code models](https://discourse.llvm.org/t/rfc-lld-preferring-small-code-model-comdat-sections-over-large-ones-when-mixing-code-models/89550#post_9)
-- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159?page=2#post_28)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_36)
 <!-- DISCOURSE-LLVM:END -->
