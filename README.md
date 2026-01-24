@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=5#post_92)
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=4#post_79)
+- [Additional parameters in STL templates](https://discourse.llvm.org/t/additional-parameters-in-stl-templates/89569#post_2)
 - [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_4)
 - [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=5#post_91)
-- [[RFC] A consistent set of semantics for the floating-point minimum and maximum operations](https://discourse.llvm.org/t/rfc-a-consistent-set-of-semantics-for-the-floating-point-minimum-and-maximum-operations/89006?page=5#post_90)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_39)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
