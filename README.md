@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Historical Clang Language WG Meeting Minutes &lpar;Sep 2025-Dec 2025&rpar;](https://discourse.llvm.org/t/historical-clang-language-wg-meeting-minutes-sep-2025-dec-2025/89548#post_3)
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=3#post_41)
 - [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_40)
 - [Additional parameters in STL templates](https://discourse.llvm.org/t/additional-parameters-in-stl-templates/89569#post_6)
 - [Additional parameters in STL templates](https://discourse.llvm.org/t/additional-parameters-in-stl-templates/89569#post_5)
-- [Additional parameters in STL templates](https://discourse.llvm.org/t/additional-parameters-in-stl-templates/89569#post_4)
-- [[RFC] Optimal KnownBits using a semilattice](https://discourse.llvm.org/t/rfc-optimal-knownbits-using-a-semilattice/89565#post_2)
 <!-- DISCOURSE-LLVM:END -->
