@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=2#post_40)
 - [Additional parameters in STL templates](https://discourse.llvm.org/t/additional-parameters-in-stl-templates/89569#post_6)
 - [Additional parameters in STL templates](https://discourse.llvm.org/t/additional-parameters-in-stl-templates/89569#post_5)
 - [Additional parameters in STL templates](https://discourse.llvm.org/t/additional-parameters-in-stl-templates/89569#post_4)
 - [[RFC] Optimal KnownBits using a semilattice](https://discourse.llvm.org/t/rfc-optimal-knownbits-using-a-semilattice/89565#post_2)
-- [How to deal with abandoned/unmaintained code?](https://discourse.llvm.org/t/how-to-deal-with-abandoned-unmaintained-code/89560#post_8)
 <!-- DISCOURSE-LLVM:END -->
