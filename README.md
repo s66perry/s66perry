@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_32)
-- [[ClangIR] Transition plans for the ClangIR incubator](https://discourse.llvm.org/t/clangir-transition-plans-for-the-clangir-incubator/89583#post_1)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_31)
-- [LLVM 22.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-22-x-release-third-party-binaries/89477#post_2)
-- [[libc++][RFC] Supporting the Clang [[nonblocking]] attribute](https://discourse.llvm.org/t/libc-rfc-supporting-the-clang-nonblocking-attribute/89582#post_1)
+- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_2)
+- [Loop Unrolling in LoopVectorize Vs LoopUnrollPass](https://discourse.llvm.org/t/loop-unrolling-in-loopvectorize-vs-loopunrollpass/78480#post_3)
+- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_1)
+- [[llvm-test-suite] Removing the deprecated Makefiles](https://discourse.llvm.org/t/llvm-test-suite-removing-the-deprecated-makefiles/89513#post_8)
+- [[ClangIR] Transition plans for the ClangIR incubator](https://discourse.llvm.org/t/clangir-transition-plans-for-the-clangir-incubator/89583#post_2)
 <!-- DISCOURSE-LLVM:END -->
