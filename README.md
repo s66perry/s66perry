@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=3#post_42)
+- [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_7)
+- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=3#post_42)
+- [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_6)
 - [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_2)
-- [Loop Unrolling in LoopVectorize Vs LoopUnrollPass](https://discourse.llvm.org/t/loop-unrolling-in-loopvectorize-vs-loopunrollpass/78480#post_3)
-- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_1)
-- [[llvm-test-suite] Removing the deprecated Makefiles](https://discourse.llvm.org/t/llvm-test-suite-removing-the-deprecated-makefiles/89513#post_8)
-- [[ClangIR] Transition plans for the ClangIR incubator](https://discourse.llvm.org/t/clangir-transition-plans-for-the-clangir-incubator/89583#post_2)
 <!-- DISCOURSE-LLVM:END -->
