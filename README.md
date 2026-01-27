@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Upstreaming LLDB RPC](https://discourse.llvm.org/t/rfc-upstreaming-lldb-rpc/85804#post_15)
+- [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_2)
 - [[libc++][RFC] Supporting the Clang [[nonblocking]] attribute](https://discourse.llvm.org/t/libc-rfc-supporting-the-clang-nonblocking-attribute/89582#post_4)
 - [Does MemAlloc effect allow reordering?](https://discourse.llvm.org/t/does-memalloc-effect-allow-reordering/89136#post_5)
 - [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_1)
-- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_4)
-- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591#post_9)
 <!-- DISCOURSE-LLVM:END -->
