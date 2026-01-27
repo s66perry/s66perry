@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][DebugInfo] Mitigating Non-Deterministic DWP Overflow](https://discourse.llvm.org/t/rfc-debuginfo-mitigating-non-deterministic-dwp-overflow/89587#post_1)
-- [How to deal with abandoned/unmaintained code?](https://discourse.llvm.org/t/how-to-deal-with-abandoned-unmaintained-code/89560#post_11)
-- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_3)
-- [2026 LLVM Community Area Team Elections - Voting is open!](https://discourse.llvm.org/t/2026-llvm-community-area-team-elections-voting-is-open/89586#post_1)
-- [Defining what happens when a bool isn’t 0 or 1](https://discourse.llvm.org/t/defining-what-happens-when-a-bool-isn-t-0-or-1/86778?page=3#post_42)
+- [How to deal with abandoned/unmaintained code?](https://discourse.llvm.org/t/how-to-deal-with-abandoned-unmaintained-code/89560#post_12)
+- [Move DenseResourceElementsHandle Without cloning during Dialect Conversion](https://discourse.llvm.org/t/move-denseresourceelementshandle-without-cloning-during-dialect-conversion/89488#post_2)
+- [Replying to announcements](https://discourse.llvm.org/t/replying-to-announcements/89588#post_2)
+- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_33)
+- [2026 LLVM Community Area Team Elections - Voting is open!](https://discourse.llvm.org/t/2026-llvm-community-area-team-elections-voting-is-open/89586#post_3)
 <!-- DISCOURSE-LLVM:END -->
