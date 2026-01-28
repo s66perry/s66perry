@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PGO] Crash while collecting profile with instrumented binary for PGO](https://discourse.llvm.org/t/pgo-crash-while-collecting-profile-with-instrumented-binary-for-pgo/89529#post_8)
-- [Would it be helpful to add tracking of volatile in SequenceChecker?](https://discourse.llvm.org/t/would-it-be-helpful-to-add-tracking-of-volatile-in-sequencechecker/89576#post_2)
-- [A problem about gpu dialect program](https://discourse.llvm.org/t/a-problem-about-gpu-dialect-program/89606#post_2)
-- [Create GitHub teams for Clang Scalable Static Analysis Framework &lpar;SSAF&rpar;](https://discourse.llvm.org/t/create-github-teams-for-clang-scalable-static-analysis-framework-ssaf/89592#post_3)
-- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591#post_12)
+- [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_13)
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_85)
+- [Loop Unrolling in LoopVectorize Vs LoopUnrollPass](https://discourse.llvm.org/t/loop-unrolling-in-loopvectorize-vs-loopunrollpass/78480#post_4)
+- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_6)
+- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_5)
 <!-- DISCOURSE-LLVM:END -->
