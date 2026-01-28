@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_2)
-- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_7)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_1)
-- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591#post_14)
-- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591#post_13)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_5)
+- [RISC-V LLVM sync-up call January 29th 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-january-29th-2026/89616#post_1)
+- [[RFC] Automatic static promotion of large local variables in Flang](https://discourse.llvm.org/t/rfc-automatic-static-promotion-of-large-local-variables-in-flang/89539#post_14)
+- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_8)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_4)
 <!-- DISCOURSE-LLVM:END -->
