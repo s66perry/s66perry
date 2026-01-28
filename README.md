@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Automatic static promotion of large local variables in Flang](https://discourse.llvm.org/t/rfc-automatic-static-promotion-of-large-local-variables-in-flang/89539#post_13)
+- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_6)
+- [[RFC] Automatic static promotion of large local variables in Flang](https://discourse.llvm.org/t/rfc-automatic-static-promotion-of-large-local-variables-in-flang/89539#post_12)
 - [[RFC] What to do regarding the Flang Call Notes document](https://discourse.llvm.org/t/rfc-what-to-do-regarding-the-flang-call-notes-document/89450#post_13)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_85)
-- [Loop Unrolling in LoopVectorize Vs LoopUnrollPass](https://discourse.llvm.org/t/loop-unrolling-in-loopvectorize-vs-loopunrollpass/78480#post_4)
-- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_6)
-- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_5)
 <!-- DISCOURSE-LLVM:END -->
