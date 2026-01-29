@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Beijing LLVM Meetup](https://discourse.llvm.org/t/beijing-llvm-meetup/89619#post_1)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=2#post_22)
 - [[RFC] Automatic static promotion of large local variables in Flang](https://discourse.llvm.org/t/rfc-automatic-static-promotion-of-large-local-variables-in-flang/89539#post_15)
 - [A problem about gpu dialect program](https://discourse.llvm.org/t/a-problem-about-gpu-dialect-program/89606#post_4)
 - [Should &lt;stacktrace&gt; provide &lt;string&gt;?](https://discourse.llvm.org/t/should-stacktrace-provide-string/89605#post_2)
-- [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_8)
-- [[RFC] Avoid Functions Like &lt;foo&gt;.llvm.&lt;...&gt;&lpar;&rpar; For Kernel Live Patch](https://discourse.llvm.org/t/rfc-avoid-functions-like-foo-llvm-for-kernel-live-patch/89400?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
