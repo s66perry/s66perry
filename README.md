@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there a possibility to instruct newer llc accept ptrauth wrappers in llvm.ptrauth sections?](https://discourse.llvm.org/t/is-there-a-possibility-to-instruct-newer-llc-accept-ptrauth-wrappers-in-llvm-ptrauth-sections/89516#post_3)
+- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_7)
+- [A problem about gpu dialect program](https://discourse.llvm.org/t/a-problem-about-gpu-dialect-program/89606#post_3)
+- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_9)
 - [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_11)
-- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_11)
-- [[libc++][RFC] Supporting the Clang [[nonblocking]] attribute](https://discourse.llvm.org/t/libc-rfc-supporting-the-clang-nonblocking-attribute/89582#post_7)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_16)
-- [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_7)
 <!-- DISCOURSE-LLVM:END -->
