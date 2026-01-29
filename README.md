@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Decimal floating-point support &lpar;ISO/IEC TS 18661-2 and C23&rpar;](https://discourse.llvm.org/t/rfc-decimal-floating-point-support-iso-iec-ts-18661-2-and-c23/62152#post_11)
+- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_11)
+- [[libc++][RFC] Supporting the Clang [[nonblocking]] attribute](https://discourse.llvm.org/t/libc-rfc-supporting-the-clang-nonblocking-attribute/89582#post_7)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_16)
 - [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_7)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_15)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_14)
-- [Create GitHub teams for Clang Scalable Static Analysis Framework &lpar;SSAF&rpar;](https://discourse.llvm.org/t/create-github-teams-for-clang-scalable-static-analysis-framework-ssaf/89592#post_6)
-- [Create GitHub teams for Clang Scalable Static Analysis Framework &lpar;SSAF&rpar;](https://discourse.llvm.org/t/create-github-teams-for-clang-scalable-static-analysis-framework-ssaf/89592#post_5)
 <!-- DISCOURSE-LLVM:END -->
