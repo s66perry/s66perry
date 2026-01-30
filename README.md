@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_24)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_23)
 - [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_22)
 - [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_21)
 - [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_20)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608#post_19)
-- [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_9)
 <!-- DISCOURSE-LLVM:END -->
