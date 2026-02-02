@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_9)
-- [Should &lt;stacktrace&gt; provide &lt;string&gt;?](https://discourse.llvm.org/t/should-stacktrace-provide-string/89605#post_3)
-- [[RFC] Allow Custom Element Types in `DenseElementAttr`](https://discourse.llvm.org/t/rfc-allow-custom-element-types-in-denseelementattr/89656#post_1)
-- [[RFC] Upstreaming llvm-ub-aware-interpreter](https://discourse.llvm.org/t/rfc-upstreaming-llvm-ub-aware-interpreter/89645#post_11)
-- [Running distributed thinLTO without thin archives.](https://discourse.llvm.org/t/running-distributed-thinlto-without-thin-archives/52261#post_7)
+- [[GSoC 2026] Participating in Upstreaming -fbounds-safety](https://discourse.llvm.org/t/gsoc-2026-participating-in-upstreaming-fbounds-safety/89649#post_2)
+- [[RFC] [OpenMP] Alloca placement for OpenMP loop wrappers](https://discourse.llvm.org/t/rfc-openmp-alloca-placement-for-openmp-loop-wrappers/89512#post_9)
+- [Padding for minimum function size](https://discourse.llvm.org/t/padding-for-minimum-function-size/89658#post_1)
+- [[libc++][RFC] Supporting the Clang [[nonblocking]] attribute](https://discourse.llvm.org/t/libc-rfc-supporting-the-clang-nonblocking-attribute/89582#post_10)
+- [Should &lt;stacktrace&gt; provide &lt;string&gt;?](https://discourse.llvm.org/t/should-stacktrace-provide-string/89605#post_5)
 <!-- DISCOURSE-LLVM:END -->
