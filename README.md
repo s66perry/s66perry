@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Support of Renesas V850* architecture](https://discourse.llvm.org/t/support-of-renesas-v850-architecture/89333#post_9)
+- [FOSDEM 2026 LLVM dev room program is published](https://discourse.llvm.org/t/fosdem-2026-llvm-dev-room-program-is-published/89162#post_2)
+- [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_10)
 - [[RFC][PTX]LLVM CFG feature for pure PTX instructions](https://discourse.llvm.org/t/rfc-ptx-llvm-cfg-feature-for-pure-ptx-instructions/89556#post_7)
 - [MLIR C/C++ Frontend Working Group [Mon, Feb 2nd]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-feb-2nd/89650#post_1)
-- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623#post_2)
-- [[RFC] Upstreaming llvm-ub-aware-interpreter](https://discourse.llvm.org/t/rfc-upstreaming-llvm-ub-aware-interpreter/89645#post_10)
-- [[GSoC 2026] Participating in Upstreaming -fbounds-safety](https://discourse.llvm.org/t/gsoc-2026-participating-in-upstreaming-fbounds-safety/89649#post_1)
 <!-- DISCOURSE-LLVM:END -->
