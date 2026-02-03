@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Warning suppression policy](https://discourse.llvm.org/t/rfc-warning-suppression-policy/89676#post_3)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_8)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_7)
-- [How to add a register only custom datatype](https://discourse.llvm.org/t/how-to-add-a-register-only-custom-datatype/89680#post_1)
-- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_2)
+- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897?page=2#post_24)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_10)
+- [[RFC] Allow Custom Element Types in `DenseElementAttr`](https://discourse.llvm.org/t/rfc-allow-custom-element-types-in-denseelementattr/89656#post_8)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_9)
+- [[RFC] Warning suppression policy](https://discourse.llvm.org/t/rfc-warning-suppression-policy/89676#post_4)
 <!-- DISCOURSE-LLVM:END -->
