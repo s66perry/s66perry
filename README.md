@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Israel LLVM Meetup Group - February 18th 2026](https://discourse.llvm.org/t/israel-llvm-meetup-group-february-18th-2026/89673#post_1)
 - [IR Outliner Status/Interest](https://discourse.llvm.org/t/ir-outliner-status-interest/89672#post_1)
 - [Performance impact of `_LIBCPP_ABI_BOUNDED_ITERATORS`](https://discourse.llvm.org/t/performance-impact-of-libcpp-abi-bounded-iterators/89671#post_2)
 - [Performance impact of `_LIBCPP_ABI_BOUNDED_ITERATORS`](https://discourse.llvm.org/t/performance-impact-of-libcpp-abi-bounded-iterators/89671#post_1)
 - [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_89)
-- [[RFC] LLD: Preferring small code model COMDAT sections over large ones when mixing code models](https://discourse.llvm.org/t/rfc-lld-preferring-small-code-model-comdat-sections-over-large-ones-when-mixing-code-models/89550#post_18)
 <!-- DISCOURSE-LLVM:END -->
