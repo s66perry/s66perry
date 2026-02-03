@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Improving performance of multiple threads stepping over the same breakpoint](https://discourse.llvm.org/t/improving-performance-of-multiple-threads-stepping-over-the-same-breakpoint/89637#post_2)
-- [[RFC] Allow Custom Element Types in `DenseElementAttr`](https://discourse.llvm.org/t/rfc-allow-custom-element-types-in-denseelementattr/89656#post_3)
-- [[RFC] Automated Pipeline Reduction Tool for CodeGen &lpar;Backend&rpar;](https://discourse.llvm.org/t/rfc-automated-pipeline-reduction-tool-for-codegen-backend/89632#post_11)
-- [How to lower linalg.mmt4d to arm_sme fmopa](https://discourse.llvm.org/t/how-to-lower-linalg-mmt4d-to-arm-sme-fmopa/89391#post_10)
-- [[RFC] Allow Custom Element Types in `DenseElementAttr`](https://discourse.llvm.org/t/rfc-allow-custom-element-types-in-denseelementattr/89656#post_2)
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_89)
+- [[RFC] LLD: Preferring small code model COMDAT sections over large ones when mixing code models](https://discourse.llvm.org/t/rfc-lld-preferring-small-code-model-comdat-sections-over-large-ones-when-mixing-code-models/89550#post_18)
+- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530#post_6)
+- [[GSoC 2026][libc] Use LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/gsoc-2026-libc-use-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89648#post_5)
+- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_1)
 <!-- DISCOURSE-LLVM:END -->
