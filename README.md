@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_15)
-- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_2)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_14)
-- [Padding for minimum function size](https://discourse.llvm.org/t/padding-for-minimum-function-size/89658#post_5)
-- [[RFC] Allow Custom Element Types in `DenseElementAttr`](https://discourse.llvm.org/t/rfc-allow-custom-element-types-in-denseelementattr/89656#post_10)
+- [[CIRCT] Dialect `ltl&#39; not found for custom op &#39;ltl.eventually&#39;](https://discourse.llvm.org/t/circt-dialect-ltl-not-found-for-custom-op-ltl-eventually/89621#post_3)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_19)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_18)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678#post_17)
+- [Suspicious usages of `std::reverse_iterator` and associated LLVM build failures with GCC 15.2.1](https://discourse.llvm.org/t/suspicious-usages-of-std-reverse-iterator-and-associated-llvm-build-failures-with-gcc-15-2-1/89426#post_5)
 <!-- DISCOURSE-LLVM:END -->
