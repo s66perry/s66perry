@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_3)
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_2)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_34)
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897?page=2#post_25)
-- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591#post_18)
+- [[RFC] Revival of numerical sanitizer](https://discourse.llvm.org/t/rfc-revival-of-numerical-sanitizer/79601#post_6)
+- [Suspicious usages of `std::reverse_iterator` and associated LLVM build failures with GCC 15.2.1](https://discourse.llvm.org/t/suspicious-usages-of-std-reverse-iterator-and-associated-llvm-build-failures-with-gcc-15-2-1/89426#post_8)
+- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897?page=2#post_26)
+- [RFC: Label for coordinating post-commit reviews](https://discourse.llvm.org/t/rfc-label-for-coordinating-post-commit-reviews/89665#post_9)
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_92)
 <!-- DISCOURSE-LLVM:END -->
