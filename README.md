@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Label for coordinating post-commit reviews](https://discourse.llvm.org/t/rfc-label-for-coordinating-post-commit-reviews/89665#post_7)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_26)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_25)
-- [[RFC] Policy for Doxygen comments in LLDB](https://discourse.llvm.org/t/rfc-policy-for-doxygen-comments-in-lldb/89675#post_6)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_24)
+- [IR Outliner Status/Interest](https://discourse.llvm.org/t/ir-outliner-status-interest/89672#post_6)
+- [IR Outliner Status/Interest](https://discourse.llvm.org/t/ir-outliner-status-interest/89672#post_5)
+- [[RFC] LLD: Preferring small code model COMDAT sections over large ones when mixing code models](https://discourse.llvm.org/t/rfc-lld-preferring-small-code-model-comdat-sections-over-large-ones-when-mixing-code-models/89550#post_19)
+- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_10)
+- [[GSoC 2026] Enable clangd support for HLSL](https://discourse.llvm.org/t/gsoc-2026-enable-clangd-support-for-hlsl/89664#post_2)
 <!-- DISCOURSE-LLVM:END -->
