@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: SSAF Entity Linker](https://discourse.llvm.org/t/rfc-ssaf-entity-linker/89593#post_5)
+- [RFC: SSAF Entity Linker](https://discourse.llvm.org/t/rfc-ssaf-entity-linker/89593#post_4)
+- [RFC: SSAF Entity Linker](https://discourse.llvm.org/t/rfc-ssaf-entity-linker/89593#post_3)
 - [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591#post_20)
 - [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897?page=2#post_31)
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_5)
-- [[RFC] Policy for Doxygen comments in LLDB](https://discourse.llvm.org/t/rfc-policy-for-doxygen-comments-in-lldb/89675#post_9)
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
