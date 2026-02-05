@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Project Council Meeting Notes - February 4, 2026](https://discourse.llvm.org/t/llvm-project-council-meeting-notes-february-4-2026/89715#post_1)
-- [Semantics of llvm.loop.parallel_accesses and interaction with alloca](https://discourse.llvm.org/t/semantics-of-llvm-loop-parallel-accesses-and-interaction-with-alloca/89714#post_2)
-- [[ORCJIT] Seeing Sporadic &quot;IMAGE_REL_AMD64_ADDR32NB ...&quot; Error](https://discourse.llvm.org/t/orcjit-seeing-sporadic-image-rel-amd64-addr32nb-error/89634#post_3)
-- [[RFC] Revival of numerical sanitizer](https://discourse.llvm.org/t/rfc-revival-of-numerical-sanitizer/79601#post_8)
-- [Semantics of llvm.loop.parallel_accesses and interaction with alloca](https://discourse.llvm.org/t/semantics-of-llvm-loop-parallel-accesses-and-interaction-with-alloca/89714#post_1)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_10)
+- [[RFC] Allow Custom Element Types in `DenseElementAttr`](https://discourse.llvm.org/t/rfc-allow-custom-element-types-in-denseelementattr/89656#post_16)
+- [[RFC] Policy for Doxygen comments](https://discourse.llvm.org/t/rfc-policy-for-doxygen-comments/89675#post_11)
+- [Failed to legalize operation &#39;seq.firmem&#39;](https://discourse.llvm.org/t/failed-to-legalize-operation-seq-firmem/89717#post_1)
+- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_4)
 <!-- DISCOURSE-LLVM:END -->
