@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_93)
+- [Getting the final tokens a macro expands into](https://discourse.llvm.org/t/getting-the-final-tokens-a-macro-expands-into/89721#post_5)
 - [Registration for EuroLLVM: workshops and discounts](https://discourse.llvm.org/t/registration-for-eurollvm-workshops-and-discounts/89731#post_4)
 - [Registration for EuroLLVM: workshops and discounts](https://discourse.llvm.org/t/registration-for-eurollvm-workshops-and-discounts/89731#post_3)
 - [Registration for EuroLLVM: workshops and discounts](https://discourse.llvm.org/t/registration-for-eurollvm-workshops-and-discounts/89731#post_2)
-- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897?page=2#post_32)
-- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
