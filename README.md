@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_12)
-- [Failed to legalize operation &#39;seq.firmem&#39;](https://discourse.llvm.org/t/failed-to-legalize-operation-seq-firmem/89717#post_2)
-- [[GSoC 2026] Enable clangd support for HLSL](https://discourse.llvm.org/t/gsoc-2026-enable-clangd-support-for-hlsl/89664#post_3)
-- [Custom &quot;synthetic&quot; stack frames](https://discourse.llvm.org/t/custom-synthetic-stack-frames/77602#post_11)
-- [[RFC] Clang warnings behave inconsistently between tidy and &quot;plain&quot; clang](https://discourse.llvm.org/t/rfc-clang-warnings-behave-inconsistently-between-tidy-and-plain-clang/89720#post_2)
+- [Clarifying non-trivial post-commit review practices](https://discourse.llvm.org/t/clarifying-non-trivial-post-commit-review-practices/89724#post_4)
+- [Clarifying non-trivial post-commit review practices](https://discourse.llvm.org/t/clarifying-non-trivial-post-commit-review-practices/89724#post_3)
+- [2026 EuroLLVM Developers&#39; Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725#post_1)
+- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_35)
+- [Clarifying non-trivial post-commit review practices](https://discourse.llvm.org/t/clarifying-non-trivial-post-commit-review-practices/89724#post_2)
 <!-- DISCOURSE-LLVM:END -->
