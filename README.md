@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159?page=2#post_29)
+- [[GSoC 2026] Participating in Upstreaming -fbounds-safety](https://discourse.llvm.org/t/gsoc-2026-participating-in-upstreaming-fbounds-safety/89649#post_3)
+- [[RFC] Semantics of `vector.gather` Indices with Strided MemRefs](https://discourse.llvm.org/t/rfc-semantics-of-vector-gather-indices-with-strided-memrefs/89722#post_6)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_13)
 - [Registration for EuroLLVM: workshops and discounts](https://discourse.llvm.org/t/registration-for-eurollvm-workshops-and-discounts/89731#post_7)
-- [[RFC] Automated Pipeline Reduction Tool for CodeGen &lpar;Backend&rpar;](https://discourse.llvm.org/t/rfc-automated-pipeline-reduction-tool-for-codegen-backend/89632#post_12)
-- [Registration for EuroLLVM: workshops and discounts](https://discourse.llvm.org/t/registration-for-eurollvm-workshops-and-discounts/89731#post_6)
-- [Registration for EuroLLVM: workshops and discounts](https://discourse.llvm.org/t/registration-for-eurollvm-workshops-and-discounts/89731#post_5)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_93)
 <!-- DISCOURSE-LLVM:END -->
