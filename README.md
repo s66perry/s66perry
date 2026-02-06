@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[Kaleidoscope] Having problem implementing For loop](https://discourse.llvm.org/t/kaleidoscope-having-problem-implementing-for-loop/89726#post_1)
 - [Improving performance of multiple threads stepping over the same breakpoint](https://discourse.llvm.org/t/improving-performance-of-multiple-threads-stepping-over-the-same-breakpoint/89637#post_3)
 - [Clarifying non-trivial post-commit review practices](https://discourse.llvm.org/t/clarifying-non-trivial-post-commit-review-practices/89724#post_4)
 - [Clarifying non-trivial post-commit review practices](https://discourse.llvm.org/t/clarifying-non-trivial-post-commit-review-practices/89724#post_3)
 - [2026 EuroLLVM Developers&#39; Meeting - Agenda](https://discourse.llvm.org/t/2026-eurollvm-developers-meeting-agenda/89725#post_1)
-- [[RFC] Composable and Extensible Memory Cache Control Hints in LLVM IR](https://discourse.llvm.org/t/rfc-composable-and-extensible-memory-cache-control-hints-in-llvm-ir/89443?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
