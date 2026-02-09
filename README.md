@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Did someone at GitHub vibecode too much?](https://discourse.llvm.org/t/did-someone-at-github-vibecode-too-much/89753#post_2)
-- [What are the precise semantics of the address_space attribute?](https://discourse.llvm.org/t/what-are-the-precise-semantics-of-the-address-space-attribute/89752#post_2)
-- [Semantics of llvm.loop.parallel_accesses and interaction with alloca](https://discourse.llvm.org/t/semantics-of-llvm-loop-parallel-accesses-and-interaction-with-alloca/89714#post_6)
-- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530?page=2#post_21)
-- [&quot;error: Couldn&#39;t apply expression side effects : couldn&#39;t dematerialize register x0 without a stack frame&quot; in Python script context](https://discourse.llvm.org/t/error-couldnt-apply-expression-side-effects-couldnt-dematerialize-register-x0-without-a-stack-frame-in-python-script-context/89501#post_17)
+- [GitHub post-merge commit CI overview disappeared](https://discourse.llvm.org/t/github-post-merge-commit-ci-overview-disappeared/89753#post_6)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_15)
+- [[libc++][RFC] Supporting the Clang [[nonblocking]] attribute](https://discourse.llvm.org/t/libc-rfc-supporting-the-clang-nonblocking-attribute/89582#post_11)
+- [GitHub post-merge commit CI overview disappeared](https://discourse.llvm.org/t/github-post-merge-commit-ci-overview-disappeared/89753#post_5)
+- [GitHub post-merge commit CI overview disappeared](https://discourse.llvm.org/t/github-post-merge-commit-ci-overview-disappeared/89753#post_4)
 <!-- DISCOURSE-LLVM:END -->
