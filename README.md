@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_5)
-- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_4)
-- [How to go about adding llvm-specific clang-tidy checks?](https://discourse.llvm.org/t/how-to-go-about-adding-llvm-specific-clang-tidy-checks/89700#post_5)
-- [Stepping behavior with multiple threads](https://discourse.llvm.org/t/stepping-behavior-with-multiple-threads/89781#post_1)
-- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_3)
+- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_8)
+- [EuroLLVM 2026 MLIR Workshop](https://discourse.llvm.org/t/eurollvm-2026-mlir-workshop/89782#post_2)
+- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_7)
+- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_6)
+- [EuroLLVM 2026 MLIR Workshop](https://discourse.llvm.org/t/eurollvm-2026-mlir-workshop/89782#post_1)
 <!-- DISCOURSE-LLVM:END -->
