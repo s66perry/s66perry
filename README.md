@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_8)
-- [EuroLLVM 2026 MLIR Workshop](https://discourse.llvm.org/t/eurollvm-2026-mlir-workshop/89782#post_2)
-- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_7)
-- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_6)
-- [EuroLLVM 2026 MLIR Workshop](https://discourse.llvm.org/t/eurollvm-2026-mlir-workshop/89782#post_1)
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_5)
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_4)
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_3)
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_2)
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_1)
 <!-- DISCOURSE-LLVM:END -->
