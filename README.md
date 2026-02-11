@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_12)
+- [[RFC][Tutorial] A beginner-friendly end-to-end MLIR compiler pipeline](https://discourse.llvm.org/t/rfc-tutorial-a-beginner-friendly-end-to-end-mlir-compiler-pipeline/89788#post_2)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_20)
+- [[RFC][Tutorial] A beginner-friendly end-to-end MLIR compiler pipeline](https://discourse.llvm.org/t/rfc-tutorial-a-beginner-friendly-end-to-end-mlir-compiler-pipeline/89788#post_1)
 - [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692#post_19)
-- [[RFC][DebugInfo] Mitigating Non-Deterministic DWP Overflow](https://discourse.llvm.org/t/rfc-debuginfo-mitigating-non-deterministic-dwp-overflow/89587#post_4)
-- [[RFC] Add a New Byte Type to LLVM IR](https://discourse.llvm.org/t/rfc-add-a-new-byte-type-to-llvm-ir/89522?page=3#post_52)
-- [[Funded PhD] Intelligent Compilation Infrastructure for Scientific Simulation &lpar;LLVM/MLIR/HPC&rpar; @ UTS, Sydney](https://discourse.llvm.org/t/funded-phd-intelligent-compilation-infrastructure-for-scientific-simulation-llvm-mlir-hpc-uts-sydney/89787#post_1)
-- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_11)
 <!-- DISCOURSE-LLVM:END -->
