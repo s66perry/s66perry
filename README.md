@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Runtime for Parameterized Derived Types with LEN type parameters](https://discourse.llvm.org/t/rfc-runtime-for-parameterized-derived-types-with-len-type-parameters/89796#post_10)
+- [2026 EuroLLVM - Looking for 11 more Mentors](https://discourse.llvm.org/t/2026-eurollvm-looking-for-11-more-mentors/89810#post_1)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_61)
+- [Make hlfir.forall can contain PureOp](https://discourse.llvm.org/t/make-hlfir-forall-can-contain-pureop/89805#post_3)
 - [Make hlfir.forall can contain PureOp](https://discourse.llvm.org/t/make-hlfir-forall-can-contain-pureop/89805#post_2)
-- [[RFC][Tutorial] A beginner-friendly end-to-end MLIR compiler pipeline](https://discourse.llvm.org/t/rfc-tutorial-a-beginner-friendly-end-to-end-mlir-compiler-pipeline/89788#post_5)
-- [[RFC] Runtime for Parameterized Derived Types with LEN type parameters](https://discourse.llvm.org/t/rfc-runtime-for-parameterized-derived-types-with-len-type-parameters/89796#post_9)
-- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_18)
-- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_17)
 <!-- DISCOURSE-LLVM:END -->
