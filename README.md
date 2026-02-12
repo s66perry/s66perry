@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_19)
+- [GitHub post-merge commit CI overview disappeared](https://discourse.llvm.org/t/github-post-merge-commit-ci-overview-disappeared/89753#post_17)
+- [Minimum macOS deployment target increases to 11.0 in v22.1; visibility/discussion on update policy](https://discourse.llvm.org/t/minimum-macos-deployment-target-increases-to-11-0-in-v22-1-visibility-discussion-on-update-policy/89751#post_2)
+- [GitHub post-merge commit CI overview disappeared](https://discourse.llvm.org/t/github-post-merge-commit-ci-overview-disappeared/89753#post_16)
 - [[RFC] Proposed wording for a description of Flang for the LLVM home page](https://discourse.llvm.org/t/rfc-proposed-wording-for-a-description-of-flang-for-the-llvm-home-page/89794#post_5)
-- [[MLIR][Concept] &quot;SSA CFG Region&quot; vs &quot;Graph Region&quot;](https://discourse.llvm.org/t/mlir-concept-ssa-cfg-region-vs-graph-region/89802#post_4)
-- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_1)
-- [[RFC] Runtime for Parameterized Derived Types with LEN type parameters](https://discourse.llvm.org/t/rfc-runtime-for-parameterized-derived-types-with-len-type-parameters/89796#post_12)
-- [[RFC] Proposed wording for a description of Flang for the LLVM home page](https://discourse.llvm.org/t/rfc-proposed-wording-for-a-description-of-flang-for-the-llvm-home-page/89794#post_4)
 <!-- DISCOURSE-LLVM:END -->
