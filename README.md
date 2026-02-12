@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Runtime for Parameterized Derived Types with LEN type parameters](https://discourse.llvm.org/t/rfc-runtime-for-parameterized-derived-types-with-len-type-parameters/89796#post_4)
-- [What are the precise semantics of the address_space attribute?](https://discourse.llvm.org/t/what-are-the-precise-semantics-of-the-address-space-attribute/89752#post_6)
-- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785#post_16)
-- [[MLIR][Concept] &quot;SSA CFG Region&quot; vs &quot;Graph Region&quot;](https://discourse.llvm.org/t/mlir-concept-ssa-cfg-region-vs-graph-region/89802#post_1)
-- [RFC: SSAF Entity Linker](https://discourse.llvm.org/t/rfc-ssaf-entity-linker/89593#post_7)
+- [[RFC] Enhancements to Machine Outliner for iOS/AArch64](https://discourse.llvm.org/t/rfc-enhancements-to-machine-outliner-for-ios-aarch64/89807#post_2)
+- [[RFC] Enhancements to Machine Outliner for iOS/AArch64](https://discourse.llvm.org/t/rfc-enhancements-to-machine-outliner-for-ios-aarch64/89807#post_1)
+- [[GSoC 2026] Enable clangd support for HLSL](https://discourse.llvm.org/t/gsoc-2026-enable-clangd-support-for-hlsl/89664#post_7)
+- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_5)
+- [Make hlfir.forall can contain PureOp](https://discourse.llvm.org/t/make-hlfir-forall-can-contain-pureop/89805#post_1)
 <!-- DISCOURSE-LLVM:END -->
