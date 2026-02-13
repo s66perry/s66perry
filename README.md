@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[MLIR][Concept] &quot;SSA CFG Region&quot; vs &quot;Graph Region&quot;](https://discourse.llvm.org/t/mlir-concept-ssa-cfg-region-vs-graph-region/89802#post_6)
-- [Constructing Debug-Friendly Optimization Pipelines from Individual Pass Evaluation](https://discourse.llvm.org/t/constructing-debug-friendly-optimization-pipelines-from-individual-pass-evaluation/89189#post_10)
-- [[RFC] Support -fsplit-machine-functions on MachO &lpar;arm64&rpar;](https://discourse.llvm.org/t/rfc-support-fsplit-machine-functions-on-macho-arm64/89739#post_3)
-- [[Kaleidoscope] Having problem implementing For loop](https://discourse.llvm.org/t/kaleidoscope-having-problem-implementing-for-loop/89726#post_2)
-- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_2)
+- [PIP install `torch-mlir` downloads never-ending number of variations](https://discourse.llvm.org/t/pip-install-torch-mlir-downloads-never-ending-number-of-variations/78522#post_7)
+- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_4)
+- [RFC: Python callback for Source File Resolution](https://discourse.llvm.org/t/rfc-python-callback-for-source-file-resolution/83545?page=2#post_22)
+- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_3)
+- [About FlattenMemrefsPass](https://discourse.llvm.org/t/about-flattenmemrefspass/89770#post_3)
 <!-- DISCOURSE-LLVM:END -->
