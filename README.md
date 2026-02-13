@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm/clang compilation ram and time usage on Linux advise](https://discourse.llvm.org/t/llvm-clang-compilation-ram-and-time-usage-on-linux-advise/89825#post_3)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_88)
-- [[RFC] Support -fsplit-machine-functions on MachO &lpar;arm64&rpar;](https://discourse.llvm.org/t/rfc-support-fsplit-machine-functions-on-macho-arm64/89739#post_4)
-- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_7)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_87)
+- [Make hlfir.forall can contain PureOp](https://discourse.llvm.org/t/make-hlfir-forall-can-contain-pureop/89805#post_5)
+- [[RFC] Unified clang-tidy runner](https://discourse.llvm.org/t/rfc-unified-clang-tidy-runner/89822#post_3)
+- [Streaming basic support for accelerators](https://discourse.llvm.org/t/streaming-basic-support-for-accelerators/89827#post_1)
+- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_14)
+- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_10)
 <!-- DISCOURSE-LLVM:END -->
