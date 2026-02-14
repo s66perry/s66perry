@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_3)
+- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_2)
+- [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_14)
 - [Upstreaming basic support for accelerators](https://discourse.llvm.org/t/upstreaming-basic-support-for-accelerators/89827#post_2)
 - [2026 EuroLLVM - Looking for 11 more Mentors](https://discourse.llvm.org/t/2026-eurollvm-looking-for-11-more-mentors/89810#post_2)
-- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_16)
-- [Synthetic frame variables](https://discourse.llvm.org/t/synthetic-frame-variables/89585#post_15)
-- [2026 EuroLLVM - Early Bird Pricing Ends Soon](https://discourse.llvm.org/t/2026-eurollvm-early-bird-pricing-ends-soon/89831#post_1)
 <!-- DISCOURSE-LLVM:END -->
