@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828#post_7)
+- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_8)
+- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903#post_19)
 - [Generic Binary Condition Algorithm &lpar;Control Flow&rpar;](https://discourse.llvm.org/t/generic-binary-condition-algorithm-control-flow/89838#post_1)
 - [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_7)
-- [Llvm/clang compilation ram and time usage on Linux advise](https://discourse.llvm.org/t/llvm-clang-compilation-ram-and-time-usage-on-linux-advise/89825#post_4)
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828#post_6)
-- [How to lower tm_tensor.attention to linalg &lpar;linalg on tensors backends&rpar; by torch-mlir?](https://discourse.llvm.org/t/how-to-lower-tm-tensor-attention-to-linalg-linalg-on-tensors-backends-by-torch-mlir/89813#post_7)
 <!-- DISCOURSE-LLVM:END -->
