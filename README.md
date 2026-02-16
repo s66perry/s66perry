@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[MLIR][Concept] &quot;SSA CFG Region&quot; vs &quot;Graph Region&quot;](https://discourse.llvm.org/t/mlir-concept-ssa-cfg-region-vs-graph-region/89802#post_8)
+- [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760#post_15)
+- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_4)
+- [Canonicalization in MLIR](https://discourse.llvm.org/t/canonicalization-in-mlir/89841#post_1)
 - [Lead Maintainer for libclc](https://discourse.llvm.org/t/lead-maintainer-for-libclc/89821#post_3)
-- [[MLIR][Concept] &quot;Inherent Attribute&quot; vs &quot;Discardable Attribute&quot; and &quot;Property&quot;](https://discourse.llvm.org/t/mlir-concept-inherent-attribute-vs-discardable-attribute-and-property/89840#post_2)
-- [[clang][GSoC 2026] Incremental build support for the modules driver](https://discourse.llvm.org/t/clang-gsoc-2026-incremental-build-support-for-the-modules-driver/89667#post_4)
-- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_12)
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828#post_12)
 <!-- DISCOURSE-LLVM:END -->
