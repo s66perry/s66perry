@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there a way to externalize weights in torch-mlir output?](https://discourse.llvm.org/t/is-there-a-way-to-externalize-weights-in-torch-mlir-output/89842#post_3)
+- [Canonicalization in MLIR](https://discourse.llvm.org/t/canonicalization-in-mlir/89841#post_4)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_8)
 - [Is there a way to externalize weights in torch-mlir output?](https://discourse.llvm.org/t/is-there-a-way-to-externalize-weights-in-torch-mlir-output/89842#post_2)
 - [Canonicalization in MLIR](https://discourse.llvm.org/t/canonicalization-in-mlir/89841#post_3)
-- [Canonicalization in MLIR](https://discourse.llvm.org/t/canonicalization-in-mlir/89841#post_2)
-- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_5)
-- [Is there a way to externalize weights in torch-mlir output?](https://discourse.llvm.org/t/is-there-a-way-to-externalize-weights-in-torch-mlir-output/89842#post_1)
 <!-- DISCOURSE-LLVM:END -->
