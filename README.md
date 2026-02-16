@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Weekly - #633, February 16th 2026](https://discourse.llvm.org/t/llvm-weekly-633-february-16th-2026/89844#post_2)
+- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_5)
+- [[MLIR][Concept] &quot;SSA CFG Region&quot; vs &quot;Graph Region&quot;](https://discourse.llvm.org/t/mlir-concept-ssa-cfg-region-vs-graph-region/89802#post_9)
+- [[MLIR][Concept] &quot;Inherent Attribute&quot; vs &quot;Discardable Attribute&quot; and &quot;Property&quot;](https://discourse.llvm.org/t/mlir-concept-inherent-attribute-vs-discardable-attribute-and-property/89840#post_3)
 - [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_10)
-- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687?page=3#post_49)
-- [LLVM Weekly - #633, February 16th 2026](https://discourse.llvm.org/t/llvm-weekly-633-february-16th-2026/89844#post_1)
-- [Community had less interest in 2026 Area Team elections?](https://discourse.llvm.org/t/community-had-less-interest-in-2026-area-team-elections/89779#post_9)
-- [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760#post_17)
 <!-- DISCOURSE-LLVM:END -->
