@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_11)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_55)
-- [[RFC] Cleaning the GPU dialect](https://discourse.llvm.org/t/rfc-cleaning-the-gpu-dialect/88170?page=3#post_54)
-- [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760#post_19)
-- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687?page=3#post_50)
+- [Upstreaming basic support for accelerators](https://discourse.llvm.org/t/upstreaming-basic-support-for-accelerators/89827#post_4)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_32)
+- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_15)
+- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_14)
+- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_13)
 <!-- DISCOURSE-LLVM:END -->
