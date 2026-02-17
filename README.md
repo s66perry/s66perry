@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_10)
 - [LLVM Bay Area Monthly Meetup &lpar;Mon Feb 16 ‘25 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-feb-16-25-6pm/89741#post_3)
 - [LLVM Weekly - #633, February 16th 2026](https://discourse.llvm.org/t/llvm-weekly-633-february-16th-2026/89844#post_2)
 - [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_5)
 - [[MLIR][Concept] &quot;SSA CFG Region&quot; vs &quot;Graph Region&quot;](https://discourse.llvm.org/t/mlir-concept-ssa-cfg-region-vs-graph-region/89802#post_9)
-- [[MLIR][Concept] &quot;Inherent Attribute&quot; vs &quot;Discardable Attribute&quot; and &quot;Property&quot;](https://discourse.llvm.org/t/mlir-concept-inherent-attribute-vs-discardable-attribute-and-property/89840#post_3)
 <!-- DISCOURSE-LLVM:END -->
