@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Side effects and mayLoad/mayStore in MachineIR](https://discourse.llvm.org/t/side-effects-and-mayload-maystore-in-machineir/89850#post_2)
-- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_19)
-- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_18)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_33)
-- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_17)
+- [Side effects and mayLoad/mayStore in MachineIR](https://discourse.llvm.org/t/side-effects-and-mayload-maystore-in-machineir/89850#post_6)
+- [Sphinx documentation stopped updating](https://discourse.llvm.org/t/sphinx-documentation-stopped-updating/89854#post_2)
+- [Side effects and mayLoad/mayStore in MachineIR](https://discourse.llvm.org/t/side-effects-and-mayload-maystore-in-machineir/89850#post_5)
+- [Sphinx documentation stopped updating](https://discourse.llvm.org/t/sphinx-documentation-stopped-updating/89854#post_1)
+- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_6)
 <!-- DISCOURSE-LLVM:END -->
