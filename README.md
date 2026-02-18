@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_20)
-- [Side effects and mayLoad/mayStore in MachineIR](https://discourse.llvm.org/t/side-effects-and-mayload-maystore-in-machineir/89850#post_8)
-- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_19)
-- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_18)
-- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525#post_17)
+- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525?page=2#post_23)
+- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_8)
+- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_7)
+- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525?page=2#post_22)
+- [DenseElementsAttr + i1 element type](https://discourse.llvm.org/t/denseelementsattr-i1-element-type/62525?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
