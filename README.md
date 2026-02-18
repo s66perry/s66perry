@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=2#post_28)
-- [PHINode logic question](https://discourse.llvm.org/t/phinode-logic-question/89871#post_1)
-- [Generic Binary Condition Algorithm &lpar;Control Flow&rpar;](https://discourse.llvm.org/t/generic-binary-condition-algorithm-control-flow/89838#post_3)
-- [[RFC] Adding conditional expressions in Flang &lpar;F2023&rpar;](https://discourse.llvm.org/t/rfc-adding-conditional-expressions-in-flang-f2023/89869#post_1)
-- [Which doc format to use? Inline Doxygen/rst/markdown](https://discourse.llvm.org/t/which-doc-format-to-use-inline-doxygen-rst-markdown/89867#post_4)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828#post_15)
+- [[RFC] In-process execution of LLVM tools](https://discourse.llvm.org/t/rfc-in-process-execution-of-llvm-tools/89826#post_2)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_36)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828#post_14)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_35)
 <!-- DISCOURSE-LLVM:END -->
