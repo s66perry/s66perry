@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530?page=2#post_30)
-- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811#post_16)
-- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530?page=2#post_29)
-- [Warnings in GPU to NVVM pipeline](https://discourse.llvm.org/t/warnings-in-gpu-to-nvvm-pipeline/89849#post_2)
-- [Side effects and mayLoad/mayStore in MachineIR](https://discourse.llvm.org/t/side-effects-and-mayload-maystore-in-machineir/89850#post_7)
+- [Infinite Loops and Dead Code](https://discourse.llvm.org/t/infinite-loops-and-dead-code/89530?page=2#post_31)
+- [Cambridge UK Social](https://discourse.llvm.org/t/cambridge-uk-social/89865#post_1)
+- [Bug in `OperationEquivalence` &lpar;breaks `-cse` on `linalg.index`&rpar;](https://discourse.llvm.org/t/bug-in-operationequivalence-breaks-cse-on-linalg-index/85773?page=3#post_51)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=2#post_23)
+- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687?page=3#post_55)
 <!-- DISCOURSE-LLVM:END -->
