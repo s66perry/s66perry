@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add SymbolLocator for Windows PDB Symbol Servers in LLDB](https://discourse.llvm.org/t/rfc-add-symbollocator-for-windows-pdb-symbol-servers-in-lldb/89877#post_11)
-- [[RFC] Regarding the current status of HICPP checks](https://discourse.llvm.org/t/rfc-regarding-the-current-status-of-hicpp-checks/89883#post_1)
-- [[RFC] Function specialization under programmer control, very like always_inline](https://discourse.llvm.org/t/rfc-function-specialization-under-programmer-control-very-like-always-inline/86851#post_17)
-- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_11)
-- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_10)
+- [[RFC] Add SymbolLocator for Windows PDB Symbol Servers in LLDB](https://discourse.llvm.org/t/rfc-add-symbollocator-for-windows-pdb-symbol-servers-in-lldb/89877#post_12)
+- [[ConstantFolding] Why are FP32 calls folded in double-precision?](https://discourse.llvm.org/t/constantfolding-why-are-fp32-calls-folded-in-double-precision/89878#post_3)
+- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885#post_1)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_25)
+- [[RFC] In-process execution of LLVM tools](https://discourse.llvm.org/t/rfc-in-process-execution-of-llvm-tools/89826#post_10)
 <!-- DISCOURSE-LLVM:END -->
