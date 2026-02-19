@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_21)
-- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_3)
-- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_2)
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828#post_20)
-- [[GSoC 2026] Improving Clang-Doc](https://discourse.llvm.org/t/gsoc-2026-improving-clang-doc/89662#post_10)
+- [[RFC] In-process execution of LLVM tools](https://discourse.llvm.org/t/rfc-in-process-execution-of-llvm-tools/89826#post_5)
+- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_5)
+- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=3#post_43)
+- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_4)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
