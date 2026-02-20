@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Markdown support in ASTComment](https://discourse.llvm.org/t/markdown-support-in-astcomment/89893#post_1)
+- [MLIR Sparsifier GSOC Project](https://discourse.llvm.org/t/mlir-sparsifier-gsoc-project/89894#post_1)
+- [PDX Area February 2026 social](https://discourse.llvm.org/t/pdx-area-february-2026-social/89743#post_2)
+- [[GSoC 2026] Enable clangd support for HLSL](https://discourse.llvm.org/t/gsoc-2026-enable-clangd-support-for-hlsl/89664#post_10)
+- [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_1)
 - [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_29)
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_28)
-- [RFC: Shorten long register/sub-register index names](https://discourse.llvm.org/t/rfc-shorten-long-register-sub-register-index-names/89888#post_7)
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
