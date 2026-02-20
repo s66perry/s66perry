@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Web &quot;FIR Language Reference&quot; out of sync with FIRLangRef.md?](https://discourse.llvm.org/t/web-fir-language-reference-out-of-sync-with-firlangref-md/89905#post_1)
+- [[RFC] Android support in LLDB-DAP VS Code extension](https://discourse.llvm.org/t/rfc-android-support-in-lldb-dap-vs-code-extension/89903#post_1)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_31)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_30)
 - [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_2)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_12)
-- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_8)
-- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_7)
-- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_6)
 <!-- DISCOURSE-LLVM:END -->
