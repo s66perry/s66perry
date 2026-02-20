@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [MLIR Sparsifier GSOC Project](https://discourse.llvm.org/t/mlir-sparsifier-gsoc-project/89894#post_2)
+- [Board Meeting Minutes -- Nov 7, 2025](https://discourse.llvm.org/t/board-meeting-minutes-nov-7-2025/89890#post_2)
+- [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_6)
 - [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_5)
 - [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_4)
-- [Help needed with clangd maintenance](https://discourse.llvm.org/t/help-needed-with-clangd-maintenance/89820#post_20)
-- [Web &quot;FIR Language Reference&quot; out of sync with FIRLangRef.md?](https://discourse.llvm.org/t/web-fir-language-reference-out-of-sync-with-firlangref-md/89905#post_2)
-- [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_3)
 <!-- DISCOURSE-LLVM:END -->
