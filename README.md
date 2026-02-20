@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_8)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_54)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_53)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_52)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_51)
+- [Running a single test - clangd](https://discourse.llvm.org/t/running-a-single-test-clangd/89887#post_2)
+- [[RFC] Regarding the current status of HICPP checks](https://discourse.llvm.org/t/rfc-regarding-the-current-status-of-hicpp-checks/89883#post_2)
+- [[RFC] Add SymbolLocator for Windows PDB Symbol Servers in LLDB](https://discourse.llvm.org/t/rfc-add-symbollocator-for-windows-pdb-symbol-servers-in-lldb/89877#post_15)
+- [[GSoC 2026][libc] Enable float80 and float128 Math Support on Unsupported Targets for LLVM libc](https://discourse.llvm.org/t/gsoc-2026-libc-enable-float80-and-float128-math-support-on-unsupported-targets-for-llvm-libc/89647#post_5)
+- [[RFC] Add SymbolLocator for Windows PDB Symbol Servers in LLDB](https://discourse.llvm.org/t/rfc-add-symbollocator-for-windows-pdb-symbol-servers-in-lldb/89877#post_14)
 <!-- DISCOURSE-LLVM:END -->
