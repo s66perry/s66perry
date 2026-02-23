@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[GSoC 2026][libc] Enable float80 and float128 Math Support on Unsupported Targets for LLVM libc](https://discourse.llvm.org/t/gsoc-2026-libc-enable-float80-and-float128-math-support-on-unsupported-targets-for-llvm-libc/89647#post_7)
-- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885#post_5)
-- [[RFC][TableGen] Add let append/prepend syntax for field concatenation](https://discourse.llvm.org/t/rfc-tablegen-add-let-append-prepend-syntax-for-field-concatenation/89924#post_2)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917#post_9)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917#post_8)
+- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_55)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Feb 26](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-feb-26/89928#post_1)
+- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885#post_7)
+- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917#post_10)
+- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_10)
 <!-- DISCOURSE-LLVM:END -->
