@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917#post_5)
+- [[RFC] Add SymbolLocator for Windows PDB Symbol Servers in LLDB](https://discourse.llvm.org/t/rfc-add-symbollocator-for-windows-pdb-symbol-servers-in-lldb/89877#post_17)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=2#post_31)
 - [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_9)
 - [[GSoC 2026][libc] Use LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/gsoc-2026-libc-use-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89648#post_7)
-- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_8)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917#post_4)
-- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_15)
 <!-- DISCOURSE-LLVM:END -->
