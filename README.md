@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Reviewer Coverage for LLDB RISC-V PRs](https://discourse.llvm.org/t/reviewer-coverage-for-lldb-risc-v-prs/89925#post_5)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_23)
+- [How to get correct TypeLoc SourceLocation for parameters in explicit template instantiation?](https://discourse.llvm.org/t/how-to-get-correct-typeloc-sourcelocation-for-parameters-in-explicit-template-instantiation/89946#post_1)
 - [Question about RiscVAsmPrinter](https://discourse.llvm.org/t/question-about-riscvasmprinter/89943#post_3)
 - [Question about RiscVAsmPrinter](https://discourse.llvm.org/t/question-about-riscvasmprinter/89943#post_2)
-- [Question about RiscVAsmPrinter](https://discourse.llvm.org/t/question-about-riscvasmprinter/89943#post_1)
-- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885#post_10)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_56)
 <!-- DISCOURSE-LLVM:END -->
