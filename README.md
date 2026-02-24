@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [tiny-gpu-compiler: An educational MLIR-based compiler targeting open-source GPU hardware](https://discourse.llvm.org/t/tiny-gpu-compiler-an-educational-mlir-based-compiler-targeting-open-source-gpu-hardware/89948#post_1)
 - [Deduce function pointer in template?](https://discourse.llvm.org/t/deduce-function-pointer-in-template/86708#post_4)
 - [How to get correct TypeLoc SourceLocation for parameters in explicit template instantiation?](https://discourse.llvm.org/t/how-to-get-correct-typeloc-sourcelocation-for-parameters-in-explicit-template-instantiation/89946#post_2)
 - [[GSoC 2026] Improving lit](https://discourse.llvm.org/t/gsoc-2026-improving-lit/89663#post_4)
 - [Reviewer Coverage for LLDB RISC-V PRs](https://discourse.llvm.org/t/reviewer-coverage-for-lldb-risc-v-prs/89925#post_5)
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
