@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[PSA] Bugpoint removal](https://discourse.llvm.org/t/psa-bugpoint-removal/89884#post_2)
-- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_16)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_14)
-- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_9)
-- [How to build *just* flang on macOS](https://discourse.llvm.org/t/how-to-build-just-flang-on-macos/89960#post_12)
+- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885#post_12)
+- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_15)
+- [[PSA] User Branches without a PR will soon be Deleted](https://discourse.llvm.org/t/psa-user-branches-without-a-pr-will-soon-be-deleted/89785?page=2#post_23)
+- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_10)
+- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885#post_11)
 <!-- DISCOURSE-LLVM:END -->
