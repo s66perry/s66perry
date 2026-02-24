@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917#post_14)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=2#post_30)
-- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_1)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=2#post_29)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917#post_13)
+- [[PSA] Bugpoint removal](https://discourse.llvm.org/t/psa-bugpoint-removal/89884#post_2)
+- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_16)
+- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913#post_14)
+- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_9)
+- [How to build *just* flang on macOS](https://discourse.llvm.org/t/how-to-build-just-flang-on-macos/89960#post_12)
 <!-- DISCOURSE-LLVM:END -->
