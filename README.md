@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][TableGen] Add let append/prepend syntax for field concatenation](https://discourse.llvm.org/t/rfc-tablegen-add-let-append-prepend-syntax-for-field-concatenation/89924#post_10)
+- [[RFC][TableGen] Add let append/prepend syntax for field concatenation](https://discourse.llvm.org/t/rfc-tablegen-add-let-append-prepend-syntax-for-field-concatenation/89924#post_9)
 - [LLVM 22.1.0 Released!](https://discourse.llvm.org/t/llvm-22-1-0-released/89950#post_2)
 - [LLVM 22.1.0 Released!](https://discourse.llvm.org/t/llvm-22-1-0-released/89950#post_1)
 - [Errors in building clangd from source](https://discourse.llvm.org/t/errors-in-building-clangd-from-source/89918#post_2)
-- [Simplification of switches](https://discourse.llvm.org/t/simplification-of-switches/89932#post_4)
-- [Simplification of switches](https://discourse.llvm.org/t/simplification-of-switches/89932#post_3)
 <!-- DISCOURSE-LLVM:END -->
