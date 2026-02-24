@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Should we bump the recommended black &lpar;python formatter&rpar; version?](https://discourse.llvm.org/t/should-we-bump-the-recommended-black-python-formatter-version/89959#post_2)
-- [Should we bump the recommended black &lpar;python formatter&rpar; version?](https://discourse.llvm.org/t/should-we-bump-the-recommended-black-python-formatter-version/89959#post_1)
-- [[Flang][Affine] Linearized array access in -promote-to-affine causes false dependence and blocks loop tiling](https://discourse.llvm.org/t/flang-affine-linearized-array-access-in-promote-to-affine-causes-false-dependence-and-blocks-loop-tiling/89927#post_3)
-- [[RFC] Regarding the current status of HICPP checks](https://discourse.llvm.org/t/rfc-regarding-the-current-status-of-hicpp-checks/89883#post_3)
-- [MLIR ExecutionContext vs custom action handler infrastructure](https://discourse.llvm.org/t/mlir-executioncontext-vs-custom-action-handler-infrastructure/89956#post_1)
+- [How to build *just* flang on macOS](https://discourse.llvm.org/t/how-to-build-just-flang-on-macos/89960#post_4)
+- [Errors in building clangd from source](https://discourse.llvm.org/t/errors-in-building-clangd-from-source/89918#post_4)
+- [Errors in building clangd from source](https://discourse.llvm.org/t/errors-in-building-clangd-from-source/89918#post_3)
+- [How to build *just* flang on macOS](https://discourse.llvm.org/t/how-to-build-just-flang-on-macos/89960#post_3)
+- [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
