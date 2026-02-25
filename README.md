@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Customize the RiscV ASM generation](https://discourse.llvm.org/t/customize-the-riscv-asm-generation/89970#post_2)
-- [Approaches to the inliner blowing up](https://discourse.llvm.org/t/approaches-to-the-inliner-blowing-up/89971#post_1)
-- [Customize the RiscV ASM generation](https://discourse.llvm.org/t/customize-the-riscv-asm-generation/89970#post_1)
-- [Should we bump the recommended black &lpar;python formatter&rpar; version?](https://discourse.llvm.org/t/should-we-bump-the-recommended-black-python-formatter-version/89959#post_10)
-- [[RFC] plan for eliminating `AllocaInst-&gt;getAllocatedType`, leaving only `getArraySize`](https://discourse.llvm.org/t/rfc-plan-for-eliminating-allocainst-getallocatedtype-leaving-only-getarraysize/89969#post_1)
+- [Is there a way to externalize weights in torch-mlir output?](https://discourse.llvm.org/t/is-there-a-way-to-externalize-weights-in-torch-mlir-output/89842#post_4)
+- [Customize the RiscV ASM generation](https://discourse.llvm.org/t/customize-the-riscv-asm-generation/89970#post_4)
+- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_9)
+- [Customize the RiscV ASM generation](https://discourse.llvm.org/t/customize-the-riscv-asm-generation/89970#post_3)
+- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
