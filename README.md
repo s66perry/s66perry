@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_15)
+- [[RFC] Proposed wording for a description of Flang for the LLVM home page](https://discourse.llvm.org/t/rfc-proposed-wording-for-a-description-of-flang-for-the-llvm-home-page/89794#post_15)
+- [[RFC] Proposed wording for a description of Flang for the LLVM home page](https://discourse.llvm.org/t/rfc-proposed-wording-for-a-description-of-flang-for-the-llvm-home-page/89794#post_14)
+- [[RFC] Proposed wording for a description of Flang for the LLVM home page](https://discourse.llvm.org/t/rfc-proposed-wording-for-a-description-of-flang-for-the-llvm-home-page/89794#post_13)
 - [[RFC] Proposed wording for a description of Flang for the LLVM home page](https://discourse.llvm.org/t/rfc-proposed-wording-for-a-description-of-flang-for-the-llvm-home-page/89794#post_12)
-- [Require Pull Requests for all CIRCT commits](https://discourse.llvm.org/t/require-pull-requests-for-all-circt-commits/89997#post_1)
-- [RFC: Enhancing function alignment attributes](https://discourse.llvm.org/t/rfc-enhancing-function-alignment-attributes/88019#post_14)
-- [[RFC] Clang warnings behave inconsistently between tidy and &quot;plain&quot; clang](https://discourse.llvm.org/t/rfc-clang-warnings-behave-inconsistently-between-tidy-and-plain-clang/89720#post_6)
-- [[RFC] Proposed wording for a description of Flang for the LLVM home page](https://discourse.llvm.org/t/rfc-proposed-wording-for-a-description-of-flang-for-the-llvm-home-page/89794#post_11)
 <!-- DISCOURSE-LLVM:END -->
