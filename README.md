@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [GSoC 2026: projects, proposals and other information](https://discourse.llvm.org/t/gsoc-2026-projects-proposals-and-other-information/89967#post_3)
+- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811?page=2#post_27)
 - [[RFC] Add SymbolLocator for Windows PDB Symbol Servers in LLDB](https://discourse.llvm.org/t/rfc-add-symbollocator-for-windows-pdb-symbol-servers-in-lldb/89877#post_18)
-- [[ClangIR] Build and run SingleSource benchmarks using ClangIR](https://discourse.llvm.org/t/clangir-build-and-run-singlesource-benchmarks-using-clangir/68473#post_3)
 - [[GSoC 2026] Enable clangd support for HLSL](https://discourse.llvm.org/t/gsoc-2026-enable-clangd-support-for-hlsl/89664#post_14)
 - [About inline asm instruction order](https://discourse.llvm.org/t/about-inline-asm-instruction-order/89977#post_2)
-- [Approaches to the inliner blowing up](https://discourse.llvm.org/t/approaches-to-the-inliner-blowing-up/89971#post_4)
 <!-- DISCOURSE-LLVM:END -->
