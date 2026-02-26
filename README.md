@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][MLIR] Introduce hoist-pure-ops pass](https://discourse.llvm.org/t/rfc-mlir-introduce-hoist-pure-ops-pass/88903?page=2#post_22)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917?page=2#post_23)
-- [[RFC] Hosting `large-bolt-tests` Under the LLVM Project](https://discourse.llvm.org/t/rfc-hosting-large-bolt-tests-under-the-llvm-project/89544#post_5)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917?page=2#post_22)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917?page=2#post_21)
+- [Q about `getSubClassWithSubReg` and `getSubRegisterClass`](https://discourse.llvm.org/t/q-about-getsubclasswithsubreg-and-getsubregisterclass/89830#post_15)
+- [`-ffp-contract=fast` Violates the Fortran Standard](https://discourse.llvm.org/t/ffp-contract-fast-violates-the-fortran-standard/88897?page=2#post_36)
+- [How to correctly lower gpu dialect to spirv?](https://discourse.llvm.org/t/how-to-correctly-lower-gpu-dialect-to-spirv/90006#post_2)
+- [RFC: Raise the minimum compiler requirements to move toward C++20](https://discourse.llvm.org/t/rfc-raise-the-minimum-compiler-requirements-to-move-toward-c-20/88894?page=2#post_27)
+- [How to correctly lower gpu dialect to spirv?](https://discourse.llvm.org/t/how-to-correctly-lower-gpu-dialect-to-spirv/90006#post_1)
 <!-- DISCOURSE-LLVM:END -->
