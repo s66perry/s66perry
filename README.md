@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Coro fails when dynamic allocas are inlined](https://discourse.llvm.org/t/coro-fails-when-dynamic-allocas-are-inlined/90009#post_1)
-- [[GSoC 2026] Enable clangd support for HLSL](https://discourse.llvm.org/t/gsoc-2026-enable-clangd-support-for-hlsl/89664#post_15)
-- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=3#post_51)
-- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=3#post_50)
-- [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=3#post_49)
+- [Flang Community Call - new meeting series effective March 11th](https://discourse.llvm.org/t/flang-community-call-new-meeting-series-effective-march-11th/90010#post_2)
+- [[GSoC 2026] Enable clangd support for HLSL](https://discourse.llvm.org/t/gsoc-2026-enable-clangd-support-for-hlsl/89664#post_16)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=2#post_37)
+- [LLVM 22.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-22-x-release-third-party-binaries/89477#post_4)
+- [Flang Community Call - new meeting series effective March 11th](https://discourse.llvm.org/t/flang-community-call-new-meeting-series-effective-march-11th/90010#post_1)
 <!-- DISCOURSE-LLVM:END -->
