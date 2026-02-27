@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917?page=2#post_26)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917?page=2#post_25)
-- [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_15)
-- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917?page=2#post_24)
-- [Why is there no way to specify that a 0-value shifted by more than its width is not poison?](https://discourse.llvm.org/t/why-is-there-no-way-to-specify-that-a-0-value-shifted-by-more-than-its-width-is-not-poison/90012#post_1)
+- [[RFC] Reject i0 integer type in arith and vector ops](https://discourse.llvm.org/t/rfc-reject-i0-integer-type-in-arith-and-vector-ops/90011#post_6)
+- [[RFC] Reject i0 integer type in arith and vector ops](https://discourse.llvm.org/t/rfc-reject-i0-integer-type-in-arith-and-vector-ops/90011#post_5)
+- [[RFC] Reject i0 integer type in arith and vector ops](https://discourse.llvm.org/t/rfc-reject-i0-integer-type-in-arith-and-vector-ops/90011#post_4)
+- [unable to launch a GDB server on &#39;localhost&#39;](https://discourse.llvm.org/t/unable-to-launch-a-gdb-server-on-localhost/79418#post_7)
+- [[RFC] Reject i0 integer type in arith and vector ops](https://discourse.llvm.org/t/rfc-reject-i0-integer-type-in-arith-and-vector-ops/90011#post_3)
 <!-- DISCOURSE-LLVM:END -->
