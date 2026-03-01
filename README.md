@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_90)
 - [MLIR Sparsifier GSOC Project](https://discourse.llvm.org/t/mlir-sparsifier-gsoc-project/89894#post_8)
 - [[RFC] Adding instructions to to carry GEP type traversal information](https://discourse.llvm.org/t/rfc-adding-instructions-to-to-carry-gep-type-traversal-information/88141?page=3#post_58)
 - [MLIR Sparsifier GSOC Project](https://discourse.llvm.org/t/mlir-sparsifier-gsoc-project/89894#post_7)
 - [MLIR Sparsifier GSOC Project](https://discourse.llvm.org/t/mlir-sparsifier-gsoc-project/89894#post_6)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_89)
 <!-- DISCOURSE-LLVM:END -->
