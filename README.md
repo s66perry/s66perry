@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Research Library - A place to watch ALL Dev Mtg talks, find papers, and more](https://discourse.llvm.org/t/llvm-research-library-a-place-to-watch-all-dev-mtg-talks-find-papers-and-more/90036#post_1)
+- [[RFC] Split BranchInst into UncondBr and CondBr](https://discourse.llvm.org/t/rfc-split-branchinst-into-uncondbr-and-condbr/90022#post_4)
+- [[GSoC 2026] [MLIR] Interest in MLIR Sparsifier for GSoC](https://discourse.llvm.org/t/gsoc-2026-mlir-interest-in-mlir-sparsifier-for-gsoc/89994#post_7)
 - [Web site refresh for libc.llvm.org](https://discourse.llvm.org/t/web-site-refresh-for-libc-llvm-org/90035#post_1)
 - [[RFC][DwarfDebug] Fix and improve handling imported entities, types and static local in subprogram and lexical block scopes](https://discourse.llvm.org/t/rfc-dwarfdebug-fix-and-improve-handling-imported-entities-types-and-static-local-in-subprogram-and-lexical-block-scopes/68544#post_14)
-- [LLVM Weekly - #635, March 2nd 2026](https://discourse.llvm.org/t/llvm-weekly-635-march-2nd-2026/90034#post_1)
-- [[GSoC Proposal Discussion 2026] Enable float80 and float128 support in LLVM libc](https://discourse.llvm.org/t/gsoc-proposal-discussion-2026-enable-float80-and-float128-support-in-llvm-libc/90033#post_1)
-- [[GSoC Proposal Discussion] Enable float80 and float128 support in LLVM libc](https://discourse.llvm.org/t/gsoc-proposal-discussion-enable-float80-and-float128-support-in-llvm-libc/90031#post_1)
 <!-- DISCOURSE-LLVM:END -->
