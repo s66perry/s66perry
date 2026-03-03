@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Eliminating an unused call if the func is pure](https://discourse.llvm.org/t/eliminating-an-unused-call-if-the-func-is-pure/90050#post_2)
-- [Cookiecutter template for out-of-tree MLIR optimizer projects](https://discourse.llvm.org/t/cookiecutter-template-for-out-of-tree-mlir-optimizer-projects/90049#post_2)
-- [[RFC] Add __int256/__uint256 builtin types to Clang](https://discourse.llvm.org/t/rfc-add-int256-uint256-builtin-types-to-clang/90048#post_5)
-- [[RFC][clang][libc] Extend the `ext_vector_type` attribute to support the scalable vector sizes](https://discourse.llvm.org/t/rfc-clang-libc-extend-the-ext-vector-type-attribute-to-support-the-scalable-vector-sizes/90043#post_8)
-- [[RFC][clang][libc] Extend the `ext_vector_type` attribute to support the scalable vector sizes](https://discourse.llvm.org/t/rfc-clang-libc-extend-the-ext-vector-type-attribute-to-support-the-scalable-vector-sizes/90043#post_7)
+- [GPU compiler engineer opportunity at Qualcomm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/gpu-compiler-engineer-opportunity-at-qualcomm-cambridge-uk/90051#post_1)
+- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_10)
+- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993#post_5)
+- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_9)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
