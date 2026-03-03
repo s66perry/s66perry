@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add __int256/__uint256 builtin types to Clang](https://discourse.llvm.org/t/rfc-add-int256-uint256-builtin-types-to-clang/90048#post_3)
+- [[RFC] Add __int256/__uint256 builtin types to Clang](https://discourse.llvm.org/t/rfc-add-int256-uint256-builtin-types-to-clang/90048#post_2)
+- [[RFC] Add __int256/__uint256 builtin types to Clang](https://discourse.llvm.org/t/rfc-add-int256-uint256-builtin-types-to-clang/90048#post_1)
 - [Is there a way to externalize weights in torch-mlir output?](https://discourse.llvm.org/t/is-there-a-way-to-externalize-weights-in-torch-mlir-output/89842#post_9)
 - [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_42)
-- [Compiling Flang for GPU offloading &lpar;again...&rpar;](https://discourse.llvm.org/t/compiling-flang-for-gpu-offloading-again/90042#post_3)
-- [Compiling Flang for GPU offloading &lpar;again...&rpar;](https://discourse.llvm.org/t/compiling-flang-for-gpu-offloading-again/90042#post_2)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
