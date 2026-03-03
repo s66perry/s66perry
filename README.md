@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding logical/structured alloca](https://discourse.llvm.org/t/rfc-adding-logical-structured-alloca/90027#post_4)
-- [[RFC] Reject i0 integer type in arith and vector ops](https://discourse.llvm.org/t/rfc-reject-i0-integer-type-in-arith-and-vector-ops/90011#post_20)
-- [[GSoC 2026][libc] Enable float80 and float128 Math Support on Unsupported Targets for LLVM libc](https://discourse.llvm.org/t/gsoc-2026-libc-enable-float80-and-float128-math-support-on-unsupported-targets-for-llvm-libc/89647#post_12)
-- [[RFC] Reject i0 integer type in arith and vector ops](https://discourse.llvm.org/t/rfc-reject-i0-integer-type-in-arith-and-vector-ops/90011#post_19)
-- [[Clang-C] Using Clang-C in Java](https://discourse.llvm.org/t/clang-c-using-clang-c-in-java/90038#post_1)
+- [[RFC][clang][libc] Extend the `ext_vector_type` attribute to support the scalable vector sizes](https://discourse.llvm.org/t/rfc-clang-libc-extend-the-ext-vector-type-attribute-to-support-the-scalable-vector-sizes/90043#post_1)
+- [Compiling Flang for GPU offloading &lpar;again...&rpar;](https://discourse.llvm.org/t/compiling-flang-for-gpu-offloading-again/90042#post_1)
+- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=2#post_36)
+- [Is there a way to externalize weights in torch-mlir output?](https://discourse.llvm.org/t/is-there-a-way-to-externalize-weights-in-torch-mlir-output/89842#post_7)
+- [[flang] canonical and optimizable representation for min/max](https://discourse.llvm.org/t/flang-canonical-and-optimizable-representation-for-min-max/90037#post_2)
 <!-- DISCOURSE-LLVM:END -->
