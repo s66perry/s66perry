@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993#post_6)
+- [GPU compiler engineer opportunity at Qualcomm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/gpu-compiler-engineer-opportunity-at-qualcomm-cambridge-uk/90051#post_3)
+- [GPU compiler engineer opportunity at Qualcomm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/gpu-compiler-engineer-opportunity-at-qualcomm-cambridge-uk/90051#post_2)
 - [GPU compiler engineer opportunity at Qualcomm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/gpu-compiler-engineer-opportunity-at-qualcomm-cambridge-uk/90051#post_1)
 - [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_10)
-- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993#post_5)
-- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_9)
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
