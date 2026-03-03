@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993#post_6)
-- [GPU compiler engineer opportunity at Qualcomm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/gpu-compiler-engineer-opportunity-at-qualcomm-cambridge-uk/90051#post_3)
-- [GPU compiler engineer opportunity at Qualcomm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/gpu-compiler-engineer-opportunity-at-qualcomm-cambridge-uk/90051#post_2)
-- [GPU compiler engineer opportunity at Qualcomm &lpar;Cambridge, UK&rpar;](https://discourse.llvm.org/t/gpu-compiler-engineer-opportunity-at-qualcomm-cambridge-uk/90051#post_1)
-- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_10)
+- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993#post_10)
+- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993#post_9)
+- [[flang] canonical and optimizable representation for min/max](https://discourse.llvm.org/t/flang-canonical-and-optimizable-representation-for-min-max/90037#post_4)
+- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993#post_8)
+- [[RFC][TableGen] Add let append/prepend syntax for field concatenation](https://discourse.llvm.org/t/rfc-tablegen-add-let-append-prepend-syntax-for-field-concatenation/89924#post_11)
 <!-- DISCOURSE-LLVM:END -->
