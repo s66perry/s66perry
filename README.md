@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [_BitInt&lpar;N&rpar; support in libc++: investigations, possible improvements: looking for guidance](https://discourse.llvm.org/t/bitint-n-support-in-libc-investigations-possible-improvements-looking-for-guidance/90063#post_5)
 - [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_45)
 - [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760?page=2#post_37)
 - [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760?page=2#post_36)
 - [[RFC] Assignment tracking: A better way of specifying variable locations in IR](https://discourse.llvm.org/t/rfc-assignment-tracking-a-better-way-of-specifying-variable-locations-in-ir/62367?page=2#post_28)
-- [Missing locations with ArgumentPromotion Pass](https://discourse.llvm.org/t/missing-locations-with-argumentpromotion-pass/90079#post_4)
 <!-- DISCOURSE-LLVM:END -->
