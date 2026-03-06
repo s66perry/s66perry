@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=2#post_35)
+- [[RFC][Tutorial] A beginner-friendly end-to-end MLIR compiler pipeline](https://discourse.llvm.org/t/rfc-tutorial-a-beginner-friendly-end-to-end-mlir-compiler-pipeline/89788#post_9)
 - [Missing locations with ArgumentPromotion Pass](https://discourse.llvm.org/t/missing-locations-with-argumentpromotion-pass/90079#post_3)
 - [Missing locations with ArgumentPromotion Pass](https://discourse.llvm.org/t/missing-locations-with-argumentpromotion-pass/90079#post_2)
 - [Missing locations with ArgumentPromotion Pass](https://discourse.llvm.org/t/missing-locations-with-argumentpromotion-pass/90079#post_1)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=5#post_94)
-- [[RFC] lldb-dap stack scope representations](https://discourse.llvm.org/t/rfc-lldb-dap-stack-scope-representations/90056#post_6)
 <!-- DISCOURSE-LLVM:END -->
