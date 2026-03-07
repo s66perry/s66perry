@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Ownership semantics in MLIR C++ API](https://discourse.llvm.org/t/ownership-semantics-in-mlir-c-api/90090#post_1)
+- [Weird rendering of `+-`](https://discourse.llvm.org/t/weird-rendering-of/90088#post_1)
 - [[RFC] Branch condition splitting uses a broken cost model, silently preventing folds](https://discourse.llvm.org/t/rfc-branch-condition-splitting-uses-a-broken-cost-model-silently-preventing-folds/90087#post_1)
 - [[Clang-C] Using Clang-C in Java](https://discourse.llvm.org/t/clang-c-using-clang-c-in-java/90038#post_2)
 - [[RFC] lldb-dap stack scope representations](https://discourse.llvm.org/t/rfc-lldb-dap-stack-scope-representations/90056#post_11)
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_46)
-- [What&#39;s going on with EuroLLVM costs?](https://discourse.llvm.org/t/whats-going-on-with-eurollvm-costs/76687?page=4#post_70)
 <!-- DISCOURSE-LLVM:END -->
