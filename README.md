@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_1)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=2#post_38)
-- [Ownership semantics in MLIR C++ API](https://discourse.llvm.org/t/ownership-semantics-in-mlir-c-api/90090#post_2)
-- [[clang][GSoC 2026] Incremental build support for the modules driver](https://discourse.llvm.org/t/clang-gsoc-2026-incremental-build-support-for-the-modules-driver/89667#post_7)
-- [Ownership semantics in MLIR C++ API](https://discourse.llvm.org/t/ownership-semantics-in-mlir-c-api/90090#post_1)
+- [[RFC] Enhancements to Machine Outliner for iOS/AArch64](https://discourse.llvm.org/t/rfc-enhancements-to-machine-outliner-for-ios-aarch64/89807#post_3)
+- [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_4)
+- [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_3)
+- [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_2)
+- [Question about Code Gen on a benchmark](https://discourse.llvm.org/t/question-about-code-gen-on-a-benchmark/90094#post_1)
 <!-- DISCOURSE-LLVM:END -->
