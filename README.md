@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Split BranchInst into UncondBr and CondBr](https://discourse.llvm.org/t/rfc-split-branchinst-into-uncondbr-and-condbr/90022#post_6)
 - [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_13)
 - [[RFC] Regarding the current status of HICPP checks](https://discourse.llvm.org/t/rfc-regarding-the-current-status-of-hicpp-checks/89883#post_6)
 - [Board Meeting Minutes -- Nov 7, 2025](https://discourse.llvm.org/t/board-meeting-minutes-nov-7-2025/89890#post_3)
 - [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_12)
-- [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_11)
 <!-- DISCOURSE-LLVM:END -->
