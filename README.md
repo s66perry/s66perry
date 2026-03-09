@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LICM] Is it correct to move such a load instruction to the loop preheader?](https://discourse.llvm.org/t/licm-is-it-correct-to-move-such-a-load-instruction-to-the-loop-preheader/90098#post_1)
+- [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_14)
+- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_5)
 - [[RFC] Split BranchInst into UncondBr and CondBr](https://discourse.llvm.org/t/rfc-split-branchinst-into-uncondbr-and-condbr/90022#post_6)
 - [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_13)
-- [[RFC] Regarding the current status of HICPP checks](https://discourse.llvm.org/t/rfc-regarding-the-current-status-of-hicpp-checks/89883#post_6)
-- [Board Meeting Minutes -- Nov 7, 2025](https://discourse.llvm.org/t/board-meeting-minutes-nov-7-2025/89890#post_3)
-- [Automated review with agents: ~30 bugs on 207 PRs](https://discourse.llvm.org/t/automated-review-with-agents-30-bugs-on-207-prs/90093#post_12)
 <!-- DISCOURSE-LLVM:END -->
