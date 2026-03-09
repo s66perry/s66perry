@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Question about inconsistent field names in TableGen / Target sources](https://discourse.llvm.org/t/question-about-inconsistent-field-names-in-tablegen-target-sources/90104#post_1)
-- [[LICM] Is it correct to move such a load instruction to the loop preheader?](https://discourse.llvm.org/t/licm-is-it-correct-to-move-such-a-load-instruction-to-the-loop-preheader/90098#post_3)
-- [Ownership semantics in MLIR C++ API](https://discourse.llvm.org/t/ownership-semantics-in-mlir-c-api/90090#post_4)
-- [[LICM] Is it correct to move such a load instruction to the loop preheader?](https://discourse.llvm.org/t/licm-is-it-correct-to-move-such-a-load-instruction-to-the-loop-preheader/90098#post_2)
-- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_1)
+- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623#post_17)
+- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_9)
+- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_8)
+- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_7)
+- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_6)
 <!-- DISCOURSE-LLVM:END -->
