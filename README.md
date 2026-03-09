@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623#post_17)
-- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_9)
-- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_8)
-- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_7)
-- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_6)
+- [Question about inconsistent field names in TableGen / Target sources](https://discourse.llvm.org/t/question-about-inconsistent-field-names-in-tablegen-target-sources/90104#post_3)
+- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_2)
+- [Question about inconsistent field names in TableGen / Target sources](https://discourse.llvm.org/t/question-about-inconsistent-field-names-in-tablegen-target-sources/90104#post_2)
+- [[RFC] `@llvm.parallel_alloca` intrinsic for vectorizable stack allocations](https://discourse.llvm.org/t/rfc-llvm-parallel-alloca-intrinsic-for-vectorizable-stack-allocations/90106#post_1)
+- [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
