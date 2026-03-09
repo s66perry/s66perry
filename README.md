@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_11)
+- [Quantinuum hiring: Lead/Principal Quantum Compiler Engineer &lpar;LLVM&rpar;](https://discourse.llvm.org/t/quantinuum-hiring-lead-principal-quantum-compiler-engineer-llvm/90110#post_1)
+- [Cambridge LLVM Pub Social](https://discourse.llvm.org/t/cambridge-llvm-pub-social/90109#post_1)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_47)
 - [Question about inconsistent field names in TableGen / Target sources](https://discourse.llvm.org/t/question-about-inconsistent-field-names-in-tablegen-target-sources/90104#post_3)
-- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_2)
-- [Question about inconsistent field names in TableGen / Target sources](https://discourse.llvm.org/t/question-about-inconsistent-field-names-in-tablegen-target-sources/90104#post_2)
-- [[RFC] `@llvm.parallel_alloca` intrinsic for vectorizable stack allocations](https://discourse.llvm.org/t/rfc-llvm-parallel-alloca-intrinsic-for-vectorizable-stack-allocations/90106#post_1)
-- [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
