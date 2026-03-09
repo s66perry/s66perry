@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_11)
-- [Quantinuum hiring: Lead/Principal Quantum Compiler Engineer &lpar;LLVM&rpar;](https://discourse.llvm.org/t/quantinuum-hiring-lead-principal-quantum-compiler-engineer-llvm/90110#post_1)
-- [Cambridge LLVM Pub Social](https://discourse.llvm.org/t/cambridge-llvm-pub-social/90109#post_1)
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_47)
-- [Question about inconsistent field names in TableGen / Target sources](https://discourse.llvm.org/t/question-about-inconsistent-field-names-in-tablegen-target-sources/90104#post_3)
+- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623#post_20)
+- [Visual Studio Dynamic Debugging](https://discourse.llvm.org/t/visual-studio-dynamic-debugging/86785#post_5)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113#post_1)
+- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623#post_19)
+- [[RFC] Add a Data Layout specifier for element-aligned vectors](https://discourse.llvm.org/t/rfc-add-a-data-layout-specifier-for-element-aligned-vectors/89764#post_12)
 <!-- DISCOURSE-LLVM:END -->
