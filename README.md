@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053#post_12)
-- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053#post_11)
-- [LLVM Weekly - #636, March 9th 2026](https://discourse.llvm.org/t/llvm-weekly-636-march-9th-2026/90114#post_1)
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_48)
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=6#post_101)
+- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_8)
+- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_7)
+- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_6)
+- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_5)
+- [lshaz — a Clang/LLVM static analyzer for microarchitectural hazards](https://discourse.llvm.org/t/lshaz-a-clang-llvm-static-analyzer-for-microarchitectural-hazards/90100#post_4)
 <!-- DISCOURSE-LLVM:END -->
