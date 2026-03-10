@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_25)
-- [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893#post_20)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_24)
-- [[RFC] `@llvm.parallel_alloca` intrinsic for vectorizable stack allocations](https://discourse.llvm.org/t/rfc-llvm-parallel-alloca-intrinsic-for-vectorizable-stack-allocations/90106#post_3)
-- [[RFC] define memory scopes as a builtin enum](https://discourse.llvm.org/t/rfc-define-memory-scopes-as-a-builtin-enum/90126#post_1)
+- [[GSoC 2026] [MLIR] Interest in MLIR Sparsifier for GSoC](https://discourse.llvm.org/t/gsoc-2026-mlir-interest-in-mlir-sparsifier-for-gsoc/89994#post_11)
+- [[GSoC 2026] [MLIR] Interest in MLIR Sparsifier for GSoC](https://discourse.llvm.org/t/gsoc-2026-mlir-interest-in-mlir-sparsifier-for-gsoc/89994#post_10)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_51)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_50)
+- [[GSoC 2026] Seeking mentor for DIA/Range Support in MLIR Sparsifier](https://discourse.llvm.org/t/gsoc-2026-seeking-mentor-for-dia-range-support-in-mlir-sparsifier/90132#post_1)
 <!-- DISCOURSE-LLVM:END -->
