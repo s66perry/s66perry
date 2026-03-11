@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove unused transitive includes from the libc++ headers](https://discourse.llvm.org/t/rfc-remove-unused-transitive-includes-from-the-libc-headers/90157#post_3)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=5#post_96)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=5#post_95)
-- [[RFC] Remove unused transitive includes from the libc++ headers](https://discourse.llvm.org/t/rfc-remove-unused-transitive-includes-from-the-libc-headers/90157#post_2)
-- [[RFC] Remove unused transitive includes from the libc++ headers](https://discourse.llvm.org/t/rfc-remove-unused-transitive-includes-from-the-libc-headers/90157#post_1)
+- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_13)
+- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_12)
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=5#post_100)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113#post_14)
+- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
