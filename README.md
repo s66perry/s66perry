@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Improving the link time of LTO](https://discourse.llvm.org/t/improving-the-link-time-of-lto/75132#post_4)
+- [Extending llvm_jump_table_sizes](https://discourse.llvm.org/t/extending-llvm-jump-table-sizes/85131#post_11)
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=6#post_104)
+- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_16)
 - [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=6#post_103)
-- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_15)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=6#post_102)
-- [Lowering linalg.mmt4d to arm_sme.intr.mopa](https://discourse.llvm.org/t/lowering-linalg-mmt4d-to-arm-sme-intr-mopa/90158#post_1)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113#post_16)
 <!-- DISCOURSE-LLVM:END -->
