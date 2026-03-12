@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_56)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_55)
+- [Link MLIR libraries into another build system](https://discourse.llvm.org/t/link-mlir-libraries-into-another-build-system/90095#post_2)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_21)
 - [Problems of converting from C/C++ to MLIR](https://discourse.llvm.org/t/problems-of-converting-from-c-c-to-mlir/90163#post_5)
-- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053#post_20)
-- [Problems of converting from C/C++ to MLIR](https://discourse.llvm.org/t/problems-of-converting-from-c-c-to-mlir/90163#post_4)
-- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_7)
-- [[RFC] Qualifying syntax rule numbers with Fortran standard version in comments](https://discourse.llvm.org/t/rfc-qualifying-syntax-rule-numbers-with-fortran-standard-version-in-comments/90167#post_4)
 <!-- DISCOURSE-LLVM:END -->
