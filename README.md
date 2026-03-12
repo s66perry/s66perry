@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clang Static Analyzer CTU: template function not analyzed across translation units &lpar;missed double free&rpar;](https://discourse.llvm.org/t/clang-static-analyzer-ctu-template-function-not-analyzed-across-translation-units-missed-double-free/90164#post_1)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_91)
-- [[HLSL][SPIRV] NSDI debug info support for clang-dxc](https://discourse.llvm.org/t/hlsl-spirv-nsdi-debug-info-support-for-clang-dxc/90149#post_3)
-- [Extending llvm_jump_table_sizes](https://discourse.llvm.org/t/extending-llvm-jump-table-sizes/85131#post_13)
-- [CIRCT Project Policy on Contributions from thomasnormal/circt Fork](https://discourse.llvm.org/t/circt-project-policy-on-contributions-from-thomasnormal-circt-fork/90075#post_3)
+- [[RFC] Add elementwise modifier to atomicrmw](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomicrmw/90134#post_3)
+- [[RFC] Add elementwise modifier to atomicrmw](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomicrmw/90134#post_2)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_21)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113#post_20)
+- [[RFC] Add RISC-V Vector Extension &lpar;RVV&rpar; Dialect](https://discourse.llvm.org/t/rfc-add-risc-v-vector-extension-rvv-dialect/4146?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
