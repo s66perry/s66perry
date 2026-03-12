@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Clang Static Analyzer CTU: template function not analyzed across translation units &lpar;missed double free&rpar;](https://discourse.llvm.org/t/clang-static-analyzer-ctu-template-function-not-analyzed-across-translation-units-missed-double-free/90164#post_1)
 - [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_91)
 - [[HLSL][SPIRV] NSDI debug info support for clang-dxc](https://discourse.llvm.org/t/hlsl-spirv-nsdi-debug-info-support-for-clang-dxc/90149#post_3)
 - [Extending llvm_jump_table_sizes](https://discourse.llvm.org/t/extending-llvm-jump-table-sizes/85131#post_13)
 - [CIRCT Project Policy on Contributions from thomasnormal/circt Fork](https://discourse.llvm.org/t/circt-project-policy-on-contributions-from-thomasnormal-circt-fork/90075#post_3)
-- [[RFC] `@llvm.parallel_alloca` intrinsic for vectorizable stack allocations](https://discourse.llvm.org/t/rfc-llvm-parallel-alloca-intrinsic-for-vectorizable-stack-allocations/90106#post_5)
 <!-- DISCOURSE-LLVM:END -->
