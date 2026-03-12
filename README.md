@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][GSoC] Adding Support for Attention in Linalg](https://discourse.llvm.org/t/rfc-gsoc-adding-support-for-attention-in-linalg/90166#post_4)
-- [[RFC] Qualifying syntax rule numbers with Fortran standard version in comments](https://discourse.llvm.org/t/rfc-qualifying-syntax-rule-numbers-with-fortran-standard-version-in-comments/90167#post_3)
-- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=6#post_105)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_63)
-- [[RFC][GSoC] Adding Support for Attention in Linalg](https://discourse.llvm.org/t/rfc-gsoc-adding-support-for-attention-in-linalg/90166#post_3)
+- [Problems of converting from C/C++ to MLIR](https://discourse.llvm.org/t/problems-of-converting-from-c-c-to-mlir/90163#post_5)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053#post_20)
+- [Problems of converting from C/C++ to MLIR](https://discourse.llvm.org/t/problems-of-converting-from-c-c-to-mlir/90163#post_4)
+- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_7)
+- [[RFC] Qualifying syntax rule numbers with Fortran standard version in comments](https://discourse.llvm.org/t/rfc-qualifying-syntax-rule-numbers-with-fortran-standard-version-in-comments/90167#post_4)
 <!-- DISCOURSE-LLVM:END -->
