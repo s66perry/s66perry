@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_11)
-- [[RFC] Add elementwise modifier to atomicrmw](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomicrmw/90134#post_3)
-- [[RFC] Add elementwise modifier to atomicrmw](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomicrmw/90134#post_2)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_21)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113#post_20)
+- [[HLSL][SPIRV] NSDI debug info support for clang-dxc](https://discourse.llvm.org/t/hlsl-spirv-nsdi-debug-info-support-for-clang-dxc/90149#post_6)
+- [[RFC] Qualifying Rule numbers with Fortran standard version in comments](https://discourse.llvm.org/t/rfc-qualifying-rule-numbers-with-fortran-standard-version-in-comments/90167#post_1)
+- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_31)
+- [[HLSL][SPIRV] NSDI debug info support for clang-dxc](https://discourse.llvm.org/t/hlsl-spirv-nsdi-debug-info-support-for-clang-dxc/90149#post_5)
+- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
