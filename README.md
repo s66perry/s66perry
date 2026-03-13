@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Social in Cologne, Germany](https://discourse.llvm.org/t/llvm-social-in-cologne-germany/90183#post_2)
+- [LLVM Social in Cologne, Germany](https://discourse.llvm.org/t/llvm-social-in-cologne-germany/90183#post_1)
+- [Fortnightly LLVM libc math library meeting](https://discourse.llvm.org/t/fortnightly-llvm-libc-math-library-meeting/89166#post_7)
+- [Meta Instructions when detecting empty or branch-only blocks](https://discourse.llvm.org/t/meta-instructions-when-detecting-empty-or-branch-only-blocks/90170#post_2)
 - [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_8)
-- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_18)
-- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829#post_17)
-- [[RFC] Add elementwise modifier to atomicrmw](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomicrmw/90134#post_5)
-- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
