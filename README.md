@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=3#post_60)
+- [[RFC] Markdown support in ASTComment](https://discourse.llvm.org/t/rfc-markdown-support-in-astcomment/89893?page=2#post_25)
+- [[RFC][GSoC] Adding Support for Attention in Linalg](https://discourse.llvm.org/t/rfc-gsoc-adding-support-for-attention-in-linalg/90166#post_5)
 - [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_12)
 - [LLVM Meetup Darmstadt &lpar;Wed 25. March 2026&rpar;](https://discourse.llvm.org/t/llvm-meetup-darmstadt-wed-25-march-2026/90177#post_1)
-- [Beijing LLVM Meetup, March 20, 2026](https://discourse.llvm.org/t/beijing-llvm-meetup-march-20-2026/90176#post_1)
-- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_22)
-- [2026 EuroLLVM Early Bird Pricing Ends Tomorrow - Book Now](https://discourse.llvm.org/t/2026-eurollvm-early-bird-pricing-ends-tomorrow-book-now/90174#post_1)
 <!-- DISCOURSE-LLVM:END -->
