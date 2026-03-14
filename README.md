@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Recognising Float Immediates efficiently](https://discourse.llvm.org/t/recognising-float-immediates-efficiently/90190#post_1)
 - [[HLSL][SPIRV] NSDI debug info support for clang-dxc](https://discourse.llvm.org/t/hlsl-spirv-nsdi-debug-info-support-for-clang-dxc/90149#post_9)
 - [PDX Area March 2026 social](https://discourse.llvm.org/t/pdx-area-march-2026-social/90186#post_2)
 - [PDX Area February 2026 social](https://discourse.llvm.org/t/pdx-area-february-2026-social/89743#post_3)
 - [PDX Area March 2026 social](https://discourse.llvm.org/t/pdx-area-march-2026-social/90186#post_1)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Mar 23 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-mar-23-26-6pm/90142#post_4)
 <!-- DISCOURSE-LLVM:END -->
