@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[OpenMP] Misspelling of -Wopen-mp](https://discourse.llvm.org/t/openmp-misspelling-of-wopen-mp/90196#post_3)
+- [[OpenMP] Misspelling of -Wopen-mp](https://discourse.llvm.org/t/openmp-misspelling-of-wopen-mp/90196#post_2)
+- [[OpenMP] Misspelling of -Wopen-mp](https://discourse.llvm.org/t/openmp-misspelling-of-wopen-mp/90196#post_1)
 - [[GSoC 2026] Participating in Upstreaming -fbounds-safety](https://discourse.llvm.org/t/gsoc-2026-participating-in-upstreaming-fbounds-safety/89649#post_5)
 - [[clang][GSoC 2026] Incremental build support for the modules driver](https://discourse.llvm.org/t/clang-gsoc-2026-incremental-build-support-for-the-modules-driver/89667#post_8)
-- [[RFC][clang] An additional frontend flag to select the accuracy of the arch-optimized vector routines](https://discourse.llvm.org/t/rfc-clang-an-additional-frontend-flag-to-select-the-accuracy-of-the-arch-optimized-vector-routines/90064#post_9)
-- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885?page=2#post_27)
-- [[RFC][clang] An additional frontend flag to select the accuracy of the arch-optimized vector routines](https://discourse.llvm.org/t/rfc-clang-an-additional-frontend-flag-to-select-the-accuracy-of-the-arch-optimized-vector-routines/90064#post_8)
 <!-- DISCOURSE-LLVM:END -->
