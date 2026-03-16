@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove codegen support for trivial VP intrinsics in the RISC-V backend](https://discourse.llvm.org/t/rfc-remove-codegen-support-for-trivial-vp-intrinsics-in-the-risc-v-backend/87999#post_17)
-- [[OpenMP] Misspelling of -Wopen-mp](https://discourse.llvm.org/t/openmp-misspelling-of-wopen-mp/90196#post_4)
-- [[OpenMP] Misspelling of -Wopen-mp](https://discourse.llvm.org/t/openmp-misspelling-of-wopen-mp/90196#post_3)
-- [[OpenMP] Misspelling of -Wopen-mp](https://discourse.llvm.org/t/openmp-misspelling-of-wopen-mp/90196#post_2)
-- [[OpenMP] Misspelling of -Wopen-mp](https://discourse.llvm.org/t/openmp-misspelling-of-wopen-mp/90196#post_1)
+- [[GSoC 2026] Improving lit](https://discourse.llvm.org/t/gsoc-2026-improving-lit/89663#post_10)
+- [Should downstream use llvm::, mlir:: or something else for commonly used types?](https://discourse.llvm.org/t/should-downstream-use-llvm-mlir-or-something-else-for-commonly-used-types/90197#post_4)
+- [Should downstream use llvm::, mlir:: or something else for commonly used types?](https://discourse.llvm.org/t/should-downstream-use-llvm-mlir-or-something-else-for-commonly-used-types/90197#post_3)
+- [Should downstream use llvm::, mlir:: or something else for commonly used types?](https://discourse.llvm.org/t/should-downstream-use-llvm-mlir-or-something-else-for-commonly-used-types/90197#post_2)
+- [Should downstream use llvm::, mlir:: or something else for commonly used types?](https://discourse.llvm.org/t/should-downstream-use-llvm-mlir-or-something-else-for-commonly-used-types/90197#post_1)
 <!-- DISCOURSE-LLVM:END -->
