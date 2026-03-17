@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_4)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=3#post_44)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=3#post_43)
-- [[RFC] Add a class attribute [[clang::null_after_move]] for use-after-move analysis](https://discourse.llvm.org/t/rfc-add-a-class-attribute-clang-null-after-move-for-use-after-move-analysis/89760?page=2#post_39)
-- [LLVM Weekly - #637, March 16th 2026](https://discourse.llvm.org/t/llvm-weekly-637-march-16th-2026/90211#post_1)
+- [[gsoc][vector][sparse] non-unit stride dense vectorization](https://discourse.llvm.org/t/gsoc-vector-sparse-non-unit-stride-dense-vectorization/90214#post_2)
+- [[gsoc][vector][sparse] non-unit stride dense vectorization](https://discourse.llvm.org/t/gsoc-vector-sparse-non-unit-stride-dense-vectorization/90214#post_1)
+- [[RFC] Helping the new contributors to create better contributions](https://discourse.llvm.org/t/rfc-helping-the-new-contributors-to-create-better-contributions/90213#post_1)
+- [[RFC] TensaLang: A tensor-first language for LLM inference, lowering through MLIR to CPU/CUDA](https://discourse.llvm.org/t/rfc-tensalang-a-tensor-first-language-for-llm-inference-lowering-through-mlir-to-cpu-cuda/89892#post_2)
+- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_17)
 <!-- DISCOURSE-LLVM:END -->
