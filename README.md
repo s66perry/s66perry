@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_4)
+- [[clang][GSoC 2026] Incremental build support for the modules driver](https://discourse.llvm.org/t/clang-gsoc-2026-incremental-build-support-for-the-modules-driver/89667#post_10)
 - [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_3)
 - [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_2)
 - [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_1)
-- [Bugs in MIR passes w.r.t predicated MIR](https://discourse.llvm.org/t/bugs-in-mir-passes-w-r-t-predicated-mir/90221#post_1)
-- [[GSoC 2026] Improving Clang-Doc](https://discourse.llvm.org/t/gsoc-2026-improving-clang-doc/89662?page=2#post_24)
 <!-- DISCOURSE-LLVM:END -->
