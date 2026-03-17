@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[gsoc][vector][sparse] non-unit stride dense vectorization](https://discourse.llvm.org/t/gsoc-vector-sparse-non-unit-stride-dense-vectorization/90214#post_3)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=3#post_48)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=3#post_47)
-- [[RFC] Helping the new contributors to create better contributions](https://discourse.llvm.org/t/rfc-helping-the-new-contributors-to-create-better-contributions/90213#post_4)
-- [[RFC] Removal of `@llvm.ptrauth.blend` as a standalone intrinsic](https://discourse.llvm.org/t/rfc-removal-of-llvm-ptrauth-blend-as-a-standalone-intrinsic/90219#post_3)
+- [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_1)
+- [Bugs in MIR passes w.r.t predicated MIR](https://discourse.llvm.org/t/bugs-in-mir-passes-w-r-t-predicated-mir/90221#post_1)
+- [[GSoC 2026] Improving Clang-Doc](https://discourse.llvm.org/t/gsoc-2026-improving-clang-doc/89662?page=2#post_24)
+- [RFC:Proper handing of -mnan=legacy on MIPS](https://discourse.llvm.org/t/rfc-proper-handing-of-mnan-legacy-on-mips/89044#post_13)
+- [[RFC] plan for eliminating `AllocaInst-&gt;getAllocatedType`, leaving only `getArraySize`](https://discourse.llvm.org/t/rfc-plan-for-eliminating-allocainst-getallocatedtype-leaving-only-getarraysize/89969#post_3)
 <!-- DISCOURSE-LLVM:END -->
