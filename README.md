@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How should clang recognize the shared object &lpar;so&rpar; plugin option loaded through -fpass-plugin?](https://discourse.llvm.org/t/how-should-clang-recognize-the-shared-object-so-plugin-option-loaded-through-fpass-plugin/90241#post_3)
-- [Cambridge UK Social](https://discourse.llvm.org/t/cambridge-uk-social/89865#post_5)
-- [How should clang recognize the shared object &lpar;so&rpar; plugin option loaded through -fpass-plugin?](https://discourse.llvm.org/t/how-should-clang-recognize-the-shared-object-so-plugin-option-loaded-through-fpass-plugin/90241#post_2)
-- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623?page=2#post_21)
-- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885?page=2#post_35)
+- [[RFC] Reducing Runtime Pointer Comparisons for Stencil Codes via Stencil Group Merging in LoopAccessAnalysis](https://discourse.llvm.org/t/rfc-reducing-runtime-pointer-comparisons-for-stencil-codes-via-stencil-group-merging-in-loopaccessanalysis/90239#post_3)
+- [[RFC] Removal of `@llvm.ptrauth.blend` as a standalone intrinsic](https://discourse.llvm.org/t/rfc-removal-of-llvm-ptrauth-blend-as-a-standalone-intrinsic/90219#post_7)
+- [[RFC] Reducing Runtime Pointer Comparisons for Stencil Codes via Stencil Group Merging in LoopAccessAnalysis](https://discourse.llvm.org/t/rfc-reducing-runtime-pointer-comparisons-for-stencil-codes-via-stencil-group-merging-in-loopaccessanalysis/90239#post_2)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_25)
+- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_19)
 <!-- DISCOURSE-LLVM:END -->
