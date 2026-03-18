@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[clang][GSoC 2026] Incremental build support for the modules driver](https://discourse.llvm.org/t/clang-gsoc-2026-incremental-build-support-for-the-modules-driver/89667#post_11)
-- [Lowering linalg.mmt4d to arm_sme.intr.mopa](https://discourse.llvm.org/t/lowering-linalg-mmt4d-to-arm-sme-intr-mopa/90158#post_2)
-- [[RFC] Reducing Runtime Pointer Comparisons for Stencil Codes via Stencil Group Merging in LoopAccessAnalysis](https://discourse.llvm.org/t/rfc-reducing-runtime-pointer-comparisons-for-stencil-codes-via-stencil-group-merging-in-loopaccessanalysis/90239#post_1)
-- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_6)
-- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_5)
+- [[GSoC 2026] Personal idea for GSoC proposal](https://discourse.llvm.org/t/gsoc-2026-personal-idea-for-gsoc-proposal/90242#post_1)
+- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885?page=2#post_34)
+- [How should clang recognize the shared object &lpar;so&rpar; plugin option loaded through -fpass-plugin?](https://discourse.llvm.org/t/how-should-clang-recognize-the-shared-object-so-plugin-option-loaded-through-fpass-plugin/90241#post_1)
+- [Lowering linalg.mmt4d to arm_sme.intr.mopa](https://discourse.llvm.org/t/lowering-linalg-mmt4d-to-arm-sme-intr-mopa/90158#post_3)
+- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
