@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Reducing Runtime Pointer Comparisons for Stencil Codes via Stencil Group Merging in LoopAccessAnalysis](https://discourse.llvm.org/t/rfc-reducing-runtime-pointer-comparisons-for-stencil-codes-via-stencil-group-merging-in-loopaccessanalysis/90239#post_3)
-- [[RFC] Removal of `@llvm.ptrauth.blend` as a standalone intrinsic](https://discourse.llvm.org/t/rfc-removal-of-llvm-ptrauth-blend-as-a-standalone-intrinsic/90219#post_7)
-- [[RFC] Reducing Runtime Pointer Comparisons for Stencil Codes via Stencil Group Merging in LoopAccessAnalysis](https://discourse.llvm.org/t/rfc-reducing-runtime-pointer-comparisons-for-stencil-codes-via-stencil-group-merging-in-loopaccessanalysis/90239#post_2)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_25)
-- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_19)
+- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_57)
+- [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_5)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_26)
+- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_35)
+- [Cambridge UK Social](https://discourse.llvm.org/t/cambridge-uk-social/89865#post_6)
 <!-- DISCOURSE-LLVM:END -->
