@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_62)
-- [Target specific defaults for Clang](https://discourse.llvm.org/t/target-specific-defaults-for-clang/90220#post_3)
-- [Removing clang version number from resource dir in a distribution](https://discourse.llvm.org/t/removing-clang-version-number-from-resource-dir-in-a-distribution/90234#post_1)
-- [How to track all additions/removals of operations in a robust way?](https://discourse.llvm.org/t/how-to-track-all-additions-removals-of-operations-in-a-robust-way/90229#post_3)
-- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=3#post_50)
+- [[clang][GSoC 2026] Incremental build support for the modules driver](https://discourse.llvm.org/t/clang-gsoc-2026-incremental-build-support-for-the-modules-driver/89667#post_11)
+- [Lowering linalg.mmt4d to arm_sme.intr.mopa](https://discourse.llvm.org/t/lowering-linalg-mmt4d-to-arm-sme-intr-mopa/90158#post_2)
+- [[RFC] Reducing Runtime Pointer Comparisons for Stencil Codes via Stencil Group Merging in LoopAccessAnalysis](https://discourse.llvm.org/t/rfc-reducing-runtime-pointer-comparisons-for-stencil-codes-via-stencil-group-merging-in-loopaccessanalysis/90239#post_1)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_6)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_5)
 <!-- DISCOURSE-LLVM:END -->
