@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Cryptic error when building 2D convolution for GPU](https://discourse.llvm.org/t/cryptic-error-when-building-2d-convolution-for-gpu/90254#post_1)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_64)
+- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_11)
+- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_1)
 - [Registration of a custom command with a debugger instance created in a script](https://discourse.llvm.org/t/registration-of-a-custom-command-with-a-debugger-instance-created-in-a-script/90252#post_1)
-- [Update / rebuild MemorySSA when updating CFG](https://discourse.llvm.org/t/update-rebuild-memoryssa-when-updating-cfg/90246#post_2)
-- [[Modules] Bi-Weekly Meetup Notes, March 17, 2026](https://discourse.llvm.org/t/modules-bi-weekly-meetup-notes-march-17-2026/90251#post_1)
-- [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_6)
-- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623?page=2#post_25)
 <!-- DISCOURSE-LLVM:END -->
