@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=3#post_57)
-- [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_5)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_26)
-- [Meta-RFC: Long-term vision for improving build times](https://discourse.llvm.org/t/meta-rfc-long-term-vision-for-improving-build-times/89828?page=2#post_35)
-- [Cambridge UK Social](https://discourse.llvm.org/t/cambridge-uk-social/89865#post_6)
+- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_11)
+- [[GSoC 2026] Improving Clang-Doc](https://discourse.llvm.org/t/gsoc-2026-improving-clang-doc/89662?page=2#post_31)
+- [[RFC] Extend BBAddrMap Support to COFF/Windows](https://discourse.llvm.org/t/rfc-extend-bbaddrmap-support-to-coff-windows/90232#post_5)
+- [[Clang Static Analyzer][GSoC 2025] Teach the Clang Static Analyzer to understand lifetime annotations](https://discourse.llvm.org/t/clang-static-analyzer-gsoc-2025-teach-the-clang-static-analyzer-to-understand-lifetime-annotations/84487?page=3#post_51)
+- [RFC: Add MIR-level inlining to the AMDGPU backend](https://discourse.llvm.org/t/rfc-add-mir-level-inlining-to-the-amdgpu-backend/90155#post_2)
 <!-- DISCOURSE-LLVM:END -->
