@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_2)
+- [Cryptic error when building 2D convolution for GPU](https://discourse.llvm.org/t/cryptic-error-when-building-2d-convolution-for-gpu/90254#post_2)
+- [WG21 meeting in Croydon next week](https://discourse.llvm.org/t/wg21-meeting-in-croydon-next-week/90261#post_2)
+- [WG21 meeting in Croydon next week](https://discourse.llvm.org/t/wg21-meeting-in-croydon-next-week/90261#post_1)
 - [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811?page=3#post_41)
-- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811?page=2#post_40)
-- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_7)
-- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623?page=2#post_28)
-- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
