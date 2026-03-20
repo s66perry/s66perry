@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[gsoc][vector][sparse] non-unit stride dense vectorization](https://discourse.llvm.org/t/gsoc-vector-sparse-non-unit-stride-dense-vectorization/90214#post_7)
-- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_2)
-- [Cryptic error when building 2D convolution for GPU](https://discourse.llvm.org/t/cryptic-error-when-building-2d-convolution-for-gpu/90254#post_2)
-- [WG21 meeting in Croydon next week](https://discourse.llvm.org/t/wg21-meeting-in-croydon-next-week/90261#post_2)
-- [WG21 meeting in Croydon next week](https://discourse.llvm.org/t/wg21-meeting-in-croydon-next-week/90261#post_1)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_67)
+- [Update / rebuild MemorySSA when updating CFG](https://discourse.llvm.org/t/update-rebuild-memoryssa-when-updating-cfg/90246#post_3)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_66)
+- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_15)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_65)
 <!-- DISCOURSE-LLVM:END -->
