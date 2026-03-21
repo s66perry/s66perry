@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Registration of a custom command with a debugger instance created in a script](https://discourse.llvm.org/t/registration-of-a-custom-command-with-a-debugger-instance-created-in-a-script/90252#post_3)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_10)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_9)
 - [Canonicalization in MLIR](https://discourse.llvm.org/t/canonicalization-in-mlir/89841#post_6)
 - [Canonicalization in MLIR](https://discourse.llvm.org/t/canonicalization-in-mlir/89841#post_5)
-- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811?page=3#post_48)
-- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_13)
-- [[RFC][MLIR] Memory region hierarchy for MLIR Side Effects](https://discourse.llvm.org/t/rfc-mlir-memory-region-hierarchy-for-mlir-side-effects/89811?page=3#post_47)
 <!-- DISCOURSE-LLVM:END -->
