@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[LoopInterchange] Some questions and a potential missing case?](https://discourse.llvm.org/t/loopinterchange-some-questions-and-a-potential-missing-case/90270#post_1)
 - [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_8)
 - [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_7)
 - [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_6)
 - [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_5)
-- [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_4)
 <!-- DISCOURSE-LLVM:END -->
