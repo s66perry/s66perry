@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LoopInterchange] Some questions and a potential missing case?](https://discourse.llvm.org/t/loopinterchange-some-questions-and-a-potential-missing-case/90270#post_1)
-- [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_8)
-- [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_7)
-- [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_6)
-- [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_5)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_17)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_16)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_15)
+- [[RFC] Extend BBAddrMap Support to COFF/Windows](https://discourse.llvm.org/t/rfc-extend-bbaddrmap-support-to-coff-windows/90232#post_9)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_14)
 <!-- DISCOURSE-LLVM:END -->
