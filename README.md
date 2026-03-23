@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_2)
+- [Registration of a custom command with a debugger instance created in a script](https://discourse.llvm.org/t/registration-of-a-custom-command-with-a-debugger-instance-created-in-a-script/90252#post_4)
 - [`arith.fptofp` vs. `arith.extf` / `arith.truncf`](https://discourse.llvm.org/t/arith-fptofp-vs-arith-extf-arith-truncf/90276#post_8)
 - [[LoopInterchange] Some questions and a potential missing case?](https://discourse.llvm.org/t/loopinterchange-some-questions-and-a-potential-missing-case/90270#post_3)
 - [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_1)
-- [`arith.fptofp` vs. `arith.extf` / `arith.truncf`](https://discourse.llvm.org/t/arith-fptofp-vs-arith-extf-arith-truncf/90276#post_7)
-- [[RFC] [OpenMP] Alloca placement for OpenMP loop wrappers](https://discourse.llvm.org/t/rfc-openmp-alloca-placement-for-openmp-loop-wrappers/89512#post_13)
 <!-- DISCOURSE-LLVM:END -->
