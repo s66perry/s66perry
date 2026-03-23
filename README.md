@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_10)
-- [Faster MLIR Compilation](https://discourse.llvm.org/t/faster-mlir-compilation/90268#post_9)
-- [[LoopInterchange] Some questions and a potential missing case?](https://discourse.llvm.org/t/loopinterchange-some-questions-and-a-potential-missing-case/90270#post_2)
-- [[GSoC 2026] [MLIR] Interest in MLIR Sparsifier for GSoC](https://discourse.llvm.org/t/gsoc-2026-mlir-interest-in-mlir-sparsifier-for-gsoc/89994#post_14)
-- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_17)
+- [Update / rebuild MemorySSA when updating CFG](https://discourse.llvm.org/t/update-rebuild-memoryssa-when-updating-cfg/90246#post_7)
+- [[RFC] RISC-V ropi-rwpi profile with gp-based runtime data addressing](https://discourse.llvm.org/t/rfc-risc-v-ropi-rwpi-profile-with-gp-based-runtime-data-addressing/90169#post_4)
+- [MLIR Area Team Office Hours - March 26, 10am PDT, 6pm CET](https://discourse.llvm.org/t/mlir-area-team-office-hours-march-26-10am-pdt-6pm-cet/90272#post_1)
+- [Cambridge LLVM Pub Social](https://discourse.llvm.org/t/cambridge-llvm-pub-social/90109#post_2)
+- [The need for better frontend benchmarks](https://discourse.llvm.org/t/the-need-for-better-frontend-benchmarks/90257#post_5)
 <!-- DISCOURSE-LLVM:END -->
