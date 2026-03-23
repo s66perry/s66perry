@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM CS question about anonymous namespaces](https://discourse.llvm.org/t/llvm-cs-question-about-anonymous-namespaces/90280#post_2)
-- [LLVM CS question about anonymous namespaces](https://discourse.llvm.org/t/llvm-cs-question-about-anonymous-namespaces/90280#post_1)
-- [Bugs in MIR passes w.r.t predicated MIR](https://discourse.llvm.org/t/bugs-in-mir-passes-w-r-t-predicated-mir/90221#post_4)
-- [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_3)
-- [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_2)
+- [LLVM CS question about anonymous namespaces](https://discourse.llvm.org/t/llvm-cs-question-about-anonymous-namespaces/90280#post_4)
+- [[RFC] Support region control-flow in Mem2Reg](https://discourse.llvm.org/t/rfc-support-region-control-flow-in-mem2reg/90082#post_12)
+- [LLVM Weekly - #638, March 23rd 2026](https://discourse.llvm.org/t/llvm-weekly-638-march-23rd-2026/90281#post_1)
+- [WASM support in JITLink/ORC](https://discourse.llvm.org/t/wasm-support-in-jitlink-orc/90277#post_2)
+- [LLVM CS question about anonymous namespaces](https://discourse.llvm.org/t/llvm-cs-question-about-anonymous-namespaces/90280#post_3)
 <!-- DISCOURSE-LLVM:END -->
