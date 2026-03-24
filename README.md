@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_13)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Mar 23 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-mar-23-26-6pm/90142#post_5)
-- [Strict aliasing confusion](https://discourse.llvm.org/t/strict-aliasing-confusion/90296#post_3)
-- [Strict aliasing confusion](https://discourse.llvm.org/t/strict-aliasing-confusion/90296#post_2)
-- [`arith.fptofp` vs. `arith.extf` / `arith.truncf`](https://discourse.llvm.org/t/arith-fptofp-vs-arith-extf-arith-truncf/90276#post_16)
+- [[RFC] UDR-Based Lowering for OpenMP Conditional Lastprivate in Flang](https://discourse.llvm.org/t/rfc-udr-based-lowering-for-openmp-conditional-lastprivate-in-flang/90222#post_8)
+- [[GSoC] Proposal Review: Upstreaming -fbounds-safety - Bringing Implicit Wide Pointers and Runtime Traps to Clang](https://discourse.llvm.org/t/gsoc-proposal-review-upstreaming-fbounds-safety-bringing-implicit-wide-pointers-and-runtime-traps-to-clang/90301#post_1)
+- [[RFC] LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159?page=3#post_46)
+- [Lowering CuTe algebra to MLIR dialect?](https://discourse.llvm.org/t/lowering-cute-algebra-to-mlir-dialect/90299#post_1)
+- [[Question] When to use sparse_tensor.convert in inference pipelines?](https://discourse.llvm.org/t/question-when-to-use-sparse-tensor-convert-in-inference-pipelines/90298#post_1)
 <!-- DISCOURSE-LLVM:END -->
