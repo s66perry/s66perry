@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_4)
-- [A possibly useful static optimization tool?](https://discourse.llvm.org/t/a-possibly-useful-static-optimization-tool/90282#post_1)
-- [WASM support in JITLink/ORC](https://discourse.llvm.org/t/wasm-support-in-jitlink-orc/90277#post_3)
-- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_24)
-- [LLVM CS question about anonymous namespaces](https://discourse.llvm.org/t/llvm-cs-question-about-anonymous-namespaces/90280#post_6)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Mar 26](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-mar-26/90273#post_2)
+- [WASM support in JITLink/ORC](https://discourse.llvm.org/t/wasm-support-in-jitlink-orc/90277#post_5)
+- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_6)
+- [WASM support in JITLink/ORC](https://discourse.llvm.org/t/wasm-support-in-jitlink-orc/90277#post_4)
+- [`arith.fptofp` vs. `arith.extf` / `arith.truncf`](https://discourse.llvm.org/t/arith-fptofp-vs-arith-extf-arith-truncf/90276#post_10)
 <!-- DISCOURSE-LLVM:END -->
