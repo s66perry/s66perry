@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_6)
+- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306#post_1)
+- [Forcing allocation to hold undef/poison after non-allocating `operator new` call](https://discourse.llvm.org/t/forcing-allocation-to-hold-undef-poison-after-non-allocating-operator-new-call/90305#post_1)
 - [Lowering CuTe algebra to MLIR dialect?](https://discourse.llvm.org/t/lowering-cute-algebra-to-mlir-dialect/90299#post_4)
 - [Lowering CuTe algebra to MLIR dialect?](https://discourse.llvm.org/t/lowering-cute-algebra-to-mlir-dialect/90299#post_3)
-- [Lowering CuTe algebra to MLIR dialect?](https://discourse.llvm.org/t/lowering-cute-algebra-to-mlir-dialect/90299#post_2)
-- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_2)
-- [[GSoC 2026] Host–Device CIR Combine Pipeline — Project Idea Discussion](https://discourse.llvm.org/t/gsoc-2026-host-device-cir-combine-pipeline-project-idea-discussion/89623?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
