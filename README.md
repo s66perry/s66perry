@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_39)
-- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_38)
-- [A subregister of wide register class needs spill, but regalloc spills this wide register, how to opt it?](https://discourse.llvm.org/t/a-subregister-of-wide-register-class-needs-spill-but-regalloc-spills-this-wide-register-how-to-opt-it/90295#post_1)
-- [`pythonX_d.lib` build requirement](https://discourse.llvm.org/t/pythonx-d-lib-build-requirement/90285#post_6)
-- [`pythonX_d.lib` build requirement](https://discourse.llvm.org/t/pythonx-d-lib-build-requirement/90285#post_5)
+- [Strict aliasing confusion](https://discourse.llvm.org/t/strict-aliasing-confusion/90296#post_3)
+- [Strict aliasing confusion](https://discourse.llvm.org/t/strict-aliasing-confusion/90296#post_2)
+- [`arith.fptofp` vs. `arith.extf` / `arith.truncf`](https://discourse.llvm.org/t/arith-fptofp-vs-arith-extf-arith-truncf/90276#post_16)
+- [[RFC] Region-based control-flow with early exits in MLIR](https://discourse.llvm.org/t/rfc-region-based-control-flow-with-early-exits-in-mlir/76998?page=2#post_40)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_13)
 <!-- DISCOURSE-LLVM:END -->
