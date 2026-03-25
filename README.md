@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Fortran 2023 ENUMERATION TYPEs](https://discourse.llvm.org/t/rfc-fortran-2023-enumeration-types/90255#post_5)
-- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_1)
-- [Removing clang version number from resource dir in a distribution](https://discourse.llvm.org/t/removing-clang-version-number-from-resource-dir-in-a-distribution/90234#post_4)
-- [`pythonX_d.lib` build requirement](https://discourse.llvm.org/t/pythonx-d-lib-build-requirement/90285#post_9)
-- [Removing clang version number from resource dir in a distribution](https://discourse.llvm.org/t/removing-clang-version-number-from-resource-dir-in-a-distribution/90234#post_3)
+- [[RFC] Fortran 2023 ENUMERATION TYPEs](https://discourse.llvm.org/t/rfc-fortran-2023-enumeration-types/90255#post_8)
+- [Clang Static Analyzer CTU: template function not analyzed across translation units &lpar;missed double free&rpar;](https://discourse.llvm.org/t/clang-static-analyzer-ctu-template-function-not-analyzed-across-translation-units-missed-double-free/90164#post_3)
+- [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_7)
+- [[RFC] Fortran 2023 ENUMERATION TYPEs](https://discourse.llvm.org/t/rfc-fortran-2023-enumeration-types/90255#post_7)
+- [Specializing a linalg.generic to linalg.mmt4d](https://discourse.llvm.org/t/specializing-a-linalg-generic-to-linalg-mmt4d/90319#post_2)
 <!-- DISCOURSE-LLVM:END -->
