@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Fortran 2023 ENUMERATION TYPEs](https://discourse.llvm.org/t/rfc-fortran-2023-enumeration-types/90255#post_8)
-- [Clang Static Analyzer CTU: template function not analyzed across translation units &lpar;missed double free&rpar;](https://discourse.llvm.org/t/clang-static-analyzer-ctu-template-function-not-analyzed-across-translation-units-missed-double-free/90164#post_3)
-- [Avoiding crash from dereferencing description in unknown state of object or memory](https://discourse.llvm.org/t/avoiding-crash-from-dereferencing-description-in-unknown-state-of-object-or-memory/90279#post_7)
-- [[RFC] Fortran 2023 ENUMERATION TYPEs](https://discourse.llvm.org/t/rfc-fortran-2023-enumeration-types/90255#post_7)
-- [Specializing a linalg.generic to linalg.mmt4d](https://discourse.llvm.org/t/specializing-a-linalg-generic-to-linalg-mmt4d/90319#post_2)
+- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306#post_9)
+- [Board Meeting Minutes -- Nov 7, 2025](https://discourse.llvm.org/t/board-meeting-minutes-nov-7-2025/89890#post_5)
+- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306#post_8)
+- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_4)
+- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_3)
 <!-- DISCOURSE-LLVM:END -->
