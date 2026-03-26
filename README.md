@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Embedded Toolchains Working Group call this Thursday, Mar 26](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-mar-26/90273#post_3)
-- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306#post_18)
-- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306#post_17)
-- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306#post_16)
-- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_12)
+- [Update / rebuild MemorySSA when updating CFG](https://discourse.llvm.org/t/update-rebuild-memoryssa-when-updating-cfg/90246#post_9)
+- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_21)
+- [Monthly Vectorizer online sync-up](https://discourse.llvm.org/t/monthly-vectorizer-online-sync-up/78978#post_18)
+- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591?page=2#post_22)
+- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306#post_20)
 <!-- DISCOURSE-LLVM:END -->
