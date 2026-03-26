@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update / rebuild MemorySSA when updating CFG](https://discourse.llvm.org/t/update-rebuild-memoryssa-when-updating-cfg/90246#post_10)
-- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_25)
-- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_24)
-- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_23)
-- [[RFC] Qualifying syntax rule numbers with Fortran standard version in comments](https://discourse.llvm.org/t/rfc-qualifying-syntax-rule-numbers-with-fortran-standard-version-in-comments/90167#post_8)
+- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_13)
+- [GitHub Bot Account or App to Post Comments on PRs](https://discourse.llvm.org/t/github-bot-account-or-app-to-post-comments-on-prs/90335#post_2)
+- [GitHub Bot Account or App to Post Comments on PRs](https://discourse.llvm.org/t/github-bot-account-or-app-to-post-comments-on-prs/90335#post_1)
+- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_26)
+- [[clang][GSoC 2026] Incremental build support for the modules driver](https://discourse.llvm.org/t/clang-gsoc-2026-incremental-build-support-for-the-modules-driver/89667#post_16)
 <!-- DISCOURSE-LLVM:END -->
