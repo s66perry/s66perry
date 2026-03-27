@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_70)
+- [[GSoC 2026] Improving lit](https://discourse.llvm.org/t/gsoc-2026-improving-lit/89663#post_13)
+- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_69)
+- [RFC: Add MIR-level inlining to the AMDGPU backend](https://discourse.llvm.org/t/rfc-add-mir-level-inlining-to-the-amdgpu-backend/90155#post_7)
 - [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_27)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=5#post_91)
-- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_16)
-- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_18)
-- [[GSoC 2026] Improving lit](https://discourse.llvm.org/t/gsoc-2026-improving-lit/89663#post_12)
 <!-- DISCOURSE-LLVM:END -->
