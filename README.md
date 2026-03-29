@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Forcing allocation to hold undef/poison after non-allocating `operator new` call](https://discourse.llvm.org/t/forcing-allocation-to-hold-undef-poison-after-non-allocating-operator-new-call/90305#post_3)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_20)
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520#post_19)
 - [Beginner Friendly](https://discourse.llvm.org/t/beginner-friendly/90366#post_1)
 - [How to debug MLIRBytecodeTests?](https://discourse.llvm.org/t/how-to-debug-mlirbytecodetests/90365#post_2)
-- [How to debug MLIRBytecodeTests?](https://discourse.llvm.org/t/how-to-debug-mlirbytecodetests/90365#post_1)
-- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885?page=2#post_39)
-- [LLVM 22.1.2 Released!](https://discourse.llvm.org/t/llvm-22-1-2-released/90308#post_2)
 <!-- DISCOURSE-LLVM:END -->
