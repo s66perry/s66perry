@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520?page=2#post_22)
 - [Compiling CUDA does not define __CUDACC__](https://discourse.llvm.org/t/compiling-cuda-does-not-define-cudacc/53247#post_2)
 - [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_21)
 - [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520?page=2#post_21)
 - [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997#post_20)
-- [[GSoC 2026 Proposal Review] Unified Host-Device Compilation in ClangIR](https://discourse.llvm.org/t/gsoc-2026-proposal-review-unified-host-device-compilation-in-clangir/90370#post_1)
 <!-- DISCOURSE-LLVM:END -->
