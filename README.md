@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381#post_3)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_6)
-- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_18)
-- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_17)
-- [[RFC] RVCC: An LLVM Incubator for High-Performance RISC-V Compiler Optimizations](https://discourse.llvm.org/t/rfc-rvcc-an-llvm-incubator-for-high-performance-risc-v-compiler-optimizations/90376#post_9)
+- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993?page=2#post_23)
+- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993?page=2#post_22)
+- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_20)
+- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253#post_19)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_14)
 <!-- DISCOURSE-LLVM:END -->
