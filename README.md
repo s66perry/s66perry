@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_37)
 - [[RFC] Towards Disallowing Struct/Array IR Values](https://discourse.llvm.org/t/rfc-towards-disallowing-struct-array-ir-values/87154?page=2#post_25)
 - [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_36)
 - [RFC: enabling `UNITY_BUILD`](https://discourse.llvm.org/t/rfc-enabling-unity-build/90306?page=2#post_35)
 - [[GSoC 2026] [MLIR] Interest in MLIR Sparsifier for GSoC](https://discourse.llvm.org/t/gsoc-2026-mlir-interest-in-mlir-sparsifier-for-gsoc/89994#post_16)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_7)
 <!-- DISCOURSE-LLVM:END -->
