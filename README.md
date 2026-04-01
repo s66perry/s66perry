@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=2#post_21)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_13)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381#post_20)
-- [[RFC] Towards Disallowing Struct/Array IR Values](https://discourse.llvm.org/t/rfc-towards-disallowing-struct-array-ir-values/87154?page=2#post_27)
-- [Manually building &lpar;cross platform&rpar; runtimes](https://discourse.llvm.org/t/manually-building-cross-platform-runtimes/84169#post_5)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412?page=2#post_26)
+- [The need for better frontend benchmarks](https://discourse.llvm.org/t/the-need-for-better-frontend-benchmarks/90257#post_9)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412?page=2#post_25)
+- [[RFC] Support for More Than 15 Array Dimensions in Flang](https://discourse.llvm.org/t/rfc-support-for-more-than-15-array-dimensions-in-flang/90423#post_1)
+- [[RFC] fully generalized type-cast builder &quot;CreateLayoutReinterpretCast&quot;](https://discourse.llvm.org/t/rfc-fully-generalized-type-cast-builder-createlayoutreinterpretcast/90422#post_1)
 <!-- DISCOURSE-LLVM:END -->
