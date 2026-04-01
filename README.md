@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_17)
+- [PSA: Planned changes to Dexter](https://discourse.llvm.org/t/psa-planned-changes-to-dexter/90402#post_2)
+- [Julia dialect](https://discourse.llvm.org/t/julia-dialect/90409#post_3)
+- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_23)
 - [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_16)
-- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_15)
-- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_14)
-- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_13)
-- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_12)
 <!-- DISCOURSE-LLVM:END -->
