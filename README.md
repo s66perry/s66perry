@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [AIIR] Rename MLIR to AIIR](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_5)
-- [[RFC] [AIIR] Rename MLIR to AIIR](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_4)
-- [[RFC] [AIIR] Rename MLIR to AIIR](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_3)
-- [[RFC] [AIIR] Rename MLIR to AIIR](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_2)
-- [[RFC] [AIIR] Rename MLIR to AIIR](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_1)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_16)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_15)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_14)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_13)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412#post_12)
 <!-- DISCOURSE-LLVM:END -->
