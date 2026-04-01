@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] RVCC: An LLVM Incubator for High-Performance RISC-V Compiler Optimizations](https://discourse.llvm.org/t/rfc-rvcc-an-llvm-incubator-for-high-performance-risc-v-compiler-optimizations/90376#post_11)
 - [Julia dialect](https://discourse.llvm.org/t/julia-dialect/90409#post_1)
 - [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_20)
 - [Segmentation fault with very large global constant](https://discourse.llvm.org/t/segmentation-fault-with-very-large-global-constant/90405#post_2)
 - [[RFC] RVCC: An LLVM Incubator for High-Performance RISC-V Compiler Optimizations](https://discourse.llvm.org/t/rfc-rvcc-an-llvm-incubator-for-high-performance-risc-v-compiler-optimizations/90376#post_10)
-- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670#post_19)
 <!-- DISCOURSE-LLVM:END -->
