@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_10)
-- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_9)
-- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_15)
-- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412?page=2#post_33)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_14)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412?page=2#post_34)
+- [[RFC] RISC-V ropi-rwpi profile with gp-based runtime data addressing](https://discourse.llvm.org/t/rfc-risc-v-ropi-rwpi-profile-with-gp-based-runtime-data-addressing/90169#post_6)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=2#post_24)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=2#post_23)
+- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_11)
 <!-- DISCOURSE-LLVM:END -->
