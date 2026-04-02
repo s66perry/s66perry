@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Windows PR testing for lldb](https://discourse.llvm.org/t/windows-pr-testing-for-lldb/90432#post_3)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=2#post_33)
-- [Windows PR testing for lldb](https://discourse.llvm.org/t/windows-pr-testing-for-lldb/90432#post_2)
-- [[RFC] Towards Disallowing Struct/Array IR Values](https://discourse.llvm.org/t/rfc-towards-disallowing-struct-array-ir-values/87154?page=2#post_29)
-- [[RFC] Clarifying `IndexType`&#39;s role in `arith` rewrites](https://discourse.llvm.org/t/rfc-clarifying-indextype-s-role-in-arith-rewrites/90433#post_1)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=2#post_36)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_16)
+- [RFC: Maintainer Roles and Beyond](https://discourse.llvm.org/t/rfc-maintainer-roles-and-beyond/90431#post_3)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_15)
+- [RFC: Maintainer Roles and Beyond](https://discourse.llvm.org/t/rfc-maintainer-roles-and-beyond/90431#post_2)
 <!-- DISCOURSE-LLVM:END -->
