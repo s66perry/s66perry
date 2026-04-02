@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_10)
+- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_9)
+- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_15)
+- [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412?page=2#post_33)
 - [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_14)
-- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_15)
-- [The need for better frontend benchmarks](https://discourse.llvm.org/t/the-need-for-better-frontend-benchmarks/90257#post_10)
-- [[RFC] Support fragment headers in include-cleaner](https://discourse.llvm.org/t/rfc-support-fragment-headers-in-include-cleaner/90429#post_1)
-- [Argument lists in Region vs Block](https://discourse.llvm.org/t/argument-lists-in-region-vs-block/90427#post_2)
 <!-- DISCOURSE-LLVM:END -->
