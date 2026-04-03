@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Maintainer Roles and Beyond](https://discourse.llvm.org/t/rfc-maintainer-roles-and-beyond/90431#post_6)
+- [RFC: Maintainer Roles and Beyond](https://discourse.llvm.org/t/rfc-maintainer-roles-and-beyond/90431#post_5)
+- [The need for better frontend benchmarks](https://discourse.llvm.org/t/the-need-for-better-frontend-benchmarks/90257#post_12)
 - [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_24)
 - [[LLDB] Convenience functions in LLDB?](https://discourse.llvm.org/t/lldb-convenience-functions-in-lldb/90411#post_5)
-- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_12)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=3#post_55)
-- [[LLDB] Convenience functions in LLDB?](https://discourse.llvm.org/t/lldb-convenience-functions-in-lldb/90411#post_4)
 <!-- DISCOURSE-LLVM:END -->
