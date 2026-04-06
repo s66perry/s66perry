@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_25)
+- [[RFC] JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456#post_1)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=3#post_59)
 - [MLIR C/C++ Frontend Working Group [Mon, April 13th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-april-13th/90454#post_1)
 - [[RFC] [AIIR] Rename MLIR to AIIR 🚀](https://discourse.llvm.org/t/rfc-aiir-rename-mlir-to-aiir/90412?page=2#post_36)
-- [[RFC] Explore using LLVM libc math routines for compiler-rt floating point builtins](https://discourse.llvm.org/t/rfc-explore-using-llvm-libc-math-routines-for-compiler-rt-floating-point-builtins/89670?page=2#post_22)
-- [RFC: Maintainer Roles and Beyond](https://discourse.llvm.org/t/rfc-maintainer-roles-and-beyond/90431#post_7)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=3#post_58)
 <!-- DISCOURSE-LLVM:END -->
