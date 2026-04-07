@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_13)
+- [[RFC] Add RISE RISC-V Runners](https://discourse.llvm.org/t/rfc-add-rise-risc-v-runners/90474#post_1)
+- [Is there existing infrastructure for building a CFG at the MCInst level?](https://discourse.llvm.org/t/is-there-existing-infrastructure-for-building-a-cfg-at-the-mcinst-level/90473#post_4)
+- [[RFC] LLVM-Libc Internal SCUDO Allocator and Allocation Model](https://discourse.llvm.org/t/rfc-llvm-libc-internal-scudo-allocator-and-allocation-model/90258#post_4)
 - [Board Meeting Minutes -- Nov 7, 2025](https://discourse.llvm.org/t/board-meeting-minutes-nov-7-2025/89890#post_6)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=4#post_66)
-- [Is there existing infrastructure for building a CFG at the MCInst level?](https://discourse.llvm.org/t/is-there-existing-infrastructure-for-building-a-cfg-at-the-mcinst-level/90473#post_3)
-- [Is there existing infrastructure for building a CFG at the MCInst level?](https://discourse.llvm.org/t/is-there-existing-infrastructure-for-building-a-cfg-at-the-mcinst-level/90473#post_2)
-- [Is there existing infrastructure for building a CFG at the MCInst level?](https://discourse.llvm.org/t/is-there-existing-infrastructure-for-building-a-cfg-at-the-mcinst-level/90473#post_1)
 <!-- DISCOURSE-LLVM:END -->
