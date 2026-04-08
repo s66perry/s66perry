@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326#post_20)
+- [Tools for extraction program features](https://discourse.llvm.org/t/tools-for-extraction-program-features/90484#post_2)
+- [Tools for extraction program features](https://discourse.llvm.org/t/tools-for-extraction-program-features/90484#post_1)
+- [[RFC] JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456#post_4)
 - [[RFC] Clarifying LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/rfc-clarifying-llvm-irs-concurrent-memory-model/90480#post_2)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_35)
-- [Why does LLVM not emit a gather / masked load / vector load when reading in this loop?](https://discourse.llvm.org/t/why-does-llvm-not-emit-a-gather-masked-load-vector-load-when-reading-in-this-loop/90475#post_2)
-- [[RFC][MLIR] Expose mlir-tblgen generators](https://discourse.llvm.org/t/rfc-mlir-expose-mlir-tblgen-generators/90401#post_2)
-- [[RFC] JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456#post_3)
 <!-- DISCOURSE-LLVM:END -->
