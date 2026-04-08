@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Maintainer Roles and Beyond](https://discourse.llvm.org/t/rfc-maintainer-roles-and-beyond/90431#post_13)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=4#post_67)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_20)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963#post_19)
 - [[RFC] JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456#post_2)
-- [[RFC] Clarifying LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/rfc-clarifying-llvm-irs-concurrent-memory-model/90480#post_1)
-- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_16)
-- [[RFC] Support for More Than 15 Array Dimensions in Flang](https://discourse.llvm.org/t/rfc-support-for-more-than-15-array-dimensions-in-flang/90423#post_2)
-- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_15)
 <!-- DISCOURSE-LLVM:END -->
