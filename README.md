@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add RISE RISC-V Runners](https://discourse.llvm.org/t/rfc-add-rise-risc-v-runners/90474#post_7)
-- [RFC: Removing the &quot;Require Pull Request&quot; bypass](https://discourse.llvm.org/t/rfc-removing-the-require-pull-request-bypass/89993?page=2#post_29)
-- [Converting an LLVM IR code generated with Haskell to C with LLVM CBE](https://discourse.llvm.org/t/converting-an-llvm-ir-code-generated-with-haskell-to-c-with-llvm-cbe/90494#post_3)
-- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_17)
-- [[RFC] Structural and Reachable Control Flow Edges in `RegionBranchOpInterface`](https://discourse.llvm.org/t/rfc-structural-and-reachable-control-flow-edges-in-regionbranchopinterface/90496#post_1)
+- [[libclang AST] Why is the spelling of both the cursor type and the canonical cursor type the same?](https://discourse.llvm.org/t/libclang-ast-why-is-the-spelling-of-both-the-cursor-type-and-the-canonical-cursor-type-the-same/90485#post_9)
+- [RFC: Linux Kernel discusses OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-linux-kernel-discusses-overflowbehaviortypes/90486#post_2)
+- [Attributing a commit to a different author](https://discourse.llvm.org/t/attributing-a-commit-to-a-different-author/90490#post_8)
+- [[RFC] Add RISE RISC-V Runners](https://discourse.llvm.org/t/rfc-add-rise-risc-v-runners/90474#post_8)
+- [Attributing a commit to a different author](https://discourse.llvm.org/t/attributing-a-commit-to-a-different-author/90490#post_7)
 <!-- DISCOURSE-LLVM:END -->
