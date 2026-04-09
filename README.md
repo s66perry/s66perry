@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Attributing a commit to a different author](https://discourse.llvm.org/t/attributing-a-commit-to-a-different-author/90490#post_3)
+- [Attributing a commit to a different author](https://discourse.llvm.org/t/attributing-a-commit-to-a-different-author/90490#post_2)
+- [[libclang AST] Why is the spelling of both the cursor type and the canonical cursor type the same?](https://discourse.llvm.org/t/libclang-ast-why-is-the-spelling-of-both-the-cursor-type-and-the-canonical-cursor-type-the-same/90485#post_8)
 - [Attributing a commit to a different author](https://discourse.llvm.org/t/attributing-a-commit-to-a-different-author/90490#post_1)
 - [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=4#post_68)
-- [[RFC] Towards Disallowing Struct/Array IR Values](https://discourse.llvm.org/t/rfc-towards-disallowing-struct-array-ir-values/87154?page=2#post_31)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_64)
-- [LLVM 22.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-22-x-release-third-party-binaries/89477#post_7)
 <!-- DISCOURSE-LLVM:END -->
