@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[libclang AST] Why is the spelling of both the cursor type and the canonical cursor type the same?](https://discourse.llvm.org/t/libclang-ast-why-is-the-spelling-of-both-the-cursor-type-and-the-canonical-cursor-type-the-same/90485#post_9)
-- [RFC: Linux Kernel discusses OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-linux-kernel-discusses-overflowbehaviortypes/90486#post_2)
-- [Attributing a commit to a different author](https://discourse.llvm.org/t/attributing-a-commit-to-a-different-author/90490#post_8)
-- [[RFC] Add RISE RISC-V Runners](https://discourse.llvm.org/t/rfc-add-rise-risc-v-runners/90474#post_8)
-- [Attributing a commit to a different author](https://discourse.llvm.org/t/attributing-a-commit-to-a-different-author/90490#post_7)
+- [ELLPACK sparse tensor format](https://discourse.llvm.org/t/ellpack-sparse-tensor-format/90500#post_1)
+- [RFC: Linux Kernel discusses OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-linux-kernel-discusses-overflowbehaviortypes/90486#post_4)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=4#post_70)
+- [[libclang AST] Why is the spelling of both the cursor type and the canonical cursor type the same?](https://discourse.llvm.org/t/libclang-ast-why-is-the-spelling-of-both-the-cursor-type-and-the-canonical-cursor-type-the-same/90485#post_10)
+- [A Vulkan-style memory model for AMDGPU &lpar;and beyond&rpar;](https://discourse.llvm.org/t/a-vulkan-style-memory-model-for-amdgpu-and-beyond/90498#post_1)
 <!-- DISCOURSE-LLVM:END -->
