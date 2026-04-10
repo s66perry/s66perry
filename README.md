@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Require explicit dismissal of blocking reviews](https://discourse.llvm.org/t/rfc-require-explicit-dismissal-of-blocking-reviews/90382#post_16)
-- [Shortcomings of `clang::CallGraph`](https://discourse.llvm.org/t/shortcomings-of-clang-callgraph/90506#post_3)
-- [RFC: Require explicit dismissal of blocking reviews](https://discourse.llvm.org/t/rfc-require-explicit-dismissal-of-blocking-reviews/90382#post_15)
-- [Shortcomings of `clang::CallGraph`](https://discourse.llvm.org/t/shortcomings-of-clang-callgraph/90506#post_2)
-- [LLVM Research Library - A place to watch ALL Dev Mtg talks, find papers, and more](https://discourse.llvm.org/t/llvm-research-library-a-place-to-watch-all-dev-mtg-talks-find-papers-and-more/90036#post_19)
+- [[RFC] Having an auto-formatter for CMake](https://discourse.llvm.org/t/rfc-having-an-auto-formatter-for-cmake/90511#post_2)
+- [Shortcomings of `clang::CallGraph`](https://discourse.llvm.org/t/shortcomings-of-clang-callgraph/90506#post_4)
+- [Interaction between tailcc and byval parameters](https://discourse.llvm.org/t/interaction-between-tailcc-and-byval-parameters/90510#post_2)
+- [[RFC] Having an auto-formatter for CMake](https://discourse.llvm.org/t/rfc-having-an-auto-formatter-for-cmake/90511#post_1)
+- [Interaction between tailcc and byval parameters](https://discourse.llvm.org/t/interaction-between-tailcc-and-byval-parameters/90510#post_1)
 <!-- DISCOURSE-LLVM:END -->
