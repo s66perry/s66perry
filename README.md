@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GSOC 2026] Improvements to LLVM&#39;s opt-viewer](https://discourse.llvm.org/t/gsoc-2026-improvements-to-llvms-opt-viewer/89520?page=2#post_23)
 - [Trying to build libc++ for bare-metal ARM targets](https://discourse.llvm.org/t/trying-to-build-libc-for-bare-metal-arm-targets/90501#post_2)
 - [Changes for MISRA/AUTOSAR coding standards](https://discourse.llvm.org/t/changes-for-misra-autosar-coding-standards/90502#post_3)
 - [Shortcomings of `clang::CallGraph`](https://discourse.llvm.org/t/shortcomings-of-clang-callgraph/90506#post_5)
 - [[RFC] Having an auto-formatter for CMake](https://discourse.llvm.org/t/rfc-having-an-auto-formatter-for-cmake/90511#post_2)
-- [Shortcomings of `clang::CallGraph`](https://discourse.llvm.org/t/shortcomings-of-clang-callgraph/90506#post_4)
 <!-- DISCOURSE-LLVM:END -->
