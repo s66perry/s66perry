@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add getSuccessorForwardOperands method to BranchOpInterface](https://discourse.llvm.org/t/rfc-add-getsuccessorforwardoperands-method-to-branchopinterface/90516#post_4)
+- [[RFC] Add getSuccessorForwardOperands method to BranchOpInterface](https://discourse.llvm.org/t/rfc-add-getsuccessorforwardoperands-method-to-branchopinterface/90516#post_3)
+- [[RFC] Add getSuccessorForwardOperands method to BranchOpInterface](https://discourse.llvm.org/t/rfc-add-getsuccessorforwardoperands-method-to-branchopinterface/90516#post_2)
+- [[RFC] Add getSuccessorForwardOperands method to BranchOpInterface](https://discourse.llvm.org/t/rfc-add-getsuccessorforwardoperands-method-to-branchopinterface/90516#post_1)
 - [[RFC] Add IR support for non-fetch atomicrmw &lpar;C++26 P3111&rpar;](https://discourse.llvm.org/t/rfc-add-ir-support-for-non-fetch-atomicrmw-c-26-p3111/90514#post_1)
-- [RFC: Require explicit dismissal of blocking reviews](https://discourse.llvm.org/t/rfc-require-explicit-dismissal-of-blocking-reviews/90382#post_19)
-- [LLVM Research Library - A place to watch ALL Dev Mtg talks, find papers, and more](https://discourse.llvm.org/t/llvm-research-library-a-place-to-watch-all-dev-mtg-talks-find-papers-and-more/90036#post_20)
-- [RFC: Require explicit dismissal of blocking reviews](https://discourse.llvm.org/t/rfc-require-explicit-dismissal-of-blocking-reviews/90382#post_18)
-- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
