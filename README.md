@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to create Data Dependency Graph from MLIR func with value Ids](https://discourse.llvm.org/t/how-to-create-data-dependency-graph-from-mlir-func-with-value-ids/90524#post_6)
-- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_4)
-- [[RFC][Flang][MLIR] Add opt-in affine loop optimization pipeline](https://discourse.llvm.org/t/rfc-flang-mlir-add-opt-in-affine-loop-optimization-pipeline/90526#post_2)
-- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_3)
-- [[RFC][Flang][MLIR] Add opt-in affine loop optimization pipeline](https://discourse.llvm.org/t/rfc-flang-mlir-add-opt-in-affine-loop-optimization-pipeline/90526#post_1)
+- [LLVM Weekly - #641, April 13th 2026](https://discourse.llvm.org/t/llvm-weekly-641-april-13th-2026/90527#post_2)
+- [Re-organizing website](https://discourse.llvm.org/t/re-organizing-website/90528#post_1)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_38)
+- [LLVM Weekly - #641, April 13th 2026](https://discourse.llvm.org/t/llvm-weekly-641-april-13th-2026/90527#post_1)
+- [[RFC] Alignment of global arrays](https://discourse.llvm.org/t/rfc-alignment-of-global-arrays/90397#post_9)
 <!-- DISCOURSE-LLVM:END -->
