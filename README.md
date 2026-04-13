@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_82)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=4#post_81)
-- [[RFC] Support for More Than 15 Array Dimensions in Flang](https://discourse.llvm.org/t/rfc-support-for-more-than-15-array-dimensions-in-flang/90423#post_3)
-- [[RFC] Alignment of global arrays](https://discourse.llvm.org/t/rfc-alignment-of-global-arrays/90397#post_8)
-- [Should a deleted Value use in metadata become null or poison?](https://discourse.llvm.org/t/should-a-deleted-value-use-in-metadata-become-null-or-poison/90517#post_3)
+- [[RFC][Flang][MLIR] Add opt-in affine loop optimization pipeline](https://discourse.llvm.org/t/rfc-flang-mlir-add-opt-in-affine-loop-optimization-pipeline/90526#post_1)
+- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_2)
+- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_1)
+- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_9)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_83)
 <!-- DISCOURSE-LLVM:END -->
