@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How to create Data Dependency Graph from MLIR func with value Ids](https://discourse.llvm.org/t/how-to-create-data-dependency-graph-from-mlir-func-with-value-ids/90524#post_6)
+- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_4)
+- [[RFC][Flang][MLIR] Add opt-in affine loop optimization pipeline](https://discourse.llvm.org/t/rfc-flang-mlir-add-opt-in-affine-loop-optimization-pipeline/90526#post_2)
+- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_3)
 - [[RFC][Flang][MLIR] Add opt-in affine loop optimization pipeline](https://discourse.llvm.org/t/rfc-flang-mlir-add-opt-in-affine-loop-optimization-pipeline/90526#post_1)
-- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_2)
-- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_1)
-- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_9)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_83)
 <!-- DISCOURSE-LLVM:END -->
