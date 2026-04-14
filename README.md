@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Registration of a custom command with a debugger instance created in a script](https://discourse.llvm.org/t/registration-of-a-custom-command-with-a-debugger-instance-created-in-a-script/90252#post_5)
-- [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_1)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_88)
-- [[RFC] Clarifying LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/rfc-clarifying-llvm-irs-concurrent-memory-model/90480#post_7)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_87)
+- [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_2)
+- [Stack maps not always relative to stack frames?](https://discourse.llvm.org/t/stack-maps-not-always-relative-to-stack-frames/90541#post_2)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_90)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_89)
+- [Is there a way to make approving CI to run on first-time contributions less tedious?](https://discourse.llvm.org/t/is-there-a-way-to-make-approving-ci-to-run-on-first-time-contributions-less-tedious/90542#post_3)
 <!-- DISCOURSE-LLVM:END -->
