@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_25)
-- [[RFC][MLIR] LLVM DILocationAttr](https://discourse.llvm.org/t/rfc-mlir-llvm-dilocationattr/90253?page=2#post_31)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=2#post_39)
-- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_5)
-- [Undefined behavior in the math dialect](https://discourse.llvm.org/t/undefined-behavior-in-the-math-dialect/90522#post_3)
+- [Changes for MISRA/AUTOSAR coding standards](https://discourse.llvm.org/t/changes-for-misra-autosar-coding-standards/90502#post_4)
+- [[RFC] IR tracker: source-location-indexed pass history for LLVM IR](https://discourse.llvm.org/t/rfc-ir-tracker-source-location-indexed-pass-history-for-llvm-ir/90535#post_1)
+- [[RFC] Ownership and lifetime tracking in C and C++](https://discourse.llvm.org/t/rfc-ownership-and-lifetime-tracking-in-c-and-c/90532#post_3)
+- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_7)
+- [[RFC] Ownership and lifetime tracking in C and C++](https://discourse.llvm.org/t/rfc-ownership-and-lifetime-tracking-in-c-and-c/90532#post_2)
 <!-- DISCOURSE-LLVM:END -->
