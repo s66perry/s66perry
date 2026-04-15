@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Aggressive inlinging for OpenMP SIMD loops](https://discourse.llvm.org/t/rfc-aggressive-inlinging-for-openmp-simd-loops/90558#post_1)
-- [ELLPACK sparse tensor format](https://discourse.llvm.org/t/ellpack-sparse-tensor-format/90500#post_4)
-- [[RFC] Coverage](https://discourse.llvm.org/t/rfc-coverage/90557#post_1)
-- [[RFC] Introduce MandatoryPassInfoMixin/OptionalPassInfoMixin for required/not required passes](https://discourse.llvm.org/t/rfc-introduce-mandatorypassinfomixin-optionalpassinfomixin-for-required-not-required-passes/90547#post_4)
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_3)
+- [&quot;a &lt; b&quot; produces slower code than &quot;b &gt; a&quot; on skylake](https://discourse.llvm.org/t/a-b-produces-slower-code-than-b-a-on-skylake/90560#post_4)
+- [&quot;a &lt; b&quot; produces slower code than &quot;b &gt; a&quot; on skylake](https://discourse.llvm.org/t/a-b-produces-slower-code-than-b-a-on-skylake/90560#post_3)
+- [&quot;a &lt; b&quot; produces slower code than &quot;b &gt; a&quot; on skylake](https://discourse.llvm.org/t/a-b-produces-slower-code-than-b-a-on-skylake/90560#post_2)
+- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_12)
+- [&quot;a &lt; b&quot; produces slower code than &quot;b &gt; a&quot; on skylake](https://discourse.llvm.org/t/a-b-produces-slower-code-than-b-a-on-skylake/90560#post_1)
 <!-- DISCOURSE-LLVM:END -->
