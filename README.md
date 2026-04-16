@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_4)
-- [[RFC] Clarifying LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/rfc-clarifying-llvm-irs-concurrent-memory-model/90480#post_11)
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_26)
-- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_3)
-- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_2)
+- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_31)
+- [[RFC] Coverage](https://discourse.llvm.org/t/rfc-coverage/90557#post_4)
+- [[RFC] Coverage](https://discourse.llvm.org/t/rfc-coverage/90557#post_3)
+- [[ClangIR] Upstream Progress Report — April 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-april-2026/90562#post_4)
+- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_5)
 <!-- DISCOURSE-LLVM:END -->
