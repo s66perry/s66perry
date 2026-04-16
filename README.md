@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_7)
-- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_2)
-- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_7)
-- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_6)
-- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_5)
+- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_14)
+- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_10)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_24)
+- [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_4)
+- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_13)
 <!-- DISCOURSE-LLVM:END -->
