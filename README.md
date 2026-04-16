@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Expression evaluator sets C++ exception breakpoints in all threads](https://discourse.llvm.org/t/expression-evaluator-sets-c-exception-breakpoints-in-all-threads/90546#post_4)
-- [[ClangIR] Upstream Progress Report — April 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-april-2026/90562#post_6)
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_10)
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_9)
-- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_6)
+- [[RFC] QLLVM: An LLVM-based quantum compilation framework and its potential MLIR integration](https://discourse.llvm.org/t/rfc-qllvm-an-llvm-based-quantum-compilation-framework-and-its-potential-mlir-integration/90566#post_7)
+- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_18)
+- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_17)
+- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_16)
+- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_15)
 <!-- DISCOURSE-LLVM:END -->
