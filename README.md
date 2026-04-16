@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] QLLVM: An LLVM-based quantum compilation framework and its potential MLIR integration](https://discourse.llvm.org/t/rfc-qllvm-an-llvm-based-quantum-compilation-framework-and-its-potential-mlir-integration/90566#post_7)
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_18)
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_17)
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_16)
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555#post_15)
+- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_7)
+- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_2)
+- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_7)
+- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_6)
+- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_5)
 <!-- DISCOURSE-LLVM:END -->
