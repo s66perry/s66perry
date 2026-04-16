@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_6)
+- [[ClangIR] Upstream Progress Report — April 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-april-2026/90562#post_8)
+- [[ClangIR] Upstream Progress Report — April 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-april-2026/90562#post_7)
+- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_15)
 - [[RFC] Please consider enabling -fstack-clash-protection / probe-stack by default](https://discourse.llvm.org/t/rfc-please-consider-enabling-fstack-clash-protection-probe-stack-by-default/90060#post_13)
-- [EuroLLVM 2026 Round Table Summary: MLIR Canonicalization](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-mlir-canonicalization/90588#post_1)
-- [Expression evaluator sets C++ exception breakpoints in all threads](https://discourse.llvm.org/t/expression-evaluator-sets-c-exception-breakpoints-in-all-threads/90546#post_8)
-- [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_5)
-- [[RFC] Please consider enabling -fstack-clash-protection / probe-stack by default](https://discourse.llvm.org/t/rfc-please-consider-enabling-fstack-clash-protection-probe-stack-by-default/90060#post_12)
 <!-- DISCOURSE-LLVM:END -->
