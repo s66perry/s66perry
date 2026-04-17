@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] AI-assisted Bazel Fixer Bot](https://discourse.llvm.org/t/rfc-ai-assisted-bazel-fixer-bot/89178?page=6#post_105)
-- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_36)
-- [EuroLLVM 2026 Round Table Summary: MLIR Canonicalization](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-mlir-canonicalization/90588#post_13)
-- [EuroLLVM 2026 Round Table Summary: MLIR Canonicalization](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-mlir-canonicalization/90588#post_12)
-- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_35)
+- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_16)
+- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_38)
+- [[EuroLLVM 2026] Debug&lpar;er/info&rpar; Round Table Notes](https://discourse.llvm.org/t/eurollvm-2026-debug-er-info-round-table-notes/90564#post_4)
+- [[EuroLLVM 2026] Debug&lpar;er/info&rpar; Round Table Notes](https://discourse.llvm.org/t/eurollvm-2026-debug-er-info-round-table-notes/90564#post_3)
+- [[RFC][Flang-rt]Allow multiple units to open the same file path](https://discourse.llvm.org/t/rfc-flang-rt-allow-multiple-units-to-open-the-same-file-path/90591#post_3)
 <!-- DISCOURSE-LLVM:END -->
