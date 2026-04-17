@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_100)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_99)
-- [Stepping behavior with multiple threads](https://discourse.llvm.org/t/stepping-behavior-with-multiple-threads/89781#post_9)
-- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_16)
-- [[RFC] HMake for LLVM](https://discourse.llvm.org/t/rfc-hmake-for-llvm/88997?page=2#post_38)
+- [.debug_frame, --gc-sections, and --entry=0](https://discourse.llvm.org/t/debug-frame-gc-sections-and-entry-0/90590#post_5)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=5#post_101)
+- [[EuroLLVM 2026] Full Restrict / ptr provenance / Alias Analysis Round Table Notes](https://discourse.llvm.org/t/eurollvm-2026-full-restrict-ptr-provenance-alias-analysis-round-table-notes/90594#post_1)
+- [.debug_frame, --gc-sections, and --entry=0](https://discourse.llvm.org/t/debug-frame-gc-sections-and-entry-0/90590#post_4)
+- [.debug_frame, --gc-sections, and --entry=0](https://discourse.llvm.org/t/debug-frame-gc-sections-and-entry-0/90590#post_3)
 <!-- DISCOURSE-LLVM:END -->
