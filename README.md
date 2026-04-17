@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Meta RFC: ADTs without C++ runtime dependency](https://discourse.llvm.org/t/meta-rfc-adts-without-c-runtime-dependency/90317#post_17)
-- [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_6)
-- [[ClangIR] Upstream Progress Report — April 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-april-2026/90562#post_8)
-- [[ClangIR] Upstream Progress Report — April 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-april-2026/90562#post_7)
-- [How to fix ThreadPlanStepOverRange so that it works correctly with delayed instructions?](https://discourse.llvm.org/t/how-to-fix-threadplanstepoverrange-so-that-it-works-correctly-with-delayed-instructions/90563#post_15)
+- [[RFC] Ownership and lifetime tracking in C and C++](https://discourse.llvm.org/t/rfc-ownership-and-lifetime-tracking-in-c-and-c/90532#post_4)
+- [EuroLLVM 2026 LLVM-libc Round Table Notes](https://discourse.llvm.org/t/eurollvm-2026-llvm-libc-round-table-notes/90589#post_1)
+- [EuroLLVM 2026 Round Table Summary: MLIR Canonicalization](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-mlir-canonicalization/90588#post_5)
+- [[EuroLLVM 2026] Debug&lpar;er/info&rpar; Round Table Notes](https://discourse.llvm.org/t/eurollvm-2026-debug-er-info-round-table-notes/90564#post_2)
+- [EuroLLVM 2026 Round Table Summary: MLIR Canonicalization](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-mlir-canonicalization/90588#post_4)
 <!-- DISCOURSE-LLVM:END -->
