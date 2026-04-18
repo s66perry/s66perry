@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Approaches to the inliner blowing up](https://discourse.llvm.org/t/approaches-to-the-inliner-blowing-up/89971#post_7)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=6#post_105)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=6#post_104)
 - [EuroLLVM 2026 Round Table Summary: MLIR Lighthouse project](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-mlir-lighthouse-project/90569#post_4)
 - [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=6#post_103)
-- [EuroLLVM 2026 Round Table Summary: MLIR Lighthouse project](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-mlir-lighthouse-project/90569#post_3)
-- [.debug_frame, --gc-sections, and --entry=0](https://discourse.llvm.org/t/debug-frame-gc-sections-and-entry-0/90590#post_8)
-- [.debug_frame, --gc-sections, and --entry=0](https://discourse.llvm.org/t/debug-frame-gc-sections-and-entry-0/90590#post_7)
 <!-- DISCOURSE-LLVM:END -->
