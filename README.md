@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Having an auto-formatter for CMake](https://discourse.llvm.org/t/rfc-having-an-auto-formatter-for-cmake/90511#post_7)
 - [[RFC] Having an auto-formatter for CMake](https://discourse.llvm.org/t/rfc-having-an-auto-formatter-for-cmake/90511#post_6)
 - [[LSR] Question on CollectFixups... Function](https://discourse.llvm.org/t/lsr-question-on-collectfixups-function/90598#post_4)
 - [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_26)
 - [[LSR] Question on CollectFixups... Function](https://discourse.llvm.org/t/lsr-question-on-collectfixups-function/90598#post_3)
-- [Location of builtin type declarations](https://discourse.llvm.org/t/location-of-builtin-type-declarations/90603#post_1)
 <!-- DISCOURSE-LLVM:END -->
