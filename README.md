@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963?page=2#post_22)
+- [[GSoC 2026] Add Fortran Debugging Support in LLDB](https://discourse.llvm.org/t/gsoc-2026-add-fortran-debugging-support-in-lldb/89963?page=2#post_21)
+- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555?page=2#post_26)
 - [[RFC] Add normalize pass to MLIR](https://discourse.llvm.org/t/rfc-add-normalize-pass-to-mlir/90600#post_2)
 - [[RFC] Add normalize pass to MLIR](https://discourse.llvm.org/t/rfc-add-normalize-pass-to-mlir/90600#post_1)
-- [[LSR] Question on CollectFixups... Function](https://discourse.llvm.org/t/lsr-question-on-collectfixups-function/90598#post_2)
-- [[LSR] Question on CollectFixups... Function](https://discourse.llvm.org/t/lsr-question-on-collectfixups-function/90598#post_1)
-- [Lean4-MLIR](https://discourse.llvm.org/t/lean4-mlir/90518#post_2)
 <!-- DISCOURSE-LLVM:END -->
