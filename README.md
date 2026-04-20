@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555?page=2#post_27)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Apr 23](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-apr-23/90612#post_2)
-- [[RFC] Having an auto-formatter for CMake](https://discourse.llvm.org/t/rfc-having-an-auto-formatter-for-cmake/90511#post_9)
-- [[RFC] Structural and Reachable Control Flow Edges in `RegionBranchOpInterface`](https://discourse.llvm.org/t/rfc-structural-and-reachable-control-flow-edges-in-regionbranchopinterface/90496#post_15)
-- [[RFC] Clarifying LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/rfc-clarifying-llvm-irs-concurrent-memory-model/90480#post_12)
+- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_3)
+- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555?page=2#post_32)
+- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555?page=2#post_31)
+- [[LSR] Question on CollectFixups... Function](https://discourse.llvm.org/t/lsr-question-on-collectfixups-function/90598#post_6)
+- [ELLPACK sparse tensor format](https://discourse.llvm.org/t/ellpack-sparse-tensor-format/90500#post_7)
 <!-- DISCOURSE-LLVM:END -->
