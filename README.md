@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [EuroLLVM 2026 Round Table Summary: Early Exit from MLIR Regions](https://discourse.llvm.org/t/eurollvm-2026-round-table-summary-early-exit-from-mlir-regions/90555?page=2#post_33)
-- [Loading LLVM as a cmake subproject confuses LLDB&#39;s Python symlinks](https://discourse.llvm.org/t/loading-llvm-as-a-cmake-subproject-confuses-lldbs-python-symlinks/90540#post_2)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 27 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-27-26-6pm/90548#post_4)
-- [RFC: Do &quot;something&quot; with the subproject tarballs in the release page](https://discourse.llvm.org/t/rfc-do-something-with-the-subproject-tarballs-in-the-release-page/75024#post_17)
-- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_3)
+- [Problems using DenseMaps across plugins, get_execution_seed&lpar;&rpar; and LLVM_ENABLE_ABI_BREAKING_CHECKS](https://discourse.llvm.org/t/problems-using-densemaps-across-plugins-get-execution-seed-and-llvm-enable-abi-breaking-checks/90209#post_6)
+- [LLVM Weekly - #642, April 20th 2026](https://discourse.llvm.org/t/llvm-weekly-642-april-20th-2026/90619#post_1)
+- [OpenMP Module Installation Paths in Flang](https://discourse.llvm.org/t/openmp-module-installation-paths-in-flang/90614#post_2)
+- [Problems using DenseMaps across plugins, get_execution_seed&lpar;&rpar; and LLVM_ENABLE_ABI_BREAKING_CHECKS](https://discourse.llvm.org/t/problems-using-densemaps-across-plugins-get-execution-seed-and-llvm-enable-abi-breaking-checks/90209#post_5)
+- [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_11)
 <!-- DISCOURSE-LLVM:END -->
