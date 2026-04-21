@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_4)
-- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_3)
-- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_2)
-- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_6)
-- [RFC: Linux Kernel discusses OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-linux-kernel-discusses-overflowbehaviortypes/90486#post_12)
+- [[RFC] EmitC support for MLGO](https://discourse.llvm.org/t/rfc-emitc-support-for-mlgo/87728#post_11)
+- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_10)
+- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_9)
+- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_8)
+- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_7)
 <!-- DISCOURSE-LLVM:END -->
