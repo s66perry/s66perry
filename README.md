@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Distribute a compiler that dynamically links against LLVM/MLIR](https://discourse.llvm.org/t/distribute-a-compiler-that-dynamically-links-against-llvm-mlir/90628#post_1)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_25)
+- [[RFC] Introduce MandatoryPassInfoMixin/OptionalPassInfoMixin for required/not required passes](https://discourse.llvm.org/t/rfc-introduce-mandatorypassinfomixin-optionalpassinfomixin-for-required-not-required-passes/90547#post_11)
+- [[RFC] Alignment of global arrays](https://discourse.llvm.org/t/rfc-alignment-of-global-arrays/90397#post_10)
 - [Status of convergence control intrinsics](https://discourse.llvm.org/t/status-of-convergence-control-intrinsics/90627#post_2)
-- [Status of convergence control intrinsics](https://discourse.llvm.org/t/status-of-convergence-control-intrinsics/90627#post_1)
-- [[RFC] [Arm] Fixing function size estimation?](https://discourse.llvm.org/t/rfc-arm-fixing-function-size-estimation/90626#post_1)
-- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_3)
-- [[RFC][MLIR][SPIR-V][TOSA] Add a lowering path from TOSA to SPIR-V TOSA for SPV_ARM_graph / SPV_ARM_tensors targets](https://discourse.llvm.org/t/rfc-mlir-spir-v-tosa-add-a-lowering-path-from-tosa-to-spir-v-tosa-for-spv-arm-graph-spv-arm-tensors-targets/90625#post_1)
 <!-- DISCOURSE-LLVM:END -->
