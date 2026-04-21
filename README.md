@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: a new packet to set/remove multiple breakpoints](https://discourse.llvm.org/t/rfc-a-new-packet-to-set-remove-multiple-breakpoints/90623#post_1)
+- [LLVM 22.1.4 Released!](https://discourse.llvm.org/t/llvm-22-1-4-released/90622#post_1)
+- [[RFC] Structural and Reachable Control Flow Edges in `RegionBranchOpInterface`](https://discourse.llvm.org/t/rfc-structural-and-reachable-control-flow-edges-in-regionbranchopinterface/90496#post_17)
+- [[RFC] Introduce MandatoryPassInfoMixin/OptionalPassInfoMixin for required/not required passes](https://discourse.llvm.org/t/rfc-introduce-mandatorypassinfomixin-optionalpassinfomixin-for-required-not-required-passes/90547#post_10)
 - [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_6)
-- [[RFC] Aggressive inlinging for OpenMP SIMD loops](https://discourse.llvm.org/t/rfc-aggressive-inlinging-for-openmp-simd-loops/90558#post_4)
-- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_5)
-- [[RFC] Structural and Reachable Control Flow Edges in `RegionBranchOpInterface`](https://discourse.llvm.org/t/rfc-structural-and-reachable-control-flow-edges-in-regionbranchopinterface/90496#post_16)
-- [[RFC] Add normalize pass to MLIR](https://discourse.llvm.org/t/rfc-add-normalize-pass-to-mlir/90600#post_10)
 <!-- DISCOURSE-LLVM:END -->
