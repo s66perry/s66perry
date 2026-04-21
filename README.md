@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add normalize pass to MLIR](https://discourse.llvm.org/t/rfc-add-normalize-pass-to-mlir/90600#post_9)
+- [[LSR] Question on CollectFixups... Function](https://discourse.llvm.org/t/lsr-question-on-collectfixups-function/90598#post_7)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Apr 27 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-apr-27-26-6pm/90548#post_5)
 - [[RFC] Flang Dependency Scanning for CMake](https://discourse.llvm.org/t/rfc-flang-dependency-scanning-for-cmake/90620#post_2)
 - [[RFC] Flang Dependency Scanning for CMake](https://discourse.llvm.org/t/rfc-flang-dependency-scanning-for-cmake/90620#post_1)
-- [Problems using DenseMaps across plugins, get_execution_seed&lpar;&rpar; and LLVM_ENABLE_ABI_BREAKING_CHECKS](https://discourse.llvm.org/t/problems-using-densemaps-across-plugins-get-execution-seed-and-llvm-enable-abi-breaking-checks/90209#post_6)
-- [LLVM Weekly - #642, April 20th 2026](https://discourse.llvm.org/t/llvm-weekly-642-april-20th-2026/90619#post_1)
-- [OpenMP Module Installation Paths in Flang](https://discourse.llvm.org/t/openmp-module-installation-paths-in-flang/90614#post_2)
 <!-- DISCOURSE-LLVM:END -->
