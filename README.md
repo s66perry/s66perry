@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Structural and Reachable Control Flow Edges in `RegionBranchOpInterface`](https://discourse.llvm.org/t/rfc-structural-and-reachable-control-flow-edges-in-regionbranchopinterface/90496#post_20)
 - [[RFC] [Arm] Fixing function size estimation?](https://discourse.llvm.org/t/rfc-arm-fixing-function-size-estimation/90626#post_4)
 - [RFC: a new packet to set/remove multiple breakpoints](https://discourse.llvm.org/t/rfc-a-new-packet-to-set-remove-multiple-breakpoints/90623#post_9)
 - [RFC: a new packet to set/remove multiple breakpoints](https://discourse.llvm.org/t/rfc-a-new-packet-to-set-remove-multiple-breakpoints/90623#post_8)
 - [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_12)
-- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_7)
 <!-- DISCOURSE-LLVM:END -->
