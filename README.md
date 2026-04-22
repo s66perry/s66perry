@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_5)
+- [Status of convergence control intrinsics](https://discourse.llvm.org/t/status-of-convergence-control-intrinsics/90627#post_3)
+- [RFC: a new packet to set/remove multiple breakpoints](https://discourse.llvm.org/t/rfc-a-new-packet-to-set-remove-multiple-breakpoints/90623#post_7)
+- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_4)
 - [[RFC] Remove automatic redirects from clang-tidy documentation](https://discourse.llvm.org/t/rfc-remove-automatic-redirects-from-clang-tidy-documentation/90633#post_1)
-- [[RFC] Roadmap board for the Vectorizers](https://discourse.llvm.org/t/rfc-roadmap-board-for-the-vectorizers/90632#post_2)
-- [LLVM Research Library - A place to watch ALL Dev Mtg talks, find papers, and more](https://discourse.llvm.org/t/llvm-research-library-a-place-to-watch-all-dev-mtg-talks-find-papers-and-more/90036#post_21)
-- [PDX Area April 2026 Social](https://discourse.llvm.org/t/pdx-area-april-2026-social/90459#post_2)
-- [[RFC] Roadmap board for the Vectorizers](https://discourse.llvm.org/t/rfc-roadmap-board-for-the-vectorizers/90632#post_1)
 <!-- DISCOURSE-LLVM:END -->
