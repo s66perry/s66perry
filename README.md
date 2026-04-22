@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_3)
-- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_2)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=3#post_42)
-- [RFC: a new packet to set/remove multiple breakpoints](https://discourse.llvm.org/t/rfc-a-new-packet-to-set-remove-multiple-breakpoints/90623#post_11)
-- [RFC: a new packet to set/remove multiple breakpoints](https://discourse.llvm.org/t/rfc-a-new-packet-to-set-remove-multiple-breakpoints/90623#post_10)
+- [EUROLLVM 2026 PAuthABI Roundtable meeting notes](https://discourse.llvm.org/t/eurollvm-2026-pauthabi-roundtable-meeting-notes/90640#post_1)
+- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_5)
+- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_4)
+- [[RFC] [Arm] Fixing function size estimation?](https://discourse.llvm.org/t/rfc-arm-fixing-function-size-estimation/90626#post_6)
+- [[RFC] EmitC support for MLGO](https://discourse.llvm.org/t/rfc-emitc-support-for-mlgo/87728#post_13)
 <!-- DISCOURSE-LLVM:END -->
