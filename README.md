@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISC-V LLVM sync-up call April 23rd 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-april-23rd-2026/90641#post_1)
-- [LLVM Research Library - A place to watch ALL Dev Mtg talks, find papers, and more](https://discourse.llvm.org/t/llvm-research-library-a-place-to-watch-all-dev-mtg-talks-find-papers-and-more/90036?page=2#post_22)
-- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_6)
-- [EUROLLVM 2026 PAuthABI Roundtable meeting notes](https://discourse.llvm.org/t/eurollvm-2026-pauthabi-roundtable-meeting-notes/90640#post_1)
-- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_5)
+- [[libc][RFC] Replacing check-libc with a lit-based test harness](https://discourse.llvm.org/t/libc-rfc-replacing-check-libc-with-a-lit-based-test-harness/89595#post_16)
+- [[RFC] Mention our AI policy in the greeting message for first-time contributors](https://discourse.llvm.org/t/rfc-mention-our-ai-policy-in-the-greeting-message-for-first-time-contributors/90642#post_4)
+- [[RFC] Target-provided CFG transform hints for divergent targets](https://discourse.llvm.org/t/rfc-target-provided-cfg-transform-hints-for-divergent-targets/90630#post_5)
+- [[RFC] Mention our AI policy in the greeting message for first-time contributors](https://discourse.llvm.org/t/rfc-mention-our-ai-policy-in-the-greeting-message-for-first-time-contributors/90642#post_3)
+- [[RFC] Mention our AI policy in the greeting message for first-time contributors](https://discourse.llvm.org/t/rfc-mention-our-ai-policy-in-the-greeting-message-for-first-time-contributors/90642#post_2)
 <!-- DISCOURSE-LLVM:END -->
