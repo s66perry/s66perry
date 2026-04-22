@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_5)
-- [Status of convergence control intrinsics](https://discourse.llvm.org/t/status-of-convergence-control-intrinsics/90627#post_3)
-- [RFC: a new packet to set/remove multiple breakpoints](https://discourse.llvm.org/t/rfc-a-new-packet-to-set-remove-multiple-breakpoints/90623#post_7)
-- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_4)
-- [[RFC] Remove automatic redirects from clang-tidy documentation](https://discourse.llvm.org/t/rfc-remove-automatic-redirects-from-clang-tidy-documentation/90633#post_1)
+- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_7)
+- [[RFC] Structural and Reachable Control Flow Edges in `RegionBranchOpInterface`](https://discourse.llvm.org/t/rfc-structural-and-reachable-control-flow-edges-in-regionbranchopinterface/90496#post_19)
+- [[RFC] [Arm] Fixing function size estimation?](https://discourse.llvm.org/t/rfc-arm-fixing-function-size-estimation/90626#post_3)
+- [Github hidden email and automated checker for pull requests](https://discourse.llvm.org/t/github-hidden-email-and-automated-checker-for-pull-requests/90629#post_4)
+- [[RFC] Target-provided CFG transform hints for divergent targets](https://discourse.llvm.org/t/rfc-target-provided-cfg-transform-hints-for-divergent-targets/90630#post_4)
 <!-- DISCOURSE-LLVM:END -->
