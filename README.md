@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624#post_18)
-- [MLIR Optimization Pass](https://discourse.llvm.org/t/mlir-optimization-pass/90646#post_1)
-- [[RFC] Clang warnings behave inconsistently between tidy and &quot;plain&quot; clang](https://discourse.llvm.org/t/rfc-clang-warnings-behave-inconsistently-between-tidy-and-plain-clang/89720#post_7)
-- [[RFC] EmitC support for MLGO](https://discourse.llvm.org/t/rfc-emitc-support-for-mlgo/87728#post_14)
-- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=6#post_107)
+- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_14)
+- [TOSA/Tensor MLIR Optimization Pass](https://discourse.llvm.org/t/tosa-tensor-mlir-optimization-pass/90646#post_2)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=2#post_40)
+- [Assembly Dialects Roundtable](https://discourse.llvm.org/t/assembly-dialects-roundtable/90647#post_1)
+- [[RFC] Remove automatic redirects from clang-tidy documentation](https://discourse.llvm.org/t/rfc-remove-automatic-redirects-from-clang-tidy-documentation/90633#post_4)
 <!-- DISCOURSE-LLVM:END -->
