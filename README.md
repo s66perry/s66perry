@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Round Table: Embedded Toolchains](https://discourse.llvm.org/t/round-table-embedded-toolchains/90655#post_3)
+- [Help with issues labeling](https://discourse.llvm.org/t/help-with-issues-labeling/73356#post_3)
+- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_11)
 - [[RFC] IR tracker: source-location-indexed pass history for LLVM IR](https://discourse.llvm.org/t/rfc-ir-tracker-source-location-indexed-pass-history-for-llvm-ir/90535#post_8)
 - [Assembly Dialects Roundtable](https://discourse.llvm.org/t/assembly-dialects-roundtable/90647#post_11)
-- [Assembly Dialects Roundtable](https://discourse.llvm.org/t/assembly-dialects-roundtable/90647#post_10)
-- [Building LIBCXX with LLVM&#39;s LIBC](https://discourse.llvm.org/t/building-libcxx-with-llvms-libc/90657#post_5)
-- [RFC: Linux Kernel discusses OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-linux-kernel-discusses-overflowbehaviortypes/90486#post_15)
 <!-- DISCOURSE-LLVM:END -->
