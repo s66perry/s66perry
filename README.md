@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_10)
-- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_34)
-- [Missed Store Forwarding in the Presence of Atomic Operations](https://discourse.llvm.org/t/missed-store-forwarding-in-the-presence-of-atomic-operations/90653#post_1)
-- [Upstreaming basic support for accelerators](https://discourse.llvm.org/t/upstreaming-basic-support-for-accelerators/89827#post_7)
-- [LLVM-Test-Suite: How are &quot;reference outputs&quot; calculated?](https://discourse.llvm.org/t/llvm-test-suite-how-are-reference-outputs-calculated/90648#post_3)
+- [Distribute a compiler that links against LLVM/MLIR dynamic libraries](https://discourse.llvm.org/t/distribute-a-compiler-that-links-against-llvm-mlir-dynamic-libraries/90628#post_14)
+- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_9)
+- [[RFC] Alignment of global arrays](https://discourse.llvm.org/t/rfc-alignment-of-global-arrays/90397#post_13)
+- [RFC: Make Outlinable OpenMP Operations IsolatedFromAbove](https://discourse.llvm.org/t/rfc-make-outlinable-openmp-operations-isolatedfromabove/90565#post_16)
+- [[RFC] Alignment of global arrays](https://discourse.llvm.org/t/rfc-alignment-of-global-arrays/90397#post_12)
 <!-- DISCOURSE-LLVM:END -->
