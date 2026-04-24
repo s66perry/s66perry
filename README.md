@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Missed Store Forwarding in the Presence of Atomic Operations](https://discourse.llvm.org/t/missed-store-forwarding-in-the-presence-of-atomic-operations/90653#post_1)
+- [Upstreaming basic support for accelerators](https://discourse.llvm.org/t/upstreaming-basic-support-for-accelerators/89827#post_7)
+- [LLVM-Test-Suite: How are &quot;reference outputs&quot; calculated?](https://discourse.llvm.org/t/llvm-test-suite-how-are-reference-outputs-calculated/90648#post_3)
+- [[RFC] LLD: Preferring small code model COMDAT sections over large ones when mixing code models](https://discourse.llvm.org/t/rfc-lld-preferring-small-code-model-comdat-sections-over-large-ones-when-mixing-code-models/89550?page=2#post_23)
 - [Changes for MISRA/AUTOSAR coding standards](https://discourse.llvm.org/t/changes-for-misra-autosar-coding-standards/90502#post_5)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Apr 23](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-apr-23/90612#post_3)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_26)
-- [LLVM-Test-Suite: How are &quot;reference outputs&quot; calculated?](https://discourse.llvm.org/t/llvm-test-suite-how-are-reference-outputs-calculated/90648#post_2)
-- [Assembly Dialects Roundtable](https://discourse.llvm.org/t/assembly-dialects-roundtable/90647#post_5)
 <!-- DISCOURSE-LLVM:END -->
