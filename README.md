@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLD: Preferring small code model COMDAT sections over large ones when mixing code models](https://discourse.llvm.org/t/rfc-lld-preferring-small-code-model-comdat-sections-over-large-ones-when-mixing-code-models/89550?page=2#post_24)
-- [[RFC] Target-provided CFG transform hints for divergent targets](https://discourse.llvm.org/t/rfc-target-provided-cfg-transform-hints-for-divergent-targets/90630#post_6)
-- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_12)
-- [LLVM-Test-Suite: How are &quot;reference outputs&quot; calculated?](https://discourse.llvm.org/t/llvm-test-suite-how-are-reference-outputs-calculated/90648#post_11)
-- [LLVM-Test-Suite: How are &quot;reference outputs&quot; calculated?](https://discourse.llvm.org/t/llvm-test-suite-how-are-reference-outputs-calculated/90648#post_10)
+- [Building LIBCXX with LLVM&#39;s LIBC](https://discourse.llvm.org/t/building-libcxx-with-llvms-libc/90657#post_3)
+- [Building LIBCXX with LLVM&#39;s LIBC](https://discourse.llvm.org/t/building-libcxx-with-llvms-libc/90657#post_2)
+- [Building LIBCXX with LLVM&#39;s LIBC](https://discourse.llvm.org/t/building-libcxx-with-llvms-libc/90657#post_1)
+- [[MachO] Adding arm64e support to LLD](https://discourse.llvm.org/t/macho-adding-arm64e-support-to-lld/90656#post_1)
+- [Round Table: Embedded Toolchains](https://discourse.llvm.org/t/round-table-embedded-toolchains/90655#post_1)
 <!-- DISCOURSE-LLVM:END -->
