@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_37)
-- [[RFC] Rework CommandLine to use thread-local stack-based state](https://discourse.llvm.org/t/rfc-rework-commandline-to-use-thread-local-stack-based-state/90663#post_3)
-- [[RFC] Rework CommandLine to use thread-local stack-based state](https://discourse.llvm.org/t/rfc-rework-commandline-to-use-thread-local-stack-based-state/90663#post_2)
-- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_36)
-- [[RFC] Provide intrinsics for speculative loads](https://discourse.llvm.org/t/rfc-provide-intrinsics-for-speculative-loads/89692?page=4#post_72)
+- [RFC: Offload PGO for HIP &lpar;AMDGPU Device-Side Profile Guided Optimization&rpar;](https://discourse.llvm.org/t/rfc-offload-pgo-for-hip-amdgpu-device-side-profile-guided-optimization/89577#post_12)
+- [ELLPACK sparse tensor format](https://discourse.llvm.org/t/ellpack-sparse-tensor-format/90500#post_12)
+- [Building LIBCXX with LLVM&#39;s LIBC](https://discourse.llvm.org/t/building-libcxx-with-llvms-libc/90657#post_8)
+- [[RFC] Flang lowering for OpenMP metadirective](https://discourse.llvm.org/t/rfc-flang-lowering-for-openmp-metadirective/90338#post_5)
+- [Undefined behavior in the math dialect](https://discourse.llvm.org/t/undefined-behavior-in-the-math-dialect/90522#post_6)
 <!-- DISCOURSE-LLVM:END -->
