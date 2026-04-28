@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Register spilling with a large `switch`](https://discourse.llvm.org/t/register-spilling-with-a-large-switch/90664#post_2)
-- [TOSA/Tensor MLIR Optimization Pass](https://discourse.llvm.org/t/tosa-tensor-mlir-optimization-pass/90646#post_3)
-- [C++ Static Analysis Round-Table Notes — EuroLLVM 2026, Dublin](https://discourse.llvm.org/t/c-static-analysis-round-table-notes-eurollvm-2026-dublin/90672#post_1)
-- [A subregister of wide register class needs spill, but regalloc spills this wide register, how to opt it?](https://discourse.llvm.org/t/a-subregister-of-wide-register-class-needs-spill-but-regalloc-spills-this-wide-register-how-to-opt-it/90295#post_4)
-- [[RFC] Reducing process creation overhead in LLVM regression tests](https://discourse.llvm.org/t/rfc-reducing-process-creation-overhead-in-llvm-regression-tests/88612?page=2#post_38)
+- [Missed Store Forwarding in the Presence of Atomic Operations](https://discourse.llvm.org/t/missed-store-forwarding-in-the-presence-of-atomic-operations/90653#post_2)
+- [[RFC] Add ETM Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-etm-trace-support-to-llvm-profgen/90525#post_14)
+- [[RFC] EmitC support for MLGO](https://discourse.llvm.org/t/rfc-emitc-support-for-mlgo/87728#post_16)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_28)
+- [[RFC] Multi-Sloc DWARF line table extension](https://discourse.llvm.org/t/rfc-multi-sloc-dwarf-line-table-extension/90659#post_5)
 <!-- DISCOURSE-LLVM:END -->
