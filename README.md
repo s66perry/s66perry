@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove 32-bit time_t](https://discourse.llvm.org/t/rfc-remove-32-bit-time-t/90668#post_4)
-- [[RFC] Remove the use of clang-runtimes subfolder in the BareMetal driver](https://discourse.llvm.org/t/rfc-remove-the-use-of-clang-runtimes-subfolder-in-the-baremetal-driver/90504#post_12)
-- [[RFC] Requirements for bare-metal toolchain multilibs layout](https://discourse.llvm.org/t/rfc-requirements-for-bare-metal-toolchain-multilibs-layout/90680#post_2)
-- [[RFC] Requirements for bare-metal toolchain multilibs layout](https://discourse.llvm.org/t/rfc-requirements-for-bare-metal-toolchain-multilibs-layout/90680#post_1)
-- [[RFC] Enforce Single-Operand Format for All .enable Metadata Nodes](https://discourse.llvm.org/t/rfc-enforce-single-operand-format-for-all-enable-metadata-nodes/90571#post_5)
+- [[RFC] Remove opencl_global_device and opencl_global_host address space attributes](https://discourse.llvm.org/t/rfc-remove-opencl-global-device-and-opencl-global-host-address-space-attributes/90677#post_9)
+- [[RFC] Add IR support for non-fetch atomicrmw &lpar;C++26 P3111&rpar;](https://discourse.llvm.org/t/rfc-add-ir-support-for-non-fetch-atomicrmw-c-26-p3111/90514#post_5)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=6#post_108)
+- [[RFC]: Improving FPMR Handling for FP8 Intrinsics in LLVM](https://discourse.llvm.org/t/rfc-improving-fpmr-handling-for-fp8-intrinsics-in-llvm/86868#post_12)
+- [[RFC] Remove 32-bit time_t](https://discourse.llvm.org/t/rfc-remove-32-bit-time-t/90668#post_5)
 <!-- DISCOURSE-LLVM:END -->
