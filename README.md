@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ACAV v1.0.0: a GUI tool for exploring Clang ASTs](https://discourse.llvm.org/t/acav-v1-0-0-a-gui-tool-for-exploring-clang-asts/90683#post_3)
+- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_32)
+- [ACAV: a GUI tool for exploring Clang ASTs](https://discourse.llvm.org/t/acav-a-gui-tool-for-exploring-clang-asts/90683#post_3)
 - [Request for advice in updating IntRange optimziations](https://discourse.llvm.org/t/request-for-advice-in-updating-intrange-optimziations/90685#post_2)
-- [ACAV v1.0.0: a GUI tool for exploring Clang ASTs](https://discourse.llvm.org/t/acav-v1-0-0-a-gui-tool-for-exploring-clang-asts/90683#post_2)
+- [ACAV: a GUI tool for exploring Clang ASTs](https://discourse.llvm.org/t/acav-a-gui-tool-for-exploring-clang-asts/90683#post_2)
 - [Request for advice in updating IntRange optimziations](https://discourse.llvm.org/t/request-for-advice-in-updating-intrange-optimziations/90685#post_1)
-- [[RFC] Requirements for bare-metal toolchain multilibs layout](https://discourse.llvm.org/t/rfc-requirements-for-bare-metal-toolchain-multilibs-layout/90680#post_4)
 <!-- DISCOURSE-LLVM:END -->
