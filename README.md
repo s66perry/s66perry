@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Help with issues labeling](https://discourse.llvm.org/t/help-with-issues-labeling/73356#post_5)
-- [[RFC] Semantics of `vector.gather` Indices with Strided MemRefs](https://discourse.llvm.org/t/rfc-semantics-of-vector-gather-indices-with-strided-memrefs/89722#post_11)
-- [[RFC] Requirements for bare-metal toolchain multilibs layout](https://discourse.llvm.org/t/rfc-requirements-for-bare-metal-toolchain-multilibs-layout/90680#post_5)
-- [Active PR branches automatically deleted](https://discourse.llvm.org/t/active-pr-branches-automatically-deleted/90681#post_5)
-- [[RFC] Store fast-math flags in subclasses of `Instruction`](https://discourse.llvm.org/t/rfc-store-fast-math-flags-in-subclasses-of-instruction/90679#post_5)
+- [[RFC] Remove opencl_global_device and opencl_global_host address space attributes](https://discourse.llvm.org/t/rfc-remove-opencl-global-device-and-opencl-global-host-address-space-attributes/90677#post_15)
+- [Using clang-query on the whole project](https://discourse.llvm.org/t/using-clang-query-on-the-whole-project/37004#post_10)
+- [[GSoC 2026] Accepted: Adding native Fortran support in LLDB](https://discourse.llvm.org/t/gsoc-2026-accepted-adding-native-fortran-support-in-lldb/90688#post_1)
+- [Request for advice in updating IntRange optimziations](https://discourse.llvm.org/t/request-for-advice-in-updating-intrange-optimziations/90685#post_5)
+- [[RFC] Store fast-math flags in subclasses of `Instruction`](https://discourse.llvm.org/t/rfc-store-fast-math-flags-in-subclasses-of-instruction/90679#post_6)
 <!-- DISCOURSE-LLVM:END -->
