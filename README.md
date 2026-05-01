@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Linux Kernel discusses OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-linux-kernel-discusses-overflowbehaviortypes/90486#post_16)
 - [Board Meeting Minutes -- April 3, 2026](https://discourse.llvm.org/t/board-meeting-minutes-april-3-2026/90698#post_1)
 - [[GSOC 2026] [clang-doc] Improving Clang-Doc](https://discourse.llvm.org/t/gsoc-2026-clang-doc-improving-clang-doc/90696#post_2)
 - [[RFC] Disable pre-LTO loop vectorisation](https://discourse.llvm.org/t/rfc-disable-pre-lto-loop-vectorisation/90539#post_12)
 - [[GSOC 2026] Improving llvm-lit](https://discourse.llvm.org/t/gsoc-2026-improving-llvm-lit/90697#post_3)
-- [[GSOC 2026] Improving llvm-lit](https://discourse.llvm.org/t/gsoc-2026-improving-llvm-lit/90697#post_2)
 <!-- DISCOURSE-LLVM:END -->
