@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Interpreted Binary Interactive Debugging &lpar;IBID&rpar;](https://discourse.llvm.org/t/rfc-interpreted-binary-interactive-debugging-ibid/90703#post_4)
-- [[RFC] Introducing memory&lpar;fresh&rpar; to LLVM IR](https://discourse.llvm.org/t/rfc-introducing-memory-fresh-to-llvm-ir/90704#post_2)
-- [[RFC] Introducing memory&lpar;fresh&rpar; to LLVM IR](https://discourse.llvm.org/t/rfc-introducing-memory-fresh-to-llvm-ir/90704#post_1)
-- [[RFC] Interpreted Binary Interactive Debugging &lpar;IBID&rpar;](https://discourse.llvm.org/t/rfc-interpreted-binary-interactive-debugging-ibid/90703#post_3)
-- [[RFC] Interpreted Binary Interactive Debugging &lpar;IBID&rpar;](https://discourse.llvm.org/t/rfc-interpreted-binary-interactive-debugging-ibid/90703#post_2)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706#post_4)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706#post_3)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706#post_2)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706#post_1)
+- [[RFC] Interpreted Binary Interactive Debugging &lpar;IBID&rpar;](https://discourse.llvm.org/t/rfc-interpreted-binary-interactive-debugging-ibid/90703#post_5)
 <!-- DISCOURSE-LLVM:END -->
