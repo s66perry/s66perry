@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_1)
+- [Status of convergence control intrinsics](https://discourse.llvm.org/t/status-of-convergence-control-intrinsics/90627#post_6)
+- [[RFC] Making the lldb-dap test infrastructure more reliable](https://discourse.llvm.org/t/rfc-making-the-lldb-dap-test-infrastructure-more-reliable/90694#post_2)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706#post_11)
 - [[RFC] Introducing memory&lpar;fresh&rpar; to LLVM IR](https://discourse.llvm.org/t/rfc-introducing-memory-fresh-to-llvm-ir/90704#post_4)
-- [[RFC] Introducing memory&lpar;fresh&rpar; to LLVM IR](https://discourse.llvm.org/t/rfc-introducing-memory-fresh-to-llvm-ir/90704#post_3)
-- [[GSOC 2026] [clang-doc] Improving Clang-Doc](https://discourse.llvm.org/t/gsoc-2026-clang-doc-improving-clang-doc/90696#post_4)
-- [[RFC] Interpreted Binary Interactive Debugging &lpar;IBID&rpar;](https://discourse.llvm.org/t/rfc-interpreted-binary-interactive-debugging-ibid/90703#post_8)
-- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706#post_10)
 <!-- DISCOURSE-LLVM:END -->
