@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_4)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_30)
-- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_2)
-- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_1)
-- [[RFC] Interpreted Binary Interactive Debugging &lpar;IBID&rpar;](https://discourse.llvm.org/t/rfc-interpreted-binary-interactive-debugging-ibid/90703#post_13)
+- [[RFC] Aggressive inlinging for OpenMP SIMD loops](https://discourse.llvm.org/t/rfc-aggressive-inlinging-for-openmp-simd-loops/90558#post_6)
+- [[RFC] Teaching MachO linkers to produce TBD files](https://discourse.llvm.org/t/rfc-teaching-macho-linkers-to-produce-tbd-files/90733#post_4)
+- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_5)
+- [[RFC] Aggressive inlinging for OpenMP SIMD loops](https://discourse.llvm.org/t/rfc-aggressive-inlinging-for-openmp-simd-loops/90558#post_5)
+- [[RFC] Teaching MachO linkers to produce TBD files](https://discourse.llvm.org/t/rfc-teaching-macho-linkers-to-produce-tbd-files/90733#post_3)
 <!-- DISCOURSE-LLVM:END -->
