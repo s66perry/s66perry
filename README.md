@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Aggressive inlinging for OpenMP SIMD loops](https://discourse.llvm.org/t/rfc-aggressive-inlinging-for-openmp-simd-loops/90558#post_6)
-- [[RFC] Teaching MachO linkers to produce TBD files](https://discourse.llvm.org/t/rfc-teaching-macho-linkers-to-produce-tbd-files/90733#post_4)
-- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_5)
-- [[RFC] Aggressive inlinging for OpenMP SIMD loops](https://discourse.llvm.org/t/rfc-aggressive-inlinging-for-openmp-simd-loops/90558#post_5)
-- [[RFC] Teaching MachO linkers to produce TBD files](https://discourse.llvm.org/t/rfc-teaching-macho-linkers-to-produce-tbd-files/90733#post_3)
+- [[RFC] Multi-architecture COFF object files for ARM64X](https://discourse.llvm.org/t/rfc-multi-architecture-coff-object-files-for-arm64x/90723#post_3)
+- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283#post_20)
+- [[RFC] Constant-Time Coding Support](https://discourse.llvm.org/t/rfc-constant-time-coding-support/87781?page=3#post_47)
+- [[GSoC 2026] Enabling HLSL Support in clangd](https://discourse.llvm.org/t/gsoc-2026-enabling-hlsl-support-in-clangd/90730#post_3)
+- [[GSoC 2026] Enabling HLSL Support in clangd](https://discourse.llvm.org/t/gsoc-2026-enabling-hlsl-support-in-clangd/90730#post_2)
 <!-- DISCOURSE-LLVM:END -->
