@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Improve bad_variant_access::what&lpar;&rpar; messages](https://discourse.llvm.org/t/rfc-improve-bad-variant-access-what-messages/90716#post_5)
-- [[RFC] Introduce a -wholearchive marker embedded in archives themselves](https://discourse.llvm.org/t/rfc-introduce-a-wholearchive-marker-embedded-in-archives-themselves/90721#post_5)
-- [Register spilling with a large `switch`](https://discourse.llvm.org/t/register-spilling-with-a-large-switch/90664#post_4)
-- [[RFC] Introduce a -wholearchive marker embedded in archives themselves](https://discourse.llvm.org/t/rfc-introduce-a-wholearchive-marker-embedded-in-archives-themselves/90721#post_4)
-- [[RFC] Introduce a -wholearchive marker embedded in archives themselves](https://discourse.llvm.org/t/rfc-introduce-a-wholearchive-marker-embedded-in-archives-themselves/90721#post_3)
+- [LoadFromASTFile consistency between LLVM 3.9.0 and LLVM 22.1.0](https://discourse.llvm.org/t/loadfromastfile-consistency-between-llvm-3-9-0-and-llvm-22-1-0/90714#post_4)
+- [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719#post_2)
+- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_2)
+- [[RFC] Store fast-math flags in subclasses of `Instruction`](https://discourse.llvm.org/t/rfc-store-fast-math-flags-in-subclasses-of-instruction/90679#post_8)
+- [[RFC] Switching from libedit to replxx in lldb](https://discourse.llvm.org/t/rfc-switching-from-libedit-to-replxx-in-lldb/90720#post_2)
 <!-- DISCOURSE-LLVM:END -->
