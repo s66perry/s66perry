@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introduce a -wholearchive marker embedded in archives themselves](https://discourse.llvm.org/t/rfc-introduce-a-wholearchive-marker-embedded-in-archives-themselves/90721#post_13)
-- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739#post_2)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_34)
-- [[RFC] Unroll inner loops when user requests outer loop vectorization](https://discourse.llvm.org/t/rfc-unroll-inner-loops-when-user-requests-outer-loop-vectorization/90742#post_1)
-- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_33)
+- [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719#post_7)
+- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739#post_7)
+- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739#post_6)
+- [[RFC] Teaching MachO linkers to produce TBD files](https://discourse.llvm.org/t/rfc-teaching-macho-linkers-to-produce-tbd-files/90733#post_7)
+- [[RFC] Teaching MachO linkers to produce TBD files](https://discourse.llvm.org/t/rfc-teaching-macho-linkers-to-produce-tbd-files/90733#post_6)
 <!-- DISCOURSE-LLVM:END -->
