@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Collection of minimal clang frontend assertion failure test cases](https://discourse.llvm.org/t/collection-of-minimal-clang-frontend-assertion-failure-test-cases/90735#post_3)
-- [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_2)
-- [Collection of minimal clang frontend assertion failure test cases](https://discourse.llvm.org/t/collection-of-minimal-clang-frontend-assertion-failure-test-cases/90735#post_2)
-- [[RFC] Multi-architecture COFF object files for ARM64X](https://discourse.llvm.org/t/rfc-multi-architecture-coff-object-files-for-arm64x/90723#post_4)
-- [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_1)
+- [[RFC] Introduce a -wholearchive marker embedded in archives themselves](https://discourse.llvm.org/t/rfc-introduce-a-wholearchive-marker-embedded-in-archives-themselves/90721#post_6)
+- [LoadFromASTFile consistency between LLVM 3.9.0 and LLVM 22.1.0](https://discourse.llvm.org/t/loadfromastfile-consistency-between-llvm-3-9-0-and-llvm-22-1-0/90714#post_5)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_32)
+- [[RFC] Switching from libedit to replxx in lldb](https://discourse.llvm.org/t/rfc-switching-from-libedit-to-replxx-in-lldb/90720#post_5)
+- [Collection of minimal clang frontend assertion failure test cases](https://discourse.llvm.org/t/collection-of-minimal-clang-frontend-assertion-failure-test-cases/90735#post_5)
 <!-- DISCOURSE-LLVM:END -->
