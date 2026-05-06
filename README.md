@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624?page=2#post_24)
-- [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_3)
-- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624?page=2#post_23)
-- [[RFC] Introduce a -wholearchive marker embedded in archives themselves](https://discourse.llvm.org/t/rfc-introduce-a-wholearchive-marker-embedded-in-archives-themselves/90721#post_10)
-- [Active PR branches automatically deleted](https://discourse.llvm.org/t/active-pr-branches-automatically-deleted/90681#post_6)
+- [[RFC] Introduce a -wholearchive marker embedded in archives themselves](https://discourse.llvm.org/t/rfc-introduce-a-wholearchive-marker-embedded-in-archives-themselves/90721#post_13)
+- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739#post_2)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_34)
+- [[RFC] Unroll inner loops when user requests outer loop vectorization](https://discourse.llvm.org/t/rfc-unroll-inner-loops-when-user-requests-outer-loop-vectorization/90742#post_1)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
