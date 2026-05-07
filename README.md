@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719#post_8)
+- [Windows PR testing for lldb](https://discourse.llvm.org/t/windows-pr-testing-for-lldb/90432#post_7)
+- [[RFC] Unroll inner loops when user requests outer loop vectorization](https://discourse.llvm.org/t/rfc-unroll-inner-loops-when-user-requests-outer-loop-vectorization/90742#post_2)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_2)
 - [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_1)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_66)
-- [[RFC] Teaching MachO linkers to produce TBD files](https://discourse.llvm.org/t/rfc-teaching-macho-linkers-to-produce-tbd-files/90733#post_10)
-- [[RFC] Remove unused transitive includes from the libc++ headers](https://discourse.llvm.org/t/rfc-remove-unused-transitive-includes-from-the-libc-headers/90157#post_7)
-- [[RFC] Multi-architecture COFF object files for ARM64X](https://discourse.llvm.org/t/rfc-multi-architecture-coff-object-files-for-arm64x/90723#post_6)
 <!-- DISCOURSE-LLVM:END -->
