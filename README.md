@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_9)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_8)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_7)
 - [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_6)
 - [[RFC] Unroll inner loops when user requests outer loop vectorization](https://discourse.llvm.org/t/rfc-unroll-inner-loops-when-user-requests-outer-loop-vectorization/90742#post_3)
-- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_5)
-- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_4)
-- [[RFC] Multi-architecture COFF object files for ARM64X](https://discourse.llvm.org/t/rfc-multi-architecture-coff-object-files-for-arm64x/90723#post_8)
 <!-- DISCOURSE-LLVM:END -->
