@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_4)
+- [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719#post_12)
 - [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_3)
 - [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_2)
 - [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_1)
-- [LoadFromASTFile consistency between LLVM 3.9.0 and LLVM 22.1.0](https://discourse.llvm.org/t/loadfromastfile-consistency-between-llvm-3-9-0-and-llvm-22-1-0/90714#post_9)
-- [LoadFromASTFile consistency between LLVM 3.9.0 and LLVM 22.1.0](https://discourse.llvm.org/t/loadfromastfile-consistency-between-llvm-3-9-0-and-llvm-22-1-0/90714#post_8)
 <!-- DISCOURSE-LLVM:END -->
