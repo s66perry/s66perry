@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [LoadFromASTFile consistency between LLVM 3.9.0 and LLVM 22.1.0](https://discourse.llvm.org/t/loadfromastfile-consistency-between-llvm-3-9-0-and-llvm-22-1-0/90714#post_8)
 - [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739#post_17)
 - [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_8)
 - [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_7)
 - [GH Actions no longer use -march=native / caching fixes](https://discourse.llvm.org/t/gh-actions-no-longer-use-march-native-caching-fixes/90755#post_1)
-- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739#post_16)
 <!-- DISCOURSE-LLVM:END -->
