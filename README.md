@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introducing memory&lpar;fresh&rpar; to LLVM IR](https://discourse.llvm.org/t/rfc-introducing-memory-fresh-to-llvm-ir/90704#post_5)
+- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_5)
 - [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_4)
 - [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719#post_12)
 - [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_3)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_2)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_1)
 <!-- DISCOURSE-LLVM:END -->
