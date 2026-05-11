@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introducing Instrumentor: Easily Customizable Code Instrumentation](https://discourse.llvm.org/t/rfc-introducing-instrumentor-easily-customizable-code-instrumentation/86020#post_2)
+- [LLVM Weekly - #645, May 11th 2026](https://discourse.llvm.org/t/llvm-weekly-645-may-11th-2026/90767#post_1)
 - [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_7)
 - [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746#post_14)
 - [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_6)
-- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_6)
-- [[RFC] Remove opencl_global_device and opencl_global_host address space attributes](https://discourse.llvm.org/t/rfc-remove-opencl-global-device-and-opencl-global-host-address-space-attributes/90677#post_16)
 <!-- DISCOURSE-LLVM:END -->
