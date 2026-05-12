@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[Modules] Bi-weekly Meetup Notes, May 12, 2026](https://discourse.llvm.org/t/modules-bi-weekly-meetup-notes-may-12-2026/90772#post_1)
-- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_12)
-- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_11)
-- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_10)
-- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_9)
+- [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_13)
+- [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_12)
+- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936?page=2#post_23)
+- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_15)
+- [C++ Debugger/Compiler engineer at Apple &lpar;London, UK&rpar;](https://discourse.llvm.org/t/c-debugger-compiler-engineer-at-apple-london-uk/90773#post_1)
 <!-- DISCOURSE-LLVM:END -->
