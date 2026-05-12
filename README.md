@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_2)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_1)
+- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_7)
 - [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_13)
 - [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_12)
-- [Should there be an architecture-agnostic variable vector shuffle operation?](https://discourse.llvm.org/t/should-there-be-an-architecture-agnostic-variable-vector-shuffle-operation/88936?page=2#post_23)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_15)
-- [C++ Debugger/Compiler engineer at Apple &lpar;London, UK&rpar;](https://discourse.llvm.org/t/c-debugger-compiler-engineer-at-apple-london-uk/90773#post_1)
 <!-- DISCOURSE-LLVM:END -->
