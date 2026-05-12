@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_3)
+- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_2)
+- [[RFC] Put &quot;LLVM Loop Optimization Discussion&quot; on community calendar and avoid conflict](https://discourse.llvm.org/t/rfc-put-llvm-loop-optimization-discussion-on-community-calendar-and-avoid-conflict/90741#post_4)
 - [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_1)
 - [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_11)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_13)
-- [[RFC] Switching from libedit to replxx in lldb](https://discourse.llvm.org/t/rfc-switching-from-libedit-to-replxx-in-lldb/90720#post_6)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_12)
 <!-- DISCOURSE-LLVM:END -->
