@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_17)
-- [[RFC] Add metadata level `nsz` support for `load` instruction](https://discourse.llvm.org/t/rfc-add-metadata-level-nsz-support-for-load-instruction/90780#post_2)
-- [[RFC] Add metadata level `nsz` support for `load` instruction](https://discourse.llvm.org/t/rfc-add-metadata-level-nsz-support-for-load-instruction/90780#post_1)
-- [How to make an llvm/example that depends/uses the clang just built](https://discourse.llvm.org/t/how-to-make-an-llvm-example-that-depends-uses-the-clang-just-built/90776#post_3)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_4)
+- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_11)
+- [Should `load` support fast-math flags?](https://discourse.llvm.org/t/should-load-support-fast-math-flags/90748#post_3)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_25)
+- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_13)
+- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
