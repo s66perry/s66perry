@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_11)
-- [Should `load` support fast-math flags?](https://discourse.llvm.org/t/should-load-support-fast-math-flags/90748#post_3)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_25)
-- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_13)
-- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624?page=2#post_30)
+- [[RFC] Switching from libedit to replxx in lldb](https://discourse.llvm.org/t/rfc-switching-from-libedit-to-replxx-in-lldb/90720#post_8)
+- [[RFC] Add non-blocking precommit `clang-tidy` analysis](https://discourse.llvm.org/t/rfc-add-non-blocking-precommit-clang-tidy-analysis/89917?page=2#post_30)
+- [[RFC] Store fast-math flags in subclasses of `Instruction`](https://discourse.llvm.org/t/rfc-store-fast-math-flags-in-subclasses-of-instruction/90679#post_10)
+- [[RFC][LV] Active-lane guard diamonds: skipping conditionally-executed VPlan blocks when no lane is active](https://discourse.llvm.org/t/rfc-lv-active-lane-guard-diamonds-skipping-conditionally-executed-vplan-blocks-when-no-lane-is-active/90779#post_2)
+- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_17)
 <!-- DISCOURSE-LLVM:END -->
