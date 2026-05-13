@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to make an llvm/example that depends/uses the clang just built](https://discourse.llvm.org/t/how-to-make-an-llvm-example-that-depends-uses-the-clang-just-built/90776#post_2)
-- [Israel LLVM Meetup Group - June 10th 2026](https://discourse.llvm.org/t/israel-llvm-meetup-group-june-10th-2026/90778#post_1)
-- [[RFC] IR tracker: source-location-indexed pass history for LLVM IR](https://discourse.llvm.org/t/rfc-ir-tracker-source-location-indexed-pass-history-for-llvm-ir/90535#post_10)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_2)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_1)
+- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_16)
+- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_7)
+- [[RFC][LV] Active-lane guard diamonds: skipping conditionally-executed VPlan blocks when no lane is active](https://discourse.llvm.org/t/rfc-lv-active-lane-guard-diamonds-skipping-conditionally-executed-vplan-blocks-when-no-lane-is-active/90779#post_1)
+- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_3)
+- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_9)
 <!-- DISCOURSE-LLVM:END -->
