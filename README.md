@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_16)
-- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_7)
-- [[RFC][LV] Active-lane guard diamonds: skipping conditionally-executed VPlan blocks when no lane is active](https://discourse.llvm.org/t/rfc-lv-active-lane-guard-diamonds-skipping-conditionally-executed-vplan-blocks-when-no-lane-is-active/90779#post_1)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_3)
-- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_9)
+- [[RFC] bitinsert and bitextract instructions for LLVM IR](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir/90756#post_17)
+- [[RFC] Add metadata level `nsz` support for `load` instruction](https://discourse.llvm.org/t/rfc-add-metadata-level-nsz-support-for-load-instruction/90780#post_2)
+- [[RFC] Add metadata level `nsz` support for `load` instruction](https://discourse.llvm.org/t/rfc-add-metadata-level-nsz-support-for-load-instruction/90780#post_1)
+- [How to make an llvm/example that depends/uses the clang just built](https://discourse.llvm.org/t/how-to-make-an-llvm-example-that-depends-uses-the-clang-just-built/90776#post_3)
+- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_4)
 <!-- DISCOURSE-LLVM:END -->
