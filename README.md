@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[mlir][mem2reg][RFC] Promote memory slots through transparent view operations](https://discourse.llvm.org/t/mlir-mem2reg-rfc-promote-memory-slots-through-transparent-view-operations/90761#post_2)
+- [How to make an llvm/example that depends/uses the clang just built](https://discourse.llvm.org/t/how-to-make-an-llvm-example-that-depends-uses-the-clang-just-built/90776#post_1)
 - [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_3)
 - [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_8)
 - [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_2)
-- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_1)
-- [RFC: Optional support for signaling NaNs](https://discourse.llvm.org/t/rfc-optional-support-for-signaling-nans/90711#post_7)
 <!-- DISCOURSE-LLVM:END -->
