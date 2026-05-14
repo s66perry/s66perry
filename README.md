@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Switching from libedit to replxx in lldb](https://discourse.llvm.org/t/rfc-switching-from-libedit-to-replxx-in-lldb/90720#post_15)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=3#post_45)
-- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_11)
-- [[RFC] Switching from libedit to replxx in lldb](https://discourse.llvm.org/t/rfc-switching-from-libedit-to-replxx-in-lldb/90720#post_14)
-- [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719#post_18)
+- [[mlir][affine] Affine-super-vectorize does not set in_bounds on transfer ops for statically divisible shapes](https://discourse.llvm.org/t/mlir-affine-affine-super-vectorize-does-not-set-in-bounds-on-transfer-ops-for-statically-divisible-shapes/90785#post_2)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_14)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_13)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_12)
+- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_9)
 <!-- DISCOURSE-LLVM:END -->
