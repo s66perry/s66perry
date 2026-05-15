@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support LLVM_LINK_LLVM_DYLIB on MSVC](https://discourse.llvm.org/t/rfc-support-llvm-link-llvm-dylib-on-msvc/90799#post_1)
-- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_2)
-- [[RFC] Switching from libedit to replxx in lldb](https://discourse.llvm.org/t/rfc-switching-from-libedit-to-replxx-in-lldb/90720#post_16)
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_1)
-- [[RFC] Pass-Instrumentation-Based Verification for PGO Use Profile Consistency](https://discourse.llvm.org/t/rfc-pass-instrumentation-based-verification-for-pgo-use-profile-consistency/90796#post_3)
+- [[RFC] Support LLVM_LINK_LLVM_DYLIB on MSVC &lpar;90% size reduction&rpar;](https://discourse.llvm.org/t/rfc-support-llvm-link-llvm-dylib-on-msvc-90-size-reduction/90799#post_4)
+- [[RFC] OpenACC runtime in LLVM Offload - `libacctarget`](https://discourse.llvm.org/t/rfc-openacc-runtime-in-llvm-offload-libacctarget/90793#post_2)
+- [[RFC] Support LLVM_LINK_LLVM_DYLIB on MSVC &lpar;90% size reduction&rpar;](https://discourse.llvm.org/t/rfc-support-llvm-link-llvm-dylib-on-msvc-90-size-reduction/90799#post_3)
+- [CallOp not using operands](https://discourse.llvm.org/t/callop-not-using-operands/90800#post_1)
+- [[RFC] Support LLVM_LINK_LLVM_DYLIB on MSVC &lpar;90% size reduction&rpar;](https://discourse.llvm.org/t/rfc-support-llvm-link-llvm-dylib-on-msvc-90-size-reduction/90799#post_2)
 <!-- DISCOURSE-LLVM:END -->
