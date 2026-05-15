@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] OpenACC runtime in LLVM Offload - `libacctarget`](https://discourse.llvm.org/t/rfc-openacc-runtime-in-llvm-offload-libacctarget/90793#post_1)
-- [GitHub `reviewers-libc` team set up](https://discourse.llvm.org/t/github-reviewers-libc-team-set-up/90792#post_1)
-- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544#post_14)
-- [[RFC][LV] Vector library call legalization: splitting wide vector calls into library-supported widths](https://discourse.llvm.org/t/rfc-lv-vector-library-call-legalization-splitting-wide-vector-calls-into-library-supported-widths/90786#post_2)
-- [PDX Area April 2026 Social](https://discourse.llvm.org/t/pdx-area-april-2026-social/90459#post_3)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706?page=2#post_23)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706?page=2#post_22)
+- [[RFC] ValueDeletionListener: context-level Value deletion notifications](https://discourse.llvm.org/t/rfc-valuedeletionlistener-context-level-value-deletion-notifications/90624?page=2#post_32)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706?page=2#post_21)
+- [New greeter action is failing for at least some PRs](https://discourse.llvm.org/t/new-greeter-action-is-failing-for-at-least-some-prs/90794#post_1)
 <!-- DISCOURSE-LLVM:END -->
