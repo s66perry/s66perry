@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Scoping matching based on --header-filter](https://discourse.llvm.org/t/rfc-scoping-matching-based-on-header-filter/90809#post_1)
-- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_1)
-- [[RFC] OpenACC runtime in LLVM Offload - `libacctarget`](https://discourse.llvm.org/t/rfc-openacc-runtime-in-llvm-offload-libacctarget/90793#post_6)
-- [[RFC] OpenACC runtime in LLVM Offload - `libacctarget`](https://discourse.llvm.org/t/rfc-openacc-runtime-in-llvm-offload-libacctarget/90793#post_5)
-- [Open Source AI Compiler Intern / Co-op | IREE / MLIR @ AMD Canada](https://discourse.llvm.org/t/open-source-ai-compiler-intern-co-op-iree-mlir-amd-canada/88428#post_3)
+- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_10)
+- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_3)
+- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739?page=2#post_21)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_28)
+- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_2)
 <!-- DISCOURSE-LLVM:END -->
