@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_12)
-- [[RFC] Remove 32-bit time_t](https://discourse.llvm.org/t/rfc-remove-32-bit-time-t/90668#post_9)
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_11)
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_10)
-- [[RFC] OpenACC runtime in LLVM Offload - `libacctarget`](https://discourse.llvm.org/t/rfc-openacc-runtime-in-llvm-offload-libacctarget/90793#post_7)
+- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_38)
+- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_37)
+- [LLVM Weekly - #646, May 18th 2026](https://discourse.llvm.org/t/llvm-weekly-646-may-18th-2026/90828#post_1)
+- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739?page=2#post_23)
+- [[RFC][BOLT] Add bolt-rt to runtimes](https://discourse.llvm.org/t/rfc-bolt-add-bolt-rt-to-runtimes/90815#post_3)
 <!-- DISCOURSE-LLVM:END -->
