@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Clang with GCC2 ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-abi/90825#post_5)
-- [[RFC] Clang with GCC2 ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-abi/90825#post_4)
-- [[RFC] Add command line flag to make pointer subtraction defined](https://discourse.llvm.org/t/rfc-add-command-line-flag-to-make-pointer-subtraction-defined/90823#post_5)
-- [[RFC] Clang with GCC2 ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-abi/90825#post_3)
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_8)
+- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_12)
+- [[RFC] Remove 32-bit time_t](https://discourse.llvm.org/t/rfc-remove-32-bit-time-t/90668#post_9)
+- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_11)
+- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036#post_10)
+- [[RFC] OpenACC runtime in LLVM Offload - `libacctarget`](https://discourse.llvm.org/t/rfc-openacc-runtime-in-llvm-offload-libacctarget/90793#post_7)
 <!-- DISCOURSE-LLVM:END -->
