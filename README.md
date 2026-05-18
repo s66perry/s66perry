@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_38)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=2#post_37)
-- [LLVM Weekly - #646, May 18th 2026](https://discourse.llvm.org/t/llvm-weekly-646-may-18th-2026/90828#post_1)
-- [[RFC] Clarify brace omission for wrapped single-statement bodies](https://discourse.llvm.org/t/rfc-clarify-brace-omission-for-wrapped-single-statement-bodies/90739?page=2#post_23)
-- [[RFC][BOLT] Add bolt-rt to runtimes](https://discourse.llvm.org/t/rfc-bolt-add-bolt-rt-to-runtimes/90815#post_3)
+- [[RFC] OpenACC runtime in LLVM Offload - `libacctarget`](https://discourse.llvm.org/t/rfc-openacc-runtime-in-llvm-offload-libacctarget/90793#post_8)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_8)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_7)
+- [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719#post_20)
+- [[RFC][BOLT] A New Parallel DWARF Processing Approach in BOLT](https://discourse.llvm.org/t/rfc-bolt-a-new-parallel-dwarf-processing-approach-in-bolt/90736#post_14)
 <!-- DISCOURSE-LLVM:END -->
