@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826#post_5)
-- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826#post_4)
-- [Trying to understand lldb-dap](https://discourse.llvm.org/t/trying-to-understand-lldb-dap/90836#post_1)
-- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826#post_3)
-- [[RFC] Clang with GCC2 ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-abi/90825#post_13)
+- [[RFC][TableGen] Default Argument Support for LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-default-argument-support-for-llvm-intrinsics/90839#post_5)
+- [OpenMP Module Installation Paths in Flang](https://discourse.llvm.org/t/openmp-module-installation-paths-in-flang/90614#post_6)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_5)
+- [[RFC][TableGen] Default Argument Support for LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-default-argument-support-for-llvm-intrinsics/90839#post_4)
+- [[RFC][TableGen] Default Argument Support for LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-default-argument-support-for-llvm-intrinsics/90839#post_3)
 <!-- DISCOURSE-LLVM:END -->
