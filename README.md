@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to optimize load, freeze and store back](https://discourse.llvm.org/t/how-to-optimize-load-freeze-and-store-back/90845#post_1)
-- [LLVM 22.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-22-x-release-third-party-binaries/89477#post_10)
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_4)
-- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_17)
-- [Suspicious use volatile qualified variable in Clang codegen tests](https://discourse.llvm.org/t/suspicious-use-volatile-qualified-variable-in-clang-codegen-tests/90837#post_4)
+- [[RFC] Add a Builtin Token Type to MLIR](https://discourse.llvm.org/t/rfc-add-a-builtin-token-type-to-mlir/90706?page=2#post_34)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_12)
+- [How to remove / block spam](https://discourse.llvm.org/t/how-to-remove-block-spam/90853#post_4)
+- [How to remove / block spam](https://discourse.llvm.org/t/how-to-remove-block-spam/90853#post_3)
+- [How to remove / block spam](https://discourse.llvm.org/t/how-to-remove-block-spam/90853#post_2)
 <!-- DISCOURSE-LLVM:END -->
