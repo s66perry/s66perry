@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_3)
-- [[CFP] LLVM-HPC Workshop at SC’26](https://discourse.llvm.org/t/cfp-llvm-hpc-workshop-at-sc-26/90841#post_1)
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_2)
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_1)
-- [[RFC] Clang with GCC2 ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-abi/90825#post_16)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_17)
+- [Suspicious use volatile qualified variable in Clang codegen tests](https://discourse.llvm.org/t/suspicious-use-volatile-qualified-variable-in-clang-codegen-tests/90837#post_4)
+- [Extending fast-math flags](https://discourse.llvm.org/t/extending-fast-math-flags/88153#post_10)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_16)
+- [LLVM Registration Test](https://discourse.llvm.org/t/llvm-registration-test/90842#post_1)
 <!-- DISCOURSE-LLVM:END -->
