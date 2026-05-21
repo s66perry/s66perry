@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][TableGen] Default Argument Support for LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-default-argument-support-for-llvm-intrinsics/90839#post_6)
-- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_6)
-- [Lower Linalg to LLVM and translate to spirv, issue with addr-space](https://discourse.llvm.org/t/lower-linalg-to-llvm-and-translate-to-spirv-issue-with-addr-space/90868#post_2)
-- [Lower Linalg to LLVM and translate to spirv, issue with addr-space](https://discourse.llvm.org/t/lower-linalg-to-llvm-and-translate-to-spirv-issue-with-addr-space/90868#post_1)
-- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728#post_18)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_14)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_35)
+- [Looking for ways to improve one-shot-bufferize compile time](https://discourse.llvm.org/t/looking-for-ways-to-improve-one-shot-bufferize-compile-time/90858#post_8)
+- [Libunwind.dll and libc++.dll not found?](https://discourse.llvm.org/t/libunwind-dll-and-libc-dll-not-found/90864#post_3)
+- [Looking for ways to improve one-shot-bufferize compile time](https://discourse.llvm.org/t/looking-for-ways-to-improve-one-shot-bufferize-compile-time/90858#post_7)
 <!-- DISCOURSE-LLVM:END -->
