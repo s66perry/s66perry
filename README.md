@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_14)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_35)
-- [Looking for ways to improve one-shot-bufferize compile time](https://discourse.llvm.org/t/looking-for-ways-to-improve-one-shot-bufferize-compile-time/90858#post_8)
-- [Libunwind.dll and libc++.dll not found?](https://discourse.llvm.org/t/libunwind-dll-and-libc-dll-not-found/90864#post_3)
-- [Looking for ways to improve one-shot-bufferize compile time](https://discourse.llvm.org/t/looking-for-ways-to-improve-one-shot-bufferize-compile-time/90858#post_7)
+- [[RFC] Open Access to Standards Documents](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856#post_6)
+- [Libunwind.dll and libc++.dll not found?](https://discourse.llvm.org/t/libunwind-dll-and-libc-dll-not-found/90864#post_4)
+- [What is the status of `ScopeEnd` and `ScopeBegin`](https://discourse.llvm.org/t/what-is-the-status-of-scopeend-and-scopebegin/90861#post_10)
+- [What is the status of `ScopeEnd` and `ScopeBegin`](https://discourse.llvm.org/t/what-is-the-status-of-scopeend-and-scopebegin/90861#post_9)
+- [Lldb-dap server networking](https://discourse.llvm.org/t/lldb-dap-server-networking/90860#post_2)
 <!-- DISCOURSE-LLVM:END -->
