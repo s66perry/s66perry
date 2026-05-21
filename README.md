@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Compiler Socials are back at the University of Cambridge - June 4th!](https://discourse.llvm.org/t/compiler-socials-are-back-at-the-university-of-cambridge-june-4th/90870#post_1)
-- [Looking for ways to improve one-shot-bufferize compile time](https://discourse.llvm.org/t/looking-for-ways-to-improve-one-shot-bufferize-compile-time/90858#post_10)
-- [Looking for ways to improve one-shot-bufferize compile time](https://discourse.llvm.org/t/looking-for-ways-to-improve-one-shot-bufferize-compile-time/90858#post_9)
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_12)
-- [[RFC] Requirements for bare-metal toolchain multilibs layout](https://discourse.llvm.org/t/rfc-requirements-for-bare-metal-toolchain-multilibs-layout/90680#post_10)
+- [[RFC] Open Access to Standards Documents](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856#post_10)
+- [[RFC] SYCLBIN - A Format for SYCL Device Code](https://discourse.llvm.org/t/rfc-syclbin-a-format-for-sycl-device-code/88603#post_5)
+- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_13)
+- [[RFC] Remove unused transitive includes from the libc++ headers](https://discourse.llvm.org/t/rfc-remove-unused-transitive-includes-from-the-libc-headers/90157#post_12)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
