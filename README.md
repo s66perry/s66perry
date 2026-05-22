@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036?page=2#post_23)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877#post_2)
-- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_4)
-- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_3)
-- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_2)
+- [RFC: Simplifying intrinsics type signature &lpar;IIT Info&rpar; generation/encoding in IntrinsicEmitter.cpp](https://discourse.llvm.org/t/rfc-simplifying-intrinsics-type-signature-iit-info-generation-encoding-in-intrinsicemitter-cpp/90383#post_5)
+- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_10)
+- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_5)
+- [RFC: Minor change in overloaded types for intrinsics](https://discourse.llvm.org/t/rfc-minor-change-in-overloaded-types-for-intrinsics/90880#post_1)
+- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_9)
 <!-- DISCOURSE-LLVM:END -->
