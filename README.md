@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Minor change in overloaded types for intrinsics](https://discourse.llvm.org/t/rfc-minor-change-in-overloaded-types-for-intrinsics/90880#post_2)
-- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_6)
-- [RFC: Simplifying intrinsics type signature &lpar;IIT Info&rpar; generation/encoding in IntrinsicEmitter.cpp](https://discourse.llvm.org/t/rfc-simplifying-intrinsics-type-signature-iit-info-generation-encoding-in-intrinsicemitter-cpp/90383#post_5)
-- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_10)
-- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_5)
+- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_18)
+- [Controlling clang front end optimizations](https://discourse.llvm.org/t/controlling-clang-front-end-optimizations/90881#post_1)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_15)
+- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_7)
+- [[RFC][TableGen] Default Argument Support for LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-default-argument-support-for-llvm-intrinsics/90839#post_8)
 <!-- DISCOURSE-LLVM:END -->
