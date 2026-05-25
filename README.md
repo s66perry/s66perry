@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [What is the status of `ScopeEnd` and `ScopeBegin`](https://discourse.llvm.org/t/what-is-the-status-of-scopeend-and-scopebegin/90861#post_11)
-- [Web-based trace viewer for InstCombine rewrites](https://discourse.llvm.org/t/web-based-trace-viewer-for-instcombine-rewrites/90889#post_1)
-- [Beijing LLVM Meetup, May 29, 2026](https://discourse.llvm.org/t/beijing-llvm-meetup-may-29-2026/90888#post_1)
-- [[RFC][flang][cmake][perf-training] Optimize flang with PGO and BOLT](https://discourse.llvm.org/t/rfc-flang-cmake-perf-training-optimize-flang-with-pgo-and-bolt/90884#post_6)
-- [Optimized Clang to compile Clang itself &lpar;Bolt + PGO + LTO + jemalloc&rpar;](https://discourse.llvm.org/t/optimized-clang-to-compile-clang-itself-bolt-pgo-lto-jemalloc/90887#post_3)
+- [Beijing LLVM Meetup, May 29, 2026](https://discourse.llvm.org/t/beijing-llvm-meetup-may-29-2026/90888#post_2)
+- [LLVM buildbot will be down for maintenance on May 18, 2026 starting from 10:30 PM PDT](https://discourse.llvm.org/t/llvm-buildbot-will-be-down-for-maintenance-on-may-18-2026-starting-from-10-30-pm-pdt/90830#post_4)
+- [LLVM buildbot slowdown has been resolved](https://discourse.llvm.org/t/llvm-buildbot-slowdown-has-been-resolved/90891#post_1)
+- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_6)
+- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_5)
 <!-- DISCOURSE-LLVM:END -->
