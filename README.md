@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_9)
-- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_8)
-- [UB on initializing a trivial type](https://discourse.llvm.org/t/ub-on-initializing-a-trivial-type/90808#post_7)
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840#post_20)
-- [LLVM Weekly - #647, May 25th 2026](https://discourse.llvm.org/t/llvm-weekly-647-may-25th-2026/90892#post_1)
+- [RFC: clangd support for more documentation style](https://discourse.llvm.org/t/rfc-clangd-support-for-more-documentation-style/90894#post_2)
+- [[RFC][LV] Active-lane guard diamonds: skipping conditionally-executed VPlan blocks when no lane is active](https://discourse.llvm.org/t/rfc-lv-active-lane-guard-diamonds-skipping-conditionally-executed-vplan-blocks-when-no-lane-is-active/90779#post_4)
+- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_13)
+- [Controlling clang front end optimizations](https://discourse.llvm.org/t/controlling-clang-front-end-optimizations/90881#post_6)
+- [RFC: clangd support for more documentation style](https://discourse.llvm.org/t/rfc-clangd-support-for-more-documentation-style/90894#post_1)
 <!-- DISCOURSE-LLVM:END -->
