@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_20)
-- [[Modules] Bi-Weekly Meetup Notes, May 26, 2026](https://discourse.llvm.org/t/modules-bi-weekly-meetup-notes-may-26-2026/90896#post_1)
-- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=5#post_95)
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_19)
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_18)
+- [Web-based trace viewer for InstCombine rewrites](https://discourse.llvm.org/t/web-based-trace-viewer-for-instcombine-rewrites/90889#post_3)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_23)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_21)
+- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_14)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
