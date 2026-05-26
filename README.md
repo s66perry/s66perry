@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Web-based trace viewer for InstCombine rewrites](https://discourse.llvm.org/t/web-based-trace-viewer-for-instcombine-rewrites/90889#post_3)
-- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_23)
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_21)
-- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_14)
-- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_22)
+- [Method calls in emitc](https://discourse.llvm.org/t/method-calls-in-emitc/90898#post_1)
+- [[RFC][Modules] The Modules Cache System for the -fmodules-driver mode](https://discourse.llvm.org/t/rfc-modules-the-modules-cache-system-for-the-fmodules-driver-mode/90897#post_2)
+- [RFC: clangd support for more documentation style](https://discourse.llvm.org/t/rfc-clangd-support-for-more-documentation-style/90894#post_6)
+- [[RFC] Clang with GCC2 C++ ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-c-abi/90825?page=2#post_34)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
