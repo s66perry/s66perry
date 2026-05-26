@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: clangd support for more documentation style](https://discourse.llvm.org/t/rfc-clangd-support-for-more-documentation-style/90894#post_2)
-- [[RFC][LV] Active-lane guard diamonds: skipping conditionally-executed VPlan blocks when no lane is active](https://discourse.llvm.org/t/rfc-lv-active-lane-guard-diamonds-skipping-conditionally-executed-vplan-blocks-when-no-lane-is-active/90779#post_4)
-- [[RFC] Add IntLikeTypeInterface to the builtin type interfaces](https://discourse.llvm.org/t/rfc-add-intliketypeinterface-to-the-builtin-type-interfaces/90879#post_13)
-- [Controlling clang front end optimizations](https://discourse.llvm.org/t/controlling-clang-front-end-optimizations/90881#post_6)
-- [RFC: clangd support for more documentation style](https://discourse.llvm.org/t/rfc-clangd-support-for-more-documentation-style/90894#post_1)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_20)
+- [[Modules] Bi-Weekly Meetup Notes, May 26, 2026](https://discourse.llvm.org/t/modules-bi-weekly-meetup-notes-may-26-2026/90896#post_1)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=5#post_95)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_19)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798#post_18)
 <!-- DISCOURSE-LLVM:END -->
