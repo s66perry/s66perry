@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_25)
-- [LLVM security response group 2025 transparency report](https://discourse.llvm.org/t/llvm-security-response-group-2025-transparency-report/90907#post_1)
-- [Web-based trace viewer for InstCombine rewrites](https://discourse.llvm.org/t/web-based-trace-viewer-for-instcombine-rewrites/90889#post_5)
-- [[RFC] Open Access to Standards Documents](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856#post_20)
-- [Web-based trace viewer for InstCombine rewrites](https://discourse.llvm.org/t/web-based-trace-viewer-for-instcombine-rewrites/90889#post_4)
+- [[RFC] Proposed extension to the &quot;--offload-arch&quot; option](https://discourse.llvm.org/t/rfc-proposed-extension-to-the-offload-arch-option/90790#post_18)
+- [LLVM security response group 2025 transparency report](https://discourse.llvm.org/t/llvm-security-response-group-2025-transparency-report/90907#post_2)
+- [[RFC] Proposed extension to the &quot;--offload-arch&quot; option](https://discourse.llvm.org/t/rfc-proposed-extension-to-the-offload-arch-option/90790#post_17)
+- [[RFC] Proposed extension to the &quot;--offload-arch&quot; option](https://discourse.llvm.org/t/rfc-proposed-extension-to-the-offload-arch-option/90790#post_16)
+- [[RFC] Proposed extension to the &quot;--offload-arch&quot; option](https://discourse.llvm.org/t/rfc-proposed-extension-to-the-offload-arch-option/90790#post_15)
 <!-- DISCOURSE-LLVM:END -->
