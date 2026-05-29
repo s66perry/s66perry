@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How to test OpenACC runtime](https://discourse.llvm.org/t/how-to-test-openacc-runtime/90930#post_1)
-- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_16)
-- [AArch64 premerge broken &lpar;EDIT: seems resolved&rpar;](https://discourse.llvm.org/t/aarch64-premerge-broken-edit-seems-resolved/90929#post_2)
-- [AArch64 premerge broken &lpar;EDIT: seems resolved&rpar;](https://discourse.llvm.org/t/aarch64-premerge-broken-edit-seems-resolved/90929#post_1)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_9)
+- [RFC: clang FP atomic f{minimum, maximum}{,num} builtins &lpar;C++26, P3008&rpar;](https://discourse.llvm.org/t/rfc-clang-fp-atomic-f-minimum-maximum-num-builtins-c-26-p3008/90507#post_4)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_27)
+- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877#post_11)
+- [Do we have something like `uuid` to identify the `SVal`?](https://discourse.llvm.org/t/do-we-have-something-like-uuid-to-identify-the-sval/90915#post_8)
+- [Standalone clang build + PGO bootstrap &lpar;PGO.cmake&rpar; any plans or interest?](https://discourse.llvm.org/t/standalone-clang-build-pgo-bootstrap-pgo-cmake-any-plans-or-interest/90931#post_1)
 <!-- DISCOURSE-LLVM:END -->
