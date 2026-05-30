@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_2)
+- [[RFC][flang][cmake][perf-training] Optimize flang with PGO and BOLT](https://discourse.llvm.org/t/rfc-flang-cmake-perf-training-optimize-flang-with-pgo-and-bolt/90884#post_9)
+- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_1)
+- [[RFC] Clang with GCC2 C++ ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-c-abi/90825?page=2#post_37)
 - [[RFC][Modules] The Modules Cache System for the -fmodules-driver mode](https://discourse.llvm.org/t/rfc-modules-the-modules-cache-system-for-the-fmodules-driver-mode/90897#post_6)
-- [[RFC] IR tracker: source-location-indexed pass history for LLVM IR](https://discourse.llvm.org/t/rfc-ir-tracker-source-location-indexed-pass-history-for-llvm-ir/90535#post_11)
-- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938#post_3)
-- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938#post_2)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877#post_13)
 <!-- DISCOURSE-LLVM:END -->
