@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][flang][cmake][perf-training] Optimize flang with PGO and BOLT](https://discourse.llvm.org/t/rfc-flang-cmake-perf-training-optimize-flang-with-pgo-and-bolt/90884#post_11)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_6)
+- [[RFC][flang][cmake][perf-training] Optimize flang with PGO and BOLT](https://discourse.llvm.org/t/rfc-flang-cmake-perf-training-optimize-flang-with-pgo-and-bolt/90884#post_10)
 - [Is source-based coverage on LLVM Clang being actively maintained?](https://discourse.llvm.org/t/is-source-based-coverage-on-llvm-clang-being-actively-maintained/90918#post_9)
 - [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_6)
-- [[RFC] IR tracker: source-location-indexed pass history for LLVM IR](https://discourse.llvm.org/t/rfc-ir-tracker-source-location-indexed-pass-history-for-llvm-ir/90535#post_12)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR #2](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir-2/90764#post_3)
-- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_5)
 <!-- DISCOURSE-LLVM:END -->
