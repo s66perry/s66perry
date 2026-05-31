@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][AArch64] Widen boolean vectors before codegen to avoid XTN/SHLL round-trips](https://discourse.llvm.org/t/rfc-aarch64-widen-boolean-vectors-before-codegen-to-avoid-xtn-shll-round-trips/90944#post_1)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR #2](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir-2/90764#post_6)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877#post_15)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877#post_14)
-- [[RFC] bitinsert and bitextract instructions for LLVM IR #2](https://discourse.llvm.org/t/rfc-bitinsert-and-bitextract-instructions-for-llvm-ir-2/90764#post_5)
+- [Concerns about influx of AI-generated bug fixes](https://discourse.llvm.org/t/concerns-about-influx-of-ai-generated-bug-fixes/90381?page=6#post_112)
+- [[RFC] Entrypoint cleanup](https://discourse.llvm.org/t/rfc-entrypoint-cleanup/90945#post_2)
+- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938#post_4)
+- [[RFC] Entrypoint cleanup](https://discourse.llvm.org/t/rfc-entrypoint-cleanup/90945#post_1)
+- [MLIR C/C++ Frontend Working Group [Mon, Jun 1st]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-jun-1st/90943#post_2)
 <!-- DISCOURSE-LLVM:END -->
