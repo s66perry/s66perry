@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_7)
-- [80 column limit for .td files](https://discourse.llvm.org/t/80-column-limit-for-td-files/90950#post_4)
-- [80 column limit for .td files](https://discourse.llvm.org/t/80-column-limit-for-td-files/90950#post_3)
-- [[RFC] Removal of the lit external shell](https://discourse.llvm.org/t/rfc-removal-of-the-lit-external-shell/90951#post_1)
-- [80 column limit for .td files](https://discourse.llvm.org/t/80-column-limit-for-td-files/90950#post_2)
+- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840?page=2#post_25)
+- [Open Roles](https://discourse.llvm.org/t/open-roles/90955#post_2)
+- [80 column limit for .td files](https://discourse.llvm.org/t/80-column-limit-for-td-files/90950#post_5)
+- [Open Roles](https://discourse.llvm.org/t/open-roles/90955#post_1)
+- [[RFC] Removal of the lit external shell](https://discourse.llvm.org/t/rfc-removal-of-the-lit-external-shell/90951#post_2)
 <!-- DISCOURSE-LLVM:END -->
