@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 22.1.7 Released!](https://discourse.llvm.org/t/llvm-22-1-7-released/90961#post_1)
-- [[RFC] Enforce Rule of Three](https://discourse.llvm.org/t/rfc-enforce-rule-of-three/89874#post_20)
-- [[RFC] Removal of the lit external shell](https://discourse.llvm.org/t/rfc-removal-of-the-lit-external-shell/90951#post_3)
-- [[RFC] Pass-Instrumentation-Based Verification for PGO Use Profile Consistency](https://discourse.llvm.org/t/rfc-pass-instrumentation-based-verification-for-pgo-use-profile-consistency/90796#post_4)
-- [MLIR support for Neuromorphic workflows](https://discourse.llvm.org/t/mlir-support-for-neuromorphic-workflows/89955#post_2)
+- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840?page=2#post_27)
+- [[RFC][TableGen] Default Argument Support for LLVM Intrinsics](https://discourse.llvm.org/t/rfc-tablegen-default-argument-support-for-llvm-intrinsics/90839#post_17)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_5)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_4)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_3)
 <!-- DISCOURSE-LLVM:END -->
