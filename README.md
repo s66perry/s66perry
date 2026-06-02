@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Maintainer Absenses for WG21 Brno Meeting](https://discourse.llvm.org/t/maintainer-absenses-for-wg21-brno-meeting/90959#post_4)
-- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938#post_7)
-- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_4)
-- [How to pass arrays by value](https://discourse.llvm.org/t/how-to-pass-arrays-by-value/90969#post_1)
-- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_3)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_13)
+- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_6)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_12)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_11)
+- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_1)
 <!-- DISCOURSE-LLVM:END -->
