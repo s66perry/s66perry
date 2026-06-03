@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [UHDI &lpar;Unified Hardware Debug Info&rpar;: structured debug-info export for Chisel/FIRRTL](https://discourse.llvm.org/t/uhdi-unified-hardware-debug-info-structured-debug-info-export-for-chisel-firrtl/90973#post_2)
-- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_2)
-- [UHDI &lpar;Unified Hardware Debug Info&rpar;: structured debug-info export for Chisel/FIRRTL](https://discourse.llvm.org/t/uhdi-unified-hardware-debug-info-structured-debug-info-export-for-chisel-firrtl/90973#post_1)
-- [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_2)
-- [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_1)
+- [[RFC] Pass-Instrumentation-Based Verification for PGO Use Profile Consistency](https://discourse.llvm.org/t/rfc-pass-instrumentation-based-verification-for-pgo-use-profile-consistency/90796#post_6)
+- [[RFC] Refactoring DILocation to use compact function-local storage](https://discourse.llvm.org/t/rfc-refactoring-dilocation-to-use-compact-function-local-storage/85618#post_20)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_14)
+- [MLGO meeting June 5 moved to June 8 &lpar;2026&rpar;](https://discourse.llvm.org/t/mlgo-meeting-june-5-moved-to-june-8-2026/90976#post_1)
+- [Maintainer Absenses for WG21 Brno Meeting](https://discourse.llvm.org/t/maintainer-absenses-for-wg21-brno-meeting/90959#post_5)
 <!-- DISCOURSE-LLVM:END -->
