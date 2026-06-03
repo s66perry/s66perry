@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_4)
-- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_3)
-- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_2)
-- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_1)
-- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_14)
+- [UHDI &lpar;Unified Hardware Debug Info&rpar;: structured debug-info export for Chisel/FIRRTL](https://discourse.llvm.org/t/uhdi-unified-hardware-debug-info-structured-debug-info-export-for-chisel-firrtl/90973#post_2)
+- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_2)
+- [UHDI &lpar;Unified Hardware Debug Info&rpar;: structured debug-info export for Chisel/FIRRTL](https://discourse.llvm.org/t/uhdi-unified-hardware-debug-info-structured-debug-info-export-for-chisel-firrtl/90973#post_1)
+- [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_2)
+- [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_1)
 <!-- DISCOURSE-LLVM:END -->
