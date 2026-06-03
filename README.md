@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_7)
-- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_4)
-- [ClangIR PolyBench/GPU Results &lpar;CUDA &amp; HIP&rpar;](https://discourse.llvm.org/t/clangir-polybench-gpu-results-cuda-hip/90977#post_2)
-- [ClangIR PolyBench/GPU Results &lpar;CUDA &amp; HIP&rpar;](https://discourse.llvm.org/t/clangir-polybench-gpu-results-cuda-hip/90977#post_1)
-- [MLGO meeting June 5 moved to June 8 &lpar;2026&rpar;](https://discourse.llvm.org/t/mlgo-meeting-june-5-moved-to-june-8-2026/90976#post_2)
+- [LLVM 22.1.7 Released!](https://discourse.llvm.org/t/llvm-22-1-7-released/90961#post_2)
+- [[RFC][BOLT] Add bolt-rt to runtimes](https://discourse.llvm.org/t/rfc-bolt-add-bolt-rt-to-runtimes/90815#post_5)
+- [[RFC][BOLT] Add bolt-rt to runtimes](https://discourse.llvm.org/t/rfc-bolt-add-bolt-rt-to-runtimes/90815#post_4)
+- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_6)
+- [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_9)
 <!-- DISCOURSE-LLVM:END -->
