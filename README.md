@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_13)
-- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_12)
-- [How to pass arrays by value](https://discourse.llvm.org/t/how-to-pass-arrays-by-value/90969#post_3)
-- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_11)
-- [2026 US LLVM Developers&#39; Meeting - October 26-28 | Call for Workshops &amp; Program Committee Volunteers](https://discourse.llvm.org/t/2026-us-llvm-developers-meeting-october-26-28-call-for-workshops-program-committee-volunteers/90715#post_2)
+- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_4)
+- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_3)
+- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_2)
+- [[flang] What is the best way to rerun CI Checks for a PR?](https://discourse.llvm.org/t/flang-what-is-the-best-way-to-rerun-ci-checks-for-a-pr/90971#post_1)
+- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_14)
 <!-- DISCOURSE-LLVM:END -->
