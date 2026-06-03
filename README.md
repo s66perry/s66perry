@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_13)
-- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_6)
-- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_12)
-- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_11)
-- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_1)
+- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_13)
+- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_12)
+- [How to pass arrays by value](https://discourse.llvm.org/t/how-to-pass-arrays-by-value/90969#post_3)
+- [[RFC] Pre-merge testing on macOS](https://discourse.llvm.org/t/rfc-pre-merge-testing-on-macos/90940#post_11)
+- [2026 US LLVM Developers&#39; Meeting - October 26-28 | Call for Workshops &amp; Program Committee Volunteers](https://discourse.llvm.org/t/2026-us-llvm-developers-meeting-october-26-28-call-for-workshops-program-committee-volunteers/90715#post_2)
 <!-- DISCOURSE-LLVM:END -->
