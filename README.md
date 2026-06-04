@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877#post_19)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877#post_18)
-- [Join Arm in Budapest: LLVM compiler engineering role](https://discourse.llvm.org/t/join-arm-in-budapest-llvm-compiler-engineering-role/90981#post_1)
-- [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_10)
-- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_7)
+- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938#post_8)
+- [[RFC] Add vibecoded EZH target](https://discourse.llvm.org/t/rfc-add-vibecoded-ezh-target/90983#post_1)
+- [[RFC] Open Access to Standards Documents](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856?page=2#post_26)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_29)
+- [[RFC] Clang with GCC2 C++ ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-c-abi/90825?page=2#post_40)
 <!-- DISCOURSE-LLVM:END -->
