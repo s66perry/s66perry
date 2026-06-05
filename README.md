@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_9)
-- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_6)
-- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_5)
-- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_7)
-- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036?page=2#post_27)
+- [Creating nested synthetic children](https://discourse.llvm.org/t/creating-nested-synthetic-children/90997#post_1)
+- [Requesting reviews on issue #119556](https://discourse.llvm.org/t/requesting-reviews-on-issue-119556/90996#post_1)
+- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_10)
+- [`llvm-dsymutil` performance](https://discourse.llvm.org/t/llvm-dsymutil-performance/89051#post_10)
+- [Update on Breaking the LLDB/Python Revlock](https://discourse.llvm.org/t/update-on-breaking-the-lldb-python-revlock/90995#post_6)
 <!-- DISCOURSE-LLVM:END -->
