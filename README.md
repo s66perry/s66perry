@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Creating nested synthetic children](https://discourse.llvm.org/t/creating-nested-synthetic-children/90997#post_1)
-- [Requesting reviews on issue #119556](https://discourse.llvm.org/t/requesting-reviews-on-issue-119556/90996#post_1)
-- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_10)
-- [`llvm-dsymutil` performance](https://discourse.llvm.org/t/llvm-dsymutil-performance/89051#post_10)
-- [Update on Breaking the LLDB/Python Revlock](https://discourse.llvm.org/t/update-on-breaking-the-lldb-python-revlock/90995#post_6)
+- [[RFC][ClangIR] Making CIR Pipeline Boundaries First-Class Driver Artifacts](https://discourse.llvm.org/t/rfc-clangir-making-cir-pipeline-boundaries-first-class-driver-artifacts/90998#post_1)
+- [Yon: a new research language compiling to native code via MLIR and LLVM](https://discourse.llvm.org/t/yon-a-new-research-language-compiling-to-native-code-via-mlir-and-llvm/90994#post_3)
+- [Requesting reviews on issue #119556](https://discourse.llvm.org/t/requesting-reviews-on-issue-119556/90996#post_2)
+- [Creating nested synthetic children](https://discourse.llvm.org/t/creating-nested-synthetic-children/90997#post_3)
+- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_8)
 <!-- DISCOURSE-LLVM:END -->
