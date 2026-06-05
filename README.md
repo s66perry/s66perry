@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_3)
-- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_8)
-- [Yon: a new research language compiling to native code via MLIR and LLVM](https://discourse.llvm.org/t/yon-a-new-research-language-compiling-to-native-code-via-mlir-and-llvm/90994#post_1)
-- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_2)
-- [Allowing LoopVectorizer to vectorize loops with uniform OpenMP runtime calls](https://discourse.llvm.org/t/allowing-loopvectorizer-to-vectorize-loops-with-uniform-openmp-runtime-calls/90988#post_2)
+- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_9)
+- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_6)
+- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_5)
+- [[RFC] Support reg sizes greater than 65534](https://discourse.llvm.org/t/rfc-support-reg-sizes-greater-than-65534/90970#post_7)
+- [[RFC] Add SCF-to-Affine Conversion Pass in MLIR](https://discourse.llvm.org/t/rfc-add-scf-to-affine-conversion-pass-in-mlir/88036?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
