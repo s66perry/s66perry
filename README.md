@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enable MaximizeBandwidth by default for X86 in the Loop Vectorizer](https://discourse.llvm.org/t/rfc-enable-maximizebandwidth-by-default-for-x86-in-the-loop-vectorizer/90992#post_1)
-- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_1)
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840?page=2#post_30)
-- [Where should WG meeting materials live?](https://discourse.llvm.org/t/where-should-wg-meeting-materials-live/88913?page=3#post_42)
-- [Is it possible to convert linalg.matmul to tt dialect?](https://discourse.llvm.org/t/is-it-possible-to-convert-linalg-matmul-to-tt-dialect/90990#post_1)
+- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_3)
+- [[RFC] Byte type lowering in MIR](https://discourse.llvm.org/t/rfc-byte-type-lowering-in-mir/90797#post_8)
+- [Yon: a new research language compiling to native code via MLIR and LLVM](https://discourse.llvm.org/t/yon-a-new-research-language-compiling-to-native-code-via-mlir-and-llvm/90994#post_1)
+- [Revisitting code duplication between compiler-rt and llvm/](https://discourse.llvm.org/t/revisitting-code-duplication-between-compiler-rt-and-llvm/90991#post_2)
+- [Allowing LoopVectorizer to vectorize loops with uniform OpenMP runtime calls](https://discourse.llvm.org/t/allowing-loopvectorizer-to-vectorize-loops-with-uniform-openmp-runtime-calls/90988#post_2)
 <!-- DISCOURSE-LLVM:END -->
