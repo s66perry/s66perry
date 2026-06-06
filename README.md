@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Join Arm in Budapest: LLVM compiler engineering role](https://discourse.llvm.org/t/join-arm-in-budapest-llvm-compiler-engineering-role/90981#post_2)
 - [Allowing LoopVectorizer to vectorize loops with uniform OpenMP runtime calls](https://discourse.llvm.org/t/allowing-loopvectorizer-to-vectorize-loops-with-uniform-openmp-runtime-calls/90988#post_7)
 - [Beginner guide for LLVM backend development for AArch64](https://discourse.llvm.org/t/beginner-guide-for-llvm-backend-development-for-aarch64/90999#post_1)
 - [Allowing LoopVectorizer to vectorize loops with uniform OpenMP runtime calls](https://discourse.llvm.org/t/allowing-loopvectorizer-to-vectorize-loops-with-uniform-openmp-runtime-calls/90988#post_6)
 - [Allowing LoopVectorizer to vectorize loops with uniform OpenMP runtime calls](https://discourse.llvm.org/t/allowing-loopvectorizer-to-vectorize-loops-with-uniform-openmp-runtime-calls/90988#post_5)
-- [Allowing LoopVectorizer to vectorize loops with uniform OpenMP runtime calls](https://discourse.llvm.org/t/allowing-loopvectorizer-to-vectorize-loops-with-uniform-openmp-runtime-calls/90988#post_4)
 <!-- DISCOURSE-LLVM:END -->
