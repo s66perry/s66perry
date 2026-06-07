@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Formal pointer safety verifier for Triton GPU kernels &lpar;feedback on integration approach&rpar;](https://discourse.llvm.org/t/formal-pointer-safety-verifier-for-triton-gpu-kernels-feedback-on-integration-approach/91008#post_1)
 - [Libclang Python Binding Tests seem inefficient](https://discourse.llvm.org/t/libclang-python-binding-tests-seem-inefficient/90984#post_3)
 - [[RFC] Faster Sample Profile Loading](https://discourse.llvm.org/t/rfc-faster-sample-profile-loading/90957#post_4)
 - [[RFC] Add vibecoded EZH target](https://discourse.llvm.org/t/rfc-add-vibecoded-ezh-target/90983#post_13)
 - [RFC: Minor change in overloaded types for intrinsics](https://discourse.llvm.org/t/rfc-minor-change-in-overloaded-types-for-intrinsics/90880#post_8)
-- [[RFC] Add vibecoded EZH target](https://discourse.llvm.org/t/rfc-add-vibecoded-ezh-target/90983#post_12)
 <!-- DISCOURSE-LLVM:END -->
