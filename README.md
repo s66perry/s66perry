@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_16)
-- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_15)
-- [Libclang Python Binding Tests seem inefficient](https://discourse.llvm.org/t/libclang-python-binding-tests-seem-inefficient/90984#post_4)
-- [Formal pointer safety verifier for Triton GPU kernels &lpar;feedback on integration approach&rpar;](https://discourse.llvm.org/t/formal-pointer-safety-verifier-for-triton-gpu-kernels-feedback-on-integration-approach/91008#post_1)
-- [Libclang Python Binding Tests seem inefficient](https://discourse.llvm.org/t/libclang-python-binding-tests-seem-inefficient/90984#post_3)
+- [[RFC] what to do with third-party project &quot;promotion&quot; posts?](https://discourse.llvm.org/t/rfc-what-to-do-with-third-party-project-promotion-posts/91011#post_4)
+- [[RFC] what to do with third-party project &quot;promotion&quot; posts?](https://discourse.llvm.org/t/rfc-what-to-do-with-third-party-project-promotion-posts/91011#post_3)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_18)
+- [[RFC] what to do with third-party project &quot;promotion&quot; posts?](https://discourse.llvm.org/t/rfc-what-to-do-with-third-party-project-promotion-posts/91011#post_2)
+- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962#post_17)
 <!-- DISCOURSE-LLVM:END -->
