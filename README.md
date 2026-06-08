@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Command-line narrowing of LLVM lit tests by function and by RUN line](https://discourse.llvm.org/t/rfc-command-line-narrowing-of-llvm-lit-tests-by-function-and-by-run-line/90962?page=2#post_21)
-- [Passing Chisel information to Firrtl and emit debug info for the Tywaves waveform viewer](https://discourse.llvm.org/t/passing-chisel-information-to-firrtl-and-emit-debug-info-for-the-tywaves-waveform-viewer/78352#post_14)
-- [[RFC] PDLL: source-level op&lt;interface: &quot;Foo&quot;&gt; matcher syntax](https://discourse.llvm.org/t/rfc-pdll-source-level-op-interface-foo-matcher-syntax/90875#post_2)
-- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_11)
-- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_10)
+- [Suspicious use volatile qualified variable in Clang codegen tests](https://discourse.llvm.org/t/suspicious-use-volatile-qualified-variable-in-clang-codegen-tests/90837#post_5)
+- [CI Windows bot is broken](https://discourse.llvm.org/t/ci-windows-bot-is-broken/91016#post_4)
+- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_11)
+- [[RFC] Clarifying NVPTX compute capability and PTX version handling](https://discourse.llvm.org/t/rfc-clarifying-nvptx-compute-capability-and-ptx-version-handling/91015#post_3)
+- [[RFC] Clarifying NVPTX compute capability and PTX version handling](https://discourse.llvm.org/t/rfc-clarifying-nvptx-compute-capability-and-ptx-version-handling/91015#post_2)
 <!-- DISCOURSE-LLVM:END -->
