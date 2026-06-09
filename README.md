@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_14)
+- [[RFC] Multi-architecture COFF object files for ARM64X](https://discourse.llvm.org/t/rfc-multi-architecture-coff-object-files-for-arm64x/90723#post_9)
+- [[emitc] Why not add a pure feature for operator cast?](https://discourse.llvm.org/t/emitc-why-not-add-a-pure-feature-for-operator-cast/91021#post_4)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728?page=2#post_33)
 - [[RFC] Remove trivial VP intrinsics](https://discourse.llvm.org/t/rfc-remove-trivial-vp-intrinsics/90972#post_13)
-- [Opening with Synopsys - Marlborough, MA](https://discourse.llvm.org/t/opening-with-synopsys-marlborough-ma/91028#post_2)
-- [LLDB startup takes ~15 seconds parsing symbol tables](https://discourse.llvm.org/t/lldb-startup-takes-15-seconds-parsing-symbol-tables/65487#post_15)
-- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728?page=2#post_32)
-- [LLDB startup takes ~15 seconds parsing symbol tables](https://discourse.llvm.org/t/lldb-startup-takes-15-seconds-parsing-symbol-tables/65487#post_14)
 <!-- DISCOURSE-LLVM:END -->
