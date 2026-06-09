@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLDB startup takes ~15 seconds parsing symbol tables](https://discourse.llvm.org/t/lldb-startup-takes-15-seconds-parsing-symbol-tables/65487#post_13)
-- [[RFC] what to do with third-party project &quot;promotion&quot; posts?](https://discourse.llvm.org/t/rfc-what-to-do-with-third-party-project-promotion-posts/91011#post_8)
-- [[flang] cpp-type.h: add HAS_QUADMATHLIB to REAL&lpar;16&rpar; / CppFloat128Type guards](https://discourse.llvm.org/t/flang-cpp-type-h-add-has-quadmathlib-to-real-16-cppfloat128type-guards/91024#post_4)
-- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_2)
-- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_1)
+- [C++ size of subclasses of Type](https://discourse.llvm.org/t/c-size-of-subclasses-of-type/91027#post_2)
+- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826#post_18)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Jun 8 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jun-8-26-6pm/90985#post_4)
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_31)
+- [[RFC] Proposed extension to the &quot;--offload-arch&quot; option](https://discourse.llvm.org/t/rfc-proposed-extension-to-the-offload-arch-option/90790?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
