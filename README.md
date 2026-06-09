@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Looking for Advice: How Do You Approach Optimizing Benchmarks or Real Programs?](https://discourse.llvm.org/t/looking-for-advice-how-do-you-approach-optimizing-benchmarks-or-real-programs/87565#post_8)
+- [[RFC][ClangIR] Making CIR Pipeline Boundaries First-Class Driver Artifacts](https://discourse.llvm.org/t/rfc-clangir-making-cir-pipeline-boundaries-first-class-driver-artifacts/90998#post_4)
+- [LLVM Community Testimonial on Open Access](https://discourse.llvm.org/t/llvm-community-testimonial-on-open-access/91018#post_1)
 - [[RFC] Clarifying NVPTX compute capability and PTX version handling](https://discourse.llvm.org/t/rfc-clarifying-nvptx-compute-capability-and-ptx-version-handling/91015#post_4)
 - [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014#post_19)
-- [[RFC][ClangIR] Making CIR Pipeline Boundaries First-Class Driver Artifacts](https://discourse.llvm.org/t/rfc-clangir-making-cir-pipeline-boundaries-first-class-driver-artifacts/90998#post_3)
-- [[RFC] Unroll inner loops when user requests outer loop vectorization](https://discourse.llvm.org/t/rfc-unroll-inner-loops-when-user-requests-outer-loop-vectorization/90742#post_6)
-- [Do we have something like `uuid` to identify the `SVal`?](https://discourse.llvm.org/t/do-we-have-something-like-uuid-to-identify-the-sval/90915#post_9)
 <!-- DISCOURSE-LLVM:END -->
