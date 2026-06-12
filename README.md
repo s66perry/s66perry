@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] CopySanitizer &lpar;CSan&rpar;: Detecting unneccessary object copies at runtime](https://discourse.llvm.org/t/rfc-copysanitizer-csan-detecting-unneccessary-object-copies-at-runtime/91038#post_7)
-- [[RFC] IR tracker: source-location-indexed pass history for LLVM IR](https://discourse.llvm.org/t/rfc-ir-tracker-source-location-indexed-pass-history-for-llvm-ir/90535#post_16)
-- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041#post_12)
-- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041#post_11)
-- [Why accessing memory as 0[ptr] gets optimized out?](https://discourse.llvm.org/t/why-accessing-memory-as-0-ptr-gets-optimized-out/91053#post_2)
+- [Do we have something like `uuid` to identify the `SVal`?](https://discourse.llvm.org/t/do-we-have-something-like-uuid-to-identify-the-sval/90915#post_11)
+- [[RFC] Clarifying NVPTX compute capability and PTX version handling](https://discourse.llvm.org/t/rfc-clarifying-nvptx-compute-capability-and-ptx-version-handling/91015#post_10)
+- [Why accessing memory as 0[ptr] gets optimized out?](https://discourse.llvm.org/t/why-accessing-memory-as-0-ptr-gets-optimized-out/91053#post_7)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_22)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
