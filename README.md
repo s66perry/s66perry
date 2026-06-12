@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Do we have something like `uuid` to identify the `SVal`?](https://discourse.llvm.org/t/do-we-have-something-like-uuid-to-identify-the-sval/90915#post_11)
-- [[RFC] Clarifying NVPTX compute capability and PTX version handling](https://discourse.llvm.org/t/rfc-clarifying-nvptx-compute-capability-and-ptx-version-handling/91015#post_10)
-- [Why accessing memory as 0[ptr] gets optimized out?](https://discourse.llvm.org/t/why-accessing-memory-as-0-ptr-gets-optimized-out/91053#post_7)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_22)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_21)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_29)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_28)
+- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_13)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_27)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_26)
 <!-- DISCOURSE-LLVM:END -->
