@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] CopySanitizer &lpar;CSan&rpar;: Detecting unneccessary object copies at runtime](https://discourse.llvm.org/t/rfc-copysanitizer-csan-detecting-unneccessary-object-copies-at-runtime/91038#post_11)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_37)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_36)
-- [[RFC] CopySanitizer &lpar;CSan&rpar;: Detecting unneccessary object copies at runtime](https://discourse.llvm.org/t/rfc-copysanitizer-csan-detecting-unneccessary-object-copies-at-runtime/91038#post_10)
-- [RFC: Y2038 check for lossy time_t conversions](https://discourse.llvm.org/t/rfc-y2038-check-for-lossy-time-t-conversions/91060#post_2)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041#post_14)
+- [[RFC] [Arm] Fixing function size estimation?](https://discourse.llvm.org/t/rfc-arm-fixing-function-size-estimation/90626#post_8)
+- [Should the HotColdSplit Pass apply the cold attribute?](https://discourse.llvm.org/t/should-the-hotcoldsplit-pass-apply-the-cold-attribute/91061#post_1)
+- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034#post_9)
+- [[RFC] Support for XRay in Flang](https://discourse.llvm.org/t/rfc-support-for-xray-in-flang/90987#post_2)
 <!-- DISCOURSE-LLVM:END -->
