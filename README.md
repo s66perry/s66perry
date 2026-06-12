@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add rangeset for disjoint integer range attributes](https://discourse.llvm.org/t/rfc-add-rangeset-for-disjoint-integer-range-attributes/91063#post_2)
-- [[RFC] Add rangeset for disjoint integer range attributes](https://discourse.llvm.org/t/rfc-add-rangeset-for-disjoint-integer-range-attributes/91063#post_1)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_39)
-- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041#post_14)
-- [[RFC] [Arm] Fixing function size estimation?](https://discourse.llvm.org/t/rfc-arm-fixing-function-size-estimation/90626#post_8)
+- [Clang-tidy - anomalous error message](https://discourse.llvm.org/t/clang-tidy-anomalous-error-message/91065#post_1)
+- [[RFC] Add rangeset for disjoint integer range attributes](https://discourse.llvm.org/t/rfc-add-rangeset-for-disjoint-integer-range-attributes/91063#post_3)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031#post_6)
+- [Why is my CallingConv tablegen file not generating everything?](https://discourse.llvm.org/t/why-is-my-callingconv-tablegen-file-not-generating-everything/91064#post_1)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=2#post_40)
 <!-- DISCOURSE-LLVM:END -->
