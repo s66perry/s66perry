@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC]: `mlir-opt-repl`: interactive MLIR pass pipeline explorer and MCP server](https://discourse.llvm.org/t/rfc-mlir-opt-repl-interactive-mlir-pass-pipeline-explorer-and-mcp-server/91068#post_1)
-- [[RFC] CopySanitizer &lpar;CSan&rpar;: Detecting unneccessary object copies at runtime](https://discourse.llvm.org/t/rfc-copysanitizer-csan-detecting-unneccessary-object-copies-at-runtime/91038#post_13)
-- [[RFC] CopySanitizer &lpar;CSan&rpar;: Detecting unneccessary object copies at runtime](https://discourse.llvm.org/t/rfc-copysanitizer-csan-detecting-unneccessary-object-copies-at-runtime/91038#post_12)
-- [Clang-tidy - how to generate database?](https://discourse.llvm.org/t/clang-tidy-how-to-generate-database/91066#post_5)
-- [Clang-tidy - how to generate database?](https://discourse.llvm.org/t/clang-tidy-how-to-generate-database/91066#post_4)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_48)
+- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_9)
+- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=3#post_60)
+- [[RFC]: `mlir-opt-repl`: interactive MLIR pass pipeline explorer and MCP server](https://discourse.llvm.org/t/rfc-mlir-opt-repl-interactive-mlir-pass-pipeline-explorer-and-mcp-server/91068#post_3)
+- [[RFC]: `mlir-opt-repl`: interactive MLIR pass pipeline explorer and MCP server](https://discourse.llvm.org/t/rfc-mlir-opt-repl-interactive-mlir-pass-pipeline-explorer-and-mcp-server/91068#post_2)
 <!-- DISCOURSE-LLVM:END -->
