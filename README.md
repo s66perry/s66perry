@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm-zorg migration to buildbot v4.3](https://discourse.llvm.org/t/llvm-zorg-migration-to-buildbot-v4-3/91077#post_1)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_51)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_50)
-- [PDX Area May 2026 Social](https://discourse.llvm.org/t/pdx-area-may-2026-social/90791#post_2)
-- [PDX Area June 2026 Social](https://discourse.llvm.org/t/pdx-area-june-2026-social/91076#post_1)
+- [Should the HotColdSplit Pass apply the cold attribute?](https://discourse.llvm.org/t/should-the-hotcoldsplit-pass-apply-the-cold-attribute/91061#post_3)
+- [[RFC] Bump LLVM’s minimum required Python version for sphinx documentation builds](https://discourse.llvm.org/t/rfc-bump-llvm-s-minimum-required-python-version-for-sphinx-documentation-builds/91078#post_5)
+- [Multi-architecture COFF object files for ARM64X using an extra section](https://discourse.llvm.org/t/multi-architecture-coff-object-files-for-arm64x-using-an-extra-section/91030#post_2)
+- [[RFC] Bump LLVM’s minimum required Python version for sphinx documentation builds](https://discourse.llvm.org/t/rfc-bump-llvm-s-minimum-required-python-version-for-sphinx-documentation-builds/91078#post_4)
+- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
