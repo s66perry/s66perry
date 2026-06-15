@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_16)
-- [RFC: Change GlobalValueSummaryMapTy from std::map to llvm::DenseMap for Thin-Linking Performance](https://discourse.llvm.org/t/rfc-change-globalvaluesummarymapty-from-std-map-to-llvm-densemap-for-thin-linking-performance/88191#post_11)
-- [[RFC] Add an Apple Metal/AIR backend target](https://discourse.llvm.org/t/rfc-add-an-apple-metal-air-backend-target/90936#post_10)
-- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_15)
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070#post_9)
+- [Llvm-zorg migration to buildbot v4.3](https://discourse.llvm.org/t/llvm-zorg-migration-to-buildbot-v4-3/91077#post_1)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_51)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_50)
+- [PDX Area May 2026 Social](https://discourse.llvm.org/t/pdx-area-may-2026-social/90791#post_2)
+- [PDX Area June 2026 Social](https://discourse.llvm.org/t/pdx-area-june-2026-social/91076#post_1)
 <!-- DISCOURSE-LLVM:END -->
