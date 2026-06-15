@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_48)
-- [[RFC] Lightweight Fault Isolation &lpar;LFI&rpar; Target for x86-64](https://discourse.llvm.org/t/rfc-lightweight-fault-isolation-lfi-target-for-x86-64/90774#post_9)
-- [[RFC] [C++20] [Modules] Introduce Thin BMI and Decls hash](https://discourse.llvm.org/t/rfc-c-20-modules-introduce-thin-bmi-and-decls-hash/74755?page=3#post_60)
-- [[RFC]: `mlir-opt-repl`: interactive MLIR pass pipeline explorer and MCP server](https://discourse.llvm.org/t/rfc-mlir-opt-repl-interactive-mlir-pass-pipeline-explorer-and-mcp-server/91068#post_3)
-- [[RFC]: `mlir-opt-repl`: interactive MLIR pass pipeline explorer and MCP server](https://discourse.llvm.org/t/rfc-mlir-opt-repl-interactive-mlir-pass-pipeline-explorer-and-mcp-server/91068#post_2)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070#post_3)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070#post_2)
+- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_49)
+- [RFC] MachineLaneSSAUpdater — target-independent SSA repair with subregister lane awareness for Machine IR](https://discourse.llvm.org/t/rfc-machinelanessaupdater-target-independent-ssa-repair-with-subregister-lane-awareness-for-machine-ir/91058#post_2)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031#post_8)
 <!-- DISCOURSE-LLVM:END -->
