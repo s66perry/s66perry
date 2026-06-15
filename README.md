@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070#post_3)
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070#post_2)
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_49)
-- [RFC] MachineLaneSSAUpdater — target-independent SSA repair with subregister lane awareness for Machine IR](https://discourse.llvm.org/t/rfc-machinelanessaupdater-target-independent-ssa-repair-with-subregister-lane-awareness-for-machine-ir/91058#post_2)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031#post_8)
+- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_16)
+- [RFC: Change GlobalValueSummaryMapTy from std::map to llvm::DenseMap for Thin-Linking Performance](https://discourse.llvm.org/t/rfc-change-globalvaluesummarymapty-from-std-map-to-llvm-densemap-for-thin-linking-performance/88191#post_11)
+- [[RFC] Add an Apple Metal/AIR backend target](https://discourse.llvm.org/t/rfc-add-an-apple-metal-air-backend-target/90936#post_10)
+- [Out-of-bounds Semantics of `memref.subview`](https://discourse.llvm.org/t/out-of-bounds-semantics-of-memref-subview/85293#post_15)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070#post_9)
 <!-- DISCOURSE-LLVM:END -->
