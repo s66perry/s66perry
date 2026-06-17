@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_1)
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_27)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_21)
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_26)
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_25)
+- [RFC: Raising minimum required CMake version to 3.31](https://discourse.llvm.org/t/rfc-raising-minimum-required-cmake-version-to-3-31/91086#post_4)
+- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_2)
+- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_1)
+- [Is it possible to convert linalg.matmul to tt dialect?](https://discourse.llvm.org/t/is-it-possible-to-convert-linalg-matmul-to-tt-dialect/90990#post_3)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_30)
 <!-- DISCOURSE-LLVM:END -->
