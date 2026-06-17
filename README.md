@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_31)
-- [[RFC] Add an Apple Metal/AIR backend target](https://discourse.llvm.org/t/rfc-add-an-apple-metal-air-backend-target/90936#post_11)
-- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_7)
-- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_30)
-- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_6)
+- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=2#post_41)
+- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_3)
+- [[RFC][AArch64] MSVC-compatible __cas/__swp/__ldapr intrinsics that emit LSE/RCPC instructions regardless of -march](https://discourse.llvm.org/t/rfc-aarch64-msvc-compatible-cas-swp-ldapr-intrinsics-that-emit-lse-rcpc-instructions-regardless-of-march/91093#post_1)
+- [Extending fast-math flags](https://discourse.llvm.org/t/extending-fast-math-flags/88153#post_11)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
