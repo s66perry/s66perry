@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Raising minimum required CMake version to 3.31](https://discourse.llvm.org/t/rfc-raising-minimum-required-cmake-version-to-3-31/91086#post_4)
-- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_2)
-- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_1)
-- [Is it possible to convert linalg.matmul to tt dialect?](https://discourse.llvm.org/t/is-it-possible-to-convert-linalg-matmul-to-tt-dialect/90990#post_3)
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_30)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_31)
+- [[RFC] Add an Apple Metal/AIR backend target](https://discourse.llvm.org/t/rfc-add-an-apple-metal-air-backend-target/90936#post_11)
+- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_7)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=2#post_30)
+- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_6)
 <!-- DISCOURSE-LLVM:END -->
