@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] CORE-V &lpar;XCV&rpar; support for CV32E40P: Clang builtins, XCVsimd intrinsics, and generic auto-selection](https://discourse.llvm.org/t/rfc-core-v-xcv-support-for-cv32e40p-clang-builtins-xcvsimd-intrinsics-and-generic-auto-selection/91111#post_1)
+- [[ClangIR] Upstream Progress Report - June 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-june-2026/91097#post_5)
 - [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_7)
 - [Are struct tm and std::tm the same type?](https://discourse.llvm.org/t/are-struct-tm-and-std-tm-the-same-type/91110#post_5)
 - [Are struct tm and std::tm the same type?](https://discourse.llvm.org/t/are-struct-tm-and-std-tm-the-same-type/91110#post_4)
-- [Are struct tm and std::tm the same type?](https://discourse.llvm.org/t/are-struct-tm-and-std-tm-the-same-type/91110#post_3)
-- [Are struct tm and std::tm the same type?](https://discourse.llvm.org/t/are-struct-tm-and-std-tm-the-same-type/91110#post_2)
 <!-- DISCOURSE-LLVM:END -->
