@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Upstream Infrastructure for AI Review of PRs](https://discourse.llvm.org/t/rfc-upstream-infrastructure-for-ai-review-of-prs/91042?page=3#post_55)
-- [In ValueBoundsOpInterface, Can bounds involve multiplications?](https://discourse.llvm.org/t/in-valueboundsopinterface-can-bounds-involve-multiplications/91133#post_4)
-- [In ValueBoundsOpInterface, Can bounds involve multiplications?](https://discourse.llvm.org/t/in-valueboundsopinterface-can-bounds-involve-multiplications/91133#post_3)
-- [In ValueBoundsOpInterface, Can bounds involve multiplications?](https://discourse.llvm.org/t/in-valueboundsopinterface-can-bounds-involve-multiplications/91133#post_2)
-- [Portable way to use POSIX stuff in C++?](https://discourse.llvm.org/t/portable-way-to-use-posix-stuff-in-c/91127#post_4)
+- [[RFC][BOLT] hugify improvements](https://discourse.llvm.org/t/rfc-bolt-hugify-improvements/91137#post_1)
+- [LLDB SB API Breakpoint resolution](https://discourse.llvm.org/t/lldb-sb-api-breakpoint-resolution/91136#post_2)
+- [[RFC] CORE-V &lpar;XCV&rpar; support for CV32E40P: Clang builtins, XCVsimd intrinsics, and generic auto-selection](https://discourse.llvm.org/t/rfc-core-v-xcv-support-for-cv32e40p-clang-builtins-xcvsimd-intrinsics-and-generic-auto-selection/91111#post_7)
+- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_10)
+- [[RFC] Universal Profile-Guided Automatic Software Loop Data Prefetcher for LLVM](https://discourse.llvm.org/t/rfc-universal-profile-guided-automatic-software-loop-data-prefetcher-for-llvm/90916#post_2)
 <!-- DISCOURSE-LLVM:END -->
