@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[SimplifyCFG] mergeConditionalStores fails to merge stores with semantically identical but distinct GEPs](https://discourse.llvm.org/t/simplifycfg-mergeconditionalstores-fails-to-merge-stores-with-semantically-identical-but-distinct-geps/91107#post_3)
-- [[RFC] Bump LLVM’s minimum required Python version for sphinx documentation builds](https://discourse.llvm.org/t/rfc-bump-llvm-s-minimum-required-python-version-for-sphinx-documentation-builds/91078#post_14)
-- [[RFC] Universal Profile-Guided Automatic Software Loop Data Prefetcher for LLVM](https://discourse.llvm.org/t/rfc-universal-profile-guided-automatic-software-loop-data-prefetcher-for-llvm/90916#post_3)
-- [[RFC][BOLT] hugify improvements](https://discourse.llvm.org/t/rfc-bolt-hugify-improvements/91137#post_1)
-- [LLDB SB API Breakpoint resolution](https://discourse.llvm.org/t/lldb-sb-api-breakpoint-resolution/91136#post_2)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_25)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_24)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_23)
+- [[RFC] Adding BASIC09 frontend tool to LLVM](https://discourse.llvm.org/t/rfc-adding-basic09-frontend-tool-to-llvm/91141#post_4)
+- [[RFC] Adding BASIC09 frontend tool to LLVM](https://discourse.llvm.org/t/rfc-adding-basic09-frontend-tool-to-llvm/91141#post_3)
 <!-- DISCOURSE-LLVM:END -->
