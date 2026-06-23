@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add elementwise modifier to atomicrmw](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomicrmw/90134#post_8)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_26)
+- [[RFC] Add an Apple Metal/AIR backend target](https://discourse.llvm.org/t/rfc-add-an-apple-metal-air-backend-target/90936#post_12)
 - [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_25)
 - [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_24)
-- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_23)
-- [[RFC] Adding BASIC09 frontend tool to LLVM](https://discourse.llvm.org/t/rfc-adding-basic09-frontend-tool-to-llvm/91141#post_4)
-- [[RFC] Adding BASIC09 frontend tool to LLVM](https://discourse.llvm.org/t/rfc-adding-basic09-frontend-tool-to-llvm/91141#post_3)
 <!-- DISCOURSE-LLVM:END -->
