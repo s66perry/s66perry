@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149#post_1)
-- [[LLVM-DEV&#39;26] LLVM :hearts: ML Workshop](https://discourse.llvm.org/t/llvm-dev26-llvm-ml-workshop/91148#post_1)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_12)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_11)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_23)
+- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_11)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_13)
+- [[RFC] Adding BASIC09 frontend tool to LLVM](https://discourse.llvm.org/t/rfc-adding-basic09-frontend-tool-to-llvm/91141#post_5)
+- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_13)
+- [[RFC] Separate GPU-specific transforms from LLVMIRTransforms](https://discourse.llvm.org/t/rfc-separate-gpu-specific-transforms-from-llvmirtransforms/91151#post_1)
 <!-- DISCOURSE-LLVM:END -->
