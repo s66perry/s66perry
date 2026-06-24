@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_5)
-- [[RFC] Re-vectorisation to wider vectors in LoopVectorizer](https://discourse.llvm.org/t/rfc-re-vectorisation-to-wider-vectors-in-loopvectorizer/91071#post_2)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_6)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_5)
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_4)
+- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_6)
+- [[RFC] Add rangeset for disjoint integer range attributes](https://discourse.llvm.org/t/rfc-add-rangeset-for-disjoint-integer-range-attributes/91063#post_6)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_8)
+- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_5)
+- [[RFC] Add an Apple Metal/AIR backend target](https://discourse.llvm.org/t/rfc-add-an-apple-metal-air-backend-target/90936#post_15)
 <!-- DISCOURSE-LLVM:END -->
