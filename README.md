@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Semantics of partially overlapping atomic accesses](https://discourse.llvm.org/t/rfc-semantics-of-partially-overlapping-atomic-accesses/91092#post_12)
-- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_12)
-- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_30)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149#post_3)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_18)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_32)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149#post_4)
+- [[RFC] Separate GPU-specific transforms from LLVMIRTransforms](https://discourse.llvm.org/t/rfc-separate-gpu-specific-transforms-from-llvmirtransforms/91151#post_3)
+- [[RFC] Separate GPU-specific transforms from LLVMIRTransforms](https://discourse.llvm.org/t/rfc-separate-gpu-specific-transforms-from-llvmirtransforms/91151#post_2)
+- [Modularizing SLPVectorizer.cpp](https://discourse.llvm.org/t/modularizing-slpvectorizer-cpp/90922#post_6)
 <!-- DISCOURSE-LLVM:END -->
