@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_34)
-- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_15)
-- [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=3#post_44)
-- [[RFC][ClangIR] Widen bool / _BitInt / ext-vector-bool to their in-memory types in lowering](https://discourse.llvm.org/t/rfc-clangir-widen-bool-bitint-ext-vector-bool-to-their-in-memory-types-in-lowering/91160#post_2)
-- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_14)
+- [[RFC] Add elementwise modifier to atomic loads and stores](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomic-loads-and-stores/91100#post_6)
+- [[RFC] Add elementwise modifier to atomic loads and stores](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomic-loads-and-stores/91100#post_5)
+- [[mlir][affine] Affine-super-vectorize does not set in_bounds on transfer ops for statically divisible shapes](https://discourse.llvm.org/t/mlir-affine-affine-super-vectorize-does-not-set-in-bounds-on-transfer-ops-for-statically-divisible-shapes/90785#post_5)
+- [About the Code Review category](https://discourse.llvm.org/t/about-the-code-review-category/34#post_2)
+- [[RFC] Constify Objective-C Ivar Offsets Through LTO](https://discourse.llvm.org/t/rfc-constify-objective-c-ivar-offsets-through-lto/91162#post_2)
 <!-- DISCOURSE-LLVM:END -->
