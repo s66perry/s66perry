@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Reference Manual - Personal Project](https://discourse.llvm.org/t/mlir-reference-manual-personal-project/91170#post_3)
-- [MLIR Reference Manual - Personal Project](https://discourse.llvm.org/t/mlir-reference-manual-personal-project/91170#post_2)
-- [MLIR Reference Manual - Personal Project](https://discourse.llvm.org/t/mlir-reference-manual-personal-project/91170#post_1)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145#post_19)
-- [RFC: Raising minimum required CMake version to 3.31](https://discourse.llvm.org/t/rfc-raising-minimum-required-cmake-version-to-3-31/91086#post_5)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=2#post_22)
+- [[RFC][ClangIR] Widen bool / _BitInt / ext-vector-bool to their in-memory types in lowering](https://discourse.llvm.org/t/rfc-clangir-widen-bool-bitint-ext-vector-bool-to-their-in-memory-types-in-lowering/91160#post_3)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=2#post_21)
+- [[ClangIR] Upstream Progress Report - June 2026](https://discourse.llvm.org/t/clangir-upstream-progress-report-june-2026/91097#post_6)
+- [[RFC] Having an auto-formatter for CMake](https://discourse.llvm.org/t/rfc-having-an-auto-formatter-for-cmake/90511#post_11)
 <!-- DISCOURSE-LLVM:END -->
