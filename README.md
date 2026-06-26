@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_34)
 - [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_15)
 - [[RFC] Support for -std=f2023](https://discourse.llvm.org/t/rfc-support-for-std-f2023/89608?page=3#post_44)
 - [[RFC][ClangIR] Widen bool / _BitInt / ext-vector-bool to their in-memory types in lowering](https://discourse.llvm.org/t/rfc-clangir-widen-bool-bitint-ext-vector-bool-to-their-in-memory-types-in-lowering/91160#post_2)
 - [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_14)
-- [[RFC][ClangIR] Widen bool / _BitInt / ext-vector-bool to their in-memory types in lowering](https://discourse.llvm.org/t/rfc-clangir-widen-bool-bitint-ext-vector-bool-to-their-in-memory-types-in-lowering/91160#post_1)
 <!-- DISCOURSE-LLVM:END -->
