@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_35)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_34)
+- [A general-purpose loop iteration-space splitting utility &lpar;LoopSplitUtils&rpar;](https://discourse.llvm.org/t/a-general-purpose-loop-iteration-space-splitting-utility-loopsplitutils/91166#post_1)
+- [RFC: Forming a Static Analysis Working Group in the Clang Ecosystem](https://discourse.llvm.org/t/rfc-forming-a-static-analysis-working-group-in-the-clang-ecosystem/90719?page=2#post_28)
 - [[RFC] Add elementwise modifier to atomic loads and stores](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomic-loads-and-stores/91100#post_6)
-- [[RFC] Add elementwise modifier to atomic loads and stores](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomic-loads-and-stores/91100#post_5)
-- [[mlir][affine] Affine-super-vectorize does not set in_bounds on transfer ops for statically divisible shapes](https://discourse.llvm.org/t/mlir-affine-affine-super-vectorize-does-not-set-in-bounds-on-transfer-ops-for-statically-divisible-shapes/90785#post_5)
-- [About the Code Review category](https://discourse.llvm.org/t/about-the-code-review-category/34#post_2)
-- [[RFC] Constify Objective-C Ivar Offsets Through LTO](https://discourse.llvm.org/t/rfc-constify-objective-c-ivar-offsets-through-lto/91162#post_2)
 <!-- DISCOURSE-LLVM:END -->
