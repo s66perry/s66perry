@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] CORE-V &lpar;XCV&rpar; support for CV32E40P: Clang builtins, XCVsimd intrinsics, and generic auto-selection](https://discourse.llvm.org/t/rfc-core-v-xcv-support-for-cv32e40p-clang-builtins-xcvsimd-intrinsics-and-generic-auto-selection/91111#post_9)
-- [[RFC] Re-vectorisation to wider vectors in LoopVectorizer](https://discourse.llvm.org/t/rfc-re-vectorisation-to-wider-vectors-in-loopvectorizer/91071#post_3)
-- [[RFC] Add elementwise modifier to atomic loads and stores](https://discourse.llvm.org/t/rfc-add-elementwise-modifier-to-atomic-loads-and-stores/91100#post_7)
-- [Fuzzing llc command-line arguments?](https://discourse.llvm.org/t/fuzzing-llc-command-line-arguments/91159#post_4)
-- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_36)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149#post_11)
+- [Clang-tidy checks for common MLIR anti-patterns](https://discourse.llvm.org/t/clang-tidy-checks-for-common-mlir-anti-patterns/91179#post_1)
+- [P3935R2 Rebasing &lt;cmath&gt; on C23, lots of constexpr math](https://discourse.llvm.org/t/p3935r2-rebasing-cmath-on-c23-lots-of-constexpr-math/91178#post_3)
+- [P3935R2 Rebasing &lt;cmath&gt; on C23, lots of constexpr math](https://discourse.llvm.org/t/p3935r2-rebasing-cmath-on-c23-lots-of-constexpr-math/91178#post_2)
+- [P3935R2 Rebasing &lt;cmath&gt; on C23, lots of constexpr math](https://discourse.llvm.org/t/p3935r2-rebasing-cmath-on-c23-lots-of-constexpr-math/91178#post_1)
 <!-- DISCOURSE-LLVM:END -->
