@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Separate GPU-specific transforms from LLVMIRTransforms](https://discourse.llvm.org/t/rfc-separate-gpu-specific-transforms-from-llvmirtransforms/91151#post_5)
+- [[RFC] Separate GPU-specific transforms from LLVMIRTransforms](https://discourse.llvm.org/t/rfc-separate-gpu-specific-transforms-from-llvmirtransforms/91151#post_4)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149#post_10)
+- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_16)
 - [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106#post_11)
-- [How to configure clang-format for localized formatting](https://discourse.llvm.org/t/how-to-configure-clang-format-for-localized-formatting/91172#post_1)
-- [Why is this not ambiguous? Using {} for enum and struct != error](https://discourse.llvm.org/t/why-is-this-not-ambiguous-using-for-enum-and-struct-error/91171#post_3)
-- [Why is this not ambiguous? Using {} for enum and struct != error](https://discourse.llvm.org/t/why-is-this-not-ambiguous-using-for-enum-and-struct-error/91171#post_2)
-- [Why is this not ambiguous? Using {} for enum and struct != error](https://discourse.llvm.org/t/why-is-this-not-ambiguous-using-for-enum-and-struct-error/91171#post_1)
 <!-- DISCOURSE-LLVM:END -->
