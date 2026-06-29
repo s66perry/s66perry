@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #652, June 29th 2026](https://discourse.llvm.org/t/llvm-weekly-652-june-29th-2026/91181#post_1)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031#post_14)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031#post_13)
-- [[RFC][2026] Upgrading LLVM’s minimum required CMake version](https://discourse.llvm.org/t/rfc-2026-upgrading-llvm-s-minimum-required-cmake-version/89829?page=2#post_21)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031#post_12)
+- [Fuzzing llc command-line arguments?](https://discourse.llvm.org/t/fuzzing-llc-command-line-arguments/91159#post_5)
+- [[RFC][FileCheck] Improving input dump readability](https://discourse.llvm.org/t/rfc-filecheck-improving-input-dump-readability/91112#post_10)
+- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089#post_17)
+- [Clang produces a much more inefficient binary &lpar;azahar&rpar; as compared to GCC](https://discourse.llvm.org/t/clang-produces-a-much-more-inefficient-binary-azahar-as-compared-to-gcc/91174#post_3)
+- [RFC: Enabling Immutable Releases v2](https://discourse.llvm.org/t/rfc-enabling-immutable-releases-v2/91180#post_4)
 <!-- DISCOURSE-LLVM:END -->
