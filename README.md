@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106#post_12)
-- [[RFC] MachineLaneSSAUpdater — target-independent SSA repair with subregister lane awareness for Machine IR](https://discourse.llvm.org/t/rfc-machinelanessaupdater-target-independent-ssa-repair-with-subregister-lane-awareness-for-machine-ir/91058#post_5)
-- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=2#post_38)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=2#post_36)
-- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_31)
+- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034#post_14)
+- [LLDB SB API Breakpoint resolution](https://discourse.llvm.org/t/lldb-sb-api-breakpoint-resolution/91136#post_3)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031#post_17)
+- [Clarify/document github &quot;re-request review&quot; button?](https://discourse.llvm.org/t/clarify-document-github-re-request-review-button/91192#post_2)
+- [Clarify/document github &quot;re-request review&quot; button?](https://discourse.llvm.org/t/clarify-document-github-re-request-review-button/91192#post_1)
 <!-- DISCOURSE-LLVM:END -->
