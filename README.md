@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Re-vectorisation to wider vectors in LoopVectorizer](https://discourse.llvm.org/t/rfc-re-vectorisation-to-wider-vectors-in-loopvectorizer/91071#post_13)
-- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=2#post_40)
-- [In ValueBoundsOpInterface, calculating max when we know both operands have upper bounds](https://discourse.llvm.org/t/in-valueboundsopinterface-calculating-max-when-we-know-both-operands-have-upper-bounds/91196#post_1)
-- [[RFC] Re-vectorisation to wider vectors in LoopVectorizer](https://discourse.llvm.org/t/rfc-re-vectorisation-to-wider-vectors-in-loopvectorizer/91071#post_12)
-- [MachineLICM register pressure calculation](https://discourse.llvm.org/t/machinelicm-register-pressure-calculation/78941#post_10)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_22)
+- [[RFC] The Cost of Templates when Building Flang](https://discourse.llvm.org/t/rfc-the-cost-of-templates-when-building-flang/91197#post_2)
+- [[RFC] The Cost of Templates when Building Flang](https://discourse.llvm.org/t/rfc-the-cost-of-templates-when-building-flang/91197#post_1)
+- [Incorrect target arch guessed when debugging remote process](https://discourse.llvm.org/t/incorrect-target-arch-guessed-when-debugging-remote-process/91195#post_5)
+- [[RFC] Builtin names for C++26 atomic reductions &lpar;P3111&rpar;](https://discourse.llvm.org/t/rfc-builtin-names-for-c-26-atomic-reductions-p3111/90746?page=2#post_33)
 <!-- DISCOURSE-LLVM:END -->
