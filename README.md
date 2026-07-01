@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RISC-V LLVM sync-up call July 2nd 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-july-2nd-2026/91200#post_1)
-- [[RFC] The Cost of Templates when Building Flang](https://discourse.llvm.org/t/rfc-the-cost-of-templates-when-building-flang/91197#post_7)
-- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089?page=2#post_21)
-- [[RFC] The Cost of Templates when Building Flang](https://discourse.llvm.org/t/rfc-the-cost-of-templates-when-building-flang/91197#post_6)
-- [[RFC] Support Multi-Dimensional Scalable Vectors in ElementCount](https://discourse.llvm.org/t/rfc-support-multi-dimensional-scalable-vectors-in-elementcount/91199#post_1)
+- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106#post_13)
+- [[RFC] Support Multi-Dimensional Scalable Vectors in ElementCount](https://discourse.llvm.org/t/rfc-support-multi-dimensional-scalable-vectors-in-elementcount/91199#post_5)
+- [[RFC] Support Multi-Dimensional Scalable Vectors in ElementCount](https://discourse.llvm.org/t/rfc-support-multi-dimensional-scalable-vectors-in-elementcount/91199#post_4)
+- [[RFC] Support Multi-Dimensional Scalable Vectors in ElementCount](https://discourse.llvm.org/t/rfc-support-multi-dimensional-scalable-vectors-in-elementcount/91199#post_3)
+- [[RFC] Support Multi-Dimensional Scalable Vectors in ElementCount](https://discourse.llvm.org/t/rfc-support-multi-dimensional-scalable-vectors-in-elementcount/91199#post_2)
 <!-- DISCOURSE-LLVM:END -->
