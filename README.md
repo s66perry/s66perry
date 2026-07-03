@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_32)
+- [Separating LLVM-MC](https://discourse.llvm.org/t/separating-llvm-mc/84781#post_4)
+- [RFC: Updating the semantics of the noescape attribute](https://discourse.llvm.org/t/rfc-updating-the-semantics-of-the-noescape-attribute/90326?page=2#post_37)
 - [[RFC] A health check for LLDB](https://discourse.llvm.org/t/rfc-a-health-check-for-lldb/91208#post_5)
 - [Source on how to generate LLVM IR code from other language than C/C++/Rust](https://discourse.llvm.org/t/source-on-how-to-generate-llvm-ir-code-from-other-language-than-c-c-rust/91209#post_3)
-- [LLVM buildbot will be down for maintenance on July 2, 2026 starting from 10:30 PM PDT](https://discourse.llvm.org/t/llvm-buildbot-will-be-down-for-maintenance-on-july-2-2026-starting-from-10-30-pm-pdt/91212#post_1)
-- [[RFC] A health check for LLDB](https://discourse.llvm.org/t/rfc-a-health-check-for-lldb/91208#post_4)
-- [[libc++] [RFC] Add `__is_complete_here` and `__is_complete_or_unbounded_here` functions to `__type_traits`](https://discourse.llvm.org/t/libc-rfc-add-is-complete-here-and-is-complete-or-unbounded-here-functions-to-type-traits/91204#post_11)
 <!-- DISCOURSE-LLVM:END -->
