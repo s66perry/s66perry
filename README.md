@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106#post_17)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_51)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_50)
-- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106#post_16)
-- [[RFC] Constify Objective-C Ivar Offsets Through LTO](https://discourse.llvm.org/t/rfc-constify-objective-c-ivar-offsets-through-lto/91162#post_3)
+- [[RFC] Add a --wtt-output format for reporting lit results to Windows test infrastructure](https://discourse.llvm.org/t/rfc-add-a-wtt-output-format-for-reporting-lit-results-to-windows-test-infrastructure/91215#post_4)
+- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_33)
+- [[RFC] Add a --wtt-output format for reporting lit results to Windows test infrastructure](https://discourse.llvm.org/t/rfc-add-a-wtt-output-format-for-reporting-lit-results-to-windows-test-infrastructure/91215#post_3)
+- [[RFC][clang][libc] Extend the `ext_vector_type` attribute to support the scalable vector sizes](https://discourse.llvm.org/t/rfc-clang-libc-extend-the-ext-vector-type-attribute-to-support-the-scalable-vector-sizes/90043#post_14)
+- [[RFC] Expressing block-scaled operations in TOSA](https://discourse.llvm.org/t/rfc-expressing-block-scaled-operations-in-tosa/91056#post_3)
 <!-- DISCOURSE-LLVM:END -->
