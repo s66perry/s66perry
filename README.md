@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a --wtt-output format for reporting lit results to Windows test infrastructure](https://discourse.llvm.org/t/rfc-add-a-wtt-output-format-for-reporting-lit-results-to-windows-test-infrastructure/91215#post_4)
-- [RFC: Code Prefetch Insertion](https://discourse.llvm.org/t/rfc-code-prefetch-insertion/88668?page=2#post_33)
-- [[RFC] Add a --wtt-output format for reporting lit results to Windows test infrastructure](https://discourse.llvm.org/t/rfc-add-a-wtt-output-format-for-reporting-lit-results-to-windows-test-infrastructure/91215#post_3)
-- [[RFC][clang][libc] Extend the `ext_vector_type` attribute to support the scalable vector sizes](https://discourse.llvm.org/t/rfc-clang-libc-extend-the-ext-vector-type-attribute-to-support-the-scalable-vector-sizes/90043#post_14)
-- [[RFC] Expressing block-scaled operations in TOSA](https://discourse.llvm.org/t/rfc-expressing-block-scaled-operations-in-tosa/91056#post_3)
+- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106#post_19)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_1)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728?page=3#post_47)
+- [[libc++] [RFC] Add `__is_complete_here` and `__is_complete_or_unbounded_here` functions to `__type_traits`](https://discourse.llvm.org/t/libc-rfc-add-is-complete-here-and-is-complete-or-unbounded-here-functions-to-type-traits/91204#post_16)
+- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106#post_18)
 <!-- DISCOURSE-LLVM:END -->
