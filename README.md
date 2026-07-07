@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[libc++] [RFC] Add `__is_complete_here` and `__is_complete_or_unbounded_here` functions to `__type_traits`](https://discourse.llvm.org/t/libc-rfc-add-is-complete-here-and-is-complete-or-unbounded-here-functions-to-type-traits/91204#post_17)
-- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034#post_18)
-- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034#post_17)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_52)
-- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222#post_7)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_5)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_4)
+- [[RFC] Removal of `@llvm.ptrauth.blend` as a standalone intrinsic](https://discourse.llvm.org/t/rfc-removal-of-llvm-ptrauth-blend-as-a-standalone-intrinsic/90219#post_11)
+- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_24)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_53)
 <!-- DISCOURSE-LLVM:END -->
