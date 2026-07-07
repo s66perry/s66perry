@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_5)
-- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_4)
-- [[RFC] Removal of `@llvm.ptrauth.blend` as a standalone intrinsic](https://discourse.llvm.org/t/rfc-removal-of-llvm-ptrauth-blend-as-a-standalone-intrinsic/90219#post_11)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_24)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_53)
+- [[clang][modules] Bi-Weekly Meeting July 7th, 2026](https://discourse.llvm.org/t/clang-modules-bi-weekly-meeting-july-7th-2026/91246#post_1)
+- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089?page=2#post_26)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_6)
+- [[RFC] Add normalize pass to MLIR](https://discourse.llvm.org/t/rfc-add-normalize-pass-to-mlir/90600#post_11)
+- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_7)
 <!-- DISCOURSE-LLVM:END -->
