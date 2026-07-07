@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[CFP] Toolchains Track at Linux Plumbers Conf &#39;26](https://discourse.llvm.org/t/cfp-toolchains-track-at-linux-plumbers-conf-26/91088#post_2)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_54)
+- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034#post_20)
+- [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728?page=3#post_50)
 - [[RFC] vector.gather / vector.scatter must take multiple index vectors](https://discourse.llvm.org/t/rfc-vector-gather-vector-scatter-must-take-multiple-index-vectors/90728?page=3#post_49)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_23)
-- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089?page=2#post_27)
-- [[RFC] An opt-in CMake option for 64-bit Source Location](https://discourse.llvm.org/t/rfc-an-opt-in-cmake-option-for-64-bit-source-location/87538?page=3#post_44)
-- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222#post_8)
 <!-- DISCOURSE-LLVM:END -->
