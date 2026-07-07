@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[libc++] [RFC] Add `__is_complete_here` and `__is_complete_or_unbounded_here` functions to `__type_traits`](https://discourse.llvm.org/t/libc-rfc-add-is-complete-here-and-is-complete-or-unbounded-here-functions-to-type-traits/91204#post_17)
+- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034#post_18)
+- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034#post_17)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_52)
 - [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222#post_7)
-- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_3)
-- [RFC: Enable -fstack-clash-protection by default for Android targets](https://discourse.llvm.org/t/rfc-enable-fstack-clash-protection-by-default-for-android-targets/91223#post_4)
-- [[RFC] [LTO] [lld] LTO with linker scripts, implemented](https://discourse.llvm.org/t/rfc-lto-lld-lto-with-linker-scripts-implemented/91089?page=2#post_25)
-- [[RFC] A Thread/Concurrency Sanitizer for GPUs in compiler-rt](https://discourse.llvm.org/t/rfc-a-thread-concurrency-sanitizer-for-gpus-in-compiler-rt/91113#post_7)
 <!-- DISCOURSE-LLVM:END -->
