@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248#post_2)
-- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248#post_1)
-- [RFC: Enable -fstack-clash-protection by default for Android targets](https://discourse.llvm.org/t/rfc-enable-fstack-clash-protection-by-default-for-android-targets/91223#post_5)
-- [[libc++] [RFC] Add `__is_complete_here` and `__is_complete_or_unbounded_here` functions to `__type_traits`](https://discourse.llvm.org/t/libc-rfc-add-is-complete-here-and-is-complete-or-unbounded-here-functions-to-type-traits/91204#post_19)
-- [How Clang SA handles CTU C++ virtual function](https://discourse.llvm.org/t/how-clang-sa-handles-ctu-c-virtual-function/91167#post_2)
+- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_16)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_7)
+- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_15)
+- [Upstreaming basic support for accelerators](https://discourse.llvm.org/t/upstreaming-basic-support-for-accelerators/89827#post_13)
+- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_14)
 <!-- DISCOURSE-LLVM:END -->
