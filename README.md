@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_16)
-- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_7)
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_15)
-- [Upstreaming basic support for accelerators](https://discourse.llvm.org/t/upstreaming-basic-support-for-accelerators/89827#post_13)
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_14)
+- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248#post_6)
+- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248#post_5)
+- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248#post_4)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_8)
+- [[RFC][clang][libc] Extend the `ext_vector_type` attribute to support the scalable vector sizes](https://discourse.llvm.org/t/rfc-clang-libc-extend-the-ext-vector-type-attribute-to-support-the-scalable-vector-sizes/90043#post_17)
 <!-- DISCOURSE-LLVM:END -->
