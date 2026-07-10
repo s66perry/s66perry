@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] The Cost of Templates when Building Flang](https://discourse.llvm.org/t/rfc-the-cost-of-templates-when-building-flang/91197#post_10)
-- [RFC: Enabling Immutable Releases v2](https://discourse.llvm.org/t/rfc-enabling-immutable-releases-v2/91180#post_10)
-- [RFC: Enabling Immutable Releases v2](https://discourse.llvm.org/t/rfc-enabling-immutable-releases-v2/91180#post_9)
-- [RFC: Enabling Immutable Releases v2](https://discourse.llvm.org/t/rfc-enabling-immutable-releases-v2/91180#post_8)
-- [[RFC] Add rangeset for disjoint integer range attributes](https://discourse.llvm.org/t/rfc-add-rangeset-for-disjoint-integer-range-attributes/91063#post_8)
+- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_2)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_12)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_11)
+- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_1)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_10)
 <!-- DISCOURSE-LLVM:END -->
