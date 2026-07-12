@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_4)
 - [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_3)
 - [[RFC] Adding BASIC09 frontend tool to LLVM](https://discourse.llvm.org/t/rfc-adding-basic09-frontend-tool-to-llvm/91141#post_6)
 - [[RFC] Keep the carry flag live across _addcarry_u64 loop back-edges &lpar;new late X86 pass&rpar;](https://discourse.llvm.org/t/rfc-keep-the-carry-flag-live-across-addcarry-u64-loop-back-edges-new-late-x86-pass/91267#post_6)
 - [[RFC] Keep the carry flag live across _addcarry_u64 loop back-edges &lpar;new late X86 pass&rpar;](https://discourse.llvm.org/t/rfc-keep-the-carry-flag-live-across-addcarry-u64-loop-back-edges-new-late-x86-pass/91267#post_5)
-- [[RFC] mem2reg/SROA: recover !range/!align/!dereferenceable load metadata as llvm.assume](https://discourse.llvm.org/t/rfc-mem2reg-sroa-recover-range-align-dereferenceable-load-metadata-as-llvm-assume/91264#post_2)
 <!-- DISCOURSE-LLVM:END -->
