@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_5)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_22)
 - [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222#post_18)
 - [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222#post_17)
 - [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222#post_16)
-- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222#post_15)
-- [[RFC] [HLSL] [SPIRV] Denormal handling ExecutionMode emission in clang-dxc](https://discourse.llvm.org/t/rfc-hlsl-spirv-denormal-handling-executionmode-emission-in-clang-dxc/91143#post_6)
 <!-- DISCOURSE-LLVM:END -->
