@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_9)
-- [MLIR for GC lowering and analysis](https://discourse.llvm.org/t/mlir-for-gc-lowering-and-analysis/91275#post_1)
-- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_8)
-- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_7)
-- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_6)
+- [[RFC] mem2reg/SROA: recover !range/!align/!dereferenceable load metadata as llvm.assume](https://discourse.llvm.org/t/rfc-mem2reg-sroa-recover-range-align-dereferenceable-load-metadata-as-llvm-assume/91264#post_3)
+- [Synchronizing LTO code-generation configuration between Clang and LLD &lpar;DTLTO&rpar;](https://discourse.llvm.org/t/synchronizing-lto-code-generation-configuration-between-clang-and-lld-dtlto/91276#post_2)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_28)
+- [Synchronizing LTO code-generation configuration between Clang and LLD &lpar;DTLTO&rpar;](https://discourse.llvm.org/t/synchronizing-lto-code-generation-configuration-between-clang-and-lld-dtlto/91276#post_1)
+- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_17)
 <!-- DISCOURSE-LLVM:END -->
