@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_11)
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_10)
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_9)
+- [[RFC] mem2reg/SROA: recover !range/!align/!dereferenceable load metadata as llvm.assume](https://discourse.llvm.org/t/rfc-mem2reg-sroa-recover-range-align-dereferenceable-load-metadata-as-llvm-assume/91264#post_4)
 - [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_25)
-- [[RFC][P2752R3][CWG2765] What does &quot;possible&quot; or &quot;can&quot; mean for potentially overlapping non-unique objects?](https://discourse.llvm.org/t/rfc-p2752r3-cwg2765-what-does-possible-or-can-mean-for-potentially-overlapping-non-unique-objects/91285#post_5)
-- [[RFC][P2752R3][CWG2765] What does &quot;possible&quot; or &quot;can&quot; mean for potentially overlapping non-unique objects?](https://discourse.llvm.org/t/rfc-p2752r3-cwg2765-what-does-possible-or-can-mean-for-potentially-overlapping-non-unique-objects/91285#post_4)
-- [Dropping intrinsic arguments in tblgen &lpar;solved&rpar;](https://discourse.llvm.org/t/dropping-intrinsic-arguments-in-tblgen-solved/91281#post_4)
-- [Dropping intrinsic arguments in tblgen &lpar;solved&rpar;](https://discourse.llvm.org/t/dropping-intrinsic-arguments-in-tblgen-solved/91281#post_3)
 <!-- DISCOURSE-LLVM:END -->
