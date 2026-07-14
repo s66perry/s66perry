@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][P2752R3][CWG2765] What does &quot;possible&quot; or &quot;can&quot; mean for potentially overlapping non-unique objects?](https://discourse.llvm.org/t/rfc-p2752r3-cwg2765-what-does-possible-or-can-mean-for-potentially-overlapping-non-unique-objects/91285#post_1)
+- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248#post_19)
+- [[RFC] Faster Sample Profile Loading](https://discourse.llvm.org/t/rfc-faster-sample-profile-loading/90957#post_8)
+- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_22)
 - [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_21)
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_3)
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_2)
-- [Questions about the intended OpenACC offloading architecture and pass pipeline](https://discourse.llvm.org/t/questions-about-the-intended-openacc-offloading-architecture-and-pass-pipeline/91277#post_2)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_6)
 <!-- DISCOURSE-LLVM:END -->
