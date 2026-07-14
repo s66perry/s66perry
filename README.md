@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM Moderation guide](https://discourse.llvm.org/t/rfc-llvm-moderation-guide/90673#post_2)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_31)
-- [Questions about the intended OpenACC offloading architecture and pass pipeline](https://discourse.llvm.org/t/questions-about-the-intended-openacc-offloading-architecture-and-pass-pipeline/91277#post_3)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_8)
-- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248?page=2#post_21)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_32)
+- [[RFC][P2752R3][CWG2765] What does &quot;possible&quot; or &quot;can&quot; mean for potentially overlapping non-unique objects?](https://discourse.llvm.org/t/rfc-p2752r3-cwg2765-what-does-possible-or-can-mean-for-potentially-overlapping-non-unique-objects/91285#post_2)
+- [[RFC][MLIR] Enable Dynamic and Tighter Affine Unrolling via ValueBoundsConstraintSet](https://discourse.llvm.org/t/rfc-mlir-enable-dynamic-and-tighter-affine-unrolling-via-valueboundsconstraintset/91055#post_2)
+- [Regarding Coverity scan reports not available](https://discourse.llvm.org/t/regarding-coverity-scan-reports-not-available/83273?page=2#post_22)
+- [LLVM 23.x has branched](https://discourse.llvm.org/t/llvm-23-x-has-branched/91289#post_1)
 <!-- DISCOURSE-LLVM:END -->
