@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_26)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_12)
-- [[RFC] Universal Profile-Guided Automatic Software Loop Data Prefetcher for LLVM](https://discourse.llvm.org/t/rfc-universal-profile-guided-automatic-software-loop-data-prefetcher-for-llvm/90916#post_6)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_11)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_10)
+- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_29)
+- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_28)
+- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_27)
+- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_18)
+- [[CfP] 2026 LLVM Memory Safety Workshop - Call for Proposals](https://discourse.llvm.org/t/cfp-2026-llvm-memory-safety-workshop-call-for-proposals/91291#post_1)
 <!-- DISCOURSE-LLVM:END -->
