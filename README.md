@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][Clang][Coverage] Add opt-in call-continuation counters to source-based coverage](https://discourse.llvm.org/t/rfc-clang-coverage-add-opt-in-call-continuation-counters-to-source-based-coverage/91301#post_2)
+- [[RFC] Top-level ADT resource without C++ runtime dependency](https://discourse.llvm.org/t/rfc-top-level-adt-resource-without-c-runtime-dependency/91304#post_1)
+- [MLIR Suite: MLIR, TableGen, and PDLL support for the Zed editor](https://discourse.llvm.org/t/mlir-suite-mlir-tablegen-and-pdll-support-for-the-zed-editor/91302#post_1)
+- [[RFC][Clang][Coverage] Add opt-in call-continuation counters to source-based coverage](https://discourse.llvm.org/t/rfc-clang-coverage-add-opt-in-call-continuation-counters-to-source-based-coverage/91301#post_1)
 - [Code blockstructure fall through and conditional jumps](https://discourse.llvm.org/t/code-blockstructure-fall-through-and-conditional-jumps/91298#post_3)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279#post_15)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_33)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827?page=2#post_28)
-- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=3#post_44)
 <!-- DISCOURSE-LLVM:END -->
