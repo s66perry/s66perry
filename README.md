@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Vectorizing loops which have load based tripcount](https://discourse.llvm.org/t/rfc-vectorizing-loops-which-have-load-based-tripcount/91293#post_1)
-- [Question about my first pull request](https://discourse.llvm.org/t/question-about-my-first-pull-request/90822#post_6)
-- [Questions about the intended OpenACC offloading architecture and pass pipeline](https://discourse.llvm.org/t/questions-about-the-intended-openacc-offloading-architecture-and-pass-pipeline/91277#post_4)
-- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_29)
-- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_28)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=3#post_44)
+- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_2)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=3#post_43)
+- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_1)
+- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827?page=2#post_27)
 <!-- DISCOURSE-LLVM:END -->
