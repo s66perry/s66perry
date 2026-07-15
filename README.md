@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Top-level ADT resource without C++ runtime dependency](https://discourse.llvm.org/t/rfc-top-level-adt-resource-without-c-runtime-dependency/91304#post_3)
-- [[RFC] User-controllable diagnostics for Clang frontend plugins](https://discourse.llvm.org/t/rfc-user-controllable-diagnostics-for-clang-frontend-plugins/91266#post_13)
-- [[RFC] Top-level ADT resource without C++ runtime dependency](https://discourse.llvm.org/t/rfc-top-level-adt-resource-without-c-runtime-dependency/91304#post_2)
-- [[RFC] Default-on diagnostics for Implement P2843R3 - Preprocessing is never undefined](https://discourse.llvm.org/t/rfc-default-on-diagnostics-for-implement-p2843r3-preprocessing-is-never-undefined/90863#post_19)
-- [RFC: Removing the DIA PDB plugin from LLDB](https://discourse.llvm.org/t/rfc-removing-the-dia-pdb-plugin-from-lldb/87827?page=2#post_29)
+- [Fixing Z3 SMT static analysis for _BitInt](https://discourse.llvm.org/t/fixing-z3-smt-static-analysis-for-bitint/91310#post_1)
+- [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_1)
+- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_3)
+- [[RFC][P2752R3][CWG2765] What does &quot;possible&quot; or &quot;can&quot; mean for potentially overlapping non-unique objects?](https://discourse.llvm.org/t/rfc-p2752r3-cwg2765-what-does-possible-or-can-mean-for-potentially-overlapping-non-unique-objects/91285#post_6)
+- [[RFC] Universal Profile-Guided Automatic Software Loop Data Prefetcher for LLVM](https://discourse.llvm.org/t/rfc-universal-profile-guided-automatic-software-loop-data-prefetcher-for-llvm/90916#post_7)
 <!-- DISCOURSE-LLVM:END -->
