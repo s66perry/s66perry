@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_6)
+- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_5)
+- [Cross-compilation of real&lpar;kind=16&rpar;](https://discourse.llvm.org/t/cross-compilation-of-real-kind-16/89161?page=3#post_45)
+- [[RFC] Custom formatters for constant values](https://discourse.llvm.org/t/rfc-custom-formatters-for-constant-values/91317#post_1)
 - [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_5)
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_4)
-- [[RFC] A Core-Level Probe Dialect](https://discourse.llvm.org/t/rfc-a-core-level-probe-dialect/91315#post_1)
-- [Lnt.llvm.org now tracking RVA23U64 performance for Clang and GCC on SpacemiT-X100](https://discourse.llvm.org/t/lnt-llvm-org-now-tracking-rva23u64-performance-for-clang-and-gcc-on-spacemit-x100/91314#post_1)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_34)
 <!-- DISCOURSE-LLVM:END -->
