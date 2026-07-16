@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_5)
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_4)
+- [[RFC] A Core-Level Probe Dialect](https://discourse.llvm.org/t/rfc-a-core-level-probe-dialect/91315#post_1)
 - [Lnt.llvm.org now tracking RVA23U64 performance for Clang and GCC on SpacemiT-X100](https://discourse.llvm.org/t/lnt-llvm-org-now-tracking-rva23u64-performance-for-clang-and-gcc-on-spacemit-x100/91314#post_1)
 - [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_34)
-- [Questions about the intended OpenACC offloading architecture and pass pipeline](https://discourse.llvm.org/t/questions-about-the-intended-openacc-offloading-architecture-and-pass-pipeline/91277#post_5)
-- [[RFC] Improving LLVM Support for Alternative Constraints in GNU Extended Inline Assembly](https://discourse.llvm.org/t/rfc-improving-llvm-support-for-alternative-constraints-in-gnu-extended-inline-assembly/89350?page=2#post_26)
-- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_4)
 <!-- DISCOURSE-LLVM:END -->
