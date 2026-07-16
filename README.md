@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [llvm/docs/AMDGPU/ contains numerous small, auto-generated files](https://discourse.llvm.org/t/llvm-docs-amdgpu-contains-numerous-small-auto-generated-files/88477#post_3)
-- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833?page=2#post_30)
-- [[DEADLINE TOMORROW] Student Travel Grant for the 2026 US LLVM Developers’ Meeting - Applications](https://discourse.llvm.org/t/deadline-tomorrow-student-travel-grant-for-the-2026-us-llvm-developers-meeting-applications/91320#post_1)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_16)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_15)
+- [Fixing Z3 SMT static analysis for _BitInt](https://discourse.llvm.org/t/fixing-z3-smt-static-analysis-for-bitint/91310#post_3)
+- [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283?page=2#post_21)
+- [[RFC] Proposed extension to the &quot;--offload-arch&quot; option](https://discourse.llvm.org/t/rfc-proposed-extension-to-the-offload-arch-option/90790?page=2#post_25)
+- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_19)
+- [[RFC] A Core-Level Probe Dialect](https://discourse.llvm.org/t/rfc-a-core-level-probe-dialect/91315#post_2)
 <!-- DISCOURSE-LLVM:END -->
