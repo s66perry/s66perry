@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Fixing Z3 SMT static analysis for _BitInt](https://discourse.llvm.org/t/fixing-z3-smt-static-analysis-for-bitint/91310#post_2)
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=3#post_43)
-- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248?page=2#post_23)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_27)
-- [RFC: Add/update TSAN submode for lock correctness validation only](https://discourse.llvm.org/t/rfc-add-update-tsan-submode-for-lock-correctness-validation-only/91319#post_2)
+- [llvm/docs/AMDGPU/ contains numerous small, auto-generated files](https://discourse.llvm.org/t/llvm-docs-amdgpu-contains-numerous-small-auto-generated-files/88477#post_3)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833?page=2#post_30)
+- [[DEADLINE TOMORROW] Student Travel Grant for the 2026 US LLVM Developers’ Meeting - Applications](https://discourse.llvm.org/t/deadline-tomorrow-student-travel-grant-for-the-2026-us-llvm-developers-meeting-applications/91320#post_1)
+- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_16)
+- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_15)
 <!-- DISCOURSE-LLVM:END -->
