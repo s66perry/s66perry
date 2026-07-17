@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_7)
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_6)
+- [[ClangIR] Progress Report — July 2026](https://discourse.llvm.org/t/clangir-progress-report-july-2026/91324#post_1)
+- [[RFC] [clang] Requiring C++20 Modules Serialization Tests for New Features](https://discourse.llvm.org/t/rfc-clang-requiring-c-20-modules-serialization-tests-for-new-features/90768#post_19)
 - [[RFC] A Core-Level Probe Dialect](https://discourse.llvm.org/t/rfc-a-core-level-probe-dialect/91315#post_3)
-- [Extending ownership for http://github.com/clangd project](https://discourse.llvm.org/t/extending-ownership-for-http-github-com-clangd-project/90762#post_20)
-- [[RFC] Removing Templight support](https://discourse.llvm.org/t/rfc-removing-templight-support/90777#post_17)
-- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833?page=2#post_31)
-- [[RFC] Clang with GCC2 C++ ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-c-abi/90825?page=3#post_43)
 <!-- DISCOURSE-LLVM:END -->
