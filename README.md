@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_9)
 - [[MLIR][OpenMP] Should omp.target/target_data implement RegionBranchOpInterface?](https://discourse.llvm.org/t/mlir-openmp-should-omp-target-target-data-implement-regionbranchopinterface/91227#post_3)
 - [[RFC] [LoopVectorizer] Check-First Early-Exit Loop Vectorization](https://discourse.llvm.org/t/rfc-loopvectorizer-check-first-early-exit-loop-vectorization/91337#post_1)
 - [llvm/docs/AMDGPU/ contains numerous small, auto-generated files](https://discourse.llvm.org/t/llvm-docs-amdgpu-contains-numerous-small-auto-generated-files/88477#post_5)
 - [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_8)
-- [[RFC] Clang with GCC2 C++ ABI](https://discourse.llvm.org/t/rfc-clang-with-gcc2-c-abi/90825?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
