@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_17)
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_16)
+- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_12)
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_15)
 - [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_14)
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_13)
-- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_11)
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282#post_12)
-- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_10)
 <!-- DISCOURSE-LLVM:END -->
