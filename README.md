@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Add/update TSAN submode for lock correctness validation only](https://discourse.llvm.org/t/rfc-add-update-tsan-submode-for-lock-correctness-validation-only/91319#post_7)
+- [Synchronizing LTO code-generation configuration between Clang and LLD &lpar;DTLTO&rpar;](https://discourse.llvm.org/t/synchronizing-lto-code-generation-configuration-between-clang-and-lld-dtlto/91276#post_8)
+- [LLVM Meetup in Munich – April 22th 2026](https://discourse.llvm.org/t/llvm-meetup-in-munich-april-22th-2026/90331#post_2)
+- [LLVM Meetup in Munich – July 29th 2026](https://discourse.llvm.org/t/llvm-meetup-in-munich-july-29th-2026/91344#post_1)
 - [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_10)
-- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_9)
-- [Fixing Z3 SMT static analysis for _BitInt](https://discourse.llvm.org/t/fixing-z3-smt-static-analysis-for-bitint/91310#post_7)
-- [What is the best way to manage stack frame memory portably?](https://discourse.llvm.org/t/what-is-the-best-way-to-manage-stack-frame-memory-portably/91341#post_1)
-- [[RFC] Top-level ADT resource without C++ runtime dependency](https://discourse.llvm.org/t/rfc-top-level-adt-resource-without-c-runtime-dependency/91304#post_5)
 <!-- DISCOURSE-LLVM:END -->
