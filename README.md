@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why is the main branch full of failed CI checks?](https://discourse.llvm.org/t/why-is-the-main-branch-full-of-failed-ci-checks/91352#post_1)
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282?page=2#post_21)
-- [LLVM Meetup in Munich – July 29th 2026](https://discourse.llvm.org/t/llvm-meetup-in-munich-july-29th-2026/91344#post_4)
-- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_2)
-- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_1)
+- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106?page=2#post_23)
+- [[RFC][Flang] Improving temporary and local array allocations - unify StackArray/MemoryAllocation](https://discourse.llvm.org/t/rfc-flang-improving-temporary-and-local-array-allocations-unify-stackarray-memoryallocation/91353#post_2)
+- [How to define multiple RegisterTuples for the same registers?](https://discourse.llvm.org/t/how-to-define-multiple-registertuples-for-the-same-registers/91354#post_1)
+- [[RFC][Flang] Improving temporary and local array allocations - unify StackArray/MemoryAllocation](https://discourse.llvm.org/t/rfc-flang-improving-temporary-and-local-array-allocations-unify-stackarray-memoryallocation/91353#post_1)
+- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
