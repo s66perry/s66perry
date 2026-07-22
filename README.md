@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282?page=2#post_24)
-- [[RFC] mem2reg/SROA: recover !range/!align/!dereferenceable load metadata as llvm.assume](https://discourse.llvm.org/t/rfc-mem2reg-sroa-recover-range-align-dereferenceable-load-metadata-as-llvm-assume/91264#post_6)
-- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282?page=2#post_23)
-- [[RFC] A Core-Level Probe Dialect](https://discourse.llvm.org/t/rfc-a-core-level-probe-dialect/91315#post_6)
-- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248?page=2#post_28)
+- [&quot;no-builtins&quot; attribute and cross-language inlining](https://discourse.llvm.org/t/no-builtins-attribute-and-cross-language-inlining/91366#post_1)
+- [[RFC] Use a Cache for Parallel FullLTO CodeGen](https://discourse.llvm.org/t/rfc-use-a-cache-for-parallel-fulllto-codegen/88317#post_5)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_26)
+- [[RFC][Flang] Improving temporary and local array allocations - unify StackArray/MemoryAllocation](https://discourse.llvm.org/t/rfc-flang-improving-temporary-and-local-array-allocations-unify-stackarray-memoryallocation/91353#post_4)
+- [[CSSPGO] Unblocking pseudo-probe-safe optimizations](https://discourse.llvm.org/t/csspgo-unblocking-pseudo-probe-safe-optimizations/90946#post_4)
 <!-- DISCOURSE-LLVM:END -->
