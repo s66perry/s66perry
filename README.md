@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Use a Cache for Parallel FullLTO CodeGen](https://discourse.llvm.org/t/rfc-use-a-cache-for-parallel-fulllto-codegen/88317#post_3)
-- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248?page=2#post_26)
-- [[RFC] LoopIdiomRecognize: Runtime specialization for constant-size memset/memcpy via contiguity check](https://discourse.llvm.org/t/rfc-loopidiomrecognize-runtime-specialization-for-constant-size-memset-memcpy-via-contiguity-check/91098#post_6)
-- [Debug metadata uniquing and debug type ODR merging](https://discourse.llvm.org/t/debug-metadata-uniquing-and-debug-type-odr-merging/91328#post_7)
-- [[RFC] Use a Cache for Parallel FullLTO CodeGen](https://discourse.llvm.org/t/rfc-use-a-cache-for-parallel-fulllto-codegen/88317#post_2)
+- [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282?page=2#post_23)
+- [[RFC] A Core-Level Probe Dialect](https://discourse.llvm.org/t/rfc-a-core-level-probe-dialect/91315#post_6)
+- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248?page=2#post_28)
+- [[RFC] Proposed extension to the &quot;--offload-arch&quot; option](https://discourse.llvm.org/t/rfc-proposed-extension-to-the-offload-arch-option/90790?page=2#post_29)
+- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_17)
 <!-- DISCOURSE-LLVM:END -->
