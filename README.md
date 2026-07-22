@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_12)
-- [Modular Opportunities](https://discourse.llvm.org/t/modular-opportunities/91362#post_1)
-- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_11)
-- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=4#post_61)
-- [[RFC] Add a --wtt-output format for reporting lit results to Windows test infrastructure](https://discourse.llvm.org/t/rfc-add-a-wtt-output-format-for-reporting-lit-results-to-windows-test-infrastructure/91215#post_5)
+- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_3)
+- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_16)
+- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_2)
+- [IR Outliner Status/Interest](https://discourse.llvm.org/t/ir-outliner-status-interest/89672#post_12)
+- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
