@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_12)
+- [Modular Opportunities](https://discourse.llvm.org/t/modular-opportunities/91362#post_1)
+- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_11)
+- [LLVM Security Response Group public sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-security-response-group-public-sync-ups-meeting-minutes/62735?page=4#post_61)
 - [[RFC] Add a --wtt-output format for reporting lit results to Windows test infrastructure](https://discourse.llvm.org/t/rfc-add-a-wtt-output-format-for-reporting-lit-results-to-windows-test-infrastructure/91215#post_5)
-- [[RFC] Improving HLSL Support in clangd](https://discourse.llvm.org/t/rfc-improving-hlsl-support-in-clangd/91359#post_2)
-- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_15)
-- [[CFP] Toolchains Track at Linux Plumbers Conf &#39;26](https://discourse.llvm.org/t/cfp-toolchains-track-at-linux-plumbers-conf-26/91088#post_3)
-- [[ClangIR] Progress Report — July 2026](https://discourse.llvm.org/t/clangir-progress-report-july-2026/91324#post_5)
 <!-- DISCOURSE-LLVM:END -->
