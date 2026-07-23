@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_7)
+- [[RFC] Improving HLSL Support in clangd](https://discourse.llvm.org/t/rfc-improving-hlsl-support-in-clangd/91359#post_3)
+- [[RFC] Address spaces support in LLDB](https://discourse.llvm.org/t/rfc-address-spaces-support-in-lldb/91222?page=2#post_30)
 - [[RFC] Lightweight callback-based lowering for -fprofile-instr-generate site selection](https://discourse.llvm.org/t/rfc-lightweight-callback-based-lowering-for-fprofile-instr-generate-site-selection/91367#post_3)
 - [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_27)
-- [PDX Area June 2026 Social](https://discourse.llvm.org/t/pdx-area-june-2026-social/91076#post_3)
-- [PDX Area July 2026 Social](https://discourse.llvm.org/t/pdx-area-july-2026-social/91368#post_1)
-- [[RFC] Lightweight callback-based lowering for -fprofile-instr-generate site selection](https://discourse.llvm.org/t/rfc-lightweight-callback-based-lowering-for-fprofile-instr-generate-site-selection/91367#post_2)
 <!-- DISCOURSE-LLVM:END -->
