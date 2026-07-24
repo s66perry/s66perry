@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=3#post_45)
-- [[RFC] Use a Cache for Parallel FullLTO CodeGen](https://discourse.llvm.org/t/rfc-use-a-cache-for-parallel-fulllto-codegen/88317#post_9)
-- [Clang-tidy checks for common MLIR anti-patterns](https://discourse.llvm.org/t/clang-tidy-checks-for-common-mlir-anti-patterns/91179#post_4)
-- [[RFC] Adding LLVM-IR-style floating-point literals to MLIR](https://discourse.llvm.org/t/rfc-adding-llvm-ir-style-floating-point-literals-to-mlir/91345#post_2)
-- [[RFC][MLIR] Enable Dynamic and Tighter Affine Unrolling via ValueBoundsConstraintSet](https://discourse.llvm.org/t/rfc-mlir-enable-dynamic-and-tighter-affine-unrolling-via-valueboundsconstraintset/91055#post_3)
+- [UHDI &lpar;Unified Hardware Debug Info&rpar;: structured debug-info export for Chisel/FIRRTL](https://discourse.llvm.org/t/uhdi-unified-hardware-debug-info-structured-debug-info-export-for-chisel-firrtl/90973#post_3)
+- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_37)
+- [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_2)
+- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_5)
+- [[RFC][Clang][Coverage] Add opt-in call-continuation counters to source-based coverage](https://discourse.llvm.org/t/rfc-clang-coverage-add-opt-in-call-continuation-counters-to-source-based-coverage/91301#post_3)
 <!-- DISCOURSE-LLVM:END -->
