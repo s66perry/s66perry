@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_19)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_37)
-- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_10)
-- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826?page=2#post_26)
-- [[RFC] Custom formatters for constant values](https://discourse.llvm.org/t/rfc-custom-formatters-for-constant-values/91317#post_2)
+- [Preparing a Minimal Reproducible Compiler Diagnostic Report for LLVM](https://discourse.llvm.org/t/preparing-a-minimal-reproducible-compiler-diagnostic-report-for-llvm/91373#post_4)
+- [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_7)
+- [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_6)
+- [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_5)
+- [Update on Breaking the LLDB/Python Revlock](https://discourse.llvm.org/t/update-on-breaking-the-lldb-python-revlock/90995#post_11)
 <!-- DISCOURSE-LLVM:END -->
