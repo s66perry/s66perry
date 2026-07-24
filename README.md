@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Requesting bolt.llvm.org subdomain](https://discourse.llvm.org/t/requesting-bolt-llvm-org-subdomain/91383#post_1)
-- [Preparing a Minimal Reproducible Compiler Diagnostic Report for LLVM](https://discourse.llvm.org/t/preparing-a-minimal-reproducible-compiler-diagnostic-report-for-llvm/91373#post_3)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_36)
-- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_3)
-- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_18)
+- [RFC: Dynamic Debugging for C++: Step through unoptimized code in optimized builds](https://discourse.llvm.org/t/rfc-dynamic-debugging-for-c-step-through-unoptimized-code-in-optimized-builds/90113?page=3#post_45)
+- [[RFC] Use a Cache for Parallel FullLTO CodeGen](https://discourse.llvm.org/t/rfc-use-a-cache-for-parallel-fulllto-codegen/88317#post_9)
+- [Clang-tidy checks for common MLIR anti-patterns](https://discourse.llvm.org/t/clang-tidy-checks-for-common-mlir-anti-patterns/91179#post_4)
+- [[RFC] Adding LLVM-IR-style floating-point literals to MLIR](https://discourse.llvm.org/t/rfc-adding-llvm-ir-style-floating-point-literals-to-mlir/91345#post_2)
+- [[RFC][MLIR] Enable Dynamic and Tighter Affine Unrolling via ValueBoundsConstraintSet](https://discourse.llvm.org/t/rfc-mlir-enable-dynamic-and-tighter-affine-unrolling-via-valueboundsconstraintset/91055#post_3)
 <!-- DISCOURSE-LLVM:END -->
