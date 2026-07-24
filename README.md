@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [UHDI &lpar;Unified Hardware Debug Info&rpar;: structured debug-info export for Chisel/FIRRTL](https://discourse.llvm.org/t/uhdi-unified-hardware-debug-info-structured-debug-info-export-for-chisel-firrtl/90973#post_3)
-- [[RFC] Add syncaddrspace attribute to fence instructions](https://discourse.llvm.org/t/rfc-add-syncaddrspace-attribute-to-fence-instructions/91041?page=2#post_37)
-- [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_2)
-- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_5)
-- [[RFC][Clang][Coverage] Add opt-in call-continuation counters to source-based coverage](https://discourse.llvm.org/t/rfc-clang-coverage-add-opt-in-call-continuation-counters-to-source-based-coverage/91301#post_3)
+- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_19)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_37)
+- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_10)
+- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826?page=2#post_26)
+- [[RFC] Custom formatters for constant values](https://discourse.llvm.org/t/rfc-custom-formatters-for-constant-values/91317#post_2)
 <!-- DISCOURSE-LLVM:END -->
