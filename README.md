@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Seeking feedback: continuous replay of issue-derived reproducers](https://discourse.llvm.org/t/seeking-feedback-continuous-replay-of-issue-derived-reproducers/91389#post_1)
 - [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_16)
 - [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_15)
 - [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_14)
 - [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_13)
-- [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_12)
 <!-- DISCOURSE-LLVM:END -->
