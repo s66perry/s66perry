@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Update on Breaking the LLDB/Python Revlock](https://discourse.llvm.org/t/update-on-breaking-the-lldb-python-revlock/90995#post_14)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_24)
-- [[RFC] Improving HLSL Support in clangd](https://discourse.llvm.org/t/rfc-improving-hlsl-support-in-clangd/91359#post_5)
-- [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_6)
-- [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_5)
+- [[RFC] Universal Profile-Guided Automatic Software Loop Data Prefetcher for LLVM](https://discourse.llvm.org/t/rfc-universal-profile-guided-automatic-software-loop-data-prefetcher-for-llvm/90916#post_8)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_30)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_29)
+- [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_7)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
