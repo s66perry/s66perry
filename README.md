@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #656, July 27th 2026](https://discourse.llvm.org/t/llvm-weekly-656-july-27th-2026/91401#post_1)
-- [[RFC] Add a --wtt-output format for reporting lit results to Windows test infrastructure](https://discourse.llvm.org/t/rfc-add-a-wtt-output-format-for-reporting-lit-results-to-windows-test-infrastructure/91215#post_7)
-- [[RFC] Add IR support for non-fetch atomicrmw &lpar;C++26 P3111&rpar;](https://discourse.llvm.org/t/rfc-add-ir-support-for-non-fetch-atomicrmw-c-26-p3111/90514#post_10)
-- [[RFC] Universal Profile-Guided Automatic Software Loop Data Prefetcher for LLVM](https://discourse.llvm.org/t/rfc-universal-profile-guided-automatic-software-loop-data-prefetcher-for-llvm/90916#post_8)
-- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_30)
+- [[RFC] Emit relocation failure statistics](https://discourse.llvm.org/t/rfc-emit-relocation-failure-statistics/91403#post_1)
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_25)
+- [[RFC] CMake formatting for LLVM libc](https://discourse.llvm.org/t/rfc-cmake-formatting-for-llvm-libc/91402#post_2)
+- [[RFC] CMake formatting for LLVM libc](https://discourse.llvm.org/t/rfc-cmake-formatting-for-llvm-libc/91402#post_1)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=2#post_31)
 <!-- DISCOURSE-LLVM:END -->
