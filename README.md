@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=3#post_43)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=3#post_42)
+- [[RFC] Update LLVM docs to furo theme](https://discourse.llvm.org/t/rfc-update-llvm-docs-to-furo-theme/90053?page=3#post_41)
+- [Poor optimization of memory access to &lpar;no-byval indirect&rpar; aggregate value arguments](https://discourse.llvm.org/t/poor-optimization-of-memory-access-to-no-byval-indirect-aggregate-value-arguments/68092#post_3)
 - [[RFC] __builtin_static_analysis_assume](https://discourse.llvm.org/t/rfc-builtin-static-analysis-assume/88544#post_13)
-- [[RFC] __builtin_static_analysis_assume](https://discourse.llvm.org/t/rfc-builtin-static-analysis-assume/88544#post_12)
-- [Linker options are not working](https://discourse.llvm.org/t/linker-options-are-not-working/91348#post_5)
-- [Poor optimization of memory access to &lpar;no-byval indirect&rpar; aggregate value arguments](https://discourse.llvm.org/t/poor-optimization-of-memory-access-to-no-byval-indirect-aggregate-value-arguments/68092#post_2)
-- [[RFC] [clangd] TLS and Kerberos auth for remote index client](https://discourse.llvm.org/t/rfc-clangd-tls-and-kerberos-auth-for-remote-index-client/91413#post_2)
 <!-- DISCOURSE-LLVM:END -->
