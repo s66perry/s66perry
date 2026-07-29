@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Social in Cologne, Germany](https://discourse.llvm.org/t/llvm-social-in-cologne-germany/90183#post_5)
-- [Benchmarking suites for libc](https://discourse.llvm.org/t/benchmarking-suites-for-libc/91417#post_1)
-- [[RFC] add support for collapsed io calls for implicit do loops](https://discourse.llvm.org/t/rfc-add-support-for-collapsed-io-calls-for-implicit-do-loops/91416#post_2)
-- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_15)
-- [Native Stacked PRs in GitHub](https://discourse.llvm.org/t/native-stacked-prs-in-github/90608#post_14)
+- [[RFC] loop vectorization of &quot;compress store&quot;/&quot;expand load&quot; patterns](https://discourse.llvm.org/t/rfc-loop-vectorization-of-compress-store-expand-load-patterns/86442#post_11)
+- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075#post_19)
+- [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_9)
+- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248?page=2#post_29)
+- [hasParent ast matcher for ParmVarDecl](https://discourse.llvm.org/t/hasparent-ast-matcher-for-parmvardecl/91412#post_5)
 <!-- DISCOURSE-LLVM:END -->
