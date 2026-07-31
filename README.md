@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Valid floating point literals and langref](https://discourse.llvm.org/t/valid-floating-point-literals-and-langref/91439#post_1)
-- [[RFC] Using Cross-Part CSE to guide Loop Interleaving](https://discourse.llvm.org/t/rfc-using-cross-part-cse-to-guide-loop-interleaving/91438#post_1)
-- [[RFC] AXI4 Dialect](https://discourse.llvm.org/t/rfc-axi4-dialect/91395#post_4)
-- [[torch-mlir] Where should QDQ fusion live for the new quantized_decomposed ODS ops](https://discourse.llvm.org/t/torch-mlir-where-should-qdq-fusion-live-for-the-new-quantized-decomposed-ods-ops/91429#post_3)
-- [PDX Area July 2026 Social](https://discourse.llvm.org/t/pdx-area-july-2026-social/91368#post_2)
+- [Llvm-strings and non-ASCII strings](https://discourse.llvm.org/t/llvm-strings-and-non-ascii-strings/91427#post_2)
+- [RFC: Nullability analysis ClangTidy](https://discourse.llvm.org/t/rfc-nullability-analysis-clangtidy/91124#post_4)
+- [`memref` rejects `OpaqueAttr` memory spaces](https://discourse.llvm.org/t/memref-rejects-opaqueattr-memory-spaces/91431#post_4)
+- [`memref` rejects `OpaqueAttr` memory spaces](https://discourse.llvm.org/t/memref-rejects-opaqueattr-memory-spaces/91431#post_3)
+- [`memref` rejects `OpaqueAttr` memory spaces](https://discourse.llvm.org/t/memref-rejects-opaqueattr-memory-spaces/91431#post_2)
 <!-- DISCOURSE-LLVM:END -->
