@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Valid floating point literals and langref](https://discourse.llvm.org/t/valid-floating-point-literals-and-langref/91439#post_2)
+- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_29)
 - [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_12)
 - [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_11)
 - [[RFC] Emit relocation failure statistics](https://discourse.llvm.org/t/rfc-emit-relocation-failure-statistics/91403#post_11)
-- [Feature labels and limiting labels of checkers](https://discourse.llvm.org/t/feature-labels-and-limiting-labels-of-checkers/91309#post_10)
-- [[RFC] AXI4 Dialect](https://discourse.llvm.org/t/rfc-axi4-dialect/91395#post_5)
 <!-- DISCOURSE-LLVM:END -->
