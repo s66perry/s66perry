@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question about failed module verfication after CloneFunction](https://discourse.llvm.org/t/question-about-failed-module-verfication-after-clonefunction/91444#post_1)
 - [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_29)
 - [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_20)
 - [Struggling with first time setup](https://discourse.llvm.org/t/struggling-with-first-time-setup/91384#post_19)
 - [[lldb-dap VS Code extension] Is there a better way to pass VS Code debug session ID into LLDB&#39;s python scripts?](https://discourse.llvm.org/t/lldb-dap-vs-code-extension-is-there-a-better-way-to-pass-vs-code-debug-session-id-into-lldbs-python-scripts/91436#post_2)
-- [Valid floating point literals and langref](https://discourse.llvm.org/t/valid-floating-point-literals-and-langref/91439#post_2)
 <!-- DISCOURSE-LLVM:END -->
