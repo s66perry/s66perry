@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 23.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-23-x-release-third-party-binaries/91408#post_2)
-- [MLIR C/C++ Frontend Working Group [Mon, Aug 3rd]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-aug-3rd/91450#post_1)
-- [[RFC][clangd] Discover C++ module interfaces missing from the compilation database](https://discourse.llvm.org/t/rfc-clangd-discover-c-module-interfaces-missing-from-the-compilation-database/91448#post_2)
-- [[RFC][clangd] Discover C++ module interfaces missing from the compilation database](https://discourse.llvm.org/t/rfc-clangd-discover-c-module-interfaces-missing-from-the-compilation-database/91448#post_1)
-- [[RFC] Extend -affine-scalrep with Store Sinking across AffineIfOp](https://discourse.llvm.org/t/rfc-extend-affine-scalrep-with-store-sinking-across-affineifop/91447#post_1)
+- [Equivalence of MLIR strings](https://discourse.llvm.org/t/equivalence-of-mlir-strings/91452#post_2)
+- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938#post_16)
+- [Update on Breaking the LLDB/Python Revlock](https://discourse.llvm.org/t/update-on-breaking-the-lldb-python-revlock/90995#post_16)
+- [A Small Self-Hosting Compiler from an Undergraduate Mathematics Course](https://discourse.llvm.org/t/a-small-self-hosting-compiler-from-an-undergraduate-mathematics-course/91406#post_2)
+- [Equivalence of MLIR strings](https://discourse.llvm.org/t/equivalence-of-mlir-strings/91452#post_1)
 <!-- DISCOURSE-LLVM:END -->
