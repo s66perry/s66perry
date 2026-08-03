@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Llvm-strings and non-ASCII strings](https://discourse.llvm.org/t/llvm-strings-and-non-ascii-strings/91427#post_5)
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_25)
-- [Llvm-strings and non-ASCII strings](https://discourse.llvm.org/t/llvm-strings-and-non-ascii-strings/91427#post_4)
-- [[RFC] Add fast-math flags to atomicrmw](https://discourse.llvm.org/t/rfc-add-fast-math-flags-to-atomicrmw/91411#post_3)
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_24)
+- [[RFC] Lightweight callback-based lowering for -fprofile-instr-generate site selection](https://discourse.llvm.org/t/rfc-lightweight-callback-based-lowering-for-fprofile-instr-generate-site-selection/91367#post_4)
+- [Llvm-strings and non-ASCII strings](https://discourse.llvm.org/t/llvm-strings-and-non-ascii-strings/91427#post_6)
+- [Are `#include`s in standard library synopses transitive?](https://discourse.llvm.org/t/are-include-s-in-standard-library-synopses-transitive/91445#post_2)
+- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_26)
+- [MLIR C/C++ Frontend Working Group [Mon, Aug 3rd]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-mon-aug-3rd/91450#post_2)
 <!-- DISCOURSE-LLVM:END -->
