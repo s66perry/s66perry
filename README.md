@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How Clang SA handles CTU C++ virtual function](https://discourse.llvm.org/t/how-clang-sa-handles-ctu-c-virtual-function/91167#post_4)
-- [RFC: Detecting Data-Parallel Loop Patterns in C/C++ Source Using Clang/LLVM Analysis](https://discourse.llvm.org/t/rfc-detecting-data-parallel-loop-patterns-in-c-c-source-using-clang-llvm-analysis/91424#post_3)
-- [[C99 restrict] Is rebinding a non-restrict pointer from one restrict root to another undefined behavior?](https://discourse.llvm.org/t/c99-restrict-is-rebinding-a-non-restrict-pointer-from-one-restrict-root-to-another-undefined-behavior/91464#post_2)
-- [RFC: Detecting Data-Parallel Loop Patterns in C/C++ Source Using Clang/LLVM Analysis](https://discourse.llvm.org/t/rfc-detecting-data-parallel-loop-patterns-in-c-c-source-using-clang-llvm-analysis/91424#post_2)
-- [Thought on Enabling GlobalISel on NVPTX?](https://discourse.llvm.org/t/thought-on-enabling-globalisel-on-nvptx/91467#post_1)
+- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_8)
+- [RFC: Represent HLSL Matrix Layout in the Clang AST](https://discourse.llvm.org/t/rfc-represent-hlsl-matrix-layout-in-the-clang-ast/91469#post_1)
+- [[RFC] Lightweight Conformance Test Traceability for libc++](https://discourse.llvm.org/t/rfc-lightweight-conformance-test-traceability-for-libc/91468#post_1)
+- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_7)
+- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_6)
 <!-- DISCOURSE-LLVM:END -->
