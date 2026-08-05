@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Represent HLSL Matrix Layout in the Clang AST](https://discourse.llvm.org/t/rfc-represent-hlsl-matrix-layout-in-the-clang-ast/91469#post_3)
-- [Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/address-sanitizers-for-bare-metal-environments/91476#post_3)
-- [Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/address-sanitizers-for-bare-metal-environments/91476#post_2)
-- [RFC: Detecting Data-Parallel Loop Patterns in C/C++ Source Using Clang/LLVM Analysis](https://discourse.llvm.org/t/rfc-detecting-data-parallel-loop-patterns-in-c-c-source-using-clang-llvm-analysis/91424#post_4)
-- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_2)
+- [[RFC] AXI4 Dialect](https://discourse.llvm.org/t/rfc-axi4-dialect/91395#post_6)
+- [[RFC] Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/rfc-address-sanitizers-for-bare-metal-environments/91476#post_5)
+- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_10)
+- [[RFC] Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/rfc-address-sanitizers-for-bare-metal-environments/91476#post_4)
+- [Ensure a value doesn&#39;t get eliminated by optimization passes](https://discourse.llvm.org/t/ensure-a-value-doesnt-get-eliminated-by-optimization-passes/91483#post_1)
 <!-- DISCOURSE-LLVM:END -->
