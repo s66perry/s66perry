@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Represent HLSL Matrix Layout in the Clang AST](https://discourse.llvm.org/t/rfc-represent-hlsl-matrix-layout-in-the-clang-ast/91469#post_3)
+- [Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/address-sanitizers-for-bare-metal-environments/91476#post_3)
+- [Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/address-sanitizers-for-bare-metal-environments/91476#post_2)
 - [RFC: Detecting Data-Parallel Loop Patterns in C/C++ Source Using Clang/LLVM Analysis](https://discourse.llvm.org/t/rfc-detecting-data-parallel-loop-patterns-in-c-c-source-using-clang-llvm-analysis/91424#post_4)
 - [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_2)
-- [[RFC] CMake formatting for LLVM libc](https://discourse.llvm.org/t/rfc-cmake-formatting-for-llvm-libc/91402#post_4)
-- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_4)
-- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_3)
 <!-- DISCOURSE-LLVM:END -->
