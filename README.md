@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/rfc-address-sanitizers-for-bare-metal-environments/91476#post_17)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Jul 27 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-jul-27-26-6pm/91280#post_2)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 10 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-10-26-6pm/91486#post_1)
 - [[RFC] Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/rfc-address-sanitizers-for-bare-metal-environments/91476#post_16)
 - [[RFC] Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/rfc-address-sanitizers-for-bare-metal-environments/91476#post_15)
-- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034?page=2#post_27)
-- [[RFC] Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/rfc-address-sanitizers-for-bare-metal-environments/91476#post_14)
-- [[RFC] A Faster, More Reliable Type System for C-languages](https://discourse.llvm.org/t/rfc-a-faster-more-reliable-type-system-for-c-languages/91459#post_3)
 <!-- DISCOURSE-LLVM:END -->
