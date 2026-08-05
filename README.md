@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Clarify `memref.reinterpret_cast` Verification of Dynamic Metadata](https://discourse.llvm.org/t/rfc-clarify-memref-reinterpret-cast-verification-of-dynamic-metadata/91480#post_1)
-- [Llvm-strings and non-ASCII strings](https://discourse.llvm.org/t/llvm-strings-and-non-ascii-strings/91427#post_11)
-- [Thought on Enabling GlobalISel on NVPTX?](https://discourse.llvm.org/t/thought-on-enabling-globalisel-on-nvptx/91467#post_5)
-- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_9)
-- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_8)
+- [RFC: Detecting Data-Parallel Loop Patterns in C/C++ Source Using Clang/LLVM Analysis](https://discourse.llvm.org/t/rfc-detecting-data-parallel-loop-patterns-in-c-c-source-using-clang-llvm-analysis/91424#post_4)
+- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_2)
+- [[RFC] CMake formatting for LLVM libc](https://discourse.llvm.org/t/rfc-cmake-formatting-for-llvm-libc/91402#post_4)
+- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_4)
+- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_3)
 <!-- DISCOURSE-LLVM:END -->
