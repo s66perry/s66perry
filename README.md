@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591?page=2#post_24)
+- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_16)
+- [[RFC] Incrementally Enabling the NewPM for CodeGen](https://discourse.llvm.org/t/rfc-incrementally-enabling-the-newpm-for-codegen/91410#post_11)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_33)
 - [Debug metadata uniquing and debug type ODR merging](https://discourse.llvm.org/t/debug-metadata-uniquing-and-debug-type-odr-merging/91328#post_8)
-- [[RFC] Incrementally Enabling the NewPM for CodeGen](https://discourse.llvm.org/t/rfc-incrementally-enabling-the-newpm-for-codegen/91410#post_10)
-- [[RFC] Incrementally Enabling the NewPM for CodeGen](https://discourse.llvm.org/t/rfc-incrementally-enabling-the-newpm-for-codegen/91410#post_9)
-- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_12)
-- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_15)
 <!-- DISCOURSE-LLVM:END -->
