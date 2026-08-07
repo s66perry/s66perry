@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_13)
+- [[RFC][torch-mlir] Refresh and modernize PyPI release workflows](https://discourse.llvm.org/t/rfc-torch-mlir-refresh-and-modernize-pypi-release-workflows/91514#post_1)
+- [[RFC] Add IR support for non-fetch atomicrmw &lpar;C++26 P3111&rpar;](https://discourse.llvm.org/t/rfc-add-ir-support-for-non-fetch-atomicrmw-c-26-p3111/90514#post_11)
 - [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_7)
 - [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_27)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Aug 13](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-aug-13/91512#post_2)
-- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=3#post_48)
-- [[RFC][clangd] Discover C++ module interfaces missing from the compilation database](https://discourse.llvm.org/t/rfc-clangd-discover-c-module-interfaces-missing-from-the-compilation-database/91448#post_4)
 <!-- DISCOURSE-LLVM:END -->
