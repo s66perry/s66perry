@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Honor .clangd CompileFlags overrides in clangd-indexer](https://discourse.llvm.org/t/honor-clangd-compileflags-overrides-in-clangd-indexer/91504#post_4)
-- [Honor .clangd CompileFlags overrides in clangd-indexer](https://discourse.llvm.org/t/honor-clangd-compileflags-overrides-in-clangd-indexer/91504#post_3)
-- [Honor .clangd CompileFlags overrides in clangd-indexer](https://discourse.llvm.org/t/honor-clangd-compileflags-overrides-in-clangd-indexer/91504#post_2)
-- [RFC: Use Furo theme for Clang docs](https://discourse.llvm.org/t/rfc-use-furo-theme-for-clang-docs/91505#post_3)
-- [Hello from a new contributor! Interested in AArch64 CodeGen &amp; GSoC 2027](https://discourse.llvm.org/t/hello-from-a-new-contributor-interested-in-aarch64-codegen-gsoc-2027/91508#post_1)
+- [Seeking feedback: continuous replay of issue-derived reproducers](https://discourse.llvm.org/t/seeking-feedback-continuous-replay-of-issue-derived-reproducers/91389#post_4)
+- [RFC: New clang-tidy check for detecting dynamic initialization of global variables](https://discourse.llvm.org/t/rfc-new-clang-tidy-check-for-detecting-dynamic-initialization-of-global-variables/91495#post_3)
+- [[TOSA] Scatter/Gather hardening](https://discourse.llvm.org/t/tosa-scatter-gather-hardening/91509#post_1)
+- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_30)
+- [Llvm-strings and non-ASCII strings](https://discourse.llvm.org/t/llvm-strings-and-non-ascii-strings/91427#post_14)
 <!-- DISCOURSE-LLVM:END -->
