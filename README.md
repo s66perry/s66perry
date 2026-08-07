@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] loop vectorization of &quot;compress store&quot;/&quot;expand load&quot; patterns](https://discourse.llvm.org/t/rfc-loop-vectorization-of-compress-store-expand-load-patterns/86442#post_13)
-- [Should we try to get in on the GitHub stacked PRs beta?](https://discourse.llvm.org/t/should-we-try-to-get-in-on-the-github-stacked-prs-beta/90958#post_4)
-- [Should we try to get in on the GitHub stacked PRs beta?](https://discourse.llvm.org/t/should-we-try-to-get-in-on-the-github-stacked-prs-beta/90958#post_3)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=2#post_41)
-- [Why llvm 23 still not downloadable from apt.llvm.org?](https://discourse.llvm.org/t/why-llvm-23-still-not-downloadable-from-apt-llvm-org/91491#post_1)
+- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_14)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=3#post_43)
+- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=3#post_42)
+- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_1)
+- [RFC: Use Furo theme for Clang docs](https://discourse.llvm.org/t/rfc-use-furo-theme-for-clang-docs/91505#post_2)
 <!-- DISCOURSE-LLVM:END -->
