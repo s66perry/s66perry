@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Embedded Toolchains Working Group call this Thursday, Aug 13](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-aug-13/91512#post_1)
-- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_6)
-- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_5)
-- [Ensure a value doesn&#39;t get eliminated by optimization passes](https://discourse.llvm.org/t/ensure-a-value-doesnt-get-eliminated-by-optimization-passes/91483#post_2)
-- [`CallOpInterface` Semantics + Verification around Value Forwarding](https://discourse.llvm.org/t/callopinterface-semantics-verification-around-value-forwarding/91497#post_3)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Aug 13](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-aug-13/91512#post_2)
+- [[RFC] Remove 80 column limit in documentation files](https://discourse.llvm.org/t/rfc-remove-80-column-limit-in-documentation-files/89678?page=3#post_48)
+- [[RFC][clangd] Discover C++ module interfaces missing from the compilation database](https://discourse.llvm.org/t/rfc-clangd-discover-c-module-interfaces-missing-from-the-compilation-database/91448#post_4)
+- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_15)
+- [[RFC][Clang][ARM] Proactive stack overflow trapping for bare-metal Cortex-M](https://discourse.llvm.org/t/rfc-clang-arm-proactive-stack-overflow-trapping-for-bare-metal-cortex-m/91507#post_2)
 <!-- DISCOURSE-LLVM:END -->
