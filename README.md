@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_58)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_57)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_30)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_56)
-- [[RFC][libc] Automated Code Coverage Infrastructure and CI Workflows](https://discourse.llvm.org/t/rfc-libc-automated-code-coverage-infrastructure-and-ci-workflows/91534#post_2)
+- [Honor .clangd CompileFlags overrides in clangd-indexer](https://discourse.llvm.org/t/honor-clangd-compileflags-overrides-in-clangd-indexer/91504#post_7)
+- [Honor .clangd CompileFlags overrides in clangd-indexer](https://discourse.llvm.org/t/honor-clangd-compileflags-overrides-in-clangd-indexer/91504#post_6)
+- [LoopVectorizer: loop tail vectorization &amp; RISCV calling conventions](https://discourse.llvm.org/t/loopvectorizer-loop-tail-vectorization-riscv-calling-conventions/91516#post_2)
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_31)
+- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_18)
 <!-- DISCOURSE-LLVM:END -->
