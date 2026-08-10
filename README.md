@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][flang] Promote loop-invariant array-section reductions for vectorization](https://discourse.llvm.org/t/rfc-flang-promote-loop-invariant-array-section-reductions-for-vectorization/91499#post_2)
-- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_29)
-- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_3)
-- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_17)
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_28)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_58)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_57)
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_30)
+- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_56)
+- [[RFC][libc] Automated Code Coverage Infrastructure and CI Workflows](https://discourse.llvm.org/t/rfc-libc-automated-code-coverage-infrastructure-and-ci-workflows/91534#post_2)
 <!-- DISCOURSE-LLVM:END -->
