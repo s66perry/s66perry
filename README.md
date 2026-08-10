@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Would a parent inclusive clang_visitChildren&lpar;&rpar; function be useful to implement?](https://discourse.llvm.org/t/would-a-parent-inclusive-clang-visitchildren-function-be-useful-to-implement/91524#post_2)
-- [Equivalence of MLIR strings](https://discourse.llvm.org/t/equivalence-of-mlir-strings/91452#post_8)
-- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_12)
-- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_11)
-- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_10)
+- [Perfectly-nesting fir.do_loop nests &lpar;drop IV round-trip + sink final store&rpar;: lowering or a pass?](https://discourse.llvm.org/t/perfectly-nesting-fir-do-loop-nests-drop-iv-round-trip-sink-final-store-lowering-or-a-pass/91532#post_1)
+- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_2)
+- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_1)
+- [[RFC] Add a contional no_unique_address attribute](https://discourse.llvm.org/t/rfc-add-a-contional-no-unique-address-attribute/91530#post_2)
+- [[RFC] Add a contional no_unique_address attribute](https://discourse.llvm.org/t/rfc-add-a-contional-no-unique-address-attribute/91530#post_1)
 <!-- DISCOURSE-LLVM:END -->
