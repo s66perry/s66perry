@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][flang] Promote loop-invariant array-section reductions for vectorization](https://discourse.llvm.org/t/rfc-flang-promote-loop-invariant-array-section-reductions-for-vectorization/91499#post_2)
+- [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_29)
+- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_3)
+- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_17)
 - [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_28)
-- [[C99 restrict] Is rebinding a non-restrict pointer from one restrict root to another undefined behavior?](https://discourse.llvm.org/t/c99-restrict-is-rebinding-a-non-restrict-pointer-from-one-restrict-root-to-another-undefined-behavior/91464#post_6)
-- [RFC: Use Furo theme for Clang docs](https://discourse.llvm.org/t/rfc-use-furo-theme-for-clang-docs/91505#post_10)
-- [Perfectly-nesting fir.do_loop nests &lpar;drop IV round-trip + sink final store&rpar;: lowering or a pass?](https://discourse.llvm.org/t/perfectly-nesting-fir-do-loop-nests-drop-iv-round-trip-sink-final-store-lowering-or-a-pass/91532#post_1)
-- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_2)
 <!-- DISCOURSE-LLVM:END -->
