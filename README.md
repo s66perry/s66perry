@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] - Path Forward for _FortranAAssignSimple Runtime Optimization](https://discourse.llvm.org/t/rfc-path-forward-for-fortranaassignsimple-runtime-optimization/91527#post_1)
-- [[CFP] LLVM-HPC Workshop at SC’26](https://discourse.llvm.org/t/cfp-llvm-hpc-workshop-at-sc-26/90841#post_2)
-- [[RFC] Multi-level line table support in LLVM](https://discourse.llvm.org/t/rfc-multi-level-line-table-support-in-llvm/91149?page=3#post_46)
-- [[RFC][clangd] Discover C++ module interfaces missing from the compilation database](https://discourse.llvm.org/t/rfc-clangd-discover-c-module-interfaces-missing-from-the-compilation-database/91448#post_5)
-- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_16)
+- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_12)
+- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_11)
+- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_10)
+- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_9)
+- [[MLIR][OpenMP] Should omp.target/target_data implement RegionBranchOpInterface?](https://discourse.llvm.org/t/mlir-openmp-should-omp-target-target-data-implement-regionbranchopinterface/91227#post_5)
 <!-- DISCOURSE-LLVM:END -->
