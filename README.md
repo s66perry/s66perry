@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_17)
+- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_16)
+- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106?page=2#post_25)
+- [Do I/O stream headers provide `std::char_traits`?](https://discourse.llvm.org/t/do-i-o-stream-headers-provide-std-char-traits/91519#post_6)
 - [Compiler Engineer at Efficient Computer](https://discourse.llvm.org/t/compiler-engineer-at-efficient-computer/91546#post_1)
-- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_6)
-- [[RFC][flang] Promote loop-invariant array-section reductions for vectorization](https://discourse.llvm.org/t/rfc-flang-promote-loop-invariant-array-section-reductions-for-vectorization/91499#post_4)
-- [[lldb-dap VS Code extension] Is there a better way to pass VS Code debug session ID into LLDB&#39;s python scripts?](https://discourse.llvm.org/t/lldb-dap-vs-code-extension-is-there-a-better-way-to-pass-vs-code-debug-session-id-into-lldbs-python-scripts/91436#post_6)
-- [RFC: Add `-finit-local=` to Flang for Initializing Automatic Variables](https://discourse.llvm.org/t/rfc-add-finit-local-to-flang-for-initializing-automatic-variables/91545#post_3)
 <!-- DISCOURSE-LLVM:END -->
