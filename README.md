@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_15)
-- [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_29)
-- [[RFC][libc] Automated Code Coverage Infrastructure and CI Workflows](https://discourse.llvm.org/t/rfc-libc-automated-code-coverage-infrastructure-and-ci-workflows/91534#post_3)
-- [Simplifying failure modes in ExplodedNode creation](https://discourse.llvm.org/t/simplifying-failure-modes-in-explodednode-creation/91542#post_1)
-- [Would a parent inclusive clang_visitChildren&lpar;&rpar; function be useful to implement?](https://discourse.llvm.org/t/would-a-parent-inclusive-clang-visitchildren-function-be-useful-to-implement/91524#post_3)
+- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_4)
+- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_3)
+- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_2)
+- [LLVM Social in Cologne, Germany](https://discourse.llvm.org/t/llvm-social-in-cologne-germany/90183#post_6)
+- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_1)
 <!-- DISCOURSE-LLVM:END -->
