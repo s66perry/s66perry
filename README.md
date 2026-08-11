@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_5)
-- [RFC: Add `-finit-local=` to Flang for Initializing Automatic Variables](https://discourse.llvm.org/t/rfc-add-finit-local-to-flang-for-initializing-automatic-variables/91545#post_1)
-- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_4)
-- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_3)
-- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_2)
+- [Compiler Engineer at Efficient Computer](https://discourse.llvm.org/t/compiler-engineer-at-efficient-computer/91546#post_1)
+- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_6)
+- [[RFC][flang] Promote loop-invariant array-section reductions for vectorization](https://discourse.llvm.org/t/rfc-flang-promote-loop-invariant-array-section-reductions-for-vectorization/91499#post_4)
+- [[lldb-dap VS Code extension] Is there a better way to pass VS Code debug session ID into LLDB&#39;s python scripts?](https://discourse.llvm.org/t/lldb-dap-vs-code-extension-is-there-a-better-way-to-pass-vs-code-debug-session-id-into-lldbs-python-scripts/91436#post_6)
+- [RFC: Add `-finit-local=` to Flang for Initializing Automatic Variables](https://discourse.llvm.org/t/rfc-add-finit-local-to-flang-for-initializing-automatic-variables/91545#post_3)
 <!-- DISCOURSE-LLVM:END -->
