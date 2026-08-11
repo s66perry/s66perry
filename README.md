@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_5)
+- [RFC: Add `-finit-local=` to Flang for Initializing Automatic Variables](https://discourse.llvm.org/t/rfc-add-finit-local-to-flang-for-initializing-automatic-variables/91545#post_1)
 - [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_4)
 - [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_3)
 - [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_2)
-- [LLVM Social in Cologne, Germany](https://discourse.llvm.org/t/llvm-social-in-cologne-germany/90183#post_6)
-- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_1)
 <!-- DISCOURSE-LLVM:END -->
