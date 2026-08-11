@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_14)
+- [RFC: Add/update TSAN submode for lock correctness validation only](https://discourse.llvm.org/t/rfc-add-update-tsan-submode-for-lock-correctness-validation-only/91319#post_9)
 - [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_33)
 - [[RFC][torch-mlir] Refresh and modernize PyPI release workflows](https://discourse.llvm.org/t/rfc-torch-mlir-refresh-and-modernize-pypi-release-workflows/91514#post_7)
 - [[RFC] Incubating DS2](https://discourse.llvm.org/t/rfc-incubating-ds2/91279?page=2#post_32)
-- [[RFC][torch-mlir] Refresh and modernize PyPI release workflows](https://discourse.llvm.org/t/rfc-torch-mlir-refresh-and-modernize-pypi-release-workflows/91514#post_6)
-- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_4)
 <!-- DISCOURSE-LLVM:END -->
