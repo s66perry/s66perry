@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_17)
-- [Extending `[[clang::lifetimebound]]` to take a condition](https://discourse.llvm.org/t/extending-clang-lifetimebound-to-take-a-condition/91475#post_16)
-- [[RFC] Allocator Provenance Model](https://discourse.llvm.org/t/rfc-allocator-provenance-model/91106?page=2#post_25)
-- [Do I/O stream headers provide `std::char_traits`?](https://discourse.llvm.org/t/do-i-o-stream-headers-provide-std-char-traits/91519#post_6)
-- [Compiler Engineer at Efficient Computer](https://discourse.llvm.org/t/compiler-engineer-at-efficient-computer/91546#post_1)
+- [[RFC][flang] Promote loop-invariant array-section reductions for vectorization](https://discourse.llvm.org/t/rfc-flang-promote-loop-invariant-array-section-reductions-for-vectorization/91499#post_5)
+- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_6)
+- [[RFC][torch-mlir] Refresh and modernize PyPI release workflows](https://discourse.llvm.org/t/rfc-torch-mlir-refresh-and-modernize-pypi-release-workflows/91514#post_8)
+- [Looking for guidance to reduce a source for a clang bug report](https://discourse.llvm.org/t/looking-for-guidance-to-reduce-a-source-for-a-clang-bug-report/91543#post_5)
+- [RFC: Represent HLSL Matrix Layout in the Clang AST](https://discourse.llvm.org/t/rfc-represent-hlsl-matrix-layout-in-the-clang-ast/91469#post_4)
 <!-- DISCOURSE-LLVM:END -->
