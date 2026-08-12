@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_9)
-- [Need Tips on how to create a better code](https://discourse.llvm.org/t/need-tips-on-how-to-create-a-better-code/91552#post_3)
-- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474#post_19)
-- [Need Tips on how to create a better code](https://discourse.llvm.org/t/need-tips-on-how-to-create-a-better-code/91552#post_2)
-- [[RFC][torch-mlir] Refresh and modernize PyPI release workflows](https://discourse.llvm.org/t/rfc-torch-mlir-refresh-and-modernize-pypi-release-workflows/91514#post_10)
+- [Need Tips on how to create a better code](https://discourse.llvm.org/t/need-tips-on-how-to-create-a-better-code/91552#post_5)
+- [Need Tips on how to create a better code](https://discourse.llvm.org/t/need-tips-on-how-to-create-a-better-code/91552#post_4)
+- [RFC: Add `-finit-local=` to Flang for Initializing Automatic Variables](https://discourse.llvm.org/t/rfc-add-finit-local-to-flang-for-initializing-automatic-variables/91545#post_6)
+- [[RFC][flang] Add Floating-point trap handling support](https://discourse.llvm.org/t/rfc-flang-add-floating-point-trap-handling-support/90544?page=2#post_26)
+- [RFC: Represent HLSL Matrix Layout in the Clang AST](https://discourse.llvm.org/t/rfc-represent-hlsl-matrix-layout-in-the-clang-ast/91469#post_5)
 <!-- DISCOURSE-LLVM:END -->
