@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Need Tips on how to create a better code](https://discourse.llvm.org/t/need-tips-on-how-to-create-a-better-code/91552#post_2)
+- [[RFC][torch-mlir] Refresh and modernize PyPI release workflows](https://discourse.llvm.org/t/rfc-torch-mlir-refresh-and-modernize-pypi-release-workflows/91514#post_10)
 - [Do I/O stream headers provide `std::char_traits`?](https://discourse.llvm.org/t/do-i-o-stream-headers-provide-std-char-traits/91519#post_9)
 - [How Clang SA handles CTU C++ virtual function](https://discourse.llvm.org/t/how-clang-sa-handles-ctu-c-virtual-function/91167#post_5)
 - [Need Tips on how to create a better code](https://discourse.llvm.org/t/need-tips-on-how-to-create-a-better-code/91552#post_1)
-- [LLVM 23.1.0-rc3 Released!](https://discourse.llvm.org/t/llvm-23-1-0-rc3-released/91551#post_1)
-- [RFC: Add `-finit-local=` to Flang for Initializing Automatic Variables](https://discourse.llvm.org/t/rfc-add-finit-local-to-flang-for-initializing-automatic-variables/91545#post_5)
 <!-- DISCOURSE-LLVM:END -->
