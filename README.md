@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is there any stacked-PR methodology consensus?](https://discourse.llvm.org/t/is-there-any-stacked-pr-methodology-consensus/91558#post_3)
-- [[RFC][clangd] Discover C++ module interfaces missing from the compilation database](https://discourse.llvm.org/t/rfc-clangd-discover-c-module-interfaces-missing-from-the-compilation-database/91448#post_6)
-- [Beginner Resources + Documentation](https://discourse.llvm.org/t/beginner-resources-documentation/5872#post_13)
-- [RISC-V LLVM sync-up call August 13th 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-august-13th-2026/91565#post_1)
-- [Do we want to tighten up imports in the API testcases?](https://discourse.llvm.org/t/do-we-want-to-tighten-up-imports-in-the-api-testcases/91557#post_5)
+- [[RFC] MLIR buildbot with expensive pattern checks enabled](https://discourse.llvm.org/t/rfc-mlir-buildbot-with-expensive-pattern-checks-enabled/91567#post_1)
+- [Is there any stacked-PR methodology consensus?](https://discourse.llvm.org/t/is-there-any-stacked-pr-methodology-consensus/91558#post_7)
+- [[RFC] Expressing block-scaled operations in TOSA](https://discourse.llvm.org/t/rfc-expressing-block-scaled-operations-in-tosa/91056#post_4)
+- [Removal of --fortran-common option](https://discourse.llvm.org/t/removal-of-fortran-common-option/91553#post_2)
+- [Is there any stacked-PR methodology consensus?](https://discourse.llvm.org/t/is-there-any-stacked-pr-methodology-consensus/91558#post_6)
 <!-- DISCOURSE-LLVM:END -->
