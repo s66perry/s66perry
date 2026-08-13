@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Expectations about swiftcall implementations](https://discourse.llvm.org/t/rfc-expectations-about-swiftcall-implementations/91560#post_1)
-- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_7)
-- [RFC: Represent HLSL Matrix Layout in the Clang AST](https://discourse.llvm.org/t/rfc-represent-hlsl-matrix-layout-in-the-clang-ast/91469#post_8)
-- [[GlobalISel][LLVM] Is a byval argument&#39;s pointer required to be in the alloca address space?](https://discourse.llvm.org/t/globalisel-llvm-is-a-byval-arguments-pointer-required-to-be-in-the-alloca-address-space/91556#post_2)
-- [Is there any stacked-PR methodology consensus?](https://discourse.llvm.org/t/is-there-any-stacked-pr-methodology-consensus/91558#post_1)
+- [[C99 restrict] Is rebinding a non-restrict pointer from one restrict root to another undefined behavior?](https://discourse.llvm.org/t/c99-restrict-is-rebinding-a-non-restrict-pointer-from-one-restrict-root-to-another-undefined-behavior/91464#post_7)
+- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_13)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_33)
+- [RFC: Expectations about swiftcall implementations](https://discourse.llvm.org/t/rfc-expectations-about-swiftcall-implementations/91560#post_3)
+- [RFC: Expectations about swiftcall implementations](https://discourse.llvm.org/t/rfc-expectations-about-swiftcall-implementations/91560#post_2)
 <!-- DISCOURSE-LLVM:END -->
