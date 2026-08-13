@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How do we implement _BitInt ABI?](https://discourse.llvm.org/t/how-do-we-implement-bitint-abi/91569#post_1)
-- [Is there any stacked-PR methodology consensus?](https://discourse.llvm.org/t/is-there-any-stacked-pr-methodology-consensus/91558#post_13)
-- [Is there any stacked-PR methodology consensus?](https://discourse.llvm.org/t/is-there-any-stacked-pr-methodology-consensus/91558#post_12)
-- [[RFC] Add __builtin_pointee_address_space to Clang](https://discourse.llvm.org/t/rfc-add-builtin-pointee-address-space-to-clang/91325#post_20)
-- [[RFC] Make MyST Markdown the LLVM docs format, RIP reST](https://discourse.llvm.org/t/rfc-make-myst-markdown-the-llvm-docs-format-rip-rest/90840?page=2#post_37)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=3#post_47)
+- [[libc++] Updates to libc++&#39;s performance tracking infrastructure](https://discourse.llvm.org/t/libc-updates-to-libc-s-performance-tracking-infrastructure/91570#post_1)
+- [Implementing P3666R4 Bit-precise integers, in libc++](https://discourse.llvm.org/t/implementing-p3666r4-bit-precise-integers-in-libc/91070?page=3#post_46)
+- [Removal of --fortran-common option](https://discourse.llvm.org/t/removal-of-fortran-common-option/91553#post_3)
+- [RFC: Use Furo theme for Clang docs](https://discourse.llvm.org/t/rfc-use-furo-theme-for-clang-docs/91505#post_13)
 <!-- DISCOURSE-LLVM:END -->
