@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_2)
+- [Per Processor Costing for RISCV](https://discourse.llvm.org/t/per-processor-costing-for-riscv/91575#post_4)
+- [Per Processor Costing for RISCV](https://discourse.llvm.org/t/per-processor-costing-for-riscv/91575#post_3)
+- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_1)
 - [[GlobalISel][LLVM] Is a byval argument&#39;s pointer required to be in the alloca address space?](https://discourse.llvm.org/t/globalisel-llvm-is-a-byval-arguments-pointer-required-to-be-in-the-alloca-address-space/91556#post_4)
-- [[RFC] Clang frontend changes for OpenCL C Cooperative Matrix Extension](https://discourse.llvm.org/t/rfc-clang-frontend-changes-for-opencl-c-cooperative-matrix-extension/90148#post_11)
-- [Per Processor Costing for RISCV](https://discourse.llvm.org/t/per-processor-costing-for-riscv/91575#post_2)
-- [[RFC] Clang frontend changes for OpenCL C Cooperative Matrix Extension](https://discourse.llvm.org/t/rfc-clang-frontend-changes-for-opencl-c-cooperative-matrix-extension/90148#post_10)
-- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_9)
 <!-- DISCOURSE-LLVM:END -->
