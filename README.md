@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_9)
-- [[RFC] MLIR buildbot with expensive pattern checks enabled](https://discourse.llvm.org/t/rfc-mlir-buildbot-with-expensive-pattern-checks-enabled/91567#post_5)
-- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_8)
-- [[RFC] Add a &quot;Key information still needed&quot; check to GitHub Actions](https://discourse.llvm.org/t/rfc-add-a-key-information-still-needed-check-to-github-actions/91584#post_4)
-- [[RFC] MLIR buildbot with expensive pattern checks enabled](https://discourse.llvm.org/t/rfc-mlir-buildbot-with-expensive-pattern-checks-enabled/91567#post_4)
+- [[pre-RFC] Alloy formalization of LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/pre-rfc-alloy-formalization-of-llvm-irs-concurrent-memory-model/91590#post_1)
+- [Simplifying failure modes in ExplodedNode creation](https://discourse.llvm.org/t/simplifying-failure-modes-in-explodednode-creation/91542#post_5)
+- [[RFC] Add a &quot;Key information still needed&quot; check to GitHub Actions](https://discourse.llvm.org/t/rfc-add-a-key-information-still-needed-check-to-github-actions/91584#post_5)
+- [[LV][SLP] Re-vectorising target intrinsics](https://discourse.llvm.org/t/lv-slp-re-vectorising-target-intrinsics/91248?page=2#post_30)
+- [Simplifying failure modes in ExplodedNode creation](https://discourse.llvm.org/t/simplifying-failure-modes-in-explodednode-creation/91542#post_4)
 <!-- DISCOURSE-LLVM:END -->
