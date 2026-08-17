@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_10)
 - [Simplifying failure modes in ExplodedNode creation](https://discourse.llvm.org/t/simplifying-failure-modes-in-explodednode-creation/91542#post_3)
 - [[RFC] Incrementally Enabling the NewPM for CodeGen](https://discourse.llvm.org/t/rfc-incrementally-enabling-the-newpm-for-codegen/91410#post_12)
 - [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_6)
 - [[RFC] Add a &quot;Key information still needed&quot; check to GitHub Actions](https://discourse.llvm.org/t/rfc-add-a-key-information-still-needed-check-to-github-actions/91584#post_3)
-- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_5)
 <!-- DISCOURSE-LLVM:END -->
