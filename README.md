@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [How does `KnownFPClass::bitcast` handle endianness, unsigned, and non-zero representations](https://discourse.llvm.org/t/how-does-knownfpclass-bitcast-handle-endianness-unsigned-and-non-zero-representations/91568#post_3)
 - [[RFC] Add a &quot;Key information still needed&quot; check to GitHub Actions](https://discourse.llvm.org/t/rfc-add-a-key-information-still-needed-check-to-github-actions/91584#post_9)
 - [[RFC] Linalg scaled contraction](https://discourse.llvm.org/t/rfc-linalg-scaled-contraction/91075?page=2#post_30)
 - [[RFC] Add a &quot;Key information still needed&quot; check to GitHub Actions](https://discourse.llvm.org/t/rfc-add-a-key-information-still-needed-check-to-github-actions/91584#post_8)
 - [LLVM 23.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-23-x-release-third-party-binaries/91408#post_3)
-- [Removing or reducing redundant messages in Integration tests](https://discourse.llvm.org/t/removing-or-reducing-redundant-messages-in-integration-tests/91591#post_3)
 <!-- DISCOURSE-LLVM:END -->
