@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Rewrite the x86_64 Sys V ABI classification algorithm in X86.cpp to properly implement ABI spec](https://discourse.llvm.org/t/rfc-rewrite-the-x86-64-sys-v-abi-classification-algorithm-in-x86-cpp-to-properly-implement-abi-spec/91485#post_4)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_14)
 - [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_13)
 - [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_12)
 - [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_11)
-- [Removal of --fortran-common option](https://discourse.llvm.org/t/removal-of-fortran-common-option/91553#post_5)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_10)
 <!-- DISCOURSE-LLVM:END -->
