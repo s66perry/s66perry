@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_5)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_4)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_3)
+- [[RFC] Address Sanitizers for Bare-Metal Environments](https://discourse.llvm.org/t/rfc-address-sanitizers-for-bare-metal-environments/91476?page=2#post_21)
 - [Questions about accepted LLVM Dev Meeting talk](https://discourse.llvm.org/t/questions-about-accepted-llvm-dev-meeting-talk/91603#post_4)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_2)
-- [Questions about accepted LLVM Dev Meeting talk](https://discourse.llvm.org/t/questions-about-accepted-llvm-dev-meeting-talk/91603#post_3)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_1)
-- [Questions about accepted LLVM Dev Meeting talk](https://discourse.llvm.org/t/questions-about-accepted-llvm-dev-meeting-talk/91603#post_2)
 <!-- DISCOURSE-LLVM:END -->
