@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_13)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_12)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_11)
 - [Removal of --fortran-common option](https://discourse.llvm.org/t/removal-of-fortran-common-option/91553#post_5)
 - [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_10)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_9)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_8)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_7)
 <!-- DISCOURSE-LLVM:END -->
