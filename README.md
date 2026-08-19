@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Make RegAllocFast consume MachineIR in SSA form](https://discourse.llvm.org/t/make-regallocfast-consume-machineir-in-ssa-form/91607#post_2)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605#post_6)
 - [[RFC] Policy to move default version of -fbinutils-version forward](https://discourse.llvm.org/t/rfc-policy-to-move-default-version-of-fbinutils-version-forward/91610#post_2)
 - [[RFC][IR] Ability to shuffle vectors with dynamic mask](https://discourse.llvm.org/t/rfc-ir-ability-to-shuffle-vectors-with-dynamic-mask/91282?page=2#post_27)
 - [Per Processor Costing for RISCV](https://discourse.llvm.org/t/per-processor-costing-for-riscv/91575#post_10)
-- [Canceling August 19 Clang C/C+ language working group meeting](https://discourse.llvm.org/t/canceling-august-19-clang-c-c-language-working-group-meeting/91611#post_1)
-- [[RFC] Rewrite the x86_64 Sys V ABI classification algorithm in X86.cpp to properly implement ABI spec](https://discourse.llvm.org/t/rfc-rewrite-the-x86-64-sys-v-abi-classification-algorithm-in-x86-cpp-to-properly-implement-abi-spec/91485#post_3)
 <!-- DISCOURSE-LLVM:END -->
