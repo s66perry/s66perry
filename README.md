@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_4)
-- [[RFC] IR tracker: source-location-indexed pass history for LLVM IR](https://discourse.llvm.org/t/rfc-ir-tracker-source-location-indexed-pass-history-for-llvm-ir/90535#post_18)
-- [[RFC] Disjoint-scope !alias.scope/!noalias domains](https://discourse.llvm.org/t/rfc-disjoint-scope-alias-scope-noalias-domains/91537#post_4)
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_3)
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_2)
+- [Per Processor Costing for RISCV](https://discourse.llvm.org/t/per-processor-costing-for-riscv/91575#post_10)
+- [Canceling August 19 Clang C/C+ language working group meeting](https://discourse.llvm.org/t/canceling-august-19-clang-c-c-language-working-group-meeting/91611#post_1)
+- [[RFC] Rewrite the x86_64 Sys V ABI classification algorithm in X86.cpp to properly implement ABI spec](https://discourse.llvm.org/t/rfc-rewrite-the-x86-64-sys-v-abi-classification-algorithm-in-x86-cpp-to-properly-implement-abi-spec/91485#post_3)
+- [[RFC] Policy to move default version of -fbinutils-version forward](https://discourse.llvm.org/t/rfc-policy-to-move-default-version-of-fbinutils-version-forward/91610#post_1)
+- [[RFC] A New Sign Extension Elimination Pass](https://discourse.llvm.org/t/rfc-a-new-sign-extension-elimination-pass/91506#post_17)
 <!-- DISCOURSE-LLVM:END -->
