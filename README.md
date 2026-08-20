@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938?page=2#post_22)
+- [[RFC] Incrementally Enabling the NewPM for CodeGen](https://discourse.llvm.org/t/rfc-incrementally-enabling-the-newpm-for-codegen/91410#post_13)
+- [[RFC] Clarify `memref.reinterpret_cast` Verification of Dynamic Metadata](https://discourse.llvm.org/t/rfc-clarify-memref-reinterpret-cast-verification-of-dynamic-metadata/91480#post_4)
+- [[RFC] Proposing a major LNT update &lpar;LNT v5&rpar;](https://discourse.llvm.org/t/rfc-proposing-a-major-lnt-update-lnt-v5/91595#post_2)
 - [Make RegAllocFast consume MachineIR in SSA form](https://discourse.llvm.org/t/make-regallocfast-consume-machineir-in-ssa-form/91607#post_4)
-- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474?page=2#post_21)
-- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_9)
-- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_8)
-- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_12)
 <!-- DISCOURSE-LLVM:END -->
