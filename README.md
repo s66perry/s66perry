@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LoopVectorizer: loop tail vectorization &amp; RISCV calling conventions](https://discourse.llvm.org/t/loopvectorizer-loop-tail-vectorization-riscv-calling-conventions/91516#post_3)
-- [LLVM 23.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-23-x-release-third-party-binaries/91408#post_4)
-- [Per Processor Costing for RISCV](https://discourse.llvm.org/t/per-processor-costing-for-riscv/91575#post_11)
-- [Make RegAllocFast consume MachineIR in SSA form](https://discourse.llvm.org/t/make-regallocfast-consume-machineir-in-ssa-form/91607#post_3)
-- [[RFC][offload][AMDGPU] Device-specific runtime defaults for the OpenMP AMDGPU plugin](https://discourse.llvm.org/t/rfc-offload-amdgpu-device-specific-runtime-defaults-for-the-openmp-amdgpu-plugin/91613#post_1)
+- [Make RegAllocFast consume MachineIR in SSA form](https://discourse.llvm.org/t/make-regallocfast-consume-machineir-in-ssa-form/91607#post_4)
+- [[RFC] Upstreaming the PISA backend to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-the-pisa-backend-to-llvm/91474?page=2#post_21)
+- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_9)
+- [Choosing the default summation algorithm for Flang&#39;s SUM intrinsic](https://discourse.llvm.org/t/choosing-the-default-summation-algorithm-for-flangs-sum-intrinsic/91300#post_8)
+- [[RFC] Promoting the DirectX Backend to an Official Target](https://discourse.llvm.org/t/rfc-promoting-the-directx-backend-to-an-official-target/91473#post_12)
 <!-- DISCOURSE-LLVM:END -->
