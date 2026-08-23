@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Modernizing LLVM&#39;s `FoldingSet`: Open Addressing with Swiss Table and Algorithm R](https://discourse.llvm.org/t/rfc-modernizing-llvms-foldingset-open-addressing-with-swiss-table-and-algorithm-r/91637#post_1)
+- [Need more people to help review the PR](https://discourse.llvm.org/t/need-more-people-to-help-review-the-pr/91630#post_3)
+- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_13)
 - [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_12)
 - [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_3)
-- [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_10)
-- [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_9)
-- [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_8)
 <!-- DISCOURSE-LLVM:END -->
