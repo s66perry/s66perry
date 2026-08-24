@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_9)
+- [RFC: Raising minimum required CMake version to 3.31](https://discourse.llvm.org/t/rfc-raising-minimum-required-cmake-version-to-3-31/91086#post_6)
 - [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_8)
 - [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_7)
 - [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_6)
-- [[RFC] Create a --filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91216#post_8)
-- [RFC: Add/update TSAN submode for lock correctness validation only](https://discourse.llvm.org/t/rfc-add-update-tsan-submode-for-lock-correctness-validation-only/91319#post_10)
 <!-- DISCOURSE-LLVM:END -->
