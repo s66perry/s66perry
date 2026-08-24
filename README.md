@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][IR] Add nonnull flag to the addrspacecast instruction](https://discourse.llvm.org/t/rfc-ir-add-nonnull-flag-to-the-addrspacecast-instruction/91624#post_7)
+- [[RFC][IR] change i128 datalayout default to match clang](https://discourse.llvm.org/t/rfc-ir-change-i128-datalayout-default-to-match-clang/91604#post_4)
+- [[RFC] Policy to move default version of -fbinutils-version forward](https://discourse.llvm.org/t/rfc-policy-to-move-default-version-of-fbinutils-version-forward/91610#post_6)
+- [Per Processor Costing for RISCV](https://discourse.llvm.org/t/per-processor-costing-for-riscv/91575#post_13)
 - [[RFC][IR] Add nonnull flag to the addrspacecast instruction](https://discourse.llvm.org/t/rfc-ir-add-nonnull-flag-to-the-addrspacecast-instruction/91624#post_6)
-- [[RFC][IR] Add nonnull flag to the addrspacecast instruction](https://discourse.llvm.org/t/rfc-ir-add-nonnull-flag-to-the-addrspacecast-instruction/91624#post_5)
-- [&quot;gh stack submit&quot; not working](https://discourse.llvm.org/t/gh-stack-submit-not-working/91643#post_1)
-- [[RFC][IR] Add nonnull flag to the addrspacecast instruction](https://discourse.llvm.org/t/rfc-ir-add-nonnull-flag-to-the-addrspacecast-instruction/91624#post_4)
-- [LLVM Weekly - #660, August 24th 2026](https://discourse.llvm.org/t/llvm-weekly-660-august-24th-2026/91642#post_1)
 <!-- DISCOURSE-LLVM:END -->
