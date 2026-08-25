@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_14)
-- [[RFC][flang] reasssociate within real and complex expressions by default](https://discourse.llvm.org/t/rfc-flang-reasssociate-within-real-and-complex-expressions-by-default/91626#post_3)
-- [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_13)
-- [Shrink Wrap Save/Restore Points Splitting](https://discourse.llvm.org/t/shrink-wrap-save-restore-points-splitting/83581?page=2#post_26)
-- [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_12)
+- [[RFC] Enable read-only Transparent Huge Pages &lpar;THP&rpar; for executable .text segment](https://discourse.llvm.org/t/rfc-enable-read-only-transparent-huge-pages-thp-for-executable-text-segment/91646#post_2)
+- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_13)
+- [[RFC][flang] reasssociate within real and complex expressions by default](https://discourse.llvm.org/t/rfc-flang-reasssociate-within-real-and-complex-expressions-by-default/91626#post_4)
+- [[pre-RFC] Alloy formalization of LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/pre-rfc-alloy-formalization-of-llvm-irs-concurrent-memory-model/91590#post_5)
+- [[RFC] Enable read-only Transparent Huge Pages &lpar;THP&rpar; for executable .text segment](https://discourse.llvm.org/t/rfc-enable-read-only-transparent-huge-pages-thp-for-executable-text-segment/91646#post_1)
 <!-- DISCOURSE-LLVM:END -->
