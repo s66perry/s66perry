@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Update semantics of Linalg named operations &lpar;unary/binary/ternary&rpar;](https://discourse.llvm.org/t/rfc-update-semantics-of-linalg-named-operations-unary-binary-ternary/91531#post_14)
 - [[RFC][flang] reasssociate within real and complex expressions by default](https://discourse.llvm.org/t/rfc-flang-reasssociate-within-real-and-complex-expressions-by-default/91626#post_3)
 - [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_13)
 - [Shrink Wrap Save/Restore Points Splitting](https://discourse.llvm.org/t/shrink-wrap-save-restore-points-splitting/83581?page=2#post_26)
 - [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_12)
-- [[RFC] Disjoint-scope !alias.scope/!noalias domains](https://discourse.llvm.org/t/rfc-disjoint-scope-alias-scope-noalias-domains/91537#post_6)
 <!-- DISCOURSE-LLVM:END -->
