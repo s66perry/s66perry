@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[pre-RFC] Alloy formalization of LLVM IR&#39;s concurrent memory model](https://discourse.llvm.org/t/pre-rfc-alloy-formalization-of-llvm-irs-concurrent-memory-model/91590#post_6)
+- [[RFC] Change MIR to use block arguments instead of phis](https://discourse.llvm.org/t/rfc-change-mir-to-use-block-arguments-instead-of-phis/91657#post_1)
+- [[RFC] Modernizing LLVM&#39;s `FoldingSet`: Open Addressing with Swiss Table and Algorithm R](https://discourse.llvm.org/t/rfc-modernizing-llvms-foldingset-open-addressing-with-swiss-table-and-algorithm-r/91637#post_6)
 - [Make RegAllocFast consume MachineIR in SSA form](https://discourse.llvm.org/t/make-regallocfast-consume-machineir-in-ssa-form/91607#post_11)
 - [[RFC] Modernizing LLVM&#39;s `FoldingSet`: Open Addressing with Swiss Table and Algorithm R](https://discourse.llvm.org/t/rfc-modernizing-llvms-foldingset-open-addressing-with-swiss-table-and-algorithm-r/91637#post_5)
-- [[RFC] Create a --filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91216#post_11)
-- [[RFC] Create a --filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91216#post_10)
-- [[RFC][flang] reasssociate within real and complex expressions by default](https://discourse.llvm.org/t/rfc-flang-reasssociate-within-real-and-complex-expressions-by-default/91626#post_8)
 <!-- DISCOURSE-LLVM:END -->
