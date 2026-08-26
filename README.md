@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Is there any stacked-PR methodology consensus?](https://discourse.llvm.org/t/is-there-any-stacked-pr-methodology-consensus/91558?page=2#post_21)
+- [Anyone working on a TI C28x backend](https://discourse.llvm.org/t/anyone-working-on-a-ti-c28x-backend/78943#post_4)
 - [LLVMBuildLoad2 on Global external const raises access violation](https://discourse.llvm.org/t/llvmbuildload2-on-global-external-const-raises-access-violation/91651#post_5)
 - [LLVMBuildLoad2 on Global external const raises access violation](https://discourse.llvm.org/t/llvmbuildload2-on-global-external-const-raises-access-violation/91651#post_4)
 - [LLVMBuildLoad2 on Global external const raises access violation](https://discourse.llvm.org/t/llvmbuildload2-on-global-external-const-raises-access-violation/91651#post_3)
-- [LLVMBuildLoad2 on Global external const raises access violation](https://discourse.llvm.org/t/llvmbuildload2-on-global-external-const-raises-access-violation/91651#post_2)
-- [LLVMBuildLoad2 on Global external const raises access violation](https://discourse.llvm.org/t/llvmbuildload2-on-global-external-const-raises-access-violation/91651#post_1)
 <!-- DISCOURSE-LLVM:END -->
