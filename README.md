@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM libc bare-metal file IO support prototype](https://discourse.llvm.org/t/rfc-llvm-libc-bare-metal-file-io-support-prototype/91662#post_3)
-- [[RFC] Clarify the behavior of FP operations on bit strings with nsz flag](https://discourse.llvm.org/t/rfc-clarify-the-behavior-of-fp-operations-on-bit-strings-with-nsz-flag/85981#post_8)
-- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_4)
-- [CANCELLED RISC-V LLVM sync-up call August 27th 2026](https://discourse.llvm.org/t/cancelled-risc-v-llvm-sync-up-call-august-27th-2026/91664#post_1)
-- [AArch64 Vector PCS on Darwin/Mach-O: support status and ABI contract?](https://discourse.llvm.org/t/aarch64-vector-pcs-on-darwin-mach-o-support-status-and-abi-contract/91663#post_1)
+- [[RFC] Proposing a major LNT update &lpar;LNT v5&rpar;](https://discourse.llvm.org/t/rfc-proposing-a-major-lnt-update-lnt-v5/91595#post_5)
+- [[RFC] Enable read-only Transparent Huge Pages &lpar;THP&rpar; for executable .text segment](https://discourse.llvm.org/t/rfc-enable-read-only-transparent-huge-pages-thp-for-executable-text-segment/91646#post_9)
+- [[RFC] Change MIR to use block arguments instead of phis](https://discourse.llvm.org/t/rfc-change-mir-to-use-block-arguments-instead-of-phis/91657#post_2)
+- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_2)
+- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_1)
 <!-- DISCOURSE-LLVM:END -->
