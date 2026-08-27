@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add a conditional no_unique_address attribute](https://discourse.llvm.org/t/rfc-add-a-conditional-no-unique-address-attribute/91530#post_4)
-- [[RFC] Introduce `llvm.is.debugging.enabled` intrinsic](https://discourse.llvm.org/t/rfc-introduce-llvm-is-debugging-enabled-intrinsic/91676#post_2)
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_12)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650#post_4)
-- [[RFC] Introduce `llvm.is.debugging.enabled` intrinsic](https://discourse.llvm.org/t/rfc-introduce-llvm-is-debugging-enabled-intrinsic/91676#post_1)
+- [[RFC] Enable read-only Transparent Huge Pages &lpar;THP&rpar; for executable .text segment](https://discourse.llvm.org/t/rfc-enable-read-only-transparent-huge-pages-thp-for-executable-text-segment/91646#post_10)
+- [[RFC][Clang] Elementwise builtins for converting encoded floating point values](https://discourse.llvm.org/t/rfc-clang-elementwise-builtins-for-converting-encoded-floating-point-values/91644#post_3)
+- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_8)
+- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_7)
+- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_6)
 <!-- DISCOURSE-LLVM:END -->
