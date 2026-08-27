@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_1)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_74)
-- [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_16)
-- [[RFC] Proposing a major LNT update &lpar;LNT v5&rpar;](https://discourse.llvm.org/t/rfc-proposing-a-major-lnt-update-lnt-v5/91595#post_5)
-- [[RFC] Enable read-only Transparent Huge Pages &lpar;THP&rpar; for executable .text segment](https://discourse.llvm.org/t/rfc-enable-read-only-transparent-huge-pages-thp-for-executable-text-segment/91646#post_9)
+- [[RFC] Add a conditional no_unique_address attribute](https://discourse.llvm.org/t/rfc-add-a-conditional-no-unique-address-attribute/91530#post_4)
+- [[RFC] Introduce `llvm.is.debugging.enabled` intrinsic](https://discourse.llvm.org/t/rfc-introduce-llvm-is-debugging-enabled-intrinsic/91676#post_2)
+- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_12)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650#post_4)
+- [[RFC] Introduce `llvm.is.debugging.enabled` intrinsic](https://discourse.llvm.org/t/rfc-introduce-llvm-is-debugging-enabled-intrinsic/91676#post_1)
 <!-- DISCOURSE-LLVM:END -->
