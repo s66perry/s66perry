@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enable read-only Transparent Huge Pages &lpar;THP&rpar; for executable .text segment](https://discourse.llvm.org/t/rfc-enable-read-only-transparent-huge-pages-thp-for-executable-text-segment/91646#post_10)
-- [[RFC][Clang] Elementwise builtins for converting encoded floating point values](https://discourse.llvm.org/t/rfc-clang-elementwise-builtins-for-converting-encoded-floating-point-values/91644#post_3)
-- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_8)
-- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_7)
-- [UI change proposal for disassembly: Indicate the call instruction for non-zero stack frames](https://discourse.llvm.org/t/ui-change-proposal-for-disassembly-indicate-the-call-instruction-for-non-zero-stack-frames/91671#post_6)
+- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_14)
+- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_6)
+- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_5)
+- [[RFC][Clang] Elementwise builtins for converting encoded floating point values](https://discourse.llvm.org/t/rfc-clang-elementwise-builtins-for-converting-encoded-floating-point-values/91644#post_6)
+- [[RFC][Clang] Elementwise builtins for converting encoded floating point values](https://discourse.llvm.org/t/rfc-clang-elementwise-builtins-for-converting-encoded-floating-point-values/91644#post_5)
 <!-- DISCOURSE-LLVM:END -->
