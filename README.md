@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_14)
-- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_6)
-- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_5)
-- [[RFC][Clang] Elementwise builtins for converting encoded floating point values](https://discourse.llvm.org/t/rfc-clang-elementwise-builtins-for-converting-encoded-floating-point-values/91644#post_6)
-- [[RFC][Clang] Elementwise builtins for converting encoded floating point values](https://discourse.llvm.org/t/rfc-clang-elementwise-builtins-for-converting-encoded-floating-point-values/91644#post_5)
+- [Why doesn&#39;t LLVM &lpar;or GCC&rpar; auto-vectorize loops for XTHeadVector?](https://discourse.llvm.org/t/why-doesnt-llvm-or-gcc-auto-vectorize-loops-for-xtheadvector/91682#post_3)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_3)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_2)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_1)
+- [Unifying node creation tools in `CheckerContext`](https://discourse.llvm.org/t/unifying-node-creation-tools-in-checkercontext/91684#post_2)
 <!-- DISCOURSE-LLVM:END -->
