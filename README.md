@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Why doesn&#39;t LLVM &lpar;or GCC&rpar; auto-vectorize loops for XTHeadVector?](https://discourse.llvm.org/t/why-doesnt-llvm-or-gcc-auto-vectorize-loops-for-xtheadvector/91682#post_3)
-- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_3)
-- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_2)
-- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_1)
-- [Unifying node creation tools in `CheckerContext`](https://discourse.llvm.org/t/unifying-node-creation-tools-in-checkercontext/91684#post_2)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 10 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-10-26-6pm/91486#post_2)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Sep 14 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-sep-14-26-6pm/91686#post_1)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_8)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_7)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_6)
 <!-- DISCOURSE-LLVM:END -->
