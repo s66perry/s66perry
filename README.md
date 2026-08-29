@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_19)
-- [Unifying node creation tools in `CheckerContext`](https://discourse.llvm.org/t/unifying-node-creation-tools-in-checkercontext/91684#post_4)
-- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_9)
-- [[RFC] Modernizing LLVM&#39;s `FoldingSet`: Open Addressing with Swiss Table and Algorithm R](https://discourse.llvm.org/t/rfc-modernizing-llvms-foldingset-open-addressing-with-swiss-table-and-algorithm-r/91637#post_7)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Aug 10 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-aug-10-26-6pm/91486#post_2)
+- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_12)
+- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_11)
+- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_10)
+- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_9)
+- [[RFC] Add &#39;noreg&#39; parameter attribute to force stack argument passing](https://discourse.llvm.org/t/rfc-add-noreg-parameter-attribute-to-force-stack-argument-passing/91689#post_1)
 <!-- DISCOURSE-LLVM:END -->
