@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_35)
-- [LLVM 23.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-23-x-release-third-party-binaries/91408#post_5)
-- [UHDI &lpar;Unified Hardware Debug Info&rpar;: structured debug-info export for Chisel/FIRRTL](https://discourse.llvm.org/t/uhdi-unified-hardware-debug-info-structured-debug-info-export-for-chisel-firrtl/90973#post_4)
-- [[RFC] UHDI: a JSON debug-info document emitted from the Debug dialect](https://discourse.llvm.org/t/rfc-uhdi-a-json-debug-info-document-emitted-from-the-debug-dialect/91690#post_1)
-- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_12)
+- [[RFC] Proposing a major LNT update &lpar;LNT v5&rpar;](https://discourse.llvm.org/t/rfc-proposing-a-major-lnt-update-lnt-v5/91595#post_8)
+- [[RFC] Add &#39;noreg&#39; parameter attribute to force stack argument passing](https://discourse.llvm.org/t/rfc-add-noreg-parameter-attribute-to-force-stack-argument-passing/91689#post_3)
+- [[Question] Do we have any plan to build llvm with C++20?](https://discourse.llvm.org/t/question-do-we-have-any-plan-to-build-llvm-with-c-20/91692#post_7)
+- [[Question] Do we have any plan to build llvm with C++20?](https://discourse.llvm.org/t/question-do-we-have-any-plan-to-build-llvm-with-c-20/91692#post_6)
+- [[Question] Do we have any plan to build llvm with C++20?](https://discourse.llvm.org/t/question-do-we-have-any-plan-to-build-llvm-with-c-20/91692#post_5)
 <!-- DISCOURSE-LLVM:END -->
