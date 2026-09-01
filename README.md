@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_11)
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_16)
-- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_16)
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_9)
-- [[RFC] Yet another strict FP](https://discourse.llvm.org/t/rfc-yet-another-strict-fp/90798?page=2#post_38)
+- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034?page=2#post_35)
+- [Adding a project to “Projects built with LLVM”](https://discourse.llvm.org/t/adding-a-project-to-projects-built-with-llvm/91704#post_3)
+- [[RFC] Add native support for Fortran in LLDB](https://discourse.llvm.org/t/rfc-add-native-support-for-fortran-in-lldb/91034?page=2#post_34)
+- [[Linalg][RFC] An Approach for Tiling and Fusing Dependent Reductions in Linalg](https://discourse.llvm.org/t/linalg-rfc-an-approach-for-tiling-and-fusing-dependent-reductions-in-linalg/91698#post_3)
+- [Why doesn’t LLVM fuse paired sin/cos into sincos the way GCC does&lpar;default math-errno&rpar;?](https://discourse.llvm.org/t/why-doesn-t-llvm-fuse-paired-sin-cos-into-sincos-the-way-gcc-does-default-math-errno/91701#post_3)
 <!-- DISCOURSE-LLVM:END -->
