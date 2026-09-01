@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_5)
+- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_4)
+- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_14)
+- [[RFC][lldb] Objective-C debugging support for the GNUstep libobjc2 runtime on non-Apple platforms](https://discourse.llvm.org/t/rfc-lldb-objective-c-debugging-support-for-the-gnustep-libobjc2-runtime-on-non-apple-platforms/91623#post_18)
 - [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_3)
-- [Can bots comment on PRs to discourage force pushing?](https://discourse.llvm.org/t/can-bots-comment-on-prs-to-discourage-force-pushing/91669#post_7)
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_2)
-- [Revisiting commit-access criteria &lpar;2026&rpar;](https://discourse.llvm.org/t/revisiting-commit-access-criteria-2026/91145?page=3#post_60)
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_1)
 <!-- DISCOURSE-LLVM:END -->
