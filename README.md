@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Unifying PthreadLockChecker.cpp and BlockInCriticalSection checkers](https://discourse.llvm.org/t/unifying-pthreadlockchecker-cpp-and-blockincriticalsection-checkers/91377#post_14)
-- [[RFC] Create a --filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91216#post_12)
-- [[RFC] Exposing Pre-RA Scheduling for Search and ML Experimentation](https://discourse.llvm.org/t/rfc-exposing-pre-ra-scheduling-for-search-and-ml-experimentation/91705#post_6)
-- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_16)
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608#post_17)
+- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_17)
+- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_12)
+- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699#post_11)
+- [Why doesn’t LLVM fuse paired sin/cos into sincos the way GCC does&lpar;default math-errno&rpar;?](https://discourse.llvm.org/t/why-doesn-t-llvm-fuse-paired-sin-cos-into-sincos-the-way-gcc-does-default-math-errno/91701#post_4)
+- [[RFC] Add a &quot;Key information still needed&quot; check to GitHub Actions](https://discourse.llvm.org/t/rfc-add-a-key-information-still-needed-check-to-github-actions/91584#post_10)
 <!-- DISCOURSE-LLVM:END -->
