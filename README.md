@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_17)
-- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713#post_3)
-- [[RFC] Add a &quot;Key information still needed&quot; check to GitHub Actions](https://discourse.llvm.org/t/rfc-add-a-key-information-still-needed-check-to-github-actions/91584#post_11)
-- [DirectX and the semantics of target extension types](https://discourse.llvm.org/t/directx-and-the-semantics-of-target-extension-types/91708#post_2)
-- [[RFC] LLVM AI tool policy: AGENTS.md](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-agents-md/91712#post_8)
+- [[RFC] Delete ExecutionEngine Interpreter](https://discourse.llvm.org/t/rfc-delete-executionengine-interpreter/91720#post_4)
+- [[RFC] Delete ExecutionEngine Interpreter](https://discourse.llvm.org/t/rfc-delete-executionengine-interpreter/91720#post_3)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_19)
+- [[RFC] Delete ExecutionEngine Interpreter](https://discourse.llvm.org/t/rfc-delete-executionengine-interpreter/91720#post_2)
+- [[RFC] Refactor LLDB expression evaluation to enable an ORC JIT backend](https://discourse.llvm.org/t/rfc-refactor-lldb-expression-evaluation-to-enable-an-orc-jit-backend/91641#post_6)
 <!-- DISCOURSE-LLVM:END -->
