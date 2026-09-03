@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_18)
-- [[LoadStoreVectorizer] Requesting review: pointer recovery in mixed-type vectorization &lpar;inttoptr/ptrtoint&rpar;](https://discourse.llvm.org/t/loadstorevectorizer-requesting-review-pointer-recovery-in-mixed-type-vectorization-inttoptr-ptrtoint/91721#post_2)
-- [[RFC] Delete ExecutionEngine Interpreter](https://discourse.llvm.org/t/rfc-delete-executionengine-interpreter/91720#post_7)
-- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713#post_5)
-- [Removal of --fortran-common option](https://discourse.llvm.org/t/removal-of-fortran-common-option/91553#post_6)
+- [[RFC] Proposing a major LNT update &lpar;LNT v5&rpar;](https://discourse.llvm.org/t/rfc-proposing-a-major-lnt-update-lnt-v5/91595#post_13)
+- [[RFC] Change MIR to use block arguments instead of phis](https://discourse.llvm.org/t/rfc-change-mir-to-use-block-arguments-instead-of-phis/91657#post_6)
+- [RFC: Add IEEE 754-2019 minimumNumber/maximumNumber operations to Arith](https://discourse.llvm.org/t/rfc-add-ieee-754-2019-minimumnumber-maximumnumber-operations-to-arith/91723#post_5)
+- [[RFC] Function-Boundary Zeroization](https://discourse.llvm.org/t/rfc-function-boundary-zeroization/91693#post_4)
+- [[RFC] Modernize LLVM&#39;s Windows Release Build and Packaging](https://discourse.llvm.org/t/rfc-modernize-llvms-windows-release-build-and-packaging/91673#post_19)
 <!-- DISCOURSE-LLVM:END -->
