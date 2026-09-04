@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Self copy canonicalization pattern for gpu.memcpy](https://discourse.llvm.org/t/rfc-self-copy-canonicalization-pattern-for-gpu-memcpy/91729#post_1)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650#post_17)
-- [[RFC] LLVM libc bare-metal file IO support prototype](https://discourse.llvm.org/t/rfc-llvm-libc-bare-metal-file-io-support-prototype/91662#post_4)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650#post_16)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650#post_15)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730#post_3)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730#post_2)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730#post_1)
+- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713#post_11)
+- [[Linalg] linalg.generic and linalg.batch_matmul behaves differently with fold_type_extensions_into_contract](https://discourse.llvm.org/t/linalg-linalg-generic-and-linalg-batch-matmul-behaves-differently-with-fold-type-extensions-into-contract/91727#post_4)
 <!-- DISCOURSE-LLVM:END -->
