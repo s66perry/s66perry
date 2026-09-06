@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][flang] reasssociate within real and complex expressions by default](https://discourse.llvm.org/t/rfc-flang-reasssociate-within-real-and-complex-expressions-by-default/91626#post_9)
+- [[RFC] AllocaOp Canonicalization in MLIR&#39;s LLVM Dialect](https://discourse.llvm.org/t/rfc-allocaop-canonicalization-in-mlirs-llvm-dialect/91734#post_2)
+- [[RFC] AllocaOp Canonicalization in MLIR&#39;s LLVM Dialect](https://discourse.llvm.org/t/rfc-allocaop-canonicalization-in-mlirs-llvm-dialect/91734#post_1)
 - [Creating DebugInfo for &lpar;Dynamic&rpar; Arrays](https://discourse.llvm.org/t/creating-debuginfo-for-dynamic-arrays/91732#post_5)
 - [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=2#post_35)
-- [[LoadStoreVectorizer] Requesting review: pointer recovery in mixed-type vectorization &lpar;inttoptr/ptrtoint&rpar;](https://discourse.llvm.org/t/loadstorevectorizer-requesting-review-pointer-recovery-in-mixed-type-vectorization-inttoptr-ptrtoint/91721#post_5)
-- [[LoadStoreVectorizer] Requesting review: pointer recovery in mixed-type vectorization &lpar;inttoptr/ptrtoint&rpar;](https://discourse.llvm.org/t/loadstorevectorizer-requesting-review-pointer-recovery-in-mixed-type-vectorization-inttoptr-ptrtoint/91721#post_4)
-- [[RFC] LLVM AI tool policy: AGENTS.md](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-agents-md/91712#post_17)
 <!-- DISCOURSE-LLVM:END -->
