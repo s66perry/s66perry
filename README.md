@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Add IEEE 754-2019 minimumNumber/maximumNumber operations to Arith](https://discourse.llvm.org/t/rfc-add-ieee-754-2019-minimumnumber-maximumnumber-operations-to-arith/91723#post_9)
-- [Creating DebugInfo for &lpar;Dynamic&rpar; Arrays](https://discourse.llvm.org/t/creating-debuginfo-for-dynamic-arrays/91732#post_7)
-- [[RFC] InputGen Infrastructure for LLVM GPU Targets](https://discourse.llvm.org/t/rfc-inputgen-infrastructure-for-llvm-gpu-targets/91660#post_2)
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=2#post_24)
-- [Creating DebugInfo for &lpar;Dynamic&rpar; Arrays](https://discourse.llvm.org/t/creating-debuginfo-for-dynamic-arrays/91732#post_6)
+- [Plan to improve ld64.lld performance](https://discourse.llvm.org/t/plan-to-improve-ld64-lld-performance/91715#post_5)
+- [[RFC] Delete ExecutionEngine Interpreter](https://discourse.llvm.org/t/rfc-delete-executionengine-interpreter/91720#post_9)
+- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_1)
+- [[RFC] Delete ExecutionEngine Interpreter](https://discourse.llvm.org/t/rfc-delete-executionengine-interpreter/91720#post_8)
+- [LLVM Weekly - #662, September 7th 2026](https://discourse.llvm.org/t/llvm-weekly-662-september-7th-2026/91750#post_1)
 <!-- DISCOURSE-LLVM:END -->
