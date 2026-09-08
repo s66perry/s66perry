@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Refactor LLDB expression evaluation to enable an ORC JIT backend](https://discourse.llvm.org/t/rfc-refactor-lldb-expression-evaluation-to-enable-an-orc-jit-backend/91641#post_12)
-- [LLVM 23.1.1 Released!](https://discourse.llvm.org/t/llvm-23-1-1-released/91760#post_1)
-- [Regressions from adding weaker bounds to ValueBoundsOpInterface](https://discourse.llvm.org/t/regressions-from-adding-weaker-bounds-to-valueboundsopinterface/91756#post_2)
-- [Tail-call and member functions of class](https://discourse.llvm.org/t/tail-call-and-member-functions-of-class/91757#post_1)
-- [RFC: Extending GVN&#39;s loop-load PRE](https://discourse.llvm.org/t/rfc-extending-gvns-loop-load-pre/91740#post_6)
+- [[LoadStoreVectorizer] Requesting review: pointer recovery in mixed-type vectorization &lpar;inttoptr/ptrtoint&rpar;](https://discourse.llvm.org/t/loadstorevectorizer-requesting-review-pointer-recovery-in-mixed-type-vectorization-inttoptr-ptrtoint/91721#post_7)
+- [RFC: Add IEEE 754-2019 minimumNumber/maximumNumber operations to Arith](https://discourse.llvm.org/t/rfc-add-ieee-754-2019-minimumnumber-maximumnumber-operations-to-arith/91723#post_14)
+- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_5)
+- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_4)
+- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_3)
 <!-- DISCOURSE-LLVM:END -->
