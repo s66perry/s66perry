@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LoadStoreVectorizer] Requesting review: pointer recovery in mixed-type vectorization &lpar;inttoptr/ptrtoint&rpar;](https://discourse.llvm.org/t/loadstorevectorizer-requesting-review-pointer-recovery-in-mixed-type-vectorization-inttoptr-ptrtoint/91721#post_7)
-- [RFC: Add IEEE 754-2019 minimumNumber/maximumNumber operations to Arith](https://discourse.llvm.org/t/rfc-add-ieee-754-2019-minimumnumber-maximumnumber-operations-to-arith/91723#post_14)
-- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_5)
-- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_4)
-- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_3)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=3#post_55)
+- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_7)
+- [[RFC] Upstreaming LLDB RPC](https://discourse.llvm.org/t/rfc-upstreaming-lldb-rpc/85804#post_18)
+- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_6)
+- [Can we link clang format into clangAnalysis?](https://discourse.llvm.org/t/can-we-link-clang-format-into-clanganalysis/89014?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
