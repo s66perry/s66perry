@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PDX Area August 2026 social](https://discourse.llvm.org/t/pdx-area-august-2026-social/91633#post_3)
-- [PDX Area September 2026 social](https://discourse.llvm.org/t/pdx-area-september-2026-social/91772#post_1)
-- [[RFC][Flang][DebugInfo] Inconsistent GDB Breakpoint Behavior for Fortran `ENTRY` Procedures](https://discourse.llvm.org/t/rfc-flang-debuginfo-inconsistent-gdb-breakpoint-behavior-for-fortran-entry-procedures/91767#post_3)
-- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=4#post_70)
-- [Source Matching and Rewriting in MLIR &lpar;CIR and FIR&rpar;](https://discourse.llvm.org/t/source-matching-and-rewriting-in-mlir-cir-and-fir/91771#post_1)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=2#post_30)
+- [LLVM ABI library support for AArch64](https://discourse.llvm.org/t/llvm-abi-library-support-for-aarch64/91777#post_1)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=2#post_29)
+- [Runtime unformatted I/O conversion between big and little endian formats](https://discourse.llvm.org/t/runtime-unformatted-i-o-conversion-between-big-and-little-endian-formats/91751#post_9)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=2#post_28)
 <!-- DISCOURSE-LLVM:END -->
