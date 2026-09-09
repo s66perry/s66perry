@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] MLIR buildbot with expensive pattern checks enabled](https://discourse.llvm.org/t/rfc-mlir-buildbot-with-expensive-pattern-checks-enabled/91567#post_7)
-- [Adherence to source code representation within the difference phases of the compilation process](https://discourse.llvm.org/t/adherence-to-source-code-representation-within-the-difference-phases-of-the-compilation-process/91766#post_7)
-- [Adherence to source code representation within the difference phases of the compilation process](https://discourse.llvm.org/t/adherence-to-source-code-representation-within-the-difference-phases-of-the-compilation-process/91766#post_6)
-- [[RFC][Flang][DebugInfo] Inconsistent GDB Breakpoint Behavior for Fortran `ENTRY` Procedures](https://discourse.llvm.org/t/rfc-flang-debuginfo-inconsistent-gdb-breakpoint-behavior-for-fortran-entry-procedures/91767#post_1)
-- [[RFC] .mod by-reference dependencies recorded versus enforced in flang-new](https://discourse.llvm.org/t/rfc-mod-by-reference-dependencies-recorded-versus-enforced-in-flang-new/91745#post_4)
+- [[RFC] Add a conditional no_unique_address attribute](https://discourse.llvm.org/t/rfc-add-a-conditional-no-unique-address-attribute/91530#post_15)
+- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_13)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=4#post_68)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=2#post_24)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=4#post_67)
 <!-- DISCOURSE-LLVM:END -->
