@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Refactor LLDB expression evaluation to enable an ORC JIT backend](https://discourse.llvm.org/t/rfc-refactor-lldb-expression-evaluation-to-enable-an-orc-jit-backend/91641#post_14)
-- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=3#post_58)
-- [DirectX and the semantics of target extension types](https://discourse.llvm.org/t/directx-and-the-semantics-of-target-extension-types/91708#post_5)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Sep 10](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-sep-10/91748#post_2)
-- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=3#post_57)
+- [[RFC][BOLT] Enabling post-link optimization for stripped ELF binaries](https://discourse.llvm.org/t/rfc-bolt-enabling-post-link-optimization-for-stripped-elf-binaries/91765#post_1)
+- [[RFC] LLVM AI tool policy: AGENTS.md](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-agents-md/91712#post_19)
+- [[RFC] Refactor LLDB expression evaluation to enable an ORC JIT backend](https://discourse.llvm.org/t/rfc-refactor-lldb-expression-evaluation-to-enable-an-orc-jit-backend/91641#post_18)
+- [[RFC] Refactor LLDB expression evaluation to enable an ORC JIT backend](https://discourse.llvm.org/t/rfc-refactor-lldb-expression-evaluation-to-enable-an-orc-jit-backend/91641#post_17)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650#post_20)
 <!-- DISCOURSE-LLVM:END -->
