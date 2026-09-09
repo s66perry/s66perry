@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][BOLT] Enabling post-link optimization for stripped ELF binaries](https://discourse.llvm.org/t/rfc-bolt-enabling-post-link-optimization-for-stripped-elf-binaries/91765#post_1)
-- [[RFC] LLVM AI tool policy: AGENTS.md](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-agents-md/91712#post_19)
-- [[RFC] Refactor LLDB expression evaluation to enable an ORC JIT backend](https://discourse.llvm.org/t/rfc-refactor-lldb-expression-evaluation-to-enable-an-orc-jit-backend/91641#post_18)
-- [[RFC] Refactor LLDB expression evaluation to enable an ORC JIT backend](https://discourse.llvm.org/t/rfc-refactor-lldb-expression-evaluation-to-enable-an-orc-jit-backend/91641#post_17)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650#post_20)
+- [[RFC] MLIR buildbot with expensive pattern checks enabled](https://discourse.llvm.org/t/rfc-mlir-buildbot-with-expensive-pattern-checks-enabled/91567#post_7)
+- [Adherence to source code representation within the difference phases of the compilation process](https://discourse.llvm.org/t/adherence-to-source-code-representation-within-the-difference-phases-of-the-compilation-process/91766#post_7)
+- [Adherence to source code representation within the difference phases of the compilation process](https://discourse.llvm.org/t/adherence-to-source-code-representation-within-the-difference-phases-of-the-compilation-process/91766#post_6)
+- [[RFC][Flang][DebugInfo] Inconsistent GDB Breakpoint Behavior for Fortran `ENTRY` Procedures](https://discourse.llvm.org/t/rfc-flang-debuginfo-inconsistent-gdb-breakpoint-behavior-for-fortran-entry-procedures/91767#post_1)
+- [[RFC] .mod by-reference dependencies recorded versus enforced in flang-new](https://discourse.llvm.org/t/rfc-mod-by-reference-dependencies-recorded-versus-enforced-in-flang-new/91745#post_4)
 <!-- DISCOURSE-LLVM:END -->
