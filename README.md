@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_20)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_4)
-- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713#post_15)
-- [RISC-V LLVM sync-up call Septemer 10th 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-septemer-10th-2026/91780#post_1)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_3)
+- [2026 US LLVM Developers&#39; Meeting - Early Bird Registration Extended!](https://discourse.llvm.org/t/2026-us-llvm-developers-meeting-early-bird-registration-extended/91785#post_1)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_34)
+- [LLVM ABI library support for AArch64](https://discourse.llvm.org/t/llvm-abi-library-support-for-aarch64/91777#post_5)
+- [[RFC] Use the &#39;new&#39; offloding driver for CUDA and HIP compilation by default](https://discourse.llvm.org/t/rfc-use-the-new-offloding-driver-for-cuda-and-hip-compilation-by-default/77468?page=2#post_33)
+- [Remove Ventana Conditional Ops and Veyron V1 Defintion](https://discourse.llvm.org/t/remove-ventana-conditional-ops-and-veyron-v1-defintion/91694#post_4)
 <!-- DISCOURSE-LLVM:END -->
