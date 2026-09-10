@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Modules WG call notes Nov 11 2025](https://discourse.llvm.org/t/modules-wg-call-notes-nov-11-2025/88842#post_5)
+- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713#post_13)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=4#post_71)
 - [[RFC] A stable report format for sanitizers](https://discourse.llvm.org/t/rfc-a-stable-report-format-for-sanitizers/91696#post_2)
 - [Can bots comment on PRs to discourage force pushing?](https://discourse.llvm.org/t/can-bots-comment-on-prs-to-discourage-force-pushing/91669#post_10)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=2#post_30)
-- [LLVM ABI library support for AArch64](https://discourse.llvm.org/t/llvm-abi-library-support-for-aarch64/91777#post_1)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=2#post_29)
 <!-- DISCOURSE-LLVM:END -->
