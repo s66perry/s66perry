@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Reduce `ExternalFileUnit::Emit&lpar;&rpar;` call overhead for formatted sequential output](https://discourse.llvm.org/t/rfc-reduce-externalfileunit-emit-call-overhead-for-formatted-sequential-output/91674#post_2)
-- [[RFC] Building LLVM for WebAssembly](https://discourse.llvm.org/t/rfc-building-llvm-for-webassembly/79073?page=5#post_93)
-- [LLVM ABI library support for AArch64](https://discourse.llvm.org/t/llvm-abi-library-support-for-aarch64/91777#post_2)
-- [RFC: Profile-based block and branch uniformity metadata](https://discourse.llvm.org/t/rfc-profile-based-block-and-branch-uniformity-metadata/91764#post_2)
-- [Modules WG call notes Nov 11 2025](https://discourse.llvm.org/t/modules-wg-call-notes-nov-11-2025/88842#post_5)
+- [[RFC] Introduction of DoubleFreeSanitizer &lpar;DSan&rpar;](https://discourse.llvm.org/t/rfc-introduction-of-doublefreesanitizer-dsan/91363#post_20)
+- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_4)
+- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713#post_15)
+- [RISC-V LLVM sync-up call Septemer 10th 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-septemer-10th-2026/91780#post_1)
+- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_3)
 <!-- DISCOURSE-LLVM:END -->
