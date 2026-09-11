@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC][BOLT] Enabling post-link optimization for stripped ELF binaries](https://discourse.llvm.org/t/rfc-bolt-enabling-post-link-optimization-for-stripped-elf-binaries/91765#post_3)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=4#post_77)
+- [[RFC] InputGen Infrastructure for LLVM GPU Targets](https://discourse.llvm.org/t/rfc-inputgen-infrastructure-for-llvm-gpu-targets/91660#post_3)
 - [[RFC][ClangIR] Making CIR Pipeline Boundaries First-Class Driver Artifacts](https://discourse.llvm.org/t/rfc-clangir-making-cir-pipeline-boundaries-first-class-driver-artifacts/90998#post_8)
 - [[RFC] Add per-function code model attribute](https://discourse.llvm.org/t/rfc-add-per-function-code-model-attribute/91786#post_5)
-- [RFC: Profile-based block and branch uniformity metadata](https://discourse.llvm.org/t/rfc-profile-based-block-and-branch-uniformity-metadata/91764#post_7)
-- [[RFC] LLVM discriminant-tagged `retcon` intrinsic](https://discourse.llvm.org/t/rfc-llvm-discriminant-tagged-retcon-intrinsic/91787#post_1)
-- [[RFC] Add per-function code model attribute](https://discourse.llvm.org/t/rfc-add-per-function-code-model-attribute/91786#post_4)
 <!-- DISCOURSE-LLVM:END -->
