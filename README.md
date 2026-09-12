@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Number of commits a PR can have](https://discourse.llvm.org/t/number-of-commits-a-pr-can-have/91796#post_4)
+- [Improving PR discoverability for aspiring reviewers](https://discourse.llvm.org/t/improving-pr-discoverability-for-aspiring-reviewers/91797#post_4)
 - [LLVM 23.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-23-x-release-third-party-binaries/91408#post_7)
 - [Clang Maintainers&#39; Office Hours](https://discourse.llvm.org/t/clang-maintainers-office-hours/91798#post_4)
 - [Clang Maintainers&#39; Office Hours](https://discourse.llvm.org/t/clang-maintainers-office-hours/91798#post_3)
-- [[RFC] Allow scalar PRE across backedges in GVN](https://discourse.llvm.org/t/rfc-allow-scalar-pre-across-backedges-in-gvn/91791#post_2)
-- [[RFC][ClangIR] Making CIR Pipeline Boundaries First-Class Driver Artifacts](https://discourse.llvm.org/t/rfc-clangir-making-cir-pipeline-boundaries-first-class-driver-artifacts/90998#post_9)
 <!-- DISCOURSE-LLVM:END -->
