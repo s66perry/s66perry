@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Hello from a new contributor! Interested in AArch64 CodeGen &amp; GSoC 2027](https://discourse.llvm.org/t/hello-from-a-new-contributor-interested-in-aarch64-codegen-gsoc-2027/91508#post_2)
+- [Fortnightly LLVM libc math library meeting](https://discourse.llvm.org/t/fortnightly-llvm-libc-math-library-meeting/89166#post_17)
+- [[Volunteer] Finding Software/Compiler Engineer For Open Source AI Compiler](https://discourse.llvm.org/t/volunteer-finding-software-compiler-engineer-for-open-source-ai-compiler/91814#post_1)
+- [Fortnightly LLVM libc math library meeting](https://discourse.llvm.org/t/fortnightly-llvm-libc-math-library-meeting/89166#post_16)
 - [Source Matching and Rewriting in MLIR &lpar;CIR and FIR&rpar;](https://discourse.llvm.org/t/source-matching-and-rewriting-in-mlir-cir-and-fir/91771#post_6)
-- [Source Matching and Rewriting in MLIR &lpar;CIR and FIR&rpar;](https://discourse.llvm.org/t/source-matching-and-rewriting-in-mlir-cir-and-fir/91771#post_5)
-- [Bump UCD-related code to Unicode 18](https://discourse.llvm.org/t/bump-ucd-related-code-to-unicode-18/91812#post_1)
-- [RFC Basic Sample Support in llvm-profgen](https://discourse.llvm.org/t/rfc-basic-sample-support-in-llvm-profgen/91782#post_6)
-- [Why does the PCM contain implementation details?](https://discourse.llvm.org/t/why-does-the-pcm-contain-implementation-details/91811#post_1)
 <!-- DISCOURSE-LLVM:END -->
