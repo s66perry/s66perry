@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Vector scaled contraction](https://discourse.llvm.org/t/rfc-vector-scaled-contraction/91822#post_1)
-- [RFC Basic Sample Support in llvm-profgen](https://discourse.llvm.org/t/rfc-basic-sample-support-in-llvm-profgen/91782#post_7)
-- [[RFC] ThreadSanitizer support for Linux SPARC64](https://discourse.llvm.org/t/rfc-threadsanitizer-support-for-linux-sparc64/91821#post_2)
-- [[RFC] ThreadSanitizer support for Linux SPARC64](https://discourse.llvm.org/t/rfc-threadsanitizer-support-for-linux-sparc64/91821#post_1)
-- [Private or Public headers for non-exported symbols?](https://discourse.llvm.org/t/private-or-public-headers-for-non-exported-symbols/91804#post_2)
+- [Private or Public headers for non-exported symbols?](https://discourse.llvm.org/t/private-or-public-headers-for-non-exported-symbols/91804#post_4)
+- [[RFC] Add a conditional no_unique_address attribute](https://discourse.llvm.org/t/rfc-add-a-conditional-no-unique-address-attribute/91530#post_19)
+- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_11)
+- [[RFC] Add a conditional no_unique_address attribute](https://discourse.llvm.org/t/rfc-add-a-conditional-no-unique-address-attribute/91530#post_18)
+- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_10)
 <!-- DISCOURSE-LLVM:END -->
