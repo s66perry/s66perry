@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #663, September 14th 2026](https://discourse.llvm.org/t/llvm-weekly-663-september-14th-2026/91824#post_1)
-- [[RFC] LLVM discriminant-tagged `retcon` intrinsic](https://discourse.llvm.org/t/rfc-llvm-discriminant-tagged-retcon-intrinsic/91787#post_3)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_7)
-- [Shared llvm-libc with a dynamic loader, running a self-hosting Gentoo system](https://discourse.llvm.org/t/shared-llvm-libc-with-a-dynamic-loader-running-a-self-hosting-gentoo-system/91817#post_4)
-- [Shared llvm-libc with a dynamic loader, running a self-hosting Gentoo system](https://discourse.llvm.org/t/shared-llvm-libc-with-a-dynamic-loader-running-a-self-hosting-gentoo-system/91817#post_3)
+- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579#post_19)
+- [[RFC] libc hooks and API for modular dynamic loader integration](https://discourse.llvm.org/t/rfc-libc-hooks-and-api-for-modular-dynamic-loader-integration/91825#post_2)
+- [[RFC] libc hooks and API for modular dynamic loader integration](https://discourse.llvm.org/t/rfc-libc-hooks-and-api-for-modular-dynamic-loader-integration/91825#post_1)
+- [Shared llvm-libc with a dynamic loader, running a self-hosting Gentoo system](https://discourse.llvm.org/t/shared-llvm-libc-with-a-dynamic-loader-running-a-self-hosting-gentoo-system/91817#post_5)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=5#post_93)
 <!-- DISCOURSE-LLVM:END -->
