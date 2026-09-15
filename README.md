@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Vector scaled contraction](https://discourse.llvm.org/t/rfc-vector-scaled-contraction/91822#post_4)
-- [[RFC] Vector scaled contraction](https://discourse.llvm.org/t/rfc-vector-scaled-contraction/91822#post_3)
-- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591?page=2#post_29)
-- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=5#post_94)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_10)
+- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_13)
+- [[RFC] A set of requirements for one LLVM libc dynamic loader for Linux](https://discourse.llvm.org/t/rfc-a-set-of-requirements-for-one-llvm-libc-dynamic-loader-for-linux/91826#post_3)
+- [RFC: Commit Access Criteria](https://discourse.llvm.org/t/rfc-commit-access-criteria/84073?page=6#post_112)
+- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_12)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=5#post_95)
 <!-- DISCOURSE-LLVM:END -->
