@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_19)
-- [Make RegAllocFast consume MachineIR in SSA form](https://discourse.llvm.org/t/make-regallocfast-consume-machineir-in-ssa-form/91607#post_16)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_18)
-- [RFC: ConstantData should not have use-lists](https://discourse.llvm.org/t/rfc-constantdata-should-not-have-use-lists/42606#post_13)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_17)
+- [[RFC] Transformation support for linalg.pack/linalg.unpack on memrefs](https://discourse.llvm.org/t/rfc-transformation-support-for-linalg-pack-linalg-unpack-on-memrefs/91832#post_1)
+- [RFC: Raising minimum required CMake version to 3.31](https://discourse.llvm.org/t/rfc-raising-minimum-required-cmake-version-to-3-31/91086#post_8)
+- [[RFC] Create a --filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91216#post_17)
+- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754#post_20)
+- [Why does __builtin_choose_expr&lpar;&rpar; have to evaluate the unselected expression?](https://discourse.llvm.org/t/why-does-builtin-choose-expr-have-to-evaluate-the-unselected-expression/91831#post_2)
 <!-- DISCOURSE-LLVM:END -->
