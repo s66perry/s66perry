@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_41)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754?page=2#post_22)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=2#post_40)
-- [RFC: Raising minimum required CMake version to 3.31](https://discourse.llvm.org/t/rfc-raising-minimum-required-cmake-version-to-3-31/91086#post_9)
-- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754?page=2#post_21)
+- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966#post_20)
+- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713?page=2#post_23)
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_2)
+- [[RFC] Transformation support for linalg.pack/linalg.unpack on memrefs](https://discourse.llvm.org/t/rfc-transformation-support-for-linalg-pack-linalg-unpack-on-memrefs/91832#post_5)
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_1)
 <!-- DISCOURSE-LLVM:END -->
