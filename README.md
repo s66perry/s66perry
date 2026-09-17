@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_8)
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_7)
+- [[Question] Adding a new compile time check to Semantics/check-io.cpp](https://discourse.llvm.org/t/question-adding-a-new-compile-time-check-to-semantics-check-io-cpp/91851#post_1)
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_6)
 - [[RFC] Handling Multiple Encoding Families For Mips](https://discourse.llvm.org/t/rfc-handling-multiple-encoding-families-for-mips/91848#post_5)
-- [[RFC] Handling Multiple Encoding Families For Mips](https://discourse.llvm.org/t/rfc-handling-multiple-encoding-families-for-mips/91848#post_4)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_43)
-- [[RFC] Handling Multiple Encoding Families For Mips](https://discourse.llvm.org/t/rfc-handling-multiple-encoding-families-for-mips/91848#post_3)
-- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_5)
 <!-- DISCOURSE-LLVM:END -->
