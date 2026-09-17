@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Replacement CLI library for LLVM and tools](https://discourse.llvm.org/t/rfc-replacement-cli-library-for-llvm-and-tools/91841#post_6)
-- [[RFC] Vector scaled contraction](https://discourse.llvm.org/t/rfc-vector-scaled-contraction/91822#post_5)
-- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_12)
-- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966?page=2#post_23)
-- [[RFC] MLIR buildbot with expensive pattern checks enabled](https://discourse.llvm.org/t/rfc-mlir-buildbot-with-expensive-pattern-checks-enabled/91567#post_8)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_42)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_11)
+- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_10)
+- [[RFC][BOLT][Tracing] BRay: Extending BOLT Instrumentation for Post-Link Execution Tracing](https://discourse.llvm.org/t/rfc-bolt-tracing-bray-extending-bolt-instrumentation-for-post-link-execution-tracing/91844#post_2)
+- [[RFC][BOLT][Tracing] BRay: Extending BOLT Instrumentation for Post-Link Execution Tracing](https://discourse.llvm.org/t/rfc-bolt-tracing-bray-extending-bolt-instrumentation-for-post-link-execution-tracing/91844#post_1)
 <!-- DISCOURSE-LLVM:END -->
