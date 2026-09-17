@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Extending GVN&#39;s loop-load PRE](https://discourse.llvm.org/t/rfc-extending-gvns-loop-load-pre/91740#post_10)
-- [RFC: Extending GVN&#39;s loop-load PRE](https://discourse.llvm.org/t/rfc-extending-gvns-loop-load-pre/91740#post_9)
-- [Proving safety of preserving tbaa after LICM speculative hoist](https://discourse.llvm.org/t/proving-safety-of-preserving-tbaa-after-licm-speculative-hoist/91237#post_14)
-- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_34)
-- [[RFC] A set of requirements for one LLVM libc dynamic loader for Linux](https://discourse.llvm.org/t/rfc-a-set-of-requirements-for-one-llvm-libc-dynamic-loader-for-linux/91826#post_4)
+- [[RFC] Replacement CLI library for LLVM and tools](https://discourse.llvm.org/t/rfc-replacement-cli-library-for-llvm-and-tools/91841#post_6)
+- [[RFC] Vector scaled contraction](https://discourse.llvm.org/t/rfc-vector-scaled-contraction/91822#post_5)
+- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_12)
+- [[RFC] Function-Local Metadata: IR and API changes](https://discourse.llvm.org/t/rfc-function-local-metadata-ir-and-api-changes/90966?page=2#post_23)
+- [[RFC] MLIR buildbot with expensive pattern checks enabled](https://discourse.llvm.org/t/rfc-mlir-buildbot-with-expensive-pattern-checks-enabled/91567#post_8)
 <!-- DISCOURSE-LLVM:END -->
