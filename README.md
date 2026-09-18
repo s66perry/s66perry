@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Making errno deps less error-prone](https://discourse.llvm.org/t/rfc-making-errno-deps-less-error-prone/91860#post_1)
-- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_10)
-- [[RFC][IR] change i128 datalayout default to match clang](https://discourse.llvm.org/t/rfc-ir-change-i128-datalayout-default-to-match-clang/91604#post_6)
-- [[LoopFusion] Initiating a Cost Model for LoopFusion](https://discourse.llvm.org/t/loopfusion-initiating-a-cost-model-for-loopfusion/91859#post_1)
-- [[ClangIR] Progress Report - August 2026](https://discourse.llvm.org/t/clangir-progress-report-august-2026/91685#post_12)
+- [Windows asynchronous SEH: requirements and LLVM IR semantics](https://discourse.llvm.org/t/windows-asynchronous-seh-requirements-and-llvm-ir-semantics/91854#post_3)
+- [[RFC] Resolving SystemVerilog Net vs. Var and Port Semantics in CIRCT](https://discourse.llvm.org/t/rfc-resolving-systemverilog-net-vs-var-and-port-semantics-in-circt/91861#post_1)
+- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_35)
+- [[RFC] LLVM cost model monitoring tool/infra](https://discourse.llvm.org/t/rfc-llvm-cost-model-monitoring-tool-infra/91840#post_2)
+- [Windows asynchronous SEH: requirements and LLVM IR semantics](https://discourse.llvm.org/t/windows-asynchronous-seh-requirements-and-llvm-ir-semantics/91854#post_2)
 <!-- DISCOURSE-LLVM:END -->
