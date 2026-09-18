@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Replacement CLI library for LLVM and tools](https://discourse.llvm.org/t/rfc-replacement-cli-library-for-llvm-and-tools/91841#post_9)
-- [[RFC] Replacement CLI library for LLVM and tools](https://discourse.llvm.org/t/rfc-replacement-cli-library-for-llvm-and-tools/91841#post_8)
-- [RFC Basic Sample Support in llvm-profgen](https://discourse.llvm.org/t/rfc-basic-sample-support-in-llvm-profgen/91782#post_13)
-- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_13)
-- [[RFC] Create a --filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91216#post_19)
+- [[RFC] Drop explicit -Woverloaded-virtual clang build option](https://discourse.llvm.org/t/rfc-drop-explicit-woverloaded-virtual-clang-build-option/91857#post_1)
+- [[RFC] CopySanitizer &lpar;CSan&rpar;: Detecting unneccessary object copies at runtime](https://discourse.llvm.org/t/rfc-copysanitizer-csan-detecting-unneccessary-object-copies-at-runtime/91038#post_19)
+- [[RFC] Create a --filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91216#post_20)
+- [[RFC] Make expensive API patterns check more fine-granular](https://discourse.llvm.org/t/rfc-make-expensive-api-patterns-check-more-fine-granular/91856#post_5)
+- [[RFC] Make expensive API patterns check more fine-granular](https://discourse.llvm.org/t/rfc-make-expensive-api-patterns-check-more-fine-granular/91856#post_4)
 <!-- DISCOURSE-LLVM:END -->
