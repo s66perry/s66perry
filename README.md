@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Windows asynchronous SEH: requirements and LLVM IR semantics](https://discourse.llvm.org/t/windows-asynchronous-seh-requirements-and-llvm-ir-semantics/91854#post_3)
-- [[RFC] Resolving SystemVerilog Net vs. Var and Port Semantics in CIRCT](https://discourse.llvm.org/t/rfc-resolving-systemverilog-net-vs-var-and-port-semantics-in-circt/91861#post_1)
-- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_35)
-- [[RFC] LLVM cost model monitoring tool/infra](https://discourse.llvm.org/t/rfc-llvm-cost-model-monitoring-tool-infra/91840#post_2)
-- [Windows asynchronous SEH: requirements and LLVM IR semantics](https://discourse.llvm.org/t/windows-asynchronous-seh-requirements-and-llvm-ir-semantics/91854#post_2)
+- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713?page=2#post_28)
+- [[RFC] A stable report format for sanitizers](https://discourse.llvm.org/t/rfc-a-stable-report-format-for-sanitizers/91696#post_5)
+- [Windows asynchronous SEH: requirements and LLVM IR semantics](https://discourse.llvm.org/t/windows-asynchronous-seh-requirements-and-llvm-ir-semantics/91854#post_5)
+- [Windows asynchronous SEH: requirements and LLVM IR semantics](https://discourse.llvm.org/t/windows-asynchronous-seh-requirements-and-llvm-ir-semantics/91854#post_4)
+- [[RFC] LLVM_LINK_LLVM_DYLIB should default to ON on Posix platforms](https://discourse.llvm.org/t/rfc-llvm-link-llvm-dylib-should-default-to-on-on-posix-platforms/85908?page=4#post_75)
 <!-- DISCOURSE-LLVM:END -->
