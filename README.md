@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Nullability analysis ClangTidy](https://discourse.llvm.org/t/rfc-nullability-analysis-clangtidy/91124#post_9)
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_16)
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836#post_15)
 - [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_50)
 - [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_49)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_47)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_46)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_45)
 <!-- DISCOURSE-LLVM:END -->
