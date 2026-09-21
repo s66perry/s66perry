@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Drop explicit -Woverloaded-virtual clang build option](https://discourse.llvm.org/t/rfc-drop-explicit-woverloaded-virtual-clang-build-option/91857#post_5)
-- [[RFC v2] Create a –filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-v2-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91864#post_3)
-- [Using DestinationStyleOpInterface on ops with custom tensor types](https://discourse.llvm.org/t/using-destinationstyleopinterface-on-ops-with-custom-tensor-types/91886#post_2)
-- [Not enough optimization index based loop over vector of char](https://discourse.llvm.org/t/not-enough-optimization-index-based-loop-over-vector-of-char/91872#post_2)
-- [C23 in Clang: intentional deviation from the Standard regarding constexpr declarations?](https://discourse.llvm.org/t/c23-in-clang-intentional-deviation-from-the-standard-regarding-constexpr-declarations/91870#post_6)
+- [RFC: Linux Kernel discusses OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-linux-kernel-discusses-overflowbehaviortypes/90486#post_17)
+- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_7)
+- [LLVM Weekly - #664, September 21st 2026](https://discourse.llvm.org/t/llvm-weekly-664-september-21st-2026/91888#post_1)
+- [[RFC] Drop explicit -Woverloaded-virtual clang build option](https://discourse.llvm.org/t/rfc-drop-explicit-woverloaded-virtual-clang-build-option/91857#post_6)
+- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_16)
 <!-- DISCOURSE-LLVM:END -->
