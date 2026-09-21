@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_2)
-- [Plan to improve ld64.lld performance](https://discourse.llvm.org/t/plan-to-improve-ld64-lld-performance/91715#post_10)
-- [[RFC][Vector] Should vector.transfer_read/transfer_write indices be treated as unsigned/non-negative?](https://discourse.llvm.org/t/rfc-vector-should-vector-transfer-read-transfer-write-indices-be-treated-as-unsigned-non-negative/91869#post_5)
-- [[RFC] Replacement CLI library for LLVM and tools](https://discourse.llvm.org/t/rfc-replacement-cli-library-for-llvm-and-tools/91841#post_12)
-- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_1)
+- [Policy on supporting newer C++ standard in LLVM codebase](https://discourse.llvm.org/t/policy-on-supporting-newer-c-standard-in-llvm-codebase/88114#post_17)
+- [Policy on supporting newer C++ standard in LLVM codebase](https://discourse.llvm.org/t/policy-on-supporting-newer-c-standard-in-llvm-codebase/88114#post_16)
+- [[RFC] Make expensive API patterns check more fine-granular](https://discourse.llvm.org/t/rfc-make-expensive-api-patterns-check-more-fine-granular/91856#post_6)
+- [Problems of converting from C/C++ to MLIR](https://discourse.llvm.org/t/problems-of-converting-from-c-c-to-mlir/90163#post_7)
+- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
