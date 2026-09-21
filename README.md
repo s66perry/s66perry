@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Policy on supporting newer C++ standard in LLVM codebase](https://discourse.llvm.org/t/policy-on-supporting-newer-c-standard-in-llvm-codebase/88114#post_17)
-- [Policy on supporting newer C++ standard in LLVM codebase](https://discourse.llvm.org/t/policy-on-supporting-newer-c-standard-in-llvm-codebase/88114#post_16)
-- [[RFC] Make expensive API patterns check more fine-granular](https://discourse.llvm.org/t/rfc-make-expensive-api-patterns-check-more-fine-granular/91856#post_6)
-- [Problems of converting from C/C++ to MLIR](https://discourse.llvm.org/t/problems-of-converting-from-c-c-to-mlir/90163#post_7)
-- [[RFC] Support --sysroot= for ${arch}-windows-msvc targets](https://discourse.llvm.org/t/rfc-support-sysroot-for-arch-windows-msvc-targets/91650?page=3#post_51)
+- [[RFC] Drop explicit -Woverloaded-virtual clang build option](https://discourse.llvm.org/t/rfc-drop-explicit-woverloaded-virtual-clang-build-option/91857#post_5)
+- [[RFC v2] Create a –filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-v2-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91864#post_3)
+- [Using DestinationStyleOpInterface on ops with custom tensor types](https://discourse.llvm.org/t/using-destinationstyleopinterface-on-ops-with-custom-tensor-types/91886#post_2)
+- [Not enough optimization index based loop over vector of char](https://discourse.llvm.org/t/not-enough-optimization-index-based-loop-over-vector-of-char/91872#post_2)
+- [C23 in Clang: intentional deviation from the Standard regarding constexpr declarations?](https://discourse.llvm.org/t/c23-in-clang-intentional-deviation-from-the-standard-regarding-constexpr-declarations/91870#post_6)
 <!-- DISCOURSE-LLVM:END -->
