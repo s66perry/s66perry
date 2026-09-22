@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_17)
+- [Crash when modifying Lexer unittest](https://discourse.llvm.org/t/crash-when-modifying-lexer-unittest/91900#post_1)
+- [Removing or reducing redundant messages in Integration tests](https://discourse.llvm.org/t/removing-or-reducing-redundant-messages-in-integration-tests/91591#post_5)
+- [Plan to improve ld64.lld performance](https://discourse.llvm.org/t/plan-to-improve-ld64-lld-performance/91715#post_11)
 - [[RFC] Make expensive API patterns check more fine-granular](https://discourse.llvm.org/t/rfc-make-expensive-api-patterns-check-more-fine-granular/91856#post_7)
-- [RFC: Nullability analysis ClangTidy](https://discourse.llvm.org/t/rfc-nullability-analysis-clangtidy/91124#post_10)
-- [RFC: Profile-based block and branch uniformity metadata](https://discourse.llvm.org/t/rfc-profile-based-block-and-branch-uniformity-metadata/91764#post_9)
-- [[RFC] LLVM cost model monitoring tool/infra](https://discourse.llvm.org/t/rfc-llvm-cost-model-monitoring-tool-infra/91840#post_3)
-- [[RFC] RISC-V: a target for software &lpar;interpreted&rpar; rather than hardware &lpar;executed&rpar;](https://discourse.llvm.org/t/rfc-risc-v-a-target-for-software-interpreted-rather-than-hardware-executed/91891#post_4)
 <!-- DISCOURSE-LLVM:END -->
