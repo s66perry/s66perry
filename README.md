@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Drop explicit -Woverloaded-virtual clang build option](https://discourse.llvm.org/t/rfc-drop-explicit-woverloaded-virtual-clang-build-option/91857#post_7)
-- [[RFC] RISC-V: a target for software &lpar;interpreted&rpar; rather than hardware &lpar;executed&rpar;](https://discourse.llvm.org/t/rfc-risc-v-a-target-for-software-interpreted-rather-than-hardware-executed/91891#post_3)
-- [[RFC] RISC-V: a target for software &lpar;interpreted&rpar; rather than hardware &lpar;executed&rpar;](https://discourse.llvm.org/t/rfc-risc-v-a-target-for-software-interpreted-rather-than-hardware-executed/91891#post_2)
-- [LVM 23.1.2 Released!](https://discourse.llvm.org/t/lvm-23-1-2-released/91895#post_1)
-- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_8)
+- [[RFC] Make expensive API patterns check more fine-granular](https://discourse.llvm.org/t/rfc-make-expensive-api-patterns-check-more-fine-granular/91856#post_7)
+- [RFC: Nullability analysis ClangTidy](https://discourse.llvm.org/t/rfc-nullability-analysis-clangtidy/91124#post_10)
+- [RFC: Profile-based block and branch uniformity metadata](https://discourse.llvm.org/t/rfc-profile-based-block-and-branch-uniformity-metadata/91764#post_9)
+- [[RFC] LLVM cost model monitoring tool/infra](https://discourse.llvm.org/t/rfc-llvm-cost-model-monitoring-tool-infra/91840#post_3)
+- [[RFC] RISC-V: a target for software &lpar;interpreted&rpar; rather than hardware &lpar;executed&rpar;](https://discourse.llvm.org/t/rfc-risc-v-a-target-for-software-interpreted-rather-than-hardware-executed/91891#post_4)
 <!-- DISCOURSE-LLVM:END -->
