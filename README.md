@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] LLVM cost model monitoring tool/infra](https://discourse.llvm.org/t/rfc-llvm-cost-model-monitoring-tool-infra/91840#post_4)
-- [[RFC] Make InstCombine not pack logical reductions into undesirable integer types by default](https://discourse.llvm.org/t/rfc-make-instcombine-not-pack-logical-reductions-into-undesirable-integer-types-by-default/91863#post_6)
-- [[RFC] match: a new dialect in between pdl and pdl_interp](https://discourse.llvm.org/t/rfc-match-a-new-dialect-in-between-pdl-and-pdl-interp/91847#post_5)
-- [[RFC][Affine]Add legality-aware unroll-and-jam selection for shared-input reductions](https://discourse.llvm.org/t/rfc-affine-add-legality-aware-unroll-and-jam-selection-for-shared-input-reductions/91906#post_1)
-- [Crash when modifying Lexer unittest](https://discourse.llvm.org/t/crash-when-modifying-lexer-unittest/91900#post_3)
+- [[RFC v2] Create a –filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-v2-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91864#post_9)
+- [[RFC] Fixing CMAKE_SYSTEM_NAME in cross-compiled runtimes builds](https://discourse.llvm.org/t/rfc-fixing-cmake-system-name-in-cross-compiled-runtimes-builds/91897#post_3)
+- [Importing every external const declaration exhausts the shared CTU import budget before path analysis starts](https://discourse.llvm.org/t/importing-every-external-const-declaration-exhausts-the-shared-ctu-import-budget-before-path-analysis-starts/91905#post_3)
+- [How do I propose an optimization for x86 SSE2?](https://discourse.llvm.org/t/how-do-i-propose-an-optimization-for-x86-sse2/91908#post_4)
+- [[RFC] Fixing CMAKE_SYSTEM_NAME in cross-compiled runtimes builds](https://discourse.llvm.org/t/rfc-fixing-cmake-system-name-in-cross-compiled-runtimes-builds/91897#post_2)
 <!-- DISCOURSE-LLVM:END -->
