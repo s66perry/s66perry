@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] GPU wave counts for spill-placement costs](https://discourse.llvm.org/t/rfc-gpu-wave-counts-for-spill-placement-costs/91927#post_1)
-- [[RFC v2] Create a –filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-v2-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91864#post_13)
-- [[RFC][Clang][Coverage] Add opt-in call-continuation counters to source-based coverage](https://discourse.llvm.org/t/rfc-clang-coverage-add-opt-in-call-continuation-counters-to-source-based-coverage/91301#post_4)
-- [Pre-commit CI libcxx failing](https://discourse.llvm.org/t/pre-commit-ci-libcxx-failing/91921#post_2)
-- [RFC: Nullability analysis ClangTidy](https://discourse.llvm.org/t/rfc-nullability-analysis-clangtidy/91124#post_11)
+- [[RFC v2] Create a –filter-requires flag to let callers select lit tests by REQUIRES keyword](https://discourse.llvm.org/t/rfc-v2-create-a-filter-requires-flag-to-let-callers-select-lit-tests-by-requires-keyword/91864#post_14)
+- [[RFC][ClangIR] Making CIR Pipeline Boundaries First-Class Driver Artifacts](https://discourse.llvm.org/t/rfc-clangir-making-cir-pipeline-boundaries-first-class-driver-artifacts/90998#post_12)
+- [[RFC] Implementing &lt;rcu&gt; P2545R4](https://discourse.llvm.org/t/rfc-implementing-rcu-p2545r4/91920#post_2)
+- [[RFC] Support dynamic loading of FeatureModules in clangd](https://discourse.llvm.org/t/rfc-support-dynamic-loading-of-featuremodules-in-clangd/91929#post_3)
+- [[RFC] Support dynamic loading of FeatureModules in clangd](https://discourse.llvm.org/t/rfc-support-dynamic-loading-of-featuremodules-in-clangd/91929#post_2)
 <!-- DISCOURSE-LLVM:END -->
