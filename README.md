@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Problems of converting from C/C++ to MLIR](https://discourse.llvm.org/t/problems-of-converting-from-c-c-to-mlir/90163#post_8)
-- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_9)
-- [[RFC] Add opt-in option for full source paths in offload INFO output](https://discourse.llvm.org/t/rfc-add-opt-in-option-for-full-source-paths-in-offload-info-output/91901#post_4)
-- [[RFC] RISC-V: a target for software &lpar;interpreted&rpar; rather than hardware &lpar;executed&rpar;](https://discourse.llvm.org/t/rfc-risc-v-a-target-for-software-interpreted-rather-than-hardware-executed/91891#post_10)
-- [[RFC] RISC-V: a target for software &lpar;interpreted&rpar; rather than hardware &lpar;executed&rpar;](https://discourse.llvm.org/t/rfc-risc-v-a-target-for-software-interpreted-rather-than-hardware-executed/91891#post_9)
+- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_11)
+- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_10)
+- [Cl::opt&lt;bool&gt; spellings: accept -no-&lt;name&gt;? retire -&lt;name&gt;={0,1,false,true}?](https://discourse.llvm.org/t/cl-opt-bool-spellings-accept-no-name-retire-name-0-1-false-true/91917#post_1)
+- [[RFC] Vector scaled contraction](https://discourse.llvm.org/t/rfc-vector-scaled-contraction/91822#post_6)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_76)
 <!-- DISCOURSE-LLVM:END -->
