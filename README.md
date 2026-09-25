@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_37)
-- [RFC: WebAssembly __externref_t Pointers in Clang and LLVM](https://discourse.llvm.org/t/rfc-webassembly-externref-t-pointers-in-clang-and-llvm/91914#post_2)
-- [[RFC] Implementing &lt;rcu&gt; P2545R4](https://discourse.llvm.org/t/rfc-implementing-rcu-p2545r4/91920#post_3)
-- [CIR to SCF conversion](https://discourse.llvm.org/t/cir-to-scf-conversion/91931#post_2)
-- [[RFC] Function-Boundary Zeroization](https://discourse.llvm.org/t/rfc-function-boundary-zeroization/91693#post_11)
+- [RFC Basic Sample Support in llvm-profgen](https://discourse.llvm.org/t/rfc-basic-sample-support-in-llvm-profgen/91782#post_15)
+- [[RFC] Profile Guided Static Data Partitioning](https://discourse.llvm.org/t/rfc-profile-guided-static-data-partitioning/83744#post_15)
+- [Board Meeting Minutes – Aug 7, 2026](https://discourse.llvm.org/t/board-meeting-minutes-aug-7-2026/91938#post_1)
+- [[RFC] RISC-V: a target for software &lpar;interpreted&rpar; rather than hardware &lpar;executed&rpar;](https://discourse.llvm.org/t/rfc-risc-v-a-target-for-software-interpreted-rather-than-hardware-executed/91891#post_13)
+- [Board Meeting Minutes – June 12, 2026](https://discourse.llvm.org/t/board-meeting-minutes-june-12-2026/91935#post_1)
 <!-- DISCOURSE-LLVM:END -->
