@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [How do I propose an optimization for x86 SSE2?](https://discourse.llvm.org/t/how-do-i-propose-an-optimization-for-x86-sse2/91908#post_5)
-- [[RFC] Replacement CLI library for LLVM and tools](https://discourse.llvm.org/t/rfc-replacement-cli-library-for-llvm-and-tools/91841#post_13)
-- [[RFC][clangd] Support dynamic plugins](https://discourse.llvm.org/t/rfc-clangd-support-dynamic-plugins/91929#post_11)
-- [[RFC][clangd] Support dynamic plugins](https://discourse.llvm.org/t/rfc-clangd-support-dynamic-plugins/91929#post_10)
-- [[RFC] Profile Guided Static Data Partitioning](https://discourse.llvm.org/t/rfc-profile-guided-static-data-partitioning/83744#post_14)
+- [Rethink on approach to low precision FP types](https://discourse.llvm.org/t/rethink-on-approach-to-low-precision-fp-types/82361?page=2#post_37)
+- [RFC: WebAssembly __externref_t Pointers in Clang and LLVM](https://discourse.llvm.org/t/rfc-webassembly-externref-t-pointers-in-clang-and-llvm/91914#post_2)
+- [[RFC] Implementing &lt;rcu&gt; P2545R4](https://discourse.llvm.org/t/rfc-implementing-rcu-p2545r4/91920#post_3)
+- [CIR to SCF conversion](https://discourse.llvm.org/t/cir-to-scf-conversion/91931#post_2)
+- [[RFC] Function-Boundary Zeroization](https://discourse.llvm.org/t/rfc-function-boundary-zeroization/91693#post_11)
 <!-- DISCOURSE-LLVM:END -->
