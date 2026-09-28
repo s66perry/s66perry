@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC][clangd] Support dynamic plugins](https://discourse.llvm.org/t/rfc-clangd-support-dynamic-plugins/91929#post_13)
-- [[RFC][ClangIR] Making CIR Pipeline Boundaries First-Class Driver Artifacts](https://discourse.llvm.org/t/rfc-clangir-making-cir-pipeline-boundaries-first-class-driver-artifacts/90998#post_13)
-- [[RFC] Vector scaled contraction](https://discourse.llvm.org/t/rfc-vector-scaled-contraction/91822#post_7)
-- [[RFC] Proposing an Interactive Fortran Workflow with Flang using Jupyter Notebooks](https://discourse.llvm.org/t/rfc-proposing-an-interactive-fortran-workflow-with-flang-using-jupyter-notebooks/89116#post_8)
-- [[RFC][Affine]Add legality-aware unroll-and-jam selection for shared-input reductions](https://discourse.llvm.org/t/rfc-affine-add-legality-aware-unroll-and-jam-selection-for-shared-input-reductions/91906#post_4)
+- [[GSoC 2026] Expanding API Notes for C++](https://discourse.llvm.org/t/gsoc-2026-expanding-api-notes-for-c/89638#post_18)
+- [RFC: WebAssembly __externref_t Pointers in Clang and LLVM](https://discourse.llvm.org/t/rfc-webassembly-externref-t-pointers-in-clang-and-llvm/91914#post_9)
+- [2026 LLVM Developers&#39; Meeting - Hotel &amp; T-Shirt Size Guarantee Deadlines](https://discourse.llvm.org/t/2026-llvm-developers-meeting-hotel-t-shirt-size-guarantee-deadlines/91946#post_1)
+- [RFC: WebAssembly __externref_t Pointers in Clang and LLVM](https://discourse.llvm.org/t/rfc-webassembly-externref-t-pointers-in-clang-and-llvm/91914#post_8)
+- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
