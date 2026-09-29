@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Stage-aware structural analysis of Arc simulation workloads: initial results and questions](https://discourse.llvm.org/t/stage-aware-structural-analysis-of-arc-simulation-workloads-initial-results-and-questions/91912#post_2)
-- [[RFC] Partial folding for multi-result ops, and one fold shape for every op](https://discourse.llvm.org/t/rfc-partial-folding-for-multi-result-ops-and-one-fold-shape-for-every-op/91954#post_1)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Sep 14 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-sep-14-26-6pm/91686#post_2)
-- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 26 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-26-26-6pm/91953#post_1)
-- [PDX Area September 2026 social](https://discourse.llvm.org/t/pdx-area-september-2026-social/91772#post_2)
+- [[RFC] Partial folding for multi-result ops](https://discourse.llvm.org/t/rfc-partial-folding-for-multi-result-ops/91954#post_4)
+- [[RFC] A Faster, More Reliable Type System for C-languages](https://discourse.llvm.org/t/rfc-a-faster-more-reliable-type-system-for-c-languages/91459#post_12)
+- [[RFC] Partial folding for multi-result ops](https://discourse.llvm.org/t/rfc-partial-folding-for-multi-result-ops/91954#post_3)
+- [[RFC] Experimental Support for BorrowSanitizer](https://discourse.llvm.org/t/rfc-experimental-support-for-borrowsanitizer/90938?page=2#post_23)
+- [[RFC][flang] Version array-section loops when the runtime extent matches the declared extent](https://discourse.llvm.org/t/rfc-flang-version-array-section-loops-when-the-runtime-extent-matches-the-declared-extent/91956#post_3)
 <!-- DISCOURSE-LLVM:END -->
