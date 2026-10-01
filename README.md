@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464#post_20)
-- [[RFC] match: a new dialect in between pdl and pdl_interp](https://discourse.llvm.org/t/rfc-match-a-new-dialect-in-between-pdl-and-pdl-interp/91847#post_9)
-- [[LoopFusion] Initiating a Cost Model for LoopFusion](https://discourse.llvm.org/t/loopfusion-initiating-a-cost-model-for-loopfusion/91859#post_7)
-- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836?page=2#post_27)
-- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836?page=2#post_26)
+- [[RFC] Handling Multiple Encoding Families For Mips](https://discourse.llvm.org/t/rfc-handling-multiple-encoding-families-for-mips/91848#post_12)
+- [[RFC] Handling Multiple Encoding Families For Mips](https://discourse.llvm.org/t/rfc-handling-multiple-encoding-families-for-mips/91848#post_11)
+- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649#post_20)
+- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877#post_20)
+- [CFP - MLIR Meetup 2026](https://discourse.llvm.org/t/cfp-mlir-meetup-2026/91967#post_1)
 <!-- DISCOURSE-LLVM:END -->
