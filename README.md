@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Memory Corruption in LLVM](https://discourse.llvm.org/t/memory-corruption-in-llvm/91962#post_3)
+- [LLVM Bay Area Monthly Meetup &lpar;Mon Oct 26 ‘26 6pm&rpar;](https://discourse.llvm.org/t/llvm-bay-area-monthly-meetup-mon-oct-26-26-6pm/91953#post_2)
+- [Zicfilp func-sig label scheme conventions](https://discourse.llvm.org/t/zicfilp-func-sig-label-scheme-conventions/91949#post_8)
+- [[RFC] Should `vector.transfer_read`/`write` keep `in_bounds`? Measurements on the masking alternative](https://discourse.llvm.org/t/rfc-should-vector-transfer-read-write-keep-in-bounds-measurements-on-the-masking-alternative/91649?page=2#post_21)
 - [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=5#post_98)
-- [Stage-aware structural analysis of Arc simulation workloads: initial results and questions](https://discourse.llvm.org/t/stage-aware-structural-analysis-of-arc-simulation-workloads-initial-results-and-questions/91912#post_4)
-- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579?page=2#post_23)
-- [[RFC] Handling Multiple Encoding Families For Mips](https://discourse.llvm.org/t/rfc-handling-multiple-encoding-families-for-mips/91848#post_12)
-- [[RFC] Handling Multiple Encoding Families For Mips](https://discourse.llvm.org/t/rfc-handling-multiple-encoding-families-for-mips/91848#post_11)
 <!-- DISCOURSE-LLVM:END -->
