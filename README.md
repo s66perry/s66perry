@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [ClangTool how to avoid explicit -I to clang builtin headers](https://discourse.llvm.org/t/clangtool-how-to-avoid-explicit-i-to-clang-builtin-headers/91978#post_5)
-- [ClangTool how to avoid explicit -I to clang builtin headers](https://discourse.llvm.org/t/clangtool-how-to-avoid-explicit-i-to-clang-builtin-headers/91978#post_4)
-- [ClangTool how to avoid explicit -I to clang builtin headers](https://discourse.llvm.org/t/clangtool-how-to-avoid-explicit-i-to-clang-builtin-headers/91978#post_3)
-- [LLVM Lab will be down for maintenance on October 2, 2026 starting from 11:00 PM PDT](https://discourse.llvm.org/t/llvm-lab-will-be-down-for-maintenance-on-october-2-2026-starting-from-11-00-pm-pdt/91975#post_2)
-- [ClangTool how to avoid explicit -I to clang builtin headers](https://discourse.llvm.org/t/clangtool-how-to-avoid-explicit-i-to-clang-builtin-headers/91978#post_2)
+- [[[GUÍA@^Expedia!México Básica]] ¿Cómo hablo con una persona viva en Expedia?](https://discourse.llvm.org/t/guia-expedia-mexico-basica-como-hablo-con-una-persona-viva-en-expedia/92242#post_1)
+- [⁂⁂&lpar;!GuÍa🧿Volaris-México&rpar;¿Cómo hablodirectamente en Volaris?](https://discourse.llvm.org/t/guia-volaris-mexico-como-hablodirectamente-en-volaris/92241#post_1)
+- [【Quick–Response】 Miami Airport Wheelchair Assistance - How to request wheelchair service at miami airport](https://discourse.llvm.org/t/quick-response-miami-airport-wheelchair-assistance-how-to-request-wheelchair-service-at-miami-airport/92239#post_1)
+- [《#GUÍA⁂Expedia⁂Paso¤a¤Paso》 ¿Cómo hablar Expedia en español?](https://discourse.llvm.org/t/guia-expedia-paso-a-paso-como-hablar-expedia-en-espanol/92238#post_1)
+- [[†GUÍA Mexico]¿Cómo puedo hablar con Lufthansa en español?](https://discourse.llvm.org/t/guia-mexico-como-puedo-hablar-con-lufthansa-en-espanol/92237#post_1)
 <!-- DISCOURSE-LLVM:END -->
