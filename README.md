@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[[GUÍA@^Expedia!México Básica]] ¿Cómo hablo con una persona viva en Expedia?](https://discourse.llvm.org/t/guia-expedia-mexico-basica-como-hablo-con-una-persona-viva-en-expedia/92242#post_1)
-- [⁂⁂&lpar;!GuÍa🧿Volaris-México&rpar;¿Cómo hablodirectamente en Volaris?](https://discourse.llvm.org/t/guia-volaris-mexico-como-hablodirectamente-en-volaris/92241#post_1)
-- [【Quick–Response】 Miami Airport Wheelchair Assistance - How to request wheelchair service at miami airport](https://discourse.llvm.org/t/quick-response-miami-airport-wheelchair-assistance-how-to-request-wheelchair-service-at-miami-airport/92239#post_1)
-- [《#GUÍA⁂Expedia⁂Paso¤a¤Paso》 ¿Cómo hablar Expedia en español?](https://discourse.llvm.org/t/guia-expedia-paso-a-paso-como-hablar-expedia-en-espanol/92238#post_1)
-- [[†GUÍA Mexico]¿Cómo puedo hablar con Lufthansa en español?](https://discourse.llvm.org/t/guia-mexico-como-puedo-hablar-con-lufthansa-en-espanol/92237#post_1)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464?page=2#post_24)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464?page=2#post_23)
+- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579?page=2#post_24)
+- [[ClangIR] Progress Report - September 2026](https://discourse.llvm.org/t/clangir-progress-report-september-2026/91947#post_10)
+- [ClangTool how to avoid explicit -I to clang builtin headers](https://discourse.llvm.org/t/clangtool-how-to-avoid-explicit-i-to-clang-builtin-headers/91978#post_5)
 <!-- DISCOURSE-LLVM:END -->
