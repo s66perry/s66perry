@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608?page=2#post_24)
-- [[RFC] Add Xtensa support to lld/ELF &lpar;static linking for embedded targets&rpar;](https://discourse.llvm.org/t/rfc-add-xtensa-support-to-lld-elf-static-linking-for-embedded-targets/91608?page=2#post_23)
-- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579?page=2#post_27)
-- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826?page=2#post_30)
-- [RFC: Reorganize Discord channel order to more navigable](https://discourse.llvm.org/t/rfc-reorganize-discord-channel-order-to-more-navigable/91579?page=2#post_26)
+- [PSA: Project-wide Issue with merging pull requests in the GitHub UI](https://discourse.llvm.org/t/psa-project-wide-issue-with-merging-pull-requests-in-the-github-ui/91974#post_4)
+- [MLIR C/C++ Frontend Working Group &lpar;ClangIR&rpar; [Mon, Oct 5th]](https://discourse.llvm.org/t/mlir-c-c-frontend-working-group-clangir-mon-oct-5th/92409#post_1)
+- [[RFC] Respecting freeze semantics in backends](https://discourse.llvm.org/t/rfc-respecting-freeze-semantics-in-backends/92408#post_1)
+- [[RFC] Proposing an Interactive Fortran Workflow with Flang using Jupyter Notebooks](https://discourse.llvm.org/t/rfc-proposing-an-interactive-fortran-workflow-with-flang-using-jupyter-notebooks/89116#post_9)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
