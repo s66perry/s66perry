@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=2#post_23)
-- [[RFC] Renaming TableGen MIPS Registers to R&lt;#&gt;](https://discourse.llvm.org/t/rfc-renaming-tablegen-mips-registers-to-r/92421#post_5)
-- [[RFC] Renaming TableGen MIPS Registers to R&lt;#&gt;](https://discourse.llvm.org/t/rfc-renaming-tablegen-mips-registers-to-r/92421#post_4)
-- [[RFC] Rewriting debugserver in Swift](https://discourse.llvm.org/t/rfc-rewriting-debugserver-in-swift/92424#post_2)
-- [[RFC] Allow scalar PRE across backedges in GVN](https://discourse.llvm.org/t/rfc-allow-scalar-pre-across-backedges-in-gvn/91791#post_4)
+- [[Question] Do we have any plan to build llvm with C++20?](https://discourse.llvm.org/t/question-do-we-have-any-plan-to-build-llvm-with-c-20/91692#post_12)
+- [PSA: Project-wide Issue with merging pull requests in the GitHub UI](https://discourse.llvm.org/t/psa-project-wide-issue-with-merging-pull-requests-in-the-github-ui/91974#post_13)
+- [Issues with ExplodedNode deduplication &lpar;&quot;caching out&quot;&rpar;](https://discourse.llvm.org/t/issues-with-explodednode-deduplication-caching-out/92433#post_1)
+- [Proposal: an anonymous maintainer workload survey](https://discourse.llvm.org/t/proposal-an-anonymous-maintainer-workload-survey/92425#post_3)
+- [[RFC] Optimizing linkonce_odr functions &lpar;frontend hints, inlining and internal cloning&rpar;](https://discourse.llvm.org/t/rfc-optimizing-linkonce-odr-functions-frontend-hints-inlining-and-internal-cloning/92423#post_9)
 <!-- DISCOURSE-LLVM:END -->
