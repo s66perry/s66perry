@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Optimizing linkonce_odr functions &lpar;frontend hints, inlining and internal cloning&rpar;](https://discourse.llvm.org/t/rfc-optimizing-linkonce-odr-functions-frontend-hints-inlining-and-internal-cloning/92423#post_3)
-- [[RFC] Rewriting debugserver in Swift](https://discourse.llvm.org/t/rfc-rewriting-debugserver-in-swift/92424#post_1)
-- [[RFC] Optimizing linkonce_odr functions &lpar;frontend hints, inlining and internal cloning&rpar;](https://discourse.llvm.org/t/rfc-optimizing-linkonce-odr-functions-frontend-hints-inlining-and-internal-cloning/92423#post_2)
-- [[RFC] Partial folding for multi-result ops](https://discourse.llvm.org/t/rfc-partial-folding-for-multi-result-ops/91954#post_9)
-- [[RFC] Optimizing linkonce_odr functions &lpar;frontend hints, inlining and internal cloning&rpar;](https://discourse.llvm.org/t/rfc-optimizing-linkonce-odr-functions-frontend-hints-inlining-and-internal-cloning/92423#post_1)
+- [PSA: Project-wide Issue with merging pull requests in the GitHub UI](https://discourse.llvm.org/t/psa-project-wide-issue-with-merging-pull-requests-in-the-github-ui/91974#post_12)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414#post_17)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414#post_16)
+- [[RFC] Optimizing linkonce_odr functions &lpar;frontend hints, inlining and internal cloning&rpar;](https://discourse.llvm.org/t/rfc-optimizing-linkonce-odr-functions-frontend-hints-inlining-and-internal-cloning/92423#post_5)
+- [[RFC][IR] change i128 datalayout default to match clang](https://discourse.llvm.org/t/rfc-ir-change-i128-datalayout-default-to-match-clang/91604#post_7)
 <!-- DISCOURSE-LLVM:END -->
