@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [PSA: Project-wide Issue with merging pull requests in the GitHub UI](https://discourse.llvm.org/t/psa-project-wide-issue-with-merging-pull-requests-in-the-github-ui/91974#post_20)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_37)
-- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452#post_7)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=2#post_35)
-- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452#post_6)
+- [[RFC] Decoupling Constraint Collection and Solving in MLIR ValueBounds](https://discourse.llvm.org/t/rfc-decoupling-constraint-collection-and-solving-in-mlir-valuebounds/91884#post_3)
+- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452#post_9)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=2#post_39)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=2#post_38)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=2#post_37)
 <!-- DISCOURSE-LLVM:END -->
