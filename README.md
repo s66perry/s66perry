@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Controlled obsoletion and migration of check and checker names](https://discourse.llvm.org/t/rfc-controlled-obsoletion-and-migration-of-check-and-checker-names/92419#post_2)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=3#post_55)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=3#post_54)
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_2)
-- [[RFC] Profile Guided Static Data Partitioning](https://discourse.llvm.org/t/rfc-profile-guided-static-data-partitioning/83744#post_16)
+- [[RFC] Specify target bitwidth for zeroext/signext](https://discourse.llvm.org/t/rfc-specify-target-bitwidth-for-zeroext-signext/92458#post_5)
+- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_8)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=3#post_59)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=3#post_58)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=3#post_57)
 <!-- DISCOURSE-LLVM:END -->
