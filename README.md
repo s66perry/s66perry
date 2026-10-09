@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Rewriting debugserver in Swift](https://discourse.llvm.org/t/rfc-rewriting-debugserver-in-swift/92424#post_9)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_39)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_38)
-- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_7)
-- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836?page=2#post_37)
+- [[RFC] Controlled obsoletion and migration of check and checker names](https://discourse.llvm.org/t/rfc-controlled-obsoletion-and-migration-of-check-and-checker-names/92419#post_2)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=3#post_55)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=3#post_54)
+- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_2)
+- [[RFC] Profile Guided Static Data Partitioning](https://discourse.llvm.org/t/rfc-profile-guided-static-data-partitioning/83744#post_16)
 <!-- DISCOURSE-LLVM:END -->
