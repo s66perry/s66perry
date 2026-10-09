@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_9)
-- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=2#post_40)
-- [Ordered floating-point reductions on X86: enablement and recurrence-aware costing](https://discourse.llvm.org/t/ordered-floating-point-reductions-on-x86-enablement-and-recurrence-aware-costing/92472#post_2)
-- [[RFC] A new SimplifyCFG fold](https://discourse.llvm.org/t/rfc-a-new-simplifycfg-fold/92475#post_1)
-- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428#post_8)
+- [Fortnightly LLVM libc math library meeting](https://discourse.llvm.org/t/fortnightly-llvm-libc-math-library-meeting/89166?page=2#post_22)
+- [[RFC] Optimizing linkonce_odr functions &lpar;frontend hints, inlining and internal cloning&rpar;](https://discourse.llvm.org/t/rfc-optimizing-linkonce-odr-functions-frontend-hints-inlining-and-internal-cloning/92423#post_14)
+- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452?page=2#post_29)
+- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452?page=2#post_28)
+- [[RFC] Renesas SuperH Backend](https://discourse.llvm.org/t/rfc-renesas-superh-backend/91836?page=2#post_38)
 <!-- DISCOURSE-LLVM:END -->
