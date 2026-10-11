@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 23.X Release Third-Party Binaries](https://discourse.llvm.org/t/llvm-23-x-release-third-party-binaries/91408#post_9)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_70)
-- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452?page=2#post_31)
-- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452?page=2#post_30)
-- [Tiling and Fusion of a Gather loop and its Producer](https://discourse.llvm.org/t/tiling-and-fusion-of-a-gather-loop-and-its-producer/92481#post_1)
+- [[RFC] Extending Support for `-fsanitize=shadow-call-stack` in RISC-V](https://discourse.llvm.org/t/rfc-extending-support-for-fsanitize-shadow-call-stack-in-risc-v/92484#post_1)
+- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_11)
+- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452?page=2#post_33)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=6#post_105)
+- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452?page=2#post_32)
 <!-- DISCOURSE-LLVM:END -->
