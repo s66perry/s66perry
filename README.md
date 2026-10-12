@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [New to Open Source — Interested in Contributing to LLVM](https://discourse.llvm.org/t/new-to-open-source-interested-in-contributing-to-llvm/92487#post_2)
-- [New to Open Source — Interested in Contributing to LLVM](https://discourse.llvm.org/t/new-to-open-source-interested-in-contributing-to-llvm/92487#post_1)
-- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_12)
-- [[RFC] Add CIR testing to Clang and MLIR CI](https://discourse.llvm.org/t/rfc-add-cir-testing-to-clang-and-mlir-ci/92452?page=2#post_34)
-- [[RFC] Decoupling Constraint Collection and Solving in MLIR ValueBounds](https://discourse.llvm.org/t/rfc-decoupling-constraint-collection-and-solving-in-mlir-valuebounds/91884#post_4)
+- [LLVM 2026 dev conf debug-info round-table](https://discourse.llvm.org/t/llvm-2026-dev-conf-debug-info-round-table/92500#post_4)
+- [[RFC] C++26 compatibilty for llvm::Twine concatenation](https://discourse.llvm.org/t/rfc-c-26-compatibilty-for-llvm-twine-concatenation/92496#post_2)
+- [[RFC][OpenCL] Defined integer &#39;/&#39; and &#39;%&#39;, and non-fatal UBSan reports for them](https://discourse.llvm.org/t/rfc-opencl-defined-integer-and-and-non-fatal-ubsan-reports-for-them/92493#post_5)
+- [[RFC][flang] Version array-section loops when the runtime extent matches the declared extent](https://discourse.llvm.org/t/rfc-flang-version-array-section-loops-when-the-runtime-extent-matches-the-declared-extent/91956#post_10)
+- [[RFC][flang] Version array-section loops when the runtime extent matches the declared extent](https://discourse.llvm.org/t/rfc-flang-version-array-section-loops-when-the-runtime-extent-matches-the-declared-extent/91956#post_9)
 <!-- DISCOURSE-LLVM:END -->
