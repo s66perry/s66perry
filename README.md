@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM 2026 dev conf debug-info round-table](https://discourse.llvm.org/t/llvm-2026-dev-conf-debug-info-round-table/92500#post_4)
-- [[RFC] C++26 compatibilty for llvm::Twine concatenation](https://discourse.llvm.org/t/rfc-c-26-compatibilty-for-llvm-twine-concatenation/92496#post_2)
-- [[RFC][OpenCL] Defined integer &#39;/&#39; and &#39;%&#39;, and non-fatal UBSan reports for them](https://discourse.llvm.org/t/rfc-opencl-defined-integer-and-and-non-fatal-ubsan-reports-for-them/92493#post_5)
-- [[RFC][flang] Version array-section loops when the runtime extent matches the declared extent](https://discourse.llvm.org/t/rfc-flang-version-array-section-loops-when-the-runtime-extent-matches-the-declared-extent/91956#post_10)
-- [[RFC][flang] Version array-section loops when the runtime extent matches the declared extent](https://discourse.llvm.org/t/rfc-flang-version-array-section-loops-when-the-runtime-extent-matches-the-declared-extent/91956#post_9)
+- [[RFC] Generate static data-access profiles from AMD IBS and Intel PEBS samples in llvm-profgen](https://discourse.llvm.org/t/rfc-generate-static-data-access-profiles-from-amd-ibs-and-intel-pebs-samples-in-llvm-profgen/92466#post_2)
+- [Growing an LLDB Language Plugin API](https://discourse.llvm.org/t/growing-an-lldb-language-plugin-api/92504#post_2)
+- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_5)
+- [[RFC][flang] Version array-section loops when the runtime extent matches the declared extent](https://discourse.llvm.org/t/rfc-flang-version-array-section-loops-when-the-runtime-extent-matches-the-declared-extent/91956#post_11)
+- [LLVM Weekly - #667, October 12th 2026](https://discourse.llvm.org/t/llvm-weekly-667-october-12th-2026/92505#post_1)
 <!-- DISCOURSE-LLVM:END -->
