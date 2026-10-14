@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_9)
-- [RFC: extend LIBOMPTARGET_INFO functionality to allow verbosity control](https://discourse.llvm.org/t/rfc-extend-libomptarget-info-functionality-to-allow-verbosity-control/92522#post_1)
-- [Community Design Review meeting: Pattern Matching &lpar;WG21 P2688&rpar;](https://discourse.llvm.org/t/community-design-review-meeting-pattern-matching-wg21-p2688/92417#post_3)
-- [Community Design Review meeting: Pattern Matching &lpar;WG21 P2688&rpar;](https://discourse.llvm.org/t/community-design-review-meeting-pattern-matching-wg21-p2688/92417#post_2)
-- [RFC: Adding `fpconvert` as a generalization of `fpext` and `fptrunc`](https://discourse.llvm.org/t/rfc-adding-fpconvert-as-a-generalization-of-fpext-and-fptrunc/92514#post_6)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=3#post_44)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_80)
+- [[RFC] Forming a Massive Binaries Working Group in LLD](https://discourse.llvm.org/t/rfc-forming-a-massive-binaries-working-group-in-lld/91031?page=3#post_43)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_79)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_78)
 <!-- DISCOURSE-LLVM:END -->
