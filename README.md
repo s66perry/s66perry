@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877?page=2#post_24)
-- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_14)
-- [RFC: Compiler directives defined by plugins](https://discourse.llvm.org/t/rfc-compiler-directives-defined-by-plugins/92431#post_5)
-- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_13)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_76)
+- [RFC: Adding `fpconvert` as a generalization of `fpext` and `fptrunc`](https://discourse.llvm.org/t/rfc-adding-fpconvert-as-a-generalization-of-fpext-and-fptrunc/92514#post_5)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_77)
+- [RFC: Adding `fpconvert` as a generalization of `fpext` and `fptrunc`](https://discourse.llvm.org/t/rfc-adding-fpconvert-as-a-generalization-of-fpext-and-fptrunc/92514#post_4)
+- [[RFC][Clang-repl] Adding HIP support in clang-repl and making it generic for any language to be added in future](https://discourse.llvm.org/t/rfc-clang-repl-adding-hip-support-in-clang-repl-and-making-it-generic-for-any-language-to-be-added-in-future/92415#post_4)
+- [[RFC][AArch64] HBC Optimization Based on CSSPGO](https://discourse.llvm.org/t/rfc-aarch64-hbc-optimization-based-on-csspgo/92520#post_1)
 <!-- DISCOURSE-LLVM:END -->
