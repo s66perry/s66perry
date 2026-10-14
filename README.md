@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Growing an LLDB Language Plugin API](https://discourse.llvm.org/t/growing-an-lldb-language-plugin-api/92504#post_7)
-- [[RFC][flang] Version array-section loops when the runtime extent matches the declared extent](https://discourse.llvm.org/t/rfc-flang-version-array-section-loops-when-the-runtime-extent-matches-the-declared-extent/91956#post_13)
-- [RFC: Adding `fpconvert` as a generalization of `fpext` and `fptrunc`](https://discourse.llvm.org/t/rfc-adding-fpconvert-as-a-generalization-of-fpext-and-fptrunc/92514#post_3)
-- [RFC: Adding `fpconvert` as a generalization of `fpext` and `fptrunc`](https://discourse.llvm.org/t/rfc-adding-fpconvert-as-a-generalization-of-fpext-and-fptrunc/92514#post_2)
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_6)
+- [RFC: Improve the cross-platform compatibility and security of the `llvm/utils/update_test_body.py` script](https://discourse.llvm.org/t/rfc-improve-the-cross-platform-compatibility-and-security-of-the-llvm-utils-update-test-body-py-script/92516#post_1)
+- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_8)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_73)
+- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_7)
+- [Importing every external const declaration exhausts the shared CTU import budget before path analysis starts](https://discourse.llvm.org/t/importing-every-external-const-declaration-exhausts-the-shared-ctu-import-budget-before-path-analysis-starts/91905#post_8)
 <!-- DISCOURSE-LLVM:END -->
