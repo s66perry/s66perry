@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Improve the cross-platform compatibility and security of the `llvm/utils/update_test_body.py` script](https://discourse.llvm.org/t/rfc-improve-the-cross-platform-compatibility-and-security-of-the-llvm-utils-update-test-body-py-script/92516#post_1)
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_8)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_73)
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_7)
-- [Importing every external const declaration exhausts the shared CTU import budget before path analysis starts](https://discourse.llvm.org/t/importing-every-external-const-declaration-exhausts-the-shared-ctu-import-budget-before-path-analysis-starts/91905#post_8)
+- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877?page=2#post_24)
+- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_14)
+- [RFC: Compiler directives defined by plugins](https://discourse.llvm.org/t/rfc-compiler-directives-defined-by-plugins/92431#post_5)
+- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_13)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=4#post_76)
 <!-- DISCOURSE-LLVM:END -->
