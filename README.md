@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] -fstatic-arena: Clang-assisted per-invocation globals, as a bridge to a global-free LLVM](https://discourse.llvm.org/t/rfc-fstatic-arena-clang-assisted-per-invocation-globals-as-a-bridge-to-a-global-free-llvm/92494#post_2)
-- [[LLD, Mach-O] RFC: A Flexible Multipass Algorithm for Branch-Range Extension](https://discourse.llvm.org/t/lld-mach-o-rfc-a-flexible-multipass-algorithm-for-branch-range-extension/92527#post_1)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_83)
-- [[RFC] match: a new dialect in between pdl and pdl_interp](https://discourse.llvm.org/t/rfc-match-a-new-dialect-in-between-pdl-and-pdl-interp/91847#post_12)
-- [[RFC] C++26 compatibilty for llvm::Twine concatenation](https://discourse.llvm.org/t/rfc-c-26-compatibilty-for-llvm-twine-concatenation/92496#post_5)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_86)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=6#post_109)
+- [MachineScheduler: why does the heuristic unconditionally relax the pressure limit by LiveThru?](https://discourse.llvm.org/t/machinescheduler-why-does-the-heuristic-unconditionally-relax-the-pressure-limit-by-livethru/92526#post_2)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=6#post_108)
+- [[RFC][AArch64] HBC Optimization Based on CSSPGO](https://discourse.llvm.org/t/rfc-aarch64-hbc-optimization-based-on-csspgo/92520#post_3)
 <!-- DISCOURSE-LLVM:END -->
