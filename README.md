@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Declare library command line options in TableGen, one struct per library](https://discourse.llvm.org/t/rfc-declare-library-command-line-options-in-tablegen-one-struct-per-library/91877?page=2#post_27)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_82)
-- [MachineScheduler: why does the heuristic unconditionally relax the pressure limit by LiveThru?](https://discourse.llvm.org/t/machinescheduler-why-does-the-heuristic-unconditionally-relax-the-pressure-limit-by-livethru/92526#post_1)
-- [[RFC] [Clang] Use column-major matrix SSA in every language mode](https://discourse.llvm.org/t/rfc-clang-use-column-major-matrix-ssa-in-every-language-mode/92512#post_2)
-- [[CFP][LLVM-DEV-26] LLVM/Offload Workshop](https://discourse.llvm.org/t/cfp-llvm-dev-26-llvm-offload-workshop/91156#post_3)
+- [[RFC] -fstatic-arena: Clang-assisted per-invocation globals, as a bridge to a global-free LLVM](https://discourse.llvm.org/t/rfc-fstatic-arena-clang-assisted-per-invocation-globals-as-a-bridge-to-a-global-free-llvm/92494#post_2)
+- [[LLD, Mach-O] RFC: A Flexible Multipass Algorithm for Branch-Range Extension](https://discourse.llvm.org/t/lld-mach-o-rfc-a-flexible-multipass-algorithm-for-branch-range-extension/92527#post_1)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_83)
+- [[RFC] match: a new dialect in between pdl and pdl_interp](https://discourse.llvm.org/t/rfc-match-a-new-dialect-in-between-pdl-and-pdl-interp/91847#post_12)
+- [[RFC] C++26 compatibilty for llvm::Twine concatenation](https://discourse.llvm.org/t/rfc-c-26-compatibilty-for-llvm-twine-concatenation/92496#post_5)
 <!-- DISCOURSE-LLVM:END -->
