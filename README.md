@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Rework floating-point analysis for ppc_fp128 &lpar;PPCDoubleDouble&rpar;](https://discourse.llvm.org/t/rfc-rework-floating-point-analysis-for-ppc-fp128-ppcdoubledouble/92540#post_1)
+- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_12)
+- [A web-based matcher for checking how often an IR pattern occurs in real code](https://discourse.llvm.org/t/a-web-based-matcher-for-checking-how-often-an-ir-pattern-occurs-in-real-code/92539#post_1)
+- [RFC: HexFloat floating-point support](https://discourse.llvm.org/t/rfc-hexfloat-floating-point-support/75833?page=3#post_49)
 - [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_19)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_91)
-- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_18)
-- [Address Sanitizer and static linking](https://discourse.llvm.org/t/address-sanitizer-and-static-linking/92537#post_2)
-- [[RFC] Reducing release note merge conflicts with per-change fragments](https://discourse.llvm.org/t/rfc-reducing-release-note-merge-conflicts-with-per-change-fragments/92533#post_9)
 <!-- DISCOURSE-LLVM:END -->
