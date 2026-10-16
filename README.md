@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_88)
-- [[RFC][AArch64] HBC Optimization Based on CSSPGO](https://discourse.llvm.org/t/rfc-aarch64-hbc-optimization-based-on-csspgo/92520#post_5)
-- [MachineScheduler: why does the heuristic unconditionally relax the pressure limit by LiveThru?](https://discourse.llvm.org/t/machinescheduler-why-does-the-heuristic-unconditionally-relax-the-pressure-limit-by-livethru/92526#post_3)
-- [[RFC] Add widening multiply libcalls to RuntimeLibcalls](https://discourse.llvm.org/t/rfc-add-widening-multiply-libcalls-to-runtimelibcalls/92509#post_5)
-- [RFC: Scalable Static Analysis Framework](https://discourse.llvm.org/t/rfc-scalable-static-analysis-framework/88678#post_18)
+- [[LoadStoreVectorizer] CPU store-packing opportunities and default pipeline scheduling](https://discourse.llvm.org/t/loadstorevectorizer-cpu-store-packing-opportunities-and-default-pipeline-scheduling/92536#post_1)
+- [[LoadStoreVectorizer] Seeking feedback on CPU store packing and X86 pipeline placement](https://discourse.llvm.org/t/loadstorevectorizer-seeking-feedback-on-cpu-store-packing-and-x86-pipeline-placement/92535#post_1)
+- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_7)
+- [[RFC] Reducing release note merge conflicts with per-change fragments](https://discourse.llvm.org/t/rfc-reducing-release-note-merge-conflicts-with-per-change-fragments/92533#post_1)
+- [[please ignore it][analyzer] bugfix: Reject non-symbolic iterator offsets](https://discourse.llvm.org/t/please-ignore-it-analyzer-bugfix-reject-non-symbolic-iterator-offsets/92532#post_3)
 <!-- DISCOURSE-LLVM:END -->
