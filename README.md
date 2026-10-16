@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLD, Mach-O] RFC: A Flexible Multipass Algorithm for Branch-Range Extension](https://discourse.llvm.org/t/lld-mach-o-rfc-a-flexible-multipass-algorithm-for-branch-range-extension/92527#post_2)
-- [[CfP] 2026 LLVM Memory Safety Workshop](https://discourse.llvm.org/t/cfp-2026-llvm-memory-safety-workshop/92531#post_1)
-- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_6)
-- [[RFC] Add widening multiply libcalls to RuntimeLibcalls](https://discourse.llvm.org/t/rfc-add-widening-multiply-libcalls-to-runtimelibcalls/92509#post_4)
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_12)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_88)
+- [[RFC][AArch64] HBC Optimization Based on CSSPGO](https://discourse.llvm.org/t/rfc-aarch64-hbc-optimization-based-on-csspgo/92520#post_5)
+- [MachineScheduler: why does the heuristic unconditionally relax the pressure limit by LiveThru?](https://discourse.llvm.org/t/machinescheduler-why-does-the-heuristic-unconditionally-relax-the-pressure-limit-by-livethru/92526#post_3)
+- [[RFC] Add widening multiply libcalls to RuntimeLibcalls](https://discourse.llvm.org/t/rfc-add-widening-multiply-libcalls-to-runtimelibcalls/92509#post_5)
+- [RFC: Scalable Static Analysis Framework](https://discourse.llvm.org/t/rfc-scalable-static-analysis-framework/88678#post_18)
 <!-- DISCOURSE-LLVM:END -->
