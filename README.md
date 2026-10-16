@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LoadStoreVectorizer] CPU store-packing opportunities and default pipeline scheduling](https://discourse.llvm.org/t/loadstorevectorizer-cpu-store-packing-opportunities-and-default-pipeline-scheduling/92536#post_1)
-- [[LoadStoreVectorizer] Seeking feedback on CPU store packing and X86 pipeline placement](https://discourse.llvm.org/t/loadstorevectorizer-seeking-feedback-on-cpu-store-packing-and-x86-pipeline-placement/92535#post_1)
-- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_7)
-- [[RFC] Reducing release note merge conflicts with per-change fragments](https://discourse.llvm.org/t/rfc-reducing-release-note-merge-conflicts-with-per-change-fragments/92533#post_1)
-- [[please ignore it][analyzer] bugfix: Reject non-symbolic iterator offsets](https://discourse.llvm.org/t/please-ignore-it-analyzer-bugfix-reject-non-symbolic-iterator-offsets/92532#post_3)
+- [Growing an LLDB Language Plugin API](https://discourse.llvm.org/t/growing-an-lldb-language-plugin-api/92504#post_10)
+- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_11)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_90)
+- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_10)
+- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_17)
 <!-- DISCOURSE-LLVM:END -->
