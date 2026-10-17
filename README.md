@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [RFC: Improve the cross-platform compatibility and security of the `llvm/utils/update_test_body.py` script](https://discourse.llvm.org/t/rfc-improve-the-cross-platform-compatibility-and-security-of-the-llvm-utils-update-test-body-py-script/92516#post_8)
+- [A web-based matcher for checking how often an IR pattern occurs in real code](https://discourse.llvm.org/t/a-web-based-matcher-for-checking-how-often-an-ir-pattern-occurs-in-real-code/92539#post_3)
+- [A web-based matcher for checking how often an IR pattern occurs in real code](https://discourse.llvm.org/t/a-web-based-matcher-for-checking-how-often-an-ir-pattern-occurs-in-real-code/92539#post_2)
 - [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_15)
 - [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_14)
-- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_13)
-- [RFC: Rework floating-point analysis for ppc_fp128 &lpar;PPCDoubleDouble&rpar;](https://discourse.llvm.org/t/rfc-rework-floating-point-analysis-for-ppc-fp128-ppcdoubledouble/92540#post_1)
-- [[RFC] Port to Haiku](https://discourse.llvm.org/t/rfc-port-to-haiku/91321#post_12)
 <!-- DISCOURSE-LLVM:END -->
