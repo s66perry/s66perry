@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Question on permutation maps vs masking in rank-reducing vectorization &lpar;Ref: PR #226490&rpar;](https://discourse.llvm.org/t/question-on-permutation-maps-vs-masking-in-rank-reducing-vectorization-ref-pr-226490/92542#post_3)
+- [Address Sanitizer and static linking](https://discourse.llvm.org/t/address-sanitizer-and-static-linking/92537#post_3)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=5#post_95)
 - [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460?page=2#post_22)
 - [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460?page=2#post_21)
-- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460#post_20)
-- [A web-based matcher for checking how often an IR pattern occurs in real code](https://discourse.llvm.org/t/a-web-based-matcher-for-checking-how-often-an-ir-pattern-occurs-in-real-code/92539#post_4)
-- [[RFC] Reducing release note merge conflicts with per-change fragments](https://discourse.llvm.org/t/rfc-reducing-release-note-merge-conflicts-with-per-change-fragments/92533#post_14)
 <!-- DISCOURSE-LLVM:END -->
