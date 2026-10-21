@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Removing GUI mode](https://discourse.llvm.org/t/rfc-removing-gui-mode/92570#post_2)
-- [CFP - MLIR Meetup 2026](https://discourse.llvm.org/t/cfp-mlir-meetup-2026/91967#post_2)
-- [[RFC][OpenCL] Defined integer &#39;/&#39; and &#39;%&#39;, and non-fatal UBSan reports for them](https://discourse.llvm.org/t/rfc-opencl-defined-integer-and-and-non-fatal-ubsan-reports-for-them/92493#post_13)
-- [[RFC] Removing GUI mode](https://discourse.llvm.org/t/rfc-removing-gui-mode/92570#post_1)
-- [The LLDB Flakey Test Situation](https://discourse.llvm.org/t/the-lldb-flakey-test-situation/92550#post_19)
+- [RISC-V LLVM sync-up call October 22nd 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-october-22nd-2026/92575#post_3)
+- [RISC-V LLVM sync-up call October 22nd 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-october-22nd-2026/92575#post_2)
+- [RISC-V LLVM sync-up call October 22nd 2026](https://discourse.llvm.org/t/risc-v-llvm-sync-up-call-october-22nd-2026/92575#post_1)
+- [[RFC] Extending Support for `-fsanitize=shadow-call-stack` in RISC-V](https://discourse.llvm.org/t/rfc-extending-support-for-fsanitize-shadow-call-stack-in-risc-v/92484#post_5)
+- [RFC Basic Sample Support in llvm-profgen](https://discourse.llvm.org/t/rfc-basic-sample-support-in-llvm-profgen/91782#post_18)
 <!-- DISCOURSE-LLVM:END -->
