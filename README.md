@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLD, Mach-O] RFC: A Flexible Multipass Algorithm for Branch-Range Extension](https://discourse.llvm.org/t/lld-mach-o-rfc-a-flexible-multipass-algorithm-for-branch-range-extension/92527#post_4)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_79)
-- [RFC: Spatial Safety Mode for C++ &lpar;-fspatial-safety&rpar;](https://discourse.llvm.org/t/rfc-spatial-safety-mode-for-c-fspatial-safety/92577#post_3)
-- [How to update lldb.llvm.org website?](https://discourse.llvm.org/t/how-to-update-lldb-llvm-org-website/92580#post_4)
-- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460?page=2#post_23)
+- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_20)
+- [Issue with buildbot scheduling builds](https://discourse.llvm.org/t/issue-with-buildbot-scheduling-builds/92583#post_1)
+- [[RFC] Removing GUI mode](https://discourse.llvm.org/t/rfc-removing-gui-mode/92570#post_6)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_22)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_21)
 <!-- DISCOURSE-LLVM:END -->
