@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Enabling bulk transfer for endian-converted unformatted I/O](https://discourse.llvm.org/t/rfc-enabling-bulk-transfer-for-endian-converted-unformatted-i-o/92581#post_2)
-- [[RFC] Removing GUI mode](https://discourse.llvm.org/t/rfc-removing-gui-mode/92570#post_5)
-- [How to update lldb.llvm.org website?](https://discourse.llvm.org/t/how-to-update-lldb-llvm-org-website/92580#post_3)
-- [[RFC] Enabling bulk transfer for endian-converted unformatted I/O](https://discourse.llvm.org/t/rfc-enabling-bulk-transfer-for-endian-converted-unformatted-i-o/92581#post_1)
-- [[RFC] UHDI: a JSON debug-info document emitted from the Debug dialect](https://discourse.llvm.org/t/rfc-uhdi-a-json-debug-info-document-emitted-from-the-debug-dialect/91690#post_4)
+- [[LLD, Mach-O] RFC: A Flexible Multipass Algorithm for Branch-Range Extension](https://discourse.llvm.org/t/lld-mach-o-rfc-a-flexible-multipass-algorithm-for-branch-range-extension/92527#post_4)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_79)
+- [RFC: Spatial Safety Mode for C++ &lpar;-fspatial-safety&rpar;](https://discourse.llvm.org/t/rfc-spatial-safety-mode-for-c-fspatial-safety/92577#post_3)
+- [How to update lldb.llvm.org website?](https://discourse.llvm.org/t/how-to-update-lldb-llvm-org-website/92580#post_4)
+- [[RFC] Adding Chromium C++ code to CTMark](https://discourse.llvm.org/t/rfc-adding-chromium-c-code-to-ctmark/92460?page=2#post_23)
 <!-- DISCOURSE-LLVM:END -->
