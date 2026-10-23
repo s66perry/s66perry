@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351#post_20)
-- [Issue with buildbot scheduling builds](https://discourse.llvm.org/t/issue-with-buildbot-scheduling-builds/92583#post_1)
-- [[RFC] Removing GUI mode](https://discourse.llvm.org/t/rfc-removing-gui-mode/92570#post_6)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_22)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_21)
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_3)
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_2)
+- [[RFC][LLD] Mixing small and large code models: demote large sections referenced from small code](https://discourse.llvm.org/t/rfc-lld-mixing-small-and-large-code-models-demote-large-sections-referenced-from-small-code/92553#post_7)
+- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464?page=2#post_25)
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_1)
 <!-- DISCOURSE-LLVM:END -->
