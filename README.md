@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_7)
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_6)
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_5)
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_4)
 - [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_3)
-- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_2)
-- [[RFC][LLD] Mixing small and large code models: demote large sections referenced from small code](https://discourse.llvm.org/t/rfc-lld-mixing-small-and-large-code-models-demote-large-sections-referenced-from-small-code/92553#post_7)
-- [[RFC] Removing MCJIT and RuntimeDyld](https://discourse.llvm.org/t/rfc-removing-mcjit-and-runtimedyld/80464?page=2#post_25)
-- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_1)
 <!-- DISCOURSE-LLVM:END -->
