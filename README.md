@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Removing GUI mode](https://discourse.llvm.org/t/rfc-removing-gui-mode/92570#post_7)
-- [[RFC] A set of requirements for one LLVM libc dynamic loader for Linux](https://discourse.llvm.org/t/rfc-a-set-of-requirements-for-one-llvm-libc-dynamic-loader-for-linux/91826#post_6)
-- [[RFC] A set of requirements for one LLVM libc dynamic loader for Linux](https://discourse.llvm.org/t/rfc-a-set-of-requirements-for-one-llvm-libc-dynamic-loader-for-linux/91826#post_5)
-- [Suppress secondary diagnostics for typo correction](https://discourse.llvm.org/t/suppress-secondary-diagnostics-for-typo-correction/56819#post_13)
-- [Issue with buildbot scheduling builds](https://discourse.llvm.org/t/issue-with-buildbot-scheduling-builds/92583#post_2)
+- [[RFC][MATHVEC] Introduce the LLVM&#39;s mathvec library as yet another veclib functions provider](https://discourse.llvm.org/t/rfc-mathvec-introduce-the-llvms-mathvec-library-as-yet-another-veclib-functions-provider/92591#post_5)
+- [[RFC][MATHVEC] Introduce the LLVM&#39;s mathvec library as yet another veclib functions provider](https://discourse.llvm.org/t/rfc-mathvec-introduce-the-llvms-mathvec-library-as-yet-another-veclib-functions-provider/92591#post_4)
+- [[RFC][MATHVEC] Introduce the LLVM&#39;s mathvec library as yet another veclib functions provider](https://discourse.llvm.org/t/rfc-mathvec-introduce-the-llvms-mathvec-library-as-yet-another-veclib-functions-provider/92591#post_3)
+- [[RFC][MATHVEC] Introduce the LLVM&#39;s mathvec library as yet another veclib functions provider](https://discourse.llvm.org/t/rfc-mathvec-introduce-the-llvms-mathvec-library-as-yet-another-veclib-functions-provider/92591#post_2)
+- [[RFC][MATHVEC] Introduce the LLVM&#39;s mathvec library as yet another veclib functions provider](https://discourse.llvm.org/t/rfc-mathvec-introduce-the-llvms-mathvec-library-as-yet-another-veclib-functions-provider/92591#post_1)
 <!-- DISCOURSE-LLVM:END -->
