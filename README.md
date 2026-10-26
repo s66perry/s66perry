@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [New alive2 compiler explorer instance](https://discourse.llvm.org/t/new-alive2-compiler-explorer-instance/92604#post_4)
-- [New alive2 compiler explorer instance](https://discourse.llvm.org/t/new-alive2-compiler-explorer-instance/92604#post_3)
-- [Does TBAA metadata impact data-flow analysis of volatile loads/stores under LangRef rules?](https://discourse.llvm.org/t/does-tbaa-metadata-impact-data-flow-analysis-of-volatile-loads-stores-under-langref-rules/92615#post_1)
-- [[RFC] Overflow &lpar;goto&rpar; handler labels for OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-overflow-goto-handler-labels-for-overflowbehaviortypes/92614#post_1)
-- [[RFC] TableGen-declared optimization remarks, carried to codegen as !remark metadata](https://discourse.llvm.org/t/rfc-tablegen-declared-optimization-remarks-carried-to-codegen-as-remark-metadata/92594#post_2)
+- [Does TBAA metadata impact data-flow analysis of volatile loads/stores under LangRef rules?](https://discourse.llvm.org/t/does-tbaa-metadata-impact-data-flow-analysis-of-volatile-loads-stores-under-langref-rules/92615#post_2)
+- [[RFC] TableGen-declared optimization remarks, carried to codegen as !remark metadata](https://discourse.llvm.org/t/rfc-tablegen-declared-optimization-remarks-carried-to-codegen-as-remark-metadata/92594#post_3)
+- [[RFC][Offload] Introducing AMDGCN-flavored SPIR-V support for OpenMP](https://discourse.llvm.org/t/rfc-offload-introducing-amdgcn-flavored-spir-v-support-for-openmp/92547#post_4)
+- [LLVM Weekly - #669, October 26th 2026](https://discourse.llvm.org/t/llvm-weekly-669-october-26th-2026/92616#post_1)
+- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_9)
 <!-- DISCOURSE-LLVM:END -->
