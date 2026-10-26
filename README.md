@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=6#post_108)
-- [New alive2 compiler explorer instance](https://discourse.llvm.org/t/new-alive2-compiler-explorer-instance/92604#post_1)
-- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_13)
-- [Value Bounds on min&lpar;max&lpar;x, a&rpar;, b&rpar;](https://discourse.llvm.org/t/value-bounds-on-min-max-x-a-b/92602#post_1)
-- [[GSoC 2027] [MLIR] Interested in Improving mlir-reduce for GSOC](https://discourse.llvm.org/t/gsoc-2027-mlir-interested-in-improving-mlir-reduce-for-gsoc/92601#post_1)
+- [Zicfilp func-sig label scheme conventions](https://discourse.llvm.org/t/zicfilp-func-sig-label-scheme-conventions/91949#post_9)
+- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591?page=2#post_31)
+- [[RFC][LLDB] Moving libc++ data-formatters out of LLDB](https://discourse.llvm.org/t/rfc-lldb-moving-libc-data-formatters-out-of-lldb/89591?page=2#post_30)
+- [[RFC] Profile Guided Static Data Partitioning](https://discourse.llvm.org/t/rfc-profile-guided-static-data-partitioning/83744#post_17)
+- [Value Bounds on min&lpar;max&lpar;x, a&rpar;, b&rpar;](https://discourse.llvm.org/t/value-bounds-on-min-max-x-a-b/92602#post_2)
 <!-- DISCOURSE-LLVM:END -->
