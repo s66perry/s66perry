@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM-DEV&#39;26] LLVM :hearts: ML Workshop](https://discourse.llvm.org/t/llvm-dev26-llvm-ml-workshop/91148#post_2)
-- [RFC Basic Sample Support in llvm-profgen](https://discourse.llvm.org/t/rfc-basic-sample-support-in-llvm-profgen/91782#post_19)
-- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_1)
-- [Monthly libc++ meeting](https://discourse.llvm.org/t/monthly-libc-meeting/74150#post_16)
-- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_10)
+- [Is the C API &lpar;llvm-c&rpar; production ready?](https://discourse.llvm.org/t/is-the-c-api-llvm-c-production-ready/92632#post_2)
+- [Is the C API &lpar;llvm-c&rpar; production ready?](https://discourse.llvm.org/t/is-the-c-api-llvm-c-production-ready/92632#post_1)
+- [[RFC] Specify target bitwidth for zeroext/signext](https://discourse.llvm.org/t/rfc-specify-target-bitwidth-for-zeroext-signext/92458#post_8)
+- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_11)
+- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_3)
 <!-- DISCOURSE-LLVM:END -->
