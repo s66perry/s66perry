@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_13)
-- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_12)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=6#post_115)
-- [LLVM Meetup Berlin – 21 May 2026](https://discourse.llvm.org/t/llvm-meetup-berlin-21-may-2026/90817#post_2)
-- [LLVM Meetup Berlin – 29 October 2026](https://discourse.llvm.org/t/llvm-meetup-berlin-29-october-2026/92633#post_1)
+- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_4)
+- [[RFC] Add a freezing memcpy](https://discourse.llvm.org/t/rfc-add-a-freezing-memcpy/92637#post_1)
+- [[RFC] Specify target bitwidth for zeroext/signext](https://discourse.llvm.org/t/rfc-specify-target-bitwidth-for-zeroext-signext/92458#post_10)
+- [[RFC] Specify target bitwidth for zeroext/signext](https://discourse.llvm.org/t/rfc-specify-target-bitwidth-for-zeroext-signext/92458#post_9)
+- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_3)
 <!-- DISCOURSE-LLVM:END -->
