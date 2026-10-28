@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Is the C API &lpar;llvm-c&rpar; production ready?](https://discourse.llvm.org/t/is-the-c-api-llvm-c-production-ready/92632#post_2)
-- [Is the C API &lpar;llvm-c&rpar; production ready?](https://discourse.llvm.org/t/is-the-c-api-llvm-c-production-ready/92632#post_1)
-- [[RFC] Specify target bitwidth for zeroext/signext](https://discourse.llvm.org/t/rfc-specify-target-bitwidth-for-zeroext-signext/92458#post_8)
-- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_11)
-- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_3)
+- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_12)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=6#post_115)
+- [LLVM Meetup Berlin – 21 May 2026](https://discourse.llvm.org/t/llvm-meetup-berlin-21-may-2026/90817#post_2)
+- [LLVM Meetup Berlin – 29 October 2026](https://discourse.llvm.org/t/llvm-meetup-berlin-29-october-2026/92633#post_1)
+- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_4)
 <!-- DISCOURSE-LLVM:END -->
