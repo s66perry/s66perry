@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[LLVM Test Suite] Enabling issues on the repository](https://discourse.llvm.org/t/llvm-test-suite-enabling-issues-on-the-repository/92651#post_1)
-- [Defining LLDB formatters inline for C++](https://discourse.llvm.org/t/defining-lldb-formatters-inline-for-c/92625#post_3)
-- [[RFC] Add a driver option to specify C library header directories](https://discourse.llvm.org/t/rfc-add-a-driver-option-to-specify-c-library-header-directories/92650#post_1)
-- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_6)
-- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_12)
+- [[LLVM Test Suite] Enabling issues on the repository](https://discourse.llvm.org/t/llvm-test-suite-enabling-issues-on-the-repository/92651#post_6)
+- [[RFC] Tree-wide audit of Pure / AlwaysSpeculatable ops with documented UB &lpar;and maybe a TableGen lint?&rpar;](https://discourse.llvm.org/t/rfc-tree-wide-audit-of-pure-alwaysspeculatable-ops-with-documented-ub-and-maybe-a-tablegen-lint/92649#post_2)
+- [[LLVM Test Suite] Enabling issues on the repository](https://discourse.llvm.org/t/llvm-test-suite-enabling-issues-on-the-repository/92651#post_5)
+- [[RFC] TableGen-generated legalizer rules — prototype on X86, looking for a reviewer](https://discourse.llvm.org/t/rfc-tablegen-generated-legalizer-rules-prototype-on-x86-looking-for-a-reviewer/92654#post_2)
+- [How to get LLVMContext from LLVMContextRef?](https://discourse.llvm.org/t/how-to-get-llvmcontext-from-llvmcontextref/92657#post_2)
 <!-- DISCOURSE-LLVM:END -->
