@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Xbox 360 target for LLVM](https://discourse.llvm.org/t/xbox-360-target-for-llvm/92646#post_1)
-- [[RFC] A set of requirements for one LLVM libc dynamic loader for Linux](https://discourse.llvm.org/t/rfc-a-set-of-requirements-for-one-llvm-libc-dynamic-loader-for-linux/91826#post_8)
-- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_5)
-- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=6#post_118)
-- [Does an LTO recompile add information to help with debug?](https://discourse.llvm.org/t/does-an-lto-recompile-add-information-to-help-with-debug/92644#post_2)
+- [[LLVM Test Suite] Enabling issues on the repository](https://discourse.llvm.org/t/llvm-test-suite-enabling-issues-on-the-repository/92651#post_1)
+- [Defining LLDB formatters inline for C++](https://discourse.llvm.org/t/defining-lldb-formatters-inline-for-c/92625#post_3)
+- [[RFC] Add a driver option to specify C library header directories](https://discourse.llvm.org/t/rfc-add-a-driver-option-to-specify-c-library-header-directories/92650#post_1)
+- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_6)
+- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_12)
 <!-- DISCOURSE-LLVM:END -->
