@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_8)
-- [[RFC] TableGen-generated legalizer rules — prototype on X86, looking for a reviewer](https://discourse.llvm.org/t/rfc-tablegen-generated-legalizer-rules-prototype-on-x86-looking-for-a-reviewer/92654#post_3)
-- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_13)
-- [RFC: tail_chaincc - A Maximum-Efficiency Tail Call Convention](https://discourse.llvm.org/t/rfc-tail-chaincc-a-maximum-efficiency-tail-call-convention/92661#post_2)
-- [How to get a PassBuilder instance?](https://discourse.llvm.org/t/how-to-get-a-passbuilder-instance/92660#post_2)
+- [[RFC] Tree-wide audit of Pure / AlwaysSpeculatable ops with documented UB &lpar;and maybe a TableGen lint?&rpar;](https://discourse.llvm.org/t/rfc-tree-wide-audit-of-pure-alwaysspeculatable-ops-with-documented-ub-and-maybe-a-tablegen-lint/92649#post_5)
+- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_7)
+- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_10)
+- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_9)
+- [[RFC] Extending Support for `-fsanitize=shadow-call-stack` in RISC-V](https://discourse.llvm.org/t/rfc-extending-support-for-fsanitize-shadow-call-stack-in-risc-v/92484#post_6)
 <!-- DISCOURSE-LLVM:END -->
