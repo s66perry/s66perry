@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_10)
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_17)
-- [[RFC] Add ITM Data Trace Support to llvm-profgen](https://discourse.llvm.org/t/rfc-add-itm-data-trace-support-to-llvm-profgen/92465#post_16)
-- [Issue with flang-commits](https://discourse.llvm.org/t/issue-with-flang-commits/92669#post_1)
-- [Clarifying the boundaries of AI use for good first issues](https://discourse.llvm.org/t/clarifying-the-boundaries-of-ai-use-for-good-first-issues/92663#post_3)
+- [RFC: Enable ClangIR Build By Default-](https://discourse.llvm.org/t/rfc-enable-clangir-build-by-default/91730?page=6#post_119)
+- [LLVM Dev Meeting 2026 RISC-V Roundtable Notes](https://discourse.llvm.org/t/llvm-dev-meeting-2026-risc-v-roundtable-notes/92659#post_4)
+- [[RFC][torch-mlir] Refresh and modernize PyPI release workflows](https://discourse.llvm.org/t/rfc-torch-mlir-refresh-and-modernize-pypi-release-workflows/91514#post_15)
+- [[RFC] Optimizing linkonce_odr functions &lpar;frontend hints, inlining and internal cloning&rpar;](https://discourse.llvm.org/t/rfc-optimizing-linkonce-odr-functions-frontend-hints-inlining-and-internal-cloning/92423#post_15)
+- [Request for Clarity around methods to preserve metadata through MLIR passes](https://discourse.llvm.org/t/request-for-clarity-around-methods-to-preserve-metadata-through-mlir-passes/92664#post_9)
 <!-- DISCOURSE-LLVM:END -->
