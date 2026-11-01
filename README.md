@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Retain unrecognized C++ `[[attributes]]` in the Clang AST](https://discourse.llvm.org/t/rfc-retain-unrecognized-c-attributes-in-the-clang-ast/91351?page=2#post_22)
-- [[RFC] DWARF CFI validation](https://discourse.llvm.org/t/rfc-dwarf-cfi-validation/86936#post_13)
-- [Clarifying the boundaries of AI use for good first issues](https://discourse.llvm.org/t/clarifying-the-boundaries-of-ai-use-for-good-first-issues/92663#post_8)
-- [[RFC] Extending the MC layer’s semantic information to unblock DWARF CFI validation](https://discourse.llvm.org/t/rfc-extending-the-mc-layer-s-semantic-information-to-unblock-dwarf-cfi-validation/92557#post_2)
-- [Clarifying the boundaries of AI use for good first issues](https://discourse.llvm.org/t/clarifying-the-boundaries-of-ai-use-for-good-first-issues/92663#post_7)
+- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675#post_4)
+- [[RFC] Tree-wide audit of Pure / AlwaysSpeculatable ops with documented UB &lpar;and maybe a TableGen lint?&rpar;](https://discourse.llvm.org/t/rfc-tree-wide-audit-of-pure-alwaysspeculatable-ops-with-documented-ub-and-maybe-a-tablegen-lint/92649#post_12)
+- [Request for Clarity around methods to preserve metadata through MLIR passes](https://discourse.llvm.org/t/request-for-clarity-around-methods-to-preserve-metadata-through-mlir-passes/92664#post_10)
+- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_16)
+- [[mlir][vector][PSA] Disallow pure reduction dims in vector.contract](https://discourse.llvm.org/t/mlir-vector-psa-disallow-pure-reduction-dims-in-vector-contract/92676#post_3)
 <!-- DISCOURSE-LLVM:END -->
