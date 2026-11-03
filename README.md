@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] TableGen-generated legalizer rules — prototype on X86, looking for a reviewer](https://discourse.llvm.org/t/rfc-tablegen-generated-legalizer-rules-prototype-on-x86-looking-for-a-reviewer/92654#post_9)
-- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675#post_17)
-- [[RFC] Add a freezing memcpy](https://discourse.llvm.org/t/rfc-add-a-freezing-memcpy/92637#post_13)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=6#post_119)
-- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_12)
+- [Clarifying &quot;If you have recently been granted commit access, these policies apply&quot;](https://discourse.llvm.org/t/clarifying-if-you-have-recently-been-granted-commit-access-these-policies-apply/92709#post_1)
+- [The LLDB Flakey Test Situation](https://discourse.llvm.org/t/the-lldb-flakey-test-situation/92550?page=2#post_23)
+- [[RFC] Overflow &lpar;goto&rpar; handler labels for OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-overflow-goto-handler-labels-for-overflowbehaviortypes/92614#post_8)
+- [[RFC] Source coverage exclusion markers in llvm-cov](https://discourse.llvm.org/t/rfc-source-coverage-exclusion-markers-in-llvm-cov/91977#post_17)
+- [[RFC] Overflow &lpar;goto&rpar; handler labels for OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-overflow-goto-handler-labels-for-overflowbehaviortypes/92614#post_7)
 <!-- DISCOURSE-LLVM:END -->
