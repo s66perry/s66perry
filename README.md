@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Library layering of Parser and Sema](https://discourse.llvm.org/t/library-layering-of-parser-and-sema/92573#post_3)
-- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675#post_11)
-- [[RFC] Change MIR to use block arguments instead of phis](https://discourse.llvm.org/t/rfc-change-mir-to-use-block-arguments-instead-of-phis/91657#post_10)
-- [LLVM Embedded Toolchains Working Group call this Thursday, Nov 5](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-nov-5/92691#post_1)
-- [Library layering of Parser and Sema](https://discourse.llvm.org/t/library-layering-of-parser-and-sema/92573#post_2)
+- [Graphite will be disabled ASAP](https://discourse.llvm.org/t/graphite-will-be-disabled-asap/92689#post_4)
+- [Graphite will be disabled ASAP](https://discourse.llvm.org/t/graphite-will-be-disabled-asap/92689#post_3)
+- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_18)
+- [[RFC][lldb-dap] DAP extension to support breakpoint locations](https://discourse.llvm.org/t/rfc-lldb-dap-dap-extension-to-support-breakpoint-locations/92693#post_5)
+- [[RFC] Symbolic Predicate Tracking for Enhanced Array Bounds Checking](https://discourse.llvm.org/t/rfc-symbolic-predicate-tracking-for-enhanced-array-bounds-checking/92611#post_2)
 <!-- DISCOURSE-LLVM:END -->
