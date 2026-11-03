@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Graphite will be disabled ASAP](https://discourse.llvm.org/t/graphite-will-be-disabled-asap/92689#post_4)
-- [Graphite will be disabled ASAP](https://discourse.llvm.org/t/graphite-will-be-disabled-asap/92689#post_3)
-- [UB Op Semantics of `arith` Integer Division / Remainder](https://discourse.llvm.org/t/ub-op-semantics-of-arith-integer-division-remainder/92558#post_18)
-- [[RFC][lldb-dap] DAP extension to support breakpoint locations](https://discourse.llvm.org/t/rfc-lldb-dap-dap-extension-to-support-breakpoint-locations/92693#post_5)
-- [[RFC] Symbolic Predicate Tracking for Enhanced Array Bounds Checking](https://discourse.llvm.org/t/rfc-symbolic-predicate-tracking-for-enhanced-array-bounds-checking/92611#post_2)
+- [[RFC] TableGen-generated legalizer rules — prototype on X86, looking for a reviewer](https://discourse.llvm.org/t/rfc-tablegen-generated-legalizer-rules-prototype-on-x86-looking-for-a-reviewer/92654#post_9)
+- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675#post_17)
+- [[RFC] Add a freezing memcpy](https://discourse.llvm.org/t/rfc-add-a-freezing-memcpy/92637#post_13)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=6#post_119)
+- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_12)
 <!-- DISCOURSE-LLVM:END -->
