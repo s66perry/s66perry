@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Lightweight Conformance Test Traceability for libc++](https://discourse.llvm.org/t/rfc-lightweight-conformance-test-traceability-for-libc/91468#post_6)
-- [[RFC] Change MIR to use block arguments instead of phis](https://discourse.llvm.org/t/rfc-change-mir-to-use-block-arguments-instead-of-phis/91657#post_12)
-- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_31)
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_40)
-- [[RFC] Lightweight Conformance Test Traceability for libc++](https://discourse.llvm.org/t/rfc-lightweight-conformance-test-traceability-for-libc/91468#post_5)
+- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=2#post_32)
+- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=2#post_31)
+- [LLVM Dev Meeting 2026 SelectionDAG Roundtable Notes](https://discourse.llvm.org/t/llvm-dev-meeting-2026-selectiondag-roundtable-notes/92726#post_1)
+- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675?page=2#post_22)
+- [LLVM Dev Meeting 2026 InstructionCost Roundtable Notes](https://discourse.llvm.org/t/llvm-dev-meeting-2026-instructioncost-roundtable-notes/92725#post_1)
 <!-- DISCOURSE-LLVM:END -->
