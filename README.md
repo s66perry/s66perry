@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] TableGen-generated legalizer rules — prototype on X86, looking for a reviewer](https://discourse.llvm.org/t/rfc-tablegen-generated-legalizer-rules-prototype-on-x86-looking-for-a-reviewer/92654#post_13)
-- [[RFC] Clearly define the meaning of ViewLikeOpInterface](https://discourse.llvm.org/t/rfc-clearly-define-the-meaning-of-viewlikeopinterface/92702#post_2)
-- [LLVM Vulkan 1.1: Drop-in middle-end passes &lpar;GVN, CSE, CFG, DCE&rpar; using Vulkan compute](https://discourse.llvm.org/t/llvm-vulkan-1-1-drop-in-middle-end-passes-gvn-cse-cfg-dce-using-vulkan-compute/92714#post_2)
-- [Settings for lldb&#39;s DataFileCache, as I add new things in there](https://discourse.llvm.org/t/settings-for-lldbs-datafilecache-as-i-add-new-things-in-there/92701#post_7)
-- [LLVM 23.1.5 Released!](https://discourse.llvm.org/t/llvm-23-1-5-released/92716#post_1)
+- [[RFC] Lightweight Conformance Test Traceability for libc++](https://discourse.llvm.org/t/rfc-lightweight-conformance-test-traceability-for-libc/91468#post_6)
+- [[RFC] Change MIR to use block arguments instead of phis](https://discourse.llvm.org/t/rfc-change-mir-to-use-block-arguments-instead-of-phis/91657#post_12)
+- [[RFC] [ThinLTO]: Multi-Thread Parallel Compilation for Large Modules](https://discourse.llvm.org/t/rfc-thinlto-multi-thread-parallel-compilation-for-large-modules/90877?page=2#post_31)
+- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=2#post_40)
+- [[RFC] Lightweight Conformance Test Traceability for libc++](https://discourse.llvm.org/t/rfc-lightweight-conformance-test-traceability-for-libc/91468#post_5)
 <!-- DISCOURSE-LLVM:END -->
