@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=2#post_32)
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=2#post_31)
-- [LLVM Dev Meeting 2026 SelectionDAG Roundtable Notes](https://discourse.llvm.org/t/llvm-dev-meeting-2026-selectiondag-roundtable-notes/92726#post_1)
-- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675?page=2#post_22)
-- [LLVM Dev Meeting 2026 InstructionCost Roundtable Notes](https://discourse.llvm.org/t/llvm-dev-meeting-2026-instructioncost-roundtable-notes/92725#post_1)
+- [Settings for lldb&#39;s DataFileCache, as I add new things in there](https://discourse.llvm.org/t/settings-for-lldbs-datafilecache-as-i-add-new-things-in-there/92701#post_8)
+- [[RFC][HLSL][SPIR-V] What should `SV_InstanceID`/`SV_VertexID` default to?](https://discourse.llvm.org/t/rfc-hlsl-spir-v-what-should-sv-instanceid-sv-vertexid-default-to/92447#post_5)
+- [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_2)
+- [Untangle static analyzer and SSAF tests](https://discourse.llvm.org/t/untangle-static-analyzer-and-ssaf-tests/91835#post_7)
+- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428#post_19)
 <!-- DISCOURSE-LLVM:END -->
