@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_11)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_10)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_9)
-- [[LLD, Mach-O] RFC: A Flexible Multipass Algorithm for Branch-Range Extension](https://discourse.llvm.org/t/lld-mach-o-rfc-a-flexible-multipass-algorithm-for-branch-range-extension/92527#post_9)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_8)
+- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428#post_20)
+- [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_4)
+- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_15)
+- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_14)
+- [[RFC][lldb-dap] DAP extension to support breakpoint locations](https://discourse.llvm.org/t/rfc-lldb-dap-dap-extension-to-support-breakpoint-locations/92693#post_7)
 <!-- DISCOURSE-LLVM:END -->
