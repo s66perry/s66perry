@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Embedded Toolchains Working Group call this Thursday, Nov 5](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-nov-5/92691#post_3)
-- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428?page=2#post_24)
-- [[RFC] an opt-in GNU ld-inspired layout and its performance on RISC-V](https://discourse.llvm.org/t/rfc-an-opt-in-gnu-ld-inspired-layout-and-its-performance-on-risc-v/92738#post_3)
-- [[RFC] an opt-in GNU ld-inspired layout and its performance on RISC-V](https://discourse.llvm.org/t/rfc-an-opt-in-gnu-ld-inspired-layout-and-its-performance-on-risc-v/92738#post_2)
-- [[Arcilator] E203 benchmark through circt-verilog](https://discourse.llvm.org/t/arcilator-e203-benchmark-through-circt-verilog/92685#post_4)
+- [[RFC] Put &quot;LLVM Loop Optimization Discussion&quot; on community calendar and avoid conflict](https://discourse.llvm.org/t/rfc-put-llvm-loop-optimization-discussion-on-community-calendar-and-avoid-conflict/90741#post_6)
+- [Sunsetting &quot;old&quot; LiveDebugValues / VarLocBasedLDV](https://discourse.llvm.org/t/sunsetting-old-livedebugvalues-varlocbasedldv/92705#post_4)
+- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428?page=2#post_25)
+- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675?page=2#post_29)
+- [[RFC] Allow commutative, involution, and idempotent to be conditional](https://discourse.llvm.org/t/rfc-allow-commutative-involution-and-idempotent-to-be-conditional/92739#post_2)
 <!-- DISCOURSE-LLVM:END -->
