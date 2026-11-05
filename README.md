@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428#post_20)
-- [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_4)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_15)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_14)
-- [[RFC][lldb-dap] DAP extension to support breakpoint locations](https://discourse.llvm.org/t/rfc-lldb-dap-dap-extension-to-support-breakpoint-locations/92693#post_7)
+- [LLVM Embedded Toolchains Working Group call this Thursday, Nov 5](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-call-this-thursday-nov-5/92691#post_3)
+- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428?page=2#post_24)
+- [[RFC] an opt-in GNU ld-inspired layout and its performance on RISC-V](https://discourse.llvm.org/t/rfc-an-opt-in-gnu-ld-inspired-layout-and-its-performance-on-risc-v/92738#post_3)
+- [[RFC] an opt-in GNU ld-inspired layout and its performance on RISC-V](https://discourse.llvm.org/t/rfc-an-opt-in-gnu-ld-inspired-layout-and-its-performance-on-risc-v/92738#post_2)
+- [[Arcilator] E203 benchmark through circt-verilog](https://discourse.llvm.org/t/arcilator-e203-benchmark-through-circt-verilog/92685#post_4)
 <!-- DISCOURSE-LLVM:END -->
