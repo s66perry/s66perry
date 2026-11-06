@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731#post_18)
-- [Fuzzing MLIR Infrastructure](https://discourse.llvm.org/t/fuzzing-mlir-infrastructure/84855#post_14)
-- [[RFC] Put &quot;LLVM Loop Optimization Discussion&quot; on community calendar and avoid conflict](https://discourse.llvm.org/t/rfc-put-llvm-loop-optimization-discussion-on-community-calendar-and-avoid-conflict/90741#post_6)
-- [Sunsetting &quot;old&quot; LiveDebugValues / VarLocBasedLDV](https://discourse.llvm.org/t/sunsetting-old-livedebugvalues-varlocbasedldv/92705#post_4)
-- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428?page=2#post_25)
+- [RFC: Standardization of reports&#39; sentence spacing](https://discourse.llvm.org/t/rfc-standardization-of-reports-sentence-spacing/92428?page=2#post_26)
+- [[RFC] Phasing out the `-Wno-unused-parameter` suppression when building](https://discourse.llvm.org/t/rfc-phasing-out-the-wno-unused-parameter-suppression-when-building/92744#post_6)
+- [[RFC] Upstreaming nanoMIPS support to LLVM](https://discourse.llvm.org/t/rfc-upstreaming-nanomips-support-to-llvm/91713?page=2#post_30)
+- [LLVM Embedded Toolchains Working Group sync up](https://discourse.llvm.org/t/llvm-embedded-toolchains-working-group-sync-up/63270?page=6#post_105)
+- [[RFC] Consistent denormal flushing during constant folding](https://discourse.llvm.org/t/rfc-consistent-denormal-flushing-during-constant-folding/92751#post_1)
 <!-- DISCOURSE-LLVM:END -->
