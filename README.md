@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Sunsetting &quot;old&quot; LiveDebugValues / VarLocBasedLDV](https://discourse.llvm.org/t/sunsetting-old-livedebugvalues-varlocbasedldv/92705#post_5)
+- [[RFC] Disallow index type in arith extended ops](https://discourse.llvm.org/t/rfc-disallow-index-type-in-arith-extended-ops/92674#post_9)
+- [[RFC] Disallow index type in arith extended ops](https://discourse.llvm.org/t/rfc-disallow-index-type-in-arith-extended-ops/92674#post_8)
 - [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=2#post_25)
 - [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_7)
-- [[RFC] [GSOC] Buffer Reuse Pass for Non-Overlapping Allocations After lower-deallocations](https://discourse.llvm.org/t/rfc-gsoc-buffer-reuse-pass-for-non-overlapping-allocations-after-lower-deallocations/89885?page=3#post_41)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=2#post_24)
-- [[RFC] Improving compact x86-64 compact unwind descriptors](https://discourse.llvm.org/t/rfc-improving-compact-x86-64-compact-unwind-descriptors/47471?page=3#post_51)
 <!-- DISCOURSE-LLVM:END -->
