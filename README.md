@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=3#post_50)
-- [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_11)
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=3#post_49)
-- [RFC: Contributor policy refresh](https://discourse.llvm.org/t/rfc-contributor-policy-refresh/91699?page=3#post_48)
-- [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_10)
+- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_8)
+- [Improving PR discoverability for aspiring reviewers](https://discourse.llvm.org/t/improving-pr-discoverability-for-aspiring-reviewers/91797#post_11)
+- [[RFC] Tree-wide audit of Pure / AlwaysSpeculatable ops with documented UB &lpar;and maybe a TableGen lint?&rpar;](https://discourse.llvm.org/t/rfc-tree-wide-audit-of-pure-alwaysspeculatable-ops-with-documented-ub-and-maybe-a-tablegen-lint/92649#post_13)
+- [[RFC] loop vectorization of &quot;compress store&quot;/&quot;expand load&quot; patterns](https://discourse.llvm.org/t/rfc-loop-vectorization-of-compress-store-expand-load-patterns/86442#post_14)
+- [Improving PR discoverability for aspiring reviewers](https://discourse.llvm.org/t/improving-pr-discoverability-for-aspiring-reviewers/91797#post_10)
 <!-- DISCOURSE-LLVM:END -->
