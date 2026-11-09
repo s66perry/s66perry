@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_8)
-- [Improving PR discoverability for aspiring reviewers](https://discourse.llvm.org/t/improving-pr-discoverability-for-aspiring-reviewers/91797#post_11)
-- [[RFC] Tree-wide audit of Pure / AlwaysSpeculatable ops with documented UB &lpar;and maybe a TableGen lint?&rpar;](https://discourse.llvm.org/t/rfc-tree-wide-audit-of-pure-alwaysspeculatable-ops-with-documented-ub-and-maybe-a-tablegen-lint/92649#post_13)
-- [[RFC] loop vectorization of &quot;compress store&quot;/&quot;expand load&quot; patterns](https://discourse.llvm.org/t/rfc-loop-vectorization-of-compress-store-expand-load-patterns/86442#post_14)
-- [Improving PR discoverability for aspiring reviewers](https://discourse.llvm.org/t/improving-pr-discoverability-for-aspiring-reviewers/91797#post_10)
+- [[RFC] An intrinsic to query enabled target features after inlining](https://discourse.llvm.org/t/rfc-an-intrinsic-to-query-enabled-target-features-after-inlining/92761#post_3)
+- [Untangle static analyzer and SSAF tests](https://discourse.llvm.org/t/untangle-static-analyzer-and-ssaf-tests/91835#post_8)
+- [[RFC] Consistent denormal flushing during constant folding](https://discourse.llvm.org/t/rfc-consistent-denormal-flushing-during-constant-folding/92751#post_2)
+- [Labelling new pull requests Internal server error](https://discourse.llvm.org/t/labelling-new-pull-requests-internal-server-error/92770#post_2)
+- [RFC: Flow-Sensitive Nullability](https://discourse.llvm.org/t/rfc-flow-sensitive-nullability/89042#post_15)
 <!-- DISCOURSE-LLVM:END -->
