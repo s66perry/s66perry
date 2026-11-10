@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=2#post_37)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=2#post_36)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=2#post_35)
-- [[RFC] An intrinsic to query enabled target features after inlining](https://discourse.llvm.org/t/rfc-an-intrinsic-to-query-enabled-target-features-after-inlining/92761#post_8)
-- [[RFC] An intrinsic to query enabled target features after inlining](https://discourse.llvm.org/t/rfc-an-intrinsic-to-query-enabled-target-features-after-inlining/92761#post_7)
+- [[RFC][mlir][Linalg][Vector] Fast-math flags on Linalg and Vector ops](https://discourse.llvm.org/t/rfc-mlir-linalg-vector-fast-math-flags-on-linalg-and-vector-ops/92764#post_3)
+- [[RFC][mlir][Linalg][Vector] Fast-math flags on Linalg and Vector ops](https://discourse.llvm.org/t/rfc-mlir-linalg-vector-fast-math-flags-on-linalg-and-vector-ops/92764#post_2)
+- [Interest in adding DIEnumerator and template parameter debug info to the LLVM dialect?](https://discourse.llvm.org/t/interest-in-adding-dienumerator-and-template-parameter-debug-info-to-the-llvm-dialect/92776#post_5)
+- [Untangle static analyzer and SSAF tests](https://discourse.llvm.org/t/untangle-static-analyzer-and-ssaf-tests/91835#post_10)
+- [Interest in adding DIEnumerator and template parameter debug info to the LLVM dialect?](https://discourse.llvm.org/t/interest-in-adding-dienumerator-and-template-parameter-debug-info-to-the-llvm-dialect/92776#post_4)
 <!-- DISCOURSE-LLVM:END -->
