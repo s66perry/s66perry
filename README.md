@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[libc] Under what circumstances can the number `0xc16912cd` be used as a regression test case?](https://discourse.llvm.org/t/libc-under-what-circumstances-can-the-number-0xc16912cd-be-used-as-a-regression-test-case/92791#post_1)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_24)
-- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_23)
-- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_11)
-- [[RFC] Consistent denormal flushing during constant folding](https://discourse.llvm.org/t/rfc-consistent-denormal-flushing-during-constant-folding/92751#post_12)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_11)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_10)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_9)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_8)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_7)
 <!-- DISCOURSE-LLVM:END -->
