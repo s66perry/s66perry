@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Dealing with false positive from bugprone-std-namespace-modification](https://discourse.llvm.org/t/rfc-dealing-with-false-positive-from-bugprone-std-namespace-modification/92757#post_6)
-- [[RFC] Overflow &lpar;goto&rpar; handler labels for OverflowBehaviorTypes](https://discourse.llvm.org/t/rfc-overflow-goto-handler-labels-for-overflowbehaviortypes/92614#post_10)
-- [RFC: Dealing with false positive from bugprone-std-namespace-modification](https://discourse.llvm.org/t/rfc-dealing-with-false-positive-from-bugprone-std-namespace-modification/92757#post_5)
-- [[RFC] Add -Xlinker=&lt;arg&gt; as an alias for -Xlinker &lt;arg&gt;](https://discourse.llvm.org/t/rfc-add-xlinker-arg-as-an-alias-for-xlinker-arg/92780#post_5)
-- [[RFC] Unify masking in the Vector dialect](https://discourse.llvm.org/t/rfc-unify-masking-in-the-vector-dialect/92675?page=2#post_31)
+- [[RFC] Proposing a major LNT update &lpar;LNT v5&rpar;](https://discourse.llvm.org/t/rfc-proposing-a-major-lnt-update-lnt-v5/91595#post_18)
+- [Starting a community Floating-Point Working Group](https://discourse.llvm.org/t/starting-a-community-floating-point-working-group/92783#post_4)
+- [Starting a community Floating-Point Working Group](https://discourse.llvm.org/t/starting-a-community-floating-point-working-group/92783#post_3)
+- [Graphite will be disabled ASAP](https://discourse.llvm.org/t/graphite-will-be-disabled-asap/92689#post_10)
+- [Starting a community Floating-Point Working Group](https://discourse.llvm.org/t/starting-a-community-floating-point-working-group/92783#post_2)
 <!-- DISCOURSE-LLVM:END -->
