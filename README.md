@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clarifying the boundaries of AI use for good first issues](https://discourse.llvm.org/t/clarifying-the-boundaries-of-ai-use-for-good-first-issues/92663#post_21)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=2#post_40)
-- [[RFC] Add a driver option to specify C library header directories](https://discourse.llvm.org/t/rfc-add-a-driver-option-to-specify-c-library-header-directories/92650#post_3)
-- [Interest in adding DIEnumerator and template parameter debug info to the LLVM dialect?](https://discourse.llvm.org/t/interest-in-adding-dienumerator-and-template-parameter-debug-info-to-the-llvm-dialect/92776#post_7)
-- [[RFC] Proposing a major LNT update &lpar;LNT v5&rpar;](https://discourse.llvm.org/t/rfc-proposing-a-major-lnt-update-lnt-v5/91595#post_18)
+- [[libc] Under what circumstances can the number `0xc16912cd` be used as a regression test case?](https://discourse.llvm.org/t/libc-under-what-circumstances-can-the-number-0xc16912cd-be-used-as-a-regression-test-case/92791#post_1)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_24)
+- [RFC: Add `finput-charset` Support to Clang](https://discourse.llvm.org/t/rfc-add-finput-charset-support-to-clang/91605?page=2#post_23)
+- [[RFC] Sanitizer instrumentation regions: re-enabling instrumentation inside noinstr functions](https://discourse.llvm.org/t/rfc-sanitizer-instrumentation-regions-re-enabling-instrumentation-inside-noinstr-functions/92623#post_11)
+- [[RFC] Consistent denormal flushing during constant folding](https://discourse.llvm.org/t/rfc-consistent-denormal-flushing-during-constant-folding/92751#post_12)
 <!-- DISCOURSE-LLVM:END -->
