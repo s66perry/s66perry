@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Seeking advice on reporting MLIR fuzzer findings and contributing fixes](https://discourse.llvm.org/t/seeking-advice-on-reporting-mlir-fuzzer-findings-and-contributing-fixes/92799#post_2)
-- [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_17)
-- [[RFC] An LLVM backend for Renesas RX, with Rust support](https://discourse.llvm.org/t/rfc-an-llvm-backend-for-renesas-rx-with-rust-support/92787#post_9)
-- [[RFC] An LLVM backend for Renesas RX, with Rust support](https://discourse.llvm.org/t/rfc-an-llvm-backend-for-renesas-rx-with-rust-support/92787#post_8)
-- [[RFC] An LLVM backend for Renesas RX, with Rust support](https://discourse.llvm.org/t/rfc-an-llvm-backend-for-renesas-rx-with-rust-support/92787#post_7)
+- [[RFC][Clang] Elementwise builtins for converting encoded floating point values](https://discourse.llvm.org/t/rfc-clang-elementwise-builtins-for-converting-encoded-floating-point-values/91644#post_9)
+- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_16)
+- [[RFC] SanitizerCoverage: Add `-fsanitize-coverage=trace-args,trace-ret`](https://discourse.llvm.org/t/rfc-sanitizercoverage-add-fsanitize-coverage-trace-args-trace-ret/91026#post_15)
+- [[RFC] make `dwim-print` use DIL more: detect overloaded operators and emulate operators in DIL](https://discourse.llvm.org/t/rfc-make-dwim-print-use-dil-more-detect-overloaded-operators-and-emulate-operators-in-dil/92643#post_4)
+- [Starting a community Floating-Point Working Group](https://discourse.llvm.org/t/starting-a-community-floating-point-working-group/92783#post_6)
 <!-- DISCOURSE-LLVM:END -->
