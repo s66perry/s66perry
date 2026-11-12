@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_11)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_10)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_9)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_8)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_7)
+- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=3#post_44)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_16)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_15)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_14)
+- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_13)
 <!-- DISCOURSE-LLVM:END -->
