@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=3#post_44)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_16)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_15)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_14)
-- [Limit rate of AI/bot-assisted issues creation without triage role](https://discourse.llvm.org/t/limit-rate-of-ai-bot-assisted-issues-creation-without-triage-role/92792#post_13)
+- [Seeking advice on reporting MLIR fuzzer findings and contributing fixes](https://discourse.llvm.org/t/seeking-advice-on-reporting-mlir-fuzzer-findings-and-contributing-fixes/92799#post_2)
+- [[RFC] New Checker to Clang Static Analyzer](https://discourse.llvm.org/t/rfc-new-checker-to-clang-static-analyzer/92732#post_17)
+- [[RFC] An LLVM backend for Renesas RX, with Rust support](https://discourse.llvm.org/t/rfc-an-llvm-backend-for-renesas-rx-with-rust-support/92787#post_9)
+- [[RFC] An LLVM backend for Renesas RX, with Rust support](https://discourse.llvm.org/t/rfc-an-llvm-backend-for-renesas-rx-with-rust-support/92787#post_8)
+- [[RFC] An LLVM backend for Renesas RX, with Rust support](https://discourse.llvm.org/t/rfc-an-llvm-backend-for-renesas-rx-with-rust-support/92787#post_7)
 <!-- DISCOURSE-LLVM:END -->
