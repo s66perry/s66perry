@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] make `dwim-print` use DIL more: detect overloaded operators and emulate operators in DIL](https://discourse.llvm.org/t/rfc-make-dwim-print-use-dil-more-detect-overloaded-operators-and-emulate-operators-in-dil/92643#post_8)
-- [RFC: tail_chaincc - A Maximum-Efficiency Tail Call Convention](https://discourse.llvm.org/t/rfc-tail-chaincc-a-maximum-efficiency-tail-call-convention/92661#post_7)
-- [[RFC] Removing index sharding from ODS in favour of Logical Sharding](https://discourse.llvm.org/t/rfc-removing-index-sharding-from-ods-in-favour-of-logical-sharding/92818#post_1)
-- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826?page=2#post_33)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=7#post_128)
+- [[RFC] Add -Xlinker=&lt;arg&gt; as an alias for -Xlinker &lt;arg&gt;](https://discourse.llvm.org/t/rfc-add-xlinker-arg-as-an-alias-for-xlinker-arg/92780#post_8)
+- [Guidance regarding finding proper reviewers](https://discourse.llvm.org/t/guidance-regarding-finding-proper-reviewers/92823#post_5)
+- [[RFC] Add -Xlinker=&lt;arg&gt; as an alias for -Xlinker &lt;arg&gt;](https://discourse.llvm.org/t/rfc-add-xlinker-arg-as-an-alias-for-xlinker-arg/92780#post_7)
+- [[RFC] Add -Xlinker=&lt;arg&gt; as an alias for -Xlinker &lt;arg&gt;](https://discourse.llvm.org/t/rfc-add-xlinker-arg-as-an-alias-for-xlinker-arg/92780#post_6)
+- [[RFC] make `dwim-print` use DIL more: detect overloaded operators and emulate operators in DIL](https://discourse.llvm.org/t/rfc-make-dwim-print-use-dil-more-detect-overloaded-operators-and-emulate-operators-in-dil/92643#post_9)
 <!-- DISCOURSE-LLVM:END -->
