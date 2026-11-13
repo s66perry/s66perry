@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: tail_chaincc - A Maximum-Efficiency Tail Call Convention](https://discourse.llvm.org/t/rfc-tail-chaincc-a-maximum-efficiency-tail-call-convention/92661#post_6)
-- [[RFC] Vectorize X86 `cvtss2si` / `cvttss2si` loops](https://discourse.llvm.org/t/rfc-vectorize-x86-cvtss2si-cvttss2si-loops/92758#post_3)
-- [[RFC] An LLVM backend for Renesas RX, with Rust support](https://discourse.llvm.org/t/rfc-an-llvm-backend-for-renesas-rx-with-rust-support/92787#post_11)
-- [Interest in adding DIEnumerator and template parameter debug info to the LLVM dialect?](https://discourse.llvm.org/t/interest-in-adding-dienumerator-and-template-parameter-debug-info-to-the-llvm-dialect/92776#post_10)
-- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=7#post_123)
+- [[RFC] make `dwim-print` use DIL more: detect overloaded operators and emulate operators in DIL](https://discourse.llvm.org/t/rfc-make-dwim-print-use-dil-more-detect-overloaded-operators-and-emulate-operators-in-dil/92643#post_8)
+- [RFC: tail_chaincc - A Maximum-Efficiency Tail Call Convention](https://discourse.llvm.org/t/rfc-tail-chaincc-a-maximum-efficiency-tail-call-convention/92661#post_7)
+- [[RFC] Removing index sharding from ODS in favour of Logical Sharding](https://discourse.llvm.org/t/rfc-removing-index-sharding-from-ods-in-favour-of-logical-sharding/92818#post_1)
+- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826?page=2#post_33)
+- [[RFC] Forbid AI-generated communication](https://discourse.llvm.org/t/rfc-forbid-ai-generated-communication/92414?page=7#post_128)
 <!-- DISCOURSE-LLVM:END -->
