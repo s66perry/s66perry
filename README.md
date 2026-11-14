@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Qualification WG sync-ups meeting minutes](https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-minutes/87148?page=3#post_41)
-- [Guidance regarding finding proper reviewers](https://discourse.llvm.org/t/guidance-regarding-finding-proper-reviewers/92823#post_11)
-- [[RFC][MLIR] Align CODEOWNERS with active reviewing](https://discourse.llvm.org/t/rfc-mlir-align-codeowners-with-active-reviewing/92830#post_1)
-- [Guidance regarding finding proper reviewers](https://discourse.llvm.org/t/guidance-regarding-finding-proper-reviewers/92823#post_10)
-- [Guidance on &quot;Not Observable&quot; Side Effect Modeling](https://discourse.llvm.org/t/guidance-on-not-observable-side-effect-modeling/92790#post_6)
+- [[RFC] An intrinsic to query enabled target features after inlining](https://discourse.llvm.org/t/rfc-an-intrinsic-to-query-enabled-target-features-after-inlining/92761#post_17)
+- [[RFC][AMDGPU] Performance-driven expansion of f32 atomic RMW on gfx12](https://discourse.llvm.org/t/rfc-amdgpu-performance-driven-expansion-of-f32-atomic-rmw-on-gfx12/92833#post_2)
+- [[RFC] Consistent denormal flushing during constant folding](https://discourse.llvm.org/t/rfc-consistent-denormal-flushing-during-constant-folding/92751#post_16)
+- [[RFC] An intrinsic to query enabled target features after inlining](https://discourse.llvm.org/t/rfc-an-intrinsic-to-query-enabled-target-features-after-inlining/92761#post_16)
+- [[RFC][MLIR] Align CODEOWNERS with active reviewing](https://discourse.llvm.org/t/rfc-mlir-align-codeowners-with-active-reviewing/92830#post_3)
 <!-- DISCOURSE-LLVM:END -->
