@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Add -Xlinker=&lt;arg&gt; as an alias for -Xlinker &lt;arg&gt;](https://discourse.llvm.org/t/rfc-add-xlinker-arg-as-an-alias-for-xlinker-arg/92780#post_8)
-- [Guidance regarding finding proper reviewers](https://discourse.llvm.org/t/guidance-regarding-finding-proper-reviewers/92823#post_5)
-- [[RFC] Add -Xlinker=&lt;arg&gt; as an alias for -Xlinker &lt;arg&gt;](https://discourse.llvm.org/t/rfc-add-xlinker-arg-as-an-alias-for-xlinker-arg/92780#post_7)
-- [[RFC] Add -Xlinker=&lt;arg&gt; as an alias for -Xlinker &lt;arg&gt;](https://discourse.llvm.org/t/rfc-add-xlinker-arg-as-an-alias-for-xlinker-arg/92780#post_6)
-- [[RFC] make `dwim-print` use DIL more: detect overloaded operators and emulate operators in DIL](https://discourse.llvm.org/t/rfc-make-dwim-print-use-dil-more-detect-overloaded-operators-and-emulate-operators-in-dil/92643#post_9)
+- [[RFC] Representing Fortran aliasing rules in LLVM IR: options and costs](https://discourse.llvm.org/t/rfc-representing-fortran-aliasing-rules-in-llvm-ir-options-and-costs/92828#post_1)
+- [[RFC] Host LLVM formal verification tools as part of LLVM project](https://discourse.llvm.org/t/rfc-host-llvm-formal-verification-tools-as-part-of-llvm-project/92824#post_4)
+- [Guidance regarding finding proper reviewers](https://discourse.llvm.org/t/guidance-regarding-finding-proper-reviewers/92823#post_8)
+- [Guidance regarding finding proper reviewers](https://discourse.llvm.org/t/guidance-regarding-finding-proper-reviewers/92823#post_7)
+- [[RFC][mlir][Linalg][Vector] Fast-math flags on Linalg and Vector ops](https://discourse.llvm.org/t/rfc-mlir-linalg-vector-fast-math-flags-on-linalg-and-vector-ops/92764#post_6)
 <!-- DISCOURSE-LLVM:END -->
