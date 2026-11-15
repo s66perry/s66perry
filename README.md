@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] Host LLVM formal verification tools as part of LLVM project](https://discourse.llvm.org/t/rfc-host-llvm-formal-verification-tools-as-part-of-llvm-project/92824#post_7)
+- [[RFC] Representing Fortran aliasing rules in LLVM IR: options and costs](https://discourse.llvm.org/t/rfc-representing-fortran-aliasing-rules-in-llvm-ir-options-and-costs/92828#post_3)
+- [Guidance regarding finding proper reviewers](https://discourse.llvm.org/t/guidance-regarding-finding-proper-reviewers/92823#post_12)
 - [[RFC][MLIR] Align CODEOWNERS with active reviewing](https://discourse.llvm.org/t/rfc-mlir-align-codeowners-with-active-reviewing/92830#post_4)
 - [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_1)
-- [[RFC] An intrinsic to query enabled target features after inlining](https://discourse.llvm.org/t/rfc-an-intrinsic-to-query-enabled-target-features-after-inlining/92761#post_17)
-- [[RFC][AMDGPU] Performance-driven expansion of f32 atomic RMW on gfx12](https://discourse.llvm.org/t/rfc-amdgpu-performance-driven-expansion-of-f32-atomic-rmw-on-gfx12/92833#post_2)
-- [[RFC] Consistent denormal flushing during constant folding](https://discourse.llvm.org/t/rfc-consistent-denormal-flushing-during-constant-folding/92751#post_16)
 <!-- DISCOURSE-LLVM:END -->
