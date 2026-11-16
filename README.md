@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Clarifying the boundaries of AI use for good first issues](https://discourse.llvm.org/t/clarifying-the-boundaries-of-ai-use-for-good-first-issues/92663?page=2#post_32)
-- [RFC: tail_chaincc - A Maximum-Efficiency Tail Call Convention](https://discourse.llvm.org/t/rfc-tail-chaincc-a-maximum-efficiency-tail-call-convention/92661#post_10)
-- [LLVM Dev Meeting 2026 InstructionCost Roundtable Notes](https://discourse.llvm.org/t/llvm-dev-meeting-2026-instructioncost-roundtable-notes/92725#post_2)
-- [[RFC] Determining the size of C-interoperable types](https://discourse.llvm.org/t/rfc-determining-the-size-of-c-interoperable-types/92841#post_1)
-- [[RFC] Host LLVM formal verification tools as part of LLVM project](https://discourse.llvm.org/t/rfc-host-llvm-formal-verification-tools-as-part-of-llvm-project/92824#post_9)
+- [[RFC] Extend update_cc_test_checks.py to support multi-IR tests](https://discourse.llvm.org/t/rfc-extend-update-cc-test-checks-py-to-support-multi-ir-tests/92839#post_9)
+- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_9)
+- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_18)
+- [LLVM Weekly - #671, November 9th 2026](https://discourse.llvm.org/t/llvm-weekly-671-november-9th-2026/92859#post_1)
+- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_17)
 <!-- DISCOURSE-LLVM:END -->
