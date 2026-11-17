@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Extend update_cc_test_checks.py to support multi-IR tests](https://discourse.llvm.org/t/rfc-extend-update-cc-test-checks-py-to-support-multi-ir-tests/92839#post_9)
-- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_9)
-- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_18)
-- [LLVM Weekly - #671, November 9th 2026](https://discourse.llvm.org/t/llvm-weekly-671-november-9th-2026/92859#post_1)
-- [[RFC] Vendor-Owned Pre-Merge Testing for LLVM PRs](https://discourse.llvm.org/t/rfc-vendor-owned-pre-merge-testing-for-llvm-prs/92624#post_17)
+- [RFC: Spatial Safety Mode for C++ &lpar;-fspatial-safety&rpar;](https://discourse.llvm.org/t/rfc-spatial-safety-mode-for-c-fspatial-safety/92577#post_8)
+- [[RFC] Representing Fortran aliasing rules in LLVM IR: options and costs](https://discourse.llvm.org/t/rfc-representing-fortran-aliasing-rules-in-llvm-ir-options-and-costs/92828#post_6)
+- [RFC: Spatial Safety Mode for C++ &lpar;-fspatial-safety&rpar;](https://discourse.llvm.org/t/rfc-spatial-safety-mode-for-c-fspatial-safety/92577#post_7)
+- [[RFC] dsymutil2: 10x as fast dsymutil](https://discourse.llvm.org/t/rfc-dsymutil2-10x-as-fast-dsymutil/92867#post_4)
+- [[RFC] dsymutil2: 10x as fast dsymutil](https://discourse.llvm.org/t/rfc-dsymutil2-10x-as-fast-dsymutil/92867#post_3)
 <!-- DISCOURSE-LLVM:END -->
