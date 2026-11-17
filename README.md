@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: Spatial Safety Mode for C++ &lpar;-fspatial-safety&rpar;](https://discourse.llvm.org/t/rfc-spatial-safety-mode-for-c-fspatial-safety/92577#post_8)
-- [[RFC] Representing Fortran aliasing rules in LLVM IR: options and costs](https://discourse.llvm.org/t/rfc-representing-fortran-aliasing-rules-in-llvm-ir-options-and-costs/92828#post_6)
-- [RFC: Spatial Safety Mode for C++ &lpar;-fspatial-safety&rpar;](https://discourse.llvm.org/t/rfc-spatial-safety-mode-for-c-fspatial-safety/92577#post_7)
-- [[RFC] dsymutil2: 10x as fast dsymutil](https://discourse.llvm.org/t/rfc-dsymutil2-10x-as-fast-dsymutil/92867#post_4)
-- [[RFC] dsymutil2: 10x as fast dsymutil](https://discourse.llvm.org/t/rfc-dsymutil2-10x-as-fast-dsymutil/92867#post_3)
+- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_11)
+- [RFC: Spatial Safety Mode for C++ &lpar;-fspatial-safety&rpar;](https://discourse.llvm.org/t/rfc-spatial-safety-mode-for-c-fspatial-safety/92577#post_9)
+- [Llvm-zorg migration to buildbot v4.3](https://discourse.llvm.org/t/llvm-zorg-migration-to-buildbot-v4-3/91077#post_2)
+- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_10)
+- [Starting a community Floating-Point Working Group](https://discourse.llvm.org/t/starting-a-community-floating-point-working-group/92783#post_11)
 <!-- DISCOURSE-LLVM:END -->
