@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] make `dwim-print` use DIL more: detect overloaded operators and emulate operators in DIL](https://discourse.llvm.org/t/rfc-make-dwim-print-use-dil-more-detect-overloaded-operators-and-emulate-operators-in-dil/92643#post_11)
-- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_9)
-- [Values of LLVM](https://discourse.llvm.org/t/values-of-llvm/92884#post_2)
-- [Values of LLVM](https://discourse.llvm.org/t/values-of-llvm/92884#post_1)
-- [[RFC] Communicating Array Extents to LLVM Using llvm.assume.chained](https://discourse.llvm.org/t/rfc-communicating-array-extents-to-llvm-using-llvm-assume-chained/92820#post_7)
+- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_11)
+- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_10)
+- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_12)
+- [Values of LLVM](https://discourse.llvm.org/t/values-of-llvm/92884#post_3)
+- [Clarifying the boundaries of AI use for good first issues](https://discourse.llvm.org/t/clarifying-the-boundaries-of-ai-use-for-good-first-issues/92663?page=3#post_54)
 <!-- DISCOURSE-LLVM:END -->
