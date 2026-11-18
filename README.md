@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_11)
-- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_10)
-- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_12)
-- [Values of LLVM](https://discourse.llvm.org/t/values-of-llvm/92884#post_3)
-- [Clarifying the boundaries of AI use for good first issues](https://discourse.llvm.org/t/clarifying-the-boundaries-of-ai-use-for-good-first-issues/92663?page=3#post_54)
+- [MLIR Step-Through: step through a pass pipeline in the browser, with diffs](https://discourse.llvm.org/t/mlir-step-through-step-through-a-pass-pipeline-in-the-browser-with-diffs/92868#post_3)
+- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_18)
+- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_5)
+- [[RFC] Add a device address sanitizer for GPUs &lpar;DASan&rpar;](https://discourse.llvm.org/t/rfc-add-a-device-address-sanitizer-for-gpus-dasan/92710#post_5)
+- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_17)
 <!-- DISCOURSE-LLVM:END -->
