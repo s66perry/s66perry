@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [MLIR Step-Through: step through a pass pipeline in the browser, with diffs](https://discourse.llvm.org/t/mlir-step-through-step-through-a-pass-pipeline-in-the-browser-with-diffs/92868#post_3)
-- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_18)
-- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_5)
-- [[RFC] Add a device address sanitizer for GPUs &lpar;DASan&rpar;](https://discourse.llvm.org/t/rfc-add-a-device-address-sanitizer-for-gpus-dasan/92710#post_5)
-- [[RFC] Reopen discussion on policy forbidding AI-generated communication](https://discourse.llvm.org/t/rfc-reopen-discussion-on-policy-forbidding-ai-generated-communication/92878#post_17)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_80)
+- [[RFC] Determining the size of C-interoperable types](https://discourse.llvm.org/t/rfc-determining-the-size-of-c-interoperable-types/92841#post_4)
+- [[GPU] Should async operations name an executor?](https://discourse.llvm.org/t/gpu-should-async-operations-name-an-executor/92901#post_1)
+- [[RFC] Determining the size of C-interoperable types](https://discourse.llvm.org/t/rfc-determining-the-size-of-c-interoperable-types/92841#post_3)
+- [[RFC] Add a device address sanitizer for GPUs &lpar;DASan&rpar;](https://discourse.llvm.org/t/rfc-add-a-device-address-sanitizer-for-gpus-dasan/92710#post_10)
 <!-- DISCOURSE-LLVM:END -->
