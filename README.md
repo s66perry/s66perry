@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Ideas dealing with huge variants](https://discourse.llvm.org/t/ideas-dealing-with-huge-variants/92874#post_7)
-- [[RFC] Determining the size of C-interoperable types](https://discourse.llvm.org/t/rfc-determining-the-size-of-c-interoperable-types/92841#post_5)
-- [Switch to script-based issues labeler](https://discourse.llvm.org/t/switch-to-script-based-issues-labeler/92902#post_1)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=4#post_80)
-- [[RFC] Determining the size of C-interoperable types](https://discourse.llvm.org/t/rfc-determining-the-size-of-c-interoperable-types/92841#post_4)
+- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_17)
+- [[RFC] Replace libxml2 with a small builtin XML parser in LLDB &lpar;and optionally LLVM&rpar;](https://discourse.llvm.org/t/rfc-replace-libxml2-with-a-small-builtin-xml-parser-in-lldb-and-optionally-llvm/92913#post_4)
+- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_16)
+- [[RFC] Replace libxml2 with a small builtin XML parser in LLDB &lpar;and optionally LLVM&rpar;](https://discourse.llvm.org/t/rfc-replace-libxml2-with-a-small-builtin-xml-parser-in-lldb-and-optionally-llvm/92913#post_3)
+- [[RFC] Replace libxml2 with a small builtin XML parser in LLDB &lpar;and optionally LLVM&rpar;](https://discourse.llvm.org/t/rfc-replace-libxml2-with-a-small-builtin-xml-parser-in-lldb-and-optionally-llvm/92913#post_2)
 <!-- DISCOURSE-LLVM:END -->
