@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Assembler and Inline Assembly Bugs Found by Fuzzing and Automated Testing](https://discourse.llvm.org/t/assembler-and-inline-assembly-bugs-found-by-fuzzing-and-automated-testing/92917#post_2)
-- [[RFC][mlir][Linalg][Vector] Fast-math flags on Linalg and Vector ops](https://discourse.llvm.org/t/rfc-mlir-linalg-vector-fast-math-flags-on-linalg-and-vector-ops/92764#post_13)
-- [LLVM ABI library support for AArch64](https://discourse.llvm.org/t/llvm-abi-library-support-for-aarch64/91777#post_9)
-- [[RFC][clang-tidy] Organize lit tests into per-check directories](https://discourse.llvm.org/t/rfc-clang-tidy-organize-lit-tests-into-per-check-directories/92918#post_1)
-- [[RFC][MLIR] Align CODEOWNERS with active reviewing](https://discourse.llvm.org/t/rfc-mlir-align-codeowners-with-active-reviewing/92830#post_19)
+- [RFC: BTF debug info for non-BPF ELF targets &lpar;-gbtf&rpar;](https://discourse.llvm.org/t/rfc-btf-debug-info-for-non-bpf-elf-targets-gbtf/92909#post_4)
+- [[RFC] Respecting freeze semantics in backends](https://discourse.llvm.org/t/rfc-respecting-freeze-semantics-in-backends/92408?page=2#post_25)
+- [Seeking advice on reporting ~100 MLIR bugs found by an automated testing tool](https://discourse.llvm.org/t/seeking-advice-on-reporting-100-mlir-bugs-found-by-an-automated-testing-tool/92920#post_1)
+- [[RFC] DWARF addresses for discarded, overridden weak, and ICF-folded definitions](https://discourse.llvm.org/t/rfc-dwarf-addresses-for-discarded-overridden-weak-and-icf-folded-definitions/92639#post_11)
+- [Classic flang call](https://discourse.llvm.org/t/classic-flang-call/92730#post_2)
 <!-- DISCOURSE-LLVM:END -->
