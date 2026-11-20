@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_17)
-- [[RFC] Replace libxml2 with a small builtin XML parser in LLDB &lpar;and optionally LLVM&rpar;](https://discourse.llvm.org/t/rfc-replace-libxml2-with-a-small-builtin-xml-parser-in-lldb-and-optionally-llvm/92913#post_4)
-- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_16)
-- [[RFC] Replace libxml2 with a small builtin XML parser in LLDB &lpar;and optionally LLVM&rpar;](https://discourse.llvm.org/t/rfc-replace-libxml2-with-a-small-builtin-xml-parser-in-lldb-and-optionally-llvm/92913#post_3)
-- [[RFC] Replace libxml2 with a small builtin XML parser in LLDB &lpar;and optionally LLVM&rpar;](https://discourse.llvm.org/t/rfc-replace-libxml2-with-a-small-builtin-xml-parser-in-lldb-and-optionally-llvm/92913#post_2)
+- [Assembler and Inline Assembly Bugs Found by Fuzzing and Automated Testing](https://discourse.llvm.org/t/assembler-and-inline-assembly-bugs-found-by-fuzzing-and-automated-testing/92917#post_2)
+- [[RFC][mlir][Linalg][Vector] Fast-math flags on Linalg and Vector ops](https://discourse.llvm.org/t/rfc-mlir-linalg-vector-fast-math-flags-on-linalg-and-vector-ops/92764#post_13)
+- [LLVM ABI library support for AArch64](https://discourse.llvm.org/t/llvm-abi-library-support-for-aarch64/91777#post_9)
+- [[RFC][clang-tidy] Organize lit tests into per-check directories](https://discourse.llvm.org/t/rfc-clang-tidy-organize-lit-tests-into-per-check-directories/92918#post_1)
+- [[RFC][MLIR] Align CODEOWNERS with active reviewing](https://discourse.llvm.org/t/rfc-mlir-align-codeowners-with-active-reviewing/92830#post_19)
 <!-- DISCOURSE-LLVM:END -->
