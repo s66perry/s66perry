@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [RFC: BTF debug info for non-BPF ELF targets &lpar;-gbtf&rpar;](https://discourse.llvm.org/t/rfc-btf-debug-info-for-non-bpf-elf-targets-gbtf/92909#post_4)
-- [[RFC] Respecting freeze semantics in backends](https://discourse.llvm.org/t/rfc-respecting-freeze-semantics-in-backends/92408?page=2#post_25)
-- [Seeking advice on reporting ~100 MLIR bugs found by an automated testing tool](https://discourse.llvm.org/t/seeking-advice-on-reporting-100-mlir-bugs-found-by-an-automated-testing-tool/92920#post_1)
-- [[RFC] DWARF addresses for discarded, overridden weak, and ICF-folded definitions](https://discourse.llvm.org/t/rfc-dwarf-addresses-for-discarded-overridden-weak-and-icf-folded-definitions/92639#post_11)
-- [Classic flang call](https://discourse.llvm.org/t/classic-flang-call/92730#post_2)
+- [`clear_padding` on AIX failing in BuildKite](https://discourse.llvm.org/t/clear-padding-on-aix-failing-in-buildkite/92928#post_1)
+- [[RFC] Proposal to add Nintendo target to Clang and LLVM](https://discourse.llvm.org/t/rfc-proposal-to-add-nintendo-target-to-clang-and-llvm/92585#post_19)
+- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=4#post_66)
+- [Fortnightly LLVM libc math library meeting](https://discourse.llvm.org/t/fortnightly-llvm-libc-math-library-meeting/89166?page=2#post_24)
+- [RFC: Global Variables in MLIR](https://discourse.llvm.org/t/rfc-global-variables-in-mlir/2076?page=2#post_22)
 <!-- DISCOURSE-LLVM:END -->
