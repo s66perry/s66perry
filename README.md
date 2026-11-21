@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Determining the size of C-interoperable types](https://discourse.llvm.org/t/rfc-determining-the-size-of-c-interoperable-types/92841#post_6)
-- [[RFC] Full unroll heuristic refinement](https://discourse.llvm.org/t/rfc-full-unroll-heuristic-refinement/92926#post_3)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=4#post_71)
-- [New alive2 compiler explorer instance](https://discourse.llvm.org/t/new-alive2-compiler-explorer-instance/92604#post_13)
-- [Choosing optimization passes for a custom frontend: balancing compile time vs. runtime gains](https://discourse.llvm.org/t/choosing-optimization-passes-for-a-custom-frontend-balancing-compile-time-vs-runtime-gains/92934#post_1)
+- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_5)
+- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826?page=2#post_35)
+- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_4)
+- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_3)
+- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_2)
 <!-- DISCOURSE-LLVM:END -->
