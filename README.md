@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_5)
-- [[RFC] Backward-compatible alias mechanism for removed/renamed clang-tidy checks](https://discourse.llvm.org/t/rfc-backward-compatible-alias-mechanism-for-removed-renamed-clang-tidy-checks/90826?page=2#post_35)
-- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_4)
-- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_3)
-- [[RFC] Use LLVM libc for constant folding of math library calls](https://discourse.llvm.org/t/rfc-use-llvm-libc-for-constant-folding-of-math-library-calls/92936#post_2)
+- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834?page=2#post_22)
+- [RFC: Add ExcludeMacroDefinitionRegex to clang-tidy](https://discourse.llvm.org/t/rfc-add-excludemacrodefinitionregex-to-clang-tidy/92939#post_1)
+- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834?page=2#post_21)
+- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_20)
+- [New alive2 compiler explorer instance](https://discourse.llvm.org/t/new-alive2-compiler-explorer-instance/92604#post_14)
 <!-- DISCOURSE-LLVM:END -->
