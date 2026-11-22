@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_20)
-- [[RFC][LTO] Make hosts responsible for loading plugins](https://discourse.llvm.org/t/rfc-lto-make-hosts-responsible-for-loading-plugins/92892#post_2)
-- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834?page=2#post_22)
-- [RFC: Add ExcludeMacroDefinitionRegex to clang-tidy](https://discourse.llvm.org/t/rfc-add-excludemacrodefinitionregex-to-clang-tidy/92939#post_1)
-- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834?page=2#post_21)
+- [LLM made my process of learning the llvm-project source code slightly painful](https://discourse.llvm.org/t/llm-made-my-process-of-learning-the-llvm-project-source-code-slightly-painful/92937#post_2)
+- [Choosing optimization passes for a custom frontend: balancing compile time vs. runtime gains](https://discourse.llvm.org/t/choosing-optimization-passes-for-a-custom-frontend-balancing-compile-time-vs-runtime-gains/92934#post_2)
+- [[RFC][RegAllocGreedy] Repairing missed copy hints in late hint recoloring](https://discourse.llvm.org/t/rfc-regallocgreedy-repairing-missed-copy-hints-in-late-hint-recoloring/92767#post_5)
+- [[RFC] uClibc-ng support](https://discourse.llvm.org/t/rfc-uclibc-ng-support/92940#post_1)
+- [Optimising event-handler dispatch in LLVM](https://discourse.llvm.org/t/optimising-event-handler-dispatch-in-llvm/92925#post_2)
 <!-- DISCOURSE-LLVM:END -->
