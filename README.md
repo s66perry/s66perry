@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [Can&#39; compile LLVM-20.1.0 with Xcode 27](https://discourse.llvm.org/t/can-compile-llvm-20-1-0-with-xcode-27/92855#post_2)
+- [[RFC][MATHVEC] Introduce the LLVM&#39;s mathvec library as yet another veclib functions provider](https://discourse.llvm.org/t/rfc-mathvec-introduce-the-llvms-mathvec-library-as-yet-another-veclib-functions-provider/92591#post_9)
+- [[RFC] Embeddable LLVM tool drivers for long-lived hosts](https://discourse.llvm.org/t/rfc-embeddable-llvm-tool-drivers-for-long-lived-hosts/91754?page=2#post_28)
+- [[RFC] Communicating Array Extents to LLVM Using llvm.assume.chained](https://discourse.llvm.org/t/rfc-communicating-array-extents-to-llvm-using-llvm-assume-chained/92820#post_12)
 - [LLM made my process of learning the llvm-project source code slightly painful](https://discourse.llvm.org/t/llm-made-my-process-of-learning-the-llvm-project-source-code-slightly-painful/92937#post_2)
-- [Choosing optimization passes for a custom frontend: balancing compile time vs. runtime gains](https://discourse.llvm.org/t/choosing-optimization-passes-for-a-custom-frontend-balancing-compile-time-vs-runtime-gains/92934#post_2)
-- [[RFC][RegAllocGreedy] Repairing missed copy hints in late hint recoloring](https://discourse.llvm.org/t/rfc-regallocgreedy-repairing-missed-copy-hints-in-late-hint-recoloring/92767#post_5)
-- [[RFC] uClibc-ng support](https://discourse.llvm.org/t/rfc-uclibc-ng-support/92940#post_1)
-- [Optimising event-handler dispatch in LLVM](https://discourse.llvm.org/t/optimising-event-handler-dispatch-in-llvm/92925#post_2)
 <!-- DISCOURSE-LLVM:END -->
