@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
+- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889#post_20)
+- [[RFC][LTO] Make hosts responsible for loading plugins](https://discourse.llvm.org/t/rfc-lto-make-hosts-responsible-for-loading-plugins/92892#post_2)
 - [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834?page=2#post_22)
 - [RFC: Add ExcludeMacroDefinitionRegex to clang-tidy](https://discourse.llvm.org/t/rfc-add-excludemacrodefinitionregex-to-clang-tidy/92939#post_1)
 - [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834?page=2#post_21)
-- [A New `ub.assume` Operation](https://discourse.llvm.org/t/a-new-ub-assume-operation/92834#post_20)
-- [New alive2 compiler explorer instance](https://discourse.llvm.org/t/new-alive2-compiler-explorer-instance/92604#post_14)
 <!-- DISCOURSE-LLVM:END -->
