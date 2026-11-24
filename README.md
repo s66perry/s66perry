@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [LLVM Weekly - #673, November 23rd 2026](https://discourse.llvm.org/t/llvm-weekly-673-november-23rd-2026/92953#post_1)
-- [[RFC] Bringing interactive MLIR compilation and execution to WebAssembly](https://discourse.llvm.org/t/rfc-bringing-interactive-mlir-compilation-and-execution-to-webassembly/91566#post_6)
-- [Seeking advice on reporting ~100 MLIR bugs found by an automated testing tool](https://discourse.llvm.org/t/seeking-advice-on-reporting-100-mlir-bugs-found-by-an-automated-testing-tool/92920#post_9)
-- [[RFC] Bringing interactive MLIR compilation and execution to WebAssembly](https://discourse.llvm.org/t/rfc-bringing-interactive-mlir-compilation-and-execution-to-webassembly/91566#post_5)
-- [[RFC] AI Policy strengthening around explainability](https://discourse.llvm.org/t/rfc-ai-policy-strengthening-around-explainability/92889?page=2#post_26)
+- [[RFC] Universal CFI](https://discourse.llvm.org/t/rfc-universal-cfi/92955#post_4)
+- [[RFC] Universal CFI](https://discourse.llvm.org/t/rfc-universal-cfi/92955#post_3)
+- [[RFC] Universal CFI](https://discourse.llvm.org/t/rfc-universal-cfi/92955#post_2)
+- [[RFC] StoreInstCombiner for msked integer stores](https://discourse.llvm.org/t/rfc-storeinstcombiner-for-msked-integer-stores/92956#post_1)
+- [[RFC] Declare optimization remark kinds in TableGen](https://discourse.llvm.org/t/rfc-declare-optimization-remark-kinds-in-tablegen/92869#post_5)
 <!-- DISCOURSE-LLVM:END -->
