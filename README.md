@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Universal CFI](https://discourse.llvm.org/t/rfc-universal-cfi/92955#post_14)
-- [[RFC] Make INLINEASM_BR a terminator again](https://discourse.llvm.org/t/rfc-make-inlineasm-br-a-terminator-again/92967#post_8)
-- [[RFC] Make INLINEASM_BR a terminator again](https://discourse.llvm.org/t/rfc-make-inlineasm-br-a-terminator-again/92967#post_7)
-- [[RFC] Make INLINEASM_BR a terminator again](https://discourse.llvm.org/t/rfc-make-inlineasm-br-a-terminator-again/92967#post_6)
-- [[RFC] Upgrade Python code formatter](https://discourse.llvm.org/t/rfc-upgrade-python-code-formatter/92966#post_2)
+- [[RFC] Guidelines for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-guidelines-for-fuzzer-generated-issues/82556#post_9)
+- [[RFC] Upgrade Python code formatter](https://discourse.llvm.org/t/rfc-upgrade-python-code-formatter/92966#post_4)
+- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=5#post_83)
+- [[LoopIdiom] Should loop-idiom skip memcpy formation when the trip count has upperbound?](https://discourse.llvm.org/t/loopidiom-should-loop-idiom-skip-memcpy-formation-when-the-trip-count-has-upperbound/92963#post_8)
+- [[RFC] Full unroll heuristic refinement](https://discourse.llvm.org/t/rfc-full-unroll-heuristic-refinement/92926#post_5)
 <!-- DISCOURSE-LLVM:END -->
