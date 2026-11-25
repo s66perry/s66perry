@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Guidelines for fuzzer-generated issues](https://discourse.llvm.org/t/rfc-guidelines-for-fuzzer-generated-issues/82556#post_9)
-- [[RFC] Upgrade Python code formatter](https://discourse.llvm.org/t/rfc-upgrade-python-code-formatter/92966#post_4)
-- [Monthly LLVM libc meeting](https://discourse.llvm.org/t/monthly-llvm-libc-meeting/74259?page=5#post_83)
-- [[LoopIdiom] Should loop-idiom skip memcpy formation when the trip count has upperbound?](https://discourse.llvm.org/t/loopidiom-should-loop-idiom-skip-memcpy-formation-when-the-trip-count-has-upperbound/92963#post_8)
-- [[RFC] Full unroll heuristic refinement](https://discourse.llvm.org/t/rfc-full-unroll-heuristic-refinement/92926#post_5)
+- [[RFC] Clarifying prerelease security scope for LLVM-libc](https://discourse.llvm.org/t/rfc-clarifying-prerelease-security-scope-for-llvm-libc/92977#post_3)
+- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=4#post_73)
+- [[RFC] LLVM AI tool policy: AGENTS.md](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-agents-md/91712?page=2#post_21)
+- [Best practices of using AI for LLVM development](https://discourse.llvm.org/t/best-practices-of-using-ai-for-llvm-development/92975#post_3)
+- [[PSA] Dialects can now auto-register Ops, please migrate them!](https://discourse.llvm.org/t/psa-dialects-can-now-auto-register-ops-please-migrate-them/92976#post_2)
 <!-- DISCOURSE-LLVM:END -->
