@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [[RFC] Clarifying prerelease security scope for LLVM-libc](https://discourse.llvm.org/t/rfc-clarifying-prerelease-security-scope-for-llvm-libc/92977#post_3)
-- [RFC: PR limits for non-committers](https://discourse.llvm.org/t/rfc-pr-limits-for-non-committers/92731?page=4#post_73)
-- [[RFC] LLVM AI tool policy: AGENTS.md](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-agents-md/91712?page=2#post_21)
-- [Best practices of using AI for LLVM development](https://discourse.llvm.org/t/best-practices-of-using-ai-for-llvm-development/92975#post_3)
-- [[PSA] Dialects can now auto-register Ops, please migrate them!](https://discourse.llvm.org/t/psa-dialects-can-now-auto-register-ops-please-migrate-them/92976#post_2)
+- [Seeking advice on reporting ~100 MLIR bugs found by an automated testing tool](https://discourse.llvm.org/t/seeking-advice-on-reporting-100-mlir-bugs-found-by-an-automated-testing-tool/92920#post_19)
+- [Seeking advice on reporting ~100 MLIR bugs found by an automated testing tool](https://discourse.llvm.org/t/seeking-advice-on-reporting-100-mlir-bugs-found-by-an-automated-testing-tool/92920#post_18)
+- [Seeking advice on reporting ~100 MLIR bugs found by an automated testing tool](https://discourse.llvm.org/t/seeking-advice-on-reporting-100-mlir-bugs-found-by-an-automated-testing-tool/92920#post_17)
+- [Values of LLVM](https://discourse.llvm.org/t/values-of-llvm/92884#post_16)
+- [Assembler and Inline Assembly Bugs Found by Fuzzing and Automated Testing](https://discourse.llvm.org/t/assembler-and-inline-assembly-bugs-found-by-fuzzing-and-automated-testing/92917#post_4)
 <!-- DISCOURSE-LLVM:END -->
