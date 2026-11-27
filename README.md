@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ### 📕 Latest LLVM Discourse Posts
 
 <!-- DISCOURSE-LLVM:START -->
-- [Stable MLIR text for library and kernel authors](https://discourse.llvm.org/t/stable-mlir-text-for-library-and-kernel-authors/92987#post_2)
-- [Suggestion to improve InstCombine PR review process](https://discourse.llvm.org/t/suggestion-to-improve-instcombine-pr-review-process/92873#post_2)
-- [Stable MLIR text for library and kernel authors](https://discourse.llvm.org/t/stable-mlir-text-for-library-and-kernel-authors/92987#post_1)
-- [[RFC] LLVM AI tool policy: AGENTS.md](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-agents-md/91712?page=2#post_23)
-- [[RFC] CVE coverage campaign](https://discourse.llvm.org/t/rfc-cve-coverage-campaign/92983#post_1)
+- [Control flow interfaces and parallelism](https://discourse.llvm.org/t/control-flow-interfaces-and-parallelism/92989#post_6)
+- [Control flow interfaces and parallelism](https://discourse.llvm.org/t/control-flow-interfaces-and-parallelism/92989#post_5)
+- [Claude Code is LLVM top weekly contributor](https://discourse.llvm.org/t/claude-code-is-llvm-top-weekly-contributor/92991#post_12)
+- [Claude Code is LLVM top weekly contributor](https://discourse.llvm.org/t/claude-code-is-llvm-top-weekly-contributor/92991#post_11)
+- [Claude Code is LLVM top weekly contributor](https://discourse.llvm.org/t/claude-code-is-llvm-top-weekly-contributor/92991#post_10)
 <!-- DISCOURSE-LLVM:END -->
